@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık","tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/National_Poultry_Improvement_Plan-_1981_directory_of_participants_handling_egg-type_and_meat-type_chickens_and_turkeys_%28IA_nationalpoultryi41unit%29.pdf/page1-960px-National_Poultry_Improvement_Plan-_1981_directory_of_participants_handling_egg-type_and_meat-type_chickens_and_turkeys_%28IA_nationalpoultryi41unit%29.pdf.jpg","alt":"Hamur Kümbeti","caption":"Hamur Kümbeti","credit":"National Poultry Improvement Plan- 1981 directory of participants handling egg-type and meat-type chickens and turkeys (IA nationalpoultryi41unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Modern_Review_Vol_41_%28Jan.-June_1927%29.djvu/page1-800px-The_Modern_Review_Vol_41_%28Jan.-June_1927%29.djvu.jpg","alt":"Hamur Kümbeti","caption":"Hamur Kümbeti","credit":"The Modern Review Vol 41 (Jan.-June 1927)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamur%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582841","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Hamur Kümbeti, Ağrı ili Hamur ilçesinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Hamur Kümbeti","Doğu Anadolu Bölgesi","Ağrı","Hamur","doğal güzellik","yeşil alan"]

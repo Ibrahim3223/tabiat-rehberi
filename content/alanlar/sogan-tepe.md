@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Soğan Tepe","caption":"Soğan Tepe","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Soğan Tepe","caption":"Soğan Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386446","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Kilis'te bulunan Soğan Tepe, coğrafi güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Soğan Tepe","Kilis","Güneydoğu Anadolu Bölgesi","coğrafi güzellik","tarihi geçmişi","turizm","doğa","gezilecek yerler"]

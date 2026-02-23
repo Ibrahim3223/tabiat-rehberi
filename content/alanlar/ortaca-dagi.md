@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf/page1-883px-Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf.jpg","alt":"Ortaca Dağı","caption":"Ortaca Dağı","credit":"Sport & travel, East and West (IA sporttraveleastw00selorich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Ortaca Dağı","caption":"Ortaca Dağı","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ortaca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31578410","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerini keşfedin, 1200 hektarlık yeşil cennet Ortaca Dağı"
 keywords: ["Ortaca Dağı","Denizli","Doğal Alan","Dağ","Yeşil Cennet","Turizm","Seyahat","Gezi","Doğa"]

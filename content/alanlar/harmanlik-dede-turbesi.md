@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["denize girme","doğa yürüyüşü","tarihçe gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Harmanlık Dede Türbesi","caption":"Harmanlık Dede Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Harmanlık Dede Türbesi","caption":"Harmanlık Dede Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harmanl%C4%B1k%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391516","tip":"genel"}]
 description: "Gemlik'in güzide plajlarından biri olan Harmanlık Dede Türbesi, Marmara Bölgesi'nin en çok tercih edilen noktalarından."
 keywords: ["Harmanlık Dede Türbesi","Gemlik","Bursa","Marmara Bölgesi","plaj","tarihçe","coğrafya","flora","fauna","ziyaret"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Doğa gözlemleri","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Necropolis_Glasguensis_-_with_observations_on_ancient_and_modern_tombs_and_sepulture_%28IA_b29347130%29.pdf/page1-960px-Necropolis_Glasguensis_-_with_observations_on_ancient_and_modern_tombs_and_sepulture_%28IA_b29347130%29.pdf.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Karacam 1","caption":"Bursa-Mustafakemalpaşa-Karacabey Karacam 1","credit":"Necropolis Glasguensis - with observations on ancient and modern tombs and sepulture (IA b29347130).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Uluda%C4%9F_National_Park_%28777%29.jpg/960px-Uluda%C4%9F_National_Park_%28777%29.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Karacam 1","caption":"Bursa-Mustafakemalpaşa-Karacabey Karacam 1","credit":"Uludağ National Park (777)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Karacabey%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227935","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide şehirlerinden Bursa'da yer alan milli park. 140 hektarlık yeşil alan."
 keywords: ["Bursa","Marmara Bölgesi","Milli Park","Doğa","Yeşil Alan","Turizm","Gezi","Doğa Seyahati"]

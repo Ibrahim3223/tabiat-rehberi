@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Dikmendede Tepe","caption":"Dikmendede Tepe","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Dikmendede Tepe","caption":"Dikmendede Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikmendede%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390450","tip":"genel"}]
 description: "Konya'da yer alan Dikmendede Tepe, İç Anadolu Bölgesi'nin doğal güzelliklerini sunar."
 keywords: ["Dikmendede Tepe","Konya","İç Anadolu Bölgesi","doğa","gezi","tepe","çevre","iklim","flora","fauna"]

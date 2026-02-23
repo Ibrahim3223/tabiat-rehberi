@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik manzara izleme","bitki ve hayvan gözlemi","tarih ve kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Kumbet Tepesi","caption":"Kumbet Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kumbet Tepesi","caption":"Kumbet Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumbet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389350","tip":"genel"}]
 description: "Mersin'in Akdeniz Bölgesi'nde yer alan Kumbet Tepesi, 140 hektarlık geniş bir alanı kaplar. Yaklaşık 200 futbol sahası büyüklüğünde olan bu yeşil alan, ziyaretçilerini doğal güzelliği ile büyüler."
 keywords: ["Kumbet Tepesi","Mersin","Akdeniz Bölgesi","doğal güzellik","yeşil alan","gezi","turizm","çevre","iklim"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wle-jury-report-2024-lores.pdf/page1-960px-Wle-jury-report-2024-lores.pdf.jpg","alt":"Niyazi Baba Kümbeti, Burdur","caption":"Niyazi Baba Kümbeti, Burdur","credit":"Wle-jury-report-2024-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Niyazi Baba Kümbeti, Burdur","caption":"Niyazi Baba Kümbeti, Burdur","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Niyazi%20Baba%20K%C3%BCmbeti%2C%20Burdur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582634","tip":"genel"}]
 description: "Yeşilova'da yer alan Niyazi Baba Kümbeti, Burdur'un tarihi ve kültürel zenginliklerini keşfetmek için ideal bir nokta."
 keywords: ["Niyazi Baba Kümbeti","Burdur","Yeşilova","tarih","kültür","gezi","turizm","Akdeniz Bölgesi","kümbet"]

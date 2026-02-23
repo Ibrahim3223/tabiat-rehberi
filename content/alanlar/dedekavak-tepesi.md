@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","manzara izleme","yerel yaşamı deneyimleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Dedekavak Tepesi","caption":"Dedekavak Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Dedekavak Tepesi","caption":"Dedekavak Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedekavak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389355","tip":"genel"}]
 description: "Mersin'in Akdeniz Bölgesi'nde yer alan Dedekavak Tepesi, tarihi ve doğal güzellikleri ile dikkat çekiyor"
 keywords: ["Mersin","Akdeniz Bölgesi","Dedekavak Tepesi","doğa","tarih","gezi","turizm","Mersin gezilecek yerler","Akdeniz Bölgesi turizm"]

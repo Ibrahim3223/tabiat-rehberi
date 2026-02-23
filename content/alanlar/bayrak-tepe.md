@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Travels_and_Researches_in_Asia_Minor%2C_Mesopotania%2C_Chaldea%2C_and_Armenia_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.41531%29.pdf/page1-612px-Travels_and_Researches_in_Asia_Minor%2C_Mesopotania%2C_Chaldea%2C_and_Armenia_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.41531%29.pdf.jpg","alt":"Bayrak Tepe","caption":"Bayrak Tepe","credit":"Travels and Researches in Asia Minor, Mesopotania, Chaldea, and Armenia (in Two Volumes, Vol.I) (IA dli.granth.41531).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Bayrak Tepe","caption":"Bayrak Tepe","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bayrak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31537004","tip":"genel"}]
 description: "Kilis'in en önemli doğal güzelliklerinden biri olan Bayrak Tepe, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Bayrak Tepe","Kilis","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Kilis Turistik Yerler","Dağ Turizmi"]

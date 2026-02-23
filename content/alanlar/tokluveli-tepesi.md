@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin zirvesine çıkarak manzaranın izlenmesi","Tepenin eteklerinde yer alan tarihi evleri ve camileri ziyaret etmek","Tepede doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New-Dark_Evangelist_1871-04-13-_Vol_42_Iss_15_%28IA_sim_evangelist-and-religious-review_1871-04-13_42_15%29.pdf/page1-960px-New-Dark_Evangelist_1871-04-13-_Vol_42_Iss_15_%28IA_sim_evangelist-and-religious-review_1871-04-13_42_15%29.pdf.jpg","alt":"Tokluveli Tepesi","caption":"Tokluveli Tepesi","credit":"New-Dark Evangelist 1871-04-13- Vol 42 Iss 15 (IA sim evangelist-and-religious-review 1871-04-13 42 15).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Tokluveli Tepesi","caption":"Tokluveli Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tokluveli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552548","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin. Tokluveli Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Tokluveli Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","doğa","tarih","tepe","gezi","turizm"]

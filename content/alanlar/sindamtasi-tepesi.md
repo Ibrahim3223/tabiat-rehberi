@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin zirvesine tırmanmak","Çevreyi panoramik olarak görmek","Bölgeyi gezmek","Doğal güzellikleri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Sindamtaşı Tepesi","caption":"Sindamtaşı Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Sindamtaşı Tepesi","caption":"Sindamtaşı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sindamta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387991","tip":"genel"}]
 description: "Tunceli'nin doğal güzelliklerini keşfedin. Sindamtaşı Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri."
 keywords: ["Sindamtaşı Tepesi","Tunceli","Doğu Anadolu Bölgesi","coğrafi nokta","doğa","gezi","turizm","tepe","dağ"]

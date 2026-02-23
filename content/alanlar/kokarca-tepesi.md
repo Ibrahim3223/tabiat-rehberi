@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg/960px-Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg","alt":"Kokarca Tepesi","caption":"Kokarca Tepesi","credit":"Stamp of Indonesia - 2018 - Colnect 800738 - Environmental Protection - Bamboo Forest.jpeg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kokarca Tepesi","caption":"Kokarca Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kokarca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389200","tip":"genel"}]
 description: "Çanakkale'nin görkemli doğal güzelliklerinden biri olan Kokarca Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar."
 keywords: ["Kokarca Tepesi","Çanakkale","Marmara Bölgesi","doğa","gezi","tepe","manzara","çevre","ekosistem"]

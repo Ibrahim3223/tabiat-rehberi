@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","kampçılık","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Hirpanoz Tepesi","caption":"Hirpanoz Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Hirpanoz Tepesi","caption":"Hirpanoz Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hirpanoz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548068","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Hirpanoz Tepesi, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Hirpanoz Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tarihçe","coğrafya","flora","fauna","ziyaret"]

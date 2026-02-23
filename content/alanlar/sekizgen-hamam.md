@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","rehberli turlar","fotoğraf çekimi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf/page1-633px-Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf.jpg","alt":"Sekizgen Hamam","caption":"Sekizgen Hamam","credit":"Letters from the Aegean (in Two Volumes, Vol.I) (IA dli.granth.36180).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Sekizgen Hamam","caption":"Sekizgen Hamam","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sekizgen%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738940","tip":"genel"}]
 description: "Pamukkale'nin gizli kalmış cenneti Sekizgen Hamam"
 keywords: ["Pamukkale","Sekizgen Hamam","Denizli","Ege Bölgesi","doğal alan","gezi","turizm","yerel kültür","tarihi mekan"]

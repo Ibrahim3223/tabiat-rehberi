@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flagship_-_USACE-p16021coll8-1708.pdf/page1-960px-Flagship_-_USACE-p16021coll8-1708.pdf.jpg","alt":"Aygar Dağı","caption":"Aygar Dağı","credit":"Flagship - USACE-p16021coll8-1708.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Aygar Dağı","caption":"Aygar Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aygar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581904","tip":"genel"}]
 description: "Çorum'da yer alan Aygar Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Aygar Dağı","Çorum","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Çorum Turistik Yerler","Dağcılık"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Kayak","Snowboard","Doğa Yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cumhuriyet_1937_mart_6.pdf/page1-960px-Cumhuriyet_1937_mart_6.pdf.jpg","alt":"Erzurum-Sarikamis-Karakurt Saricam","caption":"Erzurum-Sarikamis-Karakurt Saricam","credit":"Cumhuriyet 1937 mart 6.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cilingoz_National_Park_Beach.jpg/960px-Cilingoz_National_Park_Beach.jpg","alt":"Erzurum-Sarikamis-Karakurt Saricam","caption":"Erzurum-Sarikamis-Karakurt Saricam","credit":"Cilingoz National Park Beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Sarikamis-Karakurt%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227562","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Erzurum-Sarikamis-Karakurt Saricam milli parkı"
 keywords: ["Erzurum","Sarikamis","Karakurt","Saricam","Milli Park","Doğu Anadolu Bölgesi","Doğal Alan","Turizm"]

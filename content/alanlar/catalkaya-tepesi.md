@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mt._Trumbull_Wilderness%2C_Mt._Logan_Wilderness_-_wilderness_management_plan_%28IA_mttrumbullwilder8717unit%29.pdf/page1-960px-Mt._Trumbull_Wilderness%2C_Mt._Logan_Wilderness_-_wilderness_management_plan_%28IA_mttrumbullwilder8717unit%29.pdf.jpg","alt":"Çatalkaya Tepesi","caption":"Çatalkaya Tepesi","credit":"Mt. Trumbull Wilderness, Mt. Logan Wilderness - wilderness management plan (IA mttrumbullwilder8717unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çatalkaya Tepesi","caption":"Çatalkaya Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atalkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828579","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin, Çatalkaya Tepesi'nin büyüleyici manzaralarına tanık olun"
 keywords: ["Rize","Karadeniz Bölgesi","doğa","tepe","manzara","gezi","turizm","çevre","iklim"]

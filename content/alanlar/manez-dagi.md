@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_National_geographic_magazine_%28IA_nationalgeograp421922nati%29.pdf/page1-939px-The_National_geographic_magazine_%28IA_nationalgeograp421922nati%29.pdf.jpg","alt":"Manez Dağı","caption":"Manez Dağı","credit":"The National geographic magazine (IA nationalgeograp421922nati).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Manez Dağı","caption":"Manez Dağı","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manez%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511030","tip":"genel"}]
 description: "Adana'da bulunan Manez Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Manez Dağı","Adana","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Adana Turistik Yerler","Doğal Güzellikler"]

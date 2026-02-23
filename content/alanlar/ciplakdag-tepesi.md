@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Travels_in_the_Trans-caucasian_Provinces_of_Russia_-_Along_the_Southern_Shore_of_the_Lakes_of_Van_and_Urumiah%2C_in_the_Autumn_and_Winter_of_1837_%28IA_dli.granth.36634%29.pdf/page1-750px-thumbnail.pdf.jpg","alt":"Çıplakdağ Tepesi","caption":"Çıplakdağ Tepesi","credit":"Travels in the Trans-caucasian Provinces of Russia - Along the Southern Shore of the Lakes of Van and Urumiah, in the Autumn and Winter of 1837 (IA dli.granth.36634).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Çıplakdağ Tepesi","caption":"Çıplakdağ Tepesi","credit":"Armenia, Travels and Studies, Vol. 2","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1plakda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829264","tip":"genel"}]
 description: "Kars'ta bulunan Çıplakdağ Tepesi, Doğu Anadolu Bölgesi'nin doğal güzelliklerini sunar."
 keywords: ["Çıplakdağ Tepesi","Kars","Doğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotografı","Manzara izleme","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Turkish_influence_in_the_South_Caucasus_and_Levant-_the_consequences_for_NATO_and_the_EU_%28IA_turkishinfluence1094537733%29.pdf/page1-960px-Turkish_influence_in_the_South_Caucasus_and_Levant-_the_consequences_for_NATO_and_the_EU_%28IA_turkishinfluence1094537733%29.pdf.jpg","alt":"Nogay Tepesi","caption":"Nogay Tepesi","credit":"Turkish influence in the South Caucasus and Levant- the consequences for NATO and the EU (IA turkishinfluence1094537733).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Nogay Tepesi","caption":"Nogay Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nogay%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558324","tip":"genel"}]
 description: "Ankara'nın gözde doğal alanı Nogay Tepesi, İç Anadolu Bölgesi'nin güzide yerlerinden biri."
 keywords: ["Nogay Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","yerel","coğrafya"]

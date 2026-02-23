@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_war_in_eastern_Europe_%28IA_warineasterneuro00reed%29.pdf/page1-766px-The_war_in_eastern_Europe_%28IA_warineasterneuro00reed%29.pdf.jpg","alt":"Hayberi Dağı","caption":"Hayberi Dağı","credit":"The war in eastern Europe (IA warineasterneuro00reed).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Hayberi Dağı","caption":"Hayberi Dağı","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hayberi%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520935","tip":"genel"}]
 description: "Kilis'in doğal güzelliklerini keşfedin, 1200 hektarlık yeşil alan ve çeşitli flora ile Hayberi Dağı"
 keywords: ["Hayberi Dağı","Kilis","Doğa","Dağ","Yeşil Alan","Flora","Kilis Turizm","Doğa Sporları","Trekking"]

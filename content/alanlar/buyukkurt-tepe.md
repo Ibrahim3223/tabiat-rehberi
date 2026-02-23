@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_historicalsketch00step%29.pdf/page1-654px-Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_historicalsketch00step%29.pdf.jpg","alt":"Büyükkurt Tepe","caption":"Büyükkurt Tepe","credit":"Historical sketch of Armenia and the Armenians in ancient and modern times (IA historicalsketch00step).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Büyükkurt Tepe","caption":"Büyükkurt Tepe","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkkurt%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731388","tip":"genel"}]
 description: "Ağrı'da bulunan Büyükkurt Tepe, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Büyükkurt Tepe","Ağrı","Dağ","Doğa","Türkiye","Seyahat","Gezi","Turizm","Coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Explorations_in_Bible_lands_during_the_19th_century_%28IA_explorationsinbi00hilp%29.pdf/page1-918px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_explorationsinbi00hilp%29.pdf.jpg","alt":"Silivri Dağı","caption":"Silivri Dağı","credit":"Explorations in Bible lands during the 19th century (IA explorationsinbi00hilp).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Silivri Dağı","caption":"Silivri Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Silivri%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506612","tip":"genel"}]
 description: "Malatya'da yer alan Silivri Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri keşfedin."
 keywords: ["Silivri Dağı","Malatya","Dağ","Doğa","Turizm","Gezi","Malatya Turistik Yerler","Doğal Alanlar","Yeşil Cennet"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["plajda güneşlenmek","denize girmek","tarihi hamamı gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Animal_disease_thesaurus_%28IA_CAT80734093004%29.pdf/page1-858px-Animal_disease_thesaurus_%28IA_CAT80734093004%29.pdf.jpg","alt":"Yakup Çelebi Hamamı","caption":"Yakup Çelebi Hamamı","credit":"Animal disease thesaurus (IA CAT80734093004).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Yakup Çelebi Hamamı","caption":"Yakup Çelebi Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yakup%20%C3%87elebi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738659","tip":"genel"}]
 description: "Keles, Bursa'da yer alan tarihi hamam ve plaj alanı"
 keywords: ["Yakup Çelebi Hamamı","Keles","Bursa","Marmara Bölgesi","tarihi hamam","plaj"]

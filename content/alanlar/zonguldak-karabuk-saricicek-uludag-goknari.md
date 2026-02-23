@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Zonguldak-Karabuk-Saricicek Uludag Goknari","caption":"Zonguldak-Karabuk-Saricicek Uludag Goknari","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Zonguldak-Karabuk-Saricicek Uludag Goknari","caption":"Zonguldak-Karabuk-Saricicek Uludag Goknari","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Karabuk-Saricicek%20Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227293","tip":"genel"}]
 description: "Zonguldak'ta yer alan Zonguldak-Karabuk-Saricicek Uludag Goknari milli parkı, Karadeniz Bölgesi'nin güzelliklerini sunuyor."
 keywords: ["Zonguldak","Karabuk","Saricicek","Uludag","Goknari","milli park","Karadeniz Bölgesi","doğa","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_works_of_Mary_Russell_Mitford%2C_prose_and_verse%2C_viz_Our_village%2C_Belford_Regis%2C_Country_stories%2C_Finden%27s_tableaux%2C_Foscari%2C_Julian%2C_Rienzi%2C_Charles_the_First_%28IA_worksofmaryrusse00mitf%29.pdf/page1-806px-thumbnail.pdf.jpg","alt":"Sorgun Köyü Kaya","caption":"Sorgun Köyü Kaya","credit":"The works of Mary Russell Mitford, prose and verse, viz Our village, Belford Regis, Country stories, Finden's tableaux, Foscari, Julian, Rienzi, Charles the First (IA worksofmaryrusse00mitf).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Sorgun Köyü Kaya","caption":"Sorgun Köyü Kaya","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sorgun%20K%C3%B6y%C3%BC%20Kaya","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319771","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin, Sorgun Köyü Kaya jeoparkı 1200 hektarlık yeşil cenneti keşfedecekler için"
 keywords: ["Sorgun Köyü Kaya","Jeopark","Çorum","Doğal Alan","Yeşil Cennet","Turizm","Çorum Turistik Yerler","Jeolojik Özellikler","Kaya Formation"]

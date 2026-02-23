@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_life_of_Paul_of_Tarsus_%28IA_lifeofpauloftars00larr%29.pdf/page1-960px-The_life_of_Paul_of_Tarsus_%28IA_lifeofpauloftars00larr%29.pdf.jpg","alt":"Güllece Dağı","caption":"Güllece Dağı","credit":"The life of Paul of Tarsus (IA lifeofpauloftars00larr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Güllece Dağı","caption":"Güllece Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCllece%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873002","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin, Güllece Dağı'nda doğa ile baş başa kalın."
 keywords: ["Güllece Dağı","Adana","Dağ","Doğa","Turizm","Gezi","Türkiye","Coğrafya","Seyahat"]

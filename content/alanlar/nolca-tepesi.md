@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Medical_Heritage_Library_%28IA_b22027300%29.pdf/page1-733px-Medical_Heritage_Library_%28IA_b22027300%29.pdf.jpg","alt":"Nolca Tepesi","caption":"Nolca Tepesi","credit":"Medical Heritage Library (IA b22027300).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Nolca Tepesi","caption":"Nolca Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nolca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552389","tip":"genel"}]
 description: "Mardin'in tarihi güzelliği Nolca Tepesi, 140 hektarlık alana yayılmış bir doğal ve tarihi hazine"
 keywords: ["Mardin","Nolca Tepesi","tarihi güzellik","doğal alan","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","flora","fauna"]

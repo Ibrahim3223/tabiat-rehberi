@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","trekking","fotoğrafçılık","tarihi mekanları gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Some_experiences_of_a_New_Guinea_resident_magistrate_%28IA_someexperienceso00monc%29.pdf/page1-835px-Some_experiences_of_a_New_Guinea_resident_magistrate_%28IA_someexperienceso00monc%29.pdf.jpg","alt":"Sultanbey Türbesi","caption":"Sultanbey Türbesi","credit":"Some experiences of a New Guinea resident magistrate (IA someexperienceso00monc).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Sultanbey Türbesi","caption":"Sultanbey Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sultanbey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390710","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli kalmış güzelliklerinden biri olan Sultanbey Türbesi, Bolu ili sınırları içinde yer alıyor. Tarihi ve doğal güzelliği bir arada sunan bu mekan, ziyaretçilerini bekliyor."
 keywords: ["Sultanbey Türbesi","Bolu","Karadeniz Bölgesi","tarihi mekanlar","doğa güzellikleri","tarihi geçmişi","coğrafya","flora","fauna"]

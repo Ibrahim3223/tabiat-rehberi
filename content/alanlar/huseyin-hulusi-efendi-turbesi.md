@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları ziyaret etmek","doğa yürüyüşü yapmak","fotograf çekmek","dinî etkinliklere katılmak","yerel kültürü öğrenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf/page1-629px-Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf.jpg","alt":"Hüseyin Hulusi Efendi Türbesi","caption":"Hüseyin Hulusi Efendi Türbesi","credit":"Letters from the Aegean (IA lettersfromaegea01tenn).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Hüseyin Hulusi Efendi Türbesi","caption":"Hüseyin Hulusi Efendi Türbesi","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCseyin%20Hulusi%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390767","tip":"genel"}]
 description: "Denizli'nin Merkezefendi ilçesinde bulunan Hüseyin Hulusi Efendi Türbesi, tarihi ve doğal güzelliklerin birleştiği özel bir nokta."
 keywords: ["Hüseyin Hulusi Efendi Türbesi","Merkezefendi","Denizli","Ege Bölgesi","tarihi mekanlar","doğal güzellikler","türk kültürü","dini mekanlar","gezi noktaları"]

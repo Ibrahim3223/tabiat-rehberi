@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Ceviz Tepe","caption":"Ceviz Tepe","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Ceviz Tepe","caption":"Ceviz Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ceviz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388862","tip":"genel"}]
 description: "Kırklareli'nin doğal güzelliklerini keşfedin, Ceviz Tepe'nin büyülü atmosferinde doğayı hissedin"
 keywords: ["Kırklareli","Ceviz Tepe","Marmara Bölgesi","doğa","gezi","tepe","manzara"]

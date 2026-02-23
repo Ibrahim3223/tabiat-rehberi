@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf/page1-960px-Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf.jpg","alt":"Eşenköy Tümülüsü","caption":"Eşenköy Tümülüsü","credit":"Big dairy data to unravel effects of environmental, physiological and morphological factors on milk production of mountain-pastured Braunvieh cows.pdf","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Eşenköy Tümülüsü","caption":"Eşenköy Tümülüsü","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Fenk%C3%B6y%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728311","tip":"genel"}]
 description: "Marmara Bölgesi'nin gözde mekanlarından biri olan Eşenköy Tümülüsü, tarihin derinliklerine uzanan bir geçmişe sahiptir."
 keywords: ["Eşenköy Tümülüsü","Marmara Bölgesi","Bandırma","Balıkesir","tarih","kültür","doğa","gezi","turizm"]

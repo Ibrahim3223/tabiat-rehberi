@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Picnic","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf/page1-960px-FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf.jpg","alt":"Çınalıkoyak Tepesi","caption":"Çınalıkoyak Tepesi","credit":"FEDLINK - United States Federal Collection (IA keepingcurrentnd109453799).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Çınalıkoyak Tepesi","caption":"Çınalıkoyak Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1nal%C4%B1koyak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829160","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin. Çınalıkoyak Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri."
 keywords: ["Konya","İç Anadolu Bölgesi","Çınalıkoyak Tepesi","doğal güzellik","coğrafi nokta","gezi","turizm","doğa","tepe"]

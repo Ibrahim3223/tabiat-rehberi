@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","su sporları","piknik","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Tarihi Tekke Hamamı","caption":"Tarihi Tekke Hamamı","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Tarihi Tekke Hamamı","caption":"Tarihi Tekke Hamamı","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarihi%20Tekke%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738502","tip":"genel"}]
 description: "Tosya'da tarihi bir plaj olan Tarihi Tekke Hamamı, Karadeniz Bölgesi'nin gizli cennetlerinden biri."
 keywords: ["Tarihi Tekke Hamamı","Tosya","Kastamonu","Karadeniz Bölgesi","plaj","tarih","doğa","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Değirmencik Adası","caption":"Değirmencik Adası","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rabbit_Island_%28G%C3%BCm%C3%BCsl%C3%BCk%2C_Turkey%29.jpg/960px-Rabbit_Island_%28G%C3%BCm%C3%BCsl%C3%BCk%2C_Turkey%29.jpg","alt":"Değirmencik Adası","caption":"Değirmencik Adası","credit":"Rabbit Island (Gümüslük, Turkey)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/De%C4%9Firmencik%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49636573","tip":"genel"}]
 description: "Çanakkale'de bulunan Değirmencik Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Değirmencik Adası","Çanakkale","ada","doğa","tarih","gezi","seyahat","turizm","Çanakkale adaları"]

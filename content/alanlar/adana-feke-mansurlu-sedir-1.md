@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Gün boyu"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Campbell_Interurban_Press_1909-05-07_%28IA_cacblm_000179%29.pdf/page1-960px-Campbell_Interurban_Press_1909-05-07_%28IA_cacblm_000179%29.pdf.jpg","alt":"Adana-Feke-Mansurlu Sedir 1","caption":"Adana-Feke-Mansurlu Sedir 1","credit":"Campbell Interurban Press 1909-05-07 (IA cacblm 000179).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snow_on_the_Lake_Abant.jpg/960px-Snow_on_the_Lake_Abant.jpg","alt":"Adana-Feke-Mansurlu Sedir 1","caption":"Adana-Feke-Mansurlu Sedir 1","credit":"Snow on the Lake Abant","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Feke-Mansurlu%20Sedir%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227201","tip":"genel"}]
 description: "Adana'nın güzide milli parklarından biri olan Adana-Feke-Mansurlu Sedir 1, 140 hektarlık bir alan üzerinde kurulmuştur. Akdeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyondur."
 keywords: ["Adana","milli park","doğal alan","Akdeniz Bölgesi","Sedir","Feke","Mansurlu"]

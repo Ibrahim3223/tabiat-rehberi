@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapı gezmek","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf/page1-633px-Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf.jpg","alt":"Tabae Roma Hamamı","caption":"Tabae Roma Hamamı","credit":"Letters from the Aegean (in Two Volumes, Vol.I) (IA dli.granth.36180).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Tabae Roma Hamamı","caption":"Tabae Roma Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tabae%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739091","tip":"genel"}]
 description: "Denizli'nin Kale ilçesinde bulunan tarihi Roma Hamamı, 140 hektarlık alanıyla ziyaretçilerini bekliyor. Roma döneminden kalan bu tarihi yapı, Ege Bölgesi'nin önemli turistik merkezlerinden biri."
 keywords: ["Roma Hamamı","Kale","Denizli","Ege Bölgesi","tarihi yapı","turistik merkez","Roma dönemi","antik kent"]

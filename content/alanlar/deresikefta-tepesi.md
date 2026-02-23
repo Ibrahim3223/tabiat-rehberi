@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğal güzellikleri keşfetmek","tarihi eserleri gezmek","coğrafi özelliklerini öğrenmek","flora ve faunasını keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Dereşikefta Tepesi","caption":"Dereşikefta Tepesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Dereşikefta Tepesi","caption":"Dereşikefta Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dere%C5%9Fikefta%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552280","tip":"genel"}]
 description: "Mardin'in eşsiz doğal güzelliklerinden biri olan Dereşikefta Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Dereşikefta Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","tarihçe","flora","fauna"]

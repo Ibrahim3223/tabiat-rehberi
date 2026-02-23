@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî türbe gezisi","plaj","denize girme","güneşlenme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Terzizade Ahmet Efendi Türbesi","caption":"Terzizade Ahmet Efendi Türbesi","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Terzizade Ahmet Efendi Türbesi","caption":"Terzizade Ahmet Efendi Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Terzizade%20Ahmet%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391341","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde yer alan tarihi türbe ve plaj"
 keywords: ["Terzizade Ahmet Efendi Türbesi","Manisa","Şehzadeler","tarihi türbe","plaj","Ege Bölgesi","turistik yerler","kültür","tarih"]

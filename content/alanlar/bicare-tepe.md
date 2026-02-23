@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye tırmanmak","manzaranın tadını çıkarmak","bitki ve hayvan türlerini gözlemlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Foreign_agriculture_-weekly_magazine_of_the_United_States_Department_of_Agriculture%2C_Foreign_Agricultural_Service%2C_U.S._Department_of_Agriculture_%28IA_CAT10252662303%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Biçare Tepe","caption":"Biçare Tepe","credit":"Foreign agriculture -weekly magazine of the United States Department of Agriculture, Foreign Agricultural Service, U.S. Department of Agriculture (IA CAT10252662303).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blackwood%27s_Magazine_volume_033.djvu/page1-800px-Blackwood%27s_Magazine_volume_033.djvu.jpg","alt":"Biçare Tepe","caption":"Biçare Tepe","credit":"Blackwood's Magazine volume 033","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bi%C3%A7are%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32140121","tip":"genel"}]
 description: "Ağrı'da yer alan Biçare Tepe, ziyaretçilerini bekliyor. Doğu Anadolu Bölgesi'nin gizli cevheri."
 keywords: ["Biçare Tepe","Ağrı","Doğu Anadolu Bölgesi","tepe","doğa","gezi","tarih","coğrafya"]

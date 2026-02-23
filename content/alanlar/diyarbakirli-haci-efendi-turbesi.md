@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Yeşil alanda yürüyüş","Doğa keşfi","Bolu'nun tarihi geçmişi hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Taming_New_Guinea%3B_%28IA_tamingnewguinea00monc%29.pdf/page1-814px-Taming_New_Guinea%3B_%28IA_tamingnewguinea00monc%29.pdf.jpg","alt":"Diyarbakırlı Hacı Efendi Türbesi","caption":"Diyarbakırlı Hacı Efendi Türbesi","credit":"Taming New Guinea; (IA tamingnewguinea00monc).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Diyarbakırlı Hacı Efendi Türbesi","caption":"Diyarbakırlı Hacı Efendi Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diyarbak%C4%B1rl%C4%B1%20Hac%C4%B1%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390711","tip":"genel"}]
 description: "Bolu'nun merkezinde yer alan tarihi türbe ve çevresindeki yeşil alan"
 keywords: ["Diyarbakırlı Hacı Efendi Türbesi","Bolu","tarih","kültür","doğa","türbe","yeşil alan","gezi","tarihçe"]

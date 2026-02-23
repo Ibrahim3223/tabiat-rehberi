@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotografcilik","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Journal_Of_Travels_In_The_Seat_Of_War_-_During_The_Last_Two_Compaigns_Of_Russia_And_Turkey_%28IA_dli.granth.36407%29.pdf/page1-750px-Journal_Of_Travels_In_The_Seat_Of_War_-_During_The_Last_Two_Compaigns_Of_Russia_And_Turkey_%28IA_dli.granth.36407%29.pdf.jpg","alt":"Poyrazlık Tepe","caption":"Poyrazlık Tepe","credit":"Journal Of Travels In The Seat Of War - During The Last Two Compaigns Of Russia And Turkey (IA dli.granth.36407).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Poyrazlık Tepe","caption":"Poyrazlık Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Poyrazl%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386977","tip":"genel"}]
 description: "Tokat'ta bulunan Poyrazlık Tepe, doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Poyrazlık Tepe","Tokat","Dağ","Trekking","Doğa","Turizm","Tokat Turistik Yerler","Poyrazlık Tepe Trekking","Tokat Dağları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Proceedings_of_the_Symposium_on_the_Environmental_Consequences_of_Fire_and_Fuel_Management_in_Mediterranean_Ecosystems_-_August_1-5%2C_1977%2C_Palo_Alto%2C_California._-_%28IA_CAT78696401%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Tlos Büyük Hamam","caption":"Tlos Büyük Hamam","credit":"Proceedings of the Symposium on the Environmental Consequences of Fire and Fuel Management in Mediterranean Ecosystems - August 1-5, 1977, Palo Alto, California. - (IA CAT78696401).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Tlos Büyük Hamam","caption":"Tlos Büyük Hamam","credit":"Muğla - Dalyan - İztuzu Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tlos%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739134","tip":"genel"}]
 description: "Seydikemer'in tarihi ve doğal güzellikleri ile ünlü Tlos Büyük Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor."
 keywords: ["Tlos Büyük Hamam","Seydikemer","Muğla","Ege Bölgesi","tarih","doğa","yeşil alan","futbol sahası"]

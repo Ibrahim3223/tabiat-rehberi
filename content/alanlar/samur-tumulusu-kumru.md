@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","su sporları","plaj aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Victoria_Daily_Times_%281913-10-06%29_%28IA_victoriadailytimes19131006%29.pdf/page1-960px-Victoria_Daily_Times_%281913-10-06%29_%28IA_victoriadailytimes19131006%29.pdf.jpg","alt":"Samur Tümülüsü Kumru","caption":"Samur Tümülüsü Kumru","credit":"Victoria Daily Times (1913-10-06) (IA victoriadailytimes19131006).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Samur Tümülüsü Kumru","caption":"Samur Tümülüsü Kumru","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samur%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%20Kumru","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728402","tip":"genel"}]
 description: "Kumru'da yer alan Samur Tümülüsü Kumru, Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Samur Tümülüsü Kumru","Kumru","Ordu","Karadeniz Bölgesi","doğal güzellik","plaj","turizm"]

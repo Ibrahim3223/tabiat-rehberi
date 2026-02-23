@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara izleme","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Encyclopaedia_Biblica_map_of_Syria%2C_Mesopotamia%2C_Babylonia%2C_and_Assyria.jpg","alt":"Tuz Tepe manzarası","credit":"no idea - see source","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Tuz Tepe","caption":"Tuz Tepe","credit":"Tayalı (167037823)","license":"CC0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tuz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390623","tip":"genel"}]
 description: "Kırşehir'in doğal güzelliklerinin başında gelen Tuz Tepe, ziyaretçilerini büyülemektedir."

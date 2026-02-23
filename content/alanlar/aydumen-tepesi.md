@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyretme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/The_wilds_of_Patagonia%3B_a_narrative_of_the_Swedish_expedition_to_Patagonia%2C_Tierra_del_Fuego_and_the_Falkland_Islands_in_1907-1909_%28IA_ofpatagonia00skotwildsrich%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Aydümen Tepesi","caption":"Aydümen Tepesi","credit":"The wilds of Patagonia; a narrative of the Swedish expedition to Patagonia, Tierra del Fuego and the Falkland Islands in 1907-1909 (IA ofpatagonia00skotwildsrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Aydümen Tepesi","caption":"Aydümen Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayd%C3%BCmen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32131342","tip":"genel"}]
 description: "Bolu'nun güzide tepelerinden biri olan Aydümen Tepesi, Karadeniz Bölgesi'nin en çok ziyaret edilen yerlerinden biri"
 keywords: ["Aydümen Tepesi","Bolu","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]

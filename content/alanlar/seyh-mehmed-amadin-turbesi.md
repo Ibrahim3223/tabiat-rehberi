@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Travels_and_Researches_in_Asia_Minor%2C_Mesopotania%2C_Chaldea%2C_and_Armenia_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.41531%29.pdf/page1-612px-Travels_and_Researches_in_Asia_Minor%2C_Mesopotania%2C_Chaldea%2C_and_Armenia_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.41531%29.pdf.jpg","alt":"Şeyh Mehmed Amadin Türbesi","caption":"Şeyh Mehmed Amadin Türbesi","credit":"Travels and Researches in Asia Minor, Mesopotania, Chaldea, and Armenia (in Two Volumes, Vol.I) (IA dli.granth.41531).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Şeyh Mehmed Amadin Türbesi","caption":"Şeyh Mehmed Amadin Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Mehmed%20Amadin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390875","tip":"genel"}]
 description: "Kilis'te bulunan tarihi türbe ve plaj"
 keywords: ["Kilis","tarih","türbe","plaj","gezi","güneydoğu anadolu","kültür"]

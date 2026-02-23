@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aflatoxin_Elimination_Workshop_-_%28proceedings%29_%28IA_CAT11083246006%29.pdf/page1-960px-Aflatoxin_Elimination_Workshop_-_%28proceedings%29_%28IA_CAT11083246006%29.pdf.jpg","alt":"Peynirkaya Tepe","caption":"Peynirkaya Tepe","credit":"Aflatoxin Elimination Workshop - (proceedings) (IA CAT11083246006).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Peynirkaya Tepe","caption":"Peynirkaya Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Peynirkaya%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387863","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerinin başında gelen Peynirkaya Tepe, ziyaretçilerini büyülüyor."
 keywords: ["Peynirkaya Tepe","İzmir","Ege Bölgesi","doğa","tepe","gezi","yerel","tarihçe"]

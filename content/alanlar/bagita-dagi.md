@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_war_in_eastern_Europe_%28IA_cu31924027947252%29.pdf/page1-833px-The_war_in_eastern_Europe_%28IA_cu31924027947252%29.pdf.jpg","alt":"Bağıta Dağı","caption":"Bağıta Dağı","credit":"The war in eastern Europe (IA cu31924027947252).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Bağıta Dağı","caption":"Bağıta Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C4%9F%C4%B1ta%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31530991","tip":"genel"}]
 description: "Kilis'in doğal güzelliklerini keşfedin, Bağıta Dağı'nda doğa ile baş başa kalın."
 keywords: ["Bağıta Dağı","Kilis","Dağ","Doğa","Turizm","Kilis Turistik Yerler","Dağ Turizmi","Kilis Gezi Rehberi","Doğa Sporları"]

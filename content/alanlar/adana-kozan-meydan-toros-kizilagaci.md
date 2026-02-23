@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık","picnic","tarihî yerleri gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_danger_zone_of_Europe_-_changes_and_problems_in_the_Near_East_%28IA_dangerzoneofeuro00woodrich%29.pdf/page1-729px-The_danger_zone_of_Europe_-_changes_and_problems_in_the_Near_East_%28IA_dangerzoneofeuro00woodrich%29.pdf.jpg","alt":"Adana-Kozan-Meydan Toros Kizilagaci","caption":"Adana-Kozan-Meydan Toros Kizilagaci","credit":"The danger zone of Europe - changes and problems in the Near East (IA dangerzoneofeuro00woodrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cilingoz_National_Park_Beach_with_waves.jpg/960px-Cilingoz_National_Park_Beach_with_waves.jpg","alt":"Adana-Kozan-Meydan Toros Kizilagaci","caption":"Adana-Kozan-Meydan Toros Kizilagaci","credit":"Cilingoz National Park Beach with waves","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kozan-Meydan%20Toros%20Kizilagaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228460","tip":"genel"}]
 description: "Adana'nın Kozan ilçesinde yer alan milli park, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
 keywords: ["Adana","Kozan","Meydan","Toros","Kizilagaci","milli park","doğa","flora","fauna","gezi"]

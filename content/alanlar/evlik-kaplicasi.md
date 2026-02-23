@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["kaplıca suyu deneyimlemek","ormanda yürüyüş yapmak","yerel lezzetleri tadmak","çevre gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Foreign_agriculture_-weekly_magazine_of_the_United_States_Department_of_Agriculture%2C_Foreign_Agricultural_Service%2C_U.S._Department_of_Agriculture_%28IA_CAT10252662722%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Evlik Kaplıcası","caption":"Evlik Kaplıcası","credit":"Foreign agriculture -weekly magazine of the United States Department of Agriculture, Foreign Agricultural Service, U.S. Department of Agriculture (IA CAT10252662722).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Arif_solak_BanazHamambogazi1.jpg","alt":"Evlik Kaplıcası","caption":"Evlik Kaplıcası","credit":"Arif solak BanazHamambogazi1","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Evlik%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741908","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzellikleriyle çevrili termal kaynak"
 keywords: ["Evlik Kaplıcası","termal kaynak","Karadeniz Bölgesi","Çorum","kaplıca","sağlık turizmi","doğal güzellik","gezi rehberi","turizm"]

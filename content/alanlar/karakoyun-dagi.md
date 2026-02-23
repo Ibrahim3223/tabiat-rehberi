@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Investigation_of_the_changing_patterns_of_the_land_use_land_cover_over_Osogbo_and_its_environs.pdf/page1-960px-Investigation_of_the_changing_patterns_of_the_land_use_land_cover_over_Osogbo_and_its_environs.pdf.jpg","alt":"Karakoyun Dağı","caption":"Karakoyun Dağı","credit":"Investigation of the changing patterns of the land use land cover over Osogbo and its environs.pdf","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Karakoyun Dağı","caption":"Karakoyun Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakoyun%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31588206","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin, Karakoyun Dağı'nda doğa ile baş başa kalın."
 keywords: ["Karakoyun Dağı","Adana","Dağ","Doğa","Turizm","Gezi","Türkiye","Coğrafya","Seyahat"]

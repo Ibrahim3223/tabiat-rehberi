@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_land_of_the_Hittites%3B_an_account_of_recent_explorations_and_discoveries_in_Asia_Minor%2C_with_descriptions_of_the_Hittite_monuments_%28IA_cu31924028539736%29.pdf/page1-716px-The_land_of_the_Hittites%3B_an_account_of_recent_explorations_and_discoveries_in_Asia_Minor%2C_with_descriptions_of_the_Hittite_monuments_%28IA_cu31924028539736%29.pdf.jpg","alt":"Ozangediği Tepe","caption":"Ozangediği Tepe","credit":"The land of the Hittites; an account of recent explorations and discoveries in Asia Minor, with descriptions of the Hittite monuments (IA cu31924028539736).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Ozangediği Tepe","caption":"Ozangediği Tepe","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ozangedi%C4%9Fi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509105","tip":"genel"}]
 description: "Sivas'ta bulunan Ozangediği Tepe, doğal güzellikleri ve tarihi önemi ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Ozangediği Tepe","Sivas","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Coğrafya"]

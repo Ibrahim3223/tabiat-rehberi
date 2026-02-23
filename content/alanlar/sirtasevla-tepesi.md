@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf/page1-960px-Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf.jpg","alt":"Sırtaşevla Tepesi","caption":"Sırtaşevla Tepesi","credit":"Harper's New Monthly Magazine, Volume 46.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sırtaşevla Tepesi","caption":"Sırtaşevla Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1rta%C5%9Fevla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551048","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Mardin şehrinde yer alanhistoric bir tepe."
 keywords: ["Mardin","Sırtaşevla Tepesi","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","doğa","gezi","turizm"]

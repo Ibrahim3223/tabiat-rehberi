@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğal güzellikleri görmek","yürüyüş yapmak","fotoğraf çekmek","yerel kültürü deneyimlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Soğuksu Tepesi","caption":"Soğuksu Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Soğuksu Tepesi","caption":"Soğuksu Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fuksu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386950","tip":"genel"}]
 description: "Kırklareli'nin doğal güzelliklerinden biri olan Soğuksu Tepesi, Marmara Bölgesi'nde yer alır."
 keywords: ["Kırklareli","Marmara Bölgesi","Soğuksu Tepesi","doğal güzellik","tepe","gezi","turizm"]

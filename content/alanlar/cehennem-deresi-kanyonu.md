@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wle-jury-report-2024-lores.pdf/page1-960px-Wle-jury-report-2024-lores.pdf.jpg","alt":"Cehennem Deresi Kanyonu","caption":"Cehennem Deresi Kanyonu","credit":"Wle-jury-report-2024-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Cehennem Deresi Kanyonu","caption":"Cehennem Deresi Kanyonu","credit":"VallesMarinerisHuge","license":"Attribution"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cehennem%20Deresi%20Kanyonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49097008","tip":"genel"}]
 description: "Artvin'de bulunan Cehennem Deresi Kanyonu, doğal güzellikleri ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Cehennem Deresi Kanyonu","Artvin","kanyon","doğal güzellik","turizm","gezi","yürüyüş","doğa","macera","çevre"]

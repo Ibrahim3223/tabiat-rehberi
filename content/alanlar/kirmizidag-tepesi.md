@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Dağcılık","Doğa Yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Kırmızıdağ Tepesi","caption":"Kırmızıdağ Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kırmızıdağ Tepesi","caption":"Kırmızıdağ Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1da%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387959","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Kırmızıdağ Tepesi, Tunceli ilinin doğal güzelliklerini sunar."
 keywords: ["Kırmızıdağ Tepesi","Tunceli","Doğu Anadolu Bölgesi","Doğal Alanlar","Tunceli Gezilecek Yerler","Kırmızıdağ","Tepeler","Dağcılık","Doğa"]

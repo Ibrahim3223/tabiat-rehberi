@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf/page1-960px-War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf.jpg","alt":"Zorlu Adası","caption":"Zorlu Adası","credit":"War diary - German Naval Staff Operations Division (IA wardiarygermann301942germ).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Imbros_Tenedos_map_location_el.svg/960px-Imbros_Tenedos_map_location_el.svg.png","alt":"Zorlu Adası","caption":"Zorlu Adası","credit":"Imbros Tenedos map location el","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zorlu%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34788962","tip":"genel"}]
 description: "Çanakkale'nin güzide adalarından biri olan Zorlu Adası, 1200 hektarlık yeşil cenneti ve tarihi zenginlikleriyle ziyaretçilerini bekliyor."
 keywords: ["Zorlu Adası","Çanakkale","ada","turizm","gezi","tarih","doğa","yeşil","çevre","gezilecek yerler"]

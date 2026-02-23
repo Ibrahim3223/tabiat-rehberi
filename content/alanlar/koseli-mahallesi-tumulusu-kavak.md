@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî yapıları gezmek","bitki ve hayvan türlerini gözlemlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Köseli Mahallesi Tümülüsü Kavak","caption":"Köseli Mahallesi Tümülüsü Kavak","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Köseli Mahallesi Tümülüsü Kavak","caption":"Köseli Mahallesi Tümülüsü Kavak","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6seli%20Mahallesi%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%20Kavak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728394","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun iline bağlı Kavak'ta bulunan Köseli Mahallesi Tümülüsü Kavak, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Köseli Mahallesi","Tümülüsü Kavak","Kavak","Samsun","Karadeniz Bölgesi","yeşil alan","futbol sahası"]

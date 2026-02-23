@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa Yürüyüşü","Tepenin Zirvesine Çıkmak","Vadi Gezisi","Köyleri Gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Tecdin Tepesi","caption":"Tecdin Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Tecdin Tepesi","caption":"Tecdin Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tecdin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546922","tip":"genel"}]
 description: "Siirt ilinin doğal güzelliklerinden biri olan Tecdin Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Tecdin Tepesi","Siirt","Doğal Güzellik","Tepeler","Güneydoğu Anadolu Bölgesi","Turizm","Gezi","Doğa"]

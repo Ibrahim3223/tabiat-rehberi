@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi eserleri gezmek","doğa yürüyüşü","fotograf çekmek","mimari eserleri incelemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Nureddin Salih Kümbeti, Divriği","caption":"Nureddin Salih Kümbeti, Divriği","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu/page1-800px-The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu.jpg","alt":"Nureddin Salih Kümbeti, Divriği","caption":"Nureddin Salih Kümbeti, Divriği","credit":"The Modern Review Vol 37 (Jan.-June 1925)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nureddin%20Salih%20K%C3%BCmbeti%2C%20Divri%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582392","tip":"genel"}]
 description: "Sivas'ın Divriği ilçesinde yer alan Nureddin Salih Kümbeti, tarihi ve mimari özellikleri ile dikkat çekiyor."
 keywords: ["Nureddin Salih Kümbeti","Divriği","Sivas","tarihi mekanlar","mimari eserler","İç Anadolu Bölgesi","kültürel miras","tarihçe","coğrafya"]

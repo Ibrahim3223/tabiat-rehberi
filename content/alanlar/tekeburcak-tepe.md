@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kamp yapma","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf/page1-960px-Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf.jpg","alt":"Tekeburcak Tepe","caption":"Tekeburcak Tepe","credit":"Report of the Forest Service (IA CAT82764216021).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Tekeburcak Tepe","caption":"Tekeburcak Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekeburcak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390138","tip":"genel"}]
 description: "Antalya'nın tarihi ve doğal güzelliklerini keşfedin. Tekeburcak Tepe, Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Tekeburcak Tepe","Antalya","Akdeniz Bölgesi","doğa","tarih","gezi","turizm","coğrafya","flora","fauna"]

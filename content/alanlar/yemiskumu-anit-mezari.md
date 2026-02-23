@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihçe öğrenme","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Casualty_Returns_1937.pdf/page1-960px-Casualty_Returns_1937.pdf.jpg","alt":"Yemişkumu Anıt Mezarı","caption":"Yemişkumu Anıt Mezarı","credit":"Casualty Returns 1937.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Yemişkumu Anıt Mezarı","caption":"Yemişkumu Anıt Mezarı","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yemi%C5%9Fkumu%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728153","tip":"genel"}]
 description: "Erdemli'de bulunan tarihi plaj ve anıt mezar"
 keywords: ["Yemişkumu Anıt Mezarı","Erdemli","Mersin","Akdeniz Bölgesi","tarih","plaj","anıt mezar","gezi"]

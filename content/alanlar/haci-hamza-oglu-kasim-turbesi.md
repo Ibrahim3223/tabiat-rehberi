@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Travels_In_Northern_Greece_In_4_Vols.Vol-4_%28IA_dli.granth.36460%29.pdf/page1-750px-Travels_In_Northern_Greece_In_4_Vols.Vol-4_%28IA_dli.granth.36460%29.pdf.jpg","alt":"Hacı Hamza Oğlu Kasım Türbesi","caption":"Hacı Hamza Oğlu Kasım Türbesi","credit":"Travels In Northern Greece In 4 Vols.Vol-4 (IA dli.granth.36460).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Hacı Hamza Oğlu Kasım Türbesi","caption":"Hacı Hamza Oğlu Kasım Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Hamza%20O%C4%9Flu%20Kas%C4%B1m%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390704","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Bolu'da, Hacı Hamza Oğlu Kasım Türbesi, tarihin sâu izlerini taşıyan bir mekan."
 keywords: ["Bolu","Karadeniz Bölgesi","Türbe","Tarih","Coğrafya","Flora","Fauna","Ziyaret","Gezi"]

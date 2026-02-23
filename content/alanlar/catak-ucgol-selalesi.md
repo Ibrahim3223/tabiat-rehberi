@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bitki türlerini incelemek","fauna ile karşılaşmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Travels_of_a_naturalist_in_Japan_and_Manchuria_%28IA_Travelsnaturali00Adam%29.pdf/page1-879px-Travels_of_a_naturalist_in_Japan_and_Manchuria_%28IA_Travelsnaturali00Adam%29.pdf.jpg","alt":"Çatak Üçgöl Şelalesi","caption":"Çatak Üçgöl Şelalesi","credit":"Travels of a naturalist in Japan and Manchuria (IA Travelsnaturali00Adam).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MOKM63.jpg/960px-MOKM63.jpg","alt":"Çatak Üçgöl Şelalesi","caption":"Çatak Üçgöl Şelalesi","credit":"MOKM63","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atak%20%C3%9C%C3%A7g%C3%B6l%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97213092","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerinden biri olan Çatak Üçgöl Şelalesi, ziyaretçilerini doğanın içerisine davet ediyor."
 keywords: ["Çatak Üçgöl Şelalesi","Rize","Karadeniz Bölgesi","doğal güzellik","şelale","gezi","turizm"]

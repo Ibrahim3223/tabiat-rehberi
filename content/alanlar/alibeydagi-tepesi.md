@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","yürüyüş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Alibeydağı Tepesi","caption":"Alibeydağı Tepesi","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Alibeydağı Tepesi","caption":"Alibeydağı Tepesi","credit":"Armenia, Travels and Studies, Vol. 1","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alibeyda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388317","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri olan Alibeydağı Tepesi, Kars'ın doğal güzelliklerini keşfetmek için ideal bir destinasyon"
 keywords: ["Kars","Doğu Anadolu Bölgesi","Alibeydağı Tepesi","doğal güzellik","tepe","gezi","keşif"]

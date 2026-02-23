@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla01burt_0%29.pdf/page1-841px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla01burt_0%29.pdf.jpg","alt":"Güneş Sığlığı","caption":"Güneş Sığlığı","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla01burt 0).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kapidag_Peninsula_and_adjacent_islands_%28cropped%29.tif/lossy-page1-800px-Kapidag_Peninsula_and_adjacent_islands_%28cropped%29.tif.jpg","alt":"Güneş Sığlığı","caption":"Güneş Sığlığı","credit":"Kapidag Peninsula and adjacent islands (cropped)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9F%20S%C4%B1%C4%9Fl%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34796093","tip":"genel"}]
 description: "Balıkesir'de yer alan Güneş Sığlığı, 1200 hektarlık yeşil cenneti ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Güneş Sığlığı","Balıkesir","Ada","Doğal Alan","Yeşil Cennet","Turizm","Sığlık","Güneş","Balıkesir Turistik Yerler","Doğa"]

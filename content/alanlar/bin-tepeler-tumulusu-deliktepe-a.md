@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf/page1-960px-The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü Deliktepe A","caption":"Bin Tepeler Tümülüsü Deliktepe A","credit":"The new international encyclopaedia ... (Vol. 15, MANI-MISSI) (IA newinternational15unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Bin Tepeler Tümülüsü Deliktepe A","caption":"Bin Tepeler Tümülüsü Deliktepe A","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%20Deliktepe%20A","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728381","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerini birleştiren Bin Tepeler Tümülüsü Deliktepe A, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Bin Tepeler","Tümülüsü","Deliktepe A","Ege Bölgesi","Salihli","Manisa","tarih","doğa","gezi"]

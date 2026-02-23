@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Koşapınar Tepesi","caption":"Koşapınar Tepesi","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Koşapınar Tepesi","caption":"Koşapınar Tepesi","credit":"Armenia, Travels and Studies, Vol. 2","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C5%9Fap%C4%B1nar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389026","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli güzelliği Koşapınar Tepesi, doğa severler için bir cennet"
 keywords: ["Koşapınar Tepesi","Doğu Anadolu Bölgesi","Bingöl","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

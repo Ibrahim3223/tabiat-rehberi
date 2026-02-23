@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wle-jury-report-2024-lores.pdf/page1-960px-Wle-jury-report-2024-lores.pdf.jpg","alt":"Gechut Dash","caption":"Gechut Dash","credit":"Wle-jury-report-2024-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Gechut Dash","caption":"Gechut Dash","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gechut%20Dash","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21210747","tip":"genel"}]
 description: "Artvin'de bulunan Gechut Dash, 1200 hektarlık yeşil cennet"
 keywords: ["Gechut Dash","Artvin","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Türkiye"]

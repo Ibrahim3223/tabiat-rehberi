@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Trekking"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Terry_-_a_tale_of_the_hill_people_%28IA_cu31924023989076%29.pdf/page1-668px-Terry_-_a_tale_of_the_hill_people_%28IA_cu31924023989076%29.pdf.jpg","alt":"Çarıkyırtan Tepesi","caption":"Çarıkyırtan Tepesi","credit":"Terry - a tale of the hill people (IA cu31924023989076).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Çarıkyırtan Tepesi","caption":"Çarıkyırtan Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ar%C4%B1ky%C4%B1rtan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824031","tip":"genel"}]
 description: "Van'ın doğal güzelliklerini keşfedin. Çarıkyırtan Tepesi, Doğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Van","Doğu Anadolu Bölgesi","Çarıkyırtan Tepesi","Doğal güzellikler","Tepeler","Coğrafya","Flora","Fauna","Ziyaret","Gezi"]

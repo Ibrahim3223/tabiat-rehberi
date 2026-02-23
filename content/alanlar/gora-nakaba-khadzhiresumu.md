@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf/page1-812px-On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf.jpg","alt":"Gora Nakaba-Khadzhiresumu","caption":"Gora Nakaba-Khadzhiresumu","credit":"On the fringe of the great fight (IA onfringeofgreatf00nasmrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Gora Nakaba-Khadzhiresumu","caption":"Gora Nakaba-Khadzhiresumu","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Nakaba-Khadzhiresumu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49032381","tip":"genel"}]
 description: "Batman'da yer alan Gora Nakaba-Khadzhiresumu, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Gora Nakaba-Khadzhiresumu","Batman","Dağ","Doğa","Seyahat","Gezi","Türkiye","Coğrafya","Dağcılık"]

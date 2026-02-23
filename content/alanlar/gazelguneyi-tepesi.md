@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Dağcılık","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Getty_Research_Institute_%28IA_landscapeillustr00horn%29.pdf/page1-960px-Getty_Research_Institute_%28IA_landscapeillustr00horn%29.pdf.jpg","alt":"Gazelgüneyi Tepesi","caption":"Gazelgüneyi Tepesi","credit":"Getty Research Institute (IA landscapeillustr00horn).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Gazelgüneyi Tepesi","caption":"Gazelgüneyi Tepesi","credit":"Armenia, Travels and Studies, Vol. 1","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazelg%C3%BCneyi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32209304","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Gazelgüneyi Tepesi, Kars'ın doğal güzelliklerini sunuyor."
 keywords: ["Gazelgüneyi Tepesi","Kars","Doğu Anadolu Bölgesi","Doğal güzellikler","Tepeler","Dağcılık","Yürüyüş rotaları","Doğa turizmi"]

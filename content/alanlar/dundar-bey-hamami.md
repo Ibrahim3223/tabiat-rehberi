@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf/page1-877px-Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf.jpg","alt":"Dündar Bey Hamamı","caption":"Dündar Bey Hamamı","credit":"Newsletter - International Working Group on Fire Blight Research, Plant Protection Commission (IA CAT89899594012).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Dündar Bey Hamamı","caption":"Dündar Bey Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCndar%20Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738767","tip":"genel"}]
 description: "Isparta'nın Eğirdir ilçesinde bulunan Dündar Bey Hamamı, tarihi ve doğal güzellikleri bir arada sunan bir destinasyon."
 keywords: ["Dündar Bey Hamamı","Eğirdir","Isparta","Akdeniz Bölgesi","tarih","doğa","gezi"]

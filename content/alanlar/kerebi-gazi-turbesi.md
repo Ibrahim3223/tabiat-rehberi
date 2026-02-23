@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi türbe ziyaretleri","doğa yürüyüşleri","karadeniz sahillerini keşfetmek","bölgenin kültürel etkinliklerine katılma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/The_peacock_at_home_-_and_other_poems_%28IA_peacockathomeoth00dors%29.pdf/page1-722px-The_peacock_at_home_-_and_other_poems_%28IA_peacockathomeoth00dors%29.pdf.jpg","alt":"Kerebi Gazi Türbesi","caption":"Kerebi Gazi Türbesi","credit":"The peacock at home - and other poems (IA peacockathomeoth00dors).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Kerebi Gazi Türbesi","caption":"Kerebi Gazi Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kerebi%20Gazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390509","tip":"genel"}]
 description: "Çorum'un Karadeniz kıyısında yer alan Kerebi Gazi Türbesi, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta."
 keywords: ["Kerebi Gazi Türbesi","Çorum","Karadeniz Bölgesi","tarihi mekanlar","doğal güzellikler","türk kültürü","gezi noktaları","Karadeniz sahilleri","tarihi türbeler"]

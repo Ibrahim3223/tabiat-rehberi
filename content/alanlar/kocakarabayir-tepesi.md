@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Engineering_in_Europe_-_USACE-p16021coll8-556.pdf/page1-960px-Engineering_in_Europe_-_USACE-p16021coll8-556.pdf.jpg","alt":"Kocakarabayır Tepesi","caption":"Kocakarabayır Tepesi","credit":"Engineering in Europe - USACE-p16021coll8-556.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kocakarabayır Tepesi","caption":"Kocakarabayır Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocakarabay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390002","tip":"genel"}]
 description: "Eskişehir'in doğal güzelliklerini keşfedin, Kocakarabayır Tepesi'nin eşsiz manzaraları"
 keywords: ["Kocakarabayır Tepesi","Eskişehir","Doğal Alan","Tepeler","İç Anadolu Bölgesi","Turistik Yerler","Coğrafya","Flora","Fauna"]

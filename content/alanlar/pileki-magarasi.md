@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Doğa yürüyüşü","Mağara keşfi","Fotoğrafçılık","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/H._Cannell_%26_Sons_materials_%28IA_HCannellSonsmat00HCanK%29.pdf/page1-960px-H._Cannell_%26_Sons_materials_%28IA_HCannellSonsmat00HCanK%29.pdf.jpg","alt":"Pileki Mağarası","caption":"Pileki Mağarası","credit":"H. Cannell & Sons materials (IA HCannellSonsmat00HCanK).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu/page1-800px-Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu.jpg","alt":"Pileki Mağarası","caption":"Pileki Mağarası","credit":"Islam, Turkey, and Armenia, and How They Happened","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pileki%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Rize'de yer alan Pileki Mağarası, Karadeniz Bölgesi'nin gizli güzelliklerinden biri"
 keywords: ["Pileki Mağarası","Rize","Karadeniz Bölgesi","Mağara","Doğa","Turizm","Gezi","Tarih"]

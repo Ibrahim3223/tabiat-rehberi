@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografçılık"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf/page1-960px-State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf.jpg","alt":"Ankara Frig Tümülüsü 13, Beştepe","caption":"Ankara Frig Tümülüsü 13, Beştepe","credit":"State August-September 1981- Iss 281 (IA sim state-magazine august-september-1981 281).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Ankara Frig Tümülüsü 13, Beştepe","caption":"Ankara Frig Tümülüsü 13, Beştepe","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2013%2C%20Be%C5%9Ftepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728277","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Ankara Frig Tümülüsü 13, Beştepe, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Frig Tümülüsü","Beştepe","tarih","doğa","gezi","turizm","Ankara'nın tarihi","doğal güzellikler"]

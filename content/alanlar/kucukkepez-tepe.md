@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeyi keşfetmek","bölgenin tarihi yapılarını ziyaret etmek","tepe etrafındaki yerleşim yerlerini keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Narrative_of_a_mission_to_Central_Africa_-_performed_in_the_years_1850-51_-_under_the_orders_and_at_the_expense_of_Her_Majesty%27s_government_%28IA_narrativeofmissi11853rich%29.pdf/page1-700px-thumbnail.pdf.jpg","alt":"Küçükkepez Tepe","caption":"Küçükkepez Tepe","credit":"Narrative of a mission to Central Africa - performed in the years 1850-51 - under the orders and at the expense of Her Majesty's government (IA narrativeofmissi11853rich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Küçükkepez Tepe","caption":"Küçükkepez Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkkepez%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211023","tip":"genel"}]
 description: "Karaman'da bulunan Küçükkepez Tepe, bölgenin tarihi ve doğal güzelliklerini keşfetmek için ideal bir yer."
 keywords: ["Küçükkepez Tepe","Karaman","İç Anadolu Bölgesi","tarih","doğa","gezi","tepe","coğrafya"]

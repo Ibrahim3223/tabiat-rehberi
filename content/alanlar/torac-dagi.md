@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/India%2C_pictorial_and_descriptive_%28IA_indiapictorialde00adamrich%29.pdf/page1-960px-India%2C_pictorial_and_descriptive_%28IA_indiapictorialde00adamrich%29.pdf.jpg","alt":"Toraç Dağı","caption":"Toraç Dağı","credit":"India, pictorial and descriptive (IA indiapictorialde00adamrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Toraç Dağı","caption":"Toraç Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tora%C3%A7%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34813602","tip":"genel"}]
 description: "Sivas'ta yer alan Toraç Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Toraç Dağı","Sivas","Dağ","Trekking","Doğa","Turizm","Sivas Turistik Yerler","Dağcılık","Kamp Alanları"]

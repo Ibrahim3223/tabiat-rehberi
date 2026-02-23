@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Scribner%27s_Magazine_Volume_15.pdf/page1-960px-Scribner%27s_Magazine_Volume_15.pdf.jpg","alt":"Ardıçlı Tepe","caption":"Ardıçlı Tepe","credit":"Scribner's Magazine Volume 15.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Ardıçlı Tepe","caption":"Ardıçlı Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ard%C4%B1%C3%A7l%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34833390","tip":"genel"}]
 description: "Osmaniye'de yer alan Ardıçlı Tepe, doğa severler için ideal bir dağ"
 keywords: ["Ardıçlı Tepe","Osmaniye","Dağ","Doğa","Türkiye","Seyahat","Gezi","Osmaniye Gezilecek Yerler","Dağcılık"]

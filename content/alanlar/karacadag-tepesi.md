@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 Saat"
 aktiviteler: ["Doğa Yürüyüşleri","Piknik","Panoramik Manzara Seyri","Geleneksel Köy Yaşamını Keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf/page1-731px-Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf.jpg","alt":"Karacadağ Tepesi","caption":"Karacadağ Tepesi","credit":"Journal of a Tour in Asia Minor, with Comparative Remarks on the Ancient and Modern Geography of that Country (IA dli.granth.36210).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Karacadağ Tepesi","caption":"Karacadağ Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karacada%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388118","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerinden biri olan Karacadağ Tepesi, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Karacadağ Tepesi","Denizli","Ege Bölgesi","doğa","tepe","yeşil alan"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf/page1-960px-Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf.jpg","alt":"Alağün Adası","caption":"Alağün Adası","credit":"Victoria Daily Times (1897-03-18) (IA victoriadailytimes18970318).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Turecko_-_panoramio_-_samsonet_dodo_%283%29.jpg/960px-Turecko_-_panoramio_-_samsonet_dodo_%283%29.jpg","alt":"Alağün Adası","caption":"Alağün Adası","credit":"Turecko - panoramio - samsonet dodo (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ala%C4%9F%C3%BCn%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49631554","tip":"genel"}]
 description: "Muğla'da bulunan Alağün Adası, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Alağün Adası","Muğla","ada","doğa","yeşil alan","gezi","seyahat","turizm","Muğla turistik yerler"]

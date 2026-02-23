@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Federal_Register_1953-07-04-_Vol_18_Iss_130_%28IA_sim_federal-register-find_1953-07-04_18_130%29.pdf/page1-960px-Federal_Register_1953-07-04-_Vol_18_Iss_130_%28IA_sim_federal-register-find_1953-07-04_18_130%29.pdf.jpg","alt":"Yanyanlı Gölü","caption":"Yanyanlı Gölü","credit":"Federal Register 1953-07-04- Vol 18 Iss 130 (IA sim federal-register-find 1953-07-04 18 130).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Bondhus_Norway_2862.jpg/960px-Lake_Bondhus_Norway_2862.jpg","alt":"Yanyanlı Gölü","caption":"Yanyanlı Gölü","credit":"Lake Bondhus Norway 2862","license":"FAL"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yanyanl%C4%B1%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49318654","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerinden biri olan Yanyanlı Gölü, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Yanyanlı Gölü","Kayseri","göl","doğa","turizm","gezi","yaban hayatı","orman","yeşil alan","Kayseri gezilecek yerler"]

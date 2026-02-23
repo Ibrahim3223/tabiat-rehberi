@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["dinlenme","eğlenme","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf/page1-960px-Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf.jpg","alt":"İsmet İnönü Lahdi","caption":"İsmet İnönü Lahdi","credit":"Peter and Nancy in Asia, (IA peternancyinasia00comf).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"İsmet İnönü Lahdi","caption":"İsmet İnönü Lahdi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0smet%20%C4%B0n%C3%B6n%C3%BC%20Lahdi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728099","tip":"genel"}]
 description: "Çankaya'nın en güzel plajlarından biri olan İsmet İnönü Lahdi, 140 hektarlık yeşil alanı ve tarihi geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["İsmet İnönü Lahdi","Çankaya","Ankara","İç Anadolu Bölgesi","plaj","yeşil alan","tarihi geçmişi"]

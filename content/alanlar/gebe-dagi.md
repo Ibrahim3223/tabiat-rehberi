@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 Saat"
 aktiviteler: ["Doğa Yürüyüşü","Bitki Türleri İnceleme","Hayvan İzlemesi","Manzara İzleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Gebe Dağı","caption":"Gebe Dağı","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Gebe Dağı","caption":"Gebe Dağı","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gebe%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386340","tip":"genel"}]
 description: "Kilis'te yer alan Gebe Dağı, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kilis","Güneydoğu Anadolu Bölgesi","Doğa","Gebe Dağı","Yeşil Alan","Fiziksel Veriler","Tarihçe"]

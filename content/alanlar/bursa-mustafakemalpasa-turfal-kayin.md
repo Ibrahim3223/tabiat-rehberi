@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Necropolis_Glasguensis_-_with_observations_on_ancient_and_modern_tombs_and_sepulture_%28IA_b29347130%29.pdf/page1-960px-Necropolis_Glasguensis_-_with_observations_on_ancient_and_modern_tombs_and_sepulture_%28IA_b29347130%29.pdf.jpg","alt":"Bursa-Mustafakemalpaşa-Turfal Kayin","caption":"Bursa-Mustafakemalpaşa-Turfal Kayin","credit":"Necropolis Glasguensis - with observations on ancient and modern tombs and sepulture (IA b29347130).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Bursa-Mustafakemalpaşa-Turfal Kayin","caption":"Bursa-Mustafakemalpaşa-Turfal Kayin","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Turfal%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227240","tip":"genel"}]
 description: "Marmara Bölgesi'nin yeşili, Bursa-Mustafakemalpaşa-Turfal Kayin milli parkı"
 keywords: ["Bursa","Mustafakemalpaşa","Turfal Kayin","milli park","Marmara Bölgesi","doğa","yeşil","gezi"]

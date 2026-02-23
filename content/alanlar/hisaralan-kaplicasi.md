@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","spa ve wellness uygulamaları","kültür turları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf/page1-960px-Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf.jpg","alt":"Hisaralan Kaplıcası","caption":"Hisaralan Kaplıcası","credit":"Big dairy data to unravel effects of environmental, physiological and morphological factors on milk production of mountain-pastured Braunvieh cows.pdf","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Arif_solak_BanazHamambogazi1.jpg","alt":"Hisaralan Kaplıcası","caption":"Hisaralan Kaplıcası","credit":"Arif solak BanazHamambogazi1","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hisaralan%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741928","tip":"genel"}]
 description: "Balıkesir'de termal ve sağlık turizmi merkezi"
 keywords: ["Hisaralan Kaplıcası","termal kaplıca","sağlık turizmi","Balıkesir","Marmara Bölgesi","kaplıca","termal kaynak"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Explorations_in_Bible_lands_during_the_19th_century_%28IA_explorationsinbi00hilp%29.pdf/page1-918px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_explorationsinbi00hilp%29.pdf.jpg","alt":"Aygörmez Dağı","caption":"Aygörmez Dağı","credit":"Explorations in Bible lands during the 19th century (IA explorationsinbi00hilp).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Aygörmez Dağı","caption":"Aygörmez Dağı","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayg%C3%B6rmez%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34833656","tip":"genel"}]
 description: "Malatya'da yer alan Aygörmez Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Aygörmez Dağı","Malatya","Dağ","Doğal Alan","Yeşil Cennet","Turizm","Gezi","Doğa","Malatya Turistik Yerler"]

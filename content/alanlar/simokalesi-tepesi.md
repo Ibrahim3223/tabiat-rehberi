@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf/page1-616px-Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf.jpg","alt":"Simokalesi Tepesi","caption":"Simokalesi Tepesi","credit":"Armenia and its sorrows (IA armeniaitssorrow00wint).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Simokalesi Tepesi","caption":"Simokalesi Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Simokalesi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387873","tip":"genel"}]
 description: "Kars'ta yer alan Simokalesi Tepesi, 140 hektarlık geniş yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar. Doğal güzelliği ve tarihi önemiyle dikkat çeker."
 keywords: ["Simokalesi Tepesi","Kars","Doğu Anadolu Bölgesi","doğal güzellik","tarihi alan","yeşil alan","fiziksel veriler","hikaye","coğrafya"]

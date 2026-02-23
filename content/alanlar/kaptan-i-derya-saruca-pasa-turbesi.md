@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Tarihi alanları keşfetmek","Doğa yürüyüşü","Yerel yemekleri denemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf/page1-960px-War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf.jpg","alt":"Kaptan-ı Derya Saruca Paşa Türbesi","caption":"Kaptan-ı Derya Saruca Paşa Türbesi","credit":"War diary - German Naval Staff Operations Division (IA wardiarygermann301942germ).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Kaptan-ı Derya Saruca Paşa Türbesi","caption":"Kaptan-ı Derya Saruca Paşa Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaptan-%C4%B1%20Derya%20Saruca%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391520","tip":"genel"}]
 description: "Gelibolu'nun tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Gelibolu","Çanakkale","Marmara Bölgesi","tarih","doğa","türbe","Saruca Paşa","Kaptan-ı Derya"]

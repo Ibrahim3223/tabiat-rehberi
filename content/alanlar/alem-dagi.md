@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Marine_Weather_Log_APRIL_2015.pdf/page1-960px-Marine_Weather_Log_APRIL_2015.pdf.jpg","alt":"Alem Dağı","caption":"Alem Dağı","credit":"Marine Weather Log APRIL 2015.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Alem Dağı","caption":"Alem Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alem%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571559","tip":"genel"}]
 description: "İstanbul'un doğal güzelliklerini keşfedin. Alem Dağı, şehrin merkezinde yer alan bir dağdır."
 keywords: ["Alem Dağı","İstanbul","Dağ","Doğa","Gezi","Seyahat","Türkiye","İstanbul Dağları","Turizm"]

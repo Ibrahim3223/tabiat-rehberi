@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/The_Lands_Of_The_Eastern_Caliphate_%28IA_landsoftheeaster028596mbp%29.pdf/page1-756px-The_Lands_Of_The_Eastern_Caliphate_%28IA_landsoftheeaster028596mbp%29.pdf.jpg","alt":"Gökada Adası","caption":"Gökada Adası","credit":"The Lands Of The Eastern Caliphate (IA landsoftheeaster028596mbp).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sunset_at_Sapl%C4%B1_Adas%C4%B1_-_Flickr_-_faktor1komma5.jpg/960px-Sunset_at_Sapl%C4%B1_Adas%C4%B1_-_Flickr_-_faktor1komma5.jpg","alt":"Gökada Adası","caption":"Gökada Adası","credit":"Sunset at Saplı Adası - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kada%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49640077","tip":"genel"}]
 description: "Aydın'ın güzide adalarından biri olan Gökada Adası, 1200 hektarlık yeşil cenneti ve tarihi güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Gökada Adası","Aydın Adaları","Ege Adaları","Türkiye Adaları","Aydın Turizm","Gökada Adası Turu","Ada Gezileri","Ege Bölgesi","Tarihî Yerler"]

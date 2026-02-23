@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rip_rap_-_USACE-p16021coll8-1223.pdf/page1-960px-Rip_rap_-_USACE-p16021coll8-1223.pdf.jpg","alt":"Hacı Dağı","caption":"Hacı Dağı","credit":"Rip rap - USACE-p16021coll8-1223.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Hacı Dağı","caption":"Hacı Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31521575","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Hacı Dağı'nda doğa yürüyüşü ve manzaraların keyfini çıkarın."
 keywords: ["Hacı Dağı","İzmir","Dağ","Doğa Yürüyüşü","Manzara","Turizm","İzmir Turistik Yerler","Dağcılık","Doğa"]

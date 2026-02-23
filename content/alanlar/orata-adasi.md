@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf/page1-960px-Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf.jpg","alt":"Orata Adası","caption":"Orata Adası","credit":"Victoria Daily Times (1897-03-18) (IA victoriadailytimes18970318).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/The_island_of_St._Nicholas_%28Santa_Claus%29_-_panoramio.jpg/960px-The_island_of_St._Nicholas_%28Santa_Claus%29_-_panoramio.jpg","alt":"Orata Adası","caption":"Orata Adası","credit":"The island of St. Nicholas (Santa Claus) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Orata%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49666278","tip":"genel"}]
 description: "Muğla'nın güzide adalarından biri olan Orata Adası, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Orata Adası","Muğla","ada","doğa","gezi","seyahat","turizm","Muğla adaları","Orata Adası gezilecek yerler"]

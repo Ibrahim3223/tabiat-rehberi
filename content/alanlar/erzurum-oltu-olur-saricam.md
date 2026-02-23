@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Doğa Gözlemi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Erzurum-Oltu-Olur Saricam","caption":"Erzurum-Oltu-Olur Saricam","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Erzurum-Oltu-Olur Saricam","caption":"Erzurum-Oltu-Olur Saricam","credit":"Akdag 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Oltu-Olur%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227692","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide milli parklarından biri olan Erzurum-Oltu-Olur Saricam, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Erzurum","Oltu","Olur","Saricam","Milli Park","Doğu Anadolu Bölgesi","Doğal Alan","Turizm","Gezi","Yaban Hayatı"]

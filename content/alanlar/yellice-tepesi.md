@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğrafçılık","doğa keşfi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/The_wilds_of_Patagonia%3B_a_narrative_of_the_Swedish_expedition_to_Patagonia%2C_Tierra_del_Fuego_and_the_Falkland_Islands_in_1907-1909_%28IA_ofpatagonia00skotwildsrich%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Yellice Tepesi","caption":"Yellice Tepesi","credit":"The wilds of Patagonia; a narrative of the Swedish expedition to Patagonia, Tierra del Fuego and the Falkland Islands in 1907-1909 (IA ofpatagonia00skotwildsrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Yellice Tepesi","caption":"Yellice Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yellice%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389790","tip":"genel"}]
 description: "Bolu'nun görkemli doğası, Karadeniz Bölgesi'nin saklı hazinelerinden biri olan Yellice Tepesi'ni keşfedin."
 keywords: ["Yellice Tepesi","Bolu","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","çevre","ekoloji"]

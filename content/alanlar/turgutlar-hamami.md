@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/A_Narrative_of_the_Siege_of_Kars_and_of_the_Six_Months_Resistance_by_the_Turkish_Garrison_under_General_Williams_to_the_Russia_Army_%28IA_dli.granth.70680%29.pdf/page1-643px-A_Narrative_of_the_Siege_of_Kars_and_of_the_Six_Months_Resistance_by_the_Turkish_Garrison_under_General_Williams_to_the_Russia_Army_%28IA_dli.granth.70680%29.pdf.jpg","alt":"Turgutlar Hamamı","caption":"Turgutlar Hamamı","credit":"A Narrative of the Siege of Kars and of the Six Months Resistance by the Turkish Garrison under General Williams to the Russia Army (IA dli.granth.70680).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Turgutlar Hamamı","caption":"Turgutlar Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turgutlar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738695","tip":"genel"}]
 description: "Sinop'un gizli cenneti Turgutlar Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Sinop","Turgutlar Hamamı","Karadeniz Bölgesi","yeşil alan","plaj","deniz","doğa"]

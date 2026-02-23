@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Tırmanma","Doğa Yürüyüşü","Fotoğrafçılık","Tarihi Yerleri Gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Erdağı Tepesi","caption":"Erdağı Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Erdağı Tepesi","caption":"Erdağı Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387177","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olan Erdağı Tepesi, Kars ilinin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Kars","Doğu Anadolu Bölgesi","Erdağı Tepesi","doğal güzellikler","gezi","tarihçe","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Güneşin batışını izlemek","Doğayı keşfetmek","Çeşitli bitki ve hayvan türleriyle karşılaşmak","Sulak alanları gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Güneysınır Ak Türbe","caption":"Güneysınır Ak Türbe","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Güneysınır Ak Türbe","caption":"Güneysınır Ak Türbe","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCneys%C4%B1n%C4%B1r%20Ak%20T%C3%BCrbe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582350","tip":"genel"}]
 description: "Güneysınır'da yer alan Ak Türbe, Konya'nın İç Anadolu Bölgesi'nde bulunan bir plajdır. 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir."
 keywords: ["Güneysınır","Ak Türbe","Konya","İç Anadolu Bölgesi","plaj","doğa","gezi","turizm","tatil"]

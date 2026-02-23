@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Flora ve fauna keşfi","Tarih ve kültür öğrenimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_fair_land_of_Central_America_%28IA_fairlandofcentra00waleiala%29.pdf/page1-787px-The_fair_land_of_Central_America_%28IA_fairlandofcentra00waleiala%29.pdf.jpg","alt":"Pir Sultan Abdal Türbesi","caption":"Pir Sultan Abdal Türbesi","credit":"The fair land of Central America (IA fairlandofcentra00waleiala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Pir Sultan Abdal Türbesi","caption":"Pir Sultan Abdal Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pir%20Sultan%20Abdal%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390944","tip":"genel"}]
 description: "Sivas'ın Yıldızeli ilçesinde bulunan Pir Sultan Abdal Türbesi, tarihin derinliklerinden gelen bir öyküye sahiptir."
 keywords: ["Pir Sultan Abdal","Türbe","Sivas","Yıldızeli","Tarih","Kültür","Coğrafya","Doğa","Ziyaret"]

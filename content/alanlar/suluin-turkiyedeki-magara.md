@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Suluin","caption":"Suluin","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Suluin","caption":"Suluin","credit":"A Geological Wonder in Nallıhan","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Suluin%20(T%C3%BCrkiye'deki%20ma%C4%9Fara)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319787","tip":"genel"}]
 description: "Mersin'de yer alan Suluin, 1200 hektarlık bir jeopark alanı sunar ve Türkiye'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Suluin","Mersin","Jeopark","Doğal Alan","Mağara","Türkiye","Turizm","Gezi","Doğa"]

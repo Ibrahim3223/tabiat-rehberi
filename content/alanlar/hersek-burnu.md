@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/U.S._Army_Corps_of_Engineers_%28Corps%29_Regulatory_Program_reissuance_and_issuance_of_nationwide_permits_with_Ohio_EPA_401_water_quality_certification_and_Ohio_Department_of_Natural_Resources_consis_..._-_USACE-p16021coll15-4572.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Hersek Burnu","caption":"Hersek Burnu","credit":"U.S. Army Corps of Engineers (Corps) Regulatory Program reissuance and issuance of nationwide permits with Ohio EPA 401 water quality certification and Ohio Department of Natural Resources consis ... - USACE-p16021coll15-4572.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abandoned_blue.jpg/960px-Abandoned_blue.jpg","alt":"Hersek Burnu","caption":"Hersek Burnu","credit":"Abandoned blue","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hersek%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q5744386","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Hersek Burnu, çeşitli kuş türlerine ev sahipliği yapıyor."
 keywords: ["Hersek Burnu","kuş cenneti","Türkiye","doğa","kuş gözlem","turizm","çevre","korunan alan","vahşi yaşam"]

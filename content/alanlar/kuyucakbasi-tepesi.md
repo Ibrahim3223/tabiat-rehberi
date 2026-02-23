@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Kuyucakbaşı Tepesi","caption":"Kuyucakbaşı Tepesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kuyucakbaşı Tepesi","caption":"Kuyucakbaşı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyucakba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385556","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide illerinden Malatya'da bulunan Kuyucakbaşı Tepesi, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu tepe, ziyaretçilerini doğal güzelliği ve tarihi zenginliğiyle karşılar."
 keywords: ["Kuyucakbaşı Tepesi","Malatya","Doğu Anadolu Bölgesi","doğal güzellik","tarihi zenginlik","tepe","gezi","turizm","Malatya gezilecek yerler","Doğu Anadolu Bölgesi turizm"]

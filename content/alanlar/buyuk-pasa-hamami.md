@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Gezi","Doğa Yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Büyük Paşa Hamamı","caption":"Büyük Paşa Hamamı","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Büyük Paşa Hamamı","caption":"Büyük Paşa Hamamı","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738470","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Şahinbey/Gaziantep'te yer alan Büyük Paşa Hamamı, şehrin tarihi ve doğası arasında keyifli bir kaçış noktası"
 keywords: ["Gaziantep","Şahinbey","Büyük Paşa Hamamı","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","plaj"]

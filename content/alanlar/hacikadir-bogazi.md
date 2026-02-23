@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Psyche_%28IA_psyche2010camb%29.pdf/page1-960px-Psyche_%28IA_psyche2010camb%29.pdf.jpg","alt":"Hacıkadir Boğazı","caption":"Hacıkadir Boğazı","credit":"Psyche (IA psyche2010camb).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Turkey_Run_Gorge.JPG","alt":"Hacıkadir Boğazı","caption":"Hacıkadir Boğazı","credit":"Turkey Run Gorge","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1kadir%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49342924","tip":"genel"}]
 description: "Afyonkarahisar'da yer alan Hacıkadir Boğazı, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir kanyon"
 keywords: ["Hacıkadir Boğazı","Afyonkarahisar","Kanyon","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

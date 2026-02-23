@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe öğrenmek","Doğa yürüyüşü","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf/page1-960px-State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf.jpg","alt":"Sakarya 12. Grup Şehitliği","caption":"Sakarya 12. Grup Şehitliği","credit":"State August-September 1981- Iss 281 (IA sim state-magazine august-september-1981 281).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Sakarya 12. Grup Şehitliği","caption":"Sakarya 12. Grup Şehitliği","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya%2012.%20Grup%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728256","tip":"genel"}]
 description: "Ankara'nın Polatlı ilçesinde yer alan Sakarya 12. Grup Şehitliği, tarih ve doğanın birleştiği özel bir alan."
 keywords: ["Sakarya 12. Grup Şehitliği","Polatlı","Ankara","İç Anadolu Bölgesi","Tarih","Doğa","Şehitlik"]

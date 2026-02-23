@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarihî alanları gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Campbell_Interurban_Press_1909-05-07_%28IA_cacblm_000179%29.pdf/page1-960px-Campbell_Interurban_Press_1909-05-07_%28IA_cacblm_000179%29.pdf.jpg","alt":"Adana-Pos-Akören- Kızılçam","caption":"Adana-Pos-Akören- Kızılçam","credit":"Campbell Interurban Press 1909-05-07 (IA cacblm 000179).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Adana-Pos-Akören- Kızılçam","caption":"Adana-Pos-Akören- Kızılçam","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pos-Ak%C3%B6ren-%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228426","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin, Pos-Akören-Kızılçam milli parkı"
 keywords: ["Adana","milli park","doğa","gezi","turizm","Kızılçam","Pos","Akören"]

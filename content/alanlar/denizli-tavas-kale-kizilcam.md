@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","çevre keşfi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf/page1-731px-Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf.jpg","alt":"Denizli-Tavas-Kale Kızılçam","caption":"Denizli-Tavas-Kale Kızılçam","credit":"Journal of a Tour in Asia Minor, with Comparative Remarks on the Ancient and Modern Geography of that Country (IA dli.granth.36210).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cilingoz_National_Park_Beach.jpg/960px-Cilingoz_National_Park_Beach.jpg","alt":"Denizli-Tavas-Kale Kızılçam","caption":"Denizli-Tavas-Kale Kızılçam","credit":"Cilingoz National Park Beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Tavas-Kale%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227416","tip":"genel"}]
 description: "Ege Bölgesi'nin doğa harikalarından biri olan Denizli-Tavas-Kale Kızılçam milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Denizli","Tavas","Kale Kızılçam","milli park","Ege Bölgesi","doğa harikası","kızılçam","orman","doğa yürüyüşü"]

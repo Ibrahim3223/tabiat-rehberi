@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Victoria_Daily_Times_%281922-09-30%29_%28IA_victoriadailytimes19220930%29.pdf/page1-960px-Victoria_Daily_Times_%281922-09-30%29_%28IA_victoriadailytimes19220930%29.pdf.jpg","alt":"Adana-Kadirli Kızılçam 1","caption":"Adana-Kadirli Kızılçam 1","credit":"Victoria Daily Times (1922-09-30) (IA victoriadailytimes19220930).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cilingoz_National_Park_Beach_with_waves.jpg/960px-Cilingoz_National_Park_Beach_with_waves.jpg","alt":"Adana-Kadirli Kızılçam 1","caption":"Adana-Kadirli Kızılçam 1","credit":"Cilingoz National Park Beach with waves","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227830","tip":"genel"}]
 description: "Adana'nın doğal güzellikleri arasında yer alan milli park"
 keywords: ["Adana","Kadirli","Kızılçam","milli park","doğa","turizm","gezi","yaban hayatı","çevre","ekoloji"]

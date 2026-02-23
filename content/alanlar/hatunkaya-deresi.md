@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","doğa yürüyüşü","fotoğraf çekme","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf/page1-960px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf.jpg","alt":"Hatunkaya Deresi","caption":"Hatunkaya Deresi","credit":"Explorations in Bible lands during the 19th century (IA gri 33125007229756).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Hatunkaya Deresi","caption":"Hatunkaya Deresi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatunkaya%20Deresi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389300","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide şehri Malatya'da bulunan Hatunkaya Deresi, 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğünde geniş bir bölgeyi kapsıyor."
 keywords: ["Hatunkaya Deresi","Malatya","Doğu Anadolu Bölgesi","yeşil alan","futbol sahası","doğal güzellik","gezi","turizm","çevre"]

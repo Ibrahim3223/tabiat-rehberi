@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Çayırköy Mağarası","caption":"Çayırköy Mağarası","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Çayırköy Mağarası","caption":"Çayırköy Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ay%C4%B1rk%C3%B6y%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915637","tip":"genel"}]
 description: "Karadeniz Bölgesi, Zonguldak'ta yer alan Çayırköy Mağarası, doğal güzelliği ve jeolojik oluşumuyla dikkat çekiyor."
 keywords: ["Çayırköy Mağarası","Zonguldak","Karadeniz Bölgesi","Jeopark","Mağara","Doğa","Turizm","Gezi","Karadeniz Gezisi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Bir gün veya birkaç gün"
 aktiviteler: ["Termal su tedavisi","Doğa yürüyüşü","Yaban hayatı gözlemleme","Çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_Hot_Springs_as_they_are_%28IA_hotspringsasthey00cutt%29.pdf/page1-860px-The_Hot_Springs_as_they_are_%28IA_hotspringsasthey00cutt%29.pdf.jpg","alt":"Bayramören Kaplıcası","caption":"Bayramören Kaplıcası","credit":"The Hot Springs as they are (IA hotspringsasthey00cutt).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Arif_solak_BanazHamambogazi1.jpg","alt":"Bayramören Kaplıcası","caption":"Bayramören Kaplıcası","credit":"Arif solak BanazHamambogazi1","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bayram%C3%B6ren%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741892","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli bir hazine olan Bayramören Kaplıcası, 140 hektarlık geniş bir alana kurulmuştur. Doğal güzellikleri ve sağlık açısından önemi nedeniyle ziyaretçilerini bekliyor."
 keywords: ["Bayramören Kaplıcası","İç Anadolu Bölgesi","Termal Kaynak","Sağlık Turizmi","Doğa","Kaplıca","Çankırı"]

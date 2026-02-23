@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Narrative_of_a_Mission_to_Central_Africa%2C_performed_in_the_years_1850-51%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.52984%29.pdf/page1-622px-Narrative_of_a_Mission_to_Central_Africa%2C_performed_in_the_years_1850-51%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.52984%29.pdf.jpg","alt":"Çatalharman Tepe","caption":"Çatalharman Tepe","credit":"Narrative of a Mission to Central Africa, performed in the years 1850-51, in Two Volumes, Vol. I (IA dli.granth.52984).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Çatalharman Tepe","caption":"Çatalharman Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atalharman%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828567","tip":"genel"}]
 description: "Karaman'ın tarihi ve doğal güzelliklerinin birleştiği đim, Çatalharman Tepe"
 keywords: ["Karaman","Çatalharman Tepe","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Victoria_Daily_Times_%281911-10-09%29_%28IA_victoriadailytimes19111009%29.pdf/page1-960px-Victoria_Daily_Times_%281911-10-09%29_%28IA_victoriadailytimes19111009%29.pdf.jpg","alt":"Hoca Dur Türbesi","caption":"Hoca Dur Türbesi","credit":"Victoria Daily Times (1911-10-09) (IA victoriadailytimes19111009).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Hoca Dur Türbesi","caption":"Hoca Dur Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hoca%20Dur%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390876","tip":"genel"}]
 description: "Kilis'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Hoca Dur Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Kilis","tarih","doğa","türbe","gezi","tarihçe","coğrafya","flora","fauna"]

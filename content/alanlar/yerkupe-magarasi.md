@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Rehberli turlar","Trekking","Fotoğrafçılık","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia%3B_with_some_account_of_their_antiquities_and_geology_01_%28researchesinasia01hami%29.pdf/page1-783px-Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia%3B_with_some_account_of_their_antiquities_and_geology_01_%28researchesinasia01hami%29.pdf.jpg","alt":"Yerküpe Mağarası","caption":"Yerküpe Mağarası","credit":"Researches in Asia Minor, Pontus, and Armenia; with some account of their antiquities and geology 01 (researchesinasia01hami).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Yerküpe Mağarası","caption":"Yerküpe Mağarası","credit":"Aydıncık Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yerk%C3%BCpe%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Aydın'da yer alan Yerküpe Mağarası, Ege Bölgesi'nin önemli doğal alanlarından biri"
 keywords: ["Yerküpe Mağarası","Aydın","Ege Bölgesi","Mağara","Doğa","Turizm","Gezi","Aydın Turistik Yerler"]

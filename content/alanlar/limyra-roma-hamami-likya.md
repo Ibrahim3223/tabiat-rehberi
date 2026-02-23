@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî mekânları gezme","Arkeolojik kazıları ziyaret etme","Likya'nın tarihini ve kültürünü öğrenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cost_benefit_analysis_for_Turkish_Navy._%28IA_costbenefitanaly00eman%29.pdf/page1-960px-Cost_benefit_analysis_for_Turkish_Navy._%28IA_costbenefitanaly00eman%29.pdf.jpg","alt":"Limyra Roma Hamamı (Likya)","caption":"Limyra Roma Hamamı (Likya)","credit":"Cost benefit analysis for Turkish Navy. (IA costbenefitanaly00eman).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Limyra Roma Hamamı (Likya)","caption":"Limyra Roma Hamamı (Likya)","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Limyra%20Roma%20Hamam%C4%B1%20(Likya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739229","tip":"genel"}]
 description: "Finike'de bulunan Limyra Roma Hamamı, Likya uygarlığının zengin tarihini yansıtan önemli bir tarihi mekândır."
 keywords: ["Limyra Roma Hamamı","Likya","Finike","Antalya","Roma Hamamı","Tarih","Arkeoloji","Turizm","Kültür"]

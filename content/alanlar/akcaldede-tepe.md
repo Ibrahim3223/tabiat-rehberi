@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OJ_C_280_of_2023_-_EN_English.pdf/page1-960px-OJ_C_280_of_2023_-_EN_English.pdf.jpg","alt":"Akçaldede Tepe","caption":"Akçaldede Tepe","credit":"OJ C 280 of 2023 - EN English.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Akçaldede Tepe","caption":"Akçaldede Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7aldede%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35723741","tip":"genel"}]
 description: "Balıkesir'de yer alan Akçaldede Tepe, 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Akçaldede Tepe","Balıkesir","Dağ","Doğa Alanı","Yeşil Alan","İstanbul","Türkiye","Seyahat","Gezi"]

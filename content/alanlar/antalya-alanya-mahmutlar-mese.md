@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf/page1-875px-Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf.jpg","alt":"Antalya-Alanya-Mahmutlar-Mese","caption":"Antalya-Alanya-Mahmutlar-Mese","credit":"Revue suisse de zoologie (IA revuesuissede11042003schw).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Antalya-Alanya-Mahmutlar-Mese","caption":"Antalya-Alanya-Mahmutlar-Mese","credit":"MC Siedleragame","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Alanya-Mahmutlar-Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228587","tip":"genel"}]
 description: "Antalya-Alanya-Mahmutlar-Mese, Akdeniz Bölgesi'nin görkemli doğal alanlarından biri"
 keywords: ["Antalya","Alanya","Mahmutlar","Mese","milli park","Akdeniz Bölgesi","doğal alanlar","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin zirvesine çıkmak","Çevreyi keşfetmek","Bölge hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00sing%29.pdf/page1-770px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00sing%29.pdf.jpg","alt":"Merelikasımtiği Tepesi","caption":"Merelikasımtiği Tepesi","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00sing).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Merelikasımtiği Tepesi","caption":"Merelikasımtiği Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merelikas%C4%B1mti%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391169","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği Merelikasımtiği Tepesi, 140 hektarlık geniş alanıyla dikkat çekiyor."
 keywords: ["Merelikasımtiği Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","tarih","coğrafya","flora","fauna"]

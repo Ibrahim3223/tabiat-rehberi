@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe gezisi","Mimari incelemesi","Doğa yürüyüşü","Fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nature_-_Volume_2.pdf/page1-789px-Nature_-_Volume_2.pdf.jpg","alt":"Old Turkish Bath of Hüdavendigar Complex","caption":"Old Turkish Bath of Hüdavendigar Complex","credit":"Nature - Volume 2.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Old Turkish Bath of Hüdavendigar Complex","caption":"Old Turkish Bath of Hüdavendigar Complex","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Old%20Turkish%20Bath%20of%20H%C3%BCdavendigar%20Complex","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q64699411","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfedin."
 keywords: ["Eski Türk Hamamı","Hüdavendigar Külliyesi","İç Anadolu Bölgesi","Tarihi eserler","Kültürel miras","Gezi rehberi","Türk hamamı","Mimari","Tarihçe"]

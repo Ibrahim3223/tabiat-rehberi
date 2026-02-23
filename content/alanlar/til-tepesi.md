@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşü","Kampçılık","Fotoğrafçılık","Yaban hayatı gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Our_next-door_neighbor-_a_winter_in_Mexico_%28IA_ournextdoorneigh00have%29.pdf/page1-756px-Our_next-door_neighbor-_a_winter_in_Mexico_%28IA_ournextdoorneigh00have%29.pdf.jpg","alt":"Til Tepesi","caption":"Til Tepesi","credit":"Our next-door neighbor- a winter in Mexico (IA ournextdoorneigh00have).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Til Tepesi","caption":"Til Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Til%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389227","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Til Tepesi, Muş ilinin önemli doğal güzelliklerinden biridir."
 keywords: ["Til Tepesi","Muş","Doğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

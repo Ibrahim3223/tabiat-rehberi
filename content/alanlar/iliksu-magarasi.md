@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Ilıksu Mağarası","caption":"Ilıksu Mağarası","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu/page1-800px-Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu.jpg","alt":"Ilıksu Mağarası","caption":"Ilıksu Mağarası","credit":"Islam, Turkey, and Armenia, and How They Happened","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Il%C4%B1ksu%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915646","tip":"genel"}]
 description: "Zonguldak'ta yer alan Ilıksu Mağarası, doğa severlerin keşfetmek için ziyaret edebileceği bir mağara"
 keywords: ["Ilıksu Mağarası","Zonguldak","Mağara","Doğa","Turizm","Gezi","Zonguldak Mağaraları","Ilıksu","Mağara Gezisi"]

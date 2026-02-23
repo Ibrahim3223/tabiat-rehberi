@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Kültürel keşif","Tarihî araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Zübeyde ve Leyla Hanım Türbesi","caption":"Zübeyde ve Leyla Hanım Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Zübeyde ve Leyla Hanım Türbesi","caption":"Zübeyde ve Leyla Hanım Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Z%C3%BCbeyde%20ve%20Leyla%20Han%C4%B1m%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390773","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Diyarbakır","Sur","Türbe","Zübeyde","Leyla Hanım","Güneydoğu Anadolu Bölgesi","Tarih","Kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Etlik Dağı","caption":"Etlik Dağı","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Etlik Dağı","caption":"Etlik Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Etlik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556796","tip":"genel"}]
 description: "Ankara'nın önemli doğal güzelliklerinden biri olan Etlik Dağı, 1200 hektarlık yeşil alanı ile şehrin nefes alma noktalarından."
 keywords: ["Etlik Dağı","Ankara","Doğal Alan","Yeşil Alan","Dağ","Turizm","Ankara Turistik Yerler","Doğa","Gezi"]

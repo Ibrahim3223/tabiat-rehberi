@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["yürüyüş","kayak","doğa fotoğrafçılığı","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Kurunlar Tepesi","caption":"Kurunlar Tepesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kurunlar Tepesi","caption":"Kurunlar Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurunlar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387742","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Kurunlar Tepesi, Erzurum'un güzel manzaralarına ev sahipliği yapıyor."
 keywords: ["Kurunlar Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğal güzellikler","Tepeler","Dağlar","Manzaralar","Gezi noktaları","Turizm"]

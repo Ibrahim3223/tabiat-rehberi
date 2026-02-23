@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_works_of_Mary_Russell_Mitford%2C_prose_and_verse%2C_viz_Our_village%2C_Belford_Regis%2C_Country_stories%2C_Finden%27s_tableaux%2C_Foscari%2C_Julian%2C_Rienzi%2C_Charles_the_First_%28IA_worksofmaryrusse00mitf%29.pdf/page1-806px-thumbnail.pdf.jpg","alt":"Hatip Boğazı","caption":"Hatip Boğazı","credit":"The works of Mary Russell Mitford, prose and verse, viz Our village, Belford Regis, Country stories, Finden's tableaux, Foscari, Julian, Rienzi, Charles the First (IA worksofmaryrusse00mitf).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Hatip Boğazı","caption":"Hatip Boğazı","credit":"VallesMarinerisHuge","license":"Attribution"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatip%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49342930","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerinden biri olan Hatip Boğazı, 1200 hektarlık bir alan üzerinde yer alan bir kanyon"
 keywords: ["Hatip Boğazı","Çorum","Kanyon","Doğal Alan","Turizm","Çorum Turistik Yerler","Kanyon Gezileri","Doğa Yürüyüşleri","Çorum Gezi Rehberi"]

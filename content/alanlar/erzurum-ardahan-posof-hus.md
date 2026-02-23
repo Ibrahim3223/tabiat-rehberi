@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cumhuriyet_1937_mart_6.pdf/page1-960px-Cumhuriyet_1937_mart_6.pdf.jpg","alt":"Erzurum-Ardahan-Posof Hus","caption":"Erzurum-Ardahan-Posof Hus","credit":"Cumhuriyet 1937 mart 6.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Erzurum-Ardahan-Posof Hus","caption":"Erzurum-Ardahan-Posof Hus","credit":"MC Siedleragame","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Ardahan-Posof%20Hus","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228540","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Erzurum","Ardahan","Posof","Doğu Anadolu Bölgesi","doğal güzellikler","milli park","turizm"]

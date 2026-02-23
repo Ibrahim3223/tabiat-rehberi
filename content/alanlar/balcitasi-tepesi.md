@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf/page1-877px-Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf.jpg","alt":"Balcıtaşı Tepesi","caption":"Balcıtaşı Tepesi","credit":"Newsletter - International Working Group on Fire Blight Research, Plant Protection Commission (IA CAT89899594012).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Balcıtaşı Tepesi","caption":"Balcıtaşı Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balc%C4%B1ta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390307","tip":"genel"}]
 description: "Isparta'nın Akdeniz Bölgesi'nde yer alan Balcıtaşı Tepesi, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu tepe, bölgenin en önemli doğal güzelliklerinden biri olarak kabul edilir."
 keywords: ["Balcıtaşı Tepesi","Isparta","Akdeniz Bölgesi","doğa","tepe","gezi","turizm"]

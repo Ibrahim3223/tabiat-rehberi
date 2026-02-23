@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Award_ceremony_for_the_Wiki_Loves_Earth_2024_19.12.24.pdf/page1-960px-Award_ceremony_for_the_Wiki_Loves_Earth_2024_19.12.24.pdf.jpg","alt":"Kocauyanık Tepe","caption":"Kocauyanık Tepe","credit":"Award ceremony for the Wiki Loves Earth 2024 19.12.24.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Kocauyanık Tepe","caption":"Kocauyanık Tepe","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocauyan%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513699","tip":"genel"}]
 description: "Burdur'un doğal güzelliklerini keşfedin, Kocauyanık Tepe'de doğa ile baş başa kalın."
 keywords: ["Kocauyanık Tepe","Burdur","Dağ","Doğa","Turizm","Seyahat","Gezi","Türkiye","Burdur Gezilecek Yerler"]

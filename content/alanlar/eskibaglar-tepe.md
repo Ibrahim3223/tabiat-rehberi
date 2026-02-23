@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Armenian_bondage_and_carnage%3B_being_the_story_of_Christian_martyrdom_in_modern_times_%28IA_armenianbondagec00beheiala%29.pdf/page1-820px-Armenian_bondage_and_carnage%3B_being_the_story_of_Christian_martyrdom_in_modern_times_%28IA_armenianbondagec00beheiala%29.pdf.jpg","alt":"Eskibağlar Tepe","caption":"Eskibağlar Tepe","credit":"Armenian bondage and carnage; being the story of Christian martyrdom in modern times (IA armenianbondagec00beheiala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Eskibağlar Tepe","caption":"Eskibağlar Tepe","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskiba%C4%9Flar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574130","tip":"genel"}]
 description: "Mardin'de bulunan Eskibağlar Tepe, şehrin tarihi ve doğal güzelliklerini keşfetmek için ideal bir nokta."
 keywords: ["Eskibağlar Tepe","Mardin","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Mardin Gezilecek Yerler"]

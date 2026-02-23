@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","flora ve fauna gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Encyclopaedia_Biblica_map_of_Syria%2C_Mesopotamia%2C_Babylonia%2C_and_Assyria.jpg","alt":"Şişer Tepe manzarası","credit":"no idea - see source","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Şişer Tepe","caption":"Şişer Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Ei%C5%9Fer%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385444","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Şişer Tepe, Bitlis ilinin önemli doğal güzelliklerinden biridir."

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_war_in_eastern_Europe_%28IA_cu31924027947252%29.pdf/page1-833px-The_war_in_eastern_Europe_%28IA_cu31924027947252%29.pdf.jpg","alt":"Yarımdağ Tepesi","caption":"Yarımdağ Tepesi","credit":"The war in eastern Europe (IA cu31924027947252).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Yarımdağ Tepesi","caption":"Yarımdağ Tepesi","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yar%C4%B1mda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31503074","tip":"genel"}]
 description: "Kilis'in en önemli doğal güzelliklerinden biri olan Yarımdağ Tepesi, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Yarımdağ Tepesi","Kilis","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Kilis Turistik Yerler","Doğal Güzellikler"]

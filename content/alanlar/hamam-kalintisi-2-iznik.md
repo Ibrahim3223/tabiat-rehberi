@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî kalıntıları keşfetmek","doğa yürüyüşü yapmak","İznik Gölü'nü seyretmek","fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/The_oist_%28IA_oist31albi%29.pdf/page1-847px-The_oist_%28IA_oist31albi%29.pdf.jpg","alt":"Hamam Kalıntısı 2, İznik","caption":"Hamam Kalıntısı 2, İznik","credit":"The oist (IA oist31albi).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Hamam Kalıntısı 2, İznik","caption":"Hamam Kalıntısı 2, İznik","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1%202%2C%20%C4%B0znik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739176","tip":"genel"}]
 description: "Marmara Bölgesi'nde yer alan İznik'in tarihi ve doğal güzellikleri arasında bulunan Hamam Kalıntısı 2, ziyaretçilerini bekliyor."
 keywords: ["İznik","Hamam Kalıntısı 2","Marmara Bölgesi","tarih","doğa","gezi","turizm","Bursa","plaj"]

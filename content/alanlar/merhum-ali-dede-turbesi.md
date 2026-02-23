@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Plaj activities","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Regimental_records_of_the_Royal_Welch_Fusiliers_%2823rd_Foot%29_%28IA_regimentalrecord04dudl%29.pdf/page1-947px-Regimental_records_of_the_Royal_Welch_Fusiliers_%2823rd_Foot%29_%28IA_regimentalrecord04dudl%29.pdf.jpg","alt":"Merhum Ali Dede Türbesi","caption":"Merhum Ali Dede Türbesi","credit":"Regimental records of the Royal Welch Fusiliers (23rd Foot) (IA regimentalrecord04dudl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg","alt":"Merhum Ali Dede Türbesi","caption":"Merhum Ali Dede Türbesi","credit":"Harbiş Sahili, Karataş - Adana 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merhum%20Ali%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391784","tip":"genel"}]
 description: "Adana'nın tarihi ve doğal güzelliklerini bir arada sunan Merhum Ali Dede Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Merhum Ali Dede Türbesi","Adana","Seyhan","Akdeniz Bölgesi","tarihi mekanlar","doğal güzellikler","turistik yerler","plajlar","türk kültürü"]

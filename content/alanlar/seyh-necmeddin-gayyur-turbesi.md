@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","manevi ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Travels_in_Nubia_%28IA_b22017343%29.pdf/page1-912px-Travels_in_Nubia_%28IA_b22017343%29.pdf.jpg","alt":"Şeyh Necmeddin Gayyur Türbesi","caption":"Şeyh Necmeddin Gayyur Türbesi","credit":"Travels in Nubia (IA b22017343).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Şeyh Necmeddin Gayyur Türbesi","caption":"Şeyh Necmeddin Gayyur Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Necmeddin%20Gayyur%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391778","tip":"genel"}]
 description: "Tarsus'un tarihi ve doğal güzelliklerini keşfedin. Şeyh Necmeddin Gayyur Türbesi, Mersin'in önemli bir kültür mirası."
 keywords: ["Tarsus","Mersin","Şeyh Necmeddin Gayyur Türbesi","tarih","doğa","kültür mirası","gezi","turizm","Akdeniz Bölgesi"]

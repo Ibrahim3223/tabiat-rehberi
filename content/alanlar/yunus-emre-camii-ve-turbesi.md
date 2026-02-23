@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Mimari özellikleri incelemek","Tarihi ve dini önemi hakkında bilgi edinmek","Bölgenin doğal güzelliklerini keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Yunus Emre Camii ve Türbesi","caption":"Yunus Emre Camii ve Türbesi","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Yunus Emre Camii ve Türbesi","caption":"Yunus Emre Camii ve Türbesi","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yunus%20Emre%20Camii%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132134423","tip":"genel"}]
 description: "Karaman'da tarihi ve dini öneme sahip bir mekan"
 keywords: ["Yunus Emre","Karaman","Camii","Türbe","İç Anadolu Bölgesi","Tarih","Din","Mimari"]

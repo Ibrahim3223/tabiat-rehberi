@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Fotoğrafçılık","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Getty_Research_Institute_%28IA_gri_narrativeofa00joll%29.pdf/page1-600px-Getty_Research_Institute_%28IA_gri_narrativeofa00joll%29.pdf.jpg","alt":"Ambardere Tepesi","caption":"Ambardere Tepesi","credit":"Getty Research Institute (IA gri narrativeofa00joll).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Ambardere Tepesi","caption":"Ambardere Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ambardere%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582153","tip":"genel"}]
 description: "Çorum'un Karadeniz Bölgesi'nde yer alan Ambardere Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Ambardere Tepesi","Çorum","Karadeniz Bölgesi","doğal güzellik","tarihi geçmişi","turizm","gezi","keşif","doğa"]

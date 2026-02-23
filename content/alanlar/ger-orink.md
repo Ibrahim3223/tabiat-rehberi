@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rocky_Mountain_adventures_%28IA_rockymountainadv00shel%29.pdf/page1-618px-Rocky_Mountain_adventures_%28IA_rockymountainadv00shel%29.pdf.jpg","alt":"Ger Orink","caption":"Ger Orink","credit":"Rocky Mountain adventures (IA rockymountainadv00shel).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Ger Orink","caption":"Ger Orink","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ger%20Orink","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21210753","tip":"genel"}]
 description: "Van'da yer alan Ger Orink Dağı, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Ger Orink","Van","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Van Gezilecek Yerler"]

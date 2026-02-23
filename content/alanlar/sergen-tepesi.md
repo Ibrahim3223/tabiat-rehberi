@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Sergen Tepesi","caption":"Sergen Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blackwood%27s_Magazine_volume_033.djvu/page1-800px-Blackwood%27s_Magazine_volume_033.djvu.jpg","alt":"Sergen Tepesi","caption":"Sergen Tepesi","credit":"Blackwood's Magazine volume 033","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sergen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388054","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide illerinden Muş'ta yer alan Sergen Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor."
 keywords: ["Sergen Tepesi","Muş","Doğu Anadolu Bölgesi","tepe","doğa","gezi","manzara","turizm","coğrafya"]

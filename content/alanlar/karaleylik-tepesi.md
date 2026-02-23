@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf/page1-670px-The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf.jpg","alt":"Karaleylik Tepesi","caption":"Karaleylik Tepesi","credit":"The salt-box house; eighteenth century life in a New England hill town (IA cu31924028842544).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erastae_%28Jolliffe_trans%2C1827%29.djvu/page1-800px-Erastae_%28Jolliffe_trans%2C1827%29.djvu.jpg","alt":"Karaleylik Tepesi","caption":"Karaleylik Tepesi","credit":"Erastae (Jolliffe trans,1827)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaleylik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581272","tip":"genel"}]
 description: "Çorum'un doğal güzellikleri arasında yer alan Karaleylik Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Karaleylik Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","çevre gezisi","tarihsel eserleri ziyaret","bitki ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Sarıklıdede Tepesi","caption":"Sarıklıdede Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Sarıklıdede Tepesi","caption":"Sarıklıdede Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1kl%C4%B1dede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390370","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden Afyonkarahisar'da bulunan Sarıklıdede Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve ziyaretçilerini büyüleyen bir doğal güzelliğe sahiptir."
 keywords: ["Sarıklıdede Tepesi","Afyonkarahisar","Ege Bölgesi","doğal güzellik","turizm","gezi","yaban hayatı","çevre","iklim","coğrafya"]

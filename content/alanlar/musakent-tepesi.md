@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nature_and_art%3B_a_poem_delivered_before_the_Phi_Beta_Kappa_society_of_Harvard_University%3B_August_29%2C_1844_%28IA_natureartpoemdel00storiala%29.pdf/page1-656px-Nature_and_art%3B_a_poem_delivered_before_the_Phi_Beta_Kappa_society_of_Harvard_University%3B_August_29%2C_1844_%28IA_natureartpoemdel00storiala%29.pdf.jpg","alt":"Musakent Tepesi","caption":"Musakent Tepesi","credit":"Nature and art; a poem delivered before the Phi Beta Kappa society of Harvard University; August 29, 1844 (IA natureartpoemdel00storiala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Musakent Tepesi","caption":"Musakent Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Musakent%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510062","tip":"genel"}]
 description: "Van'ın güzide tepelerinden biri olan Musakent Tepesi, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Musakent Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm"]

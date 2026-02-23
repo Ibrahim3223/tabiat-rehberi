@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf/page1-960px-Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf.jpg","alt":"Şehir Adaları","caption":"Şehir Adaları","credit":"Victoria Daily Times (1897-03-18) (IA victoriadailytimes18970318).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_island_with_the_ruins_of_the_Greek_town_-_panoramio.jpg/960px-The_island_with_the_ruins_of_the_Greek_town_-_panoramio.jpg","alt":"Şehir Adaları","caption":"Şehir Adaları","credit":"The island with the ruins of the Greek town - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehir%20Adalar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34796192","tip":"genel"}]
 description: "Muğla'nın güzide noktalarından biri olan Şehir Adaları, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Şehir Adaları","Muğla","Ada","Doğa","Yeşil Cennet","Turizm","Gezi","Seyahat","Muğla Turistik Yerler"]

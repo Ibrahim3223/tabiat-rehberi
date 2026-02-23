@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Memoir_of_Rev._Levi_Parsons_%28microform%29_-_first_missionary_to_Palestine_from_the_United_States_-_containing_sketches_of_his_early_life_and_education%2C_his_missionary_labors_in_this_country_%28IA_MN41579ucmf_4%29.pdf/page1-925px-thumbnail.pdf.jpg","alt":"Kefallo Tepesi","caption":"Kefallo Tepesi","credit":"Memoir of Rev. Levi Parsons (microform) - first missionary to Palestine from the United States - containing sketches of his early life and education, his missionary labors in this country (IA MN41579ucmf 4).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kefallo Tepesi","caption":"Kefallo Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kefallo%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551394","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzellikleri arasında yer alan Kefallo Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kefallo Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]

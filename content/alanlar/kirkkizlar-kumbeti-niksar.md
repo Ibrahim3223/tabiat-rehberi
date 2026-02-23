@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih öğrenmek","doğa yürüyüşü","fotografcılık","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Kırkkızlar Kümbeti, Niksar","caption":"Kırkkızlar Kümbeti, Niksar","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Kırkkızlar Kümbeti, Niksar","caption":"Kırkkızlar Kümbeti, Niksar","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rkk%C4%B1zlar%20K%C3%BCmbeti%2C%20Niksar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582722","tip":"genel"}]
 description: "Tarih ve doğanın birleştiği noktada bulunan Kırkkızlar Kümbeti, Niksar'ın önemli tarihi yapılarından biri."
 keywords: ["Kırkkızlar Kümbeti","Niksar","Tokat","Karadeniz Bölgesi","tarihi yapı","doğa","gezi","turizm","kültür"]

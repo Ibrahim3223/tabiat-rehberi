@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihî mekanları ziyaret","doğa yürüyüşü","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Harami Tepesi","caption":"Harami Tepesi","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Harami Tepesi","caption":"Harami Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harami%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385766","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerinin bir araya geldiği önemli bir nokta"
 keywords: ["Harami Tepesi","Konya","İç Anadolu Bölgesi","doğal güzellik","tarihi mekan","gezi","turizm","coğrafya","flora","fauna"]

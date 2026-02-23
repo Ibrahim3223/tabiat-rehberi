@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarihî yapıları gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Koçyaka Anonim Türbe","caption":"Koçyaka Anonim Türbe","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Koçyaka Anonim Türbe","caption":"Koçyaka Anonim Türbe","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7yaka%20Anonim%20T%C3%BCrbe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582355","tip":"genel"}]
 description: "Konya'nın Altınekin ilçesinde yer alan tarihi bir mekan, 140 hektarlık alanıyla 200 futbol sahası büyüklüğünde"
 keywords: ["Koçyaka Anonim Türbe","Altınekin","Konya","tarihi mekan","İç Anadolu Bölgesi","plaj"]

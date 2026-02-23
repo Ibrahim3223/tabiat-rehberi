@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları gezmek","Doğa yürüyüşleri","Fotograf çekmek","Gelibolu'nun tarihi hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"Zeynel Arap Türbesi","caption":"Zeynel Arap Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Zeynel Arap Türbesi","caption":"Zeynel Arap Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeynel%20Arap%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390757","tip":"genel"}]
 description: "Çanakkale'nin Gelibolu ilçesinde bulunan Zeynel Arap Türbesi, tarihsel ve coğrafi açıdan önemli bir destinasyon."
 keywords: ["Zeynel Arap Türbesi","Gelibolu","Çanakkale","tarihi mekanlar","coğrafi güzellikler","Marmara Bölgesi","gezi noktaları"]

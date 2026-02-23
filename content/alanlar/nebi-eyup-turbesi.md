@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezmek","Doğa yürüyüşleri yapmak","Denizin keyfini çıkarmak","Yerel restoranlarda yemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Casualty_Returns_1937.pdf/page1-960px-Casualty_Returns_1937.pdf.jpg","alt":"Nebi Eyüp Türbesi","caption":"Nebi Eyüp Türbesi","credit":"Casualty Returns 1937.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Nebi Eyüp Türbesi","caption":"Nebi Eyüp Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nebi%20Ey%C3%BCp%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391721","tip":"genel"}]
 description: "Mersin'in tarihi ve doğal güzelliklerinin birleştiği Nebi Eyüp Türbesi, Akdeniz kıyısında yer alır. Turistlerin ve yerlilerin ziyaret ettiği önemli bir noktadır."
 keywords: ["Nebi Eyüp Türbesi","Mersin","Akdeniz","tarih","doğa","turizm","gezi","tarihçe","coğrafya"]

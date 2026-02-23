@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","spa tedavisi","yemek turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Psyche_%28IA_psyche2010camb%29.pdf/page1-960px-Psyche_%28IA_psyche2010camb%29.pdf.jpg","alt":"Heybeliada Kaplıcaları","caption":"Heybeliada Kaplıcaları","credit":"Psyche (IA psyche2010camb).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Arif_solak_BanazHamambogazi1.jpg","alt":"Heybeliada Kaplıcaları","caption":"Heybeliada Kaplıcaları","credit":"Arif solak BanazHamambogazi1","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Heybeliada%20Kapl%C4%B1calar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741922","tip":"genel"}]
 description: "Afyonkarahisar'da termal kaynakları keşfedin, Ege Bölgesi'nin gizli cenneti."
 keywords: ["Afyonkarahisar","Ege Bölgesi","termal kaynak","kaplıca","sağlık turizmi","doğal güzellik","gezi rehberi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_New_York_Evangelist_1854-02-09-_Vol_25_Iss_6_%28IA_sim_evangelist-and-religious-review_1854-02-09_25_6%29.pdf/page1-960px-The_New_York_Evangelist_1854-02-09-_Vol_25_Iss_6_%28IA_sim_evangelist-and-religious-review_1854-02-09_25_6%29.pdf.jpg","alt":"Kabasakal Tepe","caption":"Kabasakal Tepe","credit":"The New York Evangelist 1854-02-09- Vol 25 Iss 6 (IA sim evangelist-and-religious-review 1854-02-09 25 6).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Kabasakal Tepe","caption":"Kabasakal Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabasakal%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31566243","tip":"genel"}]
 description: "Tokat'ta bulunan Kabasakal Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kabasakal Tepe","Tokat","Dağ","Doğa","Tarih","Yeşil Alan","Turizm","Gezi","Seyahat"]

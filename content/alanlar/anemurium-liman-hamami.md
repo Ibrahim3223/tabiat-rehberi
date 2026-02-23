@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları keşfetmek","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Travels_in_Nubia_%28IA_b22017343%29.pdf/page1-912px-Travels_in_Nubia_%28IA_b22017343%29.pdf.jpg","alt":"Anemurium Liman Hamamı","caption":"Anemurium Liman Hamamı","credit":"Travels in Nubia (IA b22017343).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Anemurium Liman Hamamı","caption":"Anemurium Liman Hamamı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anemurium%20Liman%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739106","tip":"genel"}]
 description: "Mersin'in Anamur ilçesinde yer alan Anemurium Liman Hamamı, Antik Dönem'den kalan önemli tarihi yapılardan biridir."
 keywords: ["Anemurium Liman Hamamı","Anamur","Mersin","Antik Dönem","tarihi yapı","liman","hamam","Akdeniz Bölgesi"]

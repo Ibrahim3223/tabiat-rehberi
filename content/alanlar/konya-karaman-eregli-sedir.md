@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","ekosistem gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Federal_Register_1952-04-30-_Vol_17_Iss_85_%28IA_sim_federal-register-find_1952-04-30_17_85%29.pdf/page1-960px-Federal_Register_1952-04-30-_Vol_17_Iss_85_%28IA_sim_federal-register-find_1952-04-30_17_85%29.pdf.jpg","alt":"Konya-Karaman-Eregli-Sedir","caption":"Konya-Karaman-Eregli-Sedir","credit":"Federal Register 1952-04-30- Vol 17 Iss 85 (IA sim federal-register-find 1952-04-30 17 85).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Akyokus_parki.jpg/960px-Akyokus_parki.jpg","alt":"Konya-Karaman-Eregli-Sedir","caption":"Konya-Karaman-Eregli-Sedir","credit":"Akyokus parki","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Karaman-Eregli-Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228572","tip":"genel"}]
 description: "Konya-Karaman-Eregli-Sedir milli parkı, İç Anadolu Bölgesi'nde yer alan doğal bir güzellik"
 keywords: ["Konya","Karaman","Eregli","Sedir","milli park","doğa","gezi","turizm","çevre","ekosistem"]

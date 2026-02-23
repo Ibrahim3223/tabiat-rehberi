@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flagship_-_USACE-p16021coll8-1708.pdf/page1-960px-Flagship_-_USACE-p16021coll8-1708.pdf.jpg","alt":"Kavak Dağ","caption":"Kavak Dağ","credit":"Flagship - USACE-p16021coll8-1708.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Kavak Dağ","caption":"Kavak Dağ","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavak%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564833","tip":"genel"}]
 description: "Çorum'un en önemli doğal güzelliklerinden biri olan Kavak Dağ, 1200 hektarlık alanı ile ziyaretçilerini bekliyor."
 keywords: ["Kavak Dağ","Çorum","doğal güzellik","dağ","turizm","gezi","çevre","doğa","çorum gezilecek yerler"]

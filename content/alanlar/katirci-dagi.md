@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/In_the_land_of_Ararat%2C_a_sketch_of_the_life_of_Mrs._Elizabeth_Freeman_Barrows_Ussher%2C_missionary_to_Turkey_and_a_martyr_of_the_great_war_%28IA_inlandofararatsk00barr%29.pdf/page1-762px-thumbnail.pdf.jpg","alt":"Katırcı Dağı","caption":"Katırcı Dağı","credit":"In the land of Ararat, a sketch of the life of Mrs. Elizabeth Freeman Barrows Ussher, missionary to Turkey and a martyr of the great war (IA inlandofararatsk00barr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Katırcı Dağı","caption":"Katırcı Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kat%C4%B1rc%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516670","tip":"genel"}]
 description: "Manisa'da bulunan Katırcı Dağı, doğa severlerin ziyaret ettiği bir dağdır. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Katırcı Dağı","Manisa","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Manisa Turistik Yerler","Dağcılık"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Şifalı sulara dalma","Dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf/page1-877px-Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf.jpg","alt":"İnsuyu Kaplıcası","caption":"İnsuyu Kaplıcası","credit":"Newsletter - International Working Group on Fire Blight Research, Plant Protection Commission (IA CAT89899594012).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Arif_solak_BanazHamambogazi1.jpg","alt":"İnsuyu Kaplıcası","caption":"İnsuyu Kaplıcası","credit":"Arif solak BanazHamambogazi1","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0nsuyu%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49742035","tip":"genel"}]
 description: "Burdur'un doğal güzelliklerini keşfedin, İnsuyu Kaplıcası'nın şifalı sularına dalın."
 keywords: ["İnsuyu Kaplıcası","Burdur","Akdeniz Bölgesi","termal kaynak","kaynak suları","doğal güzellikler","sağlık turizmi","kaplıca","turizm"]

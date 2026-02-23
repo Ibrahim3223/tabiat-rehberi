@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_principal_ruins_of_Asia_Minor_%28IA_gri_33125008782936%29.pdf/page1-960px-The_principal_ruins_of_Asia_Minor_%28IA_gri_33125008782936%29.pdf.jpg","alt":"Burgaç Hatun Türbesi","caption":"Burgaç Hatun Türbesi","credit":"The principal ruins of Asia Minor (IA gri 33125008782936).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Burgaç Hatun Türbesi","caption":"Burgaç Hatun Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burga%C3%A7%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118957979","tip":"genel"}]
 description: "Tokat'ta bulunan tarihi türbe ve çevresindeki doğal güzellikler"
 keywords: ["Burgaç Hatun Türbesi","Tokat","tarih","doğa","gezi","türbe","Karadeniz Bölgesi"]

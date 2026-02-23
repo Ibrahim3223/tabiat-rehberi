@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih turu","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Across_Asia_on_a_Bicycle_-_The_Journey_of_Two_American_Students_from_Constantinople_to_Peking_by_Thomas_Gaskell_Allen_%26_William_Lewis_Sachtleben.pdf/page1-872px-Across_Asia_on_a_Bicycle_-_The_Journey_of_Two_American_Students_from_Constantinople_to_Peking_by_Thomas_Gaskell_Allen_%26_William_Lewis_Sachtleben.pdf.jpg","alt":"Eymor Tepesi","caption":"Eymor Tepesi","credit":"Across Asia on a Bicycle - The Journey of Two American Students from Constantinople to Peking by Thomas Gaskell Allen & William Lewis Sachtleben.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Eymor Tepesi","caption":"Eymor Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eymor%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568058","tip":"genel"}]
 description: "Sivas'ın tarihi ve doğal güzellikleri arasında yer alan Eymor Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biridir."
 keywords: ["Sivas","İç Anadolu Bölgesi","Eymor Tepesi","tarih","doğa","gezi","tepe","coğrafya"]

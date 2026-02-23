@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nature_-_Volume_2.pdf/page1-789px-Nature_-_Volume_2.pdf.jpg","alt":"Petroma Resifi","caption":"Petroma Resifi","credit":"Nature - Volume 2.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Istanbul_and_Bosporus_big.jpg/960px-Istanbul_and_Bosporus_big.jpg","alt":"Petroma Resifi","caption":"Petroma Resifi","credit":"Istanbul and Bosporus big","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Petroma%20Resifi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34748418","tip":"genel"}]
 description: "Türkiye'de bulunan Petroma Resifi, deniz yaşamı için önemli bir habitat sunar ve 1200 hektarlık yeşil cenneti barındırır."
 keywords: ["Petroma Resifi","Türkiye","ada","deniz yaşamı","habitat","yeşil cennet","doğal alan","ekosistem","korunan bölge"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih ve kültür turu","Doğa yürüyüşü","Fotoğraf çekimi","Mimari keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf/page1-629px-Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf.jpg","alt":"Teslim Abdal Türbesi","caption":"Teslim Abdal Türbesi","credit":"Letters from the Aegean (IA lettersfromaegea01tenn).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Teslim Abdal Türbesi","caption":"Teslim Abdal Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Teslim%20Abdal%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391576","tip":"genel"}]
 description: "Pamukkale'nin eşsiz güzelliği, Denizli'nin tarihi değerleri ve Teslim Abdal Türbesi'nin mistik atmosferi"
 keywords: ["Pamukkale","Denizli","Teslim Abdal Türbesi","tarih","doğa","turizm","gezi","kültür","mimari"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/S41467-019-11016-z.pdf/page1-960px-S41467-019-11016-z.pdf.jpg","alt":"Pavli Adası","caption":"Pavli Adası","credit":"S41467-019-11016-z.pdf","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Istanbul_and_Bosporus_big.jpg/960px-Istanbul_and_Bosporus_big.jpg","alt":"Pavli Adası","caption":"Pavli Adası","credit":"Istanbul and Bosporus big","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pavli%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135428456","tip":"genel"}]
 description: "İstanbul Pendik'te bulunan Pavli Adası, 1200 hektarlık yeşil alanı ile şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Pavli Adası","İstanbul Adaları","Pendik","İstanbul","Doğal Alanlar","Yeşil Alanlar","Türkiye Adaları","Marmara Denizi Adaları","İstanbul Turizm"]

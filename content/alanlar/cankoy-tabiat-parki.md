@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Yaban Hayatı İzleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/William_H._Seward%27s_travels_around_the_world_%28IA_williamhsewardst01sewa%29.pdf/page1-925px-William_H._Seward%27s_travels_around_the_world_%28IA_williamhsewardst01sewa%29.pdf.jpg","alt":"Canköy Tabiat Parkı","caption":"Canköy Tabiat Parkı","credit":"William H. Seward's travels around the world (IA williamhsewardst01sewa).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/EB1911_-_Volume_04.djvu/page1-800px-EB1911_-_Volume_04.djvu.jpg","alt":"Canköy Tabiat Parkı","caption":"Canköy Tabiat Parkı","credit":"EB1911 - Volume 04","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cank%C3%B6y%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228347","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Canköy Tabiat Parkı, çam ormanlarıyla süslü 140 hektarlık bir alan"
 keywords: ["Canköy Tabiat Parkı","İç Anadolu Bölgesi","Çeşme/Sivas","Doğa","Tabiat Parkı","Çam Ormanları","Yaban Hayatı","Ekosistem"]

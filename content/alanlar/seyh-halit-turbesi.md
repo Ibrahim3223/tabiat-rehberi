@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğa yürüyüşü yapmak","Fotoğraf çekmek","Yerel halkla görüşmek","Bölgenin tarihi ve kültürel önemini öğrenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf/page1-860px-Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf.jpg","alt":"Şeyh Halit Türbesi","caption":"Şeyh Halit Türbesi","credit":"Revue suisse de zoologie (IA revuesuissede11412007schw).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Şeyh Halit Türbesi","caption":"Şeyh Halit Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Halit%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390884","tip":"genel"}]
 description: "Ilgın'da tarihi ve doğal güzelliklerin birleştiği Şeyh Halit Türbesi, Konya'nın önemli ziyaret noktaları arasında yer alır."
 keywords: ["Şeyh Halit Türbesi","Ilgın","Konya","tarihi mekanlar","doğal güzellikler","türk kültür mirası","gezi noktaları","Konya gezilecek yerler","Ilgın turizm"]

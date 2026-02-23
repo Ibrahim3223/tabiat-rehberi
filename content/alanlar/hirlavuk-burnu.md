@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf/page1-960px-A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf.jpg","alt":"Hırlavuk Burnu","caption":"Hırlavuk Burnu","credit":"A novel environmental restoration method for an abandoned limestone quarry with a deep open pit and steep palisades - a case study.pdf","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abandoned_blue.jpg/960px-Abandoned_blue.jpg","alt":"Hırlavuk Burnu","caption":"Hırlavuk Burnu","credit":"Abandoned blue","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1rlavuk%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34929790","tip":"genel"}]
 description: "Hatay'da yer alan Hırlavuk Burnu, 1200 hektarlık bir kuş cenneti olarak dikkat çekiyor. Doğal güzelliği ve zengin fauna çeşitliliği ile ziyaretçilerini bekliyor."
 keywords: ["Hırlavuk Burnu","Hatay","kuş cenneti","doğa turizmi","Hatay turizmi","kuş gözlemi","doğal alanlar","turistik yerler","ekosistem"]

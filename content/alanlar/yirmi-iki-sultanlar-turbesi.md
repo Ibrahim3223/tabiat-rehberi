@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları gezmek","doğa yürüyüşü","fotografi","tarih hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf/page1-835px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf.jpg","alt":"Yirmi İki Sultanlar Türbesi","caption":"Yirmi İki Sultanlar Türbesi","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla02burt).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Yirmi İki Sultanlar Türbesi","caption":"Yirmi İki Sultanlar Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yirmi%20%C4%B0ki%20Sultanlar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391339","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan Yirmi İki Sultanlar Türbesi, tarihin gizemini ve doğanın güzelliğini bir arada sunuyor."
 keywords: ["Yirmi İki Sultanlar Türbesi","Şehzadeler","Manisa","tarihi mekan","doğa","gezi","tarih","güzellik","gizem"]

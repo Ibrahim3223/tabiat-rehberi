@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_scenery_of_Greece_and_its_islands%2C_illustrated_by_fifty_views%2C_sketched_from_nature%2C_executed_on_steel%2C_and_described_en_route%2C_with_a_map_of_the_country_%28IA_cu31924028239691%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Öküz Tepesi","caption":"Öküz Tepesi","credit":"The scenery of Greece and its islands, illustrated by fifty views, sketched from nature, executed on steel, and described en route, with a map of the country (IA cu31924028239691).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Öküz Tepesi","caption":"Öküz Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96k%C3%BCz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829684","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzel illerinden Van'da bulunan Öküz Tepesi, ziyaretçiler için çekici bir destinasyon."
 keywords: ["Öküz Tepesi","Van","Doğu Anadolu Bölgesi","tepe","doğa","gezi","türkiye"]

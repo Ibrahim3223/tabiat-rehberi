@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","tarih kalıntıları incelemek","manzara izlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/The_foreign_tour_of_Messrs._Brown%2C_Jones%2C_and_Robinson_-_being_the_history_of_what_they_saw%2C_and_did%2C_in_Belgium%2C_Germany%2C_Switzerland_%26amp%2C_Italy_%28IA_cu31924030683712%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Kazmadağı Tepesi","caption":"Kazmadağı Tepesi","credit":"The foreign tour of Messrs. Brown, Jones, and Robinson - being the history of what they saw, and did, in Belgium, Germany, Switzerland &amp, Italy (IA cu31924030683712).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Kazmadağı Tepesi","caption":"Kazmadağı Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazmada%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385582","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Muş ilinde yer alan Kazmadağı Tepesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Kazmadağı Tepesi","Muş","Doğu Anadolu Bölgesi","tepe","doğa","tarih"]

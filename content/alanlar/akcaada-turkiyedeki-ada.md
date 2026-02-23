@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf/page1-960px-Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf.jpg","alt":"Akçaada","caption":"Akçaada","credit":"Big dairy data to unravel effects of environmental, physiological and morphological factors on milk production of mountain-pastured Braunvieh cows.pdf","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Oinousses_main_settlement.JPG/960px-Oinousses_main_settlement.JPG","alt":"Akçaada","caption":"Akçaada","credit":"Oinousses main settlement","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7aada%20(T%C3%BCrkiye'deki%20ada)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49631529","tip":"genel"}]
 description: "Balıkesir'de bulunan Akçaada, 1200 hektarlık yeşil cenneti ile dikkat çekiyor. Doğal güzellikleri keşfedin!"
 keywords: ["Akçaada","Balıkesir","ada","doğa","yeşil","gezi","seyahat","turizm","Türkiye"]

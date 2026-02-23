@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","bitki ve hayvan gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Glimpses_of_the_Louisiana_purchase_exposition_and_city_of_St._Louis_in_colors_..._%28IA_glimpsesoflouisi00unse%29.pdf/page1-960px-Glimpses_of_the_Louisiana_purchase_exposition_and_city_of_St._Louis_in_colors_..._%28IA_glimpsesoflouisi00unse%29.pdf.jpg","alt":"Şerafettin Tepesi","caption":"Şerafettin Tepesi","credit":"Glimpses of the Louisiana purchase exposition and city of St. Louis in colors ... (IA glimpsesoflouisi00unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Şerafettin Tepesi","caption":"Şerafettin Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eerafettin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389030","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri olan Şerafettin Tepesi, Muş'un güzide doğal alanlarından biridir."
 keywords: ["Şerafettin Tepesi","Muş","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

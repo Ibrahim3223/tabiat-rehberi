@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezi","doğa yürüyüşü","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/EIE_express_-_USACE-p16021coll8-511.pdf/page1-960px-EIE_express_-_USACE-p16021coll8-511.pdf.jpg","alt":"Hacı Tuğrul Türbesi","caption":"Hacı Tuğrul Türbesi","credit":"EIE express - USACE-p16021coll8-511.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Hacı Tuğrul Türbesi","caption":"Hacı Tuğrul Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Tu%C4%9Frul%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391218","tip":"genel"}]
 description: "Ankara'nın Polatlı ilçesinde yer alan tarihi bir mekan"
 keywords: ["Hacı Tuğrul Türbesi","Polatlı","Ankara","tarih","türbe","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/IMJ_BACKGROUND_-_Institution_and_Collections.doc.pdf/page1-960px-IMJ_BACKGROUND_-_Institution_and_Collections.doc.pdf.jpg","alt":"Çıralıdağ","caption":"Çıralıdağ","credit":"IMJ BACKGROUND - Institution and Collections.doc.pdf","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Çıralıdağ","caption":"Çıralıdağ","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1ral%C4%B1da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819233","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, 1200 hektarlık yeşil cennet Çıralıdağ"
 keywords: ["Çıralıdağ","İzmir","Doğa","Dağ","Yeşil Alan","Turizm","Gezi","İzmir Turistik Yerler","Doğa Sporları"]

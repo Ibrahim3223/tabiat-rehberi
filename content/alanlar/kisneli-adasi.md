@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Library_of_Congress_Classification_Subclasses_DS-DX.pdf/page1-960px-Library_of_Congress_Classification_Subclasses_DS-DX.pdf.jpg","alt":"Kişneli Adası","caption":"Kişneli Adası","credit":"Library of Congress Classification Subclasses DS-DX.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%D0%A1%D0%BE%D1%81%D0%BD%D0%B0_%D1%82%D1%83%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%B0_DSCF5757.jpg/960px-%D0%A1%D0%BE%D1%81%D0%BD%D0%B0_%D1%82%D1%83%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%B0_DSCF5757.jpg","alt":"Kişneli Adası","caption":"Kişneli Adası","credit":"Сосна турецька DSCF5757","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ki%C5%9Fneli%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49646176","tip":"genel"}]
 description: "Antalya'da yer alan Kişneli Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kişneli Adası","Antalya Adaları","Türkiye Adaları","Doğa Turizmi","Yeşil Alanlar","Turistik Yerler","Antalya Gezilecek Yerler","Ada Tatili","Doğal Güzellikler"]

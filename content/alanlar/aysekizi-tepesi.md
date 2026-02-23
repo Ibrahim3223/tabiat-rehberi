@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/In_the_land_of_Ararat%2C_a_sketch_of_the_life_of_Mrs._Elizabeth_Freeman_Barrows_Ussher%2C_missionary_to_Turkey_and_a_martyr_of_the_great_war_%28IA_inlandofararatsk00barr%29.pdf/page1-762px-thumbnail.pdf.jpg","alt":"Aysekizi Tepesi","caption":"Aysekizi Tepesi","credit":"In the land of Ararat, a sketch of the life of Mrs. Elizabeth Freeman Barrows Ussher, missionary to Turkey and a martyr of the great war (IA inlandofararatsk00barr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Aysekizi Tepesi","caption":"Aysekizi Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aysekizi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531178","tip":"genel"}]
 description: "Manisa'da bulunan Aysekizi Tepesi, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Aysekizi Tepesi","Manisa","Ege Bölgesi","doğal güzellik","tepe","gezi","yaban hayatı","çevre"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Travels_and_Researches_in_Asia_Minor%2C_Mesopotania%2C_Chaldea%2C_and_Armenia_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.41531%29.pdf/page1-612px-Travels_and_Researches_in_Asia_Minor%2C_Mesopotania%2C_Chaldea%2C_and_Armenia_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.41531%29.pdf.jpg","alt":"Kefiz Dağı","caption":"Kefiz Dağı","credit":"Travels and Researches in Asia Minor, Mesopotania, Chaldea, and Armenia (in Two Volumes, Vol.I) (IA dli.granth.41531).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kefiz Dağı","caption":"Kefiz Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kefiz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515980","tip":"genel"}]
 description: "Kilis'in doğal güzelliklerini keşfedin. Kefiz Dağı, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kefiz Dağı","Kilis","Dağ","Doğa","Yeşil Alan","Kilis Turizm","Doğal Güzellik","Turistik Yerler","Gezi Rehberi"]

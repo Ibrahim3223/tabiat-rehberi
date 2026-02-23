@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf/page1-835px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 60","caption":"Bin Tepeler Tümülüsü 60","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla02burt).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Bin Tepeler Tümülüsü 60","caption":"Bin Tepeler Tümülüsü 60","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2060","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728304","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, Manisa'nın Ahmetli ilçesinde yer alan Bin Tepeler Tümülüsü 60, tarihi ve doğal güzelliklerin birleştiği benzersiz bir destinasyon."
 keywords: ["Bin Tepeler Tümülüsü 60","Ahmetli","Manisa","Ege Bölgesi","tümülüs","tarih","doğa","gezi","turizm"]

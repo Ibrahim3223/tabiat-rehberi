@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","manzara izleme","yöresel yemekler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Komu Tepesi","caption":"Komu Tepesi","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Komu Tepesi","caption":"Komu Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Komu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391004","tip":"genel"}]
 description: "Kahramanmaraş'ın doğal güzelliklerinden biri olan Komu Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Komu Tepesi","Kahramanmaraş","Akdeniz Bölgesi","doğal güzellik","turizm","gezi","yayla","tepe","manzara"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî eserleri gezme","doğa yürüyüşü","kuş gözlemi","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ant%C3%A1lia_-_panoramio_%2811%29.jpg/960px-Ant%C3%A1lia_-_panoramio_%2811%29.jpg","alt":"Perge Batı Hamamı","caption":"Perge Batı Hamamı","credit":"Antália - panoramio (11).jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Perge Batı Hamamı","caption":"Perge Batı Hamamı","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Perge%20Bat%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739040","tip":"genel"}]
 description: "Aksu/Antalya'da yer alan tarihi ve doğal güzelliklerin birleştiği Perge Batı Hamamı"
 keywords: ["Perge Batı Hamamı","Aksu","Antalya","tarihi yerler","doğal güzellikler","Akdeniz Bölgesi","turistik yerler","gezi rehberi","kültür mirası"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ongoing_declines_for_the_world%E2%80%99s_amphibians_in_the_face_of_emerging_threats.pdf/page1-960px-Ongoing_declines_for_the_world%E2%80%99s_amphibians_in_the_face_of_emerging_threats.pdf.jpg","alt":"Kızılcadağı Tepesi","caption":"Kızılcadağı Tepesi","credit":"Ongoing declines for the world’s amphibians in the face of emerging threats.pdf","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kızılcadağı Tepesi","caption":"Kızılcadağı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcada%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31512696","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerinden biri olan Kızılcadağı Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Kızılcadağı Tepesi","İzmir","Ege Bölgesi","Doğa","Tepeler","Manzara","Gezi","Tarih"]

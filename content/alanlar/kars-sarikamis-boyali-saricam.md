@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ten_years_in_Washington._Life_and_scenes_in_the_National_Capital%2C_as_a_woman_sees_them_%28IA_tenyearsinwashin01clem%29.pdf/page1-683px-Ten_years_in_Washington._Life_and_scenes_in_the_National_Capital%2C_as_a_woman_sees_them_%28IA_tenyearsinwashin01clem%29.pdf.jpg","alt":"Kars-Sarikamis-Boyali Saricam","caption":"Kars-Sarikamis-Boyali Saricam","credit":"Ten years in Washington. Life and scenes in the National Capital, as a woman sees them (IA tenyearsinwashin01clem).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ten_years_in_Washington_Life_and_scenes_in_the_National_capital.djvu/page1-800px-Ten_years_in_Washington_Life_and_scenes_in_the_National_capital.djvu.jpg","alt":"Kars-Sarikamis-Boyali Saricam","caption":"Kars-Sarikamis-Boyali Saricam","credit":"Ten years in Washington Life and scenes in the National capital","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kars-Sarikamis-Boyali%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227693","tip":"genel"}]
 description: "Doğu Anadolu'nun güzelliklerini keşfedin. Kars-Sarikamis-Boyali Saricam milli parkı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kars-Sarikamis-Boyali Saricam","Doğu Anadolu","milli park","doğal alan","yeşil alan","turizm"]

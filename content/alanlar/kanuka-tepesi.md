@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 Saat"
 aktiviteler: ["Tarihî Eserleri Ziyaret","Doğa Yürüyüşü","Panoramik Manzara İzleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Kanuka Tepesi","caption":"Kanuka Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kanuka Tepesi","caption":"Kanuka Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kanuka%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386694","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği Kanuka Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kanuka Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","Tarihi Yerler","Doğa Alanları"]

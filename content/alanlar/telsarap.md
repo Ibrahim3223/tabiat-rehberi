@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Armenian_bondage_and_carnage%3B_being_the_story_of_Christian_martyrdom_in_modern_times_%28IA_armenianbondagec00beheiala%29.pdf/page1-820px-Armenian_bondage_and_carnage%3B_being_the_story_of_Christian_martyrdom_in_modern_times_%28IA_armenianbondagec00beheiala%29.pdf.jpg","alt":"Telşarap","caption":"Telşarap","credit":"Armenian bondage and carnage; being the story of Christian martyrdom in modern times (IA armenianbondagec00beheiala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Telşarap","caption":"Telşarap","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tel%C5%9Farap","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386660","tip":"genel"}]
 description: "Telşarap, Mardin'in tarihi ve doğal güzellikleri ile dikkat çeken bir bölgedir. Burada, zengin bir tarihe ve çeşitli bitki türlerine rastlama mümkün."
 keywords: ["Mardin","Telşarap","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarih","bitki türleri","coğrafya","fauna","ziyaret"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wiki_Loves_Earth._Deeper_storytelling_beyond_just_beauty._CEEM_2025.pdf/page1-960px-Wiki_Loves_Earth._Deeper_storytelling_beyond_just_beauty._CEEM_2025.pdf.jpg","alt":"Burdur-Bucak-Pamucak Sigla","caption":"Burdur-Bucak-Pamucak Sigla","credit":"Wiki Loves Earth. Deeper storytelling beyond just beauty. CEEM 2025.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Burdur-Bucak-Pamucak Sigla","caption":"Burdur-Bucak-Pamucak Sigla","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Bucak-Pamucak%20Sigla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227715","tip":"genel"}]
 description: "Burdur iline bağlı Bucak ilçesinde yer alan milli park, zengin flora ve faunaya ev sahipliği yapıyor."
 keywords: ["Burdur","Bucak","Pamucak","milli park","flora","fauna","doğa","turizm","gezi"]

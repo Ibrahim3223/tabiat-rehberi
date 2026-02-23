@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Bennik Tepe","caption":"Bennik Tepe","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Bennik Tepe","caption":"Bennik Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bennik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554980","tip":"genel"}]
 description: "Batman'da yer alan Bennik Tepe, doğa severlerin keşfetmeyi bekleyen bir dağ"
 keywords: ["Bennik Tepe","Batman","Dağ","Doğa","Türkiye","Gezi","Seyahat","Doğa Harikaları","Batman Turizm"]

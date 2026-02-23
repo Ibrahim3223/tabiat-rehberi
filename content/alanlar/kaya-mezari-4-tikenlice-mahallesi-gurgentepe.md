@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi","picnic","deniz aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Kaya Mezarı 4 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 4 (Tikenlice Mahallesi) Gürgentepe","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kaya Mezarı 4 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 4 (Tikenlice Mahallesi) Gürgentepe","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%204%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728205","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Ordu'nun Gürgentepe ilçesindeki Kaya Mezarı 4, Tikenlice Mahallesi'nde keşfedilmeyi bekliyor."
 keywords: ["Kaya Mezarı 4","Tikenlice Mahallesi","Gürgentepe","Ordu","Karadeniz Bölgesi","plaj","deniz","turizm","gezi","keşif"]

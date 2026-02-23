@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Kumda oyunlar","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Animal_disease_thesaurus_%28IA_CAT80734093004%29.pdf/page1-858px-Animal_disease_thesaurus_%28IA_CAT80734093004%29.pdf.jpg","alt":"Geyikli Baba Hamamı","caption":"Geyikli Baba Hamamı","credit":"Animal disease thesaurus (IA CAT80734093004).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Geyikli Baba Hamamı","caption":"Geyikli Baba Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geyikli%20Baba%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738667","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğal güzelliklerinden biri olan Geyikli Baba Hamamı, Kestel/Bursa'da yer alır."
 keywords: ["Geyikli Baba Hamamı","Kestel","Bursa","Marmara Bölgesi","doğal güzellik","plaj","deniz","turizm","gezi","yazlık"]

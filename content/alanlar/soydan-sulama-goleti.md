@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/OJ_C_51_of_2023_-_EN_English.pdf/page1-960px-OJ_C_51_of_2023_-_EN_English.pdf.jpg","alt":"Soydan Sulama Göleti","caption":"Soydan Sulama Göleti","credit":"OJ C 51 of 2023 - EN English.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Soydan Sulama Göleti","caption":"Soydan Sulama Göleti","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Soydan%20Sulama%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34927280","tip":"genel"}]
 description: "Şanlıurfa'da bulunan Soydan Sulama Göleti, bölgenin önemli sulama kaynaklarından biri. 1200 hektarlık alanı ile İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Soydan Sulama Göleti","Şanlıurfa","gölet","sulama","doğa","turizm","gezi","Şanlıurfa gölleri","sulama göletleri"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf/page1-960px-War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf.jpg","alt":"Ortafener Adası","caption":"Ortafener Adası","credit":"War diary - German Naval Staff Operations Division (IA wardiarygermann301942germ).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nelson_from_Rabbit_Island.jpg/960px-Nelson_from_Rabbit_Island.jpg","alt":"Ortafener Adası","caption":"Ortafener Adası","credit":"Nelson from Rabbit Island","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ortafener%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49666394","tip":"genel"}]
 description: "Çanakkale'de bulunan Ortafener Adası, doğal güzellikleri ve tarihi önemiyle dikkat çeker."
 keywords: ["Ortafener Adası","Çanakkale","ada","doğal güzellik","tarih","gezi","seyahat","turizm","Çanakkale adaları"]

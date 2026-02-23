@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Fotoğrafçılık","Doğa gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf/page1-960px-From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf.jpg","alt":"Kürttacın Ilıcası","caption":"Kürttacın Ilıcası","credit":"From denial to participation- Turkey's evolving discourse on Kurdish nationalism (IA fromdenialtopart1094537734).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Balikli_Kaplica_Thermal_spring_-_panoramio.jpg/960px-Balikli_Kaplica_Thermal_spring_-_panoramio.jpg","alt":"Kürttacın Ilıcası","caption":"Kürttacın Ilıcası","credit":"Balikli Kaplica Thermal spring - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCrttac%C4%B1n%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741953","tip":"genel"}]
 description: "Ankara'nın gizli cenneti, termal ve doğa harikası Kürttacın Ilıcası"
 keywords: ["Kürttacın Ilıcası","Ankara","Termal","Doğa","İç Anadolu Bölgesi","Gezi","Seyahat","Turizm"]

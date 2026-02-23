@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf/page1-875px-Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf.jpg","alt":"Antalya-Elmali-Ciglikara-Sedir","caption":"Antalya-Elmali-Ciglikara-Sedir","credit":"Revue suisse de zoologie (IA revuesuissede11042003schw).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cilingoz_National_Park_Beach_with_waves.jpg/960px-Cilingoz_National_Park_Beach_with_waves.jpg","alt":"Antalya-Elmali-Ciglikara-Sedir","caption":"Antalya-Elmali-Ciglikara-Sedir","credit":"Cilingoz National Park Beach with waves","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Elmali-Ciglikara-Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228573","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin doğal güzellikleri içinde yer alan Antalya-Elmali-Ciglikara-Sedir, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Antalya","Elmali","Ciglikara","Sedir","milli park","doğa","Akdeniz Bölgesi"]

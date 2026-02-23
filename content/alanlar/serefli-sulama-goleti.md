@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/A_qualitative_analysis_of_the_Turkish_Gendarmerie_assignment_process_%28IA_aqualitativenaly109452243%29.pdf/page1-960px-A_qualitative_analysis_of_the_Turkish_Gendarmerie_assignment_process_%28IA_aqualitativenaly109452243%29.pdf.jpg","alt":"Şerefli Sulama Göleti","caption":"Şerefli Sulama Göleti","credit":"A qualitative analysis of the Turkish Gendarmerie assignment process (IA aqualitativenaly109452243).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Şerefli Sulama Göleti","caption":"Şerefli Sulama Göleti","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eerefli%20Sulama%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34937690","tip":"genel"}]
 description: "Diyarbakır'da bulunan Şerefli Sulama Göleti, 1200 hektarlık yeşil alanıyla şehrin önemli sulama kaynaklarından biri"
 keywords: ["Şerefli Sulama Göleti","Diyarbakır","gölet","sulama","yeşil alan","doğa","çevre","su kaynakları","Diyarbakır gezilecek yerler"]

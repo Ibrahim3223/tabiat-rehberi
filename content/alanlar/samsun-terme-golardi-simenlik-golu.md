@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_National_Era_%28IA_003305d6-8de0-453a-abdd-5e8150d82276%29.pdf/page1-960px-The_National_Era_%28IA_003305d6-8de0-453a-abdd-5e8150d82276%29.pdf.jpg","alt":"Samsun-Terme Golardı Simenlik Golu","caption":"Samsun-Terme Golardı Simenlik Golu","credit":"The National Era (IA 003305d6-8de0-453a-abdd-5e8150d82276).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Samsun-Terme Golardı Simenlik Golu","caption":"Samsun-Terme Golardı Simenlik Golu","credit":"MC Siedleragame","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samsun-Terme%20Golard%C4%B1%20Simenlik%20Golu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228399","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Samsun'da bulunan Samsun-Terme Golardı Simenlik Golu, 140 hektarlık geniş alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Samsun","Terme","Golardı","Simenlik Golu","Karadeniz Bölgesi","Doğa","Turizm","Milli Park"]

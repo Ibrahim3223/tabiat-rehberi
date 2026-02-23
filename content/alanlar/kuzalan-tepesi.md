@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan izleme","manzara seyretme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Science-gossip_%28IA_sciencegossip0670lond%29.pdf/page1-960px-Science-gossip_%28IA_sciencegossip0670lond%29.pdf.jpg","alt":"Kuzalan Tepesi","caption":"Kuzalan Tepesi","credit":"Science-gossip (IA sciencegossip0670lond).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kuzalan Tepesi","caption":"Kuzalan Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzalan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388201","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerini keşfedin, Kuzalan Tepesi'ni ziyaret edin"
 keywords: ["Kuzalan Tepesi","Denizli","Ege Bölgesi","doğa","tepe","gezi","turizm","yerel","coğrafya"]

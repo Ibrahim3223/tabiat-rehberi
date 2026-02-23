@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Havşişan Mağaraları","caption":"Havşişan Mağaraları","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lower_Antelope_Canyon_November_2018_017.jpg/960px-Lower_Antelope_Canyon_November_2018_017.jpg","alt":"Havşişan Mağaraları","caption":"Havşişan Mağaraları","credit":"Lower Antelope Canyon November 2018 017","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hav%C5%9Fi%C5%9Fan%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319245","tip":"genel"}]
 description: "Batman'da yer alan Havşişan Mağaraları, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini bekliyor."
 keywords: ["Havşişan Mağaraları","Batman","Jeopark","Doğa Turizmi","Mağara Gezisi","Türkiye'nin Gizli Cennetleri","Batman Turistik Yerler","Jeolojik Oluşumlar","Doğal Anıtlar"]

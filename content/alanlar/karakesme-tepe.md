@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa keşfi","tarih hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chambers%27s_concise_gazetteer_of_the_world_-_topographical%2C_statistical%2C_historical%2C_pronouncing_%28IA_chamberssconcise00patrrich%29.pdf/page1-850px-Chambers%27s_concise_gazetteer_of_the_world_-_topographical%2C_statistical%2C_historical%2C_pronouncing_%28IA_chamberssconcise00patrrich%29.pdf.jpg","alt":"Karakesme Tepe","caption":"Karakesme Tepe","credit":"Chambers's concise gazetteer of the world - topographical, statistical, historical, pronouncing (IA chamberssconcise00patrrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Karakesme Tepe","caption":"Karakesme Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakesme%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385700","tip":"genel"}]
 description: "Adana'da yer alan Karakesme Tepe, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir. Zengin fauna ve flora çeşitliliği ile dikkat çekmektedir."
 keywords: ["Karakesme Tepe","Adana","Akdeniz Bölgesi","doğa","flora","fauna"]

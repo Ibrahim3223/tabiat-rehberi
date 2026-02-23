@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Protecting_the_Turkish_Straits_from_Maritime_Terrorism-_a_Scheme_to_Impede_Propeller_Efficiency_%28IA_protectingturkis109457370%29.pdf/page1-960px-Protecting_the_Turkish_Straits_from_Maritime_Terrorism-_a_Scheme_to_Impede_Propeller_Efficiency_%28IA_protectingturkis109457370%29.pdf.jpg","alt":"Yumurta Adası","caption":"Yumurta Adası","credit":"Protecting the Turkish Straits from Maritime Terrorism- a Scheme to Impede Propeller Efficiency (IA protectingturkis109457370).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rabbit_Island_%28G%C3%BCm%C3%BCsl%C3%BCk%2C_Turkey%29.jpg/960px-Rabbit_Island_%28G%C3%BCm%C3%BCsl%C3%BCk%2C_Turkey%29.jpg","alt":"Yumurta Adası","caption":"Yumurta Adası","credit":"Rabbit Island (Gümüslük, Turkey)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumurta%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34788607","tip":"genel"}]
 description: "Çanakkale'de bulunan Yumurta Adası, tarihi ve doğal güzellikleri ile dikkat çekiyor. Ada, 1200 hektarlık yeşil alanı ile İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Yumurta Adası","Çanakkale","Türkiye Adaları","Doğal Alanlar","Tarihi Yerler","Gezi Rehberi","Seyahat","Turizm","Çanakkale Gezilecek Yerler"]

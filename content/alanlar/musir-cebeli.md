@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Musir Cebeli","caption":"Musir Cebeli","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Musir Cebeli","caption":"Musir Cebeli","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Musir%20Cebeli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386519","tip":"genel"}]
 description: "Hatay'da yer alan Musir Cebeli, Akdeniz Bölgesi'nin önemli coğrafi noktalarından biridir. Zengin tarihi ve doğal güzellikleriyle dikkat çeker."
 keywords: ["Musir Cebeli","Hatay","Akdeniz Bölgesi","coğrafi nokta","tarih","doğal güzellik"]

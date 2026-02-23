@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Rehberli turlar","Tarihi yapılar gezisi","Kültürel merkezler ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Evhaduddin Kirmani Türbesi","caption":"Evhaduddin Kirmani Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Evhaduddin Kirmani Türbesi","caption":"Evhaduddin Kirmani Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Evhaduddin%20Kirmani%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391286","tip":"genel"}]
 description: "Konya'nın tarihi ve kültürel değerlerinden biri olan Evhaduddin Kirmani Türbesi, Selçuklu'nun önemli dini merkezlerinden."
 keywords: ["Evhaduddin Kirmani","Türbe","Selçuklu","Konya","İç Anadolu Bölgesi","Tarihi mekan","Dini merkez","Kültürel değer"]

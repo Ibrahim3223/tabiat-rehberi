@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/The_New-York_Evangelist_1888-06-14-_Vol_59_Iss_24_%28IA_sim_evangelist-and-religious-review_1888-06-14_59_24%29.pdf/page1-960px-The_New-York_Evangelist_1888-06-14-_Vol_59_Iss_24_%28IA_sim_evangelist-and-religious-review_1888-06-14_59_24%29.pdf.jpg","alt":"Adana-Saimbeyli-Ayvacik Sedir","caption":"Adana-Saimbeyli-Ayvacik Sedir","credit":"The New-York Evangelist 1888-06-14- Vol 59 Iss 24 (IA sim evangelist-and-religious-review 1888-06-14 59 24).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg/960px-Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg","alt":"Adana-Saimbeyli-Ayvacik Sedir","caption":"Adana-Saimbeyli-Ayvacik Sedir","credit":"Aladağlar Milli Parkı - Aladaglar National Park 01","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Saimbeyli-Ayvacik%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227206","tip":"genel"}]
 description: "Adana'da yer alan Sedir Ormanı, 140 hektarlık genişlikte ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
 keywords: ["Adana","Saimbeyli","Ayvacik","Sedir Ormanı","Doğa","Yeşil Alan","Futbol Sahanı","Orman","Çevre"]

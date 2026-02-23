@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara seyretme","Fotograf çekme","Tarih keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Meydanısüleyman Tepesi","caption":"Meydanısüleyman Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Meydanısüleyman Tepesi","caption":"Meydanısüleyman Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Meydan%C4%B1s%C3%BCleyman%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32126873","tip":"genel"}]
 description: "Siirt'in tarihi ve doğal güzelliklerinin birleştiği nokta olan Meydanısüleyman Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Meydanısüleyman Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","tepe","manzara"]

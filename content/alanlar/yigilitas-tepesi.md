@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/On_horseback_through_Asia_Minor_%28IA_onhorsebackthrou01burn_0%29.pdf/page1-883px-On_horseback_through_Asia_Minor_%28IA_onhorsebackthrou01burn_0%29.pdf.jpg","alt":"Yığılıtaş Tepesi","caption":"Yığılıtaş Tepesi","credit":"On horseback through Asia Minor (IA onhorsebackthrou01burn 0).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Yığılıtaş Tepesi","caption":"Yığılıtaş Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1%C4%9F%C4%B1l%C4%B1ta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390686","tip":"genel"}]
 description: "Tokat'ta yer alan tarihi ve doğal güzellikleriyle dikkat çeken Yığılıtaş Tepesi"
 keywords: ["Yığılıtaş Tepesi","Tokat","Karadeniz Bölgesi","doğa","tarih","gezi","tepe","manzara"]

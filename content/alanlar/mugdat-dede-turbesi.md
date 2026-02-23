@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarihî eserleri keşfetmek","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"Muğdat Dede Türbesi","caption":"Muğdat Dede Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Muğdat Dede Türbesi","caption":"Muğdat Dede Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mu%C4%9Fdat%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391722","tip":"genel"}]
 description: "Mersin'in Yenişehir ilçesinde bulunan tarihi ve doğal güzelliği bir araya getiren Muğdat Dede Türbesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Muğdat Dede Türbesi","Mersin","Yenişehir","tarihi mekan","doğa","turizm","gezi","tarihçe","coğrafya"]

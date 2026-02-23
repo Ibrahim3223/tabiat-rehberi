@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","keşif","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Getty_Research_Institute_%28IA_gri_narrativeofa00joll%29.pdf/page1-600px-Getty_Research_Institute_%28IA_gri_narrativeofa00joll%29.pdf.jpg","alt":"Büyükyar Tepesi","caption":"Büyükyar Tepesi","credit":"Getty Research Institute (IA gri narrativeofa00joll).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Büyükyar Tepesi","caption":"Büyükyar Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkyar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731457","tip":"genel"}]
 description: "Çorum'un görece yüksek bir noktası olan Büyükyar Tepesi, Karadeniz Bölgesi'nin doğal güzelliklerini sunar"
 keywords: ["Büyükyar Tepesi","Çorum","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyareti","Müze ziyareti","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Letters_from_Palestine%2C_descriptive_of_a_tour_through_Gallilee_and_Judaea%2C_with_some_account_of_the_Dead_Sea%2C_and_of_the_present_state_of_Jerusalem_%28IA_lettersfrompales00jollrich%29.pdf/page1-760px-thumbnail.pdf.jpg","alt":"Ebul Hasan Harakani Türbesi","caption":"Ebul Hasan Harakani Türbesi","credit":"Letters from Palestine, descriptive of a tour through Gallilee and Judaea, with some account of the Dead Sea, and of the present state of Jerusalem (IA lettersfrompales00jollrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Ebul Hasan Harakani Türbesi","caption":"Ebul Hasan Harakani Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ebul%20Hasan%20Harakani%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390852","tip":"genel"}]
 description: "Kars ilinin merkezinde bulunan Ebul Hasan Harakani Türbesi, tarihi ve kültürel önem taşıyan bir mekândır."
 keywords: ["Ebul Hasan Harakani","Kars","Türbe","Tarih","Kültür","Doğu Anadolu Bölgesi","Gezi","Türkiye"]

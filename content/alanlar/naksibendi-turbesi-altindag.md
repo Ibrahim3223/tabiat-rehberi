@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi rehberli tur","fotograf çekimi","yeşillikleri keşfetmek","Ankara'nın kültürel zenginliklerini keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf/page1-960px-Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf.jpg","alt":"Nakşibendi Türbesi, Altındağ","caption":"Nakşibendi Türbesi, Altındağ","credit":"Peter and Nancy in Asia, (IA peternancyinasia00comf).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Nakşibendi Türbesi, Altındağ","caption":"Nakşibendi Türbesi, Altındağ","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nak%C5%9Fibendi%20T%C3%BCrbesi%2C%20Alt%C4%B1nda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582346","tip":"genel"}]
 description: "Ankara'nın tarihi ve kültürel zenginliklerini keşfedin. Nakşibendi Türbesi, Altındağ'da bulunan önemli bir dini merkez."
 keywords: ["Nakşibendi Türbesi","Altındağ","Ankara","tarih","kültür","dini merkez","gezi","türbe","Ankara'nın tarihi yerleri"]

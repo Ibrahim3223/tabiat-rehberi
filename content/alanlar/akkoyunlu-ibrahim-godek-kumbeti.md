@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_National_geographic_magazine_%28IA_nationalgeograp361919nati%29.pdf/page1-960px-The_National_geographic_magazine_%28IA_nationalgeograp361919nati%29.pdf.jpg","alt":"Akkoyunlu İbrahim Gödek Kümbeti","caption":"Akkoyunlu İbrahim Gödek Kümbeti","credit":"The National geographic magazine (IA nationalgeograp361919nati).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Akkoyunlu İbrahim Gödek Kümbeti","caption":"Akkoyunlu İbrahim Gödek Kümbeti","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akkoyunlu%20%C4%B0brahim%20G%C3%B6dek%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582798","tip":"genel"}]
 description: "Iğdır'ın Aralık ilçesinde bulunan tarihi kümbet, 140 hektarlık yeşil alanın içinde yer alır ve ziyaretçilerini tarihi geçmişiyle karşılar."
 keywords: ["Akkoyunlu İbrahim Gödek Kümbeti","Iğdır","Aralık","Doğu Anadolu Bölgesi","tarihi kümbet","yeşil alan","gezi noktaları"]

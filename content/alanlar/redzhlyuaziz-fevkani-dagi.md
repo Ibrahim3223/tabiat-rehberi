@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["trekking","kamping","doğa yürüyüşü","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Redzhlyuaziz-Fevkani Dağı","caption":"Redzhlyuaziz-Fevkani Dağı","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Redzhlyuaziz-Fevkani Dağı","caption":"Redzhlyuaziz-Fevkani Dağı","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Redzhlyuaziz-Fevkani%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386635","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en önemli coğrafi oluşumlarından biri olan Redzhlyuaziz-Fevkani Dağı, ziyaretçilerini büyüleyici manzaralar ve zengin bir flora ile karşılar."
 keywords: ["Redzhlyuaziz-Fevkani Dağı","İç Anadolu Bölgesi","coğrafi oluşum","flora","fauna","doğal güzellik","gezi","tarihçe","coğrafya"]

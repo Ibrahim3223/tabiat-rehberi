@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi türbe gezi","Doğa yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Hasandede Türbesi, Gümüşyayla","caption":"Hasandede Türbesi, Gümüşyayla","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Hasandede Türbesi, Gümüşyayla","caption":"Hasandede Türbesi, Gümüşyayla","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasandede%20T%C3%BCrbesi%2C%20G%C3%BCm%C3%BC%C5%9Fyayla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582360","tip":"genel"}]
 description: "Ankara'nın Çubuk ilçesinde bulunan historical bir mekan, 140 hektarlık yeşil alan, doğal güzellikler"
 keywords: ["Hasandede Türbesi","Gümüşyayla","Ankara","Çubuk","tarihi mekan","doğa","yeşil alan","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf/page1-820px-Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf.jpg","alt":"Kandil Tepesi","caption":"Kandil Tepesi","credit":"Travels In The Trans-Caucasian Provinces Of Russia (IA TravelsInTheTransCaucasianProvincesOfRussia).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blackwood%27s_Magazine_volume_033.djvu/page1-800px-Blackwood%27s_Magazine_volume_033.djvu.jpg","alt":"Kandil Tepesi","caption":"Kandil Tepesi","credit":"Blackwood's Magazine volume 033","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kandil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388404","tip":"genel"}]
 description: "Muş'un gizli güzelliği Kandil Tepesi, doğa severlerin buluşma noktası"
 keywords: ["Kandil Tepesi","Muş","Doğu Anadolu Bölgesi","doğa","gezi","tepe","manzara"]

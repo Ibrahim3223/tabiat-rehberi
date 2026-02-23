@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["fotoğraf çekmek","tarih hakkında bilgi edinmek","doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Turkey%2C_Greece_and_Malta_%28IA_b29325146_0002%29.pdf/page1-960px-Turkey%2C_Greece_and_Malta_%28IA_b29325146_0002%29.pdf.jpg","alt":"Sitte Melik Kümbeti, Divriği","caption":"Sitte Melik Kümbeti, Divriği","credit":"Turkey, Greece and Malta (IA b29325146 0002).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Sitte Melik Kümbeti, Divriği","caption":"Sitte Melik Kümbeti, Divriği","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sitte%20Melik%20K%C3%BCmbeti%2C%20Divri%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582397","tip":"genel"}]
 description: "Sivas'ın Divriği ilçesinde bulunan tarihi Sitte Melik Kümbeti, mimari özellikleri ile dikkat çekiyor."
 keywords: ["Sitte Melik Kümbeti","Divriği","Sivas","tarihi mekanlar","kültürel miras","mimari eserler","İç Anadolu Bölgesi","gezi noktaları","tarih"]

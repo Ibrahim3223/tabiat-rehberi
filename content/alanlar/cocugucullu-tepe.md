@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Çocuğuçullu Tepe","caption":"Çocuğuçullu Tepe","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Çocuğuçullu Tepe","caption":"Çocuğuçullu Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ocu%C4%9Fu%C3%A7ullu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829517","tip":"genel"}]
 description: "Nevşehir'in tarihi ve doğal güzelliklerinin buluştuğu nokta"
 keywords: ["Nevşehir","İç Anadolu Bölgesi","tarih","doğa","gezi","çevre","flora","fauna"]

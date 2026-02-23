@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Kuş gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia%3B_with_some_account_of_their_antiquities_and_geology_02_%28researchesinasia02hami%29.pdf/page1-764px-Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia%3B_with_some_account_of_their_antiquities_and_geology_02_%28researchesinasia02hami%29.pdf.jpg","alt":"Şeyh Muhammed Ensari Türbesi","caption":"Şeyh Muhammed Ensari Türbesi","credit":"Researches in Asia Minor, Pontus, and Armenia; with some account of their antiquities and geology 02 (researchesinasia02hami).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Şeyh Muhammed Ensari Türbesi","caption":"Şeyh Muhammed Ensari Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhammed%20Ensari%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390874","tip":"genel"}]
 description: "Kilis'in tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Kilis","Şeyh Muhammed Ensari","Türbe","Tarih","Doğa","Gezi","Kilis ili"]

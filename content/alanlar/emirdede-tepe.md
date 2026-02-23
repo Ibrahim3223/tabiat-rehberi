@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kamp","fotoğrafçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Psyche_%28IA_psyche2010camb%29.pdf/page1-960px-Psyche_%28IA_psyche2010camb%29.pdf.jpg","alt":"Emirdede Tepe","caption":"Emirdede Tepe","credit":"Psyche (IA psyche2010camb).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Emirdede Tepe","caption":"Emirdede Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emirdede%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385849","tip":"genel"}]
 description: "Afyonkarahisar'ın doğal güzelliklerinden biri olan Emirdede Tepe, ziyaretçilerini bekliyor."
 keywords: ["Emirdede Tepe","Afyonkarahisar","Ege Bölgesi","doğal güzellik","turizm","gezi","yayla","tepe","manzara"]

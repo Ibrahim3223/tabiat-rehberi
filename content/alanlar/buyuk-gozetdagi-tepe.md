@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Büyük Gözetdağı Tepe","caption":"Büyük Gözetdağı Tepe","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Büyük Gözetdağı Tepe","caption":"Büyük Gözetdağı Tepe","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20G%C3%B6zetda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731256","tip":"genel"}]
 description: "Konya'da bulunan Büyük Gözetdağı Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biridir."
 keywords: ["Büyük Gözetdağı Tepe","Konya","Dağ","Turizm","Doğa","Konya dağları","Büyük Gözetdağı","Gözetdağı Tepe","Konya turistik yerler"]

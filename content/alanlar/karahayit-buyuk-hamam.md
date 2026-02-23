@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Gezinti","Fotoğraf çekimi","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf/page1-629px-Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf.jpg","alt":"Karahayıt Büyük Hamam","caption":"Karahayıt Büyük Hamam","credit":"Letters from the Aegean (IA lettersfromaegea01tenn).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Karahayıt Büyük Hamam","caption":"Karahayıt Büyük Hamam","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karahay%C4%B1t%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739014","tip":"genel"}]
 description: "Pamukkale'nin doğal güzellikleri arasında yer alan Karahayıt Büyük Hamam, 140 hektarlık bir alan üzerinde kurulmuştur. Ege Bölgesi'nin önemli turizm merkezlerinden biri olan bu bölge, zengin tarihi ve doğal güzellikleriyle ziyaretçilerini beklemektedir."
 keywords: ["Pamukkale","Karahayıt","Büyük Hamam","Ege Bölgesi","Doğal güzellik","Tarih","Turizm"]

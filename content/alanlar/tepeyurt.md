@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Trekking","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Letters_on_the_American_republic_-_or%2C_Common_fallacies_and_monstrous_errors_refuted_and_exposed_%28IA_lettersonamerica00balm%29.pdf/page1-620px-Letters_on_the_American_republic_-_or%2C_Common_fallacies_and_monstrous_errors_refuted_and_exposed_%28IA_lettersonamerica00balm%29.pdf.jpg","alt":"Tepeyurt","caption":"Tepeyurt","credit":"Letters on the American republic - or, Common fallacies and monstrous errors refuted and exposed (IA lettersonamerica00balm).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Tepeyurt","caption":"Tepeyurt","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepeyurt","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387357","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerini keşfedin. Karadeniz Bölgesi'nde yer alan Tepeyurt, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Samsun","Karadeniz Bölgesi","Doğa","Tepeyurt","Yeşil Alan","Fiziksel Veriler","Hikaye"]

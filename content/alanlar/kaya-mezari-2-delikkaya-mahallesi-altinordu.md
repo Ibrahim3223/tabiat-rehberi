@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğrafçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Kaya Mezarı 2 (Delikkaya Mahallesi), Altınordu","caption":"Kaya Mezarı 2 (Delikkaya Mahallesi), Altınordu","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Kaya Mezarı 2 (Delikkaya Mahallesi), Altınordu","caption":"Kaya Mezarı 2 (Delikkaya Mahallesi), Altınordu","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%202%20(Delikkaya%20Mahallesi)%2C%20Alt%C4%B1nordu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728212","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Kaya Mezarı 2, tarihi ve doğal güzellikleri ile dikkat çekiyor. Altınordu'nun Delikkaya Mahallesi'nde bulunan bu özel alan, ziyaretçilerini bekliyor."
 keywords: ["Kaya Mezarı 2","Delikkaya Mahallesi","Altınordu","Karadeniz Bölgesi","tarih","doğa","gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Irish_national_invincibles_and_their_times%3B_%28IA_irishnationalinv01tyna%29.pdf/page1-850px-The_Irish_national_invincibles_and_their_times%3B_%28IA_irishnationalinv01tyna%29.pdf.jpg","alt":"Ani Menuçehr Hamamı","caption":"Ani Menuçehr Hamamı","credit":"The Irish national invincibles and their times; (IA irishnationalinv01tyna).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ani Menuçehr Hamamı","caption":"Ani Menuçehr Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ani%20Menu%C3%A7ehr%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738756","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren Ani Menuçehr Hamamı, Kars ilinin Ani ilçesinde yer alır."
 keywords: ["Ani Menuçehr Hamamı","Kars","Doğu Anadolu Bölgesi","tarihi eserler","doğal güzellikler","gezi rehberi","turizm","kültür","tarih"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Narrative_of_a_mission_to_Central_Africa_-_performed_in_the_years_1850-51_-_under_the_orders_and_at_the_expense_of_Her_Majesty%27s_government_%28IA_narrativeofmissi11853rich%29.pdf/page1-700px-thumbnail.pdf.jpg","alt":"Çevlik Dağı","caption":"Çevlik Dağı","credit":"Narrative of a mission to Central Africa - performed in the years 1850-51 - under the orders and at the expense of Her Majesty's government (IA narrativeofmissi11853rich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Çevlik Dağı","caption":"Çevlik Dağı","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87evlik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818901","tip":"genel"}]
 description: "Karaman'da bulunan Çevlik Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Çevlik Dağı","Karaman","Dağ","Doğa","Yeşil Alan","Türkiye","Gezi","Seyahat","Karaman Gezilecek Yerler"]

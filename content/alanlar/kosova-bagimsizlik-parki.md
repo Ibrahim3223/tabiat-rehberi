@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_imperial_encyclopedia_and_dictionary%3Ba_library_of_universal_knowledge_and_an_unabridged_dictionary_of_the_English_language_under_one_alphabet..._%28Vol._35%2C_Smuggling_-_Stricture%29_%28IA_imperialencyclop35unse%29.pdf/page1-931px-thumbnail.pdf.jpg","alt":"Kosova Bağımsızlık Parkı","caption":"Kosova Bağımsızlık Parkı","credit":"The imperial encyclopedia and dictionary;a library of universal knowledge and an unabridged dictionary of the English language under one alphabet... (Vol. 35, Smuggling - Stricture) (IA imperialencyclop35unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Turkey.Bodrum049.jpg/960px-Turkey.Bodrum049.jpg","alt":"Kosova Bağımsızlık Parkı","caption":"Kosova Bağımsızlık Parkı","credit":"Turkey.Bodrum049","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kosova%20Ba%C4%9F%C4%B1ms%C4%B1zl%C4%B1k%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123118376","tip":"genel"}]
 description: "İzmir'in Buca ilçesinde bulunan Kosova Bağımsızlık Parkı, 1200 hektarlık botanik bahçesi ile ziyaretçilerini bekliyor."
 keywords: ["Kosova Bağımsızlık Parkı","İzmir parkları","Buca botanik bahçesi","İzmir gezi","Botanik bahçesi","Doğa parkı","İzmir turizm","Yeşil alanlar","Parklar"]

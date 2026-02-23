@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Çevre güzelliği izleme","Huzurlu atmosferde dinlenme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Victoria_Daily_Times_%281923-08-04%29_%28IA_victoriadailytimes19230804%29.pdf/page1-960px-Victoria_Daily_Times_%281923-08-04%29_%28IA_victoriadailytimes19230804%29.pdf.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1","caption":"Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1","credit":"Victoria Daily Times (1923-08-04) (IA victoriadailytimes19230804).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Uluda%C4%9F_-_Olympos_Misios.jpg/960px-Uluda%C4%9F_-_Olympos_Misios.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1","caption":"Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1","credit":"Uludağ - Olympos Misios","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Karacabey%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227861","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide yerlerinden biri olan Bursa-Mustafakemalpaşa-Karacabey Kızılçam 1 milli parkı, 140 hektarlık geniş bir alanı kapsıyor."
 keywords: ["Bursa","Marmara Bölgesi","milli park","Kızılçam","doğa","turizm","gezi","çevre","ekosistem"]

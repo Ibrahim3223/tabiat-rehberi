@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları keşfetmek","doğal güzellikleri izlemek","etkinliklere katılmak","yöresel yemekleri denemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Anonim Kümbet Mevlana","caption":"Anonim Kümbet Mevlana","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Anonim Kümbet Mevlana","caption":"Anonim Kümbet Mevlana","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20K%C3%BCmbet%20Mevlana","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582385","tip":"genel"}]
 description: "Konya'nın Karatay ilçesinde bulunan Anonim Kümbet Mevlana, tarihi ve doğal güzellikleri bir araya getiriyor."
 keywords: ["Karatay","Konya","İç Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","gezi noktaları","kültürel miras","Mevlana"]

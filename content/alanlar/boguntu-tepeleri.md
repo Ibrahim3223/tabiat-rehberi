@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Coğrafi keşif","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_gri_westernworld00king%29.pdf/page1-647px-The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_gri_westernworld00king%29.pdf.jpg","alt":"Boğuntu Tepeleri","caption":"Boğuntu Tepeleri","credit":"The western world. Picturesque sketches of nature and natural history in North and South America (IA gri westernworld00king).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Boğuntu Tepeleri","caption":"Boğuntu Tepeleri","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bo%C4%9Funtu%20Tepeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387269","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Boğuntu Tepeleri, yaklaşık 140 hektarlık bir alanı kaplıyor."
 keywords: ["Boğuntu Tepeleri","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]

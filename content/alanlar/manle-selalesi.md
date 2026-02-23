@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","yemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/The_National_Era_%28IA_d437fe46-f955-403c-a961-bd8b024310d8%29.pdf/page1-960px-The_National_Era_%28IA_d437fe46-f955-403c-a961-bd8b024310d8%29.pdf.jpg","alt":"Manle Şelalesi","caption":"Manle Şelalesi","credit":"The National Era (IA d437fe46-f955-403c-a961-bd8b024310d8).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kursunlu_Waterfall_Nature_Park_in_city_of_Antalya.jpg/960px-Kursunlu_Waterfall_Nature_Park_in_city_of_Antalya.jpg","alt":"Manle Şelalesi","caption":"Manle Şelalesi","credit":"Kursunlu Waterfall Nature Park in city of Antalya","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manle%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076486","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerinden biri olan Manle Şelalesi, ziyaretçilerini etkileyen bir doğa harikasıdır."
 keywords: ["Manle Şelalesi","Rize","Karadeniz Bölgesi","doğa","şelale","gezi","turizm"]

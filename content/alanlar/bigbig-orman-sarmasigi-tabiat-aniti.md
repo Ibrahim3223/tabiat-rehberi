@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Bitki gözlemi","Hayvan gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaid%29.pdf/page1-931px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaid%29.pdf.jpg","alt":"Bığbığ Orman Sarmaşığı Tabiat Anıtı","caption":"Bığbığ Orman Sarmaşığı Tabiat Anıtı","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen00gaid).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lands_of_the_Saracen_1859.djvu/page1-800px-Lands_of_the_Saracen_1859.djvu.jpg","alt":"Bığbığ Orman Sarmaşığı Tabiat Anıtı","caption":"Bığbığ Orman Sarmaşığı Tabiat Anıtı","credit":"Lands of the Saracen 1859","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C4%B1%C4%9Fb%C4%B1%C4%9F%20Orman%20Sarma%C5%9F%C4%B1%C4%9F%C4%B1%20Tabiat%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Adana'da bulunan Bığbığ Orman Sarmaşığı Tabiat Anıtı, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Bığbığ Orman Sarmaşığı","Tabiat Anıtı","Adana","Akdeniz Bölgesi","Doğal Alan","Orman","Sarmaşık"]

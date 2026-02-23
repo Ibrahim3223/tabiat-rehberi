@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Glendale_Evening_News_1922-10-12_%28IA_cgl_004813%29.pdf/page1-960px-The_Glendale_Evening_News_1922-10-12_%28IA_cgl_004813%29.pdf.jpg","alt":"Varoş Dağı","caption":"Varoş Dağı","credit":"The Glendale Evening News 1922-10-12 (IA cgl 004813).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Varoş Dağı","caption":"Varoş Dağı","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Varo%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560431","tip":"genel"}]
 description: "Rize'de bulunan Varoş Dağı, 1200 hektarlık yeşil cenneti ve İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Varoş Dağı","Rize","Dağ","Doğa","Yeşil Alan","İstanbul","Türkiye","Seyahat","Gezi"]

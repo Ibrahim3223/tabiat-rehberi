@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Amogirmo Tepesi","caption":"Amogirmo Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Amogirmo Tepesi","caption":"Amogirmo Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amogirmo%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31542236","tip":"genel"}]
 description: "Diyarbakır'da yer alan Amogirmo Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri."
 keywords: ["Amogirmo Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","coğrafi oluşum","tepe","doğa"]

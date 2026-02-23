@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf/page1-875px-Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf.jpg","alt":"Çimeniçi Mağarası","caption":"Çimeniçi Mağarası","credit":"Revue suisse de zoologie (IA revuesuissede11042003schw).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu/page1-800px-Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu.jpg","alt":"Çimeniçi Mağarası","caption":"Çimeniçi Mağarası","credit":"Islam, Turkey, and Armenia, and How They Happened","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87imeni%C3%A7i%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Antalya'da bulunan Çimeniçi Mağarası, 1200 hektarlık yeşil alan içinde yer alan bir doğa harikası"
 keywords: ["Çimeniçi Mağarası","Antalya mağaraları","doğa harikaları","turistik yerler","gezi rehberi","mağara gezisi","Antalya gezilecek yerler","doğal güzellikler","Türkiye'nin gizli cenneti"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Tarihi mekanları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf/page1-960px-The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf.jpg","alt":"Demirtaş Paşa Hamamı","caption":"Demirtaş Paşa Hamamı","credit":"The Enterprise 1923-06-07 (IA cssf 001428).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Demirtaş Paşa Hamamı","caption":"Demirtaş Paşa Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirta%C5%9F%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738464","tip":"genel"}]
 description: "Marmara Bölgesi'nde, Osmangazi/Bursa'da yer alan Demirtaş Paşa Hamamı, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Demirtaş Paşa Hamamı","Osmangazi","Bursa","Marmara Bölgesi","tarihi mekan","doğal güzellik","turizm","gezi","seyahat"]

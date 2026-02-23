@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_war_in_eastern_Europe_%28IA_cu31924027947252%29.pdf/page1-833px-The_war_in_eastern_Europe_%28IA_cu31924027947252%29.pdf.jpg","alt":"Kumru Dağı","caption":"Kumru Dağı","credit":"The war in eastern Europe (IA cu31924027947252).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Kumru Dağı","caption":"Kumru Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumru%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31537608","tip":"genel"}]
 description: "Kilis'te bulunan Kumru Dağı, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kumru Dağı","Kilis","Dağ","Doğa","Tarih","Yeşil Alan","İstanbul","Turizm","Gezi"]

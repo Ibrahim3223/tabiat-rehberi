@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Ovacık Adası","caption":"Ovacık Adası","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Fire_in_southern_Turkey_%28MODIS_2017-07-15%29.jpg/960px-Fire_in_southern_Turkey_%28MODIS_2017-07-15%29.jpg","alt":"Ovacık Adası","caption":"Ovacık Adası","credit":"Fire in southern Turkey (MODIS 2017-07-15)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ovac%C4%B1k%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49667144","tip":"genel"}]
 description: "Mersin'in güzide adalarından biri olan Ovacık Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Ovacık Adası","Mersin Adaları","Akdeniz Adaları","Türkiye Adaları","Deniz Turizmi","Mersin Turizm","Ada Gezileri","Doğa Turizmi","Tarihî Yerler"]

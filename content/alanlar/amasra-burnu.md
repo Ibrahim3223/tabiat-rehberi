@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tracking_NatureWatch_successes_%28IA_CAT10850921%29.pdf/page1-960px-Tracking_NatureWatch_successes_%28IA_CAT10850921%29.pdf.jpg","alt":"Amasra Burnu","caption":"Amasra Burnu","credit":"Tracking NatureWatch successes (IA CAT10850921).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abandoned_blue.jpg/960px-Abandoned_blue.jpg","alt":"Amasra Burnu","caption":"Amasra Burnu","credit":"Abandoned blue","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasra%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829229","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Amasra Burnu, çeşitli kuş türlerine ev sahipliği yapıyor."
 keywords: ["Amasra Burnu","kuş cenneti","Türkiye","doğa","kuş gözlem","Amasra","Bartın","turizm","çevre"]

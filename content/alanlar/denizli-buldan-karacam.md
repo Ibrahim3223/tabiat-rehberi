@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Doğa ile iç içe olma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Science-gossip_%28IA_sciencegossip0670lond%29.pdf/page1-960px-Science-gossip_%28IA_sciencegossip0670lond%29.pdf.jpg","alt":"Denizli-Buldan Karacam","caption":"Denizli-Buldan Karacam","credit":"Science-gossip (IA sciencegossip0670lond).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Denizli-Buldan Karacam","caption":"Denizli-Buldan Karacam","credit":"Turkish nature reserve","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Buldan%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227499","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, 140 hektarlık alan"
 keywords: ["Denizli","Buldan","Karacam","Milli Park","Ege Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı"]

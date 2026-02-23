@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Kampçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Erzurum-Sarikamis-Boyali Saricam","caption":"Erzurum-Sarikamis-Boyali Saricam","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cilingoz_National_Park_Beach_with_waves.jpg/960px-Cilingoz_National_Park_Beach_with_waves.jpg","alt":"Erzurum-Sarikamis-Boyali Saricam","caption":"Erzurum-Sarikamis-Boyali Saricam","credit":"Cilingoz National Park Beach with waves","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Sarikamis-Boyali%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227561","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide milli parkı"
 keywords: ["Erzurum","Sarikamis","Boyali Saricam","Milli Park","Doğu Anadolu Bölgesi","Doğal Alan","Turizm","Gezi","Seyahat"]

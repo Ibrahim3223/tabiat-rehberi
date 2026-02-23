@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","vahşi yaşam gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/The_Examiner_1877-05-26-_Iss_3617_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1877-05-26_3617%29.pdf/page1-960px-The_Examiner_1877-05-26-_Iss_3617_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1877-05-26_3617%29.pdf.jpg","alt":"Artvin-Goktas-Baskoy Kizilagac","caption":"Artvin-Goktas-Baskoy Kizilagac","credit":"The Examiner 1877-05-26- Iss 3617 (IA sim examiner-a-weekly-paper-on-politics-literature-music 1877-05-26 3617).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_photos_of_Akda%C4%9F_3.jpg/960px-The_photos_of_Akda%C4%9F_3.jpg","alt":"Artvin-Goktas-Baskoy Kizilagac","caption":"Artvin-Goktas-Baskoy Kizilagac","credit":"The photos of Akdağ 3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Goktas-Baskoy%20Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227748","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Artvin","Karadeniz Bölgesi","doğa","milli park","gezi","turizm","çevre","ekoloji"]

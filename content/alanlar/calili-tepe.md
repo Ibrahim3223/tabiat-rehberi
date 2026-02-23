@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik","keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ongoing_declines_for_the_world%E2%80%99s_amphibians_in_the_face_of_emerging_threats.pdf/page1-960px-Ongoing_declines_for_the_world%E2%80%99s_amphibians_in_the_face_of_emerging_threats.pdf.jpg","alt":"Çalılı Tepe","caption":"Çalılı Tepe","credit":"Ongoing declines for the world’s amphibians in the face of emerging threats.pdf","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Çalılı Tepe","caption":"Çalılı Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87al%C4%B1l%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828063","tip":"genel"}]
 description: "İzmir'in gizli cenneti, 140 hektarlık yeşil alanda doğa yürüyüşü ve keşif"
 keywords: ["İzmir","doğa yürüyüşü","keşif","yeşil alan","Çalılı Tepe","Ege Bölgesi","turizm","gezi","çevre"]

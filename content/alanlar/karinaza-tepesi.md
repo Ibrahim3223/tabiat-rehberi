@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğraf çekme","tepeye tırmanma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Forest_vegetation_of_the_Black_Hills_National_Forest_of_South_Dakota_and_Wyoming_-_a_habitat_type_classification_%28IA_CAT92273487%29.pdf/page1-960px-Forest_vegetation_of_the_Black_Hills_National_Forest_of_South_Dakota_and_Wyoming_-_a_habitat_type_classification_%28IA_CAT92273487%29.pdf.jpg","alt":"Karınaza Tepesi","caption":"Karınaza Tepesi","credit":"Forest vegetation of the Black Hills National Forest of South Dakota and Wyoming - a habitat type classification (IA CAT92273487).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Karınaza Tepesi","caption":"Karınaza Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kar%C4%B1naza%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385676","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Karınaza Tepesi, Van şehrinin önemli doğal güzelliklerinden biri"
 keywords: ["Karınaza Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

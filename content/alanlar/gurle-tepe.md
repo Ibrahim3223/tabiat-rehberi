@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Tarih kalıntıları gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Groups_of_plants_valuable_for_wildlife_utilization_and_erosion_control_%28IA_groupsofplantsva412mcat%29.pdf/page1-793px-Groups_of_plants_valuable_for_wildlife_utilization_and_erosion_control_%28IA_groupsofplantsva412mcat%29.pdf.jpg","alt":"Gürle Tepe","caption":"Gürle Tepe","credit":"Groups of plants valuable for wildlife utilization and erosion control (IA groupsofplantsva412mcat).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Gürle Tepe","caption":"Gürle Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrle%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139599","tip":"genel"}]
 description: "Bursa'nın Marmara Bölgesi'nde yer alan Gürle Tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Gürle Tepe","Bursa","Marmara Bölgesi","yeşil alan","futbol sahası","doğa","gezi","tarihçe"]

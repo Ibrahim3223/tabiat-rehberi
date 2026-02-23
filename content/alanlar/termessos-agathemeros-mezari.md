@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["rehberli turlar","antik kent gezisi","doğa yürüyüşü","fotografcılık","tarih ve kültür araştırması"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Termessos Agathemeros Mezarı","caption":"Termessos Agathemeros Mezarı","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Termessos Agathemeros Mezarı","caption":"Termessos Agathemeros Mezarı","credit":"Antalya Serik Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Termessos%20Agathemeros%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728133","tip":"genel"}]
 description: "Antalya'nın Döşemealtı ilçesinde bulunan tarihi mezar, Akdeniz Bölgesi'nin önemli tarihi noktaları arasında yer alır."
 keywords: ["Termessos","Agathemeros Mezarı","Döşemealtı","Antalya","Akdeniz Bölgesi","tarihi mezar","Antik Dönem","arkeolojik sitio"]

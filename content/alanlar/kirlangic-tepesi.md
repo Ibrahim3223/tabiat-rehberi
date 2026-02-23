@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Tepenin zirvesine tırmanmak","Tarihi kalıntıları gezmek","Yerel köyleri keşfetmek","Doğa yürüyüşü yapmak","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf/page1-800px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf.jpg","alt":"Kırlangıç Tepesi","caption":"Kırlangıç Tepesi","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00singiala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kırlangıç Tepesi","caption":"Kırlangıç Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rlang%C4%B1%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211239","tip":"genel"}]
 description: "Türkiye'nin İç Anadolu Bölgesi'nde yer alan Kırlangıç Tepesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Kırlangıç Tepesi","İç Anadolu Bölgesi","Doğal Güzellik","Tarih","Turizm","Gezi","Yerel Kültür","Coğrafya"]

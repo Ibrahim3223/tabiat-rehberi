@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","çevre keşfi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Science-gossip_%28IA_sciencegossip0670lond%29.pdf/page1-960px-Science-gossip_%28IA_sciencegossip0670lond%29.pdf.jpg","alt":"Denizli-Cal-Civril-Kizilcam1","caption":"Denizli-Cal-Civril-Kizilcam1","credit":"Science-gossip (IA sciencegossip0670lond).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Denizli-Cal-Civril-Kizilcam1","caption":"Denizli-Cal-Civril-Kizilcam1","credit":"MC Siedleragame","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cal-Civril-Kizilcam1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228525","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerini keşfedin. 140 hektarlık milli park, çeşitli bitki türleri ve zengin fauna ile çevreyi keşfedin."
 keywords: ["Denizli","milli park","doğa","çevre","flora","fauna","gezi","turizm","Denizli-Cal-Civril-Kizilcam1"]

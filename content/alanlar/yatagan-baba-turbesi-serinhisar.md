@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","bitki","hayvan izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf/page1-629px-Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf.jpg","alt":"Yatağan Baba Türbesi, Serinhisar","caption":"Yatağan Baba Türbesi, Serinhisar","credit":"Letters from the Aegean (IA lettersfromaegea01tenn).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Yatağan Baba Türbesi, Serinhisar","caption":"Yatağan Baba Türbesi, Serinhisar","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yata%C4%9Fan%20Baba%20T%C3%BCrbesi%2C%20Serinhisar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735181","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, tarihi ve doğal güzellikleri ile dikkat çeken Yatağan Baba Türbesi, Serinhisar."
 keywords: ["Yatağan Baba Türbesi","Serinhisar","Denizli","Ege Bölgesi","tarih","doğa","türbe","gezi"]

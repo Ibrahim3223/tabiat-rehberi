@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kamp","su sporları","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/The_Armenians%2Cor_the_people_of_Ararat_-_a_brief_historical_sketch_of_the_past_and_the_present_condition_of_Armenia%2C_the_Armenians%2C_their_religion%2C_and_missions_among_them_%28IA_b24886403%29.pdf/page1-872px-thumbnail.pdf.jpg","alt":"Öküzbaşı Tepesi","caption":"Öküzbaşı Tepesi","credit":"The Armenians,or the people of Ararat - a brief historical sketch of the past and the present condition of Armenia, the Armenians, their religion, and missions among them (IA b24886403).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Öküzbaşı Tepesi","caption":"Öküzbaşı Tepesi","credit":"Armenia, Travels and Studies, Vol. 2","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96k%C3%BCzba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829698","tip":"genel"}]
 description: "Kars'ın doğal güzellikleri arasında yer alan Öküzbaşı Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Kars","Doğu Anadolu Bölgesi","Öküzbaşı Tepesi","doğa","gezi","tepe","manzara"]

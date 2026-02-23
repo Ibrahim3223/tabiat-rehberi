@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/95/CAPPADOCIA_G%C3%B6reme_National_Park_and_the_Rock_Sites._World_Heritage_List._Turkey._Hot_Air_Ballooning_Cappadocia.jpg","alt":"Karlık Dağ manzarası","credit":"Feridun F. Alkaya","license":"cc0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Karlık Dağ","caption":"Karlık Dağ","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c8/CAPPADOCIA_G%C3%B6reme_National_Park_and_the_Rock_Sites._World_Heritage_List._The_Fairy_Chimneys.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CAPPADOCIA_G%C3%B6reme_National_Park_and_the_Rock_Sites._World_Heritage_List._The_Fairy_Chimneys.jpg/1280px-CAPPADOCIA_G%C3%B6reme_National_Park_and_the_Rock_Sites._World_Heritage_List._The_Fairy_Chimneys.jpg","alt":"Karlık Dağ - CAPPADOCIA Göreme National Park and the Rock Sites. World Heritage List. The Fairy Chimneys","credit":"Feridun F. Alkaya","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karl%C4%B1k%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31565041","tip":"genel"}]
 description: "Sinop'ta yer alan Karlık Dağ, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."

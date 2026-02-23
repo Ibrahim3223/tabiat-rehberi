@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf/page1-835px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 1","caption":"Bin Tepeler Tümülüsü 1","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla02burt).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 1","caption":"Bin Tepeler Tümülüsü 1","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728374","tip":"genel"}]
 description: "Ege Bölgesi'nin güzelliklerini keşfedin. Salihli/Manisa'da bulunan Bin Tepeler Tümülüsü 1, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Bin Tepeler Tümülüsü 1","Salihli","Manisa","Ege Bölgesi","tarihi mekanlar","doğa güzellikleri","gezi rehberi"]

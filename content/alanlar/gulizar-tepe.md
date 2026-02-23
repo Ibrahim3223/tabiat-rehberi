@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Agricultural_marketing_%28IA_SER71900025117%29.pdf/page1-960px-Agricultural_marketing_%28IA_SER71900025117%29.pdf.jpg","alt":"Gülizar Tepe","caption":"Gülizar Tepe","credit":"Agricultural marketing (IA SER71900025117).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Gülizar Tepe","caption":"Gülizar Tepe","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BClizar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139072","tip":"genel"}]
 description: "Ağrı'da yer alan Gülizar Tepe, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğa severler için ideal bir destinasyon."
 keywords: ["Gülizar Tepe","Ağrı","Doğa","Dağ","Yeşil Alan","Doğa Turizmi","Trekking","Kamp","Ağrı Turizm"]

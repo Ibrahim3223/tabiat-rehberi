@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçi gezisi","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Huntington_Beach_News_-_1918-05-10_%28IA_castaoca_000354%29.pdf/page1-960px-Huntington_Beach_News_-_1918-05-10_%28IA_castaoca_000354%29.pdf.jpg","alt":"Süleyman Bey Kümbeti, Gürpınar","caption":"Süleyman Bey Kümbeti, Gürpınar","credit":"Huntington Beach News - 1918-05-10 (IA castaoca 000354).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_11.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_11.jpg","alt":"Süleyman Bey Kümbeti, Gürpınar","caption":"Süleyman Bey Kümbeti, Gürpınar","credit":"استانبول ترکیه - ساحل دریای مرمره در شهر استانبول 11","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCleyman%20Bey%20K%C3%BCmbeti%2C%20G%C3%BCrp%C4%B1nar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582820","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Süleyman Bey Kümbeti, Gürpınar'da tarihi bir değer olarak karşımıza çıkıyor."
 keywords: ["Süleyman Bey Kümbeti","Gürpınar","Van","Doğu Anadolu Bölgesi","tarihi değer","kültürel miras","coğrafya","doğa"]

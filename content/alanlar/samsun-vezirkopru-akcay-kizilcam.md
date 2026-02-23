@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemciliği","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Victoria_Daily_Times_%281919-04-30%29_%28IA_victoriadailytimes19190430%29.pdf/page1-960px-Victoria_Daily_Times_%281919-04-30%29_%28IA_victoriadailytimes19190430%29.pdf.jpg","alt":"Samsun-Vezirkopru-Akcay Kızılçam","caption":"Samsun-Vezirkopru-Akcay Kızılçam","credit":"Victoria Daily Times (1919-04-30) (IA victoriadailytimes19190430).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Samsun-Vezirkopru-Akcay Kızılçam","caption":"Samsun-Vezirkopru-Akcay Kızılçam","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samsun-Vezirkopru-Akcay%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227296","tip":"genel"}]
 description: "Samsun'da yer alan doğal güzellikler arasında bulunan Samsun-Vezirkopru-Akcay Kızılçam Milli Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Samsun","Vezirkopru","Akcay Kızılçam","Milli Park","Doğa","Yeşil Alan","Karadeniz Bölgesi"]

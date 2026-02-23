@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/From_Southampton_to_Calcutta_%28IA_dli.granth.40161%29.pdf/page1-650px-From_Southampton_to_Calcutta_%28IA_dli.granth.40161%29.pdf.jpg","alt":"Karakiriş Dağı","caption":"Karakiriş Dağı","credit":"From Southampton to Calcutta (IA dli.granth.40161).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Karakiriş Dağı","caption":"Karakiriş Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakiri%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31565436","tip":"genel"}]
 description: "Bolu'nun doğal güzelliklerini keşfedin, Karakiriş Dağı'nın heybetli manzaralarını görün"
 keywords: ["Karakiriş Dağı","Bolu","Dağ","Doğa","Turizm","Gezi","Manzara","Bolu Turistik Yerler","Karakiriş Dağı Trekking"]

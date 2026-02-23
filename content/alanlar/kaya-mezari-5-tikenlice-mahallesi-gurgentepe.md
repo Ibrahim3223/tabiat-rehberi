@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Plajda güneşlenme","Denizde yüzme","Tarih mezarlarını ziyaret etme","Yerel lezzetleri tadma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Victoria_Daily_Times_%281913-10-06%29_%28IA_victoriadailytimes19131006%29.pdf/page1-960px-Victoria_Daily_Times_%281913-10-06%29_%28IA_victoriadailytimes19131006%29.pdf.jpg","alt":"Kaya Mezarı 5 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 5 (Tikenlice Mahallesi) Gürgentepe","credit":"Victoria Daily Times (1913-10-06) (IA victoriadailytimes19131006).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Kaya Mezarı 5 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 5 (Tikenlice Mahallesi) Gürgentepe","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%205%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728206","tip":"genel"}]
 description: "Ordu'nun Gürgentepe ilçesinde bulunan Kaya Mezarı 5, Tikenlice Mahallesi'nin önemli tarihi ve turistik mekanlarından biri"
 keywords: ["Kaya Mezarı 5","Tikenlice Mahallesi","Gürgentepe","Ordu","Karadeniz Bölgesi","tarih","turizm","kültür"]

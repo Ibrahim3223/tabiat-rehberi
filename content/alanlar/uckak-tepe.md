@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin eteklerinde gezinmek","Tarihi eserleri ve kalıntıları ziyaret etmek","Şehir manzarasını ve çevresindeki dağları görmek","Yerel yemekleri tadmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Üçkak Tepe","caption":"Üçkak Tepe","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Üçkak Tepe","caption":"Üçkak Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7kak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810122","tip":"genel"}]
 description: "Adıyaman'da bulunan Üçkak Tepe, tarihi ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Üçkak Tepe","Adıyaman","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","ziyaret","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf/page1-670px-The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf.jpg","alt":"Elleryükseği Tepesi","caption":"Elleryükseği Tepesi","credit":"The salt-box house; eighteenth century life in a New England hill town (IA cu31924028842544).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Elleryükseği Tepesi","caption":"Elleryükseği Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ellery%C3%BCkse%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34867625","tip":"genel"}]
 description: "Çorum'un yükselen güzelliği, Karadeniz Bölgesi'nin önemli noktalarından biri"
 keywords: ["Elleryükseği Tepesi","Çorum","Karadeniz Bölgesi","tepe","doğa","gezi","tarihçe","coğrafya"]

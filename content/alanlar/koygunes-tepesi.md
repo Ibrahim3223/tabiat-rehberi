@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf/page1-960px-Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf.jpg","alt":"Köygünes Tepesi","caption":"Köygünes Tepesi","credit":"Harper's New Monthly Magazine, Volume 46.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Köygünes Tepesi","caption":"Köygünes Tepesi","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6yg%C3%BCnes%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042795","tip":"genel"}]
 description: "Mardin'de bulunan Köygünes Tepesi, doğa severler için bir cennet. 1200 hektarlık yeşil alan, İstanbul'un yarısı kadar."
 keywords: ["Köygünes Tepesi","Mardin","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Mardin Gezilecek Yerler"]

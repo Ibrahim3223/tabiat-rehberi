@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Manzara izleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Journal_Of_Travels_In_The_Seat_Of_War_-_During_The_Last_Two_Compaigns_Of_Russia_And_Turkey_%28IA_dli.granth.36407%29.pdf/page1-750px-Journal_Of_Travels_In_The_Seat_Of_War_-_During_The_Last_Two_Compaigns_Of_Russia_And_Turkey_%28IA_dli.granth.36407%29.pdf.jpg","alt":"Somun Tepesi","caption":"Somun Tepesi","credit":"Journal Of Travels In The Seat Of War - During The Last Two Compaigns Of Russia And Turkey (IA dli.granth.36407).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Somun Tepesi","caption":"Somun Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Somun%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390708","tip":"genel"}]
 description: "Tokat'ta bulunan Somun Tepesi, Karadeniz Bölgesi'nin en güzel doğal alanlarından biri"
 keywords: ["Somun Tepesi","Tokat","Karadeniz Bölgesi","doğa","gezi","turizm"]

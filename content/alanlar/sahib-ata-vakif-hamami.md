@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi gezisi","doğa yürüyüşü","fotografcılık","kültürel deneyim"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf/page1-860px-Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf.jpg","alt":"Sahib Ata Vakıf Hamamı","caption":"Sahib Ata Vakıf Hamamı","credit":"Revue suisse de zoologie (IA revuesuissede11412007schw).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Sahib Ata Vakıf Hamamı","caption":"Sahib Ata Vakıf Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sahib%20Ata%20Vak%C4%B1f%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738821","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin tarihi ve doğal güzellikleri arasında yer alan Sahib Ata Vakıf Hamamı, Konya'nın Ilgın ilçesinde bulunur."
 keywords: ["Sahib Ata Vakıf Hamamı","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","mimari"]

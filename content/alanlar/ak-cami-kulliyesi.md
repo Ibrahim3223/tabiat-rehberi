@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarihî mekan gezisi","Fotoğraf çekimi","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Ak Cami Külliyesi","caption":"Ak Cami Külliyesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ak Cami Külliyesi","caption":"Ak Cami Külliyesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%20Cami%20K%C3%BClliyesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739125","tip":"genel"}]
 description: "Mersin'in Bozyazı ilçesinde yer alan Ak Cami Külliyesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar."
 keywords: ["Ak Cami Külliyesi","Mersin","Bozyazı","tarihi mekan","doğa","kültür"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Scientific_American_-_Series_1_-_Volume_005_-_Issue_39.pdf/page1-960px-Scientific_American_-_Series_1_-_Volume_005_-_Issue_39.pdf.jpg","alt":"Buz Mağarası (Halaç, Doğubayazıt)","caption":"Buz Mağarası (Halaç, Doğubayazıt)","credit":"Scientific American - Series 1 - Volume 005 - Issue 39.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu/page1-800px-Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu.jpg","alt":"Buz Mağarası (Halaç, Doğubayazıt)","caption":"Buz Mağarası (Halaç, Doğubayazıt)","credit":"Islam, Turkey, and Armenia, and How They Happened","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buz%20Ma%C4%9Faras%C4%B1%20(Hala%C3%A7%2C%20Do%C4%9Fubayaz%C4%B1t)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Ağrı'nın Doğubayazıt ilçesinde bulunan Buz Mağarası, 1200 metre yükseklikte yer alan bir magara"
 keywords: ["Buz Mağarası","Halaç","Doğubayazıt","Ağrı","Magara","Doğal Alan","Turizm","Gezi","Mağara"]

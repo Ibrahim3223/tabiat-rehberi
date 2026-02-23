@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf/page1-960px-Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf.jpg","alt":"Gora Sheykhakhmet-Kalesi Dağı","caption":"Gora Sheykhakhmet-Kalesi Dağı","credit":"Harper's New Monthly Magazine, Volume 46.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Gora Sheykhakhmet-Kalesi Dağı","caption":"Gora Sheykhakhmet-Kalesi Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Sheykhakhmet-Kalesi%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556504","tip":"genel"}]
 description: "Mardin'in görkemli dağlarından biri olan Gora Sheykhakhmet-Kalesi Dağı, doğa severlerin ziyaret ettiği bir yer"
 keywords: ["Gora Sheykhakhmet-Kalesi Dağı","Mardin","Dağ","Doğa","Türkiye","Gezi","Seyahat","Mardin Dağları","Turizm"]

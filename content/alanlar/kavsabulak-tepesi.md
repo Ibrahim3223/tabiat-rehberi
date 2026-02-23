@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Dağcılık","Manzara izleme","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/An_expedition_of_discovery_into_the_interior_of_Africa%2C_through_the_hitherto_undescribed_countries_of_the_Great_Namaquas%2C_Boschmans%2C_and_Hill_Damaras_%28IA_b29350979_0001%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Kavşabulak Tepesi","caption":"Kavşabulak Tepesi","credit":"An expedition of discovery into the interior of Africa, through the hitherto undescribed countries of the Great Namaquas, Boschmans, and Hill Damaras (IA b29350979 0001).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kavşabulak Tepesi","caption":"Kavşabulak Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kav%C5%9Fabulak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387495","tip":"genel"}]
 description: "Van'ın doğal güzellikleri arasında yer alan Kavşabulak Tepesi, ziyaretçiler için eşsiz bir deneyim sunuyor."
 keywords: ["Doğu Anadolu Bölgesi","Van","Kavşabulak Tepesi","Doğal güzellikler","Tepeler","Dağcılık","Doğa yürüyüşleri","Turizm","Van gezilecek yerler"]

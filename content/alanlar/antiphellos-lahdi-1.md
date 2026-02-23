@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["su sporları","güneşlenmek","doğa yürüyüşü","yürüyüş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Antiphellos Lahdi 1","caption":"Antiphellos Lahdi 1","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Antiphellos Lahdi 1","caption":"Antiphellos Lahdi 1","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antiphellos%20Lahdi%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728120","tip":"genel"}]
 description: "Akdeniz'in saklı cenneti, Kaş'ta bulunan Antiphellos Lahdi 1 plajı"
 keywords: ["Kaş","Antalya","Akdeniz","plaj","deniz","turizm","gezi","tatil","doğa"]

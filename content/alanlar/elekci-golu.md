@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_battle_fields_of_the_Maumee_valley%3B_%28IA_battlefieldsofma00sons%29.pdf/page1-822px-The_battle_fields_of_the_Maumee_valley%3B_%28IA_battlefieldsofma00sons%29.pdf.jpg","alt":"Elekçi Gölü","caption":"Elekçi Gölü","credit":"The battle fields of the Maumee valley; (IA battlefieldsofma00sons).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erastae_%28Jolliffe_trans%2C1827%29.djvu/page1-800px-Erastae_%28Jolliffe_trans%2C1827%29.djvu.jpg","alt":"Elekçi Gölü","caption":"Elekçi Gölü","credit":"Erastae (Jolliffe trans,1827)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elek%C3%A7i%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35695576","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerinden biri olan Elekçi Gölü, 1200 hektarlık alanı ile önemli bir su kaynağı ve doğa alanıdır."
 keywords: ["Elekçi Gölü","Çorum","göl","doğa alanı","su kaynağı","turizm","çevre","ekosistem","çorum gezilecek yerler"]

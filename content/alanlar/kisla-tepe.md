@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["gezi","manzara izleme","bitki ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Transcaucasia_and_Ararat-_being_notes_of_a_vacation_tour_in_the_autumn_of_1876_%28IA_transcaucasiaara00bryciala%29.pdf/page1-689px-Transcaucasia_and_Ararat-_being_notes_of_a_vacation_tour_in_the_autumn_of_1876_%28IA_transcaucasiaara00bryciala%29.pdf.jpg","alt":"Kışla Tepe","caption":"Kışla Tepe","credit":"Transcaucasia and Ararat- being notes of a vacation tour in the autumn of 1876 (IA transcaucasiaara00bryciala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kışla Tepe","caption":"Kışla Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1%C5%9Fla%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387368","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerini keşfedin, Karadeniz Bölgesi'nin en güzel tepelerinden biri olan Kışla Tepe'yi ziyaret edin"
 keywords: ["Kışla Tepe","Samsun","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

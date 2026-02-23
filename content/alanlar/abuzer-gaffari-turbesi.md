@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Tarihi yapılar keşfi","Doğa yürüyüşleri","Yerel lezzetler tadımı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Travels_and_Researches_in_Asia_Minor%2C_Mesopotania%2C_Chaldea%2C_and_Armenia_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.41531%29.pdf/page1-612px-Travels_and_Researches_in_Asia_Minor%2C_Mesopotania%2C_Chaldea%2C_and_Armenia_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.41531%29.pdf.jpg","alt":"Abuzer Gaffari Türbesi","caption":"Abuzer Gaffari Türbesi","credit":"Travels and Researches in Asia Minor, Mesopotania, Chaldea, and Armenia (in Two Volumes, Vol.I) (IA dli.granth.41531).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abuzer Gaffari Türbesi","caption":"Abuzer Gaffari Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abuzer%20Gaffari%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390542","tip":"genel"}]
 description: "Adıyaman'ın tarihi ve doğal güzelliklerini keşfedin. Abuzer Gaffari Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve kültürel merkezlerinden biri."
 keywords: ["Abuzer Gaffari","Türbe","Adıyaman","Güneydoğu Anadolu Bölgesi","Tarihi mekanlar","Dini merkezler","Kültürel önemli yerler"]

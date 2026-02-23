@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/The_Glendale_Evening_News_1918-01-14_%28IA_cgl_003362%29.pdf/page1-960px-The_Glendale_Evening_News_1918-01-14_%28IA_cgl_003362%29.pdf.jpg","alt":"Şeytan Dağı","caption":"Şeytan Dağı","credit":"The Glendale Evening News 1918-01-14 (IA cgl 003362).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Şeytan Dağı","caption":"Şeytan Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeytan%20Da%C4%9F%C4%B1%20(Rize)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34821034","tip":"genel"}]
 description: "Rize'de yer alan Şeytan Dağı, doğa severlerin ziyaret ettiği bir dağdır. Doğal güzelliği ve trekking rotalarıyla dikkat çeker."
 keywords: ["Şeytan Dağı","Rize","Dağ","Doğa","Trekking","Rize Turizm","Doğal Güzellik","Turistik Yerler","Karadeniz"]

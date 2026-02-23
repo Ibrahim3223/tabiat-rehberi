@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Turkey_and_European_security_institutions_%28IA_turkeyndeuropese109454905%29.pdf/page1-960px-Turkey_and_European_security_institutions_%28IA_turkeyndeuropese109454905%29.pdf.jpg","alt":"Gebekirse Gölü","caption":"Gebekirse Gölü","credit":"Turkey and European security institutions (IA turkeyndeuropese109454905).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/AUTUMN_BIRDS.jpg/960px-AUTUMN_BIRDS.jpg","alt":"Gebekirse Gölü","caption":"Gebekirse Gölü","credit":"AUTUMN BIRDS","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gebekirse%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35700181","tip":"genel"}]
 description: "İzmir'de bulunan Gebekirse Gölü, doğal güzelliği ile dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Gebekirse Gölü","İzmir gölleri","doğal alanlar","turistik yerler","göl gezi","İzmir turizm","gözde destinasyon","doğa yürüyüşü","göl kenarı"]

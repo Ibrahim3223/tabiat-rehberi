@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kamp","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/The_Examiner_1877-05-26-_Iss_3617_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1877-05-26_3617%29.pdf/page1-960px-The_Examiner_1877-05-26-_Iss_3617_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1877-05-26_3617%29.pdf.jpg","alt":"Artvin-Yusufeli-Altiparmak Dogu Kayini","caption":"Artvin-Yusufeli-Altiparmak Dogu Kayini","credit":"The Examiner 1877-05-26- Iss 3617 (IA sim examiner-a-weekly-paper-on-politics-literature-music 1877-05-26 3617).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Artvin-Yusufeli-Altiparmak Dogu Kayini","caption":"Artvin-Yusufeli-Altiparmak Dogu Kayini","credit":"Akdag 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Yusufeli-Altiparmak%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228591","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Artvin-Yusufeli-Altiparmak Dogu Kayini, doğa severler için bir cennet."
 keywords: ["Artvin","Yusufeli","Altiparmak Dogu Kayini","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

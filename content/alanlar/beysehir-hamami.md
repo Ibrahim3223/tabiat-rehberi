@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["su sporları","doğa yürüyüşleri","kuş gözlemciliği","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Beyşehir Hamamı","caption":"Beyşehir Hamamı","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Beyşehir Hamamı","caption":"Beyşehir Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bey%C5%9Fehir%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738752","tip":"genel"}]
 description: "Konya'nın Beyşehir ilçesinde yer alan doğal güzellik"
 keywords: ["Beyşehir","Konya","doğal güzellik","iç Anadolu Bölgesi","turizm","gezi","tatil","doğa","su","plaj"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı","caption":"Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı","caption":"Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaptan%20Yorgi%20Konstantinidi%20Pa%C5%9Fa%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728095","tip":"genel"}]
 description: "Giresun'un tarihi ve doğal güzelliğini bir arada sunan Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı"
 keywords: ["Giresun","Kaptan Yorgi","Anıt Mezarı","Karadeniz Bölgesi","tarih","doğa","gezi"]

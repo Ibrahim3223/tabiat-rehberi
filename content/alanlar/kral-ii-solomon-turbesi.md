@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","plaj aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Kral II. Solomon Türbesi","caption":"Kral II. Solomon Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kral II. Solomon Türbesi","caption":"Kral II. Solomon Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kral%20II.%20Solomon%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582711","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Trabzon'un Ortahisar ilçesinde yer alan Kral II. Solomon Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir destinasyon."
 keywords: ["Kral II. Solomon Türbesi","Ortahisar","Trabzon","Karadeniz Bölgesi","tarih","doğa","gezi","turizm","kültür"]

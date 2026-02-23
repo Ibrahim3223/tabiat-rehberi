@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","dağcılık","kampçılık","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Bulanık Tepe","caption":"Bulanık Tepe","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Bulanık Tepe","caption":"Bulanık Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bulan%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387257","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan Bulanık Tepe, Erzurum ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Bulanık Tepe","Erzurum","Doğu Anadolu Bölgesi","coğrafi oluşum","doğal güzellik","gezi","keşif","tepe","dağcılık","doğa yürüyüşü"]

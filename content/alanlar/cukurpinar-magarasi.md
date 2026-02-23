@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Çukurpınar mağarası","caption":"Çukurpınar mağarası","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Çukurpınar mağarası","caption":"Çukurpınar mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ukurp%C4%B1nar%20ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q65040292","tip":"genel"}]
 description: "Mersin Anamur'da yer alan Çukurpınar mağarası, jeolojik oluşumlarıyla dikkat çeker."
 keywords: ["Çukurpınar mağarası","Mersin","Anamur","Jeopark","Mağara","Doğa","Turizm","Gezi","Mersin gezilecek yerler"]

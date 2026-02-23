@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarih keşfi","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf/page1-960px-The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 25","caption":"Bin Tepeler Tümülüsü 25","credit":"The new international encyclopaedia ... (Vol. 15, MANI-MISSI) (IA newinternational15unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Bin Tepeler Tümülüsü 25","caption":"Bin Tepeler Tümülüsü 25","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2025","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728347","tip":"genel"}]
 description: "Salihli'nin tarihi ve doğal güzelliklerini keşfedin. Bin Tepeler Tümülüsü 25, Ege Bölgesi'nde yer alan bir arkeolojik alan"
 keywords: ["Bin Tepeler","Tümülüsü 25","Salihli","Manisa","Ege Bölgesi","arkeolojik alan","tarihi eserler","doğal güzellikler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografcılık","tarih ve kültür keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf/page1-635px-In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf.jpg","alt":"Bellibudih Tepesi","caption":"Bellibudih Tepesi","credit":"In gold and silver .. (IA ingoldandsilver00ellwiala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Bellibudih Tepesi","caption":"Bellibudih Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bellibudih%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552903","tip":"genel"}]
 description: "Mardin'in tarih kokan sokaklarında, 140 hektarlık doğal bir alan olarak karşımıza çıkan Bellibudih Tepesi, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Bellibudih Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","doğal alan","tepe","coğrafya","tarih","flora","fauna"]

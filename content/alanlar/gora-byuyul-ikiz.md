@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-4 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Gora Byuyul-Ikiz","caption":"Gora Byuyul-Ikiz","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Gora Byuyul-Ikiz","caption":"Gora Byuyul-Ikiz","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Byuyul-Ikiz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31537185","tip":"genel"}]
 description: "Türkiye'de bulunan Gora Byuyul-Ikiz dağı, doğa severler için bir çekim merkezi"
 keywords: ["Gora Byuyul-Ikiz","dağ","Türkiye","doğa","gezi","seyahat","turizm","coğrafya","yerler"]

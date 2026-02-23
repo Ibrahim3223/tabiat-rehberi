@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Catalog_of_Copyright_Entries_1941_Music_New_Series_Vol_36_Pt_3_%28IA_catalogofcopyrig363libr%29.pdf/page1-810px-Catalog_of_Copyright_Entries_1941_Music_New_Series_Vol_36_Pt_3_%28IA_catalogofcopyrig363libr%29.pdf.jpg","alt":"Ankara Frig Tümülüsü 15, Beştepe","caption":"Ankara Frig Tümülüsü 15, Beştepe","credit":"Catalog of Copyright Entries 1941 Music New Series Vol 36 Pt 3 (IA catalogofcopyrig363libr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ankara Frig Tümülüsü 15, Beştepe","caption":"Ankara Frig Tümülüsü 15, Beştepe","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2015%2C%20Be%C5%9Ftepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728289","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. Ankara Frig Tümülüsü 15, Beştepe'de yer alan bu özel alan, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Frig Tümülüsü","Beştepe","tarih","doğa","gezi","turizm","Ankara gezilecek yerler","tümülüs"]

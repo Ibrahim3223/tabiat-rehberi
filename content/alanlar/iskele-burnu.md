@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Turkey_and_the_Armenian_atrocities._A_reign_of_terror_%28IA_turkeyarmenianat00blis%29.pdf/page1-831px-Turkey_and_the_Armenian_atrocities._A_reign_of_terror_%28IA_turkeyarmenianat00blis%29.pdf.jpg","alt":"İskele Burnu","caption":"İskele Burnu","credit":"Turkey and the Armenian atrocities. A reign of terror (IA turkeyarmenianat00blis).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/EB1911_-_Volume_04.djvu/page1-800px-EB1911_-_Volume_04.djvu.jpg","alt":"İskele Burnu","caption":"İskele Burnu","credit":"EB1911 - Volume 04","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0skele%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21209643","tip":"genel"}]
 description: "Bitlis'te yer alan İskele Burnu, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["İskele Burnu","Bitlis","Ada","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Türkiye"]

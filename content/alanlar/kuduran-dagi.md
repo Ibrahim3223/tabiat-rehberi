@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Explorations_in_Bible_lands_during_the_19th_century_%28IA_cu31924019176217%29.pdf/page1-629px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_cu31924019176217%29.pdf.jpg","alt":"Kuduran Dağı","caption":"Kuduran Dağı","credit":"Explorations in Bible lands during the 19th century (IA cu31924019176217).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kuduran Dağı","caption":"Kuduran Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuduran%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31512365","tip":"genel"}]
 description: "Malatya'da yer alan Kuduran Dağı, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Kuduran Dağı","Malatya","Dağ","Doğa","Yürüyüş Rotası","Turizm","Gezi","Malatya Turistik Yerler","Dağcılık"]

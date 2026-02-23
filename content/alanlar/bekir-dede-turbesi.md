@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%C3%9Clkeler_Co%C4%9Frafyas%C4%B1_Perspektifinden_Filipinler_Cumhuriyeti.pdf/page1-960px-%C3%9Clkeler_Co%C4%9Frafyas%C4%B1_Perspektifinden_Filipinler_Cumhuriyeti.pdf.jpg","alt":"Bekir Dede Türbesi","caption":"Bekir Dede Türbesi","credit":"Ülkeler Coğrafyası Perspektifinden Filipinler Cumhuriyeti.pdf","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Bekir Dede Türbesi","caption":"Bekir Dede Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bekir%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391698","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde bulunan tarihi bir mekan"
 keywords: ["Bursa","Osmangazi","Bekir Dede Türbesi","tarih","türbe","müze","gezi","turizm"]

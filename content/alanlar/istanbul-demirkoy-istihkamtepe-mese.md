@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşleri","Bitki ve Hayvan Gözlemi","Fotoğrafçılık","Piknik","Doğa Eğitimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fifty_years_in_Constantinople_and_recollections_of_Robert_college_%28IA_fiftyyearsincons00wash%29.pdf/page1-866px-Fifty_years_in_Constantinople_and_recollections_of_Robert_college_%28IA_fiftyyearsincons00wash%29.pdf.jpg","alt":"Istanbul-Demirkoy-Istihkamtepe Mese","caption":"Istanbul-Demirkoy-Istihkamtepe Mese","credit":"Fifty years in Constantinople and recollections of Robert college (IA fiftyyearsincons00wash).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"Istanbul-Demirkoy-Istihkamtepe Mese","caption":"Istanbul-Demirkoy-Istihkamtepe Mese","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Demirkoy-Istihkamtepe%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227763","tip":"genel"}]
 description: "İstanbul'un doğal güzelliklerini keşfedin. İstanbul-Demirkoy-Istihkamtepe Mese, Marmara Bölgesi'nde yer alan bir milli parktır."
 keywords: ["İstanbul","Marmara Bölgesi","Milli Park","Doğa","Turizm","Gezi","Yaban Hayatı","Çevre","Ekoloji"]

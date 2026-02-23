@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarih keşfi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Campbell_Interurban_Press_1909-05-07_%28IA_cacblm_000179%29.pdf/page1-960px-Campbell_Interurban_Press_1909-05-07_%28IA_cacblm_000179%29.pdf.jpg","alt":"Şeyh Zülfo Türbesi","caption":"Şeyh Zülfo Türbesi","credit":"Campbell Interurban Press 1909-05-07 (IA cacblm 000179).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Şeyh Zülfo Türbesi","caption":"Şeyh Zülfo Türbesi","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Z%C3%BClfo%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390600","tip":"genel"}]
 description: "Adana'nın Seyhan ilçesinde yer alan Şeyh Zülfo Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Şeyh Zülfo Türbesi","Adana","Seyhan","tarih","doğa","türbe","plaj","gezi","seyahat"]

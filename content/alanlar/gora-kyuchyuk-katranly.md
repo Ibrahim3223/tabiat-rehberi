@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Gora Kyuchyuk-Katranly","caption":"Gora Kyuchyuk-Katranly","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Gora Kyuchyuk-Katranly","caption":"Gora Kyuchyuk-Katranly","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Kyuchyuk-Katranly","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536867","tip":"genel"}]
 description: "Türkiye'de bulunan Gora Kyuchyuk-Katranly, doğa severler için bir cennet. 1200 hektarlık bu yeşil alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Gora Kyuchyuk-Katranly","Türkiye","Dağ","Doğa","Yeşil Alan","İstanbul","Türkiye'nin Doğal Alanları","Seyahat","Gezi"]

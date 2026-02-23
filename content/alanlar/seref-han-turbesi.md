@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Kültür turu","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_Glendale_Evening_News_1916-02-21_%28IA_cgl_002781%29.pdf/page1-960px-The_Glendale_Evening_News_1916-02-21_%28IA_cgl_002781%29.pdf.jpg","alt":"Şeref Han Türbesi","caption":"Şeref Han Türbesi","credit":"The Glendale Evening News 1916-02-21 (IA cgl 002781).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Şeref Han Türbesi","caption":"Şeref Han Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeref%20Han%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391261","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi hazinelerinden biri olan Şeref Han Türbesi, Bitlis ilinin merkezinde yer alıyor."
 keywords: ["Şeref Han Türbesi","Bitlis","Doğu Anadolu Bölgesi","Türbe","Tarih","Kültür","Gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Bahçe turu","Eğitim programları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Research_natural_areas_in_New_Mexico_%28IA_CAT87881126%29.pdf/page1-960px-Research_natural_areas_in_New_Mexico_%28IA_CAT87881126%29.pdf.jpg","alt":"MKE Silahsan Özel Müzesi","caption":"MKE Silahsan Özel Müzesi","credit":"Research natural areas in New Mexico (IA CAT87881126).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu/page1-800px-The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu.jpg","alt":"MKE Silahsan Özel Müzesi","caption":"MKE Silahsan Özel Müzesi","credit":"The War Illustrated Album De Luxe; the Story of the Great European War Told by Camera, Pen and Pencil, 1917 (volume VII) - The Autumn Campaign of 1916","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/MKE%20Silahsan%20%C3%96zel%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28136374","tip":"genel"}]
 description: "Kırıkkale'de yer alan MKE Silahsan Özel Müzesi, tarihi silah koleksiyonlarıyla ziyaretçilerini bekliyor."
 keywords: ["MKE Silahsan","Özel Müze","Kırıkkale","İç Anadolu Bölgesi","Silah Koleksiyonu","Tarih","Müze"]

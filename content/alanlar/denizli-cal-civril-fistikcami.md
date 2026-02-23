@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "birkaç saat ila bir gün"
 aktiviteler: ["kuş gözlemciliği","trekking","piknik","su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Denizli-Cal-Civril-Fistikcami","caption":"Denizli-Cal-Civril-Fistikcami","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cilingoz_National_Park_Beach.jpg/960px-Cilingoz_National_Park_Beach.jpg","alt":"Denizli-Cal-Civril-Fistikcami","caption":"Denizli-Cal-Civril-Fistikcami","credit":"Cilingoz National Park Beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cal-Civril-Fistikcami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228526","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, doğa ve tarihle dolu bir milli park"
 keywords: ["Denizli","Cal","Civril","Fistikcami","milli park","doğa","tarih","gezi","Ege Bölgesi"]

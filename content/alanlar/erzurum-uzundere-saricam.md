@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cumhuriyet_1937_mart_6.pdf/page1-960px-Cumhuriyet_1937_mart_6.pdf.jpg","alt":"Erzurum-Uzundere Saricam","caption":"Erzurum-Uzundere Saricam","credit":"Cumhuriyet 1937 mart 6.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Erzurum-Uzundere Saricam","caption":"Erzurum-Uzundere Saricam","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Uzundere%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227690","tip":"genel"}]
 description: "Erzurum-Uzundere Saricam, Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Erzurum","Uzundere","Saricam","Doğu Anadolu Bölgesi","Doğal güzellik","Milli park","Çevre","Ekoloji"]

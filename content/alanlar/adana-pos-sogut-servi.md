@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Victoria_Daily_Times_%281922-09-30%29_%28IA_victoriadailytimes19220930%29.pdf/page1-960px-Victoria_Daily_Times_%281922-09-30%29_%28IA_victoriadailytimes19220930%29.pdf.jpg","alt":"Adana-Pos-Sogut Servi","caption":"Adana-Pos-Sogut Servi","credit":"Victoria Daily Times (1922-09-30) (IA victoriadailytimes19220930).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Adana-Pos-Sogut Servi","caption":"Adana-Pos-Sogut Servi","credit":"Turkish nature reserve","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pos-Sogut%20Servi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228503","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin. Akdeniz Bölgesi'nde yer alan milli park, ziyaretçilerini bekliyor."
 keywords: ["Adana","milli park","doğa","gezi","Akdeniz Bölgesi","turizm","çevre","ekosistem","flora","fauna"]

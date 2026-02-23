@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Manzara seyri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_works_of_Mary_Russell_Mitford%2C_prose_and_verse%2C_viz_Our_village%2C_Belford_Regis%2C_Country_stories%2C_Finden%27s_tableaux%2C_Foscari%2C_Julian%2C_Rienzi%2C_Charles_the_First_%28IA_worksofmaryrusse00mitf%29.pdf/page1-806px-thumbnail.pdf.jpg","alt":"Devecidağı Tepesi","caption":"Devecidağı Tepesi","credit":"The works of Mary Russell Mitford, prose and verse, viz Our village, Belford Regis, Country stories, Finden's tableaux, Foscari, Julian, Rienzi, Charles the First (IA worksofmaryrusse00mitf).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Devecidağı Tepesi","caption":"Devecidağı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Devecida%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568980","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerinden biri olan Devecidağı Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Devecidağı Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","çevre"]

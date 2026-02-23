@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OJ_C_280_of_2023_-_EN_English.pdf/page1-960px-OJ_C_280_of_2023_-_EN_English.pdf.jpg","alt":"Dede Dağı","caption":"Dede Dağı","credit":"OJ C 280 of 2023 - EN English.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Dede Dağı","caption":"Dede Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dede%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35737150","tip":"genel"}]
 description: "Çanakkale'nin görkemli dağlarından biri olan Dede Dağı, 1200 hektarlık yeşil cenneti ve zengin florası ile dikkat çekiyor."
 keywords: ["Dede Dağı","Çanakkale","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Çevre","Flora","Fauna"]

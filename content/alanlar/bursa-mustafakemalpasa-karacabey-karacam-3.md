@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/British_medical_journal_%28IA_1877britishmedic02brit%29.pdf/page1-960px-British_medical_journal_%28IA_1877britishmedic02brit%29.pdf.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Karacam 3","caption":"Bursa-Mustafakemalpaşa-Karacabey Karacam 3","credit":"British medical journal (IA 1877britishmedic02brit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Uluda%C4%9F_National_Park_888.jpg/960px-Uluda%C4%9F_National_Park_888.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Karacam 3","caption":"Bursa-Mustafakemalpaşa-Karacabey Karacam 3","credit":"Uludağ National Park 888","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Karacabey%20Karacam%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227938","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Bursa'da yer alan Karacam 3 milli parkı, 140 hektarlık geniş yeşil alanı ile ziyaretçilerini büyülüyor."
 keywords: ["Bursa","Marmara Bölgesi","Karacam 3","milli park","yeşil alan","doğa","gezi","turizm"]

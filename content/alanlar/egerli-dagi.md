@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf/page1-670px-The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf.jpg","alt":"Eğerli Dağı","caption":"Eğerli Dağı","credit":"The salt-box house; eighteenth century life in a New England hill town (IA cu31924028842544).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Eğerli Dağı","caption":"Eğerli Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Ferli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34867971","tip":"genel"}]
 description: "Çorum'un önemli coğrafi oluşumlarından biri olan Eğerli Dağı, 1200 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["Eğerli Dağı","Çorum","Dağ","Doğa","Yeşil Alan","Coğrafi Oluşum","Türkiye","Seyahat","Gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf/page1-835px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf.jpg","alt":"Yumurtalık Adası","caption":"Yumurtalık Adası","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla02burt).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Black_Sea_Region_in_Turkey.svg/960px-Black_Sea_Region_in_Turkey.svg.png","alt":"Yumurtalık Adası","caption":"Yumurtalık Adası","credit":"Black Sea Region in Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumurtal%C4%B1k%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30632355","tip":"genel"}]
 description: "Türkiye'de bulunan Yumurtalık Adası, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Yumurtalık Adası","Türkiye Adaları","Doğa Turizmi","Yeşil Alanlar","İstanbul Adaları","Türkiye Gezi Rehberi","Ada Turizmi","Doğal Güzellikler","Turizm Noktaları"]

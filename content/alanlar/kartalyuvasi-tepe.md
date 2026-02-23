@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih hakkında bilgi edinme","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Kartalyuvası Tepe","caption":"Kartalyuvası Tepe","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kartalyuvası Tepe","caption":"Kartalyuvası Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartalyuvas%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390454","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerini keşfedin. İç Anadolu Bölgesi'nin önemli noktalarından biri olan Kartalyuvası Tepe, ziyaretçilerini bekliyor."
 keywords: ["Kartalyuvası Tepe","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","keşif","turizm","kültür"]

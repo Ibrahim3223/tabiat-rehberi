@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Tarihi mekanları keşfetme","Doğa yürüyüşü","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/South_Sea_letters_%28IA_southsealetters00wool%29.pdf/page1-960px-South_Sea_letters_%28IA_southsealetters00wool%29.pdf.jpg","alt":"Akbaş Baba Türbesi Sivas","caption":"Akbaş Baba Türbesi Sivas","credit":"South Sea letters (IA southsealetters00wool).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Akbaş Baba Türbesi Sivas","caption":"Akbaş Baba Türbesi Sivas","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akba%C5%9F%20Baba%20T%C3%BCrbesi%20Sivas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391306","tip":"genel"}]
 description: "Sivas'ın tarihi ve kültürel zenginliklerini keşfedin. Akbaş Baba Türbesi, şehrin merkezinde yer alan önemli bir tarihi mekan."
 keywords: ["Akbaş Baba Türbesi","Sivas","tarih","kültür","türbe","Sivas merkezi","tarihi mekan","gezi","turizm"]

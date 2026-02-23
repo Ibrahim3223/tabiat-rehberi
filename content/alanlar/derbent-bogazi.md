@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/61/Antik_Yol_20_05_1998_D%C3%B6%C5%9Feme_Bo%C4%9Faz%C4%B1_Via_Sebaste_Pflasterstra%C3%9Fe_bei_Maximianupolis.jpg","alt":"Derbent Boğazı manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Derbent Boğazı","caption":"Derbent Boğazı","credit":"VallesMarinerisHuge","license":"Attribution"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Derbent%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49342858","tip":"genel"}]
 description: "Afyonkarahisar'da yer alan Derbent Boğazı, Türkiye'nin en önemli kanyonlarından biri. Doğal güzelliği ve tarihi önemiyle dikkat çekiyor."

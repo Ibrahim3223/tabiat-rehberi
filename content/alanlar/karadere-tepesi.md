@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Manzara izleme","Fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Glendale_Daily_Press_1923-11-01_%28IA_cgl_002252%29.pdf/page1-960px-Glendale_Daily_Press_1923-11-01_%28IA_cgl_002252%29.pdf.jpg","alt":"Karadere Tepesi","caption":"Karadere Tepesi","credit":"Glendale Daily Press 1923-11-01 (IA cgl 002252).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Karadere Tepesi","caption":"Karadere Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karadere%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388480","tip":"genel"}]
 description: "Rize'nin güzide noktası Karadere Tepesi, ziyaretçilerini bekliyor"
 keywords: ["Karadere Tepesi","Rize","Karadeniz Bölgesi","Doğa","Tarih","Coğrafya","Flora","Fauna","Ziyaret"]

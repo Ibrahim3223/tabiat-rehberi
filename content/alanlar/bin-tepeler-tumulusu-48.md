@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 48","caption":"Bin Tepeler Tümülüsü 48","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Bin Tepeler Tümülüsü 48","caption":"Bin Tepeler Tümülüsü 48","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2048","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728336","tip":"genel"}]
 description: "Ege Bölgesi'nde yer alan Bin Tepeler Tümülüsü 48, tarihi ve coğrafi açıdan önemli bir noktadır."
 keywords: ["Bin Tepeler Tümülüsü 48","Salihli","Manisa","Ege Bölgesi","tarih","coğrafya","doğa"]

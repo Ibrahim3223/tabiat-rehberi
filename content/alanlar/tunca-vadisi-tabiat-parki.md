@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Report_to_the_Bureau_of_Land_Management_and_U.S._Forest_Service_on_raptors_inhabiting_Brown%27s_Park_and_the_Flaming_Gorge_National_Recreation_Area_%28IA_reporttobureauof00wagn%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Tunca Vadisi Tabiat Parkı","caption":"Tunca Vadisi Tabiat Parkı","credit":"Report to the Bureau of Land Management and U.S. Forest Service on raptors inhabiting Brown's Park and the Flaming Gorge National Recreation Area (IA reporttobureauof00wagn).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Tunca Vadisi Tabiat Parkı","caption":"Tunca Vadisi Tabiat Parkı","credit":"VallesMarinerisHuge","license":"Attribution"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tunca%20Vadisi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228405","tip":"genel"}]
 description: "Türkiye'nin en güzel kanyonlarından biri olan Tunca Vadisi, doğa severlerin ziyaret ettiği bir tabiat parkıdır."
 keywords: ["Tunca Vadisi","Tabiat Parkı","Kanyon","Doğa","Türkiye","Gezi","Seyahat","Turizm","Doğa Harikaları"]

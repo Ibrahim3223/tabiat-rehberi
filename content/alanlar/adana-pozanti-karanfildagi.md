@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_danger_zone_of_Europe_-_changes_and_problems_in_the_Near_East_%28IA_dangerzoneofeuro00woodrich%29.pdf/page1-729px-The_danger_zone_of_Europe_-_changes_and_problems_in_the_Near_East_%28IA_dangerzoneofeuro00woodrich%29.pdf.jpg","alt":"Adana-Pozanti-Karanfildagi","caption":"Adana-Pozanti-Karanfildagi","credit":"The danger zone of Europe - changes and problems in the Near East (IA dangerzoneofeuro00woodrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Adana-Pozanti-Karanfildagi","caption":"Adana-Pozanti-Karanfildagi","credit":"Akdag 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pozanti-Karanfildagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227378","tip":"genel"}]
 description: "Adana-Pozanti-Karanfildagi milli parkı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır. Akdeniz Bölgesi'nde yer alan bu milli park, ziyaretçilerine zengin bir flora ve fauna sunar."
 keywords: ["Adana-Pozanti-Karanfildagi","milli park","Akdeniz Bölgesi","doğa harikası","yeşil alan","flora","fauna"]

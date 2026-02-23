@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî eser gezi","doğa yürüyüşü","fotografçılık","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Selçuklu Kümbet, Kayseri","caption":"Selçuklu Kümbet, Kayseri","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Selçuklu Kümbet, Kayseri","caption":"Selçuklu Kümbet, Kayseri","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sel%C3%A7uklu%C2%A0K%C3%BCmbet%2C%20Kayseri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582343","tip":"genel"}]
 description: "Kayseri'nin tarihi ve kültürel zenginliklerini keşfedin, Selçuklu Kümbet'in etkileyici mimarisini ve tarihi geçmişi keşfedin"
 keywords: ["Selçuklu Kümbet","Kayseri","tarihi eser","mimari","kültürel zenginlik","gezi","turizm","İç Anadolu Bölgesi","Melikgazi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf/page1-960px-The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf.jpg","alt":"Bursa-Inegol-Bogazova Karacam","caption":"Bursa-Inegol-Bogazova Karacam","credit":"The Enterprise 1923-06-07 (IA cssf 001428).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Bursa-Inegol-Bogazova Karacam","caption":"Bursa-Inegol-Bogazova Karacam","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Inegol-Bogazova%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227491","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Bursa'da bulunan milli park, ziyaretçilerini bekliyor."
 keywords: ["Bursa","Marmara Bölgesi","milli park","doğa","turizm","gezi","yaban hayatı","ekosistem"]

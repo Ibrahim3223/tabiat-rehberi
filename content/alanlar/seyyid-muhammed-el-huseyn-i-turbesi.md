@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Dini törenlere katılma","Bölgeyi keşfetme","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_Auk_%28IA_auk1898amer%29.pdf/page1-847px-The_Auk_%28IA_auk1898amer%29.pdf.jpg","alt":"Seyyid Muhammed El Hüseyn-i Türbesi","caption":"Seyyid Muhammed El Hüseyn-i Türbesi","credit":"The Auk (IA auk1898amer).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Seyyid Muhammed El Hüseyn-i Türbesi","caption":"Seyyid Muhammed El Hüseyn-i Türbesi","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Muhammed%20El%20H%C3%BCseyn-i%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582864","tip":"genel"}]
 description: "Mardin'in tarihi ve kültürel zenginliklerini keşfedin. Seyyid Muhammed El Hüseyn-i Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini merkezlerinden biri."
 keywords: ["Mardin","Seyyid Muhammed El Hüseyn-i Türbesi","Güneydoğu Anadolu Bölgesi","tarihi mekanlar","dini merkezler","kültürel zenginlikler","turistik yerler","Artuklu"]

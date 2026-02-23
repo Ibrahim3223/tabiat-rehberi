@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezinti","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf/page1-860px-Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf.jpg","alt":"Handevi ve Kandevi Türbesi","caption":"Handevi ve Kandevi Türbesi","credit":"Revue suisse de zoologie (IA revuesuissede11412007schw).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Handevi ve Kandevi Türbesi","caption":"Handevi ve Kandevi Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Handevi%20ve%20Kandevi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390883","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cevheri, Ilgın'da bulunan Handevi ve Kandevi Türbesi"
 keywords: ["Handevi ve Kandevi Türbesi","İlgın","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","kampçılık","doğa yürüyüşleri","çiçek izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf/page1-731px-Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf.jpg","alt":"Denizli-Eskere-Cicekli-Karacam","caption":"Denizli-Eskere-Cicekli-Karacam","credit":"Journal of a Tour in Asia Minor, with Comparative Remarks on the Ancient and Modern Geography of that Country (IA dli.granth.36210).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_photos_of_Akda%C4%9F_2.jpg/960px-The_photos_of_Akda%C4%9F_2.jpg","alt":"Denizli-Eskere-Cicekli-Karacam","caption":"Denizli-Eskere-Cicekli-Karacam","credit":"The photos of Akdağ 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Eskere-Cicekli-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228272","tip":"genel"}]
 description: "Denizli'nin eşsiz doğal güzellikleri arasında yer alan milli park, ziyaretçilerini büyülüyor."
 keywords: ["Denizli","Eskere","Cicekli","Karacam","milli park","doğal güzellik","gezi","turizm","çevre"]

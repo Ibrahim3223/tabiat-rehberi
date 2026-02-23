@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Getty_Research_Institute_%28IA_gri_narrativeofa00joll%29.pdf/page1-600px-Getty_Research_Institute_%28IA_gri_narrativeofa00joll%29.pdf.jpg","alt":"Efelikbeli","caption":"Efelikbeli","credit":"Getty Research Institute (IA gri narrativeofa00joll).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Efelikbeli","caption":"Efelikbeli","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Efelikbeli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582247","tip":"genel"}]
 description: "Çorum'un görkemli dağlarından biri olan Efelikbeli, 1200 hektarlık yeşil cenneti ve zengin florasıyla dikkat çekiyor."
 keywords: ["Efelikbeli","Çorum","Dağ","Doğa","Turizm","Yeşil Alan","Flora","Çorum Turistik Yerler","Dağ Turizmi"]

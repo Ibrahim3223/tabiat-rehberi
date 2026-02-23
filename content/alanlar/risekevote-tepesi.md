@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "günde 4-6 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Rişekevote Tepesi","caption":"Rişekevote Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Rişekevote Tepesi","caption":"Rişekevote Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ri%C5%9Fekevote%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553313","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli güzelliği, Batman'da yer alan Riskevote Tepesi"
 keywords: ["Rişekevote Tepesi","Batman","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","tarih"]

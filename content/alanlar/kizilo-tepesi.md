@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Kızılo Tepesi","caption":"Kızılo Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kızılo Tepesi","caption":"Kızılo Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lo%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548613","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide kentlerinden biri olan Siirt'in önemli doğal alanlarından biri olan Kızılo Tepesi, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["Kızılo Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","ekosistem"]

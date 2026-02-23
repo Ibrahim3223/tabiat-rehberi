@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ancient_Sinope%2C_an_historical_account_with_a_prosopographia_sinopensis_and_an_appendix_of_inscriptions_%28IA_ancientsinopehis00robi%29.pdf/page1-856px-Ancient_Sinope%2C_an_historical_account_with_a_prosopographia_sinopensis_and_an_appendix_of_inscriptions_%28IA_ancientsinopehis00robi%29.pdf.jpg","alt":"Bahçeli Kayaları","caption":"Bahçeli Kayaları","credit":"Ancient Sinope, an historical account with a prosopographia sinopensis and an appendix of inscriptions (IA ancientsinopehis00robi).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Istanbul_and_Bosporus_big.jpg/960px-Istanbul_and_Bosporus_big.jpg","alt":"Bahçeli Kayaları","caption":"Bahçeli Kayaları","credit":"Istanbul and Bosporus big","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bah%C3%A7eli%20Kayalar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34739464","tip":"genel"}]
 description: "Sinop'ta yer alan Bahçeli Kayaları, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Bahçeli Kayaları","Sinop","ada","doğa","yeşil alan","gezi","seyahat","turizm","Sinop turistik yerler"]

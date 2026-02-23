@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Plaj activiteleri","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Turkey%2C_Greece_and_Malta_%28IA_b29325146_0002%29.pdf/page1-960px-Turkey%2C_Greece_and_Malta_%28IA_b29325146_0002%29.pdf.jpg","alt":"Abdulvahabi Gazi Türbesi","caption":"Abdulvahabi Gazi Türbesi","credit":"Turkey, Greece and Malta (IA b29325146 0002).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_travels_of_Macarius%2C_Patriarch_of_Antioch_-_Volume_II.djvu/page1-800px-The_travels_of_Macarius%2C_Patriarch_of_Antioch_-_Volume_II.djvu.jpg","alt":"Abdulvahabi Gazi Türbesi","caption":"Abdulvahabi Gazi Türbesi","credit":"The travels of Macarius, Patriarch of Antioch - Volume II","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdulvahabi%20Gazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q127632765","tip":"genel"}]
 description: "Sivas'ta bulunan tarihi türbe ve plaj"
 keywords: ["Abdulvahabi Gazi","Sivas","Türbe","Plaj","İç Anadolu Bölgesi","Tarih","Turizm"]

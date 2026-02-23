@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","tarih keşfi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Narrative_of_a_Mission_to_Central_Africa%2C_performed_in_the_years_1850-51%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.52984%29.pdf/page1-622px-Narrative_of_a_Mission_to_Central_Africa%2C_performed_in_the_years_1850-51%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.52984%29.pdf.jpg","alt":"Kızılsarnıç Tepe","caption":"Kızılsarnıç Tepe","credit":"Narrative of a Mission to Central Africa, performed in the years 1850-51, in Two Volumes, Vol. I (IA dli.granth.52984).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kızılsarnıç Tepe","caption":"Kızılsarnıç Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lsarn%C4%B1%C3%A7%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211284","tip":"genel"}]
 description: "Karaman'ın tarihi ve coğrafi zenginliklerini keşfedin, 140 hektarlık alan"
 keywords: ["Kızılsarnıç Tepe","Karaman","İç Anadolu Bölgesi","tarih","coğrafya","doğa","gezi","tepe","manzara"]

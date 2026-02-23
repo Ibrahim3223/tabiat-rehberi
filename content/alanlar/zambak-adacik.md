@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla01burt_0%29.pdf/page1-841px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla01burt_0%29.pdf.jpg","alt":"Zambak Adacık","caption":"Zambak Adacık","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla01burt 0).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio.jpg/960px-B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio.jpg","alt":"Zambak Adacık","caption":"Zambak Adacık","credit":"Büyükada island, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zambak%20Adac%C4%B1k","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34785560","tip":"genel"}]
 description: "Balıkesir'in güzide adacıklarından biri olan Zambak Adacık, doğal güzellikleri ve sakin atmosferi ile ziyaretçilerini bekliyor."
 keywords: ["Zambak Adacık","Balıkesir","ada","doğa","gezi","seyahat","tatil","turizm","Marmara Denizi"]

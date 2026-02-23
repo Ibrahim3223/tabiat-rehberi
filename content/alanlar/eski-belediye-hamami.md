@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Güneşlenmek","Denize girmek","Doğa yürüyüşleri","Piknik yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf/page1-629px-Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf.jpg","alt":"Eski Belediye Hamamı","caption":"Eski Belediye Hamamı","credit":"Letters from the Aegean (IA lettersfromaegea01tenn).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Eski Belediye Hamamı","caption":"Eski Belediye Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%20Belediye%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739159","tip":"genel"}]
 description: "Acıpayam'da bulunan Eski Belediye Hamamı, tarihi dokusu ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Eski Belediye Hamamı","Acıpayam","Denizli","Ege Bölgesi","tarih","doğa","gezi","turizm","plaj"]

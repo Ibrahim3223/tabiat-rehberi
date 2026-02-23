@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","kamp","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TURKEY-_POLITICAL_TRENDS_IN_2016_%28IA_gov.gpo.fdsys.CHRG-114hhrg98485%29.pdf/page1-960px-TURKEY-_POLITICAL_TRENDS_IN_2016_%28IA_gov.gpo.fdsys.CHRG-114hhrg98485%29.pdf.jpg","alt":"Istanbul-Bahcekoy Saricam","caption":"Istanbul-Bahcekoy Saricam","credit":"TURKEY- POLITICAL TRENDS IN 2016 (IA gov.gpo.fdsys.CHRG-114hhrg98485).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG/960px-Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG","alt":"Istanbul-Bahcekoy Saricam","caption":"Istanbul-Bahcekoy Saricam","credit":"Prise de l'Hôtel de ville - le Pont d'Arcole","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Bahcekoy%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227983","tip":"genel"}]
 description: "İstanbul'un Marmara Bölgesi'nde yer alan bir milli park"
 keywords: ["İstanbul","Marmara Bölgesi","milli park","doğa","çevre","gezi","turizm","ekosistem","koruma","çeşitlilik"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf/page1-883px-Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf.jpg","alt":"Hasan Feyzi Efendi Türbesi","caption":"Hasan Feyzi Efendi Türbesi","credit":"Sport & travel, East and West (IA sporttraveleastw00selorich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Hasan Feyzi Efendi Türbesi","caption":"Hasan Feyzi Efendi Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasan%20Feyzi%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390768","tip":"genel"}]
 description: "Pamukkale'nin tarihi ve doğal güzelliklerini keşfedin. Denizli'de bulunan Hasan Feyzi Efendi Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Pamukkale","Denizli","Hasan Feyzi Efendi Türbesi","tarih","doğa","gezi","türk kültürü","Ege Bölgesi","turizm"]

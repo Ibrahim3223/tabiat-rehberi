@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî hamam gezisi","Doğa yürüyüşü","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_outline_of_history_-_being_a_plain_history_of_life_and_mankind_%28IA_cu31924028328866%29.pdf/page1-868px-The_outline_of_history_-_being_a_plain_history_of_life_and_mankind_%28IA_cu31924028328866%29.pdf.jpg","alt":"Kemankeş Kara Mustafa Paşa Hamamı","caption":"Kemankeş Kara Mustafa Paşa Hamamı","credit":"The outline of history - being a plain history of life and mankind (IA cu31924028328866).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Kemankeş Kara Mustafa Paşa Hamamı","caption":"Kemankeş Kara Mustafa Paşa Hamamı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kemanke%C5%9F%20Kara%20Mustafa%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739195","tip":"genel"}]
 description: "Sivas'ın Yıldızeli ilçesinde yer alan Kemankeş Kara Mustafa Paşa Hamamı, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta."
 keywords: ["Kemankeş Kara Mustafa Paşa Hamamı","Yıldızeli","Sivas","İç Anadolu Bölgesi","tarihi hamam","doğal güzellik"]

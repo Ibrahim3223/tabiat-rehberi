@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","kültürel gezi","dini gezi","doğa gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_encyclopedia_of_missions._Descriptive%2C_historical%2C_biographical%2C_statistical_%28IA_cu31924029338187%29.pdf/page1-960px-The_encyclopedia_of_missions._Descriptive%2C_historical%2C_biographical%2C_statistical_%28IA_cu31924029338187%29.pdf.jpg","alt":"Şeyh Muhammed Nur Türbesi","caption":"Şeyh Muhammed Nur Türbesi","credit":"The encyclopedia of missions. Descriptive, historical, biographical, statistical (IA cu31924029338187).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Şeyh Muhammed Nur Türbesi","caption":"Şeyh Muhammed Nur Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhammed%20Nur%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582867","tip":"genel"}]
 description: "Mardin'in Artuklu ilçesinde bulunan Şeyh Muhammed Nur Türbesi, tarihi ve kültürel öneme sahip bir dini yapıdır."
 keywords: ["Mardin","Artuklu","Şeyh Muhammed Nur Türbesi","tarih","kültür","din","türk kültürü","gezi","seyahat","türbe","dini yapı"]

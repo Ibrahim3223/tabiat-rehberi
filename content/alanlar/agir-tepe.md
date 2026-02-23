@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Armenian_bondage_and_carnage%3B_being_the_story_of_Christian_martyrdom_in_modern_times_%28IA_armenianbondagec00beheiala%29.pdf/page1-820px-Armenian_bondage_and_carnage%3B_being_the_story_of_Christian_martyrdom_in_modern_times_%28IA_armenianbondagec00beheiala%29.pdf.jpg","alt":"Agir Tepe","caption":"Agir Tepe","credit":"Armenian bondage and carnage; being the story of Christian martyrdom in modern times (IA armenianbondagec00beheiala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Agir Tepe","caption":"Agir Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Agir%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551761","tip":"genel"}]
 description: "Mardin'de bulunan Agir Tepe, doğa severlerin keşfetmek için uğrak noktalarından biri. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Agir Tepe","Mardin","Dağ","Doğa","Turizm","Gezi","Keşif","Yeşil Alan","İstanbul","Türkiye"]

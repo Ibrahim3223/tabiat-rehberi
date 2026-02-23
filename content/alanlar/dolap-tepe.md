@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_war_in_eastern_Europe_%28IA_warineasterneuro00reed%29.pdf/page1-766px-The_war_in_eastern_Europe_%28IA_warineasterneuro00reed%29.pdf.jpg","alt":"Dolap Tepe","caption":"Dolap Tepe","credit":"The war in eastern Europe (IA warineasterneuro00reed).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Dolap Tepe","caption":"Dolap Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dolap%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31537247","tip":"genel"}]
 description: "Kilis'te yer alan Dolap Tepe, 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor. Doğal güzelliği ile dikkat çeken bu dağ, trekking ve doğa yürüyüşü için ideal bir destinasyon."
 keywords: ["Dolap Tepe","Kilis","Dağ","Doğa Yürüyüşü","Trekking","Yeşil Alan","Doğal Güzellik","Turizm","Gezi","Seyahat"]

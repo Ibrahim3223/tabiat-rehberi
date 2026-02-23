@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Yaban hayatı gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Victoria_Daily_Times_%281920-07-29%29_%28IA_victoriadailytimes19200729%29.pdf/page1-960px-Victoria_Daily_Times_%281920-07-29%29_%28IA_victoriadailytimes19200729%29.pdf.jpg","alt":"Adana-Pos-Sogukoluk Karacam","caption":"Adana-Pos-Sogukoluk Karacam","credit":"Victoria Daily Times (1920-07-29) (IA victoriadailytimes19200729).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_photos_of_Akda%C4%9F_3.jpg/960px-The_photos_of_Akda%C4%9F_3.jpg","alt":"Adana-Pos-Sogukoluk Karacam","caption":"Adana-Pos-Sogukoluk Karacam","credit":"The photos of Akdağ 3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pos-Sogukoluk%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227471","tip":"genel"}]
 description: "Akdeniz Bölgesi'nde yer alan Adana-Pos-Sogukoluk Karacam, 140 hektarlık bir alanı kapsar. Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeker."
 keywords: ["Adana-Pos-Sogukoluk Karacam","Akdeniz Bölgesi","doğal güzellikler","zengin fauna","140 hektar","milli park"]

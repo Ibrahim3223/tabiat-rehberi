@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/New_chapters_in_the_warfare_of_science_%28IA_cu31924092291495%29.pdf/page1-789px-New_chapters_in_the_warfare_of_science_%28IA_cu31924092291495%29.pdf.jpg","alt":"Çıralık Dağ","caption":"Çıralık Dağ","credit":"New chapters in the warfare of science (IA cu31924092291495).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Çıralık Dağ","caption":"Çıralık Dağ","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1ral%C4%B1k%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819245","tip":"genel"}]
 description: "Sivas'ta yer alan Çıralık Dağ, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Çıralık Dağ","Sivas","Dağ","Doğa","Yeşil Alan","Turizm","Sivas Turistik Yerler","Doğal Güzellikler","Gezi Rehberi"]

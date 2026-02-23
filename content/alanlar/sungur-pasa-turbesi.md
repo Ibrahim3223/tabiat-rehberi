@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğa yürüyüşü","Fotoğraf çekmek","İnegöl'ün tarihi noktalarını keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/British_medical_journal_%28IA_1877britishmedic02brit%29.pdf/page1-960px-British_medical_journal_%28IA_1877britishmedic02brit%29.pdf.jpg","alt":"Sungur Paşa Türbesi","caption":"Sungur Paşa Türbesi","credit":"British medical journal (IA 1877britishmedic02brit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Sungur Paşa Türbesi","caption":"Sungur Paşa Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sungur%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391365","tip":"genel"}]
 description: "İnegöl'de tarih ve doğanın buluştuğu đim. Marmara Bölgesi'nin gizli hazine"
 keywords: ["Sungur Paşa Türbesi","İnegöl","Bursa","Marmara Bölgesi","tarih","doğa","türbe","gezi","turizm"]

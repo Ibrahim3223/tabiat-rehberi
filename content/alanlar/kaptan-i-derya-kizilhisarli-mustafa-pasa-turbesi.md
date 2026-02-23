@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Tarihi ve kültürel zenginlikleri keşfetmek","Ege manzarasını seyretmek","Yakındaki diğer tarihi ve doğal güzellikleri ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Proceedings_of_the_Symposium_on_the_Environmental_Consequences_of_Fire_and_Fuel_Management_in_Mediterranean_Ecosystems_-_August_1-5%2C_1977%2C_Palo_Alto%2C_California._-_%28IA_CAT78696401%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi","caption":"Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi","credit":"Proceedings of the Symposium on the Environmental Consequences of Fire and Fuel Management in Mediterranean Ecosystems - August 1-5, 1977, Palo Alto, California. - (IA CAT78696401).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi","caption":"Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaptan-%C4%B1%20Derya%20K%C4%B1z%C4%B1lhisarl%C4%B1%20Mustafa%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735193","tip":"genel"}]
 description: "Bodrum'un tarihi zenginliği, Ege'nin güzelliği"
 keywords: ["Kaptan-ı Derya Kızılhisarlı Mustafa Paşa","Bodrum","Muğla","Ege Bölgesi","Türbe","Tarih","Coğrafya","Doğa","Flora","Fauna"]

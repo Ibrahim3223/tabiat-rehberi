@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kampçılık","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Terry_-_a_tale_of_the_hill_people_%28IA_cu31924023989076%29.pdf/page1-668px-Terry_-_a_tale_of_the_hill_people_%28IA_cu31924023989076%29.pdf.jpg","alt":"Kalemürük Tepesi","caption":"Kalemürük Tepesi","credit":"Terry - a tale of the hill people (IA cu31924023989076).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kalemürük Tepesi","caption":"Kalemürük Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalem%C3%BCr%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877456","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Kalemürük Tepesi, Van ilinin önemli doğal güzelliklerinden biri"
 keywords: ["Kalemürük Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tepe","dağ","coğrafya","gezi","turizm"]

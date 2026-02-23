@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihı geçmişi hakkında bilgi edinme","mimari keşif","çevre gezisi","fotograf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/State_1986-03-_Iss_287_%28IA_sim_state-magazine_1986-03_287%29.pdf/page1-960px-State_1986-03-_Iss_287_%28IA_sim_state-magazine_1986-03_287%29.pdf.jpg","alt":"Tiritzade Şeyh Hüseyin Efendi Türbesi","caption":"Tiritzade Şeyh Hüseyin Efendi Türbesi","credit":"State 1986-03- Iss 287 (IA sim state-magazine 1986-03 287).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Tiritzade Şeyh Hüseyin Efendi Türbesi","caption":"Tiritzade Şeyh Hüseyin Efendi Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tiritzade%20%C5%9Eeyh%20H%C3%BCseyin%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390666","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzellikleriyle dolu bir bölgesi"
 keywords: ["Ankara","Tiritzade Şeyh Hüseyin Efendi Türbesi","tarih","doğa","gezi","turizm","kültür","mimari","türbe"]

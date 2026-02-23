@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi","Tarihi araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Curiosities_of_Natural_History%2C_3rd_Series%2C_2nd_ed.%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.74426%29.pdf/page1-641px-Curiosities_of_Natural_History%2C_3rd_Series%2C_2nd_ed.%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.74426%29.pdf.jpg","alt":"Hayreddin-i Tokadî Efendi Türbesi","caption":"Hayreddin-i Tokadî Efendi Türbesi","credit":"Curiosities of Natural History, 3rd Series, 2nd ed., in Two Volumes, Vol. I (IA dli.granth.74426).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Hayreddin-i Tokadî Efendi Türbesi","caption":"Hayreddin-i Tokadî Efendi Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hayreddin-i%20Tokad%C3%AE%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391690","tip":"genel"}]
 description: "Bolu'nun güzide mekanlarından bir tanesi olan Hayreddin-i Tokadî Efendi Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Bolu","Hayreddin-i Tokadî Efendi Türbesi","tarihi mekan","doğa","tarihçe","coğrafya","flora","fauna","ziyaret"]

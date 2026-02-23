@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihı yerleri keşfetmek","doğal güzellikleri keşfetmek","flora ve fauna zenginliğini keşfetmek","etkinliklere katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Explorations_in_Bible_lands_during_the_19th_century_%28IA_explorationsinbi00hilp%29.pdf/page1-918px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_explorationsinbi00hilp%29.pdf.jpg","alt":"Güney Kaya Mezar Odası","caption":"Güney Kaya Mezar Odası","credit":"Explorations in Bible lands during the 19th century (IA explorationsinbi00hilp).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Güney Kaya Mezar Odası","caption":"Güney Kaya Mezar Odası","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCney%20Kaya%20Mezar%20Odas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728171","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde, Akçadağ ilçesinde bulunan Güney Kaya Mezar Odası, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Güney Kaya Mezar Odası","Akçadağ","Malatya","Doğu Anadolu Bölgesi","tarihi yerler","doğal güzellikler","kaya mezarları","mezartaşı"]

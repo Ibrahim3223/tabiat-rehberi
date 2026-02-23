@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Through_the_heart_of_Asia-_over_the_Pamir_to_India_%28IA_throughheartofas01bonv%29.pdf/page1-920px-Through_the_heart_of_Asia-_over_the_Pamir_to_India_%28IA_throughheartofas01bonv%29.pdf.jpg","alt":"Böğürtlen Dağı","caption":"Böğürtlen Dağı","credit":"Through the heart of Asia- over the Pamir to India (IA throughheartofas01bonv).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Böğürtlen Dağı","caption":"Böğürtlen Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%B6%C4%9F%C3%BCrtlen%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731196","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerini keşfedin, Böğürtlen Dağı'nda doğa ile baş başa kalın"
 keywords: ["Böğürtlen Dağı","Samsun","Dağ","Doğa","Turizm","Samsun Turistik Yerler","Dağcılık","Doğa Yürüyüşü","Samsun Gezi Rehberi"]

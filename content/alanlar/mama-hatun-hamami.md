@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Mama Hatun Hamamı","caption":"Mama Hatun Hamamı","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Mama Hatun Hamamı","caption":"Mama Hatun Hamamı","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mama%20Hatun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738673","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Tercan'da bulunan Mama Hatun Hamamı, 140 hektarlık yeşil alanıyla doğa severlerin yeni adresi."
 keywords: ["Mama Hatun Hamamı","Tercan","Erzincan","Doğu Anadolu Bölgesi","doğa","gezi","tarih"]

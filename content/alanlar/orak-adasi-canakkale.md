@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Gün boyu"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Protecting_the_Turkish_Straits_from_Maritime_Terrorism-_a_Scheme_to_Impede_Propeller_Efficiency_%28IA_protectingturkis109457370%29.pdf/page1-960px-Protecting_the_Turkish_Straits_from_Maritime_Terrorism-_a_Scheme_to_Impede_Propeller_Efficiency_%28IA_protectingturkis109457370%29.pdf.jpg","alt":"Orak Adası","caption":"Orak Adası","credit":"Protecting the Turkish Straits from Maritime Terrorism- a Scheme to Impede Propeller Efficiency (IA protectingturkis109457370).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Beach_on_Rabbit_Island_near_Nelson.jpg/960px-Beach_on_Rabbit_Island_near_Nelson.jpg","alt":"Orak Adası","caption":"Orak Adası","credit":"Beach on Rabbit Island near Nelson","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Orak%20Adas%C4%B1%20(%C3%87anakkale)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30667943","tip":"genel"}]
 description: "Çanakkale'de yer alan Orak Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Orak Adası","Çanakkale","ada","doğal alan","yeşil cennet","gezi","seyahat","turizm","Çanakkale adaları"]

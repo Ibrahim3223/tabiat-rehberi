@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["doğa yürüyüşü","denize girme","tarihi mekanları keşfetme","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Animal_disease_thesaurus_%28IA_CAT80734093008%29.pdf/page1-900px-Animal_disease_thesaurus_%28IA_CAT80734093008%29.pdf.jpg","alt":"Kum Baba Türbesi","caption":"Kum Baba Türbesi","credit":"Animal disease thesaurus (IA CAT80734093008).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Kum Baba Türbesi","caption":"Kum Baba Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kum%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390766","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Çorum'un Osmancık ilçesinde yer alan Kum Baba Türbesi"
 keywords: ["Kum Baba Türbesi","Osmancık","Çorum","Karadeniz Bölgesi","plaj","tarihi mekan"]

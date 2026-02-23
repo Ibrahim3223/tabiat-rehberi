@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","yürüyüş parkurları","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/California_Digital_Library_%28IA_smyrnafigathomea00roedrich%29.pdf/page1-939px-California_Digital_Library_%28IA_smyrnafigathomea00roedrich%29.pdf.jpg","alt":"Denizli-Eskere-Yelkencidag Ardic","caption":"Denizli-Eskere-Yelkencidag Ardic","credit":"California Digital Library (IA smyrnafigathomea00roedrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Denizli-Eskere-Yelkencidag Ardic","caption":"Denizli-Eskere-Yelkencidag Ardic","credit":"Turkish nature reserve","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Eskere-Yelkencidag%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227223","tip":"genel"}]
 description: "Ege Bölgesi'nin doğa harikalarından biri olan Denizli-Eskere-Yelkencidag Ardic milli parkı"
 keywords: ["Denizli","Eskere","Yelkencidag Ardic","milli park","Ege Bölgesi","doğa","turizm","gezi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/California_Digital_Library_%28IA_smyrnafigathomea00roedrich%29.pdf/page1-939px-California_Digital_Library_%28IA_smyrnafigathomea00roedrich%29.pdf.jpg","alt":"Denizli-Cal-Inceler Karacam","caption":"Denizli-Cal-Inceler Karacam","credit":"California Digital Library (IA smyrnafigathomea00roedrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Denizli-Cal-Inceler Karacam","caption":"Denizli-Cal-Inceler Karacam","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cal-Inceler%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227498","tip":"genel"}]
 description: "Denizli'de yer alan milli park, Ege Bölgesi'nin doğal güzelliklerini sunar"
 keywords: ["Denizli","Cal","Inceler Karacam","milli park","Ege Bölgesi","doğal alan","çevre","ekosistem","flora","fauna"]

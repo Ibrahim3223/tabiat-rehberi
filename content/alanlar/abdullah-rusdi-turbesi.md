@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihî yapıları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf/page1-960px-Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf.jpg","alt":"Abdullah Rüşdi Türbesi","caption":"Abdullah Rüşdi Türbesi","credit":"Diary of H. M. Van Deusen January 29, 1953 to November 17, 1953 (IA diaryhmvandeuse00vanda).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Condor6%286%29.djvu/page1-800px-Condor6%286%29.djvu.jpg","alt":"Abdullah Rüşdi Türbesi","caption":"Abdullah Rüşdi Türbesi","credit":"Condor6(6)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdullah%20R%C3%BC%C5%9Fdi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390715","tip":"genel"}]
 description: "Bolu'nun Mudurnu ilçesinde bulunan Abdullah Rüşdi Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir yer."
 keywords: ["Abdullah Rüşdi Türbesi","Mudurnu","Bolu","tarih","doğa","turizm","gezi","karadeniz"]

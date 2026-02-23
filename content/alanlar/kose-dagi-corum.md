@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf/page1-670px-The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf.jpg","alt":"Köse Dağı","caption":"Köse Dağı","credit":"The salt-box house; eighteenth century life in a New England hill town (IA cu31924028842544).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Köse Dağı","caption":"Köse Dağı","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6se%20Da%C4%9F%C4%B1%20(%C3%87orum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042785","tip":"genel"}]
 description: "Çorum'un önemli dağlarından biri olan Köse Dağı, bölgenin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Köse Dağı","Çorum","Dağ","Doğa","Turizm","Gezi","Çorum Turistik Yerler","Köse Dağı Çorum","Dağcılık"]

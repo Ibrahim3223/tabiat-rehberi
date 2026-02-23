@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşü","İlçe turu","Kaplıca ziyaretleri","Yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Scribner%27s_Magazine_Volume_15.pdf/page1-960px-Scribner%27s_Magazine_Volume_15.pdf.jpg","alt":"Düziçi Haruniye Ilıcası","caption":"Düziçi Haruniye Ilıcası","credit":"Scribner's Magazine Volume 15.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Arif_solak_BanazHamambogazi1.jpg","alt":"Düziçi Haruniye Ilıcası","caption":"Düziçi Haruniye Ilıcası","credit":"Arif solak BanazHamambogazi1","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCzi%C3%A7i%20Haruniye%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741906","tip":"genel"}]
 description: "Osmaniye'de bulunan Haruniye Ilıcası, 140 hektarlık yeşil alanı ve zengin fauna ile ziyaretçilerini bekliyor."
 keywords: ["Düziçi","Haruniye Ilıcası","Osmaniye","Akdeniz Bölgesi","termal kaynak","ılıca","doğa","gezi"]

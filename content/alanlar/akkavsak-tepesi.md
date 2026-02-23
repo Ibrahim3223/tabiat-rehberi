@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["trekking","kamp","yürüyüş","doğa"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/The_wilds_of_Patagonia%3B_a_narrative_of_the_Swedish_expedition_to_Patagonia%2C_Tierra_del_Fuego_and_the_Falkland_Islands_in_1907-1909_%28IA_ofpatagonia00skotwildsrich%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Akkavşak Tepesi","caption":"Akkavşak Tepesi","credit":"The wilds of Patagonia; a narrative of the Swedish expedition to Patagonia, Tierra del Fuego and the Falkland Islands in 1907-1909 (IA ofpatagonia00skotwildsrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Akkavşak Tepesi","caption":"Akkavşak Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akkav%C5%9Fak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389784","tip":"genel"}]
 description: "Bolu'nun güzide doğal alanlarından biri olan Akkavşak Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Akkavşak Tepesi","Bolu","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","yürüyüş","kamp"]

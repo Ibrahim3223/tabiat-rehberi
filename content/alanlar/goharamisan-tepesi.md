@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_scenery_of_Greece_and_its_islands%2C_illustrated_by_fifty_views%2C_sketched_from_nature%2C_executed_on_steel%2C_and_described_en_route%2C_with_a_map_of_the_country_%28IA_cu31924028239691%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Goharamişan Tepesi","caption":"Goharamişan Tepesi","credit":"The scenery of Greece and its islands, illustrated by fifty views, sketched from nature, executed on steel, and described en route, with a map of the country (IA cu31924028239691).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Goharamişan Tepesi","caption":"Goharamişan Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Goharami%C5%9Fan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31576018","tip":"genel"}]
 description: "Van'ın doğal güzelliklerinin başlıcalarından biri olan Goharamişan Tepesi, ziyaretçiler için keşfedilmeyi bekleyen bir hazine"
 keywords: ["Goharamişan Tepesi","Van","Doğu Anadolu Bölgesi","Doğal Alan","Tepeler","Gezi","Tarihçe","Coğrafya","Flora","Fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Fakılı Mağarası","caption":"Fakılı Mağarası","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Fakılı Mağarası","caption":"Fakılı Mağarası","credit":"Goreme National Park, Turkey","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fak%C4%B1l%C4%B1%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319154","tip":"genel"}]
 description: "Türkiye'de yer alan doğal bir jeopark olan Fakılı Mağarası, benzersiz oluşumlarıyla dikkat çekiyor."
 keywords: ["Fakılı Mağarası","Jeopark","Doğal Alan","Türkiye","Mağara","Jeolojik Oluşum","Turizm","Doğa","Gezi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemleri","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Victoria_Daily_Times_%281922-06-05%29_%28IA_victoriadailytimes19220605%29.pdf/page1-960px-Victoria_Daily_Times_%281922-06-05%29_%28IA_victoriadailytimes19220605%29.pdf.jpg","alt":"Adana-Kayseri-Pinarbasi Saricam","caption":"Adana-Kayseri-Pinarbasi Saricam","credit":"Victoria Daily Times (1922-06-05) (IA victoriadailytimes19220605).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Adana-Kayseri-Pinarbasi Saricam","caption":"Adana-Kayseri-Pinarbasi Saricam","credit":"Turkish nature reserve","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kayseri-Pinarbasi%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227688","tip":"genel"}]
 description: "Adana ve Kayseri illerinin sınırında yer alan Pınarbaşı Sarıçam, doğal güzelliği ile dikkat çeken bir milli park."
 keywords: ["Pınarbaşı Sarıçam","Adana","Kayseri","Milli Park","Doğa","Turizm","Gezi","Sarıçam"]

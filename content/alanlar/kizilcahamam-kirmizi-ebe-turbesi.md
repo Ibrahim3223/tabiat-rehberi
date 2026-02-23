@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarih araştırması","Bölge keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf/page1-960px-State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf.jpg","alt":"Kızılcahamam Kırmızı Ebe Türbesi","caption":"Kızılcahamam Kırmızı Ebe Türbesi","credit":"State August-September 1981- Iss 281 (IA sim state-magazine august-september-1981 281).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Kızılcahamam Kırmızı Ebe Türbesi","caption":"Kızılcahamam Kırmızı Ebe Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcahamam%20K%C4%B1rm%C4%B1z%C4%B1%20Ebe%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391215","tip":"genel"}]
 description: "Ankara'nın doğal güzellikleri arasında yer alan Kızılcahamam Kırmızı Ebe Türbesi, ziyaretçilerini büyüleyici bir deneyime davet ediyor."
 keywords: ["Kızılcahamam","Kırmızı Ebe Türbesi","Ankara","doğal güzellik","tarih","coğrafya"]

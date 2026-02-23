@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Proceedings_of_the_Symposium_on_the_Environmental_Consequences_of_Fire_and_Fuel_Management_in_Mediterranean_Ecosystems_-_August_1-5%2C_1977%2C_Palo_Alto%2C_California._-_%28IA_CAT78696401%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Küçükada","caption":"Küçükada","credit":"Proceedings of the Symposium on the Environmental Consequences of Fire and Fuel Management in Mediterranean Ecosystems - August 1-5, 1977, Palo Alto, California. - (IA CAT78696401).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Y%C4%B1lanc%C4%B1k_Island_-_panoramio.jpg/960px-Y%C4%B1lanc%C4%B1k_Island_-_panoramio.jpg","alt":"Küçükada","caption":"Küçükada","credit":"Yılancık Island - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkada%2C%20Mu%C4%9Fla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q12810531","tip":"genel"}]
 description: "Muğla'nın güzide adalarından biri olan Küçükada, 1200 hektarlık yeşil cenneti ve tarihi güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Küçükada","Muğla","ada","turizm","gezi","doğa","tarih","Muğla adaları","Ege Bölgesi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sketches_on_a_tour_through_the_northern_and_eastern_states%2C_the_Canadas_%26_Nova_Scotia_%28microform%29_%28IA_cihm_38369%29.pdf/page1-960px-Sketches_on_a_tour_through_the_northern_and_eastern_states%2C_the_Canadas_%26_Nova_Scotia_%28microform%29_%28IA_cihm_38369%29.pdf.jpg","alt":"Yasma Dağı","caption":"Yasma Dağı","credit":"Sketches on a tour through the northern and eastern states, the Canadas & Nova Scotia (microform) (IA cihm 38369).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Yasma Dağı","caption":"Yasma Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yasma%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582309","tip":"genel"}]
 description: "Çorum'un önemli doğal güzelliklerinden biri olan Yasma Dağı, trekking ve doğa severler için ideal bir destinasyon"
 keywords: ["Yasma Dağı","Çorum","Dağ","Trekking","Doğa","Turizm","Çorum Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

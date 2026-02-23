@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçi olmak","fotoğrafçı olmak","yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf/page1-614px-Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf.jpg","alt":"Sungur Bey Kümbeti, Niğde","caption":"Sungur Bey Kümbeti, Niğde","credit":"Journal of a tour in Asia Minor - with comparative remarks on the ancient and modern geography of that country (IA gri 000033125011216732).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Sungur Bey Kümbeti, Niğde","caption":"Sungur Bey Kümbeti, Niğde","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sungur%20Bey%20K%C3%BCmbeti%2C%20Ni%C4%9Fde","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582374","tip":"genel"}]
 description: "Niğde'nin tarihi ve kültürel zenginliklerini keşfedin. Sungur Bey Kümbeti, İç Anadolu Bölgesi'nin önemli tarihi eserlerinden biri."
 keywords: ["Sungur Bey Kümbeti","Niğde","İç Anadolu Bölgesi","tarihi eser","kümbet","Niğde tarihi"]

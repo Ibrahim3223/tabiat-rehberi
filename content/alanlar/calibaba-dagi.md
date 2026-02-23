@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rip_rap_-_USACE-p16021coll8-1223.pdf/page1-960px-Rip_rap_-_USACE-p16021coll8-1223.pdf.jpg","alt":"Çalıbaba Dağı","caption":"Çalıbaba Dağı","credit":"Rip rap - USACE-p16021coll8-1223.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Çalıbaba Dağı","caption":"Çalıbaba Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87al%C4%B1baba%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823627","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Çalıbaba Dağı'nda doğa yürüyüşü ve manzaraların keyfini çıkarın."
 keywords: ["Çalıbaba Dağı","İzmir","Dağ","Doğa Yürüyüşü","Manzara","Turizm","Gezi","İzmir Turistik Yerler","Dağcılık"]

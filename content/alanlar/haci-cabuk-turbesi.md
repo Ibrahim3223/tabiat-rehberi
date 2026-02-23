@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["türbe ziyaretleri","doğa yürüyüşleri","kuş gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/New_England_Spectator_%28IA_1d9e19f8-014d-42a1-8f57-29a8de969664%29.pdf/page1-960px-New_England_Spectator_%28IA_1d9e19f8-014d-42a1-8f57-29a8de969664%29.pdf.jpg","alt":"Hacı Çabuk Türbesi","caption":"Hacı Çabuk Türbesi","credit":"New England Spectator (IA 1d9e19f8-014d-42a1-8f57-29a8de969664).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Hacı Çabuk Türbesi","caption":"Hacı Çabuk Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20%C3%87abuk%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391783","tip":"genel"}]
 description: "Niksar'da bulunan Hacı Çabuk Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir destinasyon"
 keywords: ["Hacı Çabuk Türbesi","Niksar","Tokat","Karadeniz Bölgesi","tarih","doğa","gezi","türbe"]

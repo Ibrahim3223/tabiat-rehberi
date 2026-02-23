@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf/page1-670px-The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf.jpg","alt":"İbekköyü Mağarası","caption":"İbekköyü Mağarası","credit":"The salt-box house; eighteenth century life in a New England hill town (IA cu31924028842544).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg/960px-Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg","alt":"İbekköyü Mağarası","caption":"İbekköyü Mağarası","credit":"Korfu (GR), Kassiopi -- 2018 -- 1068","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0bekk%C3%B6y%C3%BC%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319923","tip":"genel"}]
 description: "Çorum'da yer alan İbekköyü Mağarası, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği keşfedin."
 keywords: ["İbekköyü Mağarası","Çorum","Jeopark","Doğal Alan","Mağara","Turizm","Çorum Turistik Yerler","Jeolojik Özellikler","Doğa"]

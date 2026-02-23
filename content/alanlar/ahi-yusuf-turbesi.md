@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî türbe gezisi","doğa yürüyüşü","fotograf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Armenia_and_the_Pontus_%28IA_armeniapontus00sira%29.pdf/page1-943px-Armenia_and_the_Pontus_%28IA_armeniapontus00sira%29.pdf.jpg","alt":"Ahi Yusuf Türbesi","caption":"Ahi Yusuf Türbesi","credit":"Armenia and the Pontus (IA armeniapontus00sira).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu/page1-800px-The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu.jpg","alt":"Ahi Yusuf Türbesi","caption":"Ahi Yusuf Türbesi","credit":"The Modern Review Vol 37 (Jan.-June 1925)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20Yusuf%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391658","tip":"genel"}]
 description: "Sivas'ın Divriği ilçesinde bulunan tarihi türbe ve çevresi hakkında bilgi"
 keywords: ["Ahi Yusuf Türbesi","Divriği","Sivas","tarih","türbe","coğrafya","flora","fauna"]

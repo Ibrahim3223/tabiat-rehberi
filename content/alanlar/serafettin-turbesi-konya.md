@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["tarihî değerleri keşfetmek","coğrafi özellikleri incelemek","flora ve faunayı gözlemlemek","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Şerafettin Türbesi, Konya","caption":"Şerafettin Türbesi, Konya","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Şerafettin Türbesi, Konya","caption":"Şerafettin Türbesi, Konya","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eerafettin%20T%C3%BCrbesi%2C%20Konya","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582399","tip":"genel"}]
 description: "Konya'nın tarihi ve kültürel zenginliklerini keşfedin, Şerafettin Türbesi'ni ziyaret edin."
 keywords: ["Şerafettin Türbesi","Konya","Karatay","İç Anadolu Bölgesi","tarih","kültür","türbe","ziyaret","gezi"]

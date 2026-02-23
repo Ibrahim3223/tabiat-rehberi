@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarihî yerleri gezme","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_New_York_Evangelist_1854-02-09-_Vol_25_Iss_6_%28IA_sim_evangelist-and-religious-review_1854-02-09_25_6%29.pdf/page1-960px-The_New_York_Evangelist_1854-02-09-_Vol_25_Iss_6_%28IA_sim_evangelist-and-religious-review_1854-02-09_25_6%29.pdf.jpg","alt":"Evliya Tepe","caption":"Evliya Tepe","credit":"The New York Evangelist 1854-02-09- Vol 25 Iss 6 (IA sim evangelist-and-religious-review 1854-02-09 25 6).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Evliya Tepe","caption":"Evliya Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Evliya%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387169","tip":"genel"}]
 description: "Tokat'ta bulunan Evliya Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Evliya Tepe","Tokat","Karadeniz Bölgesi","doğal güzellik","tarihi yer","yeşil alan","fiziksel veriler","hikaye","coğrafya","flora","fauna","ziyaret"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Victoria_Daily_Times_%281922-06-05%29_%28IA_victoriadailytimes19220605%29.pdf/page1-960px-Victoria_Daily_Times_%281922-06-05%29_%28IA_victoriadailytimes19220605%29.pdf.jpg","alt":"Adana-Pos-Sogukoluk Kızılçam","caption":"Adana-Pos-Sogukoluk Kızılçam","credit":"Victoria Daily Times (1922-06-05) (IA victoriadailytimes19220605).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_photos_of_Akda%C4%9F_2.jpg/960px-The_photos_of_Akda%C4%9F_2.jpg","alt":"Adana-Pos-Sogukoluk Kızılçam","caption":"Adana-Pos-Sogukoluk Kızılçam","credit":"The photos of Akdağ 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pos-Sogukoluk%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227409","tip":"genel"}]
 description: "Adana'nın güzide milli parklarından biri olan Adana-Pos-Sogukoluk Kızılçam, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Adana","milli park","doğa","kızılçam","yeşil alan","çevre","ekoloji","turizm","gezi"]

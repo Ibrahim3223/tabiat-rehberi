@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cost_benefit_analysis_for_Turkish_Navy._%28IA_costbenefitanaly00eman%29.pdf/page1-960px-Cost_benefit_analysis_for_Turkish_Navy._%28IA_costbenefitanaly00eman%29.pdf.jpg","alt":"Güvercin Adası","caption":"Güvercin Adası","credit":"Cost benefit analysis for Turkish Navy. (IA costbenefitanaly00eman).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%D0%A1%D0%B0%D0%B3%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_%D0%B2%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_IMG20230908150209.jpg/960px-%D0%A1%D0%B0%D0%B3%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_%D0%B2%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_IMG20230908150209.jpg","alt":"Güvercin Adası","caption":"Güvercin Adası","credit":"Саговник відгорнений IMG20230908150209","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCvercin%20Adas%C4%B1%20(Antalya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49640086","tip":"genel"}]
 description: "Antalya'nın turistik bölgelerinden biri olan Güvercin Adası, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Güvercin Adası","Antalya","turistik yerler","ada","yeşil alan","gezi","seyahat","doğa","turizm"]

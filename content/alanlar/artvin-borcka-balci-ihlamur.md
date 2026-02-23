@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/The_Examiner_1877-05-26-_Iss_3617_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1877-05-26_3617%29.pdf/page1-960px-The_Examiner_1877-05-26-_Iss_3617_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1877-05-26_3617%29.pdf.jpg","alt":"Artvin-Borcka-Balci-Ihlamur","caption":"Artvin-Borcka-Balci-Ihlamur","credit":"The Examiner 1877-05-26- Iss 3617 (IA sim examiner-a-weekly-paper-on-politics-literature-music 1877-05-26 3617).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Artvin-Borcka-Balci-Ihlamur","caption":"Artvin-Borcka-Balci-Ihlamur","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Borcka-Balci-Ihlamur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228553","tip":"genel"}]
 description: "Artvin'de yer alan Borcka-Balci-Ihlamur Milli Parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Artvin","Borcka-Balci-Ihlamur","Milli Park","Karadeniz Bölgesi","Doğa","Turizm","Yeşil Alan","Futbol Sahası"]

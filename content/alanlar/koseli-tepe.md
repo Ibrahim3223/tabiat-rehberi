@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Enterprise_1909-02-20_%28IA_cssf_000701%29.pdf/page1-960px-The_Enterprise_1909-02-20_%28IA_cssf_000701%29.pdf.jpg","alt":"Köşeli Tepe","caption":"Köşeli Tepe","credit":"The Enterprise 1909-02-20 (IA cssf 000701).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Köşeli Tepe","caption":"Köşeli Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6%C5%9Feli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210427","tip":"genel"}]
 description: "Rize'de yer alan Köşeli Tepe, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon."
 keywords: ["Köşeli Tepe","Rize","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","çevre","iklim"]

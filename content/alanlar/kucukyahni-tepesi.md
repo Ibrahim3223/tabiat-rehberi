@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Travels_in_the_Trans-caucasian_Provinces_of_Russia_-_Along_the_Southern_Shore_of_the_Lakes_of_Van_and_Urumiah%2C_in_the_Autumn_and_Winter_of_1837_%28IA_dli.granth.36634%29.pdf/page1-750px-thumbnail.pdf.jpg","alt":"Küçükyahni Tepesi","caption":"Küçükyahni Tepesi","credit":"Travels in the Trans-caucasian Provinces of Russia - Along the Southern Shore of the Lakes of Van and Urumiah, in the Autumn and Winter of 1837 (IA dli.granth.36634).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Küçükyahni Tepesi","caption":"Küçükyahni Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkyahni%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211066","tip":"genel"}]
 description: "Kars'ın gizli köşesi, Küçükyahni Tepesi'ni keşfedin!"
 keywords: ["Küçükyahni Tepesi","Kars","Doğu Anadolu Bölgesi","tepe","coğrafya","tarih","flora","fauna","ziyaret"]

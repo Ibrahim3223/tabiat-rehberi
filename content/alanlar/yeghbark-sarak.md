@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/In_the_Maoriland_bush_%28IA_inmaorilandbush00koebiala%29.pdf/page1-816px-In_the_Maoriland_bush_%28IA_inmaorilandbush00koebiala%29.pdf.jpg","alt":"Yeghbark Sarak","caption":"Yeghbark Sarak","credit":"In the Maoriland bush (IA inmaorilandbush00koebiala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Yeghbark Sarak","caption":"Yeghbark Sarak","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeghbark%20Sarak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21697105","tip":"genel"}]
 description: "Ağrı'da yer alan Yeghbark Sarak, doğal güzellikleri ve dağlık yapısıyla dikkat çeker."
 keywords: ["Yeghbark Sarak","Ağrı","Dağ","Doğa","Türkiye","Seyahat","Gezi","Ağrı Dağı","Doğal Alanlar"]

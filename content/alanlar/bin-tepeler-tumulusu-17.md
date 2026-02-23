@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Arkeolojik kazılar","Tarih gezileri","Doğa yürüyüşleri","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf/page1-835px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 17","caption":"Bin Tepeler Tümülüsü 17","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla02burt).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Bin Tepeler Tümülüsü 17","caption":"Bin Tepeler Tümülüsü 17","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2017","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728377","tip":"genel"}]
 description: "Ege Bölgesi'nde yer alan Bin Tepeler Tümülüsü 17, tarihin derinliklerine uzanan bir geçmişe sahip"
 keywords: ["Bin Tepeler Tümülüsü","Manisa","Salihli","Ege Bölgesi","tarih","tümülüs","arkeoloji","kültür","gezi"]

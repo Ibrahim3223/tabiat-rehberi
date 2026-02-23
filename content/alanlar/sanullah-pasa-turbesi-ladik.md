@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî eserleri ziyaret etmek","doğa yürüyüşü yapmak","fotograflar çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Sanullah Paşa Türbesi Ladik","caption":"Sanullah Paşa Türbesi Ladik","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Sanullah Paşa Türbesi Ladik","caption":"Sanullah Paşa Türbesi Ladik","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sanullah%20Pa%C5%9Fa%20T%C3%BCrbesi%20Ladik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391331","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun iline bağlı Ladik ilçesinde yer alan Sanullah Paşa Türbesi, tarihi ve kültürel zenginliği ile dikkat çekiyor."
 keywords: ["Sanullah Paşa Türbesi","Ladik","Samsun","Karadeniz Bölgesi","tarih","kültür","türbe"]

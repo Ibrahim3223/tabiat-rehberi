@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rattler_%281913%29_%28IA_rattler191305rale%29.pdf/page1-960px-Rattler_%281913%29_%28IA_rattler191305rale%29.pdf.jpg","alt":"Mikelecasus Tepesi","caption":"Mikelecasus Tepesi","credit":"Rattler (1913) (IA rattler191305rale).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Mikelecasus Tepesi","caption":"Mikelecasus Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mikelecasus%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388080","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Van ilinin önemli noktalarından biri olan Mikelecasus Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mikelecasus Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","keşif","türkiye"]

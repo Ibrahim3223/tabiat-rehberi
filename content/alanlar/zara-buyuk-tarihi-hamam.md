@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hamamın tarihi atmosferini deneyimlemek","Çevresindeki doğal güzellikleri keşfetmek","Yöresel yemekleri tatmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_fair_land_of_Central_America_%28IA_fairlandofcentra00waleiala%29.pdf/page1-787px-The_fair_land_of_Central_America_%28IA_fairlandofcentra00waleiala%29.pdf.jpg","alt":"Zara Büyük Tarihi Hamam","caption":"Zara Büyük Tarihi Hamam","credit":"The fair land of Central America (IA fairlandofcentra00waleiala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu/page1-800px-The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu.jpg","alt":"Zara Büyük Tarihi Hamam","caption":"Zara Büyük Tarihi Hamam","credit":"The Modern Review Vol 37 (Jan.-June 1925)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zara%20B%C3%BCy%C3%BCk%20Tarihi%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738518","tip":"genel"}]
 description: "Zara Büyük Tarihi Hamam, Sivas'ın Zara ilçesinde bulunan tarihi bir hamam"
 keywords: ["Zara Büyük Tarihi Hamam","Sivas","Zara","tarihi hamam","İç Anadolu Bölgesi","doğal güzellikler","tarih","kültür"]

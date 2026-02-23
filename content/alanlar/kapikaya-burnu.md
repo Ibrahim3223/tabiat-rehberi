@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg/960px-Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg","alt":"Kapıkaya Burnu","caption":"Kapıkaya Burnu","credit":"Stamp of Indonesia - 2018 - Colnect 800738 - Environmental Protection - Bamboo Forest.jpeg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abandoned_blue.jpg/960px-Abandoned_blue.jpg","alt":"Kapıkaya Burnu","caption":"Kapıkaya Burnu","credit":"Abandoned blue","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kap%C4%B1kaya%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34957575","tip":"genel"}]
 description: "Çanakkale'de bulunan Kapıkaya Burnu, 1200 hektarlık bir kuş cenneti olarak bilinir ve İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar."
 keywords: ["Kapıkaya Burnu","Çanakkale","kuş cenneti","doğa alanı","turistik yerler","Çanakkale turizm","kuş gözlem","doğa yürüyüşü","çevre turizmi"]

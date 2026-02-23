@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Kültürel etkinliklere katılma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Babazakir Alaattin Türbesi","caption":"Babazakir Alaattin Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Babazakir Alaattin Türbesi","caption":"Babazakir Alaattin Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Babazakir%20Alaattin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390733","tip":"genel"}]
 description: "Bursa'nın Yıldırım ilçesinde bulunan Babazakir Alaattin Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan. Ziyaretçiler için önemli bir çekim merkezi."
 keywords: ["Babazakir Alaattin Türbesi","Bursa","Yıldırım","tarih","doğa","türbe","ziyaret","Marmara Bölgesi"]

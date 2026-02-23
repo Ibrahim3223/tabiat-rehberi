@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","kültürel etkinlikler","doğa yürüyüşleri","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_outline_of_history_-_being_a_plain_history_of_life_and_mankind_%28IA_cu31924028328866%29.pdf/page1-868px-The_outline_of_history_-_being_a_plain_history_of_life_and_mankind_%28IA_cu31924028328866%29.pdf.jpg","alt":"Emir Kemarettin Kümbeti, Divriği","caption":"Emir Kemarettin Kümbeti, Divriği","credit":"The outline of history - being a plain history of life and mankind (IA cu31924028328866).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Emir Kemarettin Kümbeti, Divriği","caption":"Emir Kemarettin Kümbeti, Divriği","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20Kemarettin%20K%C3%BCmbeti%2C%20Divri%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582394","tip":"genel"}]
 description: "Divriği'nin tarihi mirası, Emir Kemarettin Kümbeti, Sivas'ın İç Anadolu Bölgesi'nde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Divriği","Sivas","İç Anadolu Bölgesi","Emir Kemarettin Kümbeti","tarih","mimari","kültür","gezi","turizm"]

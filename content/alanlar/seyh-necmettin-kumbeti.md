@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The_National_geographic_magazine_%28IA_nationalgeograph281915nat%29.pdf/page1-947px-The_National_geographic_magazine_%28IA_nationalgeograph281915nat%29.pdf.jpg","alt":"Şeyh Necmettin Kümbeti","caption":"Şeyh Necmettin Kümbeti","credit":"The National geographic magazine (IA nationalgeograph281915nat).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Şeyh Necmettin Kümbeti","caption":"Şeyh Necmettin Kümbeti","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Necmettin%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582835","tip":"genel"}]
 description: "Doğu Anadolu'nun gizli cenneti Şeyh Necmettin Kümbeti, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Şeyh Necmettin Kümbeti","Ahlat","Bitlis","Doğu Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

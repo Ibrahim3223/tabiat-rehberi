@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","kültürel keşif","şehir turu","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Armenia_and_the_Pontus_%28IA_armeniapontus00sira%29.pdf/page1-943px-Armenia_and_the_Pontus_%28IA_armeniapontus00sira%29.pdf.jpg","alt":"Mehmet Alibey Hamamı","caption":"Mehmet Alibey Hamamı","credit":"Armenia and the Pontus (IA armeniapontus00sira).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Mehmet Alibey Hamamı","caption":"Mehmet Alibey Hamamı","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehmet%20Alibey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738442","tip":"genel"}]
 description: "Sivas'ın merkezinde bulunan tarihi bir hamam"
 keywords: ["Sivas","Mehmet Alibey Hamamı","tarih","kültür","turizm","hamam","Sivas ili","İç Anadolu Bölgesi","gezi","seyahat"]

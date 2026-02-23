@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Turkey_Greece_and_Malta_%28In_Two_Volumes%2C_Vol.II%29_%28IA_dli.granth.35053%29.pdf/page1-672px-Turkey_Greece_and_Malta_%28In_Two_Volumes%2C_Vol.II%29_%28IA_dli.granth.35053%29.pdf.jpg","alt":"Eskipaşa Hamamı","caption":"Eskipaşa Hamamı","credit":"Turkey Greece and Malta (In Two Volumes, Vol.II) (IA dli.granth.35053).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Eskipaşa Hamamı","caption":"Eskipaşa Hamamı","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskipa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738439","tip":"genel"}]
 description: "Sivas'ta bulunan doğal bir güzellik olan Eskipaşa Hamamı, 140 hektarlık geniş bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde. Bu alan, İç Anadolu Bölgesi'nin en önemli doğal sitelerinden biri olarak biliniyor."
 keywords: ["Sivas","Eskipaşa Hamamı","doğal güzellik","İç Anadolu Bölgesi","turizm","gezi","doğa"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa","tarih ve kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bentley%27s_Miscellany_1856-01-_Vol_39_%28IA_sim_bentleys-miscellany_1856-01_39%29.pdf/page1-812px-Bentley%27s_Miscellany_1856-01-_Vol_39_%28IA_sim_bentleys-miscellany_1856-01_39%29.pdf.jpg","alt":"Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari","caption":"Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari","credit":"Bentley's Miscellany 1856-01- Vol 39 (IA sim bentleys-miscellany 1856-01 39).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ye%C5%9Fil_Deniz.jpg/960px-Ye%C5%9Fil_Deniz.jpg","alt":"Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari","caption":"Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari","credit":"Yeşil Deniz","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Arhavi-Kayadibi-Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228550","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, doğa ve tarihi zenginlikleriyle ziyaretçilerini bekliyor."
 keywords: ["Artvin","Arhavi","Kayadibi","Dogu Karadeniz","Goknari","milli park","Karadeniz Bölgesi","doğa","tarih","gezi","turizm"]

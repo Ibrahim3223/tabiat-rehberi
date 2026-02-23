@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/State_1986-03-_Iss_287_%28IA_sim_state-magazine_1986-03_287%29.pdf/page1-960px-State_1986-03-_Iss_287_%28IA_sim_state-magazine_1986-03_287%29.pdf.jpg","alt":"Ankara Frig Tümülüsü 3, Yücetepe","caption":"Ankara Frig Tümülüsü 3, Yücetepe","credit":"State 1986-03- Iss 287 (IA sim state-magazine 1986-03 287).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Ankara Frig Tümülüsü 3, Yücetepe","caption":"Ankara Frig Tümülüsü 3, Yücetepe","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%203%2C%20Y%C3%BCcetepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728282","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedeceğiniz bir destinasyon"
 keywords: ["Ankara","Frig Tümülüsü","Yücetepe","tarih","doğa","gezi","çevre","iklim"]

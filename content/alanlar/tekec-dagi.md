@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş Gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chambers%27s_concise_gazetteer_of_the_world_-_topographical%2C_statistical%2C_historical%2C_pronouncing_%28IA_chamberssconcise00patrrich%29.pdf/page1-850px-Chambers%27s_concise_gazetteer_of_the_world_-_topographical%2C_statistical%2C_historical%2C_pronouncing_%28IA_chamberssconcise00patrrich%29.pdf.jpg","alt":"Tekec Dağı","caption":"Tekec Dağı","credit":"Chambers's concise gazetteer of the world - topographical, statistical, historical, pronouncing (IA chamberssconcise00patrrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Tekec Dağı","caption":"Tekec Dağı","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekec%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505024","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin, Tekec Dağı'nda doğa ile baş başa kalın."
 keywords: ["Tekec Dağı","Adana","Dağ","Doğa","Turizm","Gezi","Trekking","Doğa Yürüyüşü","Adana Turistik Yerler"]

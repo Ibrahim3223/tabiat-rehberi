@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/A_Journey_from_London_to_Persepolis%3B_including_Wanderings_in_Daghestan_Georgia%2C_Armenia_Kurdistan%2C_Mesopotamia_and_Persia_%28IA_dli.granth.72760%29.pdf/page1-825px-A_Journey_from_London_to_Persepolis%3B_including_Wanderings_in_Daghestan_Georgia%2C_Armenia_Kurdistan%2C_Mesopotamia_and_Persia_%28IA_dli.granth.72760%29.pdf.jpg","alt":"Şeyhhabip Dağı","caption":"Şeyhhabip Dağı","credit":"A Journey from London to Persepolis; including Wanderings in Daghestan Georgia, Armenia Kurdistan, Mesopotamia and Persia (IA dli.granth.72760).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Şeyhhabip Dağı","caption":"Şeyhhabip Dağı","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhhabip%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506872","tip":"genel"}]
 description: "Bitlis'te yer alan Şeyhhabip Dağı, doğa severlerin ziyaret ettiği önemli bir coğrafi oluşum"
 keywords: ["Şeyhhabip Dağı","Bitlis","Dağ","Doğa","Türkiye Coğrafyası","Gezi","Seyahat","Turizm","Coğrafi Oluşumlar"]

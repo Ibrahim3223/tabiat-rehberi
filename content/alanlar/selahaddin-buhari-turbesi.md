@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf/page1-854px-Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf.jpg","alt":"Selahaddin Buhari Türbesi","caption":"Selahaddin Buhari Türbesi","credit":"Animal disease thesaurus (IA CAT80734093005).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Selahaddin Buhari Türbesi","caption":"Selahaddin Buhari Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Selahaddin%20Buhari%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391735","tip":"genel"}]
 description: "Keles, Bursa'da bulunan Selahaddin Buhari Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir mekan."
 keywords: ["Selahaddin Buhari","Türbe","Keles","Bursa","Marmara Bölgesi","Tarih","Doğa","Kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_Gull_%28IA_v42n5gullv42ngold%29.pdf/page1-950px-The_Gull_%28IA_v42n5gullv42ngold%29.pdf.jpg","alt":"Gevneras Burnu","caption":"Gevneras Burnu","credit":"The Gull (IA v42n5gullv42ngold).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Border_of_river_and_sky.jpg/960px-Border_of_river_and_sky.jpg","alt":"Gevneras Burnu","caption":"Gevneras Burnu","credit":"Border of river and sky","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gevneras%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34897553","tip":"genel"}]
 description: "Van'da bulunan Gevneras Burnu, 1200 hektarlık bir alanıyla önemli bir kuş cenneti olarak bilinir."
 keywords: ["Gevneras Burnu","Van","kuş cenneti","doğa alanı","turizm","Van gezilecek yerler","kuş gözlem","doğa turizmi","Van turizm"]

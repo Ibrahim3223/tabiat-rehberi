@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Kayalık Tepe Kaya Mezarı, Kumru","caption":"Kayalık Tepe Kaya Mezarı, Kumru","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Kayalık Tepe Kaya Mezarı, Kumru","caption":"Kayalık Tepe Kaya Mezarı, Kumru","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayal%C4%B1k%20Tepe%20Kaya%20Mezar%C4%B1%2C%20Kumru","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728213","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli hazinelerinden biri olan Kayalık Tepe Kaya Mezarı, Kumru'da ziyaretçilerini bekliyor."
 keywords: ["Kayalık Tepe","Kaya Mezarı","Kumru","Ordu","Karadeniz Bölgesi","tarih","coğrafya","doğa","gezi"]

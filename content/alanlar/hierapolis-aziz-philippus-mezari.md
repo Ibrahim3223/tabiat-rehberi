@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültür turu","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf/page1-633px-Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf.jpg","alt":"Hierapolis Aziz Philippus Mezarı","caption":"Hierapolis Aziz Philippus Mezarı","credit":"Letters from the Aegean (in Two Volumes, Vol.I) (IA dli.granth.36180).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Hierapolis Aziz Philippus Mezarı","caption":"Hierapolis Aziz Philippus Mezarı","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hierapolis%20Aziz%20Philippus%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728121","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Denizli'nin Pamukkale ilçesinde yer alan Hierapolis Aziz Philippus Mezarı, ziyaretçilerini bekliyor."
 keywords: ["Hierapolis","Aziz Philippus Mezarı","Pamukkale","Denizli","Ege Bölgesi","tarih","kültür","mezar","aziz"]

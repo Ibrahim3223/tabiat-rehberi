@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Agricultural_libraries_information_notes_%28IA_CAT75654148131%29.pdf/page1-960px-Agricultural_libraries_information_notes_%28IA_CAT75654148131%29.pdf.jpg","alt":"Fırat Yılmaz Çakıroğlu Parkı","caption":"Fırat Yılmaz Çakıroğlu Parkı","credit":"Agricultural libraries information notes (IA CAT75654148131).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Equisetum_pratense_Luc_Viatour.jpg/960px-Equisetum_pratense_Luc_Viatour.jpg","alt":"Fırat Yılmaz Çakıroğlu Parkı","caption":"Fırat Yılmaz Çakıroğlu Parkı","credit":"Equisetum pratense Luc Viatour","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/F%C4%B1rat%20Y%C4%B1lmaz%20%C3%87ak%C4%B1ro%C4%9Flu%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135466620","tip":"genel"}]
 description: "İzmir Buca'da yer alan Fırat Yılmaz Çakıroğlu Parkı, 1200 hektarlık botanik bahçesi ile doğa severleri bekliyor."
 keywords: ["Fırat Yılmaz Çakıroğlu Parkı","İzmir parkları","Buca botanik bahçesi","İzmir botanik bahçesi","doğa parkı","yeşil alan","İzmir turizm","Buca gezilecek yerler","botanik bahçe"]

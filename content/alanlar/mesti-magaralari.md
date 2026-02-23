@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Meşti Mağaraları","caption":"Meşti Mağaraları","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Familiar_lessons_on_mineralogy_and_geology_To_which_is_added_a_practical_description_of_the_use_of_the_lapidary%27s_apparatus_Explaining_the_methods_of_slitting_and_polishing_pebbles.djvu/page1-800px-thumbnail.djvu.jpg","alt":"Meşti Mağaraları","caption":"Meşti Mağaraları","credit":"Familiar lessons on mineralogy and geology To which is added a practical description of the use of the lapidary's apparatus Explaining the methods of slitting and polishing pebbles","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Me%C5%9Fti%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319553","tip":"genel"}]
 description: "Batman'da yer alan Meşti Mağaraları, 1200 hektarlık yeşil cennet, jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Meşti Mağaraları","Batman","Jeopark","Doğa Alanları","Mağara Gezileri","Turizm","Jeolojik Oluşumlar","Yeşil Alanlar","Doğa Harikaları"]

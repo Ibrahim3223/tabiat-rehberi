@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tümülüs gezisi","flora ve fauna gözlemi","rehberli turlar"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 62","caption":"Bin Tepeler Tümülüsü 62","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Bin Tepeler Tümülüsü 62","caption":"Bin Tepeler Tümülüsü 62","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2062","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728302","tip":"genel"}]
 description: "Ahmetli, Manisa'da bulunan Bin Tepeler Tümülüsü 62, Ege Bölgesi'nin tarihi ve doğal güzelliklerini sunar."
 keywords: ["Bin Tepeler Tümülüsü 62","Ahmetli","Manisa","Ege Bölgesi","tarih","doğa","tümülüs","arkeoloji","gezi"]

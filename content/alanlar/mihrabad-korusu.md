@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa Yürüyüşleri","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/DARMOPIL%2C_JOSEF.pdf/page1-960px-DARMOPIL%2C_JOSEF.pdf.jpg","alt":"Mihrabad Korusu","caption":"Mihrabad Korusu","credit":"DARMOPIL, JOSEF.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg","alt":"Mihrabad Korusu","caption":"Mihrabad Korusu","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546842503)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mihrabad%20Korusu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20472403","tip":"genel"}]
 description: "İstanbul'un Marmara Bölgesi'nde yer alan Mihrabad Korusu, 1200 hektarlık yeşil alanıyla şehrin doğa severlerini çekiyor."
 keywords: ["Mihrabad Korusu","İstanbul","Marmara Bölgesi","Doğal Alan","Milli Park","Yeşil Alan","Doğa Turizmi","Eko Turizm","Gezi Rehberi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarih incelemesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_family_instructor%3B_or%2C_Digest_of_general_knowledge%3B_comprising_a_complete_circle_of_useful_and_entertaining_information%2C_designed_for_family_reading_..._Ed._by_Robert_Sears_%28IA_familyinstructor00sear%29.pdf/page1-847px-thumbnail.pdf.jpg","alt":"Dutlutaş Tepesi","caption":"Dutlutaş Tepesi","credit":"The family instructor; or, Digest of general knowledge; comprising a complete circle of useful and entertaining information, designed for family reading ... Ed. by Robert Sears (IA familyinstructor00sear).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Dutlutaş Tepesi","caption":"Dutlutaş Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dutluta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391146","tip":"genel"}]
 description: "Sivas'ın doğal güzelliklerinden biri olan Dutlutaş Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor ve ziyaretçilerini şehrin eşsiz manzarasıyla karşılıyor."
 keywords: ["Dutlutaş Tepesi","Sivas","doğa","tepe","manzara","gezi","turizm","İç Anadolu Bölgesi","coğrafya"]

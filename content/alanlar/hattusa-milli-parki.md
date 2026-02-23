@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Bibliographer%CA%BCs_Manual_of_English_Literature_Containing_an_Account_of_Rare%2C_Curious_and_Useful_Books%2C_Published_in_Or_Relating_to_Great_Britain_and_Ireland_%28IA_bub_gb_IWEraga0TyIC%29.pdf/page1-387px-thumbnail.pdf.jpg","alt":"Hattuşa Milli Parkı","caption":"Hattuşa Milli Parkı","credit":"The Bibliographerʼs Manual of English Literature Containing an Account of Rare, Curious and Useful Books, Published in Or Relating to Great Britain and Ireland (IA bub gb IWEraga0TyIC).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Hattuşa Milli Parkı","caption":"Hattuşa Milli Parkı","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hattu%C5%9Fa%20Milli%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Boğazkale'de bulunan Hattuşa Milli Parkı, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Hattuşa","Milli Park","Boğazkale","Çorum","Karadeniz Bölgesi","tarih","doğa","gezi"]

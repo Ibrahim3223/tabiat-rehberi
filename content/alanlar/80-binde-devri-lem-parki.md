@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"80 Binde Devri Âlem Parkı","caption":"80 Binde Devri Âlem Parkı","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Equisetum_pratense_Luc_Viatour.jpg/960px-Equisetum_pratense_Luc_Viatour.jpg","alt":"80 Binde Devri Âlem Parkı","caption":"80 Binde Devri Âlem Parkı","credit":"Equisetum pratense Luc Viatour","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/80%20Binde%20Devri%20%C3%82lem%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q126871635","tip":"genel"}]
 description: "Konya Meram'da 1200 hektarlık yeşil alan, botanik bahçesi ve doğal güzellikler sunan 80 Binde Devri Âlem Parkı"
 keywords: ["80 Binde Devri Âlem Parkı","Konya","Meram","Botanik Bahçesi","Yeşil Alan","Doğa","Park","Konya Turizm","Meram Turistik Yerler"]

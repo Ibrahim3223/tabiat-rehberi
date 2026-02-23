@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["höyüğü gezmek","tarihî eserleri incelemek","doğal güzellikleri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Lale Tepe Höyük","caption":"Lale Tepe Höyük","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Lale Tepe Höyük","caption":"Lale Tepe Höyük","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lale%20Tepe%20H%C3%B6y%C3%BCk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728298","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli hazinelerinden biri olan Lale Tepe Höyük, Ahmetli-Manisa'da yer alıyor."
 keywords: ["Lale Tepe Höyük","Ahmetli","Manisa","Ege Bölgesi","tarih","coğrafya","doğa","ziyaret"]

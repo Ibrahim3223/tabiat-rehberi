@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Summer_birds_of_Greene_County%2C_Pennsylvania_%28IA_summerbirdsofgre00jaco%29.pdf/page1-960px-Summer_birds_of_Greene_County%2C_Pennsylvania_%28IA_summerbirdsofgre00jaco%29.pdf.jpg","alt":"Abdin Tepesi","caption":"Abdin Tepesi","credit":"Summer birds of Greene County, Pennsylvania (IA summerbirdsofgre00jaco).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Abdin Tepesi","caption":"Abdin Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386370","tip":"genel"}]
 description: "Kilis'in doğal güzelliklerini keşfedin, Abdin Tepesi'ni ziyaret edin"
 keywords: ["Kilis","Abdin Tepesi","doğal güzellik","gezi","turizm","Güneydoğu Anadolu Bölgesi","tepe","manzara","doğa"]

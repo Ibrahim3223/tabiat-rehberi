@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["plaj activities","doğa yürüyüşü","su sporları","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Babam Sultan Türbesi","caption":"Babam Sultan Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Babam Sultan Türbesi","caption":"Babam Sultan Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Babam%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390506","tip":"genel"}]
 description: "Pamukova'nın güzide plajlarından biri olan Babam Sultan Türbesi, Sakarya'nın Marmara Bölgesi'nde yer alıyor."
 keywords: ["Pamukova","Sakarya","Marmara Bölgesi","plaj","tarih","doğa","flora","fauna","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğrafçılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aflatoxin_Elimination_Workshop_-_%28proceedings%29_%28IA_CAT11083246006%29.pdf/page1-960px-Aflatoxin_Elimination_Workshop_-_%28proceedings%29_%28IA_CAT11083246006%29.pdf.jpg","alt":"Koca Tepesi","caption":"Koca Tepesi","credit":"Aflatoxin Elimination Workshop - (proceedings) (IA CAT11083246006).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Koca Tepesi","caption":"Koca Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574255","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Koca Tepesi'ni ziyaret edin."
 keywords: ["Koca Tepesi","İzmir","Ege Bölgesi","doğa","tepe","gezi"]

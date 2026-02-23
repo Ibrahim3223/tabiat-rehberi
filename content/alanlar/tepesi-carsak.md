@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","flora ve fauna"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Tepesi Çarşak","caption":"Tepesi Çarşak","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Tepesi Çarşak","caption":"Tepesi Çarşak","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepesi%20%C3%87ar%C5%9Fak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34812015","tip":"genel"}]
 description: "Ankara'nın doğal güzelliği, Tepesi Çarşa ile tanışın. İç Anadolu Bölgesi'nin önemli noktalarından biri"
 keywords: ["Ankara","İç Anadolu Bölgesi","Tepesi Çarşak","doğa","gezi","turizm","coğrafya","flora","fauna"]

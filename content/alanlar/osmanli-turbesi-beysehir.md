@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografçılık","yerel lezzetler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Osmanlı Türbesi, Beyşehir","caption":"Osmanlı Türbesi, Beyşehir","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Osmanlı Türbesi, Beyşehir","caption":"Osmanlı Türbesi, Beyşehir","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Osmanl%C4%B1%20T%C3%BCrbesi%2C%20Bey%C5%9Fehir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582354","tip":"genel"}]
 description: "Konya'nın Beyşehir ilçesinde bulunan Osmanlı Türbesi, tarihi ve kültürel öneme sahip bir yapıdır. 140 hektarlık bir alanda yer alan bu türbe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kapsar."
 keywords: ["Osmanlı Türbesi","Beyşehir","Konya","tarih","kültür","mimari","türbe","İç Anadolu Bölgesi","gezi","ziyaret"]

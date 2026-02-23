@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Proceedings_of_the_Symposium_on_the_Environmental_Consequences_of_Fire_and_Fuel_Management_in_Mediterranean_Ecosystems_-_August_1-5%2C_1977%2C_Palo_Alto%2C_California._-_%28IA_CAT78696401%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Peksimet Adası","caption":"Peksimet Adası","credit":"Proceedings of the Symposium on the Environmental Consequences of Fire and Fuel Management in Mediterranean Ecosystems - August 1-5, 1977, Palo Alto, California. - (IA CAT78696401).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_island_of_St._Nicholas_-_panoramio.jpg/960px-The_island_of_St._Nicholas_-_panoramio.jpg","alt":"Peksimet Adası","caption":"Peksimet Adası","credit":"The island of St. Nicholas - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Peksimet%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49668559","tip":"genel"}]
 description: "Muğla'nın güzide adalarından biri olan Peksimet Adası, doğal güzellikleri ve tarihi zenginlikleriyle dikkat çekiyor."
 keywords: ["Peksimet Adası","Muğla Adaları","Ege Adaları","Türkiye Adaları","Doğal Güzellikler","Tarihi Yerler","Turizm","Gezi Rehberi","Muğla Turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihçi olmak","Kültürü keşfetmek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf/page1-670px-The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf.jpg","alt":"Sungurlu Tarihi Hamam","caption":"Sungurlu Tarihi Hamam","credit":"The salt-box house; eighteenth century life in a New England hill town (IA cu31924028842544).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Sungurlu Tarihi Hamam","caption":"Sungurlu Tarihi Hamam","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sungurlu%20Tarihi%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738706","tip":"genel"}]
 description: "Sungurlu'nun tarihi ve kültürel zenginliklerini keşfedin. Çorum'un merkezinde yer alan bu tarihi hamam, şehrin önemli bir parçası."
 keywords: ["Sungurlu","Tarihi Hamam","Çorum","Karadeniz Bölgesi","Tarih","Kültür","Turizm"]

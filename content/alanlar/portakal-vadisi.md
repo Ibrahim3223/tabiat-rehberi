@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/The_New_imperial_encyclopedia_and_dictionary%3Ba_library_of_universal_knowledge_and_an_unabridged_dictionary_of_the_English_language_under_one_alphabet%3B%28Vol._35%2C_SMUGGLING-STRICTURE%29_%28IA_newimperialencyc35unse%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Portakal Vadisi","caption":"Portakal Vadisi","credit":"The New imperial encyclopedia and dictionary;a library of universal knowledge and an unabridged dictionary of the English language under one alphabet;(Vol. 35, SMUGGLING-STRICTURE) (IA newimperialencyc35unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG/960px-Cymbidium_Clarisse_Austin_%27Best_Pink%27_Flowers_2000px.JPG","alt":"Portakal Vadisi","caption":"Portakal Vadisi","credit":"Cymbidium Clarisse Austin 'Best Pink' Flowers 2000px","license":"GFDL 1.2"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Portakal%20Vadisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q124262132","tip":"genel"}]
 description: "İzmir Buca'da bulunan 1200 hektarlık botanik bahçesi, 500'den fazla bitki türünü barındırıyor."
 keywords: ["Portakal Vadisi","İzmir botanik bahçesi","Buca gezilecek yerler","botanik bahçe","İzmir turizm","doğa yürüyüşü","bitki türleri","yeşil alanlar","İzmir gezi rehberi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Turkey_and_European_security_institutions_%28IA_turkeyndeuropese109454905%29.pdf/page1-960px-Turkey_and_European_security_institutions_%28IA_turkeyndeuropese109454905%29.pdf.jpg","alt":"Yeni Valide Camii Yangın Havuzu","caption":"Yeni Valide Camii Yangın Havuzu","credit":"Turkey and European security institutions (IA turkeyndeuropese109454905).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/S%C3%BCnnet_G%C3%B6l%C3%BC2.jpg/960px-S%C3%BCnnet_G%C3%B6l%C3%BC2.jpg","alt":"Yeni Valide Camii Yangın Havuzu","caption":"Yeni Valide Camii Yangın Havuzu","credit":"Sünnet Gölü2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Valide%20Camii%20Yang%C4%B1n%20Havuzu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135430417","tip":"genel"}]
 description: "İstanbul Üsküdar'da bulunan tarihi bir su yapısı olan Yeni Valide Camii Yangın Havuzu, 1200 hektarlık bir alanı kaplıyor."
 keywords: ["Yeni Valide Camii Yangın Havuzu","İstanbul","Üsküdar","gol","tarihi su yapısı","İstanbul turizm","Üsküdar gezilecek yerler","Yangın Havuzu","Yeni Valide Camii"]

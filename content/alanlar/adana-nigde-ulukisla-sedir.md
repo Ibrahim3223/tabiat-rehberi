@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Flora ve Fauna İzleme","Sedir Ağacı ile Çevrili Patikaları Keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/The_New-York_Evangelist_1888-06-14-_Vol_59_Iss_24_%28IA_sim_evangelist-and-religious-review_1888-06-14_59_24%29.pdf/page1-960px-The_New-York_Evangelist_1888-06-14-_Vol_59_Iss_24_%28IA_sim_evangelist-and-religious-review_1888-06-14_59_24%29.pdf.jpg","alt":"Adana-Nigde-Ulukisla Sedir","caption":"Adana-Nigde-Ulukisla Sedir","credit":"The New-York Evangelist 1888-06-14- Vol 59 Iss 24 (IA sim evangelist-and-religious-review 1888-06-14 59 24).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Adana-Nigde-Ulukisla Sedir","caption":"Adana-Nigde-Ulukisla Sedir","credit":"MC Siedleragame","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Nigde-Ulukisla%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227204","tip":"genel"}]
 description: "Adana-Nigde-Ulukisla Sedir, Akdeniz Bölgesi'nde yer alan doğa harikası bir milli park."
 keywords: ["Adana","Nigde","Ulukisla","Sedir","Milli Park","Akdeniz Bölgesi","Doğa Harikası","Yeşil Alan","Flora","Fauna"]

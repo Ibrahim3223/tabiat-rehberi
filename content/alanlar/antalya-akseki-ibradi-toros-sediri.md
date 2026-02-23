@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf/page1-875px-Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf.jpg","alt":"Antalya-Akseki-Ibradi Toros Sediri","caption":"Antalya-Akseki-Ibradi Toros Sediri","credit":"Revue suisse de zoologie (IA revuesuissede11042003schw).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Solitariness_-_panoramio.jpg/960px-Solitariness_-_panoramio.jpg","alt":"Antalya-Akseki-Ibradi Toros Sediri","caption":"Antalya-Akseki-Ibradi Toros Sediri","credit":"Solitariness - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Akseki-Ibradi%20Toros%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227995","tip":"genel"}]
 description: "Akdeniz Bölgesi'nde yer alan Antalya-Akseki-Ibradi Toros Sediri, zengin flora ve faunası ile dikkat çekiyor."
 keywords: ["Antalya","Akseki","Ibradi","Toros Sediri","milli park","doğa","flora","fauna"]

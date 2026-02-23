@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","arkeoloji turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 40","caption":"Bin Tepeler Tümülüsü 40","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Bin Tepeler Tümülüsü 40","caption":"Bin Tepeler Tümülüsü 40","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2040","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728326","tip":"genel"}]
 description: "Salihli, Manisa'da bulunan Bin Tepeler Tümülüsü 40, tarihi geçmişi ve coğrafyası ile dikkat çekiyor."
 keywords: ["Bin Tepeler Tümülüsü 40","Salihli","Manisa","Ege Bölgesi","tarihi geçmişi","coğrafya","doğa","tümülüs","arkeoloji"]

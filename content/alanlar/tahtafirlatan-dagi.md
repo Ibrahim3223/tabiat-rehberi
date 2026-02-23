@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["dağcılık","trekking","kamp","fotografcılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_life_of_Paul_of_Tarsus_%28IA_lifeofpauloftars00larr%29.pdf/page1-960px-The_life_of_Paul_of_Tarsus_%28IA_lifeofpauloftars00larr%29.pdf.jpg","alt":"Tahtafırlatan Dağı","caption":"Tahtafırlatan Dağı","credit":"The life of Paul of Tarsus (IA lifeofpauloftars00larr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Tahtafırlatan Dağı","caption":"Tahtafırlatan Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahtaf%C4%B1rlatan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31588312","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin, Tahtafırlatan Dağı'nda doğa ile baş başa kalın"
 keywords: ["Tahtafırlatan Dağı","Adana","Dağ","Doğa","Turizm","Gezi","Adana Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

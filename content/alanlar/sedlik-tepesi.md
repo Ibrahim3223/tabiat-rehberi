@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Picnic","Doğa ile iç içe olmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf/page1-960px-State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf.jpg","alt":"Sedlik Tepesi","caption":"Sedlik Tepesi","credit":"State 2009-01- Iss 530 (IA sim state-magazine 2009-01 530).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sedlik Tepesi","caption":"Sedlik Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sedlik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390075","tip":"genel"}]
 description: "Ankara'nın görkemli tepelerinden biri olan Sedlik Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu bölge, İç Anadolu Bölgesi'nin coğrafi güzelliğini yansıtıyor."
 keywords: ["Sedlik Tepesi","Ankara","İç Anadolu Bölgesi","coğrafi güzellik","tepe","doğa","gezi","turizm","Ankara'nın görkemli tepeleri"]

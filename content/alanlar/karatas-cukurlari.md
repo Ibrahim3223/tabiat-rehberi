@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Resource_management_plan_and_rangeland_program_summary%2C_annual_update_-_FY_1992-FY_1993_%28IA_resourcemanagemen00unit%29.pdf/page1-637px-Resource_management_plan_and_rangeland_program_summary%2C_annual_update_-_FY_1992-FY_1993_%28IA_resourcemanagemen00unit%29.pdf.jpg","alt":"Karataş Çukurları","caption":"Karataş Çukurları","credit":"Resource management plan and rangeland program summary, annual update - FY 1992-FY 1993 (IA resourcemanagemen00unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Turkey_Run_Gorge.JPG","alt":"Karataş Çukurları","caption":"Karataş Çukurları","credit":"Turkey Run Gorge","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karata%C5%9F%20%C3%87ukurlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49822893","tip":"genel"}]
 description: "Van'da yer alan Karataş Çukurları, 1200 hektarlık bir alana yayılan kanyonlar ve doğal güzelliklerle dolu bir bölge."
 keywords: ["Karataş Çukurları","Van","kanyon","doğal güzellik","turizm","gezi","seyahat","çevre","coğrafya","Van gezilecek yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tropico_Interurban_Sentinel_1911-10-26_%28IA_cgl_001071%29.pdf/page1-960px-Tropico_Interurban_Sentinel_1911-10-26_%28IA_cgl_001071%29.pdf.jpg","alt":"Karaağaçlı Dağı","caption":"Karaağaçlı Dağı","credit":"Tropico Interurban Sentinel 1911-10-26 (IA cgl 001071).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Karaağaçlı Dağı","caption":"Karaağaçlı Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaa%C4%9Fa%C3%A7l%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877809","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin, Karaağaçlı Dağı'nda doğa ile baş başa kalın."
 keywords: ["Karaağaçlı Dağı","Rize","Dağ","Doğa","Türkiye","Gezi","Seyahat","Rize Turizm","Dağcılık"]

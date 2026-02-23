@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["plajda güneşlenme","deniz suyu faaliyetleri","tarihi türbe ziyaretleri","doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf/page1-883px-Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf.jpg","alt":"İmza Dede Sultan Türbesi","caption":"İmza Dede Sultan Türbesi","credit":"Sport & travel, East and West (IA sporttraveleastw00selorich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"İmza Dede Sultan Türbesi","caption":"İmza Dede Sultan Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mza%20Dede%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391757","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti İmza Dede Sultan Türbesi, Çal/Denizli'de bulunan tarihi ve doğal bir hazine."
 keywords: ["İmza Dede Sultan Türbesi","Çal","Denizli","Ege Bölgesi","tarih","doğa","türbe","plaj"]

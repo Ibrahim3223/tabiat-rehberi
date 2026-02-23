@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/U.S._Army_Corps_of_Engineers_%28Corps%29_Regulatory_Program_reissuance_and_issuance_of_nationwide_permits_with_Ohio_EPA_401_water_quality_certification_and_Ohio_Department_of_Natural_Resources_consis_..._-_USACE-p16021coll15-4558.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Divane Burnu","caption":"Divane Burnu","credit":"U.S. Army Corps of Engineers (Corps) Regulatory Program reissuance and issuance of nationwide permits with Ohio EPA 401 water quality certification and Ohio Department of Natural Resources consis ... - USACE-p16021coll15-4558.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Border_of_river_and_sky.jpg/960px-Border_of_river_and_sky.jpg","alt":"Divane Burnu","caption":"Divane Burnu","credit":"Border of river and sky","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Divane%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34850767","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Divane Burnu, çeşitli kuş türlerini barındırır ve doğa severler için ideal bir destinasyon."
 keywords: ["Divane Burnu","kuş cenneti","doğa turizmi","Türkiye","kuş gözlemi","vahşi yaşam","ekosistem","korunan alan","turizm"]

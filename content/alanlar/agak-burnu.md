@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wilson_bulletin._%28IA_wilsonbulletin9619agas%29.pdf/page1-829px-Wilson_bulletin._%28IA_wilsonbulletin9619agas%29.pdf.jpg","alt":"Ağak Burnu","caption":"Ağak Burnu","credit":"Wilson bulletin. (IA wilsonbulletin9619agas).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abandoned_blue.jpg/960px-Abandoned_blue.jpg","alt":"Ağak Burnu","caption":"Ağak Burnu","credit":"Abandoned blue","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Fak%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34802171","tip":"genel"}]
 description: "Van'da bulunan Ağak Burnu, 1200 hektarlık bir alanıyla önemli bir kuş cenneti olarak bilinir."
 keywords: ["Ağak Burnu","Van","kuş cenneti","doğal alan","turizm","Van gezilecek yerler","kuş gözlem","doğa turizmi","Ağak Burnu Van"]

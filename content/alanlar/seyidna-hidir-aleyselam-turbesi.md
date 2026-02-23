@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Deniz keyfi","Türbe ziyareti"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Seyidna Hıdır Aleyselam Türbesi","caption":"Seyidna Hıdır Aleyselam Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Seyidna Hıdır Aleyselam Türbesi","caption":"Seyidna Hıdır Aleyselam Türbesi","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyidna%20H%C4%B1d%C4%B1r%20Aleyselam%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391723","tip":"genel"}]
 description: "Mersin'in güzelliklerini keşfedin. Akdeniz'in incisi Seyidna Hıdır Aleyselam Türbesi"
 keywords: ["Mersin","Akdeniz","Seyidna Hıdır Aleyselam Türbesi","Türbe","Tarih","Doğa","Gezi","Turizm"]

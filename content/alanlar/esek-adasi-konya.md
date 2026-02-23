@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Discoveries_in_the_Ruins_of_Nineveh_and_Babylon%3B_with_Travels_in_Armenia%2C_Kurdistan_and_the_Desert%3B_being_the_result_of_a_Second_Expedition_undertaken_for_the_Trustees_of_the_British_Museum_%28IA_dli.granth.41495%29.pdf/page1-387px-thumbnail.pdf.jpg","alt":"Eşek Adası","caption":"Eşek Adası","credit":"Discoveries in the Ruins of Nineveh and Babylon; with Travels in Armenia, Kurdistan and the Desert; being the result of a Second Expedition undertaken for the Trustees of the British Museum (IA dli.granth.41495).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/B%C3%BCy%C3%BCkada.JPG/960px-B%C3%BCy%C3%BCkada.JPG","alt":"Eşek Adası","caption":"Eşek Adası","credit":"Büyükada","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Fek%20Adas%C4%B1%20(Konya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49637770","tip":"genel"}]
 description: "Konya'da bulunan Eşek Adası, 1200 hektarlık yeşil cenneti keşfedin. Doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Eşek Adası","Konya","Ada","Doğa","Tarih","Gezi","Seyahat","Konya Turizm","Eşek Adası Konya"]

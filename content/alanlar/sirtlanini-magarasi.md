@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["Mağara içi gezisi","Doğa yürüyüşü","Fotoğrafçılık","Yeraltı nehrini keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/The_Lands_Of_The_Eastern_Caliphate_%28IA_landsoftheeaster028596mbp%29.pdf/page1-756px-The_Lands_Of_The_Eastern_Caliphate_%28IA_landsoftheeaster028596mbp%29.pdf.jpg","alt":"Sırtlanini Mağarası","caption":"Sırtlanini Mağarası","credit":"The Lands Of The Eastern Caliphate (IA landsoftheeaster028596mbp).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu/page1-800px-Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu.jpg","alt":"Sırtlanini Mağarası","caption":"Sırtlanini Mağarası","credit":"Islam, Turkey, and Armenia, and How They Happened","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1rtlanini%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Aydın'da yer alan doğal güzellik, 1200 hektarlık yeşil cennet"
 keywords: ["Sırtlanini Mağarası","Aydın","Ege Bölgesi","Mağara","Doğal Alan","Turizm","Gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["gezi","yürüyüş","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Sarıveliler Kızılçukur Örenyeri","caption":"Sarıveliler Kızılçukur Örenyeri","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Sarıveliler Kızılçukur Örenyeri","caption":"Sarıveliler Kızılçukur Örenyeri","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1veliler%20K%C4%B1z%C4%B1l%C3%A7ukur%20%C3%96renyeri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728147","tip":"genel"}]
 description: "Karaman'ın Sarıveliler ilçesinde bulunan Sarıveliler Kızılçukur Örenyeri, 140 hektarlık bir alanı kaplayan doğal bir güzelliktir."
 keywords: ["Sarıveliler","Kızılçukur Örenyeri","Karaman","doğal güzellik","iç Anadolu Bölgesi","turizm","gezi","yaban hayatı"]

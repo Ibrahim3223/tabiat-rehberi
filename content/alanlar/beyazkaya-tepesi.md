@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nature_and_art%3B_a_poem_delivered_before_the_Phi_Beta_Kappa_society_of_Harvard_University%3B_August_29%2C_1844_%28IA_natureartpoemdel00storiala%29.pdf/page1-656px-Nature_and_art%3B_a_poem_delivered_before_the_Phi_Beta_Kappa_society_of_Harvard_University%3B_August_29%2C_1844_%28IA_natureartpoemdel00storiala%29.pdf.jpg","alt":"Beyazkaya Tepesi","caption":"Beyazkaya Tepesi","credit":"Nature and art; a poem delivered before the Phi Beta Kappa society of Harvard University; August 29, 1844 (IA natureartpoemdel00storiala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Beyazkaya Tepesi","caption":"Beyazkaya Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beyazkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31530237","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Van şehrinde yer alan Beyazkaya Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik"
 keywords: ["Beyazkaya Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","doğa","yerel","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Güneşlenmek","Denize girmek","Su sporları","Türbe gezi","Manzara seyretmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Travels_in_northern_Greece_%28IA_gri_000433125008698033%29.pdf/page1-625px-Travels_in_northern_Greece_%28IA_gri_000433125008698033%29.pdf.jpg","alt":"Ramazan Dede Türbesi","caption":"Ramazan Dede Türbesi","credit":"Travels in northern Greece (IA gri 000433125008698033).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Ramazan Dede Türbesi","caption":"Ramazan Dede Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ramazan%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390703","tip":"genel"}]
 description: "Gerede'nin güzel plajlarından biri olan Ramazan Dede Türbesi, Karadeniz Bölgesi'nin gizli kalmış güzelliklerinden."
 keywords: ["Ramazan Dede Türbesi","Gerede","Bolu","Karadeniz Bölgesi","plaj","türbe","deniz","kumsal","doğa"]

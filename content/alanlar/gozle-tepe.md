@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_National_geographic_magazine_%28IA_nationalgeograp421922nati%29.pdf/page1-939px-The_National_geographic_magazine_%28IA_nationalgeograp421922nati%29.pdf.jpg","alt":"Gözle Tepe","caption":"Gözle Tepe","credit":"The National geographic magazine (IA nationalgeograp421922nati).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Gözle Tepe","caption":"Gözle Tepe","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6zle%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872728","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin, Gözle Tepe'de dağların büyüsüne kapılmaya hazır olun!"
 keywords: ["Gözle Tepe","Adana","Dağ","Doğa","Turizm","Gezi","Seyahat","Türkiye","Coğrafya"]

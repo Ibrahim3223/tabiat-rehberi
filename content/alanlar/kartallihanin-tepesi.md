@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Foreign_agriculture_-weekly_magazine_of_the_United_States_Department_of_Agriculture%2C_Foreign_Agricultural_Service%2C_U.S._Department_of_Agriculture_%28IA_CAT10252662303%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Kartallıhanın Tepesi","caption":"Kartallıhanın Tepesi","credit":"Foreign agriculture -weekly magazine of the United States Department of Agriculture, Foreign Agricultural Service, U.S. Department of Agriculture (IA CAT10252662303).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kartallıhanın Tepesi","caption":"Kartallıhanın Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartall%C4%B1han%C4%B1n%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557033","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin. İç Anadolu Bölgesi'nin merkezinde yer alan Kartallıhanın Tepesi, coğrafi zenginlikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Ankara","İç Anadolu Bölgesi","doğal güzellik","coğrafi zenginlik","tarihi geçmişi","Kartallıhanın Tepesi","gezi","turizm","doğa"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Şehri keşfetme","Yeşil alanlarda piknik","Tarihi yapıları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Fatma Hatun Türbesi, Kırşehir","caption":"Fatma Hatun Türbesi, Kırşehir","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Fatma Hatun Türbesi, Kırşehir","caption":"Fatma Hatun Türbesi, Kırşehir","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fatma%20Hatun%20T%C3%BCrbesi%2C%20K%C4%B1r%C5%9Fehir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582400","tip":"genel"}]
 description: "Kırşehir'de bulunan tarihi türbe, şehrin önemli ziyaret noktalarından biri."
 keywords: ["Kırşehir","Fatma Hatun Türbesi","tarih","türbe","Kırşehir gezisi","tarihi mekanlar","İç Anadolu Bölgesi","türk tarihi","kültürel miras"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara izleme","Doğa yürüyüşü","Fotoğraf çekme"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Memoir_of_Rev._Levi_Parsons_%28microform%29_-_first_missionary_to_Palestine_from_the_United_States_-_containing_sketches_of_his_early_life_and_education%2C_his_missionary_labors_in_this_country_%28IA_MN41579ucmf_4%29.pdf/page1-925px-thumbnail.pdf.jpg","alt":"Gulıaraselhe Tepe","caption":"Gulıaraselhe Tepe","credit":"Memoir of Rev. Levi Parsons (microform) - first missionary to Palestine from the United States - containing sketches of his early life and education, his missionary labors in this country (IA MN41579ucmf 4).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Gulıaraselhe Tepe","caption":"Gulıaraselhe Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gul%C4%B1araselhe%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386836","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzellikleri arasında yer alan Gulıaraselhe Tepe, ziyaretçilerini bekliyor."
 keywords: ["Mardin","Gulıaraselhe Tepe","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","tepe","manzara"]

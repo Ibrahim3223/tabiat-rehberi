@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Palms_and_pearls_-_or_Scenes_in_Ceylon_%28IA_palmspearlsorsce00waltrich%29.pdf/page1-818px-Palms_and_pearls_-_or_Scenes_in_Ceylon_%28IA_palmspearlsorsce00waltrich%29.pdf.jpg","alt":"Çatalçam Tepe","caption":"Çatalçam Tepe","credit":"Palms and pearls - or Scenes in Ceylon (IA palmspearlsorsce00waltrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Çatalçam Tepe","caption":"Çatalçam Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atal%C3%A7am%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824300","tip":"genel"}]
 description: "Sivas'ta bulunan Çatalçam Tepe, 1400 metre yüksekliğiyle dikkat çeker. Doğal güzelliği ve trekking rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Çatalçam Tepe","Sivas","Dağ","Trekking","Doğa","Turizm","Sivas Turistik Yerler","Dağcılık","Yürüyüş Rotaları"]

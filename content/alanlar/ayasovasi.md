@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_National_geographic_magazine_%28IA_nationalgeograp421922nati%29.pdf/page1-939px-The_National_geographic_magazine_%28IA_nationalgeograp421922nati%29.pdf.jpg","alt":"Ayasovası","caption":"Ayasovası","credit":"The National geographic magazine (IA nationalgeograp421922nati).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Ayasovası","caption":"Ayasovası","credit":"VallesMarinerisHuge","license":"Attribution"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayasovas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21695275","tip":"genel"}]
 description: "Adana'da yer alan Ayasovası kanyonu, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi."
 keywords: ["Ayasovası","kanyon","Adana","doğa","gezi","turizm","yeşil alan","kanyonlar","Adana turistik yerler"]

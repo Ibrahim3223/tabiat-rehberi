@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/IMJ_BACKGROUND_-_Institution_and_Collections.doc.pdf/page1-960px-IMJ_BACKGROUND_-_Institution_and_Collections.doc.pdf.jpg","alt":"Karabey Dağı","caption":"Karabey Dağı","credit":"IMJ BACKGROUND - Institution and Collections.doc.pdf","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Karabey Dağı","caption":"Karabey Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karabey%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31519090","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Karabey Dağı'nın heybetli manzaralarına şahit olun."
 keywords: ["Karabey Dağı","İzmir","Dağ","Doğa","Turizm","Gezi","Manzara","İzmir Turistik Yerler","Dağcılık"]

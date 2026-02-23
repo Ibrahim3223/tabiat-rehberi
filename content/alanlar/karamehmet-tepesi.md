@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Kültür turu","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Capadocia_1998_06.jpg/960px-Capadocia_1998_06.jpg","alt":"Karamehmet Tepesi","caption":"Karamehmet Tepesi","credit":"Capadocia 1998 06.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Karamehmet Tepesi","caption":"Karamehmet Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karamehmet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390601","tip":"genel"}]
 description: "Nevşehir'de yer alan Karamehmet Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri"
 keywords: ["Karamehmet Tepesi","Nevşehir","İç Anadolu Bölgesi","coğrafi oluşumlar","tepe","doğa","gezi"]

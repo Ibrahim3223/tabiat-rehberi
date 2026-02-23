@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","doğa yürüyüşü","piknik","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_cu31924028609133%29.pdf/page1-633px-Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_cu31924028609133%29.pdf.jpg","alt":"Varan Tepe","caption":"Varan Tepe","credit":"Historical sketch of Armenia and the Armenians in ancient and modern times (IA cu31924028609133).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Varan Tepe","caption":"Varan Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Varan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385375","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Varan Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar."
 keywords: ["Varan Tepe","Doğu Anadolu Bölgesi","Bitlis","tarihi alan","doğa","gezi","turizm","kültür"]

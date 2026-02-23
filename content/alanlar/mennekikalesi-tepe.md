@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Gezi","Doğa Yürüyüşü","Tarih Araştırması","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Mennekikalesi Tepe","caption":"Mennekikalesi Tepe","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Mennekikalesi Tepe","caption":"Mennekikalesi Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mennekikalesi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390410","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerini keşfedin. Mennekikalesi Tepe, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Mennekikalesi Tepe","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","coğrafya"]

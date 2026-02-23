@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi hamamın gezilmesi","çevre arazilerin keşfedilmesi","yerel kültürün deneyimlenmesi","doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The_National_geographic_magazine_%28IA_nationalgeograph281915nat%29.pdf/page1-947px-The_National_geographic_magazine_%28IA_nationalgeograph281915nat%29.pdf.jpg","alt":"Ahlat Büyük Hamam","caption":"Ahlat Büyük Hamam","credit":"The National geographic magazine (IA nationalgeograph281915nat).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ahlat Büyük Hamam","caption":"Ahlat Büyük Hamam","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahlat%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738753","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde, Bitlis ilinin Ahlat ilçesinde yer alan tarihi bir hamam"
 keywords: ["Ahlat Büyük Hamam","Bitlis","Doğu Anadolu Bölgesi","tarihi hamam","termal su","turizm","kültür","gezi","seyahat"]

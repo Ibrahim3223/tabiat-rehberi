@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","tarih öğrenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rattler_%281913%29_%28IA_rattler191305rale%29.pdf/page1-960px-Rattler_%281913%29_%28IA_rattler191305rale%29.pdf.jpg","alt":"Didanist Tepesi","caption":"Didanist Tepesi","credit":"Rattler (1913) (IA rattler191305rale).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Didanist Tepesi","caption":"Didanist Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Didanist%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387452","tip":"genel"}]
 description: "Van'ın görkemli doğası, tarihi geçmişi ve eşsiz manzaraları sunan Didanist Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Van","Doğu Anadolu Bölgesi","Didanist Tepesi","tepe","doğa","tarih","gezi"]

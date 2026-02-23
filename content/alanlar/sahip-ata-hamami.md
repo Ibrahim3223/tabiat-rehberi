@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Tarihi hamamın gezilmesi","Plaj alanında dinlenmek","Meram'ın tarihi yerlerini ziyaret etmek","Doğal güzelliğin deneyimlenmesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Sahip Ata Hamamı","caption":"Sahip Ata Hamamı","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Sahip Ata Hamamı","caption":"Sahip Ata Hamamı","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sahip%20Ata%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738676","tip":"genel"}]
 description: "Meram'da tarihi bir hamam ve plaj alanı"
 keywords: ["Sahip Ata Hamamı","Meram","Konya","tarihi hamam","plaj","İç Anadolu Bölgesi"]

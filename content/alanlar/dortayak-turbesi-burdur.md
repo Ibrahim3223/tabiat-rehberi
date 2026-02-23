@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Tarihi yapılar","Yeşil alanlar","Panoramik manzara"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf/page1-877px-Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf.jpg","alt":"Dörtayak Türbesi, Burdur","caption":"Dörtayak Türbesi, Burdur","credit":"Newsletter - International Working Group on Fire Blight Research, Plant Protection Commission (IA CAT89899594012).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Dörtayak Türbesi, Burdur","caption":"Dörtayak Türbesi, Burdur","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%B6rtayak%20T%C3%BCrbesi%2C%20Burdur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582635","tip":"genel"}]
 description: "Burdur'un tarihi ve kültürel zenginliklerini keşfedin. Dörtayak Türbesi, Akdeniz Bölgesi'nin önemli turistik noktalarından biri."
 keywords: ["Dörtayak Türbesi","Burdur","Akdeniz Bölgesi","Türbe","Tarih","Kültür","Turizm","Gezi"]

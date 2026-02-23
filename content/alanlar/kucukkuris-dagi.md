@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Geography_readers_..._%28IA_geographyreaders41wins%29.pdf/page1-791px-Geography_readers_..._%28IA_geographyreaders41wins%29.pdf.jpg","alt":"Küçükkuris Dağı","caption":"Küçükkuris Dağı","credit":"Geography readers ... (IA geographyreaders41wins).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Küçükkuris Dağı","caption":"Küçükkuris Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkkuris%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042861","tip":"genel"}]
 description: "Ağrı'da bulunan Küçükkuris Dağı, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Küçükkuris Dağı","Ağrı","Doğa","Dağ","Trekking","Kamp","Doğa Yürüyüşü","Ağrı Turizm","Doğal Alanlar"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OJ_C_280_of_2023_-_EN_English.pdf/page1-960px-OJ_C_280_of_2023_-_EN_English.pdf.jpg","alt":"Zor Dağı","caption":"Zor Dağı","credit":"OJ C 280 of 2023 - EN English.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Zor Dağı","caption":"Zor Dağı","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zor%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822851","tip":"genel"}]
 description: "Çanakkale'nin doğal güzelliklerini keşfedin, Zor Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Zor Dağı","Çanakkale","Dağ","Doğa","Turizm","Gezi","Manzara","Çevre","Seyahat"]

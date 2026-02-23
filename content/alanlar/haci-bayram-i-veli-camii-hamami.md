@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["ibadet","tarihçe araştırması","mimari keşif","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/State_Magazine_2003-05-_Iss_468_%28IA_sim_state-magazine_2003-05_468%29.pdf/page1-960px-State_Magazine_2003-05-_Iss_468_%28IA_sim_state-magazine_2003-05_468%29.pdf.jpg","alt":"Hacı Bayram-ı Veli Camii Hamamı","caption":"Hacı Bayram-ı Veli Camii Hamamı","credit":"State Magazine 2003-05- Iss 468 (IA sim state-magazine 2003-05 468).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Hacı Bayram-ı Veli Camii Hamamı","caption":"Hacı Bayram-ı Veli Camii Hamamı","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Bayram-%C4%B1%20Veli%20Camii%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245847","tip":"genel"}]
 description: "Ankara'nın tarihi ve kültürel zenginliklerini keşfedin, Hacı Bayram-ı Veli Camii Hamamı'nı ziyaret edin."
 keywords: ["Ankara","Hacı Bayram-ı Veli","Camii Hamamı","tarih","kültür","gezi","ziyaret","Anadolu","İç Anadolu Bölgesi"]

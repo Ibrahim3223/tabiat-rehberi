@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Konya-Ermenek-Goktepe-Kizilcam","caption":"Konya-Ermenek-Goktepe-Kizilcam","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Konya-Ermenek-Goktepe-Kizilcam","caption":"Konya-Ermenek-Goktepe-Kizilcam","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Ermenek-Goktepe-Kizilcam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228537","tip":"genel"}]
 description: "Konya ilinin Ermenek ilçesinde bulunan milli park, doğal güzellikleri ve zengin faunası ile dikkat çekiyor."
 keywords: ["Konya","Ermenek","Goktepe","Kizilcam","milli park","doğal güzellik","fauna","flora"]

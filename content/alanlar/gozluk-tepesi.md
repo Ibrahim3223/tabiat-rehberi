@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Journal_Of_Travels_In_The_Seat_Of_War_-_During_The_Last_Two_Compaigns_Of_Russia_And_Turkey_%28IA_dli.granth.36407%29.pdf/page1-750px-Journal_Of_Travels_In_The_Seat_Of_War_-_During_The_Last_Two_Compaigns_Of_Russia_And_Turkey_%28IA_dli.granth.36407%29.pdf.jpg","alt":"Gözlük Tepesi","caption":"Gözlük Tepesi","credit":"Journal Of Travels In The Seat Of War - During The Last Two Compaigns Of Russia And Turkey (IA dli.granth.36407).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Gözlük Tepesi","caption":"Gözlük Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6zl%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138713","tip":"genel"}]
 description: "Tokat'ta bulunan Gözlük Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Gözlük Tepesi","Tokat","Karadeniz Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]

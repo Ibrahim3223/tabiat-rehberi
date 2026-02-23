@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Royal_Academy_pictures_%28IA_royalacademypict1897roya%29.pdf/page1-960px-Royal_Academy_pictures_%28IA_royalacademypict1897roya%29.pdf.jpg","alt":"Cığalver Dağı","caption":"Cığalver Dağı","credit":"Royal Academy pictures (IA royalacademypict1897roya).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Cığalver Dağı","caption":"Cığalver Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/C%C4%B1%C4%9Falver%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31569504","tip":"genel"}]
 description: "Rize'de yer alan Cığalver Dağı, doğa severlerin ziyaret ettiği önemli bir dağ"
 keywords: ["Cığalver Dağı","Rize","Dağ","Doğa","Trekking","Rize Turizm","Dağcılık","Turistik Yerler","Doğa Sporları"]

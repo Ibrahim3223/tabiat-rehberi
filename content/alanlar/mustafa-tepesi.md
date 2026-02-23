@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_principles_of_vegetable-gardening_%28IA_cu31924003303603%29.pdf/page1-691px-The_principles_of_vegetable-gardening_%28IA_cu31924003303603%29.pdf.jpg","alt":"Mustafa Tepesi","caption":"Mustafa Tepesi","credit":"The principles of vegetable-gardening (IA cu31924003303603).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Mustafa Tepesi","caption":"Mustafa Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustafa%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389133","tip":"genel"}]
 description: "Marmara Bölgesi'nde yer alan Mustafa Tepesi, Bursa'nın önemli doğal güzelliklerinden biridir."
 keywords: ["Marmara Bölgesi","Bursa","Mustafa Tepesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

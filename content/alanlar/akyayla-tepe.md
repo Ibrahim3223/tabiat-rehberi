@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_agricultural_situation._A_brief_summary_of_economic_conditions_%28IA_CAT11088157437%29.pdf/page1-789px-The_agricultural_situation._A_brief_summary_of_economic_conditions_%28IA_CAT11088157437%29.pdf.jpg","alt":"Akyayla Tepe","caption":"Akyayla Tepe","credit":"The agricultural situation. A brief summary of economic conditions (IA CAT11088157437).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Akyayla Tepe","caption":"Akyayla Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akyayla%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31532620","tip":"genel"}]
 description: "Akyayla Tepe, Ağrı'da bulunan bir dağdır. Doğa severlerin ziyaret ettiği bir noktadır."
 keywords: ["Akyayla Tepe","Ağrı","Dağ","Doğa","Türkiye","Seyahat","Gezi","Turizm","Coğrafya"]

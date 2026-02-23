@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_National_geographic_magazine_%28IA_nationalgeograp361919nati%29.pdf/page1-960px-The_National_geographic_magazine_%28IA_nationalgeograp361919nati%29.pdf.jpg","alt":"Küçük Adatlu","caption":"Küçük Adatlu","credit":"The National geographic magazine (IA nationalgeograp361919nati).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Küçük Adatlu","caption":"Küçük Adatlu","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Adatlu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21199324","tip":"genel"}]
 description: "Iğdır'da bulunan Küçük Adatlu Dağı, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Küçük Adatlu","Iğdır","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Coğrafya"]

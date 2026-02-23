@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sketches_on_a_tour_through_the_northern_and_eastern_states%2C_the_Canadas_%26_Nova_Scotia_%28microform%29_%28IA_cihm_38369%29.pdf/page1-960px-Sketches_on_a_tour_through_the_northern_and_eastern_states%2C_the_Canadas_%26_Nova_Scotia_%28microform%29_%28IA_cihm_38369%29.pdf.jpg","alt":"Karasivri Tepesi","caption":"Karasivri Tepesi","credit":"Sketches on a tour through the northern and eastern states, the Canadas & Nova Scotia (microform) (IA cihm 38369).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Karasivri Tepesi","caption":"Karasivri Tepesi","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karasivri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581699","tip":"genel"}]
 description: "Çorum'un en yüksek noktalarından biri olan Karasivri Tepesi, 1200 metrelik zirvesiyle doğa severlerin gözdesi."
 keywords: ["Karasivri Tepesi","Çorum","Dağ","Doğa","Trekking","Çorum Gezi","Karasivri","Tepeler","Turizm"]

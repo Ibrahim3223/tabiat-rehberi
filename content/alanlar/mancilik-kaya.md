@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğraf çekme","doğayı gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Mancılık Kaya","caption":"Mancılık Kaya","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Mancılık Kaya","caption":"Mancılık Kaya","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manc%C4%B1l%C4%B1k%20Kaya","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386255","tip":"genel"}]
 description: "Hatay'da doğal güzelliği ile dikkat çeken Mancılık Kaya, tarihi geçmişi ve zengin doğasıyla ziyaretçilerini bekliyor."
 keywords: ["Mancılık Kaya","Hatay","doğal güzellik","tarihi geçmişi","zengin doğa","Akdeniz Bölgesi","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Seattle_and_the_Pacific_Northwest_-_Washington%2C_Oregon%2C_California%2C_Alaska%2C_British_Columbia%2C_Yukon%2C_and_A.-Y.-P._hotel_and_commercial_guide_%28IA_seattlepacificno00alasrich%29.pdf/page1-845px-thumbnail.pdf.jpg","alt":"Sarıçiçek Dağı","caption":"Sarıçiçek Dağı","credit":"Seattle and the Pacific Northwest - Washington, Oregon, California, Alaska, British Columbia, Yukon, and A.-Y.-P. hotel and commercial guide (IA seattlepacificno00alasrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Sarıçiçek Dağı","caption":"Sarıçiçek Dağı","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1%C3%A7i%C3%A7ek%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32191016","tip":"genel"}]
 description: "Ağrı'da bulunan Sarıçiçek Dağı, doğa severler için önemli bir destinasyon. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Sarıçiçek Dağı","Ağrı","Doğa","Dağ","Trekking","Doğa Yürüyüşü","Ağrı Turizm","Sarıçiçek Dağı Trekking","Doğa Sporları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarihi geçmişi keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_gri_westernworld00king%29.pdf/page1-647px-The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_gri_westernworld00king%29.pdf.jpg","alt":"Çayırlık Tepesi","caption":"Çayırlık Tepesi","credit":"The western world. Picturesque sketches of nature and natural history in North and South America (IA gri westernworld00king).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Çayırlık Tepesi","caption":"Çayırlık Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ay%C4%B1rl%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828813","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Çayırlık Tepesi, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, doğal güzelliği ve tarihi geçmişi ile dikkat çekicidir."
 keywords: ["Çayırlık Tepesi","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","tepe","coğrafya","flora","fauna","ziyaret"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Sivas'ın tarihi mekanlarını ziyaret etmek","Şehrin kültürel değerlerini incelemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/New_England_Spectator_%28IA_1d9e19f8-014d-42a1-8f57-29a8de969664%29.pdf/page1-960px-New_England_Spectator_%28IA_1d9e19f8-014d-42a1-8f57-29a8de969664%29.pdf.jpg","alt":"Şemseddin Sivâsî Türbesi","caption":"Şemseddin Sivâsî Türbesi","credit":"New England Spectator (IA 1d9e19f8-014d-42a1-8f57-29a8de969664).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Şemseddin Sivâsî Türbesi","caption":"Şemseddin Sivâsî Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eemseddin%20Siv%C3%A2s%C3%AE%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390943","tip":"genel"}]
 description: "Sivas'ta bulunan tarihi türbe ve çevresi"
 keywords: ["Sivas","tarih","türbe","Şemseddin Sivâsî","İç Anadolu Bölgesi","kültür","gezi","tarihçe"]

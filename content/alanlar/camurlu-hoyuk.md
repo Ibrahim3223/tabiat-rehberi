@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["höyüğü gezme","tarih öğrenme","coğrafya öğrenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_New-York_Evangelist_1885-12-03-_Vol_56_Iss_49_%28IA_sim_evangelist-and-religious-review_1885-12-03_56_49%29.pdf/page1-960px-The_New-York_Evangelist_1885-12-03-_Vol_56_Iss_49_%28IA_sim_evangelist-and-religious-review_1885-12-03_56_49%29.pdf.jpg","alt":"Çamurlu Höyük","caption":"Çamurlu Höyük","credit":"The New-York Evangelist 1885-12-03- Vol 56 Iss 49 (IA sim evangelist-and-religious-review 1885-12-03 56 49).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çamurlu Höyük","caption":"Çamurlu Höyük","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amurlu%20H%C3%B6y%C3%BCk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49091545","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Kilis'in Elbeyli ilçesinde yer alan Çamurlu Höyük, tarihi ve coğrafi açıdan önemli bir bölgedir."
 keywords: ["Kilis","Elbeyli","Güneydoğu Anadolu Bölgesi","Çamurlu Höyük","tarih","coğrafya","arkeoloji"]

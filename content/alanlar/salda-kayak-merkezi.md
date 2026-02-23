@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Salda Kayak Merkezi","caption":"Salda Kayak Merkezi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Salda Kayak Merkezi","caption":"Salda Kayak Merkezi","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Salda%20Kayak%20Merkezi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6049974","tip":"genel"}]
 description: "Türkiye'de kayak severlerin uğrak noktası, 1200 hektarlık yeşil cennet"
 keywords: ["Salda Kayak Merkezi","kayak merkezi","Türkiye","dağ","kayak","turizm","spor","doğa","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı izleme","manzara seyretme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/In_the_Maoriland_bush_%28IA_inmaorilandbush00koebiala%29.pdf/page1-816px-In_the_Maoriland_bush_%28IA_inmaorilandbush00koebiala%29.pdf.jpg","alt":"Pivazok Tepesi","caption":"Pivazok Tepesi","credit":"In the Maoriland bush (IA inmaorilandbush00koebiala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Pivazok Tepesi","caption":"Pivazok Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pivazok%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385509","tip":"genel"}]
 description: "Ağrı'nın doğa harikaları arasında yer alan Pivazok Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Pivazok Tepesi","Ağrı","Doğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","yaban hayatı"]

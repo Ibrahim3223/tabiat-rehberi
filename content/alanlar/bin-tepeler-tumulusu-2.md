@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda dinlenme","tarihî tümülüsleri keşfetme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 2","caption":"Bin Tepeler Tümülüsü 2","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Bin Tepeler Tümülüsü 2","caption":"Bin Tepeler Tümülüsü 2","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728376","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli hazinesi, 140 hektarlık yeşil alan"
 keywords: ["Bin Tepeler Tümülüsü 2","Salihli","Manisa","Ege Bölgesi","doğa","tarih","gezi"]

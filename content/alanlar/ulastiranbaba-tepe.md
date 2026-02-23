@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Getty_Research_Institute_%28IA_gri_narrativeofa00joll%29.pdf/page1-600px-Getty_Research_Institute_%28IA_gri_narrativeofa00joll%29.pdf.jpg","alt":"Ulaştıranbaba Tepe","caption":"Ulaştıranbaba Tepe","credit":"Getty Research Institute (IA gri narrativeofa00joll).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Ulaştıranbaba Tepe","caption":"Ulaştıranbaba Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ula%C5%9Ft%C4%B1ranbaba%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386923","tip":"genel"}]
 description: "Çorum'un tarihi ve doğal güzelliklerinin birleştiği nokta, Ulaştıranbaba Tepe"
 keywords: ["Ulaştıranbaba Tepe","Çorum","Karadeniz Bölgesi","doğal güzellik","tarih","gezi"]

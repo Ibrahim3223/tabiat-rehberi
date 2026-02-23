@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğal güzellikleri keşfetmek","Fotoğrafçılık yapmak","Tarihi ve kültürel değerleri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf/page1-860px-Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf.jpg","alt":"Abdullah Garibi Bosnavi Türbesi","caption":"Abdullah Garibi Bosnavi Türbesi","credit":"Revue suisse de zoologie (IA revuesuissede11412007schw).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abdullah Garibi Bosnavi Türbesi","caption":"Abdullah Garibi Bosnavi Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdullah%20Garibi%20Bosnavi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390891","tip":"genel"}]
 description: "Meram'da bulunan tarihi türbe ve plaj"
 keywords: ["Abdullah Garibi Bosnavi","Meram","Konya","İç Anadolu Bölgesi","Türbe","Plaj","Tarihi mekanlar","Doğa","Kültür"]

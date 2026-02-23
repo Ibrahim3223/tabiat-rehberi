@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","fotografcilik","tarih öğrenimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Personal_Narrative_of_Voyage_to_Japan%2C_Kamschatka%2C_Siberia%2C_Tartary_and_Various_Parts_of_Coast_of_China_%28IA_dli.granth.40921%29.pdf/page1-400px-Personal_Narrative_of_Voyage_to_Japan%2C_Kamschatka%2C_Siberia%2C_Tartary_and_Various_Parts_of_Coast_of_China_%28IA_dli.granth.40921%29.pdf.jpg","alt":"Yüceören Nekropolü","caption":"Yüceören Nekropolü","credit":"Personal Narrative of Voyage to Japan, Kamschatka, Siberia, Tartary and Various Parts of Coast of China (IA dli.granth.40921).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Yüceören Nekropolü","caption":"Yüceören Nekropolü","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCce%C3%B6ren%20Nekropol%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728242","tip":"genel"}]
 description: "Ceyhan'da tarihi bir alan olan Yüceören Nekropolü, ziyaretçilerini geçmişe götürür."
 keywords: ["Yüceören Nekropolü","Ceyhan","Adana","tarih","gezi","mekan","alan","ziyaret"]

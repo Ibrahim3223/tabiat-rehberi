@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarihî eser ziyaretleri","Manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Armenia%2C_travels_and_studies_%28IA_armeniatravelsst01lync%29.pdf/page1-835px-Armenia%2C_travels_and_studies_%28IA_armeniatravelsst01lync%29.pdf.jpg","alt":"Hanım Tepe","caption":"Hanım Tepe","credit":"Armenia, travels and studies (IA armeniatravelsst01lync).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Hanım Tepe","caption":"Hanım Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Han%C4%B1m%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387359","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerini keşfedin, Hanım Tepe'nin tarihi ve coğrafi özelliklerini öğrenin."
 keywords: ["Hanım Tepe","Samsun","Karadeniz Bölgesi","Doğa","Tarih","Coğrafya","Flora","Fauna","Ziyaret"]

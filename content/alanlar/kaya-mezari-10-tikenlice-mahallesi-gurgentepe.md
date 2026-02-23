@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","plaj keyfi","su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Kaya Mezarı 10 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 10 (Tikenlice Mahallesi) Gürgentepe","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Kaya Mezarı 10 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 10 (Tikenlice Mahallesi) Gürgentepe","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%2010%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728202","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti Gürgentepe'de yer alan Kaya Mezarı 10, Tikenlice Mahallesi'nin sakin ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Kaya Mezarı 10","Tikenlice Mahallesi","Gürgentepe","Karadeniz Bölgesi","doğa","plaj","gezi"]

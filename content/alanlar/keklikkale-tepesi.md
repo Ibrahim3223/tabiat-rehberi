@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin etrafındaki manzarayı seyretmek","Tarihi kale ve yapıları gezmek","Bölgeyi keşfetmek","Fotografi çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Keklikkale Tepesi","caption":"Keklikkale Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Keklikkale Tepesi","caption":"Keklikkale Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keklikkale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389064","tip":"genel"}]
 description: "Erzurum'un tarihi ve doğal güzellikleri arasında yer alan Keklikkale Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Keklikkale Tepesi","Erzurum","Doğu Anadolu Bölgesi","Tepeler","Doğal güzellikler","Tarihi yerler","Gezi noktaları","Turizm"]

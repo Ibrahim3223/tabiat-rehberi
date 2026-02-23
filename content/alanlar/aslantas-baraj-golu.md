@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Gün boyu"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hydro-crisis_in_the_Middle_East-_water_schemes_for_a_thirsty_region_%28IA_hydrocrisisinmid1094511010%29.pdf/page1-960px-Hydro-crisis_in_the_Middle_East-_water_schemes_for_a_thirsty_region_%28IA_hydrocrisisinmid1094511010%29.pdf.jpg","alt":"Aslantaş Baraj Gölü","caption":"Aslantaş Baraj Gölü","credit":"Hydro-crisis in the Middle East- water schemes for a thirsty region (IA hydrocrisisinmid1094511010).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Aslantaş Baraj Gölü","caption":"Aslantaş Baraj Gölü","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aslanta%C5%9F%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q101554260","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Aslantaş Baraj Gölü, 1200 hektarlık yeşil cennet, doğa severler için ideal bir destinasyon"
 keywords: ["Aslantaş Baraj Gölü","Kahramanmaraş","göl","baraj","doğa","gezi","turizm","yeşil alan","su sporları","kamp"]

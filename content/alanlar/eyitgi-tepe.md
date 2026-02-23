@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Eyitgi Tepe","caption":"Eyitgi Tepe","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Eyitgi Tepe","caption":"Eyitgi Tepe","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eyitgi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546467","tip":"genel"}]
 description: "Batman'da yer alan Eyitgi Tepe, doğal güzellikleri ile dikkat çeken bir dağdır.  Batman'ın önemli coğrafi oluşumlarından biri olan Eyitgi Tepe, bölgenin jeolojik yapısını şekillendiren önemli bir noktadır."
 keywords: ["Eyitgi Tepe","Batman","dağ","doğal güzellik","coğrafi oluşum","jeolojik yapı","turizm","gezi","seyahat","Batman gezilecek yerler"]

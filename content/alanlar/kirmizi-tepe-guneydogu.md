@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Kırmızı Tepe (Güneydoğu)","caption":"Kırmızı Tepe (Güneydoğu)","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kırmızı Tepe (Güneydoğu)","caption":"Kırmızı Tepe (Güneydoğu)","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1%20Tepe%20(G%C3%BCneydo%C4%9Fu)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514668","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Kırmızı Tepe, doğal güzelliği ile dikkat çekiyor."
 keywords: ["Kırmızı Tepe","Güneydoğu","Türkiye","Dağ","Doğa","Turizm","Gezi","Seyahat","Coğrafya"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","tarihi eserleri gezi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Under_the_red_crescent-_adventures_of_an_English_surgeon_with_the_Turkish_army_at_Plevna_and_Erzeroum%2C_1877-1878_%28IA_underredcrescent00ryanrich%29.pdf/page1-764px-Under_the_red_crescent-_adventures_of_an_English_surgeon_with_the_Turkish_army_at_Plevna_and_Erzeroum%2C_1877-1878_%28IA_underredcrescent00ryanrich%29.pdf.jpg","alt":"Kars-Sarikamis Kagizman","caption":"Kars-Sarikamis Kagizman","credit":"Under the red crescent- adventures of an English surgeon with the Turkish army at Plevna and Erzeroum, 1877-1878 (IA underredcrescent00ryanrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Kars-Sarikamis Kagizman","caption":"Kars-Sarikamis Kagizman","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kars-Sarikamis%20Kagizman","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227076","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzellikleri ve tarihi değerleriyle Kars-Sarikamis Kagizman"
 keywords: ["Kars","Sarikamis","Kagizman","Doğu Anadolu Bölgesi","doğal güzellik","tarihi değer"]

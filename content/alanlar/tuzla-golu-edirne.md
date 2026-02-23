@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/OJ_L_308_of_2022_-_EN_English.pdf/page1-960px-OJ_L_308_of_2022_-_EN_English.pdf.jpg","alt":"Tuzla Gölü","caption":"Tuzla Gölü","credit":"OJ L 308 of 2022 - EN English.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flamingo_dans%C4%B1.jpg/960px-Flamingo_dans%C4%B1.jpg","alt":"Tuzla Gölü","caption":"Tuzla Gölü","credit":"Flamingo dansı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tuzla%20G%C3%B6l%C3%BC%20(Edirne)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49314099","tip":"genel"}]
 description: "Edirne'nin doğal güzelliklerinden biri olan Tuzla Gölü, 1200 hektarlık alanı ile önemli bir sulak alan"
 keywords: ["Tuzla Gölü","Edirne","göl","doğal alan","sulak alan","turizm","gezi","çevre","ekosistem"]

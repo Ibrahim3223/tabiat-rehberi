@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Küçükger","caption":"Küçükger","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Küçükger","caption":"Küçükger","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkger","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210970","tip":"genel"}]
 description: "Hatay'da bulunan Küçükger, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Yaklaşık 200 futbol sahası büyüklüğünde olan bu alan, ziyaretçilerine geniş bir doğa deneyimi sunuyor."
 keywords: ["Küçükger","Hatay","Akdeniz Bölgesi","yeşil alan","doğa","gezi"]

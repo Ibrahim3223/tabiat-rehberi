@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Konya-Ilgin-Karacam","caption":"Konya-Ilgin-Karacam","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Konya-Ilgin-Karacam","caption":"Konya-Ilgin-Karacam","credit":"Akdag 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Ilgin-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228105","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin. İç Anadolu Bölgesi'nde yer alan Konya-Ilgin-Karacam Milli Parkı, 140 hektarlık geniş bir alan sunuyor."
 keywords: ["Konya","Ilgin","Karacam","Milli Park","Doğa","Turizm","Gezi","İç Anadolu Bölgesi"]

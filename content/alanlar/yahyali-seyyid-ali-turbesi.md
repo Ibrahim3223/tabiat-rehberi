@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Turbe ve çevresini gezmek","Tarihi yapıları incelemek","Doğa yürüyüşü yapmak","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Yahyalı Seyyid Ali Türbesi","caption":"Yahyalı Seyyid Ali Türbesi","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Yahyalı Seyyid Ali Türbesi","caption":"Yahyalı Seyyid Ali Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yahyal%C4%B1%20Seyyid%20Ali%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582341","tip":"genel"}]
 description: "Yahyalı Seyyid Ali Türbesi, Kayseri'nin Yahyalı ilçesinde yer alan tarihi bir turbe."
 keywords: ["Yahyalı Seyyid Ali Türbesi","Kayseri","Yahyalı","tarihi turbe","Kayseri turizm","Yahyalı turizm","Seyyid Ali","tarih","turizm"]

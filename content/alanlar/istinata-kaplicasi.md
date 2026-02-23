@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Termal su tedavisi","Doğa yürüyüşü","Orman gezisi","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/The_Hot_Springs_of_Arkansas_.._%28IA_hotspringsofarka00stlo%29.pdf/page1-752px-The_Hot_Springs_of_Arkansas_.._%28IA_hotspringsofarka00stlo%29.pdf.jpg","alt":"İstınata Kaplıcası","caption":"İstınata Kaplıcası","credit":"The Hot Springs of Arkansas .. (IA hotspringsofarka00stlo).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Balikli_Kaplica_Thermal_spring_-_panoramio.jpg/960px-Balikli_Kaplica_Thermal_spring_-_panoramio.jpg","alt":"İstınata Kaplıcası","caption":"İstınata Kaplıcası","credit":"Balikli Kaplica Thermal spring - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0st%C4%B1nata%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49742036","tip":"genel"}]
 description: "İstınata Kaplıcası, Çankırı'da bulunan termal kaynaklarıyla ünlü bir destinasyon"
 keywords: ["İstınata Kaplıcası","Çankırı","Termal Kaynak","Kaplıca","İç Anadolu Bölgesi","Doğal Alanlar","Turizm","Sağlık Turizmi"]

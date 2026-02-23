@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"Canytellis Kaya Mezarı ve Rölyefleri","caption":"Canytellis Kaya Mezarı ve Rölyefleri","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Canytellis Kaya Mezarı ve Rölyefleri","caption":"Canytellis Kaya Mezarı ve Rölyefleri","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canytellis%20Kaya%20Mezar%C4%B1%20ve%20R%C3%B6lyefleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728228","tip":"genel"}]
 description: "Mersin'in Erdemli ilçesinde yer alan tarihi ve doğal güzellikler"
 keywords: ["Canytellis","Kaya Mezarı","Rölyefler","Erdemli","Mersin","Akdeniz Bölgesi","tarih","doğa"]

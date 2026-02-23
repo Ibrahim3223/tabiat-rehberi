@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Glendale_Evening_News_1920-02-20_%28IA_cgl_004005%29.pdf/page1-960px-The_Glendale_Evening_News_1920-02-20_%28IA_cgl_004005%29.pdf.jpg","alt":"Adana-Feke-Mansurlu Sedir 2","caption":"Adana-Feke-Mansurlu Sedir 2","credit":"The Glendale Evening News 1920-02-20 (IA cgl 004005).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_photos_of_Akda%C4%9F_3.jpg/960px-The_photos_of_Akda%C4%9F_3.jpg","alt":"Adana-Feke-Mansurlu Sedir 2","caption":"Adana-Feke-Mansurlu Sedir 2","credit":"The photos of Akdağ 3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Feke-Mansurlu%20Sedir%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227203","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin doğal güzelliklerini keşfedin. Adana-Feke-Mansurlu Sedir 2 milli parkı, eşsiz bir doğa deneyimi sunar."
 keywords: ["Adana","Feke","Mansurlu Sedir 2","milli park","doğa","gezi","turizm","Akdeniz Bölgesi"]

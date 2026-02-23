@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Victoria_Daily_Times_%281913-10-06%29_%28IA_victoriadailytimes19131006%29.pdf/page1-960px-Victoria_Daily_Times_%281913-10-06%29_%28IA_victoriadailytimes19131006%29.pdf.jpg","alt":"Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe","credit":"Victoria Daily Times (1913-10-06) (IA victoriadailytimes19131006).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%203%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728204","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin en güzel plajlarından biri olan Kaya Mezarı 3, Gürgentepe'de bulunan bir doğa harikasıdır."
 keywords: ["Kaya Mezarı","Gürgentepe","Ordu","Karadeniz Bölgesi","plaj","doğa harikası","gezi","turizm"]

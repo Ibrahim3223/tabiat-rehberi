@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Kaplıca ziyaret","Fotograf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Hıdırlar Hamam Kalıntısı ve Kaplıca","caption":"Hıdırlar Hamam Kalıntısı ve Kaplıca","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Hıdırlar Hamam Kalıntısı ve Kaplıca","caption":"Hıdırlar Hamam Kalıntısı ve Kaplıca","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1rlar%20Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1%20ve%20Kapl%C4%B1ca","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738746","tip":"genel"}]
 description: "Çanakkale'nin Yenice ilçesinde bulunan Hıdırlar Hamam Kalıntısı ve Kaplıca, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Hıdırlar Hamam Kalıntısı","Kaplıca","Çanakkale","Yenice","tarihi mekanlar","doğal güzellikler","Marmara Bölgesi","gezi noktaları"]

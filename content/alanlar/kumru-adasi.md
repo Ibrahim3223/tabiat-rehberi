@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla01burt_0%29.pdf/page1-841px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla01burt_0%29.pdf.jpg","alt":"Kumru Adası","caption":"Kumru Adası","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla01burt 0).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Black_Sea_Region_in_Turkey.svg/960px-Black_Sea_Region_in_Turkey.svg.png","alt":"Kumru Adası","caption":"Kumru Adası","credit":"Black Sea Region in Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumru%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49649483","tip":"genel"}]
 description: "Balıkesir'de bulunan Kumru Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor"
 keywords: ["Kumru Adası","Balıkesir","ada","doğa","yeşil alan","turizm","gezi","seyahat","Marmara Denizi"]

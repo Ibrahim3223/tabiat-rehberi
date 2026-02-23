@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihî araştırma","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf/page1-854px-Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf.jpg","alt":"Çekirge Sultan Adak Hamamı","caption":"Çekirge Sultan Adak Hamamı","credit":"Animal disease thesaurus (IA CAT80734093005).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Çekirge Sultan Adak Hamamı","caption":"Çekirge Sultan Adak Hamamı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ekirge%20Sultan%20Adak%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738459","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde yer alan Çekirge Sultan Adak Hamamı, Marmara Bölgesi'nin önemli tarihi ve turistik mekanlarından biridir."
 keywords: ["Bursa","Osmangazi","Marmara Bölgesi","Çekirge Sultan Adak Hamamı","tarih","turizm","gezi","doğa"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa Yürüyüşü","Manzara İzleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf/page1-960px-State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf.jpg","alt":"Davullukuyu Tepesi","caption":"Davullukuyu Tepesi","credit":"State 2009-01- Iss 530 (IA sim state-magazine 2009-01 530).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Davullukuyu Tepesi","caption":"Davullukuyu Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davullukuyu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557775","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Davullukuyu Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu bölge, coğrafi özellikleri ve tarihi geçmişi ile dikkat çekmektedir."
 keywords: ["Davullukuyu Tepesi","Ankara","İç Anadolu Bölgesi","coğrafya","tarih","doğa","gezi","tepe"]

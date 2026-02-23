@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","doğa yürüyüşü","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Narrative_of_a_Mission_to_Central_Africa%2C_performed_in_the_years_1850-51%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.52984%29.pdf/page1-622px-Narrative_of_a_Mission_to_Central_Africa%2C_performed_in_the_years_1850-51%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.52984%29.pdf.jpg","alt":"Göztaşı Tepe","caption":"Göztaşı Tepe","credit":"Narrative of a Mission to Central Africa, performed in the years 1850-51, in Two Volumes, Vol. I (IA dli.granth.52984).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Göztaşı Tepe","caption":"Göztaşı Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6zta%C5%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138729","tip":"genel"}]
 description: "Karaman'da tarihi ve doğal güzelliklerin birleştiği Göztaşı Tepe, ziyaretçilerini bekliyor. Tarihi geçmişi ve coğrafi konumuyla dikkat çekiyor."
 keywords: ["Karaman","Göztaşı Tepe","tarih","doğa","gezi","turizm","kültür","coğrafya","flora","fauna"]

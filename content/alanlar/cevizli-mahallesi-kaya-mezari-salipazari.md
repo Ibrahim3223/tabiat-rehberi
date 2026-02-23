@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Tarih Gezisi","Fotoğrafçılık","Yerel Kültür Deneyimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Cevizli Mahallesi Kaya Mezarı Salıpazarı","caption":"Cevizli Mahallesi Kaya Mezarı Salıpazarı","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Cevizli Mahallesi Kaya Mezarı Salıpazarı","caption":"Cevizli Mahallesi Kaya Mezarı Salıpazarı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cevizli%20Mahallesi%20Kaya%20Mezar%C4%B1%20Sal%C4%B1pazar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728196","tip":"genel"}]
 description: "Samsun'un Salıpazarı ilçesinde bulunan Cevizli Mahallesi Kaya Mezarı, Karadeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri."
 keywords: ["Karadeniz Bölgesi","Samsun","Salıpazarı","Cevizli Mahallesi","Kaya Mezarı","Tarih","Doğa","Gezi"]

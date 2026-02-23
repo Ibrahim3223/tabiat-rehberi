@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Kamp","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00sing%29.pdf/page1-770px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00sing%29.pdf.jpg","alt":"Redzhlyuaziz-Takhtani Dağı","caption":"Redzhlyuaziz-Takhtani Dağı","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00sing).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Redzhlyuaziz-Takhtani Dağı","caption":"Redzhlyuaziz-Takhtani Dağı","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Redzhlyuaziz-Takhtani%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386633","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli bir hazine olan Redzhlyuaziz-Takhtani Dağı, doğa severlerin keşfetmeyi bekleyen bir cennet."
 keywords: ["İç Anadolu Bölgesi","Dağ","Doğa","Turizm","Gezi","Tarih","Coğrafya","Flora","Fauna"]

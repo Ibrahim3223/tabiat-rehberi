@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denize girme","Güneşlenme","Doğa yürüyüşleri","Yerel lezzetler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Kaya Mezarı 1 (Delikkaya Mahallesi), Altınordu","caption":"Kaya Mezarı 1 (Delikkaya Mahallesi), Altınordu","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Kaya Mezarı 1 (Delikkaya Mahallesi), Altınordu","caption":"Kaya Mezarı 1 (Delikkaya Mahallesi), Altınordu","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%201%20(Delikkaya%20Mahallesi)%2C%20Alt%C4%B1nordu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728220","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Ordu'nun Altınordu ilçesinde yer alan Kaya Mezarı 1, Delikkaya Mahallesi'nde ziyaretçilerini bekliyor."
 keywords: ["Kaya Mezarı 1","Delikkaya Mahallesi","Altınordu","Ordu","Karadeniz Bölgesi","plaj","turizm","gezi"]

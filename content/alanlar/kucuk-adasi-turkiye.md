@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a7/Kap%C4%B1da%C4%9F_Peninsula_and_adjacent_islands_%28cropped%29.tif","alt":"Küçük Adası (Türkiye) manzarası","credit":"Great Britain. Hydrographic Department","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/View_to_chios_island_8_-_panoramio.jpg/960px-View_to_chios_island_8_-_panoramio.jpg","alt":"Küçük Adası","caption":"Küçük Adası","credit":"View to chios island 8 - panoramio","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Adas%C4%B1%20(T%C3%BCrkiye)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49650049","tip":"genel"}]
 description: "İzmir'de bulunan Küçük Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."

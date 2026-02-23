@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Trekking","Fotoğrafçılık","Tarihi eserleri keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/America_liberata_%28IA_americaliberata01vick%29.pdf/page1-614px-America_liberata_%28IA_americaliberata01vick%29.pdf.jpg","alt":"Mardin Yaşayan Müze","caption":"Mardin Yaşayan Müze","credit":"America liberata (IA americaliberata01vick).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu/page1-800px-The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu.jpg","alt":"Mardin Yaşayan Müze","caption":"Mardin Yaşayan Müze","credit":"The War Illustrated Album De Luxe; the Story of the Great European War Told by Camera, Pen and Pencil, 1917 (volume VII) - The Autumn Campaign of 1916","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mardin%20Ya%C5%9Fayan%20M%C3%BCze","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q125536786","tip":"genel"}]
 description: "Mardin'in tarihi ve kültürel zenginliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Mardin","Yaşayan Müze","Tarih","Kültür","Doğa","Turizm","Gezi","Müze"]

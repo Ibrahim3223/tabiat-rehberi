@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Plaj aktivitelerı","Tarihi yerleri gezmek","Doğa yürüyüşü","Deniz suyu sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Şeyh Hadin Türbesi","caption":"Şeyh Hadin Türbesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Şeyh Hadin Türbesi","caption":"Şeyh Hadin Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Hadin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391497","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde bulunan Şeyh Hadin Türbesi, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Şeyh Hadin Türbesi","Sur","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarihi mekanlar","doğa alanları","türk kültürü","gezi rehberi","türk tarihi"]

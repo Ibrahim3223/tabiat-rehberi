@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarih gezileri","Doğa yürüyüşleri","Fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_National_geographic_magazine_%28IA_nationalgeograph261914nati%29.pdf/page1-960px-The_National_geographic_magazine_%28IA_nationalgeograph261914nati%29.pdf.jpg","alt":"Şurahbil Türbesi","caption":"Şurahbil Türbesi","credit":"The National geographic magazine (IA nationalgeograph261914nati).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Şurahbil Türbesi","caption":"Şurahbil Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eurahbil%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391332","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde bulunan Şurahbil Türbesi, tarihin derinliklerinde gizli bir hazineyi andırır. Bu eşsiz mekan, ziyaretçilerini geçmişin gizemli atmosferine davet eder."
 keywords: ["Şurahbil Türbesi","Kilis","Güneydoğu Anadolu Bölgesi","Türbe","Tarih","Gezi"]

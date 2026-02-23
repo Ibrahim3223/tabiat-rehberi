@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["tarihi mekanları gezmek","doğa yürüyüşleri","fotoğraf çekmek","dinlenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Taming_New_Guinea%3B_%28IA_tamingnewguinea00monc%29.pdf/page1-814px-Taming_New_Guinea%3B_%28IA_tamingnewguinea00monc%29.pdf.jpg","alt":"Ümmi Kemal Türbesi","caption":"Ümmi Kemal Türbesi","credit":"Taming New Guinea; (IA tamingnewguinea00monc).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Ümmi Kemal Türbesi","caption":"Ümmi Kemal Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cmmi%20Kemal%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390708","tip":"genel"}]
 description: "Bolu ilinin merkezinde yer alan Ümmi Kemal Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir yer."
 keywords: ["Ümmi Kemal Türbesi","Bolu","Karadeniz Bölgesi","tarihi mekanlar","doğa alanları","turbeler","kültürel miras","turizm","gezi rehberi"]

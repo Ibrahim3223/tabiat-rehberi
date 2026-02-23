@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Examiner_1846-08-29-_Iss_2013_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-29_2013%29.pdf/page1-960px-The_Examiner_1846-08-29-_Iss_2013_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-29_2013%29.pdf.jpg","alt":"Osmanınçalı Tepesi","caption":"Osmanınçalı Tepesi","credit":"The Examiner 1846-08-29- Iss 2013 (IA sim examiner-a-weekly-paper-on-politics-literature-music 1846-08-29 2013).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erastae_%28Jolliffe_trans%2C1827%29.djvu/page1-800px-Erastae_%28Jolliffe_trans%2C1827%29.djvu.jpg","alt":"Osmanınçalı Tepesi","caption":"Osmanınçalı Tepesi","credit":"Erastae (Jolliffe trans,1827)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Osman%C4%B1n%C3%A7al%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34887951","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide şehri Çorum'da yer alan Osışmançalı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Os맨çalı Tepesi","Çorum","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]

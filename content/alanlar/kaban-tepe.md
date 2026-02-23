@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","yaban hayatı gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Animal_plagues_%28electronic_resource%29_-_their_history%2C_nature%2C_and_prevention_%28IA_b21459228%29.pdf/page1-960px-Animal_plagues_%28electronic_resource%29_-_their_history%2C_nature%2C_and_prevention_%28IA_b21459228%29.pdf.jpg","alt":"Kaban Tepe","caption":"Kaban Tepe","credit":"Animal plagues (electronic resource) - their history, nature, and prevention (IA b21459228).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kaban Tepe","caption":"Kaban Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaban%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385740","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin etkileyici doğal güzelliği, Ağrı'nın önemli bir turizm noktası"
 keywords: ["Ağrı","Kaban Tepe","Doğu Anadolu Bölgesi","turizm","doğa","gezi","tepe","manzara","çevre","ekoloji"]

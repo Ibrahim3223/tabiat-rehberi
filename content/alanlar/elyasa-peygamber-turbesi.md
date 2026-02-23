@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî eserleri gezme","kültürel değerleri öğrenme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Elyasa Peygamber Türbesi","caption":"Elyasa Peygamber Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Elyasa Peygamber Türbesi","caption":"Elyasa Peygamber Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elyasa%20Peygamber%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390771","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Diyarbakır'ın Eğilçesinde bulunan Elyasa Peygamber Türbesi, tarihi ve kültürel değerleriyle dikkat çekiyor."
 keywords: ["Elyasa Peygamber Türbesi","Diyarbakır","Eğil","tarih","kültür","türbe","Güneydoğu Anadolu Bölgesi"]

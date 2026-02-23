@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Exploration_of_the_Red_river_of_Louisiana%2C_in_the_year_1852_%28IA_b24858766%29.pdf/page1-960px-Exploration_of_the_Red_river_of_Louisiana%2C_in_the_year_1852_%28IA_b24858766%29.pdf.jpg","alt":"Yellice Dağı","caption":"Yellice Dağı","credit":"Exploration of the Red river of Louisiana, in the year 1852 (IA b24858766).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Yellice Dağı","caption":"Yellice Dağı","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yellice%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560029","tip":"genel"}]
 description: "Bolu'nun görkemli dağlarından biri olan Yellice Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Yellice Dağı","Bolu","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Trekking","Doğal Güzellik"]

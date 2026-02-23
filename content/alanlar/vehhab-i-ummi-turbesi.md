@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Türbe için 1-2 saat, plaj için tüm gün"
 aktiviteler: ["dinî ziyaret","plajactivities","doğa yürüyüşü","deniz sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Vehhab-i Ümmi Türbesi","caption":"Vehhab-i Ümmi Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Vehhab-i Ümmi Türbesi","caption":"Vehhab-i Ümmi Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vehhab-i%20%C3%9Cmmi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390683","tip":"genel"}]
 description: "Elmalı, Antalya'da yer alan tarihi türbe ve plaj"
 keywords: ["Elmalı","Antalya","tarih","türbe","plaj","Akdeniz Bölgesi","gezi","turizm","doğa"]

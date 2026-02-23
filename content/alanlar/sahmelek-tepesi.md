@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","tarih gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bluebird_songs_of_hope_and_joy_%28IA_bluebirdsongsofh00hill%29.pdf/page1-637px-Bluebird_songs_of_hope_and_joy_%28IA_bluebirdsongsofh00hill%29.pdf.jpg","alt":"Şahmelek Tepesi","caption":"Şahmelek Tepesi","credit":"Bluebird songs of hope and joy (IA bluebirdsongsofh00hill).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Şahmelek Tepesi","caption":"Şahmelek Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eahmelek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389057","tip":"genel"}]
 description: "Muş'un tarihi ve doğal güzelliklerinin birleştiği Şahmelek Tepesi, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["Şahmelek Tepesi","Muş","Doğu Anadolu Bölgesi","doğal güzellik","tarih","gezi","turizm","coğrafya","flora","fauna"]

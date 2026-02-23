@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Tarih Gezisi","Flora ve Fauna Gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Victoria_Daily_Times_%281922-06-05%29_%28IA_victoriadailytimes19220605%29.pdf/page1-960px-Victoria_Daily_Times_%281922-06-05%29_%28IA_victoriadailytimes19220605%29.pdf.jpg","alt":"Adana-Kadirli-Karatepe Aslantas Milli Parki Okaliptus","caption":"Adana-Kadirli-Karatepe Aslantas Milli Parki Okaliptus","credit":"Victoria Daily Times (1922-06-05) (IA victoriadailytimes19220605).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Adana-Kadirli-Karatepe Aslantas Milli Parki Okaliptus","caption":"Adana-Kadirli-Karatepe Aslantas Milli Parki Okaliptus","credit":"Akdag 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli-Karatepe%20Aslantas%20Milli%20Parki%20Okaliptus","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227754","tip":"genel"}]
 description: "Adana'da yer alan Karatepe Aslantas Milli Parkı, 140 hektarlık yeşil alanı ve tarihi değerleriyle ziyaretçilerini bekliyor."
 keywords: ["Adana","Kadirli","Karatepe Aslantas Milli Parkı","Okaliptus","Milli Park","Doğa","Tarih"]

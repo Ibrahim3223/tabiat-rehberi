@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tırmanma","Yürüyüş","Manzara gözlemleme","Doğal güzelliklerin keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf/page1-812px-On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf.jpg","alt":"Hacıcemil Tepe","caption":"Hacıcemil Tepe","credit":"On the fringe of the great fight (IA onfringeofgreatf00nasmrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Hacıcemil Tepe","caption":"Hacıcemil Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1cemil%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385782","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli köşelerinden biri olan Hacıcemil Tepe, Batman'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon."
 keywords: ["Hacıcemil Tepe","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","gezi","tarih","coğrafya","flora","fauna","ziyaret"]

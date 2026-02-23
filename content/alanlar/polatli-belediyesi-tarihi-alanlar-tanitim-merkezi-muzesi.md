@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Sergi gezisi","Tarihi eserleri incelemek","Müze etrafındaki restoranları keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf/page1-960px-THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf.jpg","alt":"Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi","caption":"Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi","credit":"THE IDEAL OF HANDICRAFTS AND THE MODERN DESIGN FORMATION COINCIDENCES AND FAILURES.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Early_western_travels%2C_1748-1846_%281907_Volume_22%29.djvu/page1-800px-Early_western_travels%2C_1748-1846_%281907_Volume_22%29.djvu.jpg","alt":"Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi","caption":"Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi","credit":"Early western travels, 1748-1846 (1907 Volume 22)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Polatl%C4%B1%20Belediyesi%20Tarihi%20Alanlar%20Tan%C4%B1t%C4%B1m%20Merkezi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950113","tip":"genel"}]
 description: "Ankara'nın tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Polatlı Belediyesi","Tarihi Alanlar","Tanıtım Merkezi","Müze","Ankara","İç Anadolu Bölgesi","Tarih","Kültür","Sanat"]

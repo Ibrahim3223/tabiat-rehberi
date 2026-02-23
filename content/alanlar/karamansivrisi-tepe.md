@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğrafçılık","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wle-jury-report-2024-lores.pdf/page1-960px-Wle-jury-report-2024-lores.pdf.jpg","alt":"Karamansivrisi Tepe","caption":"Karamansivrisi Tepe","credit":"Wle-jury-report-2024-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karamansivrisi Tepe","caption":"Karamansivrisi Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karamansivrisi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390207","tip":"genel"}]
 description: "Burdur'un tarihi ve doğal güzelliklerini keşfedin. Karamansivrisi Tepe, Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Karamansivrisi Tepe","Burdur","Akdeniz Bölgesi","tarih","doğa","gezi","turizm"]

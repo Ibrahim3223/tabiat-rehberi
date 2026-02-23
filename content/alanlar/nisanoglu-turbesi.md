@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Kültürel etkinlikler","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Nisanoğlu Türbesi","caption":"Nisanoğlu Türbesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Nisanoğlu Türbesi","caption":"Nisanoğlu Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nisano%C4%9Flu%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391663","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en önemli tarihi mekanlarından biri olan Nisanoğlu Türbesi, Diyarbakır'ın Eğilçesinde yer almaktadır."
 keywords: ["Nisanoğlu Türbesi","Eğil","Diyarbakır","Güneydoğu Anadolu Bölgesi","Tarih","Kültür","Turizm"]

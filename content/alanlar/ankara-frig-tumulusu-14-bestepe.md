@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/EIE_express_-_USACE-p16021coll8-511.pdf/page1-960px-EIE_express_-_USACE-p16021coll8-511.pdf.jpg","alt":"Ankara Frig Tümülüsü 14, Beştepe","caption":"Ankara Frig Tümülüsü 14, Beştepe","credit":"EIE express - USACE-p16021coll8-511.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Ankara Frig Tümülüsü 14, Beştepe","caption":"Ankara Frig Tümülüsü 14, Beştepe","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2014%2C%20Be%C5%9Ftepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728276","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. İç Anadolu Bölgesi'nin kalbinde yer alan Ankara Frig Tümülüsü 14, Beştepe, ziyaretçilerini tarihin derinliklerine götürüyor."
 keywords: ["Ankara","Frig Tümülüsü","Beştepe","tarih","doğa","gezi","keşif","İç Anadolu Bölgesi","Yenimahalle"]

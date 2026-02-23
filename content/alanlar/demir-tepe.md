@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%89szak-Maced%C3%B3nia_domborzati_egys%C3%A9gei.png","alt":"Demir Tepe manzarası","credit":"Kiss Veronika","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Demir Tepe","caption":"Demir Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demir%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572827","tip":"genel"}]
 description: "Ağrı'da bulunan Demir Tepe, doğa severlerin ziyaret ettiği bir dağ"

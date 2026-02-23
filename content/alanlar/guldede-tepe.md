@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Across_Asia_on_a_bicycle%3B_the_journey_of_two_American_students_from_Constantinople_to_Peking_%28IA_cu31924023209491%29.pdf/page1-687px-Across_Asia_on_a_bicycle%3B_the_journey_of_two_American_students_from_Constantinople_to_Peking_%28IA_cu31924023209491%29.pdf.jpg","alt":"Güldede Tepe","caption":"Güldede Tepe","credit":"Across Asia on a bicycle; the journey of two American students from Constantinople to Peking (IA cu31924023209491).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Güldede Tepe","caption":"Güldede Tepe","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCldede%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872930","tip":"genel"}]
 description: "Sivas'ta bulunan Güldede Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Güldede Tepe","Sivas","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Excavations_at_the_Arroyo_site%2C_42Ka3976_-_a_Pueblo_II-III_Virgin_Anasazi_farmstead_%28IA_excavationsatarr00mcfa%29.pdf/page1-960px-Excavations_at_the_Arroyo_site%2C_42Ka3976_-_a_Pueblo_II-III_Virgin_Anasazi_farmstead_%28IA_excavationsatarr00mcfa%29.pdf.jpg","alt":"Akndaşt","caption":"Akndaşt","credit":"Excavations at the Arroyo site, 42Ka3976 - a Pueblo II-III Virgin Anasazi farmstead (IA excavationsatarr00mcfa).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Akndaşt","caption":"Akndaşt","credit":"VallesMarinerisHuge","license":"Attribution"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aknda%C5%9Ft","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21694921","tip":"genel"}]
 description: "Van'da bulunan Akndaşt Kanyonu, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir destinasyon"
 keywords: ["Akndaşt","Van","Kanyon","Doğa","Turizm","Gezi","Yeşil Alan","Doğa Harikası","Van Gezilecek Yerler"]

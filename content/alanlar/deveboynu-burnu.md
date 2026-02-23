@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/U.S._Army_Corps_of_Engineers_%28Corps%29_Regulatory_Program_reissuance_and_issuance_of_nationwide_permits_with_Ohio_EPA_401_water_quality_certification_and_Ohio_Department_of_Natural_Resources_consis_..._-_USACE-p16021coll15-4557.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Deveboynu Burnu","caption":"Deveboynu Burnu","credit":"U.S. Army Corps of Engineers (Corps) Regulatory Program reissuance and issuance of nationwide permits with Ohio EPA 401 water quality certification and Ohio Department of Natural Resources consis ... - USACE-p16021coll15-4557.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cloud_in_the_river.jpg/960px-Cloud_in_the_river.jpg","alt":"Deveboynu Burnu","caption":"Deveboynu Burnu","credit":"Cloud in the river","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deveboynu%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q5034748","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Deveboynu Burnu, çeşitli kuş türlerine ev sahipliği yapıyor."
 keywords: ["Deveboynu Burnu","kuş cenneti","Türkiye","doğa","kuş türleri","turizm","çevre","ekosistem","vahşi yaşam"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe keşfi","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Scribner%27s_Magazine_Volume_15.pdf/page1-960px-Scribner%27s_Magazine_Volume_15.pdf.jpg","alt":"Hasan Dede Türbesi, Kadirli","caption":"Hasan Dede Türbesi, Kadirli","credit":"Scribner's Magazine Volume 15.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Hasan Dede Türbesi, Kadirli","caption":"Hasan Dede Türbesi, Kadirli","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasan%20Dede%20T%C3%BCrbesi%2C%20Kadirli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582630","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin güzide yerlerinden biri olan Hasan Dede Türbesi, Kadirli, doğal güzellikleri ve tarihi zenginlikleri ile dikkat çekiyor."
 keywords: ["Hasan Dede Türbesi","Kadirli","Akdeniz Bölgesi","doğal güzellik","tarihi yerler","Osmaniye","tarih","coğrafya","flora","fauna"]

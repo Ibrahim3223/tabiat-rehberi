@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Çarşaf Dağı","caption":"Çarşaf Dağı","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Çarşaf Dağı","caption":"Çarşaf Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ar%C5%9Faf%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824043","tip":"genel"}]
 description: "Konya'da bulunan Çarşaf Dağı, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor. Doğal güzelliği ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Çarşaf Dağı","Konya","Dağ","Doğa","Tarih","Turizm","Gezi","Konya gezilecek yerler","Doğal güzellikler"]

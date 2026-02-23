@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The_influence_of_Islam_in_Turkey._%28IA_influenceofislam00rutl%29.pdf/page1-960px-The_influence_of_Islam_in_Turkey._%28IA_influenceofislam00rutl%29.pdf.jpg","alt":"Elmalı Baraj Gölü","caption":"Elmalı Baraj Gölü","credit":"The influence of Islam in Turkey. (IA influenceofislam00rutl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Elmalı Baraj Gölü","caption":"Elmalı Baraj Gölü","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elmal%C4%B1%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130359199","tip":"genel"}]
 description: "İstanbul'un Beykoz ilçesinde bulunan Elmalı Baraj Gölü, 1200 hektarlık yeşil cenneti ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Elmalı Baraj Gölü","İstanbul","Beykoz","göl","baraj","doğa","yeşil alan","İstanbul gölleri","Beykoz turizm"]

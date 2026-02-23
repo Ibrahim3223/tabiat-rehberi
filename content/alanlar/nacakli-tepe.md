@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","tarih turu","gözlem","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Across_Asia_on_a_bicycle%3B_the_journey_of_two_American_students_from_Constantinople_to_Peking_%28IA_cu31924023209491%29.pdf/page1-687px-Across_Asia_on_a_bicycle%3B_the_journey_of_two_American_students_from_Constantinople_to_Peking_%28IA_cu31924023209491%29.pdf.jpg","alt":"Nacaklı Tepe","caption":"Nacaklı Tepe","credit":"Across Asia on a bicycle; the journey of two American students from Constantinople to Peking (IA cu31924023209491).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Nacaklı Tepe","caption":"Nacaklı Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nacakl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391161","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan tarihi ve doğal güzelliklerin birleştiği Nacaklı Tepe, ziyaretçilerini bekliyor."
 keywords: ["Nacaklı Tepe","Sivas","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","coğrafya"]

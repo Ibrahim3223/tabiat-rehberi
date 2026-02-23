@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarihi mekanları keşfetmek","fotografçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Emir Şaban Türbesi","caption":"Emir Şaban Türbesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Emir Şaban Türbesi","caption":"Emir Şaban Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20%C5%9Eaban%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391650","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Emir Şaban Türbesi, Çukurca/Hakkari'de ziyaretçilerini bekliyor."
 keywords: ["Emir Şaban Türbesi","Çukurca","Hakkari","Doğu Anadolu Bölgesi","doğal güzellikler","tarihi mekanlar","turizm","gezi"]

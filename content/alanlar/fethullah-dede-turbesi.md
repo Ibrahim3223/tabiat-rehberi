@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Animal_disease_thesaurus_%28IA_CAT80734093002%29.pdf/page1-902px-Animal_disease_thesaurus_%28IA_CAT80734093002%29.pdf.jpg","alt":"Fethullah Dede Türbesi","caption":"Fethullah Dede Türbesi","credit":"Animal disease thesaurus (IA CAT80734093002).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Fethullah Dede Türbesi","caption":"Fethullah Dede Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fethullah%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735179","tip":"genel"}]
 description: "Bursa'nın Yıldırım ilçesinde bulunan Fethullah Dede Türbesi, Marmara Bölgesi'nin önemli tarihi mekanlarından biri"
 keywords: ["Fethullah Dede Türbesi","Yıldırım","Bursa","Marmara Bölgesi","tarih","türbe","gezi","turizm","kültür"]

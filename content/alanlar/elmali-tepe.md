@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Examiner_1846-08-29-_Iss_2013_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-29_2013%29.pdf/page1-960px-The_Examiner_1846-08-29-_Iss_2013_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-29_2013%29.pdf.jpg","alt":"Elmalı Tepe","caption":"Elmalı Tepe","credit":"The Examiner 1846-08-29- Iss 2013 (IA sim examiner-a-weekly-paper-on-politics-literature-music 1846-08-29 2013).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Elmalı Tepe","caption":"Elmalı Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elmal%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34867689","tip":"genel"}]
 description: "Çorum'un görkemli dağlarından biri olan Elmalı Tepe, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Elmalı Tepe","Çorum","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Çorum Turistik Yerler","Doğa Sporları"]

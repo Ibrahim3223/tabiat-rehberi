@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/A_Journey_from_London_to_Persepolis%3B_including_Wanderings_in_Daghestan_Georgia%2C_Armenia_Kurdistan%2C_Mesopotamia_and_Persia_%28IA_dli.granth.72760%29.pdf/page1-825px-A_Journey_from_London_to_Persepolis%3B_including_Wanderings_in_Daghestan_Georgia%2C_Armenia_Kurdistan%2C_Mesopotamia_and_Persia_%28IA_dli.granth.72760%29.pdf.jpg","alt":"Keçel Dağı","caption":"Keçel Dağı","credit":"A Journey from London to Persepolis; including Wanderings in Daghestan Georgia, Armenia Kurdistan, Mesopotamia and Persia (IA dli.granth.72760).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Keçel Dağı","caption":"Keçel Dağı","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C3%A7el%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32188008","tip":"genel"}]
 description: "Bitlis'in doğal güzelliklerini keşfedin, Keçel Dağı'nda doğa ile baş başa kalın."
 keywords: ["Keçel Dağı","Bitlis","Dağ","Doğa","Turizm","Gezi","Keşif","Bitlis Turistik Yerler","Doğa Sporları"]

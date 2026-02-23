@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî araştırma","Doğa yürüyüşü","Fotografi","Kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Yeniköy Tümülüsü, Gemerek","caption":"Yeniköy Tümülüsü, Gemerek","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_travels_of_Macarius%2C_Patriarch_of_Antioch_-_Volume_II.djvu/page1-800px-The_travels_of_Macarius%2C_Patriarch_of_Antioch_-_Volume_II.djvu.jpg","alt":"Yeniköy Tümülüsü, Gemerek","caption":"Yeniköy Tümülüsü, Gemerek","credit":"The travels of Macarius, Patriarch of Antioch - Volume II","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yenik%C3%B6y%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Gemerek","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728420","tip":"genel"}]
 description: "Sivas'ın Gemerek ilçesinde yer alan tarihi tümülüs, zengin tarihi geçmişi ile dikkat çekiyor."
 keywords: ["Yeniköy Tümülüsü","Gemerek","Sivas","tarih","tümülüs","kültür","coğrafya","gezi","ziyaret"]

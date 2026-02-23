@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Award_ceremony_for_the_Wiki_Loves_Earth_2024_19.12.24.pdf/page1-960px-Award_ceremony_for_the_Wiki_Loves_Earth_2024_19.12.24.pdf.jpg","alt":"Burdur-Golhisar-Dirmil Ardic","caption":"Burdur-Golhisar-Dirmil Ardic","credit":"Award ceremony for the Wiki Loves Earth 2024 19.12.24.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snow_on_the_Lake_Abant.jpg/960px-Snow_on_the_Lake_Abant.jpg","alt":"Burdur-Golhisar-Dirmil Ardic","caption":"Burdur-Golhisar-Dirmil Ardic","credit":"Snow on the Lake Abant","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Golhisar-Dirmil%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227225","tip":"genel"}]
 description: "Burdur'un doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir milli park"
 keywords: ["Burdur","milli park","doğal güzellik","tarih","gezi","yaban hayatı","ekosistem"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Glendale_Daily_Press_1923-11-01_%28IA_cgl_002252%29.pdf/page1-960px-Glendale_Daily_Press_1923-11-01_%28IA_cgl_002252%29.pdf.jpg","alt":"Okçular Dağı","caption":"Okçular Dağı","credit":"Glendale Daily Press 1923-11-01 (IA cgl 002252).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Okçular Dağı","caption":"Okçular Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ok%C3%A7ular%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34887404","tip":"genel"}]
 description: "Rize'de yer alan Okçular Dağı, doğa severlerin ziyaret ettiği önemli bir dağdır."
 keywords: ["Okçular Dağı","Rize","Dağ","Doğa","Trekking","Turizm","Rize Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

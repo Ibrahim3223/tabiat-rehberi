@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Turkey_and_the_Armenian_atrocities._A_reign_of_terror_%28IA_turkeyarmenianat00blis%29.pdf/page1-831px-Turkey_and_the_Armenian_atrocities._A_reign_of_terror_%28IA_turkeyarmenianat00blis%29.pdf.jpg","alt":"Dumanlı Göl","caption":"Dumanlı Göl","credit":"Turkey and the Armenian atrocities. A reign of terror (IA turkeyarmenianat00blis).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lake_in_Vezirsuyu_Turkey.jpg/960px-Lake_in_Vezirsuyu_Turkey.jpg","alt":"Dumanlı Göl","caption":"Dumanlı Göl","credit":"Lake in Vezirsuyu Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dumanl%C4%B1%20G%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49302014","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerinden biri olan Dumanlı Göl, 1200 hektarlık alanı ile şehrin önemli bir turizm noktasıdır."
 keywords: ["Dumanlı Göl","Samsun","göl","doğa","turizm","Samsun gölleri","Dumanlı Gölü","Samsun turistik yerler","göller"]

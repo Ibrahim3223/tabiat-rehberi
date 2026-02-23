@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","kuş gözlemciliği","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf/page1-804px-David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf.jpg","alt":"Kaşkaya Tepesi","caption":"Kaşkaya Tepesi","credit":"David George Hogarth. Accidents of an antiquary's life. 1910.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kaşkaya Tepesi","caption":"Kaşkaya Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C5%9Fkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564865","tip":"genel"}]
 description: "Sivas'ın doğal güzelliklerinden biri olan Kaşkaya Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Sivas","Kaşkaya Tepesi","doğal güzellik","tepe","İç Anadolu Bölgesi","gezi","turizm","manzara","doğa"]

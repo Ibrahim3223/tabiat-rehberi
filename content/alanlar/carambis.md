@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/U.S._Army_Corps_of_Engineers_%28Corps%29_Regulatory_Program_reissuance_and_issuance_of_nationwide_permits_with_Ohio_EPA_401_water_quality_certification_and_Ohio_Department_of_Natural_Resources_consis_..._-_USACE-p16021coll15-4549.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Carambis","caption":"Carambis","credit":"U.S. Army Corps of Engineers (Corps) Regulatory Program reissuance and issuance of nationwide permits with Ohio EPA 401 water quality certification and Ohio Department of Natural Resources consis ... - USACE-p16021coll15-4549.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abandoned_blue.jpg/960px-Abandoned_blue.jpg","alt":"Carambis","caption":"Carambis","credit":"Abandoned blue","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Carambis","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q17624165","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Carambis, 1200 hektarlık bir alanı kaplayan önemli bir kuş cenneti"
 keywords: ["Carambis","Karadeniz Bölgesi","kuş cenneti","Türkiye'nin doğal alanları","doğal yaşam","vahşi yaşam","kuş gözlemciliği","ekoturizm","Karadeniz turizmi"]

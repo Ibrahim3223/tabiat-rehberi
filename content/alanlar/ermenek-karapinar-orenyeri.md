@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["Doğa yürüyüşü","Tarihî yapıları gezmek","Kültürel mirası keşfetmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Ermenek Karapınar Örenyeri","caption":"Ermenek Karapınar Örenyeri","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Ermenek Karapınar Örenyeri","caption":"Ermenek Karapınar Örenyeri","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ermenek%20Karap%C4%B1nar%20%C3%96renyeri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728240","tip":"genel"}]
 description: "Karaman'ın Ermenek ilçesinde bulunan Karapınar Örenyeri, tarihi ve doğal güzellikleri bir araya getiren özel bir alan"
 keywords: ["Ermenek","Karaman","Örenyeri","Karapınar","Doğa","Tarih","Kültür","Gezi","Turizm","İç Anadolu Bölgesi","Karaman'ın güzellikleri"]

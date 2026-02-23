@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","plaj activities","doğa yürüyüşü","yöresel lezzetler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Yusuf Oğlu Ahmet Bey Türbesi","caption":"Yusuf Oğlu Ahmet Bey Türbesi","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Yusuf Oğlu Ahmet Bey Türbesi","caption":"Yusuf Oğlu Ahmet Bey Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yusuf%20O%C4%9Flu%20Ahmet%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582174","tip":"genel"}]
 description: "Manisa'nın Gölmarmara ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Yusuf Oğlu Ahmet Bey Türbesi","Gölmarmara","Manisa","Ege Bölgesi","tarih","doğa","turizm"]

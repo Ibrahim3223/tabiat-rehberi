@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["Türbe ve plajı keşfetmek","Bölgenin tarihi ve kültürel zenginliklerini öğrenmek","Doğa yürüyüşleri yapmak","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf/page1-960px-Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf.jpg","alt":"Şeyh Yusuf Hemedani Türbesi","caption":"Şeyh Yusuf Hemedani Türbesi","credit":"Jewish - Zionist terrorism and the establishment of Israel. (IA jewishzionistter00peek).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Şeyh Yusuf Hemedani Türbesi","caption":"Şeyh Yusuf Hemedani Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Yusuf%20Hemedani%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582863","tip":"genel"}]
 description: "Mardin'in Artuklu ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Şeyh Yusuf Hemedani","Mardin","Artuklu","Türbe","Plaj","Güneydoğu Anadolu","Tarihi mekanlar","Dini yerler","Doğal güzellikler"]

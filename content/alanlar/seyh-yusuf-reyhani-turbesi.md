@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezi","doğa yürüyüşü","fotografcılık","dinî ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Şeyh Yusuf Reyhani Türbesi","caption":"Şeyh Yusuf Reyhani Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Şeyh Yusuf Reyhani Türbesi","caption":"Şeyh Yusuf Reyhani Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Yusuf%20Reyhani%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391640","tip":"genel"}]
 description: "Mersin'in tarihi ve doğal güzellikleri arasında yer alan Şeyh Yusuf Reyhani Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Mersin","tarihi mekanlar","doğal güzellikler","türk turizmi","Şeyh Yusuf Reyhani","türbe","Akdeniz Bölgesi","gezi rehberi","kültür mirası","doğa severler"]

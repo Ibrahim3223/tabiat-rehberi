@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tropico_Interurban_Sentinel_1911-10-26_%28IA_cgl_001071%29.pdf/page1-960px-Tropico_Interurban_Sentinel_1911-10-26_%28IA_cgl_001071%29.pdf.jpg","alt":"Cermaniman Tepesi","caption":"Cermaniman Tepesi","credit":"Tropico Interurban Sentinel 1911-10-26 (IA cgl 001071).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Cermaniman Tepesi","caption":"Cermaniman Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cermaniman%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31569552","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin. Cermaniman Tepesi, Karadeniz Bölgesi'nin en güzel manzaralarına sahiptir."
 keywords: ["Cermaniman Tepesi","Rize","Karadeniz Bölgesi","doğa","manzara","tepe","gezi","turizm"]

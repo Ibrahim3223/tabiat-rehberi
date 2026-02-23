@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günde 4-6 saat"
 aktiviteler: ["doğa yürüyüşleri","su sporları","kuş gözlemciliği","plaj aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Tahir Ağa Hamamı","caption":"Tahir Ağa Hamamı","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Tahir Ağa Hamamı","caption":"Tahir Ağa Hamamı","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahir%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738656","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti Tahir Ağa Hamamı, Mudanya'nın doğal güzelliklerini keşfedin."
 keywords: ["Mudanya","Bursa","Marmara Bölgesi","Tahir Ağa Hamamı","doğal güzellikler","plaj","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","plaj etkinlikleri","kültür sanat etkinlikleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf/page1-860px-Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf.jpg","alt":"Siyavuş Sultan Türbesi","caption":"Siyavuş Sultan Türbesi","credit":"Revue suisse de zoologie (IA revuesuissede11412007schw).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Siyavuş Sultan Türbesi","caption":"Siyavuş Sultan Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Siyavu%C5%9F%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582407","tip":"genel"}]
 description: "Karatay, Konya'da bulunan tarihi türbe ve plaj alanı"
 keywords: ["Siyavuş Sultan Türbesi","Karatay","Konya","tarih","plaj","gezi","turizm","İç Anadolu Bölgesi","kültür"]

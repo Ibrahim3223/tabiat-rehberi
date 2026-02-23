@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","coğrafi gözlem","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Scribner%27s_Magazine_Volume_15.pdf/page1-960px-Scribner%27s_Magazine_Volume_15.pdf.jpg","alt":"Beşikdüldül Tepe","caption":"Beşikdüldül Tepe","credit":"Scribner's Magazine Volume 15.pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Beşikdüldül Tepe","caption":"Beşikdüldül Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fikd%C3%BCld%C3%BCl%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139630","tip":"genel"}]
 description: "Osmaniye'nin doğal güzelliklerini keşfedin. Beşikdüldül Tepe, Akdeniz Bölgesi'nin önemli coğrafyası"
 keywords: ["Beşikdüldül Tepe","Osmaniye","Akdeniz Bölgesi","doğal güzellik","coğrafya","tepe","gezi","turizm","çevre","ekoloji"]

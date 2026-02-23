@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["güneşlenmek","yüzme","doğa yürüyüşleri","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf/page1-960px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf.jpg","alt":"Tarihi Tahtalı Hamamı","caption":"Tarihi Tahtalı Hamamı","credit":"Explorations in Bible lands during the 19th century (IA gri 33125007229756).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Tarihi Tahtalı Hamamı","caption":"Tarihi Tahtalı Hamamı","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarihi%20Tahtal%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738468","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide şehri Malatya'da bulunan Tarihi Tahtalı Hamamı, ziyaretçilerini büyüleyen bir doğal güzelliktir."
 keywords: ["Tarihi Tahtalı Hamamı","Malatya","Doğu Anadolu Bölgesi","doğal güzellik","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğraf çekimi","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Ankara Frig Tümülüsü 16, Emek","caption":"Ankara Frig Tümülüsü 16, Emek","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ankara Frig Tümülüsü 16, Emek","caption":"Ankara Frig Tümülüsü 16, Emek","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2016%2C%20Emek","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728274","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzellikleri arasında yer alan Ankara Frig Tümülüsü 16, Emek, ziyaretçilerini büyüleyen bir destinasyon."
 keywords: ["Ankara Frig Tümülüsü 16","Emek","Ankara","tarih","doğa","gezi","turizm","Çankaya","İç Anadolu Bölgesi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşleri","çevre gezileri","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Glendale_Evening_News_1920-02-20_%28IA_cgl_004005%29.pdf/page1-960px-The_Glendale_Evening_News_1920-02-20_%28IA_cgl_004005%29.pdf.jpg","alt":"Adana-Pos-Karsanti Kızılçam 1","caption":"Adana-Pos-Karsanti Kızılçam 1","credit":"The Glendale Evening News 1920-02-20 (IA cgl 004005).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Adana-Pos-Karsanti Kızılçam 1","caption":"Adana-Pos-Karsanti Kızılçam 1","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pos-Karsanti%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227407","tip":"genel"}]
 description: "Adana'da yer alan doğal güzelliklerin başında gelen milli park."
 keywords: ["Adana","milli park","doğa","orman","kızılçam"]

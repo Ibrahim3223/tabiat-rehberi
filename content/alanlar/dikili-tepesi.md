@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih turu","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/A_SURVEY_OF_GLOBAL_TERRORISM._AND_TERRORIST_FINANCING_%28IA_gov.gpo.fdsys.CHRG-114hhrg95059%29.pdf/page1-960px-A_SURVEY_OF_GLOBAL_TERRORISM._AND_TERRORIST_FINANCING_%28IA_gov.gpo.fdsys.CHRG-114hhrg95059%29.pdf.jpg","alt":"Dikili Tepesi","caption":"Dikili Tepesi","credit":"A SURVEY OF GLOBAL TERRORISM. AND TERRORIST FINANCING (IA gov.gpo.fdsys.CHRG-114hhrg95059).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Dikili Tepesi","caption":"Dikili Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikili%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389221","tip":"genel"}]
 description: "İstanbul'un Marmara Bölgesi'ndeki Dikili Tepesi, zengin tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Dikili Tepesi","İstanbul","Marmara Bölgesi","doğal güzellik","tarih","coğrafya"]

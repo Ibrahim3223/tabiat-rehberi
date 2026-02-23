@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Yılan Adası, Bozcaada","caption":"Yılan Adası, Bozcaada","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/From_Rabbit_Island_-_panoramio.jpg/960px-From_Rabbit_Island_-_panoramio.jpg","alt":"Yılan Adası, Bozcaada","caption":"Yılan Adası, Bozcaada","credit":"From Rabbit Island - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1lan%20Adas%C4%B1%2C%20Bozcaada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34787841","tip":"genel"}]
 description: "Çanakkale'de bulunan Yılan Adası, Bozcaada, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Yılan Adası","Bozcaada","Çanakkale","ada","doğal güzellik","tarih","gezi","seyahat","turizm"]

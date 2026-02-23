@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_prophet_of_the_Great_Smoky_Mountains_%28IA_prophetofgreatsm00crad%29.pdf/page1-837px-The_prophet_of_the_Great_Smoky_Mountains_%28IA_prophetofgreatsm00crad%29.pdf.jpg","alt":"Subaşı Dağı (Muş)","caption":"Subaşı Dağı (Muş)","credit":"The prophet of the Great Smoky Mountains (IA prophetofgreatsm00crad).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Subaşı Dağı (Muş)","caption":"Subaşı Dağı (Muş)","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Suba%C5%9F%C4%B1%20Da%C4%9F%C4%B1%20(Mu%C5%9F)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505984","tip":"genel"}]
 description: "Muş'un doğal güzelliklerini keşfedin, Subaşı Dağı'nda doğa ile baş başa kalın."
 keywords: ["Subaşı Dağı","Muş","Doğa","Dağ","Trekking","Kamp","Doğal Alan","Turizm","Muş Turistik Yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denize girme","Kumda güneşlenme","Tarihi yapıları gezi","Su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf/page1-854px-Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf.jpg","alt":"Altı Parmak Türbesi","caption":"Altı Parmak Türbesi","credit":"Animal disease thesaurus (IA CAT80734093005).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Altı Parmak Türbesi","caption":"Altı Parmak Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1%20Parmak%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390739","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde bulunan tarihi bir plaj alanı"
 keywords: ["Altı Parmak Türbesi","Bursa","Osmangazi","tarihi plaj","Marmara Bölgesi","deniz","kumsal","turizm"]

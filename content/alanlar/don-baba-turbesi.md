@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","doğal güzellikleri keşfetmek","bölgeye özgü lezzetleri tatmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf/page1-883px-Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf.jpg","alt":"Don Baba Türbesi","caption":"Don Baba Türbesi","credit":"Sport & travel, East and West (IA sporttraveleastw00selorich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Don Baba Türbesi","caption":"Don Baba Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Don%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582180","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerinden biri olan Don Baba Türbesi, Denizli'nin Acıpayam ilçesinde yer alıyor."
 keywords: ["Don Baba Türbesi","Denizli","Acıpayam","Ege Bölgesi","doğal güzellik","tarih","coğrafya","flora","fauna"]

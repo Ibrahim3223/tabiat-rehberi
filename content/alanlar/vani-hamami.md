@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denize girme","güneşlenme","yürüyüş","doğa yürüyüşü","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Animal_disease_thesaurus_%28IA_CAT80734093003%29.pdf/page1-900px-Animal_disease_thesaurus_%28IA_CAT80734093003%29.pdf.jpg","alt":"Vani Hamamı","caption":"Vani Hamamı","credit":"Animal disease thesaurus (IA CAT80734093003).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Vani Hamamı","caption":"Vani Hamamı","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vani%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738658","tip":"genel"}]
 description: "Marmara Bölgesi'nin en güzel plajlarından biri olan Vani Hamamı, Kestel/Bursa'da yer alır."
 keywords: ["Vani Hamamı","Kestel","Bursa","Marmara Bölgesi","plaj","deniz","turizm","gezi","seyahat"]

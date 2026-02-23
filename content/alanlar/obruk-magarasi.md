@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Doğa Yürüyüşü","Piknik","Kamp","Fotoğrafçılık","Kuş Gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Obruk Mağarası","caption":"Obruk Mağarası","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Obruk Mağarası","caption":"Obruk Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Obruk%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319621","tip":"genel"}]
 description: "Konya'da yer alan Obruk Mağarası, 1200 hektarlık bir yeşil cennet içinde, jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Obruk Mağarası","Konya","Jeopark","Mağara","Doğa","Turizm","Konya Turistik Yerler","Jeolojik Oluşumlar","Yeşil Alanlar"]

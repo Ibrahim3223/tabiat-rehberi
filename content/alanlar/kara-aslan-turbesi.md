@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Tarih Araştırması","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Curiosities_of_natural_history_%28IA_curiositiesofnat03buck%29.pdf/page1-604px-Curiosities_of_natural_history_%28IA_curiositiesofnat03buck%29.pdf.jpg","alt":"Kara Aslan Türbesi","caption":"Kara Aslan Türbesi","credit":"Curiosities of natural history (IA curiositiesofnat03buck).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Kara Aslan Türbesi","caption":"Kara Aslan Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Aslan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390718","tip":"genel"}]
 description: "Mudurnu'nun gizli cenneti, tarihi ve doğal güzelliklerin buluşma noktası."
 keywords: ["Kara Aslan Türbesi","Mudurnu","Bolu","Karadeniz Bölgesi","Türbe","Plaj","Doğa","Tarih"]

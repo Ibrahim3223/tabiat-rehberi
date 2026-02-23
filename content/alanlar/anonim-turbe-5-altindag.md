@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları ziyaret etmek","Yeşilin bol olduğu alanları keşfetmek","Şehrin panoramik manzaralarını seyretmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Commanders_Digest_1967-09-27-_Vol_3_Iss_77_%28IA_sim_commanders-digest_1967-09-27_3_77%29.pdf/page1-960px-Commanders_Digest_1967-09-27-_Vol_3_Iss_77_%28IA_sim_commanders-digest_1967-09-27_3_77%29.pdf.jpg","alt":"Anonim Türbe-5, Altındağ","caption":"Anonim Türbe-5, Altındağ","credit":"Commanders Digest 1967-09-27- Vol 3 Iss 77 (IA sim commanders-digest 1967-09-27 3 77).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Anonim Türbe-5, Altındağ","caption":"Anonim Türbe-5, Altındağ","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20T%C3%BCrbe-5%2C%20Alt%C4%B1nda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582347","tip":"genel"}]
 description: "Ankara'nın merkezinde yer alan Anonim Türbe-5, Altındağ, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Ankara","Altındağ","Anonim Türbe-5","tarih","doğa","gezi","turizm","kültür","miras"]

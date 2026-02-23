@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Deniz kıyısında dinlenme","Bölgeyi keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Terzi Ahmet Dede Türbesi","caption":"Terzi Ahmet Dede Türbesi","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Terzi Ahmet Dede Türbesi","caption":"Terzi Ahmet Dede Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Terzi%20Ahmet%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390921","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan tarihi bir türbe ve plajı"
 keywords: ["Terzi Ahmet Dede Türbesi","Manisa","Şehzadeler","Türbe","Plaj","Ege Bölgesi","Tarihi mekanlar","Deniz kıyısı"]

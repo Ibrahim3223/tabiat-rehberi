@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Examiner_1839-12-15-_Iss_1663_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1839-12-15_1663%29.pdf/page1-960px-The_Examiner_1839-12-15-_Iss_1663_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1839-12-15_1663%29.pdf.jpg","alt":"Adana-Kadirli Kızılçam 4","caption":"Adana-Kadirli Kızılçam 4","credit":"The Examiner 1839-12-15- Iss 1663 (IA sim examiner-a-weekly-paper-on-politics-literature-music 1839-12-15 1663).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Adana-Kadirli Kızılçam 4","caption":"Adana-Kadirli Kızılçam 4","credit":"MC Siedleragame","license":"CC BY 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227831","tip":"genel"}]
 description: "Adana'nın güzide doğa alanlarından biri olan Adana-Kadirli Kızılçam 4, doğal güzelliği ve zengin florası ile dikkat çekiyor."
 keywords: ["Adana","Kadirli","Kızılçam","milli park","doğa","flora","fauna","turizm","gezi"]

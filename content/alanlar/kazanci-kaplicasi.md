@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","termal su tedavisi","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_hot_springs_of_Arkansas%2C_as_they_are_-_a_history_and_guide_%28IA_64040760R.nlm.nih.gov%29.pdf/page1-829px-The_hot_springs_of_Arkansas%2C_as_they_are_-_a_history_and_guide_%28IA_64040760R.nlm.nih.gov%29.pdf.jpg","alt":"Kazancı Kaplıcası","caption":"Kazancı Kaplıcası","credit":"The hot springs of Arkansas, as they are - a history and guide (IA 64040760R.nlm.nih.gov).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/It%27s_an_extensive_ruin%2C_nearly_1.7_km_long_%2816309025721%29.jpg/960px-It%27s_an_extensive_ruin%2C_nearly_1.7_km_long_%2816309025721%29.jpg","alt":"Kazancı Kaplıcası","caption":"Kazancı Kaplıcası","credit":"It's an extensive ruin, nearly 1.7 km long (16309025721)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazanc%C4%B1%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741944","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinelerinden biri olan Kazancı Kaplıcası, 140 hektarlık yeşil alanı ve termal kaynakları ile ziyaretçilerini bekliyor."
 keywords: ["Kazancı Kaplıcası","Çankırı","İç Anadolu Bölgesi","termal kaynak","kaplıca","doğal güzellik","gezi","turizm"]

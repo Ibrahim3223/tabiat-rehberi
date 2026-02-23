@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Through_the_heart_of_Asia-_over_the_Pamir_to_India_%28IA_throughheartofas01bonv%29.pdf/page1-920px-Through_the_heart_of_Asia-_over_the_Pamir_to_India_%28IA_throughheartofas01bonv%29.pdf.jpg","alt":"Ambarlı Tepesi","caption":"Ambarlı Tepesi","credit":"Through the heart of Asia- over the Pamir to India (IA throughheartofas01bonv).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Ambarlı Tepesi","caption":"Ambarlı Tepesi","credit":"Armenia, Travels and Studies, Vol. 1","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ambarl%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389902","tip":"genel"}]
 description: "Samsun'un Karadeniz kıyılarında yer alan Ambarlı Tepesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini çekiyor."
 keywords: ["Ambarlı Tepesi","Samsun","Karadeniz","tepe","doğa","gezi","turizm","Samsun turizm"]

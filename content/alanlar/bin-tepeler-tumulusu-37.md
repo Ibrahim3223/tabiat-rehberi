@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denize girme","Doga yürüyüşleri","Tarihi yerleri keşfetme","Restoranlarda yemek yeme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 37","caption":"Bin Tepeler Tümülüsü 37","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 37","caption":"Bin Tepeler Tümülüsü 37","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2037","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728342","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli hazinesi Bin Tepeler Tümülüsü 37, tarih ve doğanın birleştiği özel bir yer."
 keywords: ["Bin Tepeler","Tümülüs","Ege Bölgesi","Salihli","Manisa","tarih","doğa","gezi","keşif"]

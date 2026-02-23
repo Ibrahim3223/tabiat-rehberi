@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Türbe ve plajı gezmek","Doğal güzellikleri keşfetmek","Yerel lezzetleri tatmak","Ekolojik yürüyüşler yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Seyyid Ahmed Cağırgan Veli Türbesi","caption":"Seyyid Ahmed Cağırgan Veli Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Seyyid Ahmed Cağırgan Veli Türbesi","caption":"Seyyid Ahmed Cağırgan Veli Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Ahmed%20Ca%C4%9F%C4%B1rgan%C2%A0Veli%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582715","tip":"genel"}]
 description: "Giresun'un Alucra ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Seyyid Ahmed Cağırgan Veli","Türbe","Alucra","Giresun","Karadeniz Bölgesi","Plaj","Tarih","Doğal Alan"]

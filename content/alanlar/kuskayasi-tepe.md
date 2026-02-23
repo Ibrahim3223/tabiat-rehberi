@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî kalıntıları keşfetmek","Doğa yürüyüşleri","Fotografçılık","Çevre gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/India%2C_pictorial_and_descriptive_%28IA_indiapictorialde00adamrich%29.pdf/page1-960px-India%2C_pictorial_and_descriptive_%28IA_indiapictorialde00adamrich%29.pdf.jpg","alt":"Kuşkayası Tepe","caption":"Kuşkayası Tepe","credit":"India, pictorial and descriptive (IA indiapictorialde00adamrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Kuşkayası Tepe","caption":"Kuşkayası Tepe","credit":"Armenia, Travels and Studies, Vol. 1","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fkayas%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391152","tip":"genel"}]
 description: "Sivas'ta bulunan tarihi ve doğal güzelliklerin birleştiği özel bir alan."
 keywords: ["Kuşkayası Tepe","Sivas","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür"]

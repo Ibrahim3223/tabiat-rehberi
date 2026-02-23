@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Türbe ziyaretleri","Plaj aktivitelerı","Doğa yürüyüşleri","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/The_Victorian_naturalist_%28IA_victoriannatu86101969luca%29.pdf/page1-806px-The_Victorian_naturalist_%28IA_victoriannatu86101969luca%29.pdf.jpg","alt":"Şeyh Muhammed Halid-i Zilan Türbesi","caption":"Şeyh Muhammed Halid-i Zilan Türbesi","credit":"The Victorian naturalist (IA victoriannatu86101969luca).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/The_Boy_Travellers_in_Australasia.djvu/page1-800px-The_Boy_Travellers_in_Australasia.djvu.jpg","alt":"Şeyh Muhammed Halid-i Zilan Türbesi","caption":"Şeyh Muhammed Halid-i Zilan Türbesi","credit":"The Boy Travellers in Australasia","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhammed%20Halid-i%20Zilan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390693","tip":"genel"}]
 description: "Beşiri, Batman'da bulunan tarihi türbe ve plaj alanı"
 keywords: ["Şeyh Muhammed Halid-i Zilan Türbesi","Beşiri","Batman","tarih","türbe","plaj","Güneydoğu Anadolu Bölgesi"]

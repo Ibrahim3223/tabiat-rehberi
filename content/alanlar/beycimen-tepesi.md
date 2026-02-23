@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","dağcılık","kuş gözlemi","fotoğrafçılık","çadır kurma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Beyçimen Tepesi","caption":"Beyçimen Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Beyçimen Tepesi","caption":"Beyçimen Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bey%C3%A7imen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139562","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan Beyçimen Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için bir cazibe merkezi."
 keywords: ["Beyçimen Tepesi","Erzurum","Doğu Anadolu Bölgesi","coğrafi nokta","doğal güzellik","turizm","gezi","keşif","dağcılık","doğa yürüyüşü"]

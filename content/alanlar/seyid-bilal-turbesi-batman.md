@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Bölgenin doğal güzelliklerini keşfetmek","Yerel halkla iletişime geçmek","Tarihi ve kültürel bilgileri öğrenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/At_Suvla_Bay%3B_%28IA_atsuvlabay00hargrich%29.pdf/page1-806px-At_Suvla_Bay%3B_%28IA_atsuvlabay00hargrich%29.pdf.jpg","alt":"Seyid Bilal Türbesi, Batman","caption":"Seyid Bilal Türbesi, Batman","credit":"At Suvla Bay; (IA atsuvlabay00hargrich).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Seyid Bilal Türbesi, Batman","caption":"Seyid Bilal Türbesi, Batman","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyid%20Bilal%20T%C3%BCrbesi%2C%20Batman","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582876","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Seyid Bilal Türbesi, Batman'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon."
 keywords: ["Seyid Bilal Türbesi","Batman","Güneydoğu Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","türk kültür mirası","dinî tesisler","coğrafi özellikler"]

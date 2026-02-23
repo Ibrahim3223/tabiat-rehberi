@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wle-jury-report-2023-lores.pdf/page1-960px-Wle-jury-report-2023-lores.pdf.jpg","alt":"Paşaçukuru Şelalesi","caption":"Paşaçukuru Şelalesi","credit":"Wle-jury-report-2023-lores.pdf","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kursunlu_Waterfall_Nature_Park.jpg/960px-Kursunlu_Waterfall_Nature_Park.jpg","alt":"Paşaçukuru Şelalesi","caption":"Paşaçukuru Şelalesi","credit":"Kursunlu Waterfall Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pa%C5%9Fa%C3%A7ukuru%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130366878","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde, Rize'nin güzide yerlerinden biri olan Paşaçukuru Şelalesi, doğal güzelliği ile dikkat çekiyor"
 keywords: ["Rize","Karadeniz Bölgesi","Paşaçukuru Şelalesi","doğal güzellik","şelale","turizm","gezi","yürüyüş"]

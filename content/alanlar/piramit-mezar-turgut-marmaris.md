@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Proceedings_of_the_Symposium_on_the_Environmental_Consequences_of_Fire_and_Fuel_Management_in_Mediterranean_Ecosystems_-_August_1-5%2C_1977%2C_Palo_Alto%2C_California._-_%28IA_CAT78696401%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Piramit Mezar-Turgut, Marmaris","caption":"Piramit Mezar-Turgut, Marmaris","credit":"Proceedings of the Symposium on the Environmental Consequences of Fire and Fuel Management in Mediterranean Ecosystems - August 1-5, 1977, Palo Alto, California. - (IA CAT78696401).pdf","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Piramit Mezar-Turgut, Marmaris","caption":"Piramit Mezar-Turgut, Marmaris","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Piramit%20Mezar-Turgut%2C%20Marmaris","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728112","tip":"genel"}]
 description: "Marmaris'in gizli cenneti, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Piramit Mezar","Turgut","Marmaris","Muğla","Ege Bölgesi","plaj","deniz","doğa","tarih"]
