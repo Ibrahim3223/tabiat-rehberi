@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["müzik dinleme","müzik eğitimi","müzik tarihi hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Early_western_travels%2C_1748-1846_%281907_Volume_22%29.djvu/page1-800px-Early_western_travels%2C_1748-1846_%281907_Volume_22%29.djvu.jpg","alt":"Musiki Muallim Mektebi Müzik Müzesi","caption":"Musiki Muallim Mektebi Müzik Müzesi","credit":"Early western travels, 1748-1846 (1907 Volume 22)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Musiki Muallim Mektebi Müzik Müzesi","caption":"Musiki Muallim Mektebi Müzik Müzesi","credit":"A Geological Wonder in Nallıhan","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Musiki%20Muallim%20Mektebi%20M%C3%BCzik%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133825478","tip":"genel"}]
 description: "Ankara'nın Mamak ilçesinde bulunan müzik müzesi, müzikseverler için önemli bir merkez"
 keywords: ["müzik müzesi","Ankara","Mamak","müzik eğitimi","müzik tarihi","müze","Anadolu","İç Anadolu Bölgesi"]

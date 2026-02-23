@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Ayranbayır Tepesi","caption":"Ayranbayır Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Ayranbayır Tepesi","caption":"Ayranbayır Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayranbay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388814","tip":"genel"}]
 description: "Tekirdağ'ın önemli doğal güzelliklerinden biri olan Ayranbayır Tepesi, Marmara Bölgesi'nde yer alır."
 keywords: ["Ayranbayır Tepesi","Tekirdağ","Marmara Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

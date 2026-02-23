@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Notes_and_Queries_-_Series_10_-_Volume_12.djvu/page1-800px-Notes_and_Queries_-_Series_10_-_Volume_12.djvu.jpg","alt":"Akpınar Tepesi","caption":"Akpınar Tepesi","credit":"Notes and Queries - Series 10 - Volume 12","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Akpınar Tepesi","caption":"Akpınar Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akp%C4%B1nar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386078","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Akpınar Tepesi, ziyaretçilerini büyüleyen bir manzaraya sahiptir"
 keywords: ["Akpınar Tepesi","Doğu Anadolu Bölgesi","Ağrı","tepe","doğa","gezi","manzara"]

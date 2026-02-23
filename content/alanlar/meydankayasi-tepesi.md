@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara seyretme","Fotoğrafçılık","Piknik","Yürüyüş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Meydankayası Tepesi","caption":"Meydankayası Tepesi","credit":"Armenia, Travels and Studies, Vol. 1.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Meydankayası Tepesi","caption":"Meydankayası Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Meydankayas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389908","tip":"genel"}]
 description: "Samsun'un yeşil alanlarından biri olan Meydankayası Tepesi, 140 hektarlık bir alan üzerinde kurulmuştur. Bu tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir."
 keywords: ["Meydankayası Tepesi","Samsun","Karadeniz Bölgesi","yeşil alan","tepe","doğa","gezi","turizm"]

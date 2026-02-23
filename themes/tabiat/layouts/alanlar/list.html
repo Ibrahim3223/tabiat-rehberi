@@ -71,7 +71,7 @@
                             <option value="magara">Mağara</option>
                             <option value="milli-park">Milli Park</option>
                             <option value="tabiat-parki">Tabiat Parkı</option>
-                            <option value="selale">Şelale</option>
+                            <option value="selalesi">Şelale</option>
                             <option value="plaj">Plaj</option>
                             <option value="sulak-alan">Sulak Alan</option>
                             <option value="tabiat-aniti">Tabiat Anıtı</option>
@@ -108,159 +108,164 @@
                 <!-- Sonuç Sayısı -->
                 <div id="filterResults" class="filter-results">
                     <i data-lucide="info"></i>
-                    <span id="resultCount">{{ len (where .Site.RegularPages "Type" "alan") }}</span> alan bulundu
+                    <span id="resultCount">Yükleniyor...</span>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Areas Grid -->
+    <!-- Areas Grid (JS-driven) -->
     <div class="explore-content">
         <div class="container">
-            {{ $areas := where .Site.RegularPages "Type" "alan" }}
-            {{ $paginator := .Paginate $areas }}
-
             <div id="areasGrid" class="areas-grid">
-                {{ range $paginator.Pages }}
-                <a href="{{ .Permalink }}"
-                   class="area-card"
-                   data-province="{{ .Params.il }}"
-                   data-type="{{ .Params.alan_turu }}"
-                   data-name="{{ .Title }}">
-                    {{ if .Params.images.hero.url }}
-                    <div class="area-card-image">
-                        <img src="{{ .Params.images.hero.url }}" alt="{{ .Title }}" loading="lazy">
-                        <div class="area-card-overlay">
-                            <span class="area-card-type">
-                                {{ .Params.alan_turu | humanize }}
-                            </span>
-                        </div>
-                    </div>
-                    {{ else }}
-                    <div class="area-card-image area-card-placeholder">
-                        <i data-lucide="image" style="width: 48px; height: 48px;"></i>
-                    </div>
-                    {{ end }}
-                    <div class="area-card-content">
-                        <h3 class="area-card-title">{{ .Title }}</h3>
-                        <p class="area-card-location">
-                            <i data-lucide="map-pin"></i>
-                            {{ .Params.il }}{{ if .Params.ilce }}, {{ .Params.ilce }}{{ end }}
-                        </p>
-                        {{ if .Description }}
-                        <p class="area-card-desc">{{ .Description | truncate 100 }}</p>
-                        {{ end }}
-                    </div>
-                </a>
-                {{ end }}
+                <div id="loadingState" style="grid-column:1/-1;text-align:center;padding:3rem;color:#666;">
+                    <i data-lucide="loader" style="width:32px;height:32px;"></i>
+                    <p>Alanlar yükleniyor...</p>
+                </div>
             </div>
 
-            <!-- Pagination -->
-            {{ if gt $paginator.TotalPages 1 }}
-            <nav class="pagination">
-                {{ if $paginator.HasPrev }}
-                <a href="{{ $paginator.Prev.URL }}" class="pagination-btn pagination-prev">
-                    <i data-lucide="chevron-left"></i>
-                    <span>Önceki</span>
-                </a>
-                {{ end }}
-
-                <div class="pagination-numbers">
-                    {{ $currentPage := $paginator.PageNumber }}
-                    {{ $totalPages := $paginator.TotalPages }}
-
-                    {{/* İlk sayfa */}}
-                    {{ if gt $currentPage 3 }}
-                        <a href="{{ $paginator.First.URL }}" class="pagination-number">1</a>
-                        {{ if gt $currentPage 4 }}
-                            <span class="pagination-ellipsis">...</span>
-                        {{ end }}
-                    {{ end }}
-
-                    {{/* Mevcut sayfanın çevresindeki sayfalar */}}
-                    {{ range $paginator.Pagers }}
-                        {{ if and (ge .PageNumber (sub $currentPage 2)) (le .PageNumber (add $currentPage 2)) }}
-                            <a href="{{ .URL }}" class="pagination-number {{ if eq .PageNumber $currentPage }}active{{ end }}">
-                                {{ .PageNumber }}
-                            </a>
-                        {{ end }}
-                    {{ end }}
-
-                    {{/* Son sayfa */}}
-                    {{ if lt $currentPage (sub $totalPages 2) }}
-                        {{ if lt $currentPage (sub $totalPages 3) }}
-                            <span class="pagination-ellipsis">...</span>
-                        {{ end }}
-                        <a href="{{ $paginator.Last.URL }}" class="pagination-number">{{ $totalPages }}</a>
-                    {{ end }}
-                </div>
-
-                {{ if $paginator.HasNext }}
-                <a href="{{ $paginator.Next.URL }}" class="pagination-btn pagination-next">
-                    <span>Sonraki</span>
-                    <i data-lucide="chevron-right"></i>
-                </a>
-                {{ end }}
-            </nav>
-            {{ end }}
+            <!-- JS Pagination -->
+            <nav id="jsPagination" class="pagination" style="display:none;"></nav>
         </div>
     </div>
 </div>
 
-<!-- Filter Script -->
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    const provinceFilter = document.getElementById('provinceFilter');
-    const typeFilter = document.getElementById('typeFilter');
-    const searchFilter = document.getElementById('searchFilter');
-    const clearBtn = document.getElementById('clearFilters');
-    const cards = document.querySelectorAll('.area-card');
-    const resultCount = document.getElementById('resultCount');
+(function() {
+    'use strict';
 
-    function normalizeText(text) {
-        const turkishMap = {
-            'ç': 'c', 'ğ': 'g', 'ı': 'i', 'ö': 'o', 'ş': 's', 'ü': 'u',
-            'Ç': 'c', 'Ğ': 'g', 'İ': 'i', 'Ö': 'o', 'Ş': 's', 'Ü': 'u'
-        };
-        return text.toLowerCase().split('').map(char => turkishMap[char] || char).join('');
+    const PER_PAGE = 24;
+    let allAreas   = [];
+    let filtered   = [];
+    let currentPage = 1;
+
+    const grid       = document.getElementById('areasGrid');
+    const pagination = document.getElementById('jsPagination');
+    const countEl    = document.getElementById('resultCount');
+    const loading    = document.getElementById('loadingState');
+
+    const provSel    = document.getElementById('provinceFilter');
+    const typeSel    = document.getElementById('typeFilter');
+    const searchInp  = document.getElementById('searchFilter');
+    const clearBtn   = document.getElementById('clearFilters');
+
+    // Turkish text normalisation
+    const TR = {'ç':'c','ğ':'g','ı':'i','ö':'o','ş':'s','ü':'u','Ç':'c','Ğ':'g','İ':'i','Ö':'o','Ş':'s','Ü':'u'};
+    function norm(s){ return (s||'').toLowerCase().replace(/[çğışöüÇĞİŞÖÜ]/g, c => TR[c]||c); }
+
+    // Type label map
+    const TYPE_LABELS = {
+        'ada':'Ada','dag':'Dağ','gol':'Göl','kanyon':'Kanyon','magara':'Mağara',
+        'milli-park':'Milli Park','tabiat-parki':'Tabiat Parkı','selalesi':'Şelale',
+        'plaj':'Plaj','sulak-alan':'Sulak Alan','tabiat-aniti':'Tabiat Anıtı',
+        'jeopark':'Jeopark','botanik-bahcesi':'Botanik Bahçesi','kayak-merkezi':'Kayak Merkezi',
+        'kus-cenneti':'Kuş Cenneti','orman':'Orman','tepe':'Tepe',
+        'termal-kaynak':'Termal Kaynak','vadi':'Vadi','yayla':'Yayla'
+    };
+
+    function buildCard(a) {
+        const typeLabel = TYPE_LABELS[a.type] || a.type || 'Doğal Alan';
+        const imgHtml = a.image
+            ? `<div class="area-card-image"><img src="${a.image}" alt="${escHtml(a.title)}" loading="lazy"><div class="area-card-overlay"><span class="area-card-type">${escHtml(typeLabel)}</span></div></div>`
+            : `<div class="area-card-image area-card-placeholder"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg></div>`;
+        const loc = a.province + (a.district ? ', ' + a.district : '');
+        const desc = a.description ? `<p class="area-card-desc">${escHtml(a.description.substring(0,100))}</p>` : '';
+        return `<a href="${a.url}" class="area-card">${imgHtml}<div class="area-card-content"><h3 class="area-card-title">${escHtml(a.title)}</h3><p class="area-card-location"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>${escHtml(loc)}</p>${desc}</div></a>`;
+    }
+
+    function escHtml(s){
+        return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
     }
 
     function applyFilters() {
-        const province = provinceFilter.value;
-        const type = typeFilter.value;
-        const search = normalizeText(searchFilter.value);
-        let visibleCount = 0;
+        const prov   = provSel.value;
+        const type   = typeSel.value;
+        const search = norm(searchInp.value.trim());
 
-        cards.forEach(card => {
-            const cardProvince = card.dataset.province || '';
-            const cardType = card.dataset.type || '';
-            const cardName = normalizeText(card.dataset.name || '');
-
-            const matchProvince = !province || cardProvince === province;
-            const matchType = !type || cardType === type;
-            const matchSearch = !search || cardName.includes(search);
-
-            if (matchProvince && matchType && matchSearch) {
-                card.style.display = '';
-                visibleCount++;
-            } else {
-                card.style.display = 'none';
-            }
+        filtered = allAreas.filter(a => {
+            if (prov   && a.province !== prov) return false;
+            if (type   && a.type     !== type)  return false;
+            if (search && !norm(a.title).includes(search)) return false;
+            return true;
         });
 
-        resultCount.textContent = visibleCount;
+        currentPage = 1;
+        render();
     }
 
-    provinceFilter.addEventListener('change', applyFilters);
-    typeFilter.addEventListener('change', applyFilters);
-    searchFilter.addEventListener('input', applyFilters);
+    function render() {
+        const total = filtered.length;
+        const totalPages = Math.ceil(total / PER_PAGE);
+        const start = (currentPage - 1) * PER_PAGE;
+        const pageItems = filtered.slice(start, start + PER_PAGE);
 
-    clearBtn.addEventListener('click', function() {
-        provinceFilter.value = '';
-        typeFilter.value = '';
-        searchFilter.value = '';
+        // Cards
+        grid.innerHTML = pageItems.length
+            ? pageItems.map(buildCard).join('')
+            : '<p style="grid-column:1/-1;text-align:center;padding:3rem;color:#666;">Sonuç bulunamadı.</p>';
+
+        // Count
+        countEl.textContent = total + ' alan bulundu';
+
+        // Pagination
+        if (totalPages <= 1) { pagination.style.display = 'none'; return; }
+        pagination.style.display = 'flex';
+        let html = '';
+
+        if (currentPage > 1) html += `<button class="pagination-btn pagination-prev" data-p="${currentPage-1}"><span>Önceki</span></button>`;
+
+        const delta = 2;
+        const left  = currentPage - delta;
+        const right = currentPage + delta;
+
+        if (left > 2) html += `<button class="pagination-number" data-p="1">1</button><span class="pagination-ellipsis">…</span>`;
+        else if (left === 2) html += `<button class="pagination-number" data-p="1">1</button>`;
+
+        for (let p = Math.max(1, left); p <= Math.min(totalPages, right); p++) {
+            html += `<button class="pagination-number${p===currentPage?' active':''}" data-p="${p}">${p}</button>`;
+        }
+
+        if (right < totalPages - 1) html += `<span class="pagination-ellipsis">…</span><button class="pagination-number" data-p="${totalPages}">${totalPages}</button>`;
+        else if (right === totalPages - 1) html += `<button class="pagination-number" data-p="${totalPages}">${totalPages}</button>`;
+
+        if (currentPage < totalPages) html += `<button class="pagination-btn pagination-next" data-p="${currentPage+1}"><span>Sonraki</span></button>`;
+
+        pagination.innerHTML = html;
+        pagination.querySelectorAll('[data-p]').forEach(btn => {
+            btn.addEventListener('click', () => {
+                currentPage = parseInt(btn.dataset.p);
+                render();
+                window.scrollTo({ top: grid.offsetTop - 80, behavior: 'smooth' });
+            });
+        });
+
+        // Re-init lucide icons if available
+        if (window.lucide) lucide.createIcons();
+    }
+
+    // Fetch JSON index
+    fetch('/index.json')
+        .then(r => r.json())
+        .then(data => {
+            allAreas = data;
+            filtered = data;
+            loading.remove();
+            render();
+        })
+        .catch(() => {
+            loading.innerHTML = '<p style="color:#c00;">Alanlar yüklenemedi. Lütfen sayfayı yenileyin.</p>';
+        });
+
+    // Events
+    provSel.addEventListener('change', applyFilters);
+    typeSel.addEventListener('change', applyFilters);
+    searchInp.addEventListener('input', applyFilters);
+    clearBtn.addEventListener('click', () => {
+        provSel.value = '';
+        typeSel.value = '';
+        searchInp.value = '';
         applyFilters();
     });
-});
+})();
 </script>
 {{ end }}

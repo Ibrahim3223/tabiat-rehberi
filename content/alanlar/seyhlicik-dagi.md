@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Şeyhlicik Dağı","caption":"Şeyhlicik Dağı","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Şeyhlicik Dağı","caption":"Şeyhlicik Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhlicik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385463","tip":"genel"}]
 description: "Bitlis'in doğal güzelliklerini keşfedin, Şeyhlicik Dağı'nda doğa ile baş başa kalın."
 keywords: ["Şeyhlicik Dağı","Bitlis","Dağ","Doğa","Turizm","Gezi","Bitlis Gezilecek Yerler","Dağcılık","Doğa Sporları"]

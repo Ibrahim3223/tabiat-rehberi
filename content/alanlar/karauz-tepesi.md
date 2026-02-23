@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Karauz Tepesi","caption":"Karauz Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karauz Tepesi","caption":"Karauz Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karauz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581996","tip":"genel"}]
 description: "Çorum'un Karadeniz Bölgesi'nde yer alan Karauz Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan büyüleyici bir doğa harikasıdır."
 keywords: ["Karauz Tepesi","Çorum","Karadeniz Bölgesi","doğa harikası","tepe","gezi","yaban hayatı","ekoloji"]

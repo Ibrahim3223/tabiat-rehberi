@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Hastahane Tepesi","caption":"Hastahane Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Hastahane Tepesi","caption":"Hastahane Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hastahane%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386459","tip":"genel"}]
 description: "Hatay'da bulunan Hastahane Tepesi, Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biridir."
 keywords: ["Hastahane Tepesi","Hatay","Akdeniz Bölgesi","coğrafi oluşum","tepe","doğa","gezi","turizm"]

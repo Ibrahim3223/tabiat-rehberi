@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografi","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lands_of_the_Saracen_1859.djvu/page1-800px-Lands_of_the_Saracen_1859.djvu.jpg","alt":"Yılanlı Tepesi","caption":"Yılanlı Tepesi","credit":"Lands of the Saracen 1859","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Yılanlı Tepesi","caption":"Yılanlı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1lanl%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390276","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerinden biri olan Yılanlı Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Yılanlı Tepesi","Adana","Akdeniz Bölgesi","doğa","tepe","gezi","tarihçe","coğrafya"]

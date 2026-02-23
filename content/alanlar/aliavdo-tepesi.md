@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Aliavdo Tepesi","caption":"Aliavdo Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Aliavdo Tepesi","caption":"Aliavdo Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aliavdo%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554053","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan Aliavdo Tepesi,Batman'ın doğal güzelliklerini keşfetmek isteyenler için bir destinasyon."
 keywords: ["Aliavdo Tepesi","Batman","Güneydoğu Anadolu Bölgesi","coğrafi oluşum","doğal güzellik","tepe","gezi","turizm"]

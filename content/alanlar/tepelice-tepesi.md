@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarihi eserleri ziyaret","Kültürel mirası keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Tepelice Tepesi","caption":"Tepelice Tepesi","credit":"Armenia, Travels and Studies, Vol. 1","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Tepelice Tepesi","caption":"Tepelice Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepelice%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389906","tip":"genel"}]
 description: "Samsun'un Karadeniz Bölgesi'nde yer alan Tepelice Tepesi, bölgenin önemli coğrafi oluşumlarından biri olarak dikkat çekiyor."
 keywords: ["Tepelice Tepesi","Samsun","Karadeniz Bölgesi","coğrafi oluşum","doğa","gezi","turizm","Samsun turizm","Karadeniz Bölgesi turizm","Tepelice Tepesi gezisi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","çayır ve mera gezisi","tarihi yapı gezisi","geleneksel yaşam tarzı gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Bozarmut Tepesi","caption":"Bozarmut Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bozarmut Tepesi","caption":"Bozarmut Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozarmut%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390546","tip":"genel"}]
 description: "Niğde'nin doğal güzelliklerini keşfedin, Bozarmut Tepesi'ne çıkın ve bölgenin tarihi geçmişi hakkında bilgi edinin."
 keywords: ["Niğde","Bozarmut Tepesi","doğa","gezi","tarih","coğrafya","flora","fauna","ziyaret"]

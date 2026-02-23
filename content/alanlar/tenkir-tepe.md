@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Tenkir Tepe","caption":"Tenkir Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Tenkir Tepe","caption":"Tenkir Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tenkir%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391283","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği Tenkir Tepe, doğa severler için bir cennet"
 keywords: ["Tenkir Tepe","İç Anadolu Bölgesi","Doğa","Tarih","Coğrafya","Flora","Fauna","Ziyaret","Gezi"]

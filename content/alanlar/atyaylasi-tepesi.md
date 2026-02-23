@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Atyaylası Tepesi","caption":"Atyaylası Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Atyaylası Tepesi","caption":"Atyaylası Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atyaylas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571319","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin görkemli tepelerinden biri olan Atyaylası Tepesi, Zonguldak'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Atyaylası Tepesi","Zonguldak","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","çevre","ekoloji"]

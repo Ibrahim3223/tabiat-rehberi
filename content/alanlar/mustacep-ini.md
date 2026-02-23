@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Familiar_lessons_on_mineralogy_and_geology_To_which_is_added_a_practical_description_of_the_use_of_the_lapidary%27s_apparatus_Explaining_the_methods_of_slitting_and_polishing_pebbles.djvu/page1-800px-thumbnail.djvu.jpg","alt":"Mustacep İni","caption":"Mustacep İni","credit":"Familiar lessons on mineralogy and geology To which is added a practical description of the use of the lapidary's apparatus Explaining the methods of slitting and polishing pebbles","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Mustacep İni","caption":"Mustacep İni","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustacep%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319604","tip":"genel"}]
 description: "Mersin'de yer alan Mustacep İni, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzelliği ve jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Mustacep İni","Mersin","Jeopark","Doğal Alan","Turizm","Mersin Gezilecek Yerler","Jeolojik Oluşumlar","Doğa Sporları","Mersin Turistik Yerler"]

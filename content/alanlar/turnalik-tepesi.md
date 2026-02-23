@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa Yürüyüşü","Manzara Seyri","Fotoğrafçılık","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Turnalık Tepesi","caption":"Turnalık Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Turnalık Tepesi","caption":"Turnalık Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turnal%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390706","tip":"genel"}]
 description: "Tokat'ın doğal güzelliklerini keşfedin, Turnalık Tepesi'nin benzersiz manzaraları"
 keywords: ["Turnalık Tepesi","Tokat","Karadeniz Bölgesi","doğa","tepe","manzara","gezi","turizm","yerel"]

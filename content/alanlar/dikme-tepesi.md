@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih turu","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Dikme Tepesi","caption":"Dikme Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Dikme Tepesi","caption":"Dikme Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikme%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389185","tip":"genel"}]
 description: "Sivas'ın doğal güzelliklerini keşfedin, Dikme Tepesi'ni ziyaret edin"
 keywords: ["Dikme Tepesi","Sivas","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

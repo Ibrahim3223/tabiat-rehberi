@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Küçükkaya Tepesi","caption":"Küçükkaya Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Küçükkaya Tepesi","caption":"Küçükkaya Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211011","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan Küçükkaya Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çeker."
 keywords: ["Küçükkaya Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","tepe","dağ","coğrafya","flora","fauna"]

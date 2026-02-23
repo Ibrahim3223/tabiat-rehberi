@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "7-10 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Tucak Dağı","caption":"Tucak Dağı","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Tucak Dağı","caption":"Tucak Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tucak%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504279","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Tucak Dağı, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Tucak Dağı","Türkiye Dağları","Doğa Yürüyüşü","Dağcılık","Türkiye Turizm","Yaban Hayatı","Coğrafya","Dağ Keşfi","Trekking"]

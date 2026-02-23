@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Başyurd","caption":"Başyurd","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Başyurd","caption":"Başyurd","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C5%9Fyurd%20(Ardahan)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21696023","tip":"genel"}]
 description: "Ardahan'da bulunan Başyurd Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Başyurd","Ardahan","Dağ","Doğa","Trekking","Turizm","Ardahan Gezi","Doğal Alanlar","Dağcılık"]

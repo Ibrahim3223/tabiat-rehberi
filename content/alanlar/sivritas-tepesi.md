@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Sivritaş Tepesi","caption":"Sivritaş Tepesi","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Sivritaş Tepesi","caption":"Sivritaş Tepesi","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sivrita%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31592267","tip":"genel"}]
 description: "Türkiye'nin görkemli dağlarından biri olan Sivritaş Tepesi, doğal güzelliği ile dikkat çekiyor."
 keywords: ["Sivritaş Tepesi","Türkiye Dağları","Doğal Güzellik","Türkiye Turizm","Dağcılık","Doğa Yürüyüşü","Türkiye'nin Görkemli Yerleri","Sivritaş Tepesi Gezisi","Türkiye'de Görülmesi Gereken Yerler"]

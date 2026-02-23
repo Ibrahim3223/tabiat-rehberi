@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Aydaş Tepesi","caption":"Aydaş Tepesi","credit":"Armenia, Travels and Studies, Vol. 1.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Aydaş Tepesi","caption":"Aydaş Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayda%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389912","tip":"genel"}]
 description: "Samsun'un Karadeniz Bölgesi'nde bulunan Aydaş Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Aydaş Tepesi","Samsun","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","yeşil alan"]

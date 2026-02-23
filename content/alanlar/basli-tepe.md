@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Başlı Tepe","caption":"Başlı Tepe","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Başlı Tepe","caption":"Başlı Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C5%9Fl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389079","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli güzelliği, Bingöl'de yer alan Başlı Tepe"
 keywords: ["Başlı Tepe","Bingöl","Doğu Anadolu Bölgesi","tepe","coğrafya","tarihçe","flora","fauna","ziyaret"]

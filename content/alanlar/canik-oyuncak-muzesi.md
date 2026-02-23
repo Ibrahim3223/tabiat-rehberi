@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["oyuncak koleksiyonu gezi","interaktif oyunlar","eğitici etkinlikler","yürüyüş ve doğa gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Canik Oyuncak Müzesi","caption":"Canik Oyuncak Müzesi","credit":"Armenia, Travels and Studies, Vol. 1.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Canik Oyuncak Müzesi","caption":"Canik Oyuncak Müzesi","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canik%20Oyuncak%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q56440315","tip":"genel"}]
 description: "Samsun'un Canik ilçesinde bulunan, 140 hektarlık yeşil alan içerisinde yer alan oyuncak müzesi"
 keywords: ["oyuncak","müze","Samsun","Canik","oyuncak koleksiyonu","çocuk müzesi","eğitim","eğlence","aile"]

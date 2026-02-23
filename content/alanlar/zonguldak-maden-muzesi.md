@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu/page1-800px-The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu.jpg","alt":"Zonguldak Maden Müzesi","caption":"Zonguldak Maden Müzesi","credit":"The War Illustrated Album De Luxe; the Story of the Great European War Told by Camera, Pen and Pencil, 1917 (volume VII) - The Autumn Campaign of 1916","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Zonguldak Maden Müzesi","caption":"Zonguldak Maden Müzesi","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak%20Maden%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118958363","tip":"genel"}]
 description: "Karadeniz Bölgesi'ndeki Zonguldak ilinde yer alan Zonguldak Maden Müzesi, madencilik tarihini ve bölgenin doğal zenginliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Zonguldak","Maden Müzesi","Karadeniz Bölgesi","madencilik","tarih","doğa","müze","gezi","turizm"]

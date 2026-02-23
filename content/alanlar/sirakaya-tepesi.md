@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Sırakaya Tepesi","caption":"Sırakaya Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Sırakaya Tepesi","caption":"Sırakaya Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1rakaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31533991","tip":"genel"}]
 description: "Hakkari'nin doğal güzelliklerini keşfedin, Sırakaya Tepesi'ne doğru bir yolculuğa çıkın"
 keywords: ["Hakkari","Doğu Anadolu Bölgesi","Sırakaya Tepesi","tepe","doğa","gezi","yolculuk"]

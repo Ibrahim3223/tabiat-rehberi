@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Aktaşerenleri Tepesi","caption":"Aktaşerenleri Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Aktaşerenleri Tepesi","caption":"Aktaşerenleri Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akta%C5%9Ferenleri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387328","tip":"genel"}]
 description: "Karabük'ün gizli cenneti, Aktaşerenleri Tepesi, 140 hektarlık yeşil alanıyla doğaseverleri bekliyor."
 keywords: ["Karabük","Aktaşerenleri Tepesi","doğa","gezi","tepe","Karadeniz Bölgesi","turizm","doğal güzellik"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Taşlık Tepe","caption":"Taşlık Tepe","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Taşlık Tepe","caption":"Taşlık Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fl%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811770","tip":"genel"}]
 description: "Bingöl'de yer alan Taşlık Tepe, doğa severlerin keşfetmek için bekleyen bir dağ"
 keywords: ["Taşlık Tepe","Bingöl","Dağ","Doğa","Türkiye","Seyahat","Gezi","Bingöl Gezilecek Yerler","Doğa Turizmi"]

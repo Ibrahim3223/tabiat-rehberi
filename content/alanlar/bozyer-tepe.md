@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Fotoğraf çekme"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Bozyer Tepe","caption":"Bozyer Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bozyer Tepe","caption":"Bozyer Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozyer%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386109","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. Bozyer Tepe, Ege Bölgesi'nin önemli noktalarından biri."
 keywords: ["Bozyer Tepe","İzmir","Ege Bölgesi","doğa","gezi","tepe","manzara","turizm"]

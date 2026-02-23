@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kayserkale Tepesi","caption":"Kayserkale Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kayserkale Tepesi","caption":"Kayserkale Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayserkale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388017","tip":"genel"}]
 description: "Kütahya'nın tarihi ve doğal güzelliklerinin birleştiği kayalık tepe"
 keywords: ["Kayserkale Tepesi","Kütahya","Ege Bölgesi","doğa","tarih","gezi","turizm","tepe","coğrafya","flora","fauna"]

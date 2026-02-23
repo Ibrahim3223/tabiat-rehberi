@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe keşfi","Doğa yürüyüşü","Müze gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu/page1-800px-The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu.jpg","alt":"Çamlıdere Belediyesi Müze Kompleksi","caption":"Çamlıdere Belediyesi Müze Kompleksi","credit":"The War Illustrated Album De Luxe; the Story of the Great European War Told by Camera, Pen and Pencil, 1917 (volume VII) - The Autumn Campaign of 1916","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Black_and_white_Paris_landscape.jpg/960px-Black_and_white_Paris_landscape.jpg","alt":"Çamlıdere Belediyesi Müze Kompleksi","caption":"Çamlıdere Belediyesi Müze Kompleksi","credit":"Black and white Paris landscape","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1dere%20Belediyesi%20M%C3%BCze%20Kompleksi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950133","tip":"genel"}]
 description: "İstanbul'un doğal güzellikleri içinde yer alan Çamlıdere Belediyesi Müze Kompleksi, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle karşılar."
 keywords: ["İstanbul","Marmara Bölgesi","Çamlıdere","Müze","Kompleks","Doğa","Tarih","Kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Kandil Dağı","caption":"Kandil Dağı","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Kandil Dağı","caption":"Kandil Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kandil%20Da%C4%9F%C4%B1%20(Kahramanmara%C5%9F%2C%2038.07%20N%2036.80%20E)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385734","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Kandil Dağı, 38.07 N 36.80 E koordinatlarında yer alır. Doğal güzellikleri ve trekking rotalarıyla dikkat çeker."
 keywords: ["Kandil Dağı","Kahramanmaraş","Dağ","Trekking","Doğa","Turizm","Gezi","Koordinat","Harita","Seyahat"]

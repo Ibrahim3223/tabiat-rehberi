@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Ağılgüney Tepesi","caption":"Ağılgüney Tepesi","credit":"Armenia, Travels and Studies, Vol. 1","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Ağılgüney Tepesi","caption":"Ağılgüney Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9F%C4%B1lg%C3%BCney%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32131444","tip":"genel"}]
 description: "Sivas'ta bulunan Ağılgüney Tepesi, doğa severlerin ilgi odağı"
 keywords: ["Ağılgüney Tepesi","Sivas","İç Anadolu Bölgesi","doğa","tepe","gezilecek yerler","turizm","coğrafya"]

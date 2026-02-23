@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["höyüğü gezmek","tarihi kalıntıları incelemek","doğal güzellikleri keşfetmek","fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Suluova Hüyüğü","caption":"Suluova Hüyüğü","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Suluova Hüyüğü","caption":"Suluova Hüyüğü","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Suluova%20H%C3%BCy%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138721","tip":"genel"}]
 description: "Amasya'da yer alan tarihi Suluova Hüyüğü, Karadeniz Bölgesi'nin önemli kültürel değerlerinden biri olarak dikkat çekiyor."
 keywords: ["Suluova Hüyüğü","Amasya","Karadeniz Bölgesi","tarih","kültür","hüyük","arkeoloji","gezi","turizm"]

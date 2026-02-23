@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kesedağ Tepesi","caption":"Kesedağ Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kesedağ Tepesi","caption":"Kesedağ Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keseda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388219","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri olan Kesedağ Tepesi, Kars ilinin sınırları içerisinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar."
 keywords: ["Kesedağ Tepesi","Kars","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

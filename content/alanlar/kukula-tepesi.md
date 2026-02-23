@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kukula Tepesi","caption":"Kukula Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kukula Tepesi","caption":"Kukula Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kukula%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391253","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, Kukula Tepesi"
 keywords: ["Kukula Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]

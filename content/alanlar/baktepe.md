@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kuş gözlemciliği","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Baktepe","caption":"Baktepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Baktepe","caption":"Baktepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Baktepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386147","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en önemli doğal alanlarından biri olan Baktepe, Gaziantep'in güzide yerlerinden biri."
 keywords: ["Baktepe","Gaziantep","doğal alan","tepe","Güneydoğu Anadolu Bölgesi"]

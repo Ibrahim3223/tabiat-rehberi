@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam bir gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Gora Mamemusa","caption":"Gora Mamemusa","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Gora Mamemusa","caption":"Gora Mamemusa","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Mamemusa","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510094","tip":"genel"}]
 description: "Türkiye'de bulunan Gora Mamemusa dağı, doğa severler için önemli bir destinasyon"
 keywords: ["Gora Mamemusa","Türkiye dağları","doğa turizmi","dağcılık","turistik yerler","Türkiye coğrafyası","dağlar","gezi rehberi","turizm"]

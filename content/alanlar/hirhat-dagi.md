@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Hirhat Dağı","caption":"Hirhat Dağı","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Hirhat Dağı","caption":"Hirhat Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hirhat%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31566855","tip":"genel"}]
 description: "Ardahan'da bulunan Hirhat Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Hirhat Dağı","Ardahan","Dağ","Doğa","Turizm","Gezi","Yeşil Alan","Doğal Güzellik","Türkiye"]

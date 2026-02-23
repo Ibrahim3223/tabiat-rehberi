@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Avais Tepe","caption":"Avais Tepe","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Avais Tepe","caption":"Avais Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avais%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31545723","tip":"genel"}]
 description: "Batman'da yer alan Avais Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri"
 keywords: ["Avais Tepe","Batman","Dağ","Doğa","Türkiye Coğrafyası","Gezi Rehberi","Seyahat","Yürüyüş Rotaları","Coğrafi Özellikler"]

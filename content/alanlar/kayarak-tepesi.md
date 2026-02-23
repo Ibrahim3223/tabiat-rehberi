@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kayarak Tepesi","caption":"Kayarak Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kayarak Tepesi","caption":"Kayarak Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayarak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390211","tip":"genel"}]
 description: "Burdur'un görkemli doğal güzelliklerinden biri olan Kayarak Tepesi, ziyaretçilerini büyüleyen bir manzaraya sahiptir."
 keywords: ["Kayarak Tepesi","Burdur","doğa","tepe","manzara","gezi","turizm","Akdeniz Bölgesi","çevre"]

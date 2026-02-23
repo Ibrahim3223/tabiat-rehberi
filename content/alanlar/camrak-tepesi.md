@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşü","tarihi eserleri gezme","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Çamrak Tepesi","caption":"Çamrak Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Çamrak Tepesi","caption":"Çamrak Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amrak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828246","tip":"genel"}]
 description: "Adana'da bulunan Çamrak Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Çamrak Tepesi","Adana","Akdeniz Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]

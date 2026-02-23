@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Dostek Tepesi","caption":"Dostek Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Dostek Tepesi","caption":"Dostek Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dostek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549071","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde Siirt'te yer alan Dostek Tepesi, doğa severlerin gözdesi"
 keywords: ["Dostek Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","tarihçe","coğrafya","flora","fauna"]

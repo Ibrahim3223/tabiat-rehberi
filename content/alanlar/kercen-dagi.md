@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Kerçen Dağı","caption":"Kerçen Dağı","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kerçen Dağı","caption":"Kerçen Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ker%C3%A7en%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041320","tip":"genel"}]
 description: "Artvin'de yer alan Kerçen Dağı, 1200 hektarlık yeşil cenneti ve doğa güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kerçen Dağı","Artvin","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Doğa Sporları","Trekking"]

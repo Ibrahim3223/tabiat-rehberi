@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","manzara izleme","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Kelhar Tepesi","caption":"Kelhar Tepesi","credit":"Armenia, Travels and Studies, Vol. 2","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kelhar Tepesi","caption":"Kelhar Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelhar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515814","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Bitlis ilinde yer alan Kelhar Tepesi, yaklaşık 140 hektarlık alanı ile geniş bir doğal güzelliğe sahiptir."
 keywords: ["Kelhar Tepesi","Bitlis","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

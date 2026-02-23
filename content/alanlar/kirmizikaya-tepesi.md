@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kırmızıkaya Tepesi","caption":"Kırmızıkaya Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kırmızıkaya Tepesi","caption":"Kırmızıkaya Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388523","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Rize'de yer alan Kırmızıkaya Tepesi, doğal güzellikleri ve tarihi geçmişi ile ziyaretçilerini bekliyor."
 keywords: ["Kırmızıkaya Tepesi","Rize","Karadeniz Bölgesi","doğal güzellikler","tarihi geçmişi","turizm","gezi"]

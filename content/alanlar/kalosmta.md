@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Kalosmta","caption":"Kalosmta","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Kalosmta","caption":"Kalosmta","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalosmta","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q16370882","tip":"genel"}]
 description: "Ardahan'da yer alan Kalosmta Dağı, 1200 hektarlık yeşil cenneti ile doğa severleri bekliyor."
 keywords: ["Kalosmta","Ardahan","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Turizm"]

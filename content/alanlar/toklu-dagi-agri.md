@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Toklu Dağı (Ağrı)","caption":"Toklu Dağı (Ağrı)","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Toklu Dağı (Ağrı)","caption":"Toklu Dağı (Ağrı)","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toklu%20Da%C4%9F%C4%B1%20(A%C4%9Fr%C4%B1)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504559","tip":"genel"}]
 description: "Ağrı'da bulunan Toklu Dağı, doğa severlerin ziyaret ettiği önemli bir dağdır. 1400 metre yüksekliğiyle dikkat çeker."
 keywords: ["Toklu Dağı","Ağrı","Dağ","Doğa","Trekking","Ağrı Dağları","Turizm","Gezi","Doğa Sporları"]

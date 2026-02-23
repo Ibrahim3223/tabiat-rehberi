@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kampçılık","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Yürükyayla Tepesi","caption":"Yürükyayla Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Yürükyayla Tepesi","caption":"Yürükyayla Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCkyayla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822628","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Yürükyayla Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Ankara","İç Anadolu Bölgesi","Yürükyayla Tepesi","doğa","gezi","tepe","manzara"]

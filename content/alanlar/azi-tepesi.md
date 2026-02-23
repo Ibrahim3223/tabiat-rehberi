@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara seyretme","fotoğraf çekme","tarihi yerleri keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Azı Tepesi","caption":"Azı Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Azı Tepesi","caption":"Azı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Az%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531119","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin. Azı Tepesi, Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Mersin","Akdeniz Bölgesi","Azı Tepesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

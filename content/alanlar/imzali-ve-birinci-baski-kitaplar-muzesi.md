@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kitap koleksiyonunu gezme","etkinliklere katılma","müzenin bahçesinde dinlenme","İstanbul'un kültürel ve tarihi zenginliklerini keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu/page1-800px-The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu.jpg","alt":"İmzalı ve Birinci Baskı Kitaplar Müzesi","caption":"İmzalı ve Birinci Baskı Kitaplar Müzesi","credit":"The War Illustrated Album De Luxe; the Story of the Great European War Told by Camera, Pen and Pencil, 1917 (volume VII) - The Autumn Campaign of 1916","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"İmzalı ve Birinci Baskı Kitaplar Müzesi","caption":"İmzalı ve Birinci Baskı Kitaplar Müzesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mzal%C4%B1%20ve%20Birinci%20Bask%C4%B1%20Kitaplar%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949575","tip":"genel"}]
 description: "İstanbul'un kalbinde, kitap severlerin buluşma noktası"
 keywords: ["kitap","müze","İstanbul","kitap severler","imzalı kitaplar","birinci baskı kitaplar","edebiyat","sanat"]

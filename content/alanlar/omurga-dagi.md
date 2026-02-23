@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Omurga Dağı","caption":"Omurga Dağı","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Omurga Dağı","caption":"Omurga Dağı","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Omurga%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q13650859","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Omurga Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Omurga Dağı","Türkiye dağları","doğal güzellikler","trekking rotaları","dağcılık","turizm","gezi rehberi","coğrafya","Türkiye coğrafyası"]

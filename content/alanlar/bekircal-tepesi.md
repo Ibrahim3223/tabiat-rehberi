@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyretme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Bekirçal Tepesi","caption":"Bekirçal Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bekirçal Tepesi","caption":"Bekirçal Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bekir%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32133494","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerine ev sahipliği yapan Bekirçal Tepesi, yaklaşık 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Konya","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre","iklim","flora","fauna"]

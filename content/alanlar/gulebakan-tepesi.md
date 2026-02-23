@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara seyri","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Gülebakan Tepesi","caption":"Gülebakan Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Gülebakan Tepesi","caption":"Gülebakan Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BClebakan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139058","tip":"genel"}]
 description: "Van'da yer alan doğal güzellik, tarihi geçmişe sahip, Doğu Anadolu Bölgesi'nin önemli noktalarından biri"
 keywords: ["Gülebakan Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tarihi geçmiş","turizm","gezi","yürüyüş","manzara"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Çermik Tepesi","caption":"Çermik Tepesi","credit":"Armenia, Travels and Studies, Vol. 2","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Çermik Tepesi","caption":"Çermik Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ermik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829030","tip":"genel"}]
 description: "Bingöl'ün doğal güzelliklerini keşfedin. Çermik Tepesi, Doğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Çermik Tepesi","Bingöl","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Hedef Tepesi","caption":"Hedef Tepesi","credit":"Armenia, Travels and Studies, Vol. 2","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Hedef Tepesi","caption":"Hedef Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hedef%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388260","tip":"genel"}]
 description: "Kars'ın doğal güzellikleri arasında yer alan Hedef Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kars","Hedef Tepesi","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi"]

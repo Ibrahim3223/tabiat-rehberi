@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi yapıları gezmek","kültürel zenginlikleri keşfetmek","coğrafi özellikleri incelemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_travels_of_Macarius%2C_Patriarch_of_Antioch_-_Volume_II.djvu/page1-800px-The_travels_of_Macarius%2C_Patriarch_of_Antioch_-_Volume_II.djvu.jpg","alt":"Naib Kümbeti, Divriği","caption":"Naib Kümbeti, Divriği","credit":"The travels of Macarius, Patriarch of Antioch - Volume II","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Naib Kümbeti, Divriği","caption":"Naib Kümbeti, Divriği","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Naib%20K%C3%BCmbeti%2C%20Divri%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582393","tip":"genel"}]
 description: "Divriği'de tarihi bir yapı olan Naib Kümbeti, Sivas'ın tarihi zenginliklerini keşfetmek için önemli bir destinasyon."
 keywords: ["Naib Kümbeti","Divriği","Sivas","tarihi yapı","kültür","gezi"]

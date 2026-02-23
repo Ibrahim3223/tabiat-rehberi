@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Tarihi yapıları keşfetmek","Fotoğraf çekmek","Doğal güzelliği izlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_History_of_the_Great_European_War_Vol_IV.djvu/page1-800px-The_History_of_the_Great_European_War_Vol_IV.djvu.jpg","alt":"Ani Küçük Hamam","caption":"Ani Küçük Hamam","credit":"The History of the Great European War Vol IV","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ani Küçük Hamam","caption":"Ani Küçük Hamam","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ani%20K%C3%BC%C3%A7%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738759","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren Ani Küçük Hamam, ziyaretçilerini bekliyor."
 keywords: ["Ani Küçük Hamam","Doğu Anadolu Bölgesi","Kars","tarih","doğa","gezi","turizm","kültür"]

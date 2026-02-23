@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu/page1-800px-Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu.jpg","alt":"Efkerit Mağarası","caption":"Efkerit Mağarası","credit":"Islam, Turkey, and Armenia, and How They Happened","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Efkerit Mağarası","caption":"Efkerit Mağarası","credit":"Aydıncık Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Efkerit%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Tokat'ta yer alan Efkerit Mağarası, doğal güzelliği ile dikkat çekiyor. 1200 hektarlık alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Efkerit Mağarası","Tokat","Magara","Doğal Alan","Turizm","Gezi","Mağara","Tokat Turistik Yerler","Doğa"]

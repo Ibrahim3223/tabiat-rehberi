@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Telşarap","caption":"Telşarap","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Telşarap","caption":"Telşarap","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tel%C5%9Farap","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386660","tip":"genel"}]
 description: "Telşarap, Mardin'in tarihi ve doğal güzellikleri ile dikkat çeken bir bölgedir. Burada, zengin bir tarihe ve çeşitli bitki türlerine rastlama mümkün."
 keywords: ["Mardin","Telşarap","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarih","bitki türleri","coğrafya","fauna","ziyaret"]

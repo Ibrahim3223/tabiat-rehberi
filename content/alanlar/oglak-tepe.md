@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Oğlak Tepe","caption":"Oğlak Tepe","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Oğlak Tepe","caption":"Oğlak Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/O%C4%9Flak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509730","tip":"genel"}]
 description: "Van'da yer alan Oğlak Tepe, doğal güzellikleri ve trekking rotalarıyla dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Oğlak Tepe","Van","Dağ","Trekking","Doğa","Yeşil Alan","Türkiye","Gezi","Seyahat","Macera"]

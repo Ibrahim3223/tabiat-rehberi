@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Tarih araştırması","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Altınkaya Tepesi","caption":"Altınkaya Tepesi","credit":"Armenia, Travels and Studies, Vol. 2","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Altınkaya Tepesi","caption":"Altınkaya Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1nkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387901","tip":"genel"}]
 description: "Kars'ta yer alan doğal güzelli ve tarihi geçmişe sahip bir tepe"
 keywords: ["Kars","Doğu Anadolu Bölgesi","Altınkaya Tepesi","Doğal güzellik","Tarihi geçmiş","Tepeler","Coğrafya"]

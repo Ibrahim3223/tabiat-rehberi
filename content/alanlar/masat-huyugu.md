@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Masat Hüyüğü","caption":"Masat Hüyüğü","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Masat Hüyüğü","caption":"Masat Hüyüğü","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Masat%20H%C3%BCy%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32125065","tip":"genel"}]
 description: "Akdeniz Bölgesi'ndeki Hatay'da bulunan tarihi Masat Hüyüğü, 140 hektarlık geniş bir alanı kaplıyor."
 keywords: ["Masat Hüyüğü","Hatay","Akdeniz Bölgesi","tarih","coğrafya","flora","fauna","ziyaret"]

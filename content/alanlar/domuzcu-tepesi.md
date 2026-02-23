@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Domuzcu Tepesi","caption":"Domuzcu Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Domuzcu Tepesi","caption":"Domuzcu Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Domuzcu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535572","tip":"genel"}]
 description: "Hatay'da bulunan, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan Domuzcu Tepesi"
 keywords: ["Domuzcu Tepesi","Hatay","Akdeniz Bölgesi","Doğa","Tarihçe","Coğrafya","Flora","Fauna","Ziyaret"]

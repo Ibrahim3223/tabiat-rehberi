@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Hasbel Tepesi","caption":"Hasbel Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Hasbel Tepesi","caption":"Hasbel Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasbel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390063","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Hasbel Tepesi, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Hasbel Tepesi","Ankara","İç Anadolu Bölgesi","tarihi","doğal güzellik","tepe","gezi","turizm"]

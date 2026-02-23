@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Panoramik manzara izleme","Çiçe ve bitki gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Köklü Tepesi","caption":"Köklü Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Köklü Tepesi","caption":"Köklü Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6kl%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210156","tip":"genel"}]
 description: "Samsun'un güzide mekanlarından biri olan Köklü Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Köklü Tepesi","Samsun","Karadeniz Bölgesi","doğal güzellikler","gezi","turizm","yerel kültür","coğrafya","flora","fauna"]

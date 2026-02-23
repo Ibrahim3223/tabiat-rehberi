@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["piknik","yürüyüş","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Cerizdede Tepesi","caption":"Cerizdede Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Cerizdede Tepesi","caption":"Cerizdede Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cerizdede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390058","tip":"genel"}]
 description: "Ankara'da yer alan Cerizdede Tepesi, İç Anadolu Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Cerizdede Tepesi","Ankara","İç Anadolu Bölgesi","doğal alan","tepe","gezi","turizm","coğrafya","flora","fauna"]

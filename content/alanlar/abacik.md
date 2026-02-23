@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Executive_Orders_of_Herbert_Hoover%2C_Volume_I.djvu/page1-800px-Executive_Orders_of_Herbert_Hoover%2C_Volume_I.djvu.jpg","alt":"Abacik","caption":"Abacik","credit":"Executive Orders of Herbert Hoover, Volume I","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Abacik","caption":"Abacik","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abacik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21199079","tip":"genel"}]
 description: "Ağrı'da bulunan Abacik Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Abacik","Ağrı","Dağ","Doğa","Yeşil Cennet","Turizm","Gezi","Seyahat","Doğal Güzellik"]

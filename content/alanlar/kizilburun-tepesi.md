@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş yapmak","bitki türlerini gözlemlemek","hayvanları izlemek","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kızılburun Tepesi","caption":"Kızılburun Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kızılburun Tepesi","caption":"Kızılburun Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lburun%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388741","tip":"genel"}]
 description: "Muğla'nın Ege Bölgesi'nde yer alan, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzellik."
 keywords: ["Kızılburun Tepesi","Muğla","Ege Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler","coğrafya","flora","fauna"]

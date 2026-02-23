@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/B_M_Bower_-_Heritage_of_the_Sioux.djvu/page1-800px-B_M_Bower_-_Heritage_of_the_Sioux.djvu.jpg","alt":"Avnikalesi Tepe","caption":"Avnikalesi Tepe","credit":"B M Bower - Heritage of the Sioux","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Avnikalesi Tepe","caption":"Avnikalesi Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avnikalesi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531417","tip":"genel"}]
 description: "Muş'ta yer alan Avnikalesi Tepe, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Avnikalesi Tepe","Muş","Dağ","Doğal Alan","Yeşil Cennet","Turizm","Seyahat","Gezi","Doğa"]

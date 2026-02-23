@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî eserleri görmek","kültürel etkinlikler","eğitim programları","gezi ve tur"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu/page1-800px-The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu.jpg","alt":"ASBÜ Hazine Müzesi","caption":"ASBÜ Hazine Müzesi","credit":"The War Illustrated Album De Luxe; the Story of the Great European War Told by Camera, Pen and Pencil, 1917 (volume VII) - The Autumn Campaign of 1916","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"ASBÜ Hazine Müzesi","caption":"ASBÜ Hazine Müzesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ASB%C3%9C%20Hazine%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132681833","tip":"genel"}]
 description: "Ankara'nın kalbinde, tarihin derinliklerine yolculuk"
 keywords: ["ASBÜ Hazine Müzesi","Ankara","müze","tarih","kültür","sanat","eğitim","gezi","turizm"]

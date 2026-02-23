@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nilesweeklyregis25balt.djvu/page1-800px-Nilesweeklyregis25balt.djvu.jpg","alt":"Rize-Pazar-Senyuva-Simsir","caption":"Rize-Pazar-Senyuva-Simsir","credit":"Nilesweeklyregis25balt","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MOKM63.jpg/960px-MOKM63.jpg","alt":"Rize-Pazar-Senyuva-Simsir","caption":"Rize-Pazar-Senyuva-Simsir","credit":"MOKM63","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rize-Pazar-Senyuva-Simsir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228262","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti Rize-Pazar-Senyuva-Simsir milli parkı, 140 hektarlık alanı ve benzersiz doğasıyla ziyaretçilerini bekliyor."
 keywords: ["Rize","Pazar","Senyuva","Simsir","milli park","Karadeniz Bölgesi","doğa","turizm"]

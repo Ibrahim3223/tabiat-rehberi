@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["manzara izleme","doğa yürüyüşü","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Aydemir Tepesi","caption":"Aydemir Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Aydemir Tepesi","caption":"Aydemir Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aydemir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389770","tip":"genel"}]
 description: "Bilecik'in doğal güzellikleri arasında yer alan Aydemir Tepesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biri olarak dikkat çekiyor."
 keywords: ["Aydemir Tepesi","Bilecik","Marmara Bölgesi","doğal güzellik","coğrafi nokta","tepe","gezi","turizm"]

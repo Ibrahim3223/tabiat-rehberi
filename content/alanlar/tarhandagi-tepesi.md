@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Tarhandağı Tepesi","caption":"Tarhandağı Tepesi","credit":"Armenia, Travels and Studies, Vol. 1","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Tarhandağı Tepesi","caption":"Tarhandağı Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarhanda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21696176","tip":"genel"}]
 description: "Kars'ın doğal güzelliklerini keşfedin, Tarhandağı Tepesi'ni ziyaret edin"
 keywords: ["Kars","Doğu Anadolu Bölgesi","Tarhandağı Tepesi","doğal güzellik","tepe","gezi"]

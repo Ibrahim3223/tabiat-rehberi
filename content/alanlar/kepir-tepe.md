@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Kepir Tepe","caption":"Kepir Tepe","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kepir Tepe","caption":"Kepir Tepe","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kepir%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536744","tip":"genel"}]
 description: "Kilis'in görkemli dağlarından biri olan Kepir Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Kepir Tepe","Kilis","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Kilis Turistik Yerler"]

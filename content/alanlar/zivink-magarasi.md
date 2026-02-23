@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Familiar_lessons_on_mineralogy_and_geology_To_which_is_added_a_practical_description_of_the_use_of_the_lapidary%27s_apparatus_Explaining_the_methods_of_slitting_and_polishing_pebbles.djvu/page1-800px-thumbnail.djvu.jpg","alt":"Zivink Mağarası","caption":"Zivink Mağarası","credit":"Familiar lessons on mineralogy and geology To which is added a practical description of the use of the lapidary's apparatus Explaining the methods of slitting and polishing pebbles","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Zivink Mağarası","caption":"Zivink Mağarası","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zivink%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319894","tip":"genel"}]
 description: "Batman'da bulunan Zivink Mağarası, 1200 hektarlık bir jeopark alanı sunar. Doğal güzellikleri keşfedin!"
 keywords: ["Zivink Mağarası","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Doğa","Jeolojik Oluşum"]

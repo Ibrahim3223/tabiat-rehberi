@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Tecer Dağı","caption":"Tecer Dağı","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Tecer Dağı","caption":"Tecer Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tecer%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505073","tip":"genel"}]
 description: "Sivas'ta bulunan Tecer Dağı, doğa severlerin ziyaret ettiği önemli bir coğrafi oluşum"
 keywords: ["Tecer Dağı","Sivas","Dağ","Doğa","Türkiye Coğrafyası","Sivas Turizm","Dağcılık","Trekking","Doğa Yürüyüşü"]

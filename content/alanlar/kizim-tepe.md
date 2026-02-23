@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Kızım Tepe","caption":"Kızım Tepe","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Kızım Tepe","caption":"Kızım Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1m%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573957","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin, Kızım Tepe'de unutulmaz anlar yaşayın."
 keywords: ["Kızım Tepe","Mardin","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Mardin Gezilecek Yerler"]

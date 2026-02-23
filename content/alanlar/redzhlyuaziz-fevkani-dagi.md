@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["trekking","kamping","doğa yürüyüşü","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Redzhlyuaziz-Fevkani Dağı","caption":"Redzhlyuaziz-Fevkani Dağı","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Redzhlyuaziz-Fevkani Dağı","caption":"Redzhlyuaziz-Fevkani Dağı","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Redzhlyuaziz-Fevkani%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386635","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en önemli coğrafi oluşumlarından biri olan Redzhlyuaziz-Fevkani Dağı, ziyaretçilerini büyüleyici manzaralar ve zengin bir flora ile karşılar."
 keywords: ["Redzhlyuaziz-Fevkani Dağı","İç Anadolu Bölgesi","coğrafi oluşum","flora","fauna","doğal güzellik","gezi","tarihçe","coğrafya"]

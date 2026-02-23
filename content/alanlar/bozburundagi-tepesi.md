@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Bozburundağı Tepesi","caption":"Bozburundağı Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Bozburundağı Tepesi","caption":"Bozburundağı Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozburunda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391173","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Bozburundağı Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bozburundağı Tepesi","İç Anadolu Bölgesi","doğal güzellik","tepe","orman","yaban hayatı"]

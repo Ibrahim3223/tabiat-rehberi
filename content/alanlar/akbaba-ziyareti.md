@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Akbaba Ziyareti","caption":"Akbaba Ziyareti","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Akbaba Ziyareti","caption":"Akbaba Ziyareti","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akbaba%20Ziyareti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31537421","tip":"genel"}]
 description: "Türkiye'nin dağlık bölgelerinden biri olan Akbaba Ziyareti, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Akbaba Ziyareti","Türkiye dağları","doğa turizmi","yeşil alanlar","gezi noktaları","dağcılık","turistik yerler","doğal güzellikler","Türkiye'nin dağları"]

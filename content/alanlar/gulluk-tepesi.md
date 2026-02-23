@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Güllük Tepesi","caption":"Güllük Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Güllük Tepesi","caption":"Güllük Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCll%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139128","tip":"genel"}]
 description: "Sakarya'nın Marmara Bölgesi'nde yer alan Güllük Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
 keywords: ["Güllük Tepesi","Sakarya","Marmara Bölgesi","doğa","yeşil alan","fiziksel veriler"]

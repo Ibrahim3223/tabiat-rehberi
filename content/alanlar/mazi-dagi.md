@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Mazı Dağı","caption":"Mazı Dağı","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Mazı Dağı","caption":"Mazı Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Maz%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510848","tip":"genel"}]
 description: "Mardin'in doğal güzelliklerini keşfedin, Mazı Dağı'nın büyüleyici manzaralarını görün"
 keywords: ["Mazı Dağı","Mardin","Dağ","Doğa","Turizm","Gezi","Mazı Dağı Mardin","Mardin Turistik Yerler","Doğal Alanlar"]

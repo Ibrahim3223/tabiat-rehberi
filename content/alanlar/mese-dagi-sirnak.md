@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Meşe Dağı (Şırnak)","caption":"Meşe Dağı (Şırnak)","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Meşe Dağı (Şırnak)","caption":"Meşe Dağı (Şırnak)","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Me%C5%9Fe%20Da%C4%9F%C4%B1%20(%C5%9E%C4%B1rnak)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510573","tip":"genel"}]
 description: "Şırnak'ta bulunan Meşe Dağı, doğal güzellikleri ve zengin florası ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Meşe Dağı","Şırnak","doğa","dağ","gezi","turizm","yeşil alan","flora","fauna","çevre"]

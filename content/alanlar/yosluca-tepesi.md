@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Yosluca Tepesi","caption":"Yosluca Tepesi","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Yosluca Tepesi","caption":"Yosluca Tepesi","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yosluca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31592352","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin, Yosluca Tepesi'ne çıkın ve muhteşem manzaraları görün"
 keywords: ["Yosluca Tepesi","Türkiye dağları","doğa yürüyüşü","tepe çıkışı","manzara noktaları","gezi rehberi","turistik yerler","dağcılık","doğa sporları"]

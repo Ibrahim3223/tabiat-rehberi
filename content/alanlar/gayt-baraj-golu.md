@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Gayt Baraj Gölü","caption":"Gayt Baraj Gölü","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/IMG-20200417-WA0033.jpg/960px-IMG-20200417-WA0033.jpg","alt":"Gayt Baraj Gölü","caption":"Gayt Baraj Gölü","credit":"IMG-20200417-WA0033","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gayt%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34879263","tip":"genel"}]
 description: "Bingöl'de bulunan Gayt Baraj Gölü, doğal güzellikleri ve su sporları olanakları ile dikkat çekiyor."
 keywords: ["Gayt Baraj Gölü","Bingöl","göl","doğa","su sporları","turizm","gezi","Bingöl gezilecek yerler","göl gezi"]

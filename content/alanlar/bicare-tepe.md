@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye tırmanmak","manzaranın tadını çıkarmak","bitki ve hayvan türlerini gözlemlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blackwood%27s_Magazine_volume_033.djvu/page1-800px-Blackwood%27s_Magazine_volume_033.djvu.jpg","alt":"Biçare Tepe","caption":"Biçare Tepe","credit":"Blackwood's Magazine volume 033","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Biçare Tepe","caption":"Biçare Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bi%C3%A7are%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32140121","tip":"genel"}]
 description: "Ağrı'da yer alan Biçare Tepe, ziyaretçilerini bekliyor. Doğu Anadolu Bölgesi'nin gizli cevheri."
 keywords: ["Biçare Tepe","Ağrı","Doğu Anadolu Bölgesi","tepe","doğa","gezi","tarih","coğrafya"]

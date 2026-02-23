@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yaklaşık 4-6 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyir","fotoğrafçılık","yöresel kültürü keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Özlüce Tepesi","caption":"Özlüce Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Özlüce Tepesi","caption":"Özlüce Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96zl%C3%BCce%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829849","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin önemli tepelerinden biri olan Özlüce Tepesi, Erzurum'un güzelliklerini gözler önüne seren bir doğa harikasıdır."
 keywords: ["Özlüce Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğa harikası","tepe","gezi","turizm"]

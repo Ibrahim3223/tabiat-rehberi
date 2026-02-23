@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Çukurağıl Tepesi","caption":"Çukurağıl Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Çukurağıl Tepesi","caption":"Çukurağıl Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ukura%C4%9F%C4%B1l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829552","tip":"genel"}]
 description: "Karaman'da bulunan Çukurağıl Tepesi, tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Karaman","İç Anadolu Bölgesi","Çukurağıl Tepesi","doğal güzellik","tarihi geçmişi","tepe","coğrafya","flora","fauna"]

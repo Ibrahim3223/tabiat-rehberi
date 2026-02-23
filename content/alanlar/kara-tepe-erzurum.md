@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye tırmanmak","çevreyi keşfetmek","bölgenin güzelliklerini görmek","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kara Tepe (Erzurum)","caption":"Kara Tepe (Erzurum)","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kara Tepe (Erzurum)","caption":"Kara Tepe (Erzurum)","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Tepe%20(Erzurum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388454","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan Kara Tepe, Erzurum'un doğal güzelliklerini sunar."
 keywords: ["Kara Tepe","Erzurum","Doğu Anadolu Bölgesi","doğal güzellikler","coğrafi oluşumlar","tepe","gezi","turizm","doğa"]

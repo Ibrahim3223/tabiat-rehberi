@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Yalın Dağ","caption":"Yalın Dağ","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Yalın Dağ","caption":"Yalın Dağ","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yal%C4%B1n%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31575969","tip":"genel"}]
 description: "Van'da bulunan Yalın Dağ, doğa severlerin keşfetmek için bekleyen bir hazine. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Yalın Dağ","Van","Dağ","Doğa","Trekking","Kamp","Van Gezilecek Yerler","Doğa Harikaları","Türkiye Dağları"]

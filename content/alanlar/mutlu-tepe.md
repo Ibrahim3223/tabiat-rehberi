@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","dinlenme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Mutlu Tepe","caption":"Mutlu Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Mutlu Tepe","caption":"Mutlu Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mutlu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386188","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerine ev sahipliği yapan Mutlu Tepe, ziyaretçilerine benzersiz bir deneyim sunuyor."
 keywords: ["Mutlu Tepe","Gaziantep","doğal güzellik","tepe","gezi","turizm","Güneydoğu Anadolu Bölgesi"]

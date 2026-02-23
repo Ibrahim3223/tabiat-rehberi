@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Taşlıkbaşı Tepesi","caption":"Taşlıkbaşı Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Taşlıkbaşı Tepesi","caption":"Taşlıkbaşı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fl%C4%B1kba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547350","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri olan Taşlıkbaşı Tepesi, Batman'ın güzide mekanlarından."
 keywords: ["Taşlıkbaşı Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal alan","tepe","gezi","turizm"]

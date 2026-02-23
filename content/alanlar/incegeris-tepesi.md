@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik","kış sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"İncegeriş Tepesi","caption":"İncegeriş Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"İncegeriş Tepesi","caption":"İncegeriş Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncegeri%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390755","tip":"genel"}]
 description: "Yozgat'ın İç Anadolu Bölgesi'nde yer alan İncegeriş Tepesi, 140 hektarlık geniş yeşil alanı ve tarihi geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["İncegeriş Tepesi","Yozgat","İç Anadolu Bölgesi","yeşil alan","tarihi geçmişi","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Çetibeli Dağı","caption":"Çetibeli Dağı","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Çetibeli Dağı","caption":"Çetibeli Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87etibeli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818862","tip":"genel"}]
 description: "Muğla'nın görkemli dağlarından biri olan Çetibeli Dağı, 1400 metre yüksekliğiyle bölgenin en önemli doğal güzelliklerinden biri."
 keywords: ["Çetibeli Dağı","Muğla","Dağ","Doğa","Turizm","Gezi","Trekking","Doğal Güzellik","Muğla Turistik Yerler"]

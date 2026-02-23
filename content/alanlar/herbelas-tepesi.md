@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Herbelaş Tepesi","caption":"Herbelaş Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Herbelaş Tepesi","caption":"Herbelaş Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Herbela%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551826","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin birleştiği nokta, Herbelaş Tepesi"
 keywords: ["Mardin","Herbelaş Tepesi","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","Mardin gezilecek yerler","Herbelaş Tepesi hakkında"]

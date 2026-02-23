@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Mıhtepe","caption":"Mıhtepe","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Mıhtepe","caption":"Mıhtepe","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C4%B1htepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572874","tip":"genel"}]
 description: "Türkiye'nin görkemli dağlarından biri olan Mıhtepe, doğa severlerin ziyaret ettiği bir yer"
 keywords: ["Mıhtepe","Dağ","Türkiye","Doğa","Seyahat","Gezi","Türkiye'nin dağları","Mıhtepe dağı","Doğa turizmi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Altınkaya Baraj Gölü","caption":"Altınkaya Baraj Gölü","credit":"Armenia, Travels and Studies, Vol. 1","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Lake_in_Vezirsuyu_Turkey.jpg/960px-Lake_in_Vezirsuyu_Turkey.jpg","alt":"Altınkaya Baraj Gölü","caption":"Altınkaya Baraj Gölü","credit":"Lake in Vezirsuyu Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1nkaya%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q101552467","tip":"genel"}]
 description: "Samsun'da bulunan Altınkaya Baraj Gölü, doğal güzellikleri ve su sporları olanakları ile dikkat çekiyor."
 keywords: ["Altınkaya Baraj Gölü","Samsun","göl","baraj","doğa","su sporları","turizm","Samsun gezilecek yerler","göl turizmi"]

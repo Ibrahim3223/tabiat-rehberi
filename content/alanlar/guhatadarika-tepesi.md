@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","doğa yürüyüşü","manzara izlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Guhatadarika Tepesi","caption":"Guhatadarika Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Guhatadarika Tepesi","caption":"Guhatadarika Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Guhatadarika%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550616","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin. Guhatadarika Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Mardin","Guhatadarika Tepesi","Güneydoğu Anadolu Bölgesi","tarih","doğa","tepe","gezi"]

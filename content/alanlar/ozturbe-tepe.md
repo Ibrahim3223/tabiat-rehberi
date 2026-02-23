@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","kış sporları","doğa fotoğrafçılığı","tarihi yerleri keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Öztürbe Tepe","caption":"Öztürbe Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Öztürbe Tepe","caption":"Öztürbe Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96zt%C3%BCrbe%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829861","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin. Öztürbe Tepe, Karadeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kastamonu","Karadeniz Bölgesi","Öztürbe Tepe","doğa","gezi","tarih","coğrafya"]

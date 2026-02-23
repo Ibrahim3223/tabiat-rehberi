@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Körik Dağı","caption":"Körik Dağı","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Körik Dağı","caption":"Körik Dağı","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6rik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042766","tip":"genel"}]
 description: "Bingöl'de bulunan Körik Dağı, 1200 hektarlık yeşil alanıyla İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Körik Dağı","Bingöl","Dağ","Doğa","Trekking","Yeşil Alan","İstanbul","Doğal Güzellik","Turizm"]

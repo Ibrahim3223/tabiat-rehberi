@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","tarihi eserleri ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Koyaklarüstü Tepesi","caption":"Koyaklarüstü Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Koyaklarüstü Tepesi","caption":"Koyaklarüstü Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koyaklar%C3%BCst%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32200777","tip":"genel"}]
 description: "Diyarbakır'ın doğal güzelliklerini keşfedin. Koyaklarüstü Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe."
 keywords: ["Koyaklarüstü Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","yaban hayatı","coğrafya"]

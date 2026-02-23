@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekânları gezmek","doğa yürüyüşü yapmak","flora ve fauna türleri hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Old_Melbourne_Memories.djvu/page1-800px-Old_Melbourne_Memories.djvu.jpg","alt":"Şeyh Muhiyettin Türbesi","caption":"Şeyh Muhiyettin Türbesi","credit":"Old Melbourne Memories","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Şeyh Muhiyettin Türbesi","caption":"Şeyh Muhiyettin Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhiyettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391353","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli kalmış güzelliği, Hasankeyf'te bulunan Şeyh Muhiyettin Türbesi"
 keywords: ["Şeyh Muhiyettin Türbesi","Hasankeyf","Batman","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","doğa","ziyaret"]

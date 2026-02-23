@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Müze ziyaretleri","Doğa yürüyüşleri","Piknik","Eğlence etkinlikleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu/page1-800px-The_War_Illustrated_Album_De_Luxe%3B_the_Story_of_the_Great_European_War_Told_by_Camera%2C_Pen_and_Pencil%2C_1917_%28volume_VII%29_-_The_Autumn_Campaign_of_1916.djvu.jpg","alt":"Demokrasi ve Özgürlükler Adası Müze Kompleksi","caption":"Demokrasi ve Özgürlükler Adası Müze Kompleksi","credit":"The War Illustrated Album De Luxe; the Story of the Great European War Told by Camera, Pen and Pencil, 1917 (volume VII) - The Autumn Campaign of 1916","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Goztepe_Park_and_beats_flowers.jpg/960px-Goztepe_Park_and_beats_flowers.jpg","alt":"Demokrasi ve Özgürlükler Adası Müze Kompleksi","caption":"Demokrasi ve Özgürlükler Adası Müze Kompleksi","credit":"Goztepe Park and beats flowers","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demokrasi%20ve%20%C3%96zg%C3%BCrl%C3%BCkler%20Adas%C4%B1%20M%C3%BCze%20Kompleksi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949127","tip":"genel"}]
 description: "İstanbul'un kalbinde, Marmara Bölgesi'nde bulunan Demokrasi ve Özgürlükler Adası Müze Kompleksi"
 keywords: ["Demokrasi ve Özgürlükler Adası","Müze Kompleksi","İstanbul","Marmara Bölgesi","tarih","müze","doğa","gezi","eğlence"]

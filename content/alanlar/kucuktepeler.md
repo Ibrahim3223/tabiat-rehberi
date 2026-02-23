@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Spor aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Küçüktepeler","caption":"Küçüktepeler","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Küçüktepeler","caption":"Küçüktepeler","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCktepeler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211045","tip":"genel"}]
 description: "Mersin'de bulunan Küçüktepeler, Akdeniz Bölgesi'nin güzide noktalarından biridir. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeker."
 keywords: ["Küçüktepeler","Mersin","Akdeniz Bölgesi","doğal güzellik","tarihi geçmişi","gezi","turizm","çevre","iklim"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kuş gözlemciliği","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Köleninsivrisi Tepesi","caption":"Köleninsivrisi Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Köleninsivrisi Tepesi","caption":"Köleninsivrisi Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6leninsivrisi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210177","tip":"genel"}]
 description: "Yozgat'ın doğal güzelliklerini keşfedin, Köleninsivrisi Tepesi'ne doğru bir yolculuğa çıkın"
 keywords: ["Köleninsivrisi Tepesi","Yozgat","İç Anadolu Bölgesi","doğal güzellikler","tepe","coğrafya","flora","fauna"]

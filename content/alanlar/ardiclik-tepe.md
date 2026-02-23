@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye tırmanmak","manzara izlemek","bitki ve hayvan türlerini gözlemlemek","fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Ardıçlık Tepe","caption":"Ardıçlık Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Ardıçlık Tepe","caption":"Ardıçlık Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ard%C4%B1%C3%A7l%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32129246","tip":"genel"}]
 description: "Karaman'da yer alan Ardıçlık Tepe, doğal güzelliği ve tarihi zenginliğiyle dikkat çekiyor."
 keywords: ["Ardıçlık Tepe","Karaman","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm","coğrafya"]

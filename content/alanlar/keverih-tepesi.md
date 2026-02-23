@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarihçe gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Keverih Tepesi","caption":"Keverih Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Keverih Tepesi","caption":"Keverih Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keverih%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547932","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan Keverih Tepesi, bölgeye özgü flora ve fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Keverih Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","flora","fauna","tepe","coğrafya","tarihçe"]

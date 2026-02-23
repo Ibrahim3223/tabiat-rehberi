@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","manzara izleme","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kazancı Tepesi","caption":"Kazancı Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kazancı Tepesi","caption":"Kazancı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazanc%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386692","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği Kazancı Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kazancı Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi"]

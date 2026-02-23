@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara izleme","Doğa yürüyüşü","Fotoğraf çekme","Tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Çılktaş Tepesi","caption":"Çılktaş Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çılktaş Tepesi","caption":"Çılktaş Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1lkta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819048","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin buluşma noktası"
 keywords: ["Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa","tarih","tepe","gezi","turizm","çevre"]

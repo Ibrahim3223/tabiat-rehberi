@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Hayırlı Tepe","caption":"Hayırlı Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Hayırlı Tepe","caption":"Hayırlı Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hay%C4%B1rl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386210","tip":"genel"}]
 description: "Şanlıurfa'nın tarihi ve doğal güzelliklerini keşfedin. Güneydoğu Anadolu Bölgesi'nde bulunan Hayırlı Tepe, ziyaretçilerini bekliyor."
 keywords: ["Hayırlı Tepe","Şanlıurfa","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","orman gezisi","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kıllıkaya Tepesi","caption":"Kıllıkaya Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kıllıkaya Tepesi","caption":"Kıllıkaya Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1ll%C4%B1kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538487","tip":"genel"}]
 description: "Hatay'da yer alan Kıllıkaya Tepesi, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Kıllıkaya Tepesi","Hatay","Akdeniz Bölgesi","doğal alan","tepe","coğrafya"]

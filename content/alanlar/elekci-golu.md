@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erastae_%28Jolliffe_trans%2C1827%29.djvu/page1-800px-Erastae_%28Jolliffe_trans%2C1827%29.djvu.jpg","alt":"Elekçi Gölü","caption":"Elekçi Gölü","credit":"Erastae (Jolliffe trans,1827)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sakl%C4%B1_Cennet_-_Ye%C5%9Fil_G%C3%B6l_-_La%C3%A7in_%C3%87orum_-_A%C4%9Fustos_-_Drone_%C3%87ekimi.webm/800px--Sakl%C4%B1_Cennet_-_Ye%C5%9Fil_G%C3%B6l_-_La%C3%A7in_%C3%87orum_-_A%C4%9Fustos_-_Drone_%C3%87ekimi.webm.jpg","alt":"Elekçi Gölü","caption":"Elekçi Gölü","credit":"Saklı Cennet - Yeşil Göl - Laçin Çorum - Ağustos - Drone Çekimi","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elek%C3%A7i%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35695576","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerinden biri olan Elekçi Gölü, 1200 hektarlık alanı ile önemli bir su kaynağı ve doğa alanıdır."
 keywords: ["Elekçi Gölü","Çorum","göl","doğa alanı","su kaynağı","turizm","çevre","ekosistem","çorum gezilecek yerler"]

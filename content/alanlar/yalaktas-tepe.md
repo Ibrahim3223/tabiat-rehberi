@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Yalaktaş Tepe","caption":"Yalaktaş Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Yalaktaş Tepe","caption":"Yalaktaş Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yalakta%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389422","tip":"genel"}]
 description: "Mersin'de bulunan Yalaktaş Tepe, Akdeniz Bölgesi'nin önemli coğrafik noktalarından biri"
 keywords: ["Yalaktaş Tepe","Mersin","Akdeniz Bölgesi","coğrafya","doğa","gezi","tarih"]

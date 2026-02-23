@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Manzara keşfi","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Begirkayası Tepesi","caption":"Begirkayası Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Begirkayası Tepesi","caption":"Begirkayası Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Begirkayas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390338","tip":"genel"}]
 description: "Afyonkarahisar'da bulunan Begirkayası Tepesi, Ege Bölgesi'nin önemli güzelliklerinden biri."
 keywords: ["Begirkayası Tepesi","Afyonkarahisar","Ege Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya"]

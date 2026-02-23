@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Panoramik manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Emir Tepesi","caption":"Emir Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Emir Tepesi","caption":"Emir Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552343","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini bir araya getiren Emir Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu tepenin eteklerinde kurulmuş olan Mardin kenti, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve zengin bir tarihi geçmişe sahiptir."
 keywords: ["Emir Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","Tarih","Doğa","Gezi","Tepeler","Coğrafya"]

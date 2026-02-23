@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarih ve coğrafya öğrenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Erastae_%28Jolliffe_trans%2C1827%29.djvu/page1-800px-Erastae_%28Jolliffe_trans%2C1827%29.djvu.jpg","alt":"Ağaoluğu Tepe","caption":"Ağaoluğu Tepe","credit":"Erastae (Jolliffe trans,1827)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Ağaoluğu Tepe","caption":"Ağaoluğu Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Faolu%C4%9Fu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387332","tip":"genel"}]
 description: "Çorum'un gizli doğa harikası, Ağaoluğu Tepe"
 keywords: ["Ağaoluğu Tepe","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","tarih","coğrafya","flora","fauna"]

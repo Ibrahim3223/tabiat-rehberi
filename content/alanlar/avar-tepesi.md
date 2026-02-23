@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Trekking","Dağcılık","Köy gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Blackwood%27s_Magazine_volume_033.djvu/page1-800px-Blackwood%27s_Magazine_volume_033.djvu.jpg","alt":"Avar Tepesi","caption":"Avar Tepesi","credit":"Blackwood's Magazine volume 033","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Avar Tepesi","caption":"Avar Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388058","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Avar Tepesi, Muş ilinin doğal güzellikleri arasında bulunur."
 keywords: ["Avar Tepesi","Muş","Doğu Anadolu Bölgesi","Doğal güzellikler","Dağcılık","Trekking"]

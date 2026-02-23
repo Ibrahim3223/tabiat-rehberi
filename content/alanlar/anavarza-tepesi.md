@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî keşif","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lands_of_the_Saracen_1859.djvu/page1-800px-Lands_of_the_Saracen_1859.djvu.jpg","alt":"Anavarza Tepesi","caption":"Anavarza Tepesi","credit":"Lands of the Saracen 1859","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Anavarza Tepesi","caption":"Anavarza Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anavarza%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390274","tip":"genel"}]
 description: "Adana ilinin tarihî ve doğal güzelliklerini barındıran Anavarza Tepesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Anavarza Tepesi","Adana","tarih","doğa","gezi","turizm","Akdeniz Bölgesi","kültür"]

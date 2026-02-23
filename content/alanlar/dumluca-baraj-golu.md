@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syriac_New_Testament_%28Murdock%29.djvu/page1-800px-Syriac_New_Testament_%28Murdock%29.djvu.jpg","alt":"Dumluca Baraj Gölü","caption":"Dumluca Baraj Gölü","credit":"Syriac New Testament (Murdock)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Dumluca Baraj Gölü","caption":"Dumluca Baraj Gölü","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dumluca%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34884233","tip":"genel"}]
 description: "Mardin'de yer alan Dumluca Baraj Gölü, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Dumluca Baraj Gölü","Mardin","göl","baraj","doğa","gezi","turizm","Mardin gezilecek yerler","göl gezi"]

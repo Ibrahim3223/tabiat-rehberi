@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğal güzellikleri keşfetmek","tarih ve coğrafya hakkında bilgi edinmek","flora ve faunayı gözlemlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Karageh Tepesi","caption":"Karageh Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karageh Tepesi","caption":"Karageh Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karageh%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391120","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Karageh Tepesi, doğal güzellikleriyle dikkat çekiyor. Tarihi ve coğrafi özellikleri ile ön plana çıkan bu tepe, ziyaretçilerini bekliyor."
 keywords: ["Karageh Tepesi","Sivas","İç Anadolu Bölgesi","doğal güzellik","tarih","coğrafya"]

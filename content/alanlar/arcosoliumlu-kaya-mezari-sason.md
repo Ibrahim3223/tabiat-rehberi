@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mezar gezi","doğa yürüyüşü","fotoğrafçılık","tarih ve kültür araştırmaları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/The_Boy_Travellers_in_Australasia.djvu/page1-800px-The_Boy_Travellers_in_Australasia.djvu.jpg","alt":"Arcosoliumlu Kaya Mezarı, Sason","caption":"Arcosoliumlu Kaya Mezarı, Sason","credit":"The Boy Travellers in Australasia.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Arcosoliumlu Kaya Mezarı, Sason","caption":"Arcosoliumlu Kaya Mezarı, Sason","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arcosoliumlu%20Kaya%20Mezar%C4%B1%2C%20Sason","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728188","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi hazinelerinden biri olan Arcosoliumlu Kaya Mezarı, Sason'da yer alıyor. Bu antik mezar, coğrafyanın zengin tarihini yansıtıyor."
 keywords: ["Arcosoliumlu Kaya Mezarı","Sason","Güneydoğu Anadolu Bölgesi","tarih","kaya mezarı","antik","coğrafya"]

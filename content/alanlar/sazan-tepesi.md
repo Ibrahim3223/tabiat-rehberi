@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotografcılık","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Sazan Tepesi","caption":"Sazan Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sazan Tepesi","caption":"Sazan Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sazan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390763","tip":"genel"}]
 description: "Yozgat'ın güzide noktalarından biri olan Sazan Tepesi, ziyaretçilerini bekliyor. Doğal güzellikleri ve tarihi geçmişiyle ön plana çıkan bu bölge, Ni Anadolu Bölgesi'nin önemli destinasyonlarından biri."
 keywords: ["Sazan Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm","yayla","tepe"]

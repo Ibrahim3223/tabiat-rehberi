@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Dağcılık","Fotoğrafçılık","Çadır kurma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Ülkerdağı Tepesi","caption":"Ülkerdağı Tepesi","credit":"Armenia, Travels and Studies, Vol. 2","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Ülkerdağı Tepesi","caption":"Ülkerdağı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Clkerda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810057","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli köşelerinden biri olan Ülkerdağı Tepesi, doğa severlerin keşfetmeyi bekleyen bir hazine."
 keywords: ["Ülkerdağı Tepesi","Doğu Anadolu Bölgesi","Bingöl","Doğa","Tepeler","Dağcılık","Doğa Yürüyüşü","Gizli Kırsal Alanlar"]

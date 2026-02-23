@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","picnic","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Gündost Tepesi","caption":"Gündost Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Gündost Tepesi","caption":"Gündost Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCndost%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139296","tip":"genel"}]
 description: "Yozgat'ın doğal güzelliklerinden biri olan Gündost Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Gündost Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre"]

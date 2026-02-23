@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Kuşçu Tepesi","caption":"Kuşçu Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kuşçu Tepesi","caption":"Kuşçu Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9F%C3%A7u%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32206434","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerinden biri olan Kuşçu Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kuşçu Tepesi","Gaziantep","doğa","tepe","gezi","turizm","Güneydoğu Anadolu","coğrafya"]

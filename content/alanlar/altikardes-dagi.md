@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Altıkardeş Dağı","caption":"Altıkardeş Dağı","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Altıkardeş Dağı","caption":"Altıkardeş Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1karde%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31532156","tip":"genel"}]
 description: "Bingöl'de yer alan Altıkardeş Dağı, doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Altıkardeş Dağı","Bingöl","Dağ","Doğa","Trekking","Turizm","Gezi","Bingöl Gezi","Dağcılık"]

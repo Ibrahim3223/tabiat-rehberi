@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "7-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Executive_Orders_of_Herbert_Hoover%2C_Volume_I.djvu/page1-800px-Executive_Orders_of_Herbert_Hoover%2C_Volume_I.djvu.jpg","alt":"Fişekli Dağı","caption":"Fişekli Dağı","credit":"Executive Orders of Herbert Hoover, Volume I","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Fişekli Dağı","caption":"Fişekli Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fi%C5%9Fekli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31577310","tip":"genel"}]
 description: "Ağrı'da yer alan Fişekli Dağı, doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Fişekli Dağı","Ağrı","Dağ","Trekking","Doğa","Gezi","Seyahat","Turizm","Ağrı Turistik Yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Bir gün"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Tarih gezisi","El sanatları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Aykız Tepesi","caption":"Aykız Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Aykız Tepesi","caption":"Aykız Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayk%C4%B1z%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389660","tip":"genel"}]
 description: "Kastamonu'nun gizli cenneti, Aykız Tepesi'ni keşfedin!"
 keywords: ["Aykız Tepesi","Kastamonu","Karadeniz Bölgesi","tepe","doğa","gezi","tarihçe","coğrafya"]

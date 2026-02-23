@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Özlüce Baraj Gölü","caption":"Özlüce Baraj Gölü","credit":"Armenia, Travels and Studies, Vol. 2","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Özlüce Baraj Gölü","caption":"Özlüce Baraj Gölü","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96zl%C3%BCce%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34937042","tip":"genel"}]
 description: "Bingöl'ün Yayladere ilçesinde bulunan Özlüce Baraj Gölü, doğal güzellikleri ve çevresindeki yeşilliklerle dikkat çekiyor."
 keywords: ["Özlüce Baraj Gölü","Bingöl","Yayladere","göl","baraj gölü","doğa","yeşillik","turizm","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["höyük gezisi","coğrafi keşif","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Göbekören Hüyüğü","caption":"Göbekören Hüyüğü","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Göbekören Hüyüğü","caption":"Göbekören Hüyüğü","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6bek%C3%B6ren%20H%C3%BCy%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32223290","tip":"genel"}]
 description: "Sivas'ta bulunan tarihi höyüğün zengin geçmişi ve coğrafyası"
 keywords: ["Sivas","İç Anadolu Bölgesi","tarih","coğrafya","höyük","gezi","keşif"]

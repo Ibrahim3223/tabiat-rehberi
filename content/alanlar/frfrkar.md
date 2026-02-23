@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Frfrkar","caption":"Frfrkar","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Frfrkar","caption":"Frfrkar","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Frfrkar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21209755","tip":"genel"}]
 description: "Muş'ta bulunan 2917 metre yüksekliğiyle dikkat çeken Frfrkar Dağı, doğa severlerin keşfetmeyi bekleyen bir hazine."
 keywords: ["Frfrkar Dağı","Muş","Dağ","Doğa","Trekking","Kaya tırmanışı","Turizm","Muş turistik yerler","Dağcılık"]

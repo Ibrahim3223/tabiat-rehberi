@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarihi araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Keföbet Tepesi","caption":"Keföbet Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Keföbet Tepesi","caption":"Keföbet Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kef%C3%B6bet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878444","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve coğrafi güzelliklerini sunan Keföbet Tepesi, Mardin'in önemli ziyaret noktalarından biri."
 keywords: ["Mardin","Keföbet Tepesi","Güneydoğu Anadolu","coğrafi güzellik","tarihi mekan","turizm","doğa","tepe"]

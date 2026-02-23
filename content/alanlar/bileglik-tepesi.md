@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotograf çekme","tarihî kalıntıları ziyaret etme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Bileğlik Tepesi","caption":"Bileğlik Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bileğlik Tepesi","caption":"Bileğlik Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bile%C4%9Flik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388007","tip":"genel"}]
 description: "Uşak'ta bulunan Bileğlik Tepesi, Ege Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Bileğlik Tepesi","Uşak","Ege Bölgesi","doğal alan","tepe","coğrafya","flora","fauna","ziyaret"]

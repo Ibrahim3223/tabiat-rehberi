@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["trekking","kamp","yürüyüş","doğa"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Akkavşak Tepesi","caption":"Akkavşak Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Akkavşak Tepesi","caption":"Akkavşak Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akkav%C5%9Fak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389784","tip":"genel"}]
 description: "Bolu'nun güzide doğal alanlarından biri olan Akkavşak Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Akkavşak Tepesi","Bolu","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","yürüyüş","kamp"]

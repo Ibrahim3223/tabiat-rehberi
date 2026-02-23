@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezmek","doğal güzellikleri keşfetmek","fotograf çekmek","piknik yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Condor6%286%29.djvu/page1-800px-Condor6%286%29.djvu.jpg","alt":"İmam Kurtubi Türbesi","caption":"İmam Kurtubi Türbesi","credit":"Condor6(6)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"İmam Kurtubi Türbesi","caption":"İmam Kurtubi Türbesi","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mam%20Kurtubi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390713","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Bolu şehrinde bulunan İmam Kurtubi Türbesi, tarihi ve doğal güzellikleri bir araya getiren bir destinasyondur."
 keywords: ["İmam Kurtubi Türbesi","Bolu","Karadeniz Bölgesi","tarihi mekan","doğa","gezi"]

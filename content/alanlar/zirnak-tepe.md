@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg/960px-Wichita_Mountains_Byway_-_Black-Tailed_Prairie_Dog_-_NARA_-_7722863.jpg","alt":"Zırnak Tepe","caption":"Zırnak Tepe","credit":"Wichita Mountains Byway - Black-Tailed Prairie Dog - NARA - 7722863","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Zırnak Tepe","caption":"Zırnak Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Z%C4%B1rnak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31501705","tip":"genel"}]
 description: "Muş'un doğal güzelliklerini keşfedin, Zırnak Tepe'de dağların büyüsüne kapılmaya hazır olun!"
 keywords: ["Zırnak Tepe","Muş","Dağ","Doğa","Turizm","Gezi","Seyahat","Muş Turistik Yerler","Zırnak Tepe Nerede"]

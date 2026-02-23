@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna","tarihçe keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Bozca Tepe","caption":"Bozca Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bozca Tepe","caption":"Bozca Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozca%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388974","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli hazinesi, Muş'ta bulunan Bozca Tepe"
 keywords: ["Bozca Tepe","Muş","Doğu Anadolu Bölgesi","tepe","coğrafya","tarihçe","flora","fauna","ziyaret"]

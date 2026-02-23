@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/The_geographical_works_of_Sadik_Isfahani.djvu/page1-800px-The_geographical_works_of_Sadik_Isfahani.djvu.jpg","alt":"Mutlu Adası","caption":"Mutlu Adası","credit":"The geographical works of Sadik Isfahani","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Istanbul_and_Bosporus_big.jpg/960px-Istanbul_and_Bosporus_big.jpg","alt":"Mutlu Adası","caption":"Mutlu Adası","credit":"Istanbul and Bosporus big","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mutlu%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49660981","tip":"genel"}]
 description: "Bursa'da bulunan Mutlu Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Mutlu Adası","Bursa","ada","doğa","yeşil alan","turizm","gezi","Bursa turistik yerler","Mutlu Adası gezilecek yerler"]

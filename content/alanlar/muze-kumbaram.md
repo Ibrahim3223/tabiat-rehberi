@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","gözlem"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Early_western_travels%2C_1748-1846_%281907_Volume_22%29.djvu/page1-800px-Early_western_travels%2C_1748-1846_%281907_Volume_22%29.djvu.jpg","alt":"Müze Kumbaram","caption":"Müze Kumbaram","credit":"Early western travels, 1748-1846 (1907 Volume 22)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Müze Kumbaram","caption":"Müze Kumbaram","credit":"^^^^ - Flickr - zehhhra","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%BCze%20Kumbaram","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950147","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin. Müze Kumbaram, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası."
 keywords: ["Müze Kumbaram","Ankara","İç Anadolu Bölgesi","doğa","yayla","turizm","gezi","keşif"]

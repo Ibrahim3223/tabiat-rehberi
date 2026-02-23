@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Kış sporları","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Yarımca Tepesi","caption":"Yarımca Tepesi","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Yarımca Tepesi","caption":"Yarımca Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yar%C4%B1mca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389095","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Bingöl ilinde yer alan Yarımca Tepesi, bölgeye özgü flora ve fauna çeşitliliği sunar."
 keywords: ["Yarımca Tepesi","Bingöl","Doğu Anadolu Bölgesi","tepe","flora","fauna","doğa","gezi","turizm"]

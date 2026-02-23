@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","manzara izleme","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Ballıkaya Tepesi","caption":"Ballıkaya Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Ballıkaya Tepesi","caption":"Ballıkaya Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ball%C4%B1kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386501","tip":"genel"}]
 description: "Hatay'da bulunan Ballıkaya Tepesi, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri"
 keywords: ["Ballıkaya Tepesi","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

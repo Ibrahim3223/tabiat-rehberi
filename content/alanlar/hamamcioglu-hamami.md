@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi hamam gezisi","kültür turu","şehir gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_travels_of_Macarius%2C_Patriarch_of_Antioch_-_Volume_II.djvu/page1-800px-The_travels_of_Macarius%2C_Patriarch_of_Antioch_-_Volume_II.djvu.jpg","alt":"Hamamcıoğlu Hamamı","caption":"Hamamcıoğlu Hamamı","credit":"The travels of Macarius, Patriarch of Antioch - Volume II","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hamamcıoğlu Hamamı","caption":"Hamamcıoğlu Hamamı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamamc%C4%B1o%C4%9Flu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738438","tip":"genel"}]
 description: "Sivas'ın merkezinde yer alan Hamamcıoğlu Hamamı, tarihi ve kültürel öneme sahip bir mekân."
 keywords: ["Sivas","Hamamcıoğlu Hamamı","tarihi hamam","kültür","Sivas merkezinde"]

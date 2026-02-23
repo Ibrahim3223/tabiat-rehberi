@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yaklaşık 4-5 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Manzara izleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"Afandağı Tepesi","caption":"Afandağı Tepesi","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Afandağı Tepesi","caption":"Afandağı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Afanda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390776","tip":"genel"}]
 description: "Yozgat'ta, İç Anadolu Bölgesi'nin önemli güzelliği"
 keywords: ["Afandağı Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

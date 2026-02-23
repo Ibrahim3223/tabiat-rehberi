@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara seyri","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Landscape_Painting_by_Birge_Harrison.djvu/page1-800px-Landscape_Painting_by_Birge_Harrison.djvu.jpg","alt":"İncirliören Tepe","caption":"İncirliören Tepe","credit":"Landscape Painting by Birge Harrison","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"İncirliören Tepe","caption":"İncirliören Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncirli%C3%B6ren%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810513","tip":"genel"}]
 description: "Adana'nın tarihi ve doğal güzelliklerini keşfedin. İncirliören Tepe, Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["İncirliören Tepe","Adana","Akdeniz Bölgesi","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]
