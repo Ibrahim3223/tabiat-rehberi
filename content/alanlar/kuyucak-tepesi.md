@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarihî gezinti"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuyucak%20Tepesi","alt":"Kuyucak Tepesi","caption":"Kuyucak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf/page1-727px-Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf.jpg","alt":"Kuyucak Tepesi","caption":"Kuyucak Tepesi","credit":"Medical Heritage Library (IA 57721120R.nlm.nih.gov).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyucak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581811","tip":"genel"}]
 description: "Çorum'un Karadeniz Bölgesi'nde yer alan Kuyucak Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar."
 keywords: ["Kuyucak Tepesi","Çorum","Karadeniz Bölgesi","doğal güzellik","tarih","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Saray gezisi","Bahçe turu","Tarihi eser inceleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20M%C3%BCze%20M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC","alt":"Yıldız Sarayı Müze Müdürlüğü","caption":"Yıldız Sarayı Müze Müdürlüğü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Yıldız Sarayı Müze Müdürlüğü","caption":"Yıldız Sarayı Müze Müdürlüğü","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20M%C3%BCze%20M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108564974","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel açıdan zengin bir bölgesi olan Beşiktaş'ta bulunan Yıldız Sarayı Müze Müdürlüğü, 19. yüzyılda inşa edilen sarayın müze olarak kullanılan bölümüdür."
 keywords: ["Yıldız Sarayı","Müze Müdürlüğü","Beşiktaş","İstanbul","Marmara Bölgesi","Tarih","Kültür","Müze"]

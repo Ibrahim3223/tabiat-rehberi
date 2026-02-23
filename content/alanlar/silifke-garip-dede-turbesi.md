@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Plaj etkinlikleri","Doğa yürüyüşleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Silifke%20Garip%20Dede%20T%C3%BCrbesi","alt":"Silifke Garip Dede Türbesi","caption":"Silifke Garip Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Silifke Garip Dede Türbesi","caption":"Silifke Garip Dede Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Silifke%20Garip%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390498","tip":"genel"}]
 description: "Mersin'de tarihi ve doğal güzelliklerin birleştiği nokta, Silifke Garip Dede Türbesi ve plajı."
 keywords: ["Silifke","Garip Dede Türbesi","Mersin","Akdeniz Bölgesi","Türbe","Plaj","Tarihi yerler","Doğa","Gezi noktaları"]

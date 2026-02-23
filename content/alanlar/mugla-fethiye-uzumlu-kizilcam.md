@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşü","Güzel Manzaralar","Flora ve Fauna Keşfi","Ekoloji"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Fethiye-Uzumlu%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mugla-Fethiye-Uzumlu Kızılçam","caption":"Mugla-Fethiye-Uzumlu Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Mugla-Fethiye-Uzumlu Kızılçam","caption":"Mugla-Fethiye-Uzumlu Kızılçam","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Fethiye-Uzumlu%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227665","tip":"genel"}]
 description: "Mugla-Fethiye-Uzumlu Kızılçam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Mugla","Fethiye","Uzumlu Kızılçam","Milli Park","Doğa","Yeşil Alan","Kızılçam"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akba%C5%9F%20Deresi","alt":"Akbaş Deresi","caption":"Akbaş Deresi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg/960px-Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg","alt":"Akbaş Deresi","caption":"Akbaş Deresi","credit":"Stamp of Indonesia - 2018 - Colnect 800738 - Environmental Protection - Bamboo Forest.jpeg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akba%C5%9F%20Deresi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387554","tip":"genel"}]
 description: "Çanakkale'nin güzide yerlerinden biri olan Akbaş Deresi, Marmara Bölgesi'nde yer alır."
 keywords: ["Akbaş Deresi","Çanakkale","Marmara Bölgesi","Doğa","Turizm","Gezi","Tarihçe","Coğrafya","Flora","Fauna"]

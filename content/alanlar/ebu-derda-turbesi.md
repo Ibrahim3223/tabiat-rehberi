@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğa yürüyüşü","Deniz manzarasını izlemek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ebu%20Derda%20T%C3%BCrbesi","alt":"Ebu Derda Türbesi","caption":"Ebu Derda Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bart%C4%B1n_G%C3%BCzelcehisar.jpg/960px-Bart%C4%B1n_G%C3%BCzelcehisar.jpg","alt":"Ebu Derda Türbesi","caption":"Ebu Derda Türbesi","credit":"Bartın Güzelcehisar.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ebu%20Derda%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728096","tip":"genel"}]
 description: "Bartın ilinin merkezinde, Karadeniz kıyısında bulunan Ebu Derda Türbesi, tarihi ve doğal güzelliklerin birleştiği özel bir yerdir."
 keywords: ["Ebu Derda Türbesi","Bartın","Karadeniz","tarih","doğa","gezi","turizm","türbe","plaj"]

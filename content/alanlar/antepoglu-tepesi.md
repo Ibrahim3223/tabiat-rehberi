@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarihî araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antepo%C4%9Flu%20Tepesi","alt":"Antepoğlu Tepesi","caption":"Antepoğlu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fairy_Chimneys_-_panoramio_%282%29.jpg/960px-Fairy_Chimneys_-_panoramio_%282%29.jpg","alt":"Antepoğlu Tepesi","caption":"Antepoğlu Tepesi","credit":"Fairy Chimneys - panoramio (2).jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antepo%C4%9Flu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390597","tip":"genel"}]
 description: "Nevşehir'in görkemli tepelerinden biri olan Antepoğlu Tepesi, ziyaretçilerini tarihi ve doğal güzelliklerle karşılar."
 keywords: ["Antepoğlu Tepesi","Nevşehir","İç Anadolu Bölgesi","tepe","doğa","tarih","gezi","turizm","kültür"]

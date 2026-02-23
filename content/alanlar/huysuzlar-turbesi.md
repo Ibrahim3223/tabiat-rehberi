@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Huysuzlar%20T%C3%BCrbesi","alt":"Huysuzlar Türbesi","caption":"Huysuzlar Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%C3%9Clkeler_Co%C4%9Frafyas%C4%B1_Perspektifinden_Filipinler_Cumhuriyeti.pdf/page1-960px-%C3%9Clkeler_Co%C4%9Frafyas%C4%B1_Perspektifinden_Filipinler_Cumhuriyeti.pdf.jpg","alt":"Huysuzlar Türbesi","caption":"Huysuzlar Türbesi","credit":"Ülkeler Coğrafyası Perspektifinden Filipinler Cumhuriyeti.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Huysuzlar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391752","tip":"genel"}]
 description: "İznik'in tarihi ve doğal güzelliğini bir arada sunan Huysuzlar Türbesi, Marmara Bölgesi'nde yer alan bir plaj ve tarihi mekan"
 keywords: ["Huysuzlar Türbesi","İznik","Bursa","Marmara Bölgesi","tarihi mekan","plaj","doğal güzellik"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kamp","piknik","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Bucak%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Isparta-Bucak Kızılçam","caption":"Isparta-Bucak Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nationalpark_K%C4%B1z%C4%B1lda%C4%9F_bei_Yeni%C5%9Farbademli%3B_Blick_nach_Nord.jpg/960px-Nationalpark_K%C4%B1z%C4%B1lda%C4%9F_bei_Yeni%C5%9Farbademli%3B_Blick_nach_Nord.jpg","alt":"Isparta-Bucak Kızılçam","caption":"Isparta-Bucak Kızılçam","credit":"Nationalpark Kızıldağ bei Yenişarbademli; Blick nach Nord.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Bucak%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227417","tip":"genel"}]
 description: "Isparta ilinin doğal güzelliklerini keşfedin, 140 hektarlık alanıyla Isparta-Bucak Kızılçam"
 keywords: ["Isparta","Bucak","Kızılçam","milli park","doğa","gezi","turizm"]

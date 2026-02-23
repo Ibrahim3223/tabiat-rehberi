@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=O%C4%9Fulluarka%C3%A7%20Tepesi","alt":"Oğulluarkaç Tepesi","caption":"Oğulluarkaç Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Oğulluarkaç Tepesi","caption":"Oğulluarkaç Tepesi","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/O%C4%9Fulluarka%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34888383","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Oğulluarkaç Tepesi, şehrin merkezi bir noktasında yükselen bir tepe"
 keywords: ["Ankara","İç Anadolu Bölgesi","tepe","doğal alan","gezi","turizm","coğrafya","flora","fauna"]

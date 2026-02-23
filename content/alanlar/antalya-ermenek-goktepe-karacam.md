@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","tarihi yapıları ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Ermenek-G%C3%B6ktepe-Kara%C3%A7am","alt":"Antalya-Ermenek-Göktepe-Karaçam","caption":"Antalya-Ermenek-Göktepe-Karaçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Antalya-Ermenek-Göktepe-Karaçam","caption":"Antalya-Ermenek-Göktepe-Karaçam","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Ermenek-G%C3%B6ktepe-Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228258","tip":"genel"}]
 description: "Antalya'da yer alan doğal güzellikler arasında bulunan milli park."
 keywords: ["Antalya","milli park","doğa","gezi","çevre","Akdeniz","turizm","yaban hayatı","ekosistem"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşleri","piknik","gözlem noktaları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sinop-Boyabat-Burunuk%20Karacam","alt":"Sinop-Boyabat-Burunuk Karacam","caption":"Sinop-Boyabat-Burunuk Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Sinop-Boyabat-Burunuk Karacam","caption":"Sinop-Boyabat-Burunuk Karacam","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Boyabat-Burunuk%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227954","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin, Sinop-Boyabat-Burunuk Karacam milli parkı"
 keywords: ["Sinop","Boyabat","Burunuk Karacam","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

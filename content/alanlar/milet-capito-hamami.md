@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih yürüyüşü","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Milet%20Capito%20Hamam%C4%B1","alt":"Milet Capito Hamamı","caption":"Milet Capito Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Milet Capito Hamamı","caption":"Milet Capito Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Milet%20Capito%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739080","tip":"genel"}]
 description: "Didim'in İyonya'daki tarihi ve doğal güzellikleri sunan Milet Capito Hamamı, ziyaretçilerini bekliyor."
 keywords: ["Milet","Capito Hamamı","Didim","İyonya","tarih","doğa","gezi","turizm"]

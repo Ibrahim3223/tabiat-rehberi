@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Kumluca-Y.alakir%20Sedir","alt":"Antalya-Kumluca-Y.alakir Sedir","caption":"Antalya-Kumluca-Y.alakir Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/14/Saklikent_Rocks_and_Sky.jpg","alt":"Antalya-Kumluca-Y.alakir Sedir","caption":"Antalya-Kumluca-Y.alakir Sedir","credit":"Saklikent Rocks and Sky.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Kumluca-Y.alakir%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227601","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin turizm cenneti Antalya'da yer alan Kumluca-Y.alakir Sedir Milli Parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Antalya","Kumluca","Y.alakir Sedir","Milli Park","Akdeniz Bölgesi","Turizm","Doğa"]

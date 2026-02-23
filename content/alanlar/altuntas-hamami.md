@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğraf çekimi","doğayı izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Altunta%C5%9F%20Hamam%C4%B1","alt":"Altuntaş Hamamı","caption":"Altuntaş Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Altuntaş Hamamı","caption":"Altuntaş Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Altunta%C5%9F%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738950","tip":"genel"}]
 description: "Amasya'nın doğal güzellikleri arasında yer alan Altuntaş Hamamı, ziyaretçilerini büyülemektedir."
 keywords: ["Altuntaş Hamamı","Amasya","Karadeniz Bölgesi","doğal güzellikler","gezi noktaları","plajlar","turizm","Amasya turistik yerler"]

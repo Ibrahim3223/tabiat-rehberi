@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Saray%20Hamam%C4%B1%2C%20Erzurum","alt":"Saray Hamamı, Erzurum","caption":"Saray Hamamı, Erzurum"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Saray Hamamı, Erzurum","caption":"Saray Hamamı, Erzurum","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saray%20Hamam%C4%B1%2C%20Erzurum","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245849","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfedin. Erzurum'un merkezinde yer alan Saray Hamamı, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Saray Hamamı","Erzurum","Doğu Anadolu Bölgesi","tarihi hamam","yeşil alan","kültürel zenginlik"]

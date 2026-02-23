@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe öğrenme","doğa seyretme","fotoğraf çekme","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pir%20Ali%20Sultan%20T%C3%BCrbesi","alt":"Pir Ali Sultan Türbesi","caption":"Pir Ali Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Pir Ali Sultan Türbesi","caption":"Pir Ali Sultan Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pir%20Ali%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390643","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin kalbinde yer alan Aksaray'da bulunan Pir Ali Sultan Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Pir Ali Sultan Türbesi","Aksaray","İç Anadolu Bölgesi","tarih","doğa","turizm","gezi","tarihçe","coğrafya"]

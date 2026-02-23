@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hanifemexan%20Tepesi","alt":"Hanifemexan Tepesi","caption":"Hanifemexan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Hanifemexan Tepesi","caption":"Hanifemexan Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hanifemexan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535033","tip":"genel"}]
 description: "Osmaniye'nin doğal güzellikleri arasında yer alan Hanifemexan Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Hanifemexan Tepesi","Osmaniye","Akdeniz Bölgesi","doğa","gezi","turizm","tepe","manzara"]

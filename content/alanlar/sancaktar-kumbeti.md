@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kültür turu","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sancaktar%20K%C3%BCmbeti","alt":"Sancaktar Kümbeti","caption":"Sancaktar Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Sancaktar Kümbeti","caption":"Sancaktar Kümbeti","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sancaktar%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582380","tip":"genel"}]
 description: "Kayseri'nin Pınarbaşı ilçesinde bulunan Sancaktar Kümbeti, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Sancaktar Kümbeti","Kayseri","Pınarbaşı","tarihi mekan","doğal güzellik","gezi","turizm","kültür","İç Anadolu Bölgesi"]

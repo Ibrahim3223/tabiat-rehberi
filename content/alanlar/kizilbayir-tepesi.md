@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lbay%C4%B1r%20Tepesi","alt":"Kızılbayır Tepesi","caption":"Kızılbayır Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Kızılbayır Tepesi","caption":"Kızılbayır Tepesi","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lbay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390509","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin, Kızılbayır Tepesi'nin tarihi ve coğrafi özellikleri"
 keywords: ["Kızılbayır Tepesi","Konya","İç Anadolu Bölgesi","doğa","tepe","coğrafya","tarihçe","flora","fauna"]

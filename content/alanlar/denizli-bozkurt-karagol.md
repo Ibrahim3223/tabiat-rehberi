@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Trekking","Doğa fotoğrafçılığı","Balık avı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=DEN%C4%B0ZL%C4%B0%20BOZKURT%20KARAG%C3%96L","alt":"DENİZLİ BOZKURT KARAGÖL","caption":"DENİZLİ BOZKURT KARAGÖL"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"DENİZLİ BOZKURT KARAGÖL","caption":"DENİZLİ BOZKURT KARAGÖL","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DEN%C4%B0ZL%C4%B0%20BOZKURT%20KARAG%C3%96L","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228895","tip":"genel"}]
 description: "Doğal güzellikleri ve zengin ekosistemiyle dikkat çeken Denizli Bozkurt Karagöl, ziyaretçilerini büyülüyor."
 keywords: ["Denizli","Bozkurt Karagöl","milli park","doğa","ekosistem","turizm","gezi","yaban hayatı","flora","fauna"]

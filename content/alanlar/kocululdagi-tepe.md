@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ko%C3%A7ululda%C4%9F%C4%B1%20Tepe","alt":"Koçululdağı Tepe","caption":"Koçululdağı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Koçululdağı Tepe","caption":"Koçululdağı Tepe","credit":"Lake Meke (217872347).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7ululda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32200898","tip":"genel"}]
 description: "Konya'nın tarihi ve coğrafi zenginliklerini keşfedin. Koçululdağı Tepe, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Konya","İç Anadolu Bölgesi","Koçululdağı Tepe","coğrafi zenginlikler","tarihi alanlar","doğa","gezi","turizm"]

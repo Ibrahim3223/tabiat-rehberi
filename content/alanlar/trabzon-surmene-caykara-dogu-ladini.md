@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","yaban hayatı gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trabzon-S%C3%BCrmene-Caykara-Dogu%20Ladini","alt":"Trabzon-Sürmene-Caykara-Dogu Ladini","caption":"Trabzon-Sürmene-Caykara-Dogu Ladini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alt%C4%B1ndere_%281%29.jpg/960px-Alt%C4%B1ndere_%281%29.jpg","alt":"Trabzon-Sürmene-Caykara-Dogu Ladini","caption":"Trabzon-Sürmene-Caykara-Dogu Ladini","credit":"Altındere (1).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-S%C3%BCrmene-Caykara-Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228273","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerini keşfedin, Sürmene, Çaykara ve Doğu Ladini'nin muhteşem manzaraları"
 keywords: ["Trabzon","Sürmene","Çaykara","Doğu Ladini","Karadeniz Bölgesi","milli park","doğa","gezi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","orman gezisi","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Mut-%C3%87aml%C4%B1ca-K%C4%B1z%C4%B1l%C3%A7am%201","alt":"Mersin-Mut-Çamlıca-Kızılçam 1","caption":"Mersin-Mut-Çamlıca-Kızılçam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kad%C4%B1nc%C4%B1k_Valley_17.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_17.jpg","alt":"Mersin-Mut-Çamlıca-Kızılçam 1","caption":"Mersin-Mut-Çamlıca-Kızılçam 1","credit":"Kadıncık Valley 17.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut-%C3%87aml%C4%B1ca-K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228441","tip":"genel"}]
 description: "Mersin'de bulunan milli park, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Mersin","milli park","yeşil alan","doğa","çevre","gezi","turizm","Mediterranean","Akdeniz Bölgesi"]

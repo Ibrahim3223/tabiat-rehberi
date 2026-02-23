@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ko%C3%A7%20Da%C4%9F%C4%B1%20(Kayseri)","alt":"Koç Dağı (Kayseri)","caption":"Koç Dağı (Kayseri)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Koç Dağı (Kayseri)","caption":"Koç Dağı (Kayseri)","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7%20Da%C4%9F%C4%B1%20(Kayseri)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042404","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin, Koç Dağı'nda doğa yürüyüşü ve kayak keyfi yaşayın."
 keywords: ["Koç Dağı","Kayseri","Dağ","Doğa Yürüyüşü","Kayak","Turizm","Gezi","Kayseri Turistik Yerler","Doğa Sporları"]

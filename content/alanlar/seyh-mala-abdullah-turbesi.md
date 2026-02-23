@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Türbe ve plajı ziyaret etmek","Bölgenin doğal güzelliklerini keşfetmek","Yörenin kültürel ve dinî değerlerini öğrenmek","Yakın çevrede trekking ve doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Mala%20Abdullah%20T%C3%BCrbesi","alt":"Şeyh Mala Abdullah Türbesi","caption":"Şeyh Mala Abdullah Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Şeyh Mala Abdullah Türbesi","caption":"Şeyh Mala Abdullah Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Mala%20Abdullah%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391665","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Şırnak'ın Uludere ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Şeyh Mala Abdullah Türbesi","Şırnak","Uludere","Güneydoğu Anadolu Bölgesi","tarih","türbe","plaj","doğa","gezi"]

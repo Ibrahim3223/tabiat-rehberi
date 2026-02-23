@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Çevre Gezisi","Flora ve Fauna İncelemesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Elmali-Sevindik%20Sedir","alt":"Antalya-Elmali-Sevindik Sedir","caption":"Antalya-Elmali-Sevindik Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/14/Saklikent_Rocks_and_Sky.jpg","alt":"Antalya-Elmali-Sevindik Sedir","caption":"Antalya-Elmali-Sevindik Sedir","credit":"Saklikent Rocks and Sky.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Elmali-Sevindik%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227596","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin. Sevindik Sedir Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Antalya","Elmali","Sevindik Sedir","Milli Park","Doğa","Yeşil Alan","Futbol Sahası"]

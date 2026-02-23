@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kamping","photography"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Sebinkarahisar-Uckopru%20Dogu%20Karadeniz%20Goknari","alt":"Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari","caption":"Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari","caption":"Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari","credit":"Sis dağı (3).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Sebinkarahisar-Uckopru%20Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227592","tip":"genel"}]
 description: "Giresun-Sebinkarahisar-Uckopru Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri."
 keywords: ["Giresun","Sebinkarahisar","Uckopru","Dogu Karadeniz","Goknari","milli park","Karadeniz Bölgesi","doğal güzellik","turizm","gezi"]

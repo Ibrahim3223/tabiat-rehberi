@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Sinema ve tiyatro etkinlikleri","Sergiler","Atölye ve workshop'lar","Müze gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=T%C3%BCrker%20%C4%B0nano%C4%9Flu%20Vakf%C4%B1%20Sinema%20Tiyatro%20M%C3%BCzesi","alt":"Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi","caption":"Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Paolo_Monti_-_Serie_fotografica_%28T%C3%BCrkiye%2C_1962%29_-_BEIC_6333361.jpg/960px-Paolo_Monti_-_Serie_fotografica_%28T%C3%BCrkiye%2C_1962%29_-_BEIC_6333361.jpg","alt":"Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi","caption":"Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi","credit":"Paolo Monti - Serie fotografica (Türkiye, 1962) - BEIC 6333361.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrker%20%C4%B0nano%C4%9Flu%20Vakf%C4%B1%20Sinema%20Tiyatro%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949478","tip":"genel"}]
 description: "İstanbul'un merkezinde, sinema ve tiyatro sanatını keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["sinema","tiyatro","müze","İstanbul","Marmara Bölgesi","kültür","sanat","tarih","eğlence"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCre%20Da%C4%9F%C4%B1%20(%C4%B0zmir)","alt":"Küre Dağı (İzmir)","caption":"Küre Dağı (İzmir)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/MOKG03.jpg/960px-MOKG03.jpg","alt":"Küre Dağı","caption":"Küre Dağı","credit":"MOKG03.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCre%20Da%C4%9F%C4%B1%20(%C4%B0zmir)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042827","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. 1200 hektarlık alanıyla büyüleyici bir deneyim sunar."
 keywords: ["Küre Dağı","İzmir","Dağ","Doğa","Gezi","Türkiye","Seyahat","İzmir Gezilecek Yerler","Dağcılık"]

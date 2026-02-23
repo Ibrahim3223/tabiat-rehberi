@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9Cy%C3%BCc%C3%BCk%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","alt":"Üyücük Tümülüsü","caption":"Üyücük Tümülüsü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Üyücük Tümülüsü","caption":"Üyücük Tümülüsü","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cy%C3%BCc%C3%BCk%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728386","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli tarihi mekanlarından biri olan Üyücük Tümülüsü, Bilecik ilinin merkezinde yer alır."
 keywords: ["Üyücük Tümülüsü","Bilecik","Marmara Bölgesi","tarih","tümülüs","kültür","gezi","turizm","Marmara"]

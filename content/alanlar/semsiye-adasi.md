@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eemsiye%20Adas%C4%B1","alt":"Şemsiye Adası","caption":"Şemsiye Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/An_analysis_of_acquisition_strategies_for_the_Turkish_Armed_Forces._%28IA_analysisofacquis00oztu%29.pdf/page1-960px-An_analysis_of_acquisition_strategies_for_the_Turkish_Armed_Forces._%28IA_analysisofacquis00oztu%29.pdf.jpg","alt":"Şemsiye Adası","caption":"Şemsiye Adası","credit":"An analysis of acquisition strategies for the Turkish Armed Forces. (IA analysisofacquis00oztu).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eemsiye%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34796198","tip":"genel"}]
 description: "İstanbul'da bulunan Şemsiye Adası, tarihi ve doğal güzellikleri ile dikkat çekiyor. Şehir merkezine yakın konumuyla popüler bir gezi noktası."
 keywords: ["Şemsiye Adası","İstanbul Adaları","Tarih","Doğa","Gezi","İstanbul","Ada","Turizm","Şehir Gezisi"]

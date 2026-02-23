@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Melhem%C3%A7al%C4%B1","alt":"Melhemçalı","caption":"Melhemçalı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Melhemçalı","caption":"Melhemçalı","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melhem%C3%A7al%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32125809","tip":"genel"}]
 description: "Konya'da yer alan Melhemçalı, İç Anadolu Bölgesi'nin doğal güzellikleriyle dikkat çeken bir tepe"
 keywords: ["Melhemçalı","Konya","İç Anadolu Bölgesi","tepe","doğal güzellik","gezi","turizm","coğrafya","flora","fauna"]

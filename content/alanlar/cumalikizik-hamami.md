@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî eserleri gezmek","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cumal%C4%B1k%C4%B1z%C4%B1k%20Hamam%C4%B1","alt":"Cumalıkızık Hamamı","caption":"Cumalıkızık Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Cumalıkızık Hamamı","caption":"Cumalıkızık Hamamı","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cumal%C4%B1k%C4%B1z%C4%B1k%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739177","tip":"genel"}]
 description: "Bursa'nın históri ve kültürel zenginliklerini barındıran özel bir mekan"
 keywords: ["Cumalıkızık","Bursa","tarih","kültür","gezi","yazılık","mimarlık","doğa","turizm"]

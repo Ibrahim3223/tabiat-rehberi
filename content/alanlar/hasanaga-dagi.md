@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Dağ tırmanışı","Yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hasana%C4%9Fa%20Da%C4%9F%C4%B1","alt":"Hasanağa Dağı","caption":"Hasanağa Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Summer_birds_of_Greene_County%2C_Pennsylvania_%28IA_summerbirdsofgre00jaco%29.pdf/page1-960px-Summer_birds_of_Greene_County%2C_Pennsylvania_%28IA_summerbirdsofgre00jaco%29.pdf.jpg","alt":"Hasanağa Dağı","caption":"Hasanağa Dağı","credit":"Summer birds of Greene County, Pennsylvania (IA summerbirdsofgre00jaco).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasana%C4%9Fa%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386338","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan Hasanağa Dağı, coğrafi güzelliği ve tarihi geçmişiyle dikkat çekmektedir."
 keywords: ["Hasanağa Dağı","Kilis","Güneydoğu Anadolu Bölgesi","coğrafi güzellik","tarihi geçmişi","doğa","turizm","gezi","yürüyüş"]

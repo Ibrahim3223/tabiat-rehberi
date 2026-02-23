@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahramanmaras-Andirin-Akifiye%20Karacam","alt":"Kahramanmaras-Andirin-Akifiye Karacam","caption":"Kahramanmaras-Andirin-Akifiye Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kahramanmaras-Andirin-Akifiye Karacam","caption":"Kahramanmaras-Andirin-Akifiye Karacam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Andirin-Akifiye%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227516","tip":"genel"}]
 description: "Kahramanmaras-Andirin-Akifiye Karacam milli parkı, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kahramanmaras","Andirin","Akifiye Karacam","milli park","doğa","gezi","tarih"]

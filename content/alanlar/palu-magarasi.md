@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Palu%20Ma%C4%9Faras%C4%B1","alt":"Palu Mağarası","caption":"Palu Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Palu Mağarası","caption":"Palu Mağarası","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Palu%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319640","tip":"genel"}]
 description: "Ağrı'da bulunan Palu Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Palu Mağarası","Ağrı","Jeopark","Doğa","Mağara","Turizm","Gezi","Ağrı Turistik Yerler","Doğal Alanlar"]

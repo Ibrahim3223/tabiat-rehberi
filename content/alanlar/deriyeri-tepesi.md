@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Deriyeri%20Tepesi","alt":"Deriyeri Tepesi","caption":"Deriyeri Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Deriyeri Tepesi","caption":"Deriyeri Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deriyeri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31525933","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en güzel tepelerinden biri olan Deriyeri Tepesi, Batman şehrinde bulunmaktadır."
 keywords: ["Deriyeri Tepesi","Batman","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

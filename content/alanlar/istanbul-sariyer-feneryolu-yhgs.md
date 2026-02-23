@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0stanbul%20Sar%C4%B1yer%20Feneryolu%20YHGS","alt":"İstanbul Sarıyer Feneryolu YHGS","caption":"İstanbul Sarıyer Feneryolu YHGS"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"İstanbul Sarıyer Feneryolu YHGS","caption":"İstanbul Sarıyer Feneryolu YHGS","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0stanbul%20Sar%C4%B1yer%20Feneryolu%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227073","tip":"genel"}]
 description: "İstanbul'un Sarıyer ilçesinde yer alan Feneryolu YHGS, doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["İstanbul","Sarıyer","Feneryolu YHGS","doğa","fauna","flora","yaban hayatı","korunan alan"]

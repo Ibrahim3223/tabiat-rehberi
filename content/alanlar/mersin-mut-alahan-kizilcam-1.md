@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşü","Fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Mut-Alahan-K%C4%B1z%C4%B1l%C3%A7am%201","alt":"Mersin-Mut-Alahan-Kızılçam 1","caption":"Mersin-Mut-Alahan-Kızılçam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kad%C4%B1nc%C4%B1k_Valley_6.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_6.jpg","alt":"Mersin-Mut-Alahan-Kızılçam 1","caption":"Mersin-Mut-Alahan-Kızılçam 1","credit":"Kadıncık Valley 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut-Alahan-K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227910","tip":"genel"}]
 description: "Mersin'de yer alan milli park, doğal güzellikleri ve zengin faunası ile dikkat çekiyor."
 keywords: ["Mersin","Mut","Alahan","Kızılçam","milli park","doğal alan","flora","fauna"]

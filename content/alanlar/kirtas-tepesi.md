@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","piknik","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rta%C5%9F%20Tepesi","alt":"Kırtaş Tepesi","caption":"Kırtaş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Science-gossip_%28IA_sciencegossip0670lond%29.pdf/page1-960px-Science-gossip_%28IA_sciencegossip0670lond%29.pdf.jpg","alt":"Kırtaş Tepesi","caption":"Kırtaş Tepesi","credit":"Science-gossip (IA sciencegossip0670lond).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31578470","tip":"genel"}]
 description: "Denizli'nin gizli cenneti, 140 hektarlık yeşil alan, Ege Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Kırtaş Tepesi","Denizli","Ege Bölgesi","doğal güzellik","yeşil alan","tepe"]

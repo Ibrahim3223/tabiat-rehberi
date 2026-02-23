@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tekke%20Burnu","alt":"Tekke Burnu","caption":"Tekke Burnu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tracking_NatureWatch_successes_%28IA_CAT10850921%29.pdf/page1-960px-Tracking_NatureWatch_successes_%28IA_CAT10850921%29.pdf.jpg","alt":"Tekke Burnu","caption":"Tekke Burnu","credit":"Tracking NatureWatch successes (IA CAT10850921).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekke%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20108445","tip":"genel"}]
 description: "Türkiye'de yer alan önemli bir kuş cenneti olan Tekke Burnu, çeşitli kuş türlerine ev sahipliği yapıyor."
 keywords: ["Tekke Burnu","kuş cenneti","Türkiye","doğa","kuş türleri","ekosistem","korunan alan","turizm","çevre"]

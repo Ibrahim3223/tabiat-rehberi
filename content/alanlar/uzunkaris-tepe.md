@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Uzunkar%C4%B1%C5%9F%20Tepe","alt":"Uzunkarış Tepe","caption":"Uzunkarış Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/G%C3%BCver_Cliff_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Scenery_%28Antalya%29.jpg","alt":"Uzunkarış Tepe","caption":"Uzunkarış Tepe","credit":"Güver Cliff Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzunkar%C4%B1%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31503523","tip":"genel"}]
 description: "Antalya'da bulunan Uzunkarış Tepe, doğal güzellikleri ile dikkat çeken bir dağ"
 keywords: ["Uzunkarış Tepe","Antalya","Dağ","Doğa","Turizm","Gezi","Türkiye","Coğrafya","Seyahat"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Trekking","Bitki türleri incelemesi","Yaban hayatı gözlemlemesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Nazilli-Sariciova%20Karacam%202","alt":"Mugla-Nazilli-Sariciova Karacam 2","caption":"Mugla-Nazilli-Sariciova Karacam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kavakarasi.jpg/960px-Kavakarasi.jpg","alt":"Mugla-Nazilli-Sariciova Karacam 2","caption":"Mugla-Nazilli-Sariciova Karacam 2","credit":"Kavakarasi.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Nazilli-Sariciova%20Karacam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227535","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna."
 keywords: ["Muğla","Milli Park","Doğa","Turizm","Ege Bölgesi","Gezi","Yaban Hayatı","Çevre"]

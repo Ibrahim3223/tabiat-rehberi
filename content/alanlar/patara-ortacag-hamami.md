@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda güneşlenme","denizde yüzme","tarih gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Patara%20Orta%C3%A7a%C4%9F%20Hamam%C4%B1","alt":"Patara Ortaçağ Hamamı","caption":"Patara Ortaçağ Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Patara Ortaçağ Hamamı","caption":"Patara Ortaçağ Hamamı","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Patara%20Orta%C3%A7a%C4%9F%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738846","tip":"genel"}]
 description: "Akdeniz'in eşsiz plajlarından biri olan Patara Ortaçağ Hamamı, Kaş'ta yer alır ve tarihi geçmişiyle dikkat çeker."
 keywords: ["Patara","Ortaçağ Hamamı","Kaş","Antalya","Akdeniz","plaj","tarih","gezi"]

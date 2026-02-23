@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ginde%C5%9F%20%C5%9Eelalesi","alt":"Gindeş Şelalesi","caption":"Gindeş Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mt._Trumbull_Wilderness%2C_Mt._Logan_Wilderness_-_wilderness_management_plan_%28IA_mttrumbullwilder8717unit%29.pdf/page1-960px-Mt._Trumbull_Wilderness%2C_Mt._Logan_Wilderness_-_wilderness_management_plan_%28IA_mttrumbullwilder8717unit%29.pdf.jpg","alt":"Gindeş Şelalesi","caption":"Gindeş Şelalesi","credit":"Mt. Trumbull Wilderness, Mt. Logan Wilderness - wilderness management plan (IA mttrumbullwilder8717unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ginde%C5%9F%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin. Gindeş Şelalesi, Karadeniz Bölgesi'nin gizli cenneti."
 keywords: ["Gindeş Şelalesi","Rize","Karadeniz Bölgesi","doğal güzellik","şelale","turizm","gezi"]

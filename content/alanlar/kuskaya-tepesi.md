@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","flora ve fauna gözlemleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ku%C5%9Fkaya%20Tepesi","alt":"Kuşkaya Tepesi","caption":"Kuşkaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Kuşkaya Tepesi","caption":"Kuşkaya Tepesi","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511540","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kuşkaya Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kuşkaya Tepesi","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","coğrafya","tarihçe","flora","fauna","ziyaret"]

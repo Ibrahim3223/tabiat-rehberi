@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara izleme","Doğa yürüyüşü","Fotoğraf çekme","Tarihi gezinti"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gencedede%20Tepesi","alt":"Gencedede Tepesi","caption":"Gencedede Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/The_principles_of_vegetable-gardening_%28IA_principlesofvege00bail%29.pdf/page1-845px-The_principles_of_vegetable-gardening_%28IA_principlesofvege00bail%29.pdf.jpg","alt":"Gencedede Tepesi","caption":"Gencedede Tepesi","credit":"The principles of vegetable-gardening (IA principlesofvege00bail).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gencedede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389208","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan Gencedede Tepesi, Bursa'da yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Gencedede Tepesi","Bursa","Marmara Bölgesi","doğal güzellik","yeşil alan","tepe"]

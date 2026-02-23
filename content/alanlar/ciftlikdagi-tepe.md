@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87iftlikda%C4%9F%C4%B1%20Tepe","alt":"Çiftlikdağı Tepe","caption":"Çiftlikdağı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aflatoxin_Elimination_Workshop_-_%28proceedings%29_%28IA_CAT11083246006%29.pdf/page1-960px-Aflatoxin_Elimination_Workshop_-_%28proceedings%29_%28IA_CAT11083246006%29.pdf.jpg","alt":"Çiftlikdağı Tepe","caption":"Çiftlikdağı Tepe","credit":"Aflatoxin Elimination Workshop - (proceedings) (IA CAT11083246006).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iftlikda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829111","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. Çiftlikdağı Tepe, Ege Bölgesi'nin önemli tepe noktalarından biri."
 keywords: ["Çiftlikdağı Tepe","İzmir","Ege Bölgesi","doğa","tepe","gezi","keşif"]

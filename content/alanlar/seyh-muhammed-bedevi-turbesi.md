@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültürel gezi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Muhammed%20Bedevi%20T%C3%BCrbesi","alt":"Şeyh Muhammed Bedevi Türbesi","caption":"Şeyh Muhammed Bedevi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/True_stories_of_New_England_captives_carried_to_Canada_during_the_old_French_and_Indian_wars_%28microform%29_%28IA_cihm_02485%29.pdf/page1-960px-True_stories_of_New_England_captives_carried_to_Canada_during_the_old_French_and_Indian_wars_%28microform%29_%28IA_cihm_02485%29.pdf.jpg","alt":"Şeyh Muhammed Bedevi Türbesi","caption":"Şeyh Muhammed Bedevi Türbesi","credit":"True stories of New England captives carried to Canada during the old French and Indian wars (microform) (IA cihm 02485).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhammed%20Bedevi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390871","tip":"genel"}]
 description: "Kilis'in tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Kilis","tarih","doğa","türbe","gezi","seyahat","güneydoğu anadolu","kültür"]

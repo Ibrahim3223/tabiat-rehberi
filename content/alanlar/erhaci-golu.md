@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erhac%C4%B1%20G%C3%B6l%C3%BC","alt":"Erhacı Gölü","caption":"Erhacı Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Journey_to_Ararat_..._%28IA_b29317939%29.pdf/page1-960px-Journey_to_Ararat_..._%28IA_b29317939%29.pdf.jpg","alt":"Erhacı Gölü","caption":"Erhacı Gölü","credit":"Journey to Ararat ... (IA b29317939).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erhac%C4%B1%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21199042","tip":"genel"}]
 description: "Iğdır'da bulunan Erhacı Gölü, doğal güzellikleri ve turistik çekiciliğiyle dikkat çekiyor."
 keywords: ["Erhacı Gölü","Iğdır","göl","doğa","turizm","gezi","seyahat","Iğdır gezilecek yerler","göl turizmi"]

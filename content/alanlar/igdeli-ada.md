@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Gün boyu"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0%C4%9Fdeli%20Ada","alt":"İğdeli Ada","caption":"İğdeli Ada"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Atmospheric_effects_on_communications_and_electronic_warfare_systems_within_Turkey_and_surrounding_areas_%28IA_atmosphericeffec109455228%29.pdf/page1-960px-Atmospheric_effects_on_communications_and_electronic_warfare_systems_within_Turkey_and_surrounding_areas_%28IA_atmosphericeffec109455228%29.pdf.jpg","alt":"İğdeli Ada","caption":"İğdeli Ada","credit":"Atmospheric effects on communications and electronic warfare systems within Turkey and surrounding areas (IA atmosphericeffec109455228).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0%C4%9Fdeli%20Ada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34795628","tip":"genel"}]
 description: "Isparta'da bulunan İğdeli Ada, 1200 hektarlık yeşil cenneti keşfedin!"
 keywords: ["İğdeli Ada","Isparta","ada","doğa","yeşil alan","gezi","seyahat","turizm","Isparta turistik yerler"]

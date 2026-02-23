@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","eğitim","fotografcılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Siyami%20ve%20Benli%20Bey%20T%C3%BCrbesi","alt":"Siyami ve Benli Bey Türbesi","caption":"Siyami ve Benli Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Siyami ve Benli Bey Türbesi","caption":"Siyami ve Benli Bey Türbesi","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Siyami%20ve%20Benli%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391628","tip":"genel"}]
 description: "Ege Bölgesi'nde yer alan tarihi bir mekan"
 keywords: ["Siyami ve Benli Bey Türbesi","Yatağan","Muğla","Ege Bölgesi","tarih","mimarlık","gezi"]

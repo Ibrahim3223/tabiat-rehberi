@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","manzara izleme","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bono%C5%9F%20Tepesi","alt":"Bonoş Tepesi","caption":"Bonoş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Bonoş Tepesi","caption":"Bonoş Tepesi","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bono%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390994","tip":"genel"}]
 description: "Kayseri'nin İç Anadolu Bölgesi'nde yer alan Bonoş Tepesi, doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Bonoş Tepesi","Kayseri","İç Anadolu Bölgesi","doğal güzellikler","tepe","coğrafya","flora","fauna"]

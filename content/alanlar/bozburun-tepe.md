@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bozburun%20Tepe","alt":"Bozburun Tepe","caption":"Bozburun Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf/page1-960px-Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf.jpg","alt":"Bozburun Tepe","caption":"Bozburun Tepe","credit":"Report of the Forest Service (IA CAT82764216021).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozburun%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385977","tip":"genel"}]
 description: "Antalya'da yer alan Bozburun Tepe, 1200 metre yüksekliğiyle dikkat çeker. Doğal güzelliği ve trekking rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Bozburun Tepe","Antalya","Dağ","Trekking","Doğa","Turizm","Gezi","Antalya Gezilecek Yerler","Bozburun"]

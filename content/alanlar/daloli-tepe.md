@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Daloli%20Tepe","alt":"Daloli Tepe","caption":"Daloli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Daloli Tepe","caption":"Daloli Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Daloli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526451","tip":"genel"}]
 description: "Tunceli'nin doğal güzelliklerini keşfedin, Daloli Tepe'nin büyüleyici manzaralarına hayran kalın."
 keywords: ["Daloli Tepe","Tunceli","Dağ","Doğa","Manzara","Tunceli Turizm","Doğal Güzellikler","Gezi Rehberi","Tunceli Gezi"]

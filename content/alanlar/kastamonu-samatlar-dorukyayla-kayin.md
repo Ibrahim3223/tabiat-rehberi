@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Samatlar-Dorukyayla%20Kayin","alt":"Kastamonu-Samatlar-Dorukyayla Kayin","caption":"Kastamonu-Samatlar-Dorukyayla Kayin"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Kastamonu-Samatlar-Dorukyayla Kayin","caption":"Kastamonu-Samatlar-Dorukyayla Kayin","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Samatlar-Dorukyayla%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227264","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerinin buluşma noktası, 140 hektarlık Dorukyayla Kayin Milli Parkı"
 keywords: ["Kastamonu","Dorukyayla Kayin","Milli Park","Karadeniz Bölgesi","Doğal Güzellikler","Kastamonu Turizm","Milli Parklar"]

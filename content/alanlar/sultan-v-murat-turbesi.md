@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyareti","Tarihi eserleri keşfetme","Doğa yürüyüşü","Fotograf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sultan%20V.%20Murat%20T%C3%BCrbesi","alt":"Sultan V. Murat Türbesi","caption":"Sultan V. Murat Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Sultan V. Murat Türbesi","caption":"Sultan V. Murat Türbesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sultan%20V.%20Murat%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391560","tip":"genel"}]
 description: "Fatih/İstanbul'da bulunan tarihi türbe ve çevresindeki doğal güzellikler"
 keywords: ["Sultan V. Murat","Türbe","Fatih","İstanbul","Marmara Bölgesi","Tarih","Doğa","Gezi"]

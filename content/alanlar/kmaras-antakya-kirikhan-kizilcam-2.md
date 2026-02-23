@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","kampçılık","yaban hayatı gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K.Mara%C5%9F-Antakya-K%C4%B1r%C4%B1khan-K%C4%B1z%C4%B1l%C3%A7am%202","alt":"K.Maraş-Antakya-Kırıkhan-Kızılçam 2","caption":"K.Maraş-Antakya-Kırıkhan-Kızılçam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"K.Maraş-Antakya-Kırıkhan-Kızılçam 2","caption":"K.Maraş-Antakya-Kırıkhan-Kızılçam 2","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K.Mara%C5%9F-Antakya-K%C4%B1r%C4%B1khan-K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228423","tip":"genel"}]
 description: "Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir milli park"
 keywords: ["milli park","doğa","gezi","tarih","çevre","ekoloji","turizm","Kahramanmaraş","Antakya"]

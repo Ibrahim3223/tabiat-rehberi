@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaretleri","Fotoğraf çekimi","Bigadiç'in tarihini öğrenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=O%C4%9Ful%20Pa%C5%9Fa%20T%C3%BCrbesi","alt":"Oğul Paşa Türbesi","caption":"Oğul Paşa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Oğul Paşa Türbesi","caption":"Oğul Paşa Türbesi","credit":"Sunset in Erdek.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/O%C4%9Ful%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391581","tip":"genel"}]
 description: "Bigadiç'in merkezinde yer alan tarihi Oğul Paşa Türbesi, Marmara Bölgesi'nin önemli ziyaret noktalarından biri."
 keywords: ["Oğul Paşa Türbesi","Bigadiç","Balıkesir","Marmara Bölgesi","tarihi mekan","türbe","gezi","ziyaret"]

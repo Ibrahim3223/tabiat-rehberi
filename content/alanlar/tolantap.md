@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tolantap","alt":"Tolantap","caption":"Tolantap"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Getty_Research_Institute_%28IA_landscapeillustr00horn%29.pdf/page1-960px-Getty_Research_Institute_%28IA_landscapeillustr00horn%29.pdf.jpg","alt":"Tolantap","caption":"Tolantap","credit":"Getty Research Institute (IA landscapeillustr00horn).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tolantap","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21695900","tip":"genel"}]
 description: "Kars'ta bulunan Tolantap Dağı, 1200 hektarlık yeşil cenneti ve doğa güzellikleriyle dikkat çekiyor."
 keywords: ["Tolantap","Kars","Dağ","Doğa","Yeşil Alan","Turizm","Kars Turistik Yerler","Tolantap Dağı","Doğa Sporları"]

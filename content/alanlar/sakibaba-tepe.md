@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sak%C4%B1baba%20Tepe","alt":"Sakıbaba Tepe","caption":"Sakıbaba Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg","alt":"Sakıbaba Tepe","caption":"Sakıbaba Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 06.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sak%C4%B1baba%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389500","tip":"genel"}]
 description: "Kahramanmaraş'ta doğal güzellikleri keşfedin"
 keywords: ["Kahramanmaraş","Sakıbaba Tepe","doğal güzellik","turizm","gezi","tepe","manzara","coğrafya","flora","fauna"]

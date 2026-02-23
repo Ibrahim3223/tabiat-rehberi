@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["rehberli turlar","yürüyüş","trekking"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCven%C3%A7%20Abdal%20T%C3%BCrbesi","alt":"Güvenç Abdal Türbesi","caption":"Güvenç Abdal Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fairy_Chimneys_-_panoramio_%282%29.jpg/960px-Fairy_Chimneys_-_panoramio_%282%29.jpg","alt":"Güvenç Abdal Türbesi","caption":"Güvenç Abdal Türbesi","credit":"Fairy Chimneys - panoramio (2).jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCven%C3%A7%20Abdal%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582367","tip":"genel"}]
 description: "Hacıbektaş/Nevşehir'de bulunan tarihi türbe ve plaj"
 keywords: ["Güvenç Abdal Türbesi","Hacıbektaş","Nevşehir","tarih","plaj","İç Anadolu Bölgesi"]

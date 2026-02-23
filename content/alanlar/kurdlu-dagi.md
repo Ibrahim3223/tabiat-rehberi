@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCrdl%C3%BC%20Da%C4%9F%C4%B1","alt":"Kürdlü Dağı","caption":"Kürdlü Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf/page1-877px-Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf.jpg","alt":"Kürdlü Dağı","caption":"Kürdlü Dağı","credit":"Newsletter - International Working Group on Fire Blight Research, Plant Protection Commission (IA CAT89899594012).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCrdl%C3%BC%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042824","tip":"genel"}]
 description: "Burdur'un doğal güzelliklerini keşfedin, Kürdlü Dağı'nın büyüleyici manzaraları ve yürüyüş rotaları"
 keywords: ["Kürdlü Dağı","Burdur","Dağ","Doğa","Yürüyüş Rotaları","Manzara","Turizm","Gezi","Türkiye"]

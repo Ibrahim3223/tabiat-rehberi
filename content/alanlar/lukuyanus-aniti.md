@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["anıt gezisi","doğa yürüyüşü","göllerde balık avı","dağ tırmanışı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Lukuyanus%20An%C4%B1t%C4%B1","alt":"Lukuyanus Anıtı","caption":"Lukuyanus Anıtı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Lukuyanus Anıtı","caption":"Lukuyanus Anıtı","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lukuyanus%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728430","tip":"genel"}]
 description: "Konya'nın Beyşehir ilçesinde yer alan Lukuyanus Anıtı, tarihi ve doğal güzellikleri bir arada sunan özel bir destinasyon."
 keywords: ["Lukuyanus Anıtı","Beyşehir","Konya","tarih","doğa","gezi","turizm","anıt","plaj"]

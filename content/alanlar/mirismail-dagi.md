@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mirismail%20Da%C4%9F%C4%B1","alt":"Mirismail Dağı","caption":"Mirismail Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Mirismail Dağı","caption":"Mirismail Dağı","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mirismail%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510321","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Mirismail Dağı, Türkiye'nin önemli dağlarından biri."
 keywords: ["Mirismail Dağı","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezi","Mirismail","Dağ Keşfi","Türkiye'nin Doğal Alanları","Turizm"]

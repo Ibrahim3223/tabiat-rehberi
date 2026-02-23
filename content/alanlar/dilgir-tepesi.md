@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","piknik","yürüyüş"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=D%C4%B1lg%C4%B1r%20Tepesi","alt":"Dılgır Tepesi","caption":"Dılgır Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DSC_2971_-_panoramio.jpg/960px-DSC_2971_-_panoramio.jpg","alt":"Dılgır Tepesi","caption":"Dılgır Tepesi","credit":"DSC 2971 - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C4%B1lg%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568838","tip":"genel"}]
 description: "Giresun'un Karadeniz manzaralı doğal güzelliklerinden biri olan Dılgır Tepesi, yaklaşık 140 hektarlık bir alanı kaplıyor. Bu tepenin etrafında yer alan ormanlar ve vadiler, ziyaretçilere doğanın güzelliğini sunuyor."
 keywords: ["Dılgır Tepesi","Giresun","Karadeniz","doğal güzellik","orman","vadi","tepe","manzara","gezi","doğa"]

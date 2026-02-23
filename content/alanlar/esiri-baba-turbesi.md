@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Trekking","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Esiri%20Baba%20T%C3%BCrbesi","alt":"Esiri Baba Türbesi","caption":"Esiri Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf/page1-960px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf.jpg","alt":"Esiri Baba Türbesi","caption":"Esiri Baba Türbesi","credit":"Explorations in Bible lands during the 19th century (IA gri 33125007229756).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esiri%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390904","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti Esiri Baba Türbesi, Hekimhan/Malatya'da doğayı ve tarihiyle büyülüyor."
 keywords: ["Esiri Baba Türbesi","Hekimhan","Malatya","Doğu Anadolu Bölgesi","tarih","doğa","gezi","türbe"]

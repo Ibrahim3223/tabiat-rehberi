@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Çevre gezileri","Doğa","Oryantiring"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erikli-A.Ayva","alt":"Erikli-A.Ayva","caption":"Erikli-A.Ayva"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Erikli-A.Ayva","caption":"Erikli-A.Ayva","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erikli-A.Ayva","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227803","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
 keywords: ["Erikli-A.Ayva","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm","çevre","ekosistem"]

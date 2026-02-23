@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","bitki gözlemi","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Nazilli-Sariciova%20Karacam%201","alt":"Mugla-Nazilli-Sariciova Karacam 1","caption":"Mugla-Nazilli-Sariciova Karacam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marmaris_Cennet_Adas%C4%B1.jpg/960px-Marmaris_Cennet_Adas%C4%B1.jpg","alt":"Mugla-Nazilli-Sariciova Karacam 1","caption":"Mugla-Nazilli-Sariciova Karacam 1","credit":"Marmaris Cennet Adası.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Nazilli-Sariciova%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227534","tip":"genel"}]
 description: "Muğla'da yer alan milli park, Ege Bölgesi'nin doğal güzelliklerini sunar."
 keywords: ["Mugla-Nazilli-Sariciova Karacam 1","milli park","Ege Bölgesi","doğa","turizm","gezi","yaban hayatı","çevre","ekosistem"]

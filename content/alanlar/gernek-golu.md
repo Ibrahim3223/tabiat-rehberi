@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gernek%20G%C3%B6l%C3%BC","alt":"Gernek Gölü","caption":"Gernek Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Turkish_cruelties_upon_the_Armenian_Christians._A_reign_of_terror_%28IA_turkishcruelties00blis%29.pdf/page1-768px-Turkish_cruelties_upon_the_Armenian_Christians._A_reign_of_terror_%28IA_turkishcruelties00blis%29.pdf.jpg","alt":"Gernek Gölü","caption":"Gernek Gölü","credit":"Turkish cruelties upon the Armenian Christians. A reign of terror (IA turkishcruelties00blis).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gernek%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35700408","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerinden biri olan Gernek Gölü, 1200 hektarlık alanı ile önemli bir ekosistem"
 keywords: ["Gernek Gölü","Samsun","göl","doğa","ekosistem","turizm","Samsun gezilecek yerler","göl turizmi","doğal güzellikler"]

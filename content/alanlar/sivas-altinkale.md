@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","su sporları","kamp","ekolojik gezi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sivas%20Alt%C4%B1nkale","alt":"Sivas Altınkale","caption":"Sivas Altınkale"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/A_series_of_adventures_in_the_course_of_a_voyage_up_the_Red-Sea%2C_on_the_coasts_of_Arabia_and_Egypt_%28IA_seriesofadventur00irwi%29.pdf/page1-960px-A_series_of_adventures_in_the_course_of_a_voyage_up_the_Red-Sea%2C_on_the_coasts_of_Arabia_and_Egypt_%28IA_seriesofadventur00irwi%29.pdf.jpg","alt":"Sivas Altınkale","caption":"Sivas Altınkale","credit":"A series of adventures in the course of a voyage up the Red-Sea, on the coasts of Arabia and Egypt (IA seriesofadventur00irwi).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sivas%20Alt%C4%B1nkale","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q127603891","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti Sivas Altınkale, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Sivas","Altınkale","İç Anadolu Bölgesi","yeşil alan","futbol sahası","doğa","gezi"]

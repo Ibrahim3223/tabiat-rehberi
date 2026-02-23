@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","trekking","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Istanbul-Demirkoy-Bulan%C4%B1kdere%20Kizilagac","alt":"Istanbul-Demirkoy-Bulanıkdere Kizilagac","caption":"Istanbul-Demirkoy-Bulanıkdere Kizilagac"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Istanbul-Demirkoy-Bulanıkdere Kizilagac","caption":"Istanbul-Demirkoy-Bulanıkdere Kizilagac","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Demirkoy-Bulan%C4%B1kdere%20Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227750","tip":"genel"}]
 description: "Istanbul-Demirkoy-Bulanıkdere Kizilagac milli parkı, doğal güzellikleri ve zengin fauna ile dikkat çekiyor"
 keywords: ["Istanbul-Demirkoy-Bulanıkdere Kizilagac","milli park","doğa","fauna","flora","gezi","turizm","çevre","koruma"]

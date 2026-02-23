@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bardlan%20Da%C4%9F%C4%B1","alt":"Bardlan Dağı","caption":"Bardlan Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Bardlan Dağı","caption":"Bardlan Dağı","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bardlan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21210190","tip":"genel"}]
 description: "Artvin'de bulunan Bardlan Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alan, trekking ve kamp için ideal."
 keywords: ["Bardlan Dağı","Artvin","Dağ","Doğa","Trekking","Kamp","Yeşil Alan","Turizm","Gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","doğa gezisi","kamp","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9Cren%20Tepesi","alt":"Üren Tepesi","caption":"Üren Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg","alt":"Üren Tepesi","caption":"Üren Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 03.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cren%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810073","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Üren Tepesi, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olarak dikkat çekiyor."
 keywords: ["Üren Tepesi","Kahramanmaraş","Akdeniz Bölgesi","doğa güzellikleri","tepe","gezi","turizm","coğrafya"]

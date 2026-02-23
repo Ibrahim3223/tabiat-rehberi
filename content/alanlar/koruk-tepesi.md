@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi eserleri ziyaret etmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6r%C3%BCk%20Tepesi","alt":"Körük Tepesi","caption":"Körük Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Story_Of_The_Nation%2CChina_%28IA_TheStoryOfTheNationChina%29.pdf/page1-577px-The_Story_Of_The_Nation%2CChina_%28IA_TheStoryOfTheNationChina%29.pdf.jpg","alt":"Körük Tepesi","caption":"Körük Tepesi","credit":"The Story Of The Nation,China (IA TheStoryOfTheNationChina).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6r%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210350","tip":"genel"}]
 description: "Ordu'nun doğal güzelliklerini keşfedin. Körük Tepesi, Karadeniz Bölgesi'nin en önemli tepelerinden biri."
 keywords: ["Körük Tepesi","Ordu","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

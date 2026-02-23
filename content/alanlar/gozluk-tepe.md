@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotografçılık","tarihi eserleri ziyaret","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6zl%C3%BCk%20Tepe","alt":"Gözlük Tepe","caption":"Gözlük Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HEARING_TO_REVIEW_THE_NATIONAL_FOREST_SYSTEM_AND_ACTIVE_FOREST_MANAGEMENT_%28IA_gov.gpo.fdsys.CHRG-114hhrg94655%29.pdf/page1-960px-HEARING_TO_REVIEW_THE_NATIONAL_FOREST_SYSTEM_AND_ACTIVE_FOREST_MANAGEMENT_%28IA_gov.gpo.fdsys.CHRG-114hhrg94655%29.pdf.jpg","alt":"Gözlük Tepe","caption":"Gözlük Tepe","credit":"HEARING TO REVIEW THE NATIONAL FOREST SYSTEM AND ACTIVE FOREST MANAGEMENT (IA gov.gpo.fdsys.CHRG-114hhrg94655).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6zl%C3%BCk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138700","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin kalbinde, Konya'da yer alan Gözlük Tepe, tarihi ve doğal güzellikleriyle dikkat çeken bir tepe"
 keywords: ["Gözlük Tepe","Konya","İç Anadolu Bölgesi","tarih","doğa","tepe","gezi","turizm","coğrafya"]

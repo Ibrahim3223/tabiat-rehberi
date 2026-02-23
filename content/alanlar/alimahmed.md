@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alimahmed","alt":"Alimahmed","caption":"Alimahmed"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_National_geographic_magazine_%28IA_nationalgeograp361919nati%29.pdf/page1-960px-The_National_geographic_magazine_%28IA_nationalgeograp361919nati%29.pdf.jpg","alt":"Alimahmed","caption":"Alimahmed","credit":"The National geographic magazine (IA nationalgeograp361919nati).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alimahmed","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21694798","tip":"genel"}]
 description: "Iğdır'da bulunan Alimahmed Dağı, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Alimahmed","Iğdır","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Coğrafya"]

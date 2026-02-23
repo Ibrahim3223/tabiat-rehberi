@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ukurbelen%20Tepe","alt":"Çukurbelen Tepe","caption":"Çukurbelen Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg","alt":"Çukurbelen Tepe","caption":"Çukurbelen Tepe","credit":"Güver Cliff Landscape (Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ukurbelen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829577","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerinden biri olan Çukurbelen Tepe, ziyaretçilerini bekliyor."
 keywords: ["Çukurbelen Tepe","Antalya","Akdeniz Bölgesi","doğa","gezi","tepe"]

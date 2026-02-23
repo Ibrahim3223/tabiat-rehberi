@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["denize girme","güneşlenme","doğa yürüyüşleri","tarihi yerleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCk%20Hamam%2C%20Sedd%C3%BClbahir","alt":"Büyük Hamam, Seddülbahir","caption":"Büyük Hamam, Seddülbahir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Büyük Hamam, Seddülbahir","caption":"Büyük Hamam, Seddülbahir","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Hamam%2C%20Sedd%C3%BClbahir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245816","tip":"genel"}]
 description: "Eceabat'ta yer alan Büyük Hamam, Seddülbahir plajı, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Büyük Hamam","Seddülbahir","Eceabat","plaj","tarih","doğa","gezi","turizm"]

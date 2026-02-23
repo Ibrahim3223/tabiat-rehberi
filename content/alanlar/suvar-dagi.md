@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Suvar%20Da%C4%9F%C4%B1","alt":"Suvar Dağı","caption":"Suvar Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Suvar Dağı","caption":"Suvar Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Suvar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31583351","tip":"genel"}]
 description: "Türkiye'de yer alan Suvar Dağı, doğa severlerin ziyaret ettiği bir dağdır. 1200 hektarlık alanı ile dikkat çeker."
 keywords: ["Suvar Dağı","Türkiye dağları","doğa turizmi","dağcılık","turistik yerler","gezi rehberi","Türkiye coğrafyası","dağlar","yerli turizm"]

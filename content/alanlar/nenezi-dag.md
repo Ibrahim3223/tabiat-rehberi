@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nenezi%20Da%C4%9F","alt":"Nenezi Dağ","caption":"Nenezi Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yelatan_Alada%C4%9Flar_Lake.jpg/960px-Yelatan_Alada%C4%9Flar_Lake.jpg","alt":"Nenezi Dağ","caption":"Nenezi Dağ","credit":"Yelatan Aladağlar Lake.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nenezi%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q26702889","tip":"genel"}]
 description: "Niğde'nin Göllü Dağ bölgesinde yer alan Nenezi Dağ, doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Nenezi Dağ","Niğde","Göllü Dağ","Dağ","Doğa","Turizm","Gezi","Niğde Turistik Yerler","Göllü Dağ Turizm"]

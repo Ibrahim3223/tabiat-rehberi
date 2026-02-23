@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","İznik Gölü'nü ziyaret etmek","İznik'in tarihi dokusunu keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alaaddin%20Ali%20Esved%20T%C3%BCrbesi","alt":"Alaaddin Ali Esved Türbesi","caption":"Alaaddin Ali Esved Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Animal_disease_thesaurus_%28IA_CAT80734093004%29.pdf/page1-858px-Animal_disease_thesaurus_%28IA_CAT80734093004%29.pdf.jpg","alt":"Alaaddin Ali Esved Türbesi","caption":"Alaaddin Ali Esved Türbesi","credit":"Animal disease thesaurus (IA CAT80734093004).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alaaddin%20Ali%20Esved%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390727","tip":"genel"}]
 description: "İznik'te tarihi ve doğal güzelliğin birleştiği yer"
 keywords: ["İznik","Bursa","Marmara Bölgesi","tarih","doğa","türbe","gezi","seyahat","kültür"]

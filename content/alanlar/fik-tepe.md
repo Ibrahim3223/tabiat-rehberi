@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Fik%20Tepe","alt":"Fik Tepe","caption":"Fik Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Fik Tepe","caption":"Fik Tepe","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391086","tip":"genel"}]
 description: "Şanlıurfa'nın tarihi ve doğal güzelliklerini keşfedin. Fik Tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Fik Tepe","Şanlıurfa","Güneydoğu Anadolu Bölgesi","tarih","doğa","tepe","gezi","turizm"]

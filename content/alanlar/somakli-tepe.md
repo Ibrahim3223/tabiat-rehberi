@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","bitki gözlemi","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Somakl%C4%B1%20Tepe","alt":"Somaklı Tepe","caption":"Somaklı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Somaklı Tepe","caption":"Somaklı Tepe","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Somakl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388629","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerinden biri olan Somaklı Tepe, ziyaretçilerini bekliyor"
 keywords: ["Somaklı Tepe","Muğla","Ege Bölgesi","doğa","gezi","tepe","manzara"]

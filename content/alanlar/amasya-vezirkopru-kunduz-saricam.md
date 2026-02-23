@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","kampçılık","doğa yürüyüşü","balık avı","rafting"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Amasya-Vezirkopru-Kunduz%20Saricam","alt":"Amasya-Vezirkopru-Kunduz Saricam","caption":"Amasya-Vezirkopru-Kunduz Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Amasya-Vezirkopru-Kunduz Saricam","caption":"Amasya-Vezirkopru-Kunduz Saricam","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Vezirkopru-Kunduz%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227547","tip":"genel"}]
 description: "Amasya'nın doğal güzellikleri arasında yer alan milli park, ziyaretçilerini bekliyor."
 keywords: ["Amasya","Vezirkopru","Kunduz Saricam","milli park","doğa","gezi","turizm","Karadeniz Bölgesi"]

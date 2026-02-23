@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yardoru%C4%9Fu%20Tepesi","alt":"Yardoruğu Tepesi","caption":"Yardoruğu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Yardoruğu Tepesi","caption":"Yardoruğu Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yardoru%C4%9Fu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390004","tip":"genel"}]
 description: "Eskişehir'in İç Anadolu Bölgesi'nde yer alan doğal güzellik"
 keywords: ["Yardoruğu Tepesi","Eskişehir","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Boztepe%20Da%C4%9F%C4%B1","alt":"Boztepe Dağı","caption":"Boztepe Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Boztepe Dağı","caption":"Boztepe Dağı","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boztepe%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31580122","tip":"genel"}]
 description: "Muğla'nın görkemli dağlarından biri olan Boztepe Dağı, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Boztepe Dağı","Muğla","Dağ","Doğa","Yeşil Alan","Trekking","Doğa Yürüyüşü","Muğla Turizm","Boztepe"]

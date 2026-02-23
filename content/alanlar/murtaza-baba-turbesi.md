@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","plaj","tarih gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Murtaza%20Baba%20T%C3%BCrbesi","alt":"Murtaza Baba Türbesi","caption":"Murtaza Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Travels_in_Nubia_%28IA_b22017343%29.pdf/page1-912px-Travels_in_Nubia_%28IA_b22017343%29.pdf.jpg","alt":"Murtaza Baba Türbesi","caption":"Murtaza Baba Türbesi","credit":"Travels in Nubia (IA b22017343).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Murtaza%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391779","tip":"genel"}]
 description: "Tarsus'un tarihi ve doğal güzelliklerini keşfedin. Murtaza Baba Türbesi ve plajı, Akdeniz'in en güzel noktalarından biri."
 keywords: ["Murtaza Baba Türbesi","Tarsus","Mersin","Akdeniz Bölgesi","plaj","tarih","doğa","gezi","turizm"]

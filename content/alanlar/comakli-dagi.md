@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87omakl%C4%B1%20Da%C4%9F%C4%B1","alt":"Çomaklı Dağı","caption":"Çomaklı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Çomaklı Dağı","caption":"Çomaklı Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87omakl%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819644","tip":"genel"}]
 description: "Manisa'nın önemli coğrafi oluşumlarından biri olan Çomaklı Dağı, 1200 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["Çomaklı Dağı","Manisa","Dağ","Coğrafi Oluşum","Yeşil Alan","Doğa","Türkiye","Gezi","Seyahat"]

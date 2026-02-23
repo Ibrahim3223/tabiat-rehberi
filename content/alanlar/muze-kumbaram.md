@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","gözlem"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=M%C3%BCze%20Kumbaram","alt":"Müze Kumbaram","caption":"Müze Kumbaram"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Turkish_influence_in_the_South_Caucasus_and_Levant-_the_consequences_for_NATO_and_the_EU_%28IA_turkishinfluence1094537733%29.pdf/page1-960px-Turkish_influence_in_the_South_Caucasus_and_Levant-_the_consequences_for_NATO_and_the_EU_%28IA_turkishinfluence1094537733%29.pdf.jpg","alt":"Müze Kumbaram","caption":"Müze Kumbaram","credit":"Turkish influence in the South Caucasus and Levant- the consequences for NATO and the EU (IA turkishinfluence1094537733).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%BCze%20Kumbaram","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950147","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin. Müze Kumbaram, İç Anadolu Bölgesi'nin kalbinde yer alan bir doğa harikası."
 keywords: ["Müze Kumbaram","Ankara","İç Anadolu Bölgesi","doğa","yayla","turizm","gezi","keşif"]

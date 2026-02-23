@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyretme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Uluziyaret%20Tepe","alt":"Uluziyaret Tepe","caption":"Uluziyaret Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Uluziyaret Tepe","caption":"Uluziyaret Tepe","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uluziyaret%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389434","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan tarihi ve doğal güzellikleriyle dikkat çeken Uluziyaret Tepe hakkında detaylı bilgi"
 keywords: ["Kahramanmaraş","Uluziyaret Tepe","tarih","doğa","gezi","turizm","Akdeniz Bölgesi","tepe","manzara"]

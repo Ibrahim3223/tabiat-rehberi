@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Coğrafya ve jeoloji ile ilgili eserler ve sergiler görme","Müze çevresinde çeşitli coğrafya ve jeoloji ile ilgili aktiviteleri gerçekleştirme","Müze çevresinde çeşitli bitki ve hayvan türleri görme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0stanbul%20%C3%9Cniversitesi%20Cerrahpa%C5%9Fa%20Jeoloji%20M%C3%BCzesi","alt":"İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi","caption":"İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_of_Istanbul_Scape_from_the_ship.jpg/960px-View_of_Istanbul_Scape_from_the_ship.jpg","alt":"İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi","caption":"İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi","credit":"View of Istanbul Scape from the ship.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0stanbul%20%C3%9Cniversitesi%20Cerrahpa%C5%9Fa%20Jeoloji%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q77781633","tip":"genel"}]
 description: "İstanbul'un Avcılar ilçesinde bulunan İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi, coğrafya ve jeoloji meraklıları için önemli bir destinasyon."
 keywords: ["Jeoloji Müzesi","Cerrahpaşa","Avcılar","İstanbul","coğrafya","jeoloji","müze"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarihî mekanları gezmek","doğa yürüyüşleri","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Havza%20%C4%B0mareti%20K%C3%BCmbeti%20Samsun","alt":"Havza İmareti Kümbeti Samsun","caption":"Havza İmareti Kümbeti Samsun"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Havza İmareti Kümbeti Samsun","caption":"Havza İmareti Kümbeti Samsun","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Havza%20%C4%B0mareti%20K%C3%BCmbeti%20Samsun","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582721","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun iline bağlı Havza'da bulunan tarihi İmareti Kümbeti, ziyaretçilerini bekliyor."
 keywords: ["Havza İmareti Kümbeti","Samsun","Karadeniz Bölgesi","tarihi mekan","ziyaret","gezi","tarih","kültür"]

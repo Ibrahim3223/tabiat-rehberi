@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Yeşil alan yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abdurrahman%20%C5%9Eami%20T%C3%BCrbesi","alt":"Abdurrahman Şami Türbesi","caption":"Abdurrahman Şami Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Abdurrahman Şami Türbesi","caption":"Abdurrahman Şami Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdurrahman%20%C5%9Eami%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390973","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Abdurrahman Şami Türbesi, Marmara Bölgesi'nde yer alıyor."
 keywords: ["Abdurrahman Şami","Türbe","İstanbul","Fatih","Marmara Bölgesi","Tarih","Mekan"]

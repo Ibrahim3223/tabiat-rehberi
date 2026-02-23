@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarihsel geziler","fotoğrafçılık","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Bilecik-Muratdere%20Uludag%20Goknari","alt":"Bursa-Bilecik-Muratdere Uludag Goknari","caption":"Bursa-Bilecik-Muratdere Uludag Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Myotis_alcathoe_range.svg/960px-Myotis_alcathoe_range.svg.png","alt":"Bursa-Bilecik-Muratdere Uludag Goknari","caption":"Bursa-Bilecik-Muratdere Uludag Goknari","credit":"Myotis alcathoe range.svg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Bilecik-Muratdere%20Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227289","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğal güzellikleri arasında yer alan Uludag Goknari, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Uludag","Bursa","Marmara Bölgesi","doğa","gezi","turizm","milli park","Uludag Goknari","Marmara","Bursa-Bilecik-Muratdere"]

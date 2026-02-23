@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda dinlenmek","doğa yürüyüşü","bitki türlerini keşfetmek","fauna izlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erg%C3%BCll%C3%BC%20Baba%20T%C3%BCrbesi","alt":"Ergüllü Baba Türbesi","caption":"Ergüllü Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ergüllü Baba Türbesi","caption":"Ergüllü Baba Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erg%C3%BCll%C3%BC%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390846","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli kumsallarından biri olan Ergüllü Baba Türbesi, Safranbolu'nun doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Ergüllü Baba Türbesi","Safranbolu","Karabük","Karadeniz Bölgesi","doğal güzellik","plaj","tarihçe","coğrafya"]

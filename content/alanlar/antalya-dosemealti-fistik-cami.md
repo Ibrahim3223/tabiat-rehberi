@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografcılık","Tarih incelemesi","Etkinliklere katılma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-D%C3%B6%C5%9Femealt%C4%B1%20Fistik%20Cami","alt":"Antalya-Döşemealtı Fistik Cami","caption":"Antalya-Döşemealtı Fistik Cami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Antalya-Döşemealtı Fistik Cami","caption":"Antalya-Döşemealtı Fistik Cami","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-D%C3%B6%C5%9Femealt%C4%B1%20Fistik%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228006","tip":"genel"}]
 description: "Antalya'nın tarihi ve doğal güzelliklerini bir araya getiren özel bir alan"
 keywords: ["Antalya","Döşemealtı","Fistik Cami","milli park","doğa","tarih","turizm","gezi","Antalya gezilecek yerler"]

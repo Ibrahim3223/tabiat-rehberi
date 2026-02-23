@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","kültürel keşif","fotoğraf çekimi","mimari izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Frenk%C5%9Fah%20Hamam%C4%B1","alt":"Frenkşah Hamamı","caption":"Frenkşah Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Frenkşah Hamamı","caption":"Frenkşah Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Frenk%C5%9Fah%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738633","tip":"genel"}]
 description: "Kastamonu merkezinde yer alan tarihi Frenkşah Hamamı, şehrin önemli kültürel miraslarından biri. Tarihi geçmişi ve mimarisi ile dikkat çeker."
 keywords: ["Kastamonu","tarihi hamam","kültürel miras","Karadeniz Bölgesi","gezi","tarih","mimari"]

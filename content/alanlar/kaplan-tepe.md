@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaplan%20Tepe","alt":"Kaplan Tepe","caption":"Kaplan Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Kaplan Tepe","caption":"Kaplan Tepe","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaplan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391058","tip":"genel"}]
 description: "Adıyaman'ın tarih ve doğa harikası Kaplan Tepe, ziyaretçilerini bekliyor."
 keywords: ["Kaplan Tepe","Adıyaman","Güneydoğu Anadolu Bölgesi","tarih","doğa","tepe","gezi"]

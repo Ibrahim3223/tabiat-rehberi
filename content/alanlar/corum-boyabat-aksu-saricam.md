@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Corum-Boyabat-Aksu-Saricam","alt":"Corum-Boyabat-Aksu-Saricam","caption":"Corum-Boyabat-Aksu-Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Glendale_Daily_Press_1921-06-28_%28IA_cgl_001548%29.pdf/page1-960px-Glendale_Daily_Press_1921-06-28_%28IA_cgl_001548%29.pdf.jpg","alt":"Corum-Boyabat-Aksu-Saricam","caption":"Corum-Boyabat-Aksu-Saricam","credit":"Glendale Daily Press 1921-06-28 (IA cgl 001548).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Corum-Boyabat-Aksu-Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228260","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin. Boyabat, Aksu ve Saricam milli parkı"
 keywords: ["Çorum","Boyabat","Aksu","Saricam","milli park","doğa","gezi","turizm"]

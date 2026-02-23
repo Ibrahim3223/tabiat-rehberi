@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bo%C4%9Faz%20Adas%C4%B1%20(T%C3%BCrkiye)","alt":"Boğaz Adası (Türkiye)","caption":"Boğaz Adası (Türkiye)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/View_to_chios_island_10_-_panoramio.jpg/960px-View_to_chios_island_10_-_panoramio.jpg","alt":"Boğaz Adası","caption":"Boğaz Adası","credit":"View to chios island 10 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bo%C4%9Faz%20Adas%C4%B1%20(T%C3%BCrkiye)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49633823","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Boğaz Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Boğaz Adası","İzmir Adaları","Türkiye Adaları","İzmir Turizm","Boğaz Adası Gezi","Ada Tatili","İzmir Gezilecek Yerler","Türkiye Turizm","Ege Adaları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa keşfi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87al%C4%B1kda%C4%9F%C4%B1%20Tepesi","alt":"Çalıkdağı Tepesi","caption":"Çalıkdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Çalıkdağı Tepesi","caption":"Çalıkdağı Tepesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87al%C4%B1kda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823661","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Çalıkdağı Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Ankara","İç Anadolu Bölgesi","doğa","tarih","tepe","gezi","turizm","çevre","ekoloji"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","anıt mezar ziyareti","doğa gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Enver%20Pa%C5%9Fa%20An%C4%B1t%20Mezar%C4%B1","alt":"Enver Paşa Anıt Mezarı","caption":"Enver Paşa Anıt Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Enver Paşa Anıt Mezarı","caption":"Enver Paşa Anıt Mezarı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Enver%20Pa%C5%9Fa%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728159","tip":"genel"}]
 description: "İstanbul'un Şişli ilçesinde bulunan tarihi bir mekan"
 keywords: ["Enver Paşa Anıt Mezarı","Şişli","İstanbul","tarih","anıt mezar","gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Kültürel etkinlikler","Doğa yürüyüşü","Fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Seyf%C3%BClm%C3%BCl%C3%BCk%20T%C3%BCrbesi","alt":"Seyfülmülük Türbesi","caption":"Seyfülmülük Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Seyfülmülük Türbesi","caption":"Seyfülmülük Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyf%C3%BClm%C3%BCl%C3%BCk%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391228","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en önemli tarihi mekanlarından biri olan Seyfülmülük Türbesi, Diyarbakır'ın Sur ilçesinde yer alır."
 keywords: ["Seyfülmülük Türbesi","Diyarbakır","Sur","Türbe","Tarih","Güneydoğu Anadolu Bölgesi","Kültür","Turizm","Gezi"]

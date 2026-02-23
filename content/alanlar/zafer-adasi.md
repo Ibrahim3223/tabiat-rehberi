@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zafer%20Adas%C4%B1","alt":"Zafer Adası","caption":"Zafer Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/View_to_chios_island_5_-_panoramio.jpg/960px-View_to_chios_island_5_-_panoramio.jpg","alt":"Zafer Adası","caption":"Zafer Adası","credit":"View to chios island 5 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zafer%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34785540","tip":"genel"}]
 description: "İzmir'in güzide adalarından Zafer Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Zafer Adası","İzmir Adaları","İzmir Turizm","Türkiye Adaları","Ege Denizi","İzmir Gezilecek Yerler","Doğal Alanlar","Tarihî Yerler","Turistik Yerler"]

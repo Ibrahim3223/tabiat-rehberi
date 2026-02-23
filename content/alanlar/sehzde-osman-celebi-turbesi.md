@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Tarihi araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eehz%C3%A2de%20Osman%20%C3%87elebi%20T%C3%BCrbesi","alt":"Şehzâde Osman Çelebi Türbesi","caption":"Şehzâde Osman Çelebi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Şehzâde Osman Çelebi Türbesi","caption":"Şehzâde Osman Çelebi Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehz%C3%A2de%20Osman%20%C3%87elebi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391274","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzelliklerinin birleştiği yer"
 keywords: ["Amasya","Türbe","Şehzâde Osman Çelebi","Karadeniz Bölgesi","Tarih","Doğa","Gezi"]

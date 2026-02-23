@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî eserleri gezme","doğa yürüyüşü","fotoğraf çekme","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Rhodiapolis%20B%C3%BCy%C3%BCk%20Hamam","alt":"Rhodiapolis Büyük Hamam","caption":"Rhodiapolis Büyük Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ant%C3%A1lia_-_panoramio_%2811%29.jpg/960px-Ant%C3%A1lia_-_panoramio_%2811%29.jpg","alt":"Rhodiapolis Büyük Hamam","caption":"Rhodiapolis Büyük Hamam","credit":"Antália - panoramio (11).jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rhodiapolis%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739203","tip":"genel"}]
 description: "Kumluca'da bulunan Rhodiapolis Büyük Hamam, Antalya'nın tarihi değerlerini keşfetmek isteyenler için önemli bir destinasyon."
 keywords: ["Rhodiapolis","Büyük Hamam","Kumluca","Antalya","tarih","arkeoloji","gezi","turizm"]

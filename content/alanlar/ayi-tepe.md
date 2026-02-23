@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ay%C4%B1%20Tepe","alt":"Ayı Tepe","caption":"Ayı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Ayı Tepe","caption":"Ayı Tepe","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ay%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389412","tip":"genel"}]
 description: "Mersin'in gizli cenneti, 140 hektarlık alanıyla doğa severleri bekliyor"
 keywords: ["Mersin","Ayı Tepe","doğa","gezi","tepe","Akdeniz Bölgesi","coğrafya","flora","fauna"]

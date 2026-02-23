@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hadar%20Da%C4%9F%C4%B1","alt":"Hadar Dağı","caption":"Hadar Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Hadar Dağı","caption":"Hadar Dağı","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hadar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31521494","tip":"genel"}]
 description: "Bingöl'de yer alan Hadar Dağı, doğa severler için önemli bir destinasyon. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Hadar Dağı","Bingöl","Doğa","Dağ","Türkiye","Seyahat","Gezi","Turizm","Doğa Sporları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Topraksu%20Sulama%20G%C3%B6leti","alt":"Topraksu Sulama Göleti","caption":"Topraksu Sulama Göleti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Siverek.jpg/960px-Siverek.jpg","alt":"Topraksu Sulama Göleti","caption":"Topraksu Sulama Göleti","credit":"Siverek.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topraksu%20Sulama%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34930870","tip":"genel"}]
 description: "Şanlıurfa'da yer alan Topraksu Sulama Göleti, sulama amaçlı kullanılan bir gölettir. Doğal güzelliği ve sulama fonksiyonu ile dikkat çeker."
 keywords: ["Topraksu Sulama Göleti","Şanlıurfa","gölet","sulama göleti","doğa","turizm","Şanlıurfa gölleri","su kaynakları","çevre"]

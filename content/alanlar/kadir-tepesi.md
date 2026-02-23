@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kadir%20Tepesi","alt":"Kadir Tepesi","caption":"Kadir Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Kadir Tepesi","caption":"Kadir Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kadir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391088","tip":"genel"}]
 description: "Şanlıurfa'da yer alan Kadir Tepesi, bölgenin önemli tarihi ve coğrafi değerlerinden biri olarak dikkat çekiyor."
 keywords: ["Kadir Tepesi","Şanlıurfa","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","doğa","ziyaret"]

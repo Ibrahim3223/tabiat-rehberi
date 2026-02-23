@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Beypazar%C4%B1-Egriova-Karacam","alt":"Bolu-Beypazarı-Egriova-Karacam","caption":"Bolu-Beypazarı-Egriova-Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bolu_Yedig%C3%B6ller_National_Park.jpg/960px-Bolu_Yedig%C3%B6ller_National_Park.jpg","alt":"Bolu-Beypazarı-Egriova-Karacam","caption":"Bolu-Beypazarı-Egriova-Karacam","credit":"Bolu Yedigöller National Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Beypazar%C4%B1-Egriova-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228209","tip":"genel"}]
 description: "Bolu'nun güzide milli parklarından biri olan Bolu-Beypazarı-Egriova-Karacam, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["Bolu","milli park","doğa","gezi","turizm","Karadeniz Bölgesi","Bolu-Beypazarı-Egriova-Karacam"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihi araştırma","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ovac%C4%B1k%20Sultan%20T%C3%BCrbesi","alt":"Ovacık Sultan Türbesi","caption":"Ovacık Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf/page1-960px-Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf.jpg","alt":"Ovacık Sultan Türbesi","caption":"Ovacık Sultan Türbesi","credit":"Big dairy data to unravel effects of environmental, physiological and morphological factors on milk production of mountain-pastured Braunvieh cows.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ovac%C4%B1k%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390691","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Balıkesir'in Havran ilçesinde yer alan Ovacık Sultan Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
 keywords: ["Ovacık Sultan Türbesi","Havran","Balıkesir","Marmara Bölgesi","plaj","tarihçe","coğrafya","flora","fauna"]

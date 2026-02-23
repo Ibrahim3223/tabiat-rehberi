@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gora%20Dzhebel'-Chumerli","alt":"Gora Dzhebel'-Chumerli","caption":"Gora Dzhebel'-Chumerli"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Gora Dzhebel'-Chumerli","caption":"Gora Dzhebel'-Chumerli","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Dzhebel'-Chumerli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538914","tip":"genel"}]
 description: "Hatay'da bulunan Gora Dzhebel'-Chumerli, doğal güzellikleri ile dikkat çeken bir dağdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Gora Dzhebel'-Chumerli","Hatay","Dağ","Doğal Güzellik","Yeşil Alan","İstanbul","Türkiye","Seyahat","Gezi"]

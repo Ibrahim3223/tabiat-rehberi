@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Photography","Bitki ve Hayvan Gözlemi","Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Mustafakemalpasa-Yenikoy-Kizilagac","alt":"Bursa-Mustafakemalpasa-Yenikoy-Kizilagac","caption":"Bursa-Mustafakemalpasa-Yenikoy-Kizilagac"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Bursa-Mustafakemalpasa-Yenikoy-Kizilagac","caption":"Bursa-Mustafakemalpasa-Yenikoy-Kizilagac","credit":"IMG-20210119-WA0093.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpasa-Yenikoy-Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228471","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Bursa'da bulunan milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bursa","Marmara Bölgesi","Milli Park","Doğa","Turizm","Yeşil Alan","Futbol Saha","Kızılcağaç"]

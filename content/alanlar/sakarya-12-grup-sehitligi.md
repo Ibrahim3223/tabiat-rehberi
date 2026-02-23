@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe öğrenmek","Doğa yürüyüşü","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sakarya%2012.%20Grup%20%C5%9Eehitli%C4%9Fi","alt":"Sakarya 12. Grup Şehitliği","caption":"Sakarya 12. Grup Şehitliği"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf/page1-960px-State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf.jpg","alt":"Sakarya 12. Grup Şehitliği","caption":"Sakarya 12. Grup Şehitliği","credit":"State August-September 1981- Iss 281 (IA sim state-magazine august-september-1981 281).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya%2012.%20Grup%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728256","tip":"genel"}]
 description: "Ankara'nın Polatlı ilçesinde yer alan Sakarya 12. Grup Şehitliği, tarih ve doğanın birleştiği özel bir alan."
 keywords: ["Sakarya 12. Grup Şehitliği","Polatlı","Ankara","İç Anadolu Bölgesi","Tarih","Doğa","Şehitlik"]

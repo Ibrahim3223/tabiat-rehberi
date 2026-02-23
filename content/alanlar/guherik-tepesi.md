@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Guherik%20Tepesi","alt":"Guherik Tepesi","caption":"Guherik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Guherik Tepesi","caption":"Guherik Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Guherik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555746","tip":"genel"}]
 description: "Şırnak'ta bulunan Guherik Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafik noktalarından biridir."
 keywords: ["Guherik Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","coğrafya","doğa","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Besmi%20Adas%C4%B1","alt":"Besmi Adası","caption":"Besmi Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Besmi Adası","caption":"Besmi Adası","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Besmi%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49632842","tip":"genel"}]
 description: "Antalya'nın güzide adalarından biri olan Besmi Adası, doğal güzellikleri ve tarihi zenginlikleriyle dikkat çekiyor."
 keywords: ["Besmi Adası","Antalya Adaları","Türkiye Adaları","Akdeniz Adaları","Turizm","Gezi","Seyahat","Doğa","Tarih"]

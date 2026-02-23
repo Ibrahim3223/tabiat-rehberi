@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCk%20Da%C4%9F%20(%C5%9E%C4%B1rnak)","alt":"Büyük Dağ (Şırnak)","caption":"Büyük Dağ (Şırnak)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Büyük Dağ (Şırnak)","caption":"Büyük Dağ (Şırnak)","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Da%C4%9F%20(%C5%9E%C4%B1rnak)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731239","tip":"genel"}]
 description: "Şırnak'ta yer alan Büyük Dağ, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Büyük Dağ","Şırnak","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Şırnak Turistik Yerler","Doğal Güzellikler"]

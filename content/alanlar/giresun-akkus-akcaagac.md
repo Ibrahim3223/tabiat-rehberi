@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Yürüyüş","Tarih turu","Köy gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Akkus-Akcaagac","alt":"Giresun-Akkus-Akcaagac","caption":"Giresun-Akkus-Akcaagac"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sis_da%C4%9F%C4%B1_%281%29.jpg/960px-Sis_da%C4%9F%C4%B1_%281%29.jpg","alt":"Giresun-Akkus-Akcaagac","caption":"Giresun-Akkus-Akcaagac","credit":"Sis dağı (1).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Akkus-Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228547","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin yeşil cenneti, Giresun-Akkus-Akcaagac Milli Parkı"
 keywords: ["Giresun","Akkus","Akcaagac","Milli Park","Karadeniz Bölgesi","Doğa","Yeşil Cennet"]

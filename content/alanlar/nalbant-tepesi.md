@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","trekking","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nalbant%20Tepesi","alt":"Nalbant Tepesi","caption":"Nalbant Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Armenians%2C_or_The_people_of_Ararat_%28IA_armeniansorpeopl00gabr%29.pdf/page1-675px-The_Armenians%2C_or_The_people_of_Ararat_%28IA_armeniansorpeopl00gabr%29.pdf.jpg","alt":"Nalbant Tepesi","caption":"Nalbant Tepesi","credit":"The Armenians, or The people of Ararat (IA armeniansorpeopl00gabr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nalbant%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388311","tip":"genel"}]
 description: "Kars'ta bulunan Nalbant Tepesi, doğa severlerin ziyaret ettiği bir bölgedir."
 keywords: ["Nalbant Tepesi","Kars","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya"]

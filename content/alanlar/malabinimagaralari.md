@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Malabinima%C4%9Faralar%C4%B1","alt":"Malabinimağaraları","caption":"Malabinimağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf/page1-812px-On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf.jpg","alt":"Malabinimağaraları","caption":"Malabinimağaraları","credit":"On the fringe of the great fight (IA onfringeofgreatf00nasmrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Malabinima%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319529","tip":"genel"}]
 description: "Batman'da yer alan Malabinimağaraları, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Malabinimağaraları","Batman","Jeopark","Doğal Alan","Turizm","Gezi","Mağara","Doğa","Jeolojik Oluşum"]

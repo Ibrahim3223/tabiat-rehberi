@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","picnic","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara-Eskipazar-Ulupinar%20Saricam","alt":"Ankara-Eskipazar-Ulupinar Saricam","caption":"Ankara-Eskipazar-Ulupinar Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MOKFC11.jpg/960px-MOKFC11.jpg","alt":"Ankara-Eskipazar-Ulupinar Saricam","caption":"Ankara-Eskipazar-Ulupinar Saricam","credit":"MOKFC11.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Eskipazar-Ulupinar%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227550","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en güzel doğa alanlarından biri olan Ankara-Eskipazar-Ulupinar Saricam, ziyaretçilerini büyülemektedir."
 keywords: ["Ankara","Eskipazar","Ulupinar","Saricam","Milli Park","Doğa","Tarih","Coğrafya","Flora","Fauna","Ziyaret"]

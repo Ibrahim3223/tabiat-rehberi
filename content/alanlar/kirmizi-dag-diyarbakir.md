@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rm%C4%B1z%C4%B1%20Da%C4%9F%20(Diyarbak%C4%B1r)","alt":"Kırmızı Dağ (Diyarbakır)","caption":"Kırmızı Dağ (Diyarbakır)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Kırmızı Dağ","caption":"Kırmızı Dağ","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1%20Da%C4%9F%20(Diyarbak%C4%B1r)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514719","tip":"genel"}]
 description: "Diyarbakır'da yer alan Kırmızı Dağ, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Kırmızı Dağ","Diyarbakır","Dağ","Doğa","Coğrafya","Türkiye","Gezi","Seyahat","Turizm"]

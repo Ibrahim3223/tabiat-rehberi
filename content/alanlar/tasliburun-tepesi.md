@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ta%C5%9Fl%C4%B1burun%20Tepesi","alt":"Taşlıburun Tepesi","caption":"Taşlıburun Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf/page1-960px-State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf.jpg","alt":"Taşlıburun Tepesi","caption":"Taşlıburun Tepesi","credit":"State 2009-01- Iss 530 (IA sim state-magazine 2009-01 530).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fl%C4%B1burun%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556813","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Taşlıburun Tepesi, coğrafi güzelliği ve tarihi geçmişi ile dikkat çekiyor."
 keywords: ["Taşlıburun Tepesi","Ankara","İç Anadolu Bölgesi","coğrafi güzellik","tarihi geçmişi","doğa","gezi","tepe","manzara"]

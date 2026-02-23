@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","bitki türleri keşfi","hayvan izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Istanbul-Demirkoy-Karacadag%20Mese","alt":"Istanbul-Demirkoy-Karacadag Mese","caption":"Istanbul-Demirkoy-Karacadag Mese"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Istanbul-Demirkoy-Karacadag Mese","caption":"Istanbul-Demirkoy-Karacadag Mese","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Demirkoy-Karacadag%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227764","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["doğa","milli park","İç Anadolu Bölgesi","gezi","turizm","çevre","ekosistem","flora","fauna"]

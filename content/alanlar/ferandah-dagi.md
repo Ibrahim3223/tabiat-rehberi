@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ferandah%20Da%C4%9F%C4%B1","alt":"Ferandah Dağı","caption":"Ferandah Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Ferandah Dağı","caption":"Ferandah Dağı","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ferandah%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31523760","tip":"genel"}]
 description: "Erzincan'da yer alan Ferandah Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çeker."
 keywords: ["Ferandah Dağı","Erzincan","Dağ","Doğa","Trekking","Turizm","Gezi","Yürüyüş","Doğal Güzellik"]

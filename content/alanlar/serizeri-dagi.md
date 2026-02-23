@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam bir gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Serizeri%20Da%C4%9F%C4%B1","alt":"Serizeri Dağı","caption":"Serizeri Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Serizeri Dağı","caption":"Serizeri Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Serizeri%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574526","tip":"genel"}]
 description: "Van'ın doğal güzelliklerini keşfedin. 1400 metre yükseklikte yer alan Serizeri Dağı, doğa severler için ideal bir destinasyon."
 keywords: ["Serizeri Dağı","Van","Dağ","Doğa","Trekking","Kamp","Van Gezi","Doğal Alanlar","Turizm"]

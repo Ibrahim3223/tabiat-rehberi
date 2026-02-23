@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Plajda güneşlenmek","Denize girmek","Türbeyi ziyaret etmek","Doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9C%C3%A7ler%20Dede%20T%C3%BCrbesi","alt":"Üçler Dede Türbesi","caption":"Üçler Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Üçler Dede Türbesi","caption":"Üçler Dede Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7ler%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134734789","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide yerlerinden biri olan Üçler Dede Türbesi, Edremit'te bulunan bir plaj."
 keywords: ["Üçler Dede Türbesi","Edremit","Balıkesir","Marmara Bölgesi","Plaj","Türbe","Doğa","Tarih"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arha%C5%9F%20Da%C4%9F%C4%B1","alt":"Arhaş Dağı","caption":"Arhaş Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Arhaş Dağı","caption":"Arhaş Dağı","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arha%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531941","tip":"genel"}]
 description: "Malatya'da yer alan Arhaş Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Arhaş Dağı","Malatya","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Malatya Turistik Yerler","Doğal Güzellikler"]

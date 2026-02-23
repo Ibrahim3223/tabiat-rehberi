@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Kuleyi gezmek","Yeşil alanları keşfetmek","Plajlarda dinlenmek","Yöresel yemekleri denemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abd%C3%BClaziz%20A%C4%9Fa%20Kulesi","alt":"Abdülaziz Ağa Kulesi","caption":"Abdülaziz Ağa Kulesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Abdülaziz Ağa Kulesi","caption":"Abdülaziz Ağa Kulesi","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abd%C3%BClaziz%20A%C4%9Fa%20Kulesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738959","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide ilçelerinden Milas'ta bulunan Abdülaziz Ağa Kulesi, tarihi ve doğal güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Abdülaziz Ağa Kulesi","Milas","Muğla","Ege Bölgesi","tarihi mekan","doğal güzellik","plaj","gezi","turizm"]

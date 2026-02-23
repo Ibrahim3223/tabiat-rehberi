@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","huzur içinde dinlenmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ifte%20Karde%C5%9Fler%20T%C3%BCrbesi","alt":"Çifte Kardeşler Türbesi","caption":"Çifte Kardeşler Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Çifte Kardeşler Türbesi","caption":"Çifte Kardeşler Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ifte%20Karde%C5%9Fler%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390519","tip":"genel"}]
 description: "Erzurum'un tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Erzurum","tarih","doğa","türbe","gezi","turizm","Doğu Anadolu Bölgesi","Yakutiye"]

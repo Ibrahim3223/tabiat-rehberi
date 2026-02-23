@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=U%C3%A7burun%20Si%C4%9Fl%C4%B1klar%C4%B1","alt":"Uçburun Siğlıkları","caption":"Uçburun Siğlıkları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/View_to_chios_island_8_-_panoramio.jpg/960px-View_to_chios_island_8_-_panoramio.jpg","alt":"Uçburun Siğlıkları","caption":"Uçburun Siğlıkları","credit":"View to chios island 8 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/U%C3%A7burun%20Si%C4%9Fl%C4%B1klar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49623416","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerinden biri olan Uçburun Siğlıkları, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Uçburun Siğlıkları","İzmir","ada","doğa","yeşil alan","turizm","gezi","seyahat","İzmir turistik yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["denizde yüzmek","güneşlenmek","kumda dinlenmek","doğa yürüyüşleri","su sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Lyrbe%20Hamam","alt":"Lyrbe Hamam","caption":"Lyrbe Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ant%C3%A1lia_-_panoramio_%2811%29.jpg/960px-Ant%C3%A1lia_-_panoramio_%2811%29.jpg","alt":"Lyrbe Hamam","caption":"Lyrbe Hamam","credit":"Antália - panoramio (11).jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lyrbe%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738830","tip":"genel"}]
 description: "Manavgat'ın gizli cenneti Lyrbe Hamam, 140 hektarlık alanı ile khong 200 futbol sahası büyüklüğünde."
 keywords: ["Lyrbe Hamam","Manavgat","Antalya","plaj","deniz","turizm","gezi","tatil","doğa"]

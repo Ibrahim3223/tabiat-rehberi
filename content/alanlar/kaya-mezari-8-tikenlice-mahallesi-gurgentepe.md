@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzmek","güneşlenmek","doğa yürüyüşleri yapmak","balık avı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaya%20Mezar%C4%B1%208%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","alt":"Kaya Mezarı 8 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 8 (Tikenlice Mahallesi) Gürgentepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Kaya Mezarı 8 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 8 (Tikenlice Mahallesi) Gürgentepe","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%208%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728209","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Ordu'nun Gürgentepe ilçesindeki Kaya Mezarı 8"
 keywords: ["Kaya Mezarı 8","Tikenlice Mahallesi","Gürgentepe","Ordu","Karadeniz Bölgesi","plaj","deniz"]

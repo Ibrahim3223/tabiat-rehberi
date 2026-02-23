@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Buzhaneba%C5%9F%C4%B1%20Tepesi","alt":"Buzhanebaşı Tepesi","caption":"Buzhanebaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf/page1-800px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf.jpg","alt":"Buzhanebaşı Tepesi","caption":"Buzhanebaşı Tepesi","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00singiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buzhaneba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391242","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, Buzhanebaşı Tepesi"
 keywords: ["Buzhanebaşı Tepesi","İç Anadolu Bölgesi","doğa","tepe","gezi","yerel","coğrafya","flora","fauna","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","picnic","tarihî geziler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1lan%20Tepesi","alt":"Yılan Tepesi","caption":"Yılan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Travels_in_Kurdistan%2C_with_Notices_of_the_Sources_of_the_Eastern_and_Western_Tigris%2C_and_Ancient_Ruins_in_Their_Neighbourhood_%28IA_jstor-3698077%29.pdf/page1-787px-Travels_in_Kurdistan%2C_with_Notices_of_the_Sources_of_the_Eastern_and_Western_Tigris%2C_and_Ancient_Ruins_in_Their_Neighbourhood_%28IA_jstor-3698077%29.pdf.jpg","alt":"Yılan Tepesi","caption":"Yılan Tepesi","credit":"Travels in Kurdistan, with Notices of the Sources of the Eastern and Western Tigris, and Ancient Ruins in Their Neighbourhood (IA jstor-3698077).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1lan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822321","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin. Yılan Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Mardin","Yılan Tepesi","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","seyahat","turizm","yerel","kültür"]

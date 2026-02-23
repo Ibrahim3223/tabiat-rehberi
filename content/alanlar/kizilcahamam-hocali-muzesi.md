@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","müze ziyaretleri","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lcahamam%20-%20Hocal%C4%B1%20M%C3%BCzesi","alt":"Kızılcahamam - Hocalı Müzesi","caption":"Kızılcahamam - Hocalı Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Kızılcahamam - Hocalı Müzesi","caption":"Kızılcahamam - Hocalı Müzesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcahamam%20-%20Hocal%C4%B1%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950048","tip":"genel"}]
 description: "Ankara'nın doğal güzellikleri ve tarihi değerleriyle dolu bir destinasyon."
 keywords: ["Kızılcahamam","Hocalı Müzesi","Ankara","İç Anadolu Bölgesi","doğa","tarih","müze","gezi","turizm"]

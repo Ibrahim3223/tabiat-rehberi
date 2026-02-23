@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","keşif","fotoğrafçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ar%C4%B1l%C4%B1k%20Tepesi","alt":"Arılık Tepesi","caption":"Arılık Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf/page1-614px-Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf.jpg","alt":"Arılık Tepesi","caption":"Arılık Tepesi","credit":"Journal of a tour in Asia Minor - with comparative remarks on the ancient and modern geography of that country (IA gri 000033125011216732).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ar%C4%B1l%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390209","tip":"genel"}]
 description: "Burdur'un doğal güzellikleri arasında yer alan Arılık Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Arılık Tepesi","Burdur","Akdeniz Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre","ekosistem"]

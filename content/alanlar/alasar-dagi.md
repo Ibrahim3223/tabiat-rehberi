@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","bitki gözlemi","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ala%C5%9Far%20Da%C4%9F%C4%B1","alt":"Alaşar Dağı","caption":"Alaşar Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG/960px-Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG","alt":"Alaşar Dağı","caption":"Alaşar Dağı","credit":"Fairy Chimneys 2, Nevşehir Province, Turkey.JPG","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ala%C5%9Far%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386065","tip":"genel"}]
 description: "Nevşehir'in gizli güzelliği, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri"
 keywords: ["Alaşar Dağı","Nevşehir","İç Anadolu Bölgesi","coğrafi oluşum","doğa","gezi","turizm"]

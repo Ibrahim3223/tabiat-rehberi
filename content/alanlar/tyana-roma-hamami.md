@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Bisiklet sürme","Fotoğraf çekme","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tyana%20Roma%20Hamam%C4%B1","alt":"Tyana Roma Hamamı","caption":"Tyana Roma Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf/page1-731px-Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf.jpg","alt":"Tyana Roma Hamamı","caption":"Tyana Roma Hamamı","credit":"Journal of a Tour in Asia Minor, with Comparative Remarks on the Ancient and Modern Geography of that Country (IA dli.granth.36210).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tyana%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739118","tip":"genel"}]
 description: "Tyana Roma Hamamı, Bor/Niğde'de bulunan tarihi bir hamam ve plaj alanıdır. İç Anadolu Bölgesi'nin wichtığı bu tarihi mekan, 140 hektarlık bir alanı kaplar."
 keywords: ["Tyana Roma Hamamı","Bor","Niğde","İç Anadolu Bölgesi","tarihi hamam","plaj","Roma dönemi"]

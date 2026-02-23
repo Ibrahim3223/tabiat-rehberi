@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","manzara seyri","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCkasl%C4%B1hanlar%20%C3%9C%C3%A7tepeler%20%C5%9Eehitli%C4%9Fi","alt":"Büyükaslıhanlar Üçtepeler Şehitliği","caption":"Büyükaslıhanlar Üçtepeler Şehitliği"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Büyükaslıhanlar Üçtepeler Şehitliği","caption":"Büyükaslıhanlar Üçtepeler Şehitliği","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkasl%C4%B1hanlar%20%C3%9C%C3%A7tepeler%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728248","tip":"genel"}]
 description: "Kütahya'nın Dumlupınar ilçesinde bulunan Büyükaslıhanlar Üçtepeler Şehitliği, tarihin derin izlerini taşıyan özel bir alan."
 keywords: ["Büyükaslıhanlar Üçtepeler Şehitliği","Dumlupınar","Kütahya","Ege Bölgesi","tarih","şehitlik","ülke tarihi"]

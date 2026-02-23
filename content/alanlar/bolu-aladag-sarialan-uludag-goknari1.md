@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","orman gezi","bitki gözlemi","canlı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Aladag-Sar%C4%B1alan-Uluda%C4%9F%20G%C3%B6knar%C4%B11","alt":"Bolu-Aladag-Sarıalan-Uludağ Göknarı1","caption":"Bolu-Aladag-Sarıalan-Uludağ Göknarı1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bolu-20191012-163038.jpg/960px-Bolu-20191012-163038.jpg","alt":"Bolu-Aladag-Sarıalan-Uludağ Göknarı1","caption":"Bolu-Aladag-Sarıalan-Uludağ Göknarı1","credit":"Bolu-20191012-163038.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Aladag-Sar%C4%B1alan-Uluda%C4%9F%20G%C3%B6knar%C4%B11","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228515","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Bolu'da yer alan milli park, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["Bolu","milli park","doğa","gezi","Karadeniz Bölgesi","Sarıalan","Uludağ Göknarı","Aladag"]

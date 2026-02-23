@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Katranc%C4%B1k%20Adas%C4%B1","alt":"Katrancık Adası","caption":"Katrancık Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Proceedings_of_the_Symposium_on_the_Environmental_Consequences_of_Fire_and_Fuel_Management_in_Mediterranean_Ecosystems_-_August_1-5%2C_1977%2C_Palo_Alto%2C_California._-_%28IA_CAT78696401%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Katrancık Adası","caption":"Katrancık Adası","credit":"Proceedings of the Symposium on the Environmental Consequences of Fire and Fuel Management in Mediterranean Ecosystems - August 1-5, 1977, Palo Alto, California. - (IA CAT78696401).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Katranc%C4%B1k%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49645552","tip":"genel"}]
 description: "Muğla'da bulunan Katrancık Adası, doğal güzellikleri ve tarihi zenginlikleriyle dikkat çekiyor."
 keywords: ["Katrancık Adası","Muğla Adaları","Türkiye Adaları","Ege Denizi","Ada Gezileri","Doğa Turizmi","Tarihî Yerler","Muğla Turizm","Deniz Turizmi"]

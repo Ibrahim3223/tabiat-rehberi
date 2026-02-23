@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara-Kizilcahamam%20Karacam","alt":"Ankara-Kizilcahamam Karacam","caption":"Ankara-Kizilcahamam Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Survey_on_the_implementation_of_ISO-IEC_guide_25_by_National_Laboratory_Accreditation_Programs_%28IA_surveyonimplemen5473brei%29.pdf/page1-960px-Survey_on_the_implementation_of_ISO-IEC_guide_25_by_National_Laboratory_Accreditation_Programs_%28IA_surveyonimplemen5473brei%29.pdf.jpg","alt":"Ankara-Kizilcahamam Karacam","caption":"Ankara-Kizilcahamam Karacam","credit":"Survey on the implementation of ISO-IEC guide 25 by National Laboratory Accreditation Programs (IA surveyonimplemen5473brei).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Kizilcahamam%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227477","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, Kizilcahamam Karacam Milli Parkı'nı ziyaret edin"
 keywords: ["Ankara","Kizilcahamam","Karacam","Milli Park","doğa","gezi","turizm","çevre","ekosistem"]

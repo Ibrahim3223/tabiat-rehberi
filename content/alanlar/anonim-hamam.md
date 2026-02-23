@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Yüzme","Güneşlenme","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Anonim%20Hamam","alt":"Anonim Hamam","caption":"Anonim Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Anonim Hamam","caption":"Anonim Hamam","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738989","tip":"genel"}]
 description: "Bodrum'un gizli kumsallarından biri olan Anonim Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Anonim Hamam","Bodrum","Muğla","Ege Bölgesi","plaj","doğa","gezi","turizm","kültür"]

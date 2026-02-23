@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1zlan%20Da%C4%9F%C4%B1","alt":"Kızlan Dağı","caption":"Kızlan Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Kızlan Dağı","caption":"Kızlan Dağı","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1zlan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31580074","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, Kızlan Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Kızlan Dağı","Muğla","Dağ","Doğa","Turizm","Gezi","Manzara","Trekking","Doğa Yürüyüşü"]

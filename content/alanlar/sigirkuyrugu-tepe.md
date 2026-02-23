@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğrafçılık","Tarih keşifi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1%C4%9F%C4%B1rkuyru%C4%9Fu%20Tepe","alt":"Sığırkuyruğu Tepe","caption":"Sığırkuyruğu Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf/page1-800px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf.jpg","alt":"Sığırkuyruğu Tepe","caption":"Sığırkuyruğu Tepe","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00singiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1%C4%9F%C4%B1rkuyru%C4%9Fu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386960","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinelesi Sığırkuyruğu Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası"
 keywords: ["Sığırkuyruğu Tepe","İç Anadolu Bölgesi","doğa harikası","tepe","turizm","gezi","keşif"]

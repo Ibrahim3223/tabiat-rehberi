@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["ormanda yürüyüş","doğa gözlemi","kültürel etkinliklere katılma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Melik%20Mehemmed%20Gazi%20T%C3%BCrbesi","alt":"Melik Mehemmed Gazi Türbesi","caption":"Melik Mehemmed Gazi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Melik Mehemmed Gazi Türbesi","caption":"Melik Mehemmed Gazi Türbesi","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melik%20Mehemmed%20Gazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391325","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Melik Mehemmed Gazi Türbesi","Akkuş","Ordu","Karadeniz Bölgesi","tarih","doğa","turizm","gezi","tarihçe","coğrafya"]

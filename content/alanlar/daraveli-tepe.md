@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye çıkma","manzara izleme","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Daraveli%20Tepe","alt":"Daraveli Tepe","caption":"Daraveli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Daraveli Tepe","caption":"Daraveli Tepe","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Daraveli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386858","tip":"genel"}]
 description: "Mardin'de bulunan Daraveli Tepe, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri."
 keywords: ["Mardin","Güneydoğu Anadolu Bölgesi","Daraveli Tepe","coğrafi oluşum","tepe","doğa","gezi"]

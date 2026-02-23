@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","su sporları","plaj voleybolu","tepe tırmanışı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Uzunyal%C4%B1%20Plaj%C4%B1","alt":"Uzunyalı Plajı","caption":"Uzunyalı Plajı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Uzunyalı Plajı","caption":"Uzunyalı Plajı","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzunyal%C4%B1%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49325113","tip":"genel"}]
 description: "Muğla'nın güzide plajlarından biri olan Uzunyalı Plajı, Ege Bölgesi'nin en çok ziyaret edilen noktalarından biridir."
 keywords: ["Uzunyalı Plajı","Muğla","Ege Bölgesi","plaj","deniz","turizm","gezi","tatil"]

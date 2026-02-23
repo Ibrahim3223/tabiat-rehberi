@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zonguldak-Eregli-Kocaman%20Ihlamur","alt":"Zonguldak-Eregli-Kocaman Ihlamur","caption":"Zonguldak-Eregli-Kocaman Ihlamur"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Zonguldak-Eregli-Kocaman Ihlamur","caption":"Zonguldak-Eregli-Kocaman Ihlamur","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Eregli-Kocaman%20Ihlamur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227747","tip":"genel"}]
 description: "Zonguldak'ta bulunan Kocaman Ihlamur, 140 hektarlık alanıyla doğaseverler için bir cennet"
 keywords: ["Zonguldak","Kocaman Ihlamur","milli park","doğa","turizm","gezi","karadeniz","ergeli","zonguldak milli parkı"]

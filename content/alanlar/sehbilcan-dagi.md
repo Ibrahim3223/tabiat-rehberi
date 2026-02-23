@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eehbilcan%20Da%C4%9F%C4%B1","alt":"Şehbilcan Dağı","caption":"Şehbilcan Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Şehbilcan Dağı","caption":"Şehbilcan Dağı","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehbilcan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386174","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan Şehbilcan Dağı, Gaziantep'in doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Gaziantep","Şehbilcan Dağı","coğrafi oluşum","doğal güzellik","Güneydoğu Anadolu Bölgesi","tepe","gezi","turizm"]

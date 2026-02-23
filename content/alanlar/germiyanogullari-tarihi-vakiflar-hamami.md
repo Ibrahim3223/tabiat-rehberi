@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["Hamamın tarihi yapısını keşfetmek","Plajda güneşlenmek","Yeşil alanlarda yürüyüş yapmak","Bölgenin flora ve faunasınılemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Germiyano%C4%9Fullar%C4%B1%20Tarihi%20Vak%C4%B1flar%20Hamam%C4%B1","alt":"Germiyanoğulları Tarihi Vakıflar Hamamı","caption":"Germiyanoğulları Tarihi Vakıflar Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf/page1-633px-Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf.jpg","alt":"Germiyanoğulları Tarihi Vakıflar Hamamı","caption":"Germiyanoğulları Tarihi Vakıflar Hamamı","credit":"Letters from the Aegean (in Two Volumes, Vol.I) (IA dli.granth.36180).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Germiyano%C4%9Fullar%C4%B1%20Tarihi%20Vak%C4%B1flar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738484","tip":"genel"}]
 description: "Tarihi bir hamam ve plaj deneyimi için ideal bir destinasyon"
 keywords: ["Germiyanoğulları","Tarihi Vakıflar Hamamı","Merkezefendi","Denizli","Ege Bölgesi","tarihi hamam","plaj"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aynal%C4%B1%20Ma%C4%9Fara%20Kral%20Mezar%C4%B1","alt":"Aynalı Mağara Kral Mezarı","caption":"Aynalı Mağara Kral Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Aynalı Mağara Kral Mezarı","caption":"Aynalı Mağara Kral Mezarı","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aynal%C4%B1%20Ma%C4%9Fara%20Kral%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728154","tip":"genel"}]
 description: "Amasya'da bulunan Aynalı Mağara Kral Mezarı, tarihin derinliklerinde gizli bir hazine"
 keywords: ["Aynalı Mağara","Kral Mezarı","Amasya","Karadeniz Bölgesi","tarih","mağara","mezar"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Plaj","Doğa yürüyüşü","Su sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Dalaman-Bahtiyar%20Sedir","alt":"Mugla-Dalaman-Bahtiyar Sedir","caption":"Mugla-Dalaman-Bahtiyar Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kavakarasi.jpg/960px-Kavakarasi.jpg","alt":"Mugla-Dalaman-Bahtiyar Sedir","caption":"Mugla-Dalaman-Bahtiyar Sedir","credit":"Kavakarasi.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Dalaman-Bahtiyar%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227219","tip":"genel"}]
 description: "Muğla'nın gizli cenneti, 140 hektarlık Sedir Adası"
 keywords: ["Sedir Adası","Muğla","Dalaman","Bahtiyar","milli park","doğa","plaj","tatil","gezi"]

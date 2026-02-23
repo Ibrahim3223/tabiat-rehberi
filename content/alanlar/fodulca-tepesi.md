@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","trekking","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Fodulca%20Tepesi","alt":"Fodulca Tepesi","caption":"Fodulca Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Fodulca Tepesi","caption":"Fodulca Tepesi","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fodulca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385831","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin, Fodulca Tepesi'ni ziyaret edin"
 keywords: ["Fodulca Tepesi","Kayseri","doğa","tepe","gezi","turizm","İç Anadolu Bölgesi","coğrafya"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğrafçılık","Doğa"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara-Kizilcahamam-Guvem-Uludag%20Goknari","alt":"Ankara-Kizilcahamam-Guvem-Uludag Goknari","caption":"Ankara-Kizilcahamam-Guvem-Uludag Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TURKEY-_POLITICAL_TRENDS_IN_2016_%28IA_gov.gpo.fdsys.CHRG-114hhrg98485%29.pdf/page1-960px-TURKEY-_POLITICAL_TRENDS_IN_2016_%28IA_gov.gpo.fdsys.CHRG-114hhrg98485%29.pdf.jpg","alt":"Ankara-Kizilcahamam-Guvem-Uludag Goknari","caption":"Ankara-Kizilcahamam-Guvem-Uludag Goknari","credit":"TURKEY- POLITICAL TRENDS IN 2016 (IA gov.gpo.fdsys.CHRG-114hhrg98485).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Kizilcahamam-Guvem-Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228575","tip":"genel"}]
 description: "Ankara'nın doğal güzellikleri arasında yer alan milli park, ziyaretçilerini bekliyor."
 keywords: ["Ankara","milli park","Kizilcahamam","Guvem","Uludag","Goknari","doğa","turizm","gezi"]

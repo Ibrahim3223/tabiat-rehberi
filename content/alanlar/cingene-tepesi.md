@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["yürüyüş","piknik","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ingene%20Tepesi","alt":"Çingene Tepesi","caption":"Çingene Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Çingene Tepesi","caption":"Çingene Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ingene%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829174","tip":"genel"}]
 description: "Sinop'ta yer alan Çingene Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Çingene Tepesi","Sinop","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","Sinop gezilecek yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçi rehberli turlar","Fotoğraf çekimi","Hamamın tarihi atmosferini deneyimleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Vezneciler%20Hamam%C4%B1","alt":"Vezneciler Hamamı","caption":"Vezneciler Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Vezneciler Hamamı","caption":"Vezneciler Hamamı","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vezneciler%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q85852396","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Vezneciler Hamamı, Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunur ve ziyaretçilerini tarihi atmosferi ile karşılar."
 keywords: ["Vezneciler Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarihi hamam","turistik mekan","kültürel miras","gezi","tarih"]

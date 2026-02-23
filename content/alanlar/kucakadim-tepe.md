@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ku%C3%A7akadim%20Tepe","alt":"Kuçakadim Tepe","caption":"Kuçakadim Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Kuçakadim Tepe","caption":"Kuçakadim Tepe","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C3%A7akadim%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042685","tip":"genel"}]
 description: "Türkiye'de bulunan Kuçakadim Tepe, doğa severler için önemli bir dağ"
 keywords: ["Kuçakadim Tepe","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezi","Coğrafya","Dağlar","Turizm","Yerel Gezi"]

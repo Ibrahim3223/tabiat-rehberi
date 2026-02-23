@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","yerel lezzetler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Latadika%20Tepesi","alt":"Latadika Tepesi","caption":"Latadika Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf/page1-812px-On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf.jpg","alt":"Latadika Tepesi","caption":"Latadika Tepesi","credit":"On the fringe of the great fight (IA onfringeofgreatf00nasmrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Latadika%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555091","tip":"genel"}]
 description: "Batman'da doğal güzellikler sunan Latadika Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Latadika Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","ziyaret"]

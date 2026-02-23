@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih ve kültür turu","doğa yürüyüşü","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0onik%20Akrepolis","alt":"İonik Akrepolis","caption":"İonik Akrepolis"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aflatoxin_Elimination_Workshop_-_%28proceedings%29_%28IA_CAT11083246006%29.pdf/page1-960px-Aflatoxin_Elimination_Workshop_-_%28proceedings%29_%28IA_CAT11083246006%29.pdf.jpg","alt":"İonik Akrepolis","caption":"İonik Akrepolis","credit":"Aflatoxin Elimination Workshop - (proceedings) (IA CAT11083246006).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0onik%20Akrepolis","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q104641913","tip":"genel"}]
 description: "İzmir'in tarih kokan sokaklarında, İonik Akrepolis'in gizemli atmosferini keşfedin."
 keywords: ["İonik Akrepolis","İzmir","Ege Bölgesi","tarih","arkeoloji","gezi","kültür","doğa"]

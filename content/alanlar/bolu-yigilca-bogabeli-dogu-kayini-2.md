@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","picnic","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Yigilca-Bogabeli%20Dogu%20Kayini%202","alt":"Bolu-Yigilca-Bogabeli Dogu Kayini 2","caption":"Bolu-Yigilca-Bogabeli Dogu Kayini 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bolu_G%C3%B6lc%C3%BCk_Milli_Park%C4%B1_-_Safa_Usta.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Milli_Park%C4%B1_-_Safa_Usta.jpg","alt":"Bolu-Yigilca-Bogabeli Dogu Kayini 2","caption":"Bolu-Yigilca-Bogabeli Dogu Kayini 2","credit":"Bolu Gölcük Milli Parkı - Safa Usta.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Yigilca-Bogabeli%20Dogu%20Kayini%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227778","tip":"genel"}]
 description: "Bolu'nun doğal güzellikleri arasında yer alan milli park, ziyaretçiler için keyifli bir deneyim sunuyor."
 keywords: ["Bolu","Yigilca","Bogabeli","Dogu Kayini","milli park","doğa","gezi","turizm"]

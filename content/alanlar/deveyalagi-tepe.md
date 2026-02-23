@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Deveyala%C4%9F%C4%B1%20Tepe","alt":"Deveyalağı Tepe","caption":"Deveyalağı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Deveyalağı Tepe","caption":"Deveyalağı Tepe","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deveyala%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31525898","tip":"genel"}]
 description: "Konya'da bulunan Deveyalağı Tepe, 1200 metre yüksekliğiyle dikkat çeker. Doğal güzellikleri ve trekking rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Deveyalağı Tepe","Konya","Dağ","Trekking","Doğa","Turizm","Konya Gezilecek Yerler","Dağcılık","Konya Turu"]

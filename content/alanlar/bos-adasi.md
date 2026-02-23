@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bo%C5%9F%20Adas%C4%B1","alt":"Boş Adası","caption":"Boş Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_to_chios_island_3_-_panoramio.jpg/960px-View_to_chios_island_3_-_panoramio.jpg","alt":"Boş Adası","caption":"Boş Adası","credit":"View to chios island 3 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bo%C5%9F%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49633825","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Boş Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Boş Adası","İzmir Adaları","Doğal Alanlar","Yeşil Cennet","İzmir Turizm","Ada Gezileri","Turistik Yerler","İzmir'in Gizli Cenneti","Boş Adası Gezi Rehberi"]

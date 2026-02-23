@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Seyyid%20Harun%20Veli%20Hamam%C4%B1","alt":"Seyyid Harun Veli Hamamı","caption":"Seyyid Harun Veli Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf/page1-860px-Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf.jpg","alt":"Seyyid Harun Veli Hamamı","caption":"Seyyid Harun Veli Hamamı","credit":"Revue suisse de zoologie (IA revuesuissede11412007schw).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Harun%20Veli%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739169","tip":"genel"}]
 description: "Konya'nın Seydişehir ilçesinde yer alan tarihi hamam"
 keywords: ["Seyyid Harun Veli Hamamı","Konya","Seydişehir","tarihi hamam","İç Anadolu Bölgesi","turizm","gezi","tarih"]

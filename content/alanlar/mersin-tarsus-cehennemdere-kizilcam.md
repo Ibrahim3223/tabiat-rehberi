@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Tarihî keşifler","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Tarsus-Cehennemdere%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mersin-Tarsus-Cehennemdere Kızılçam","caption":"Mersin-Tarsus-Cehennemdere Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kad%C4%B1nc%C4%B1k_Valley_17.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_17.jpg","alt":"Mersin-Tarsus-Cehennemdere Kızılçam","caption":"Mersin-Tarsus-Cehennemdere Kızılçam","credit":"Kadıncık Valley 17.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Tarsus-Cehennemdere%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227662","tip":"genel"}]
 description: "Mersin'in Tarsus ilçesinde bulunan Cehennemdere Kızılçam Milli Parkı, 140 hektarlık bir alanı kapsar."
 keywords: ["Mersin","Tarsus","Cehennemdere","Kızılçam","Milli Park","Doğa","Turizm"]

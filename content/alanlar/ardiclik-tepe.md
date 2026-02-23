@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye tırmanmak","manzara izlemek","bitki ve hayvan türlerini gözlemlemek","fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ard%C4%B1%C3%A7l%C4%B1k%20Tepe","alt":"Ardıçlık Tepe","caption":"Ardıçlık Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Narrative_of_a_mission_to_Central_Africa_-_performed_in_the_years_1850-51_-_under_the_orders_and_at_the_expense_of_Her_Majesty%27s_government_%28IA_narrativeofmissi11853rich%29.pdf/page1-700px-thumbnail.pdf.jpg","alt":"Ardıçlık Tepe","caption":"Ardıçlık Tepe","credit":"Narrative of a mission to Central Africa - performed in the years 1850-51 - under the orders and at the expense of Her Majesty's government (IA narrativeofmissi11853rich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ard%C4%B1%C3%A7l%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32129246","tip":"genel"}]
 description: "Karaman'da yer alan Ardıçlık Tepe, doğal güzelliği ve tarihi zenginliğiyle dikkat çekiyor."
 keywords: ["Ardıçlık Tepe","Karaman","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm","coğrafya"]

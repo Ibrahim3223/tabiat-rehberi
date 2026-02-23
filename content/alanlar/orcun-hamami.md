@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["çamur banyosu","plaj","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%96rc%C3%BCn%20Hamam%C4%B1","alt":"Örcün Hamamı","caption":"Örcün Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Örcün Hamamı","caption":"Örcün Hamamı","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96rc%C3%BCn%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739058","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, 140 hektarlık doğa harikası"
 keywords: ["Örcün Hamamı","Gölcük","Kocaeli","Marmara Bölgesi","plaj","doğa","turizm"]

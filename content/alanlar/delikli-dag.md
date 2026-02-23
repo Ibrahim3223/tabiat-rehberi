@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Delikli%20Da%C4%9F","alt":"Delikli Dağ","caption":"Delikli Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"Delikli Dağ","caption":"Delikli Dağ","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Delikli%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526125","tip":"genel"}]
 description: "Antalya'da bulunan Delikli Dağ, 1200 hektarlık yeşil cenneti ve benzersiz doğası ile ziyaretçilerini bekliyor."
 keywords: ["Delikli Dağ","Antalya","Dağ","Doğa","Turizm","Gezi","Yeşil Alan","Doğal Güzellik","Türkiye"]

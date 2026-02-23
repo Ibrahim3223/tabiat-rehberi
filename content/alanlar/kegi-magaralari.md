@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Doga Yürüyüşü","Piknik","Kamp","Fotoğrafçılık","Kuş Gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kegi%20Ma%C4%9Faralar%C4%B1","alt":"Kegi Mağaraları","caption":"Kegi Mağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Kegi Mağaraları","caption":"Kegi Mağaraları","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kegi%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319343","tip":"genel"}]
 description: "Şırnak'ta yer alan Kegi Mağaraları, jeopark olarak bilinen doğal güzellik alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kegi Mağaraları","Şırnak","Jeopark","Doğal Alan","Turizm","Gezi","Mağara","Jeolojik Oluşum","Doğa","Şırnak Turistik Yerler"]

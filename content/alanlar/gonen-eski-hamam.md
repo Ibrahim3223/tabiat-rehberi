@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6nen%20Eski%20Hamam","alt":"Gönen Eski Hamam","caption":"Gönen Eski Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Gönen Eski Hamam","caption":"Gönen Eski Hamam","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6nen%20Eski%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739137","tip":"genel"}]
 description: "Isparta'nın Gönen ilçesinde yer alan Gönen Eski Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Gönen Eski Hamam","Isparta","Akdeniz Bölgesi","yeşil alan","futbol sahası","doğa","gezi"]

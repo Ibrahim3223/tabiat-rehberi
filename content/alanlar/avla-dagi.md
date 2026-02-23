@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Avla%20Da%C4%9F%C4%B1","alt":"Avla Dağı","caption":"Avla Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG/960px-Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG","alt":"Avla Dağı","caption":"Avla Dağı","credit":"Fairy Chimneys 2, Nevşehir Province, Turkey.JPG","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avla%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531484","tip":"genel"}]
 description: "Nevşehir'de yer alan Avla Dağı, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzelliği ve tarihi önemiyle ziyaretçilerini bekliyor."
 keywords: ["Avla Dağı","Nevşehir","Dağ","Doğa","Türkiye","Gezi","Seyahat","Nevşehir gezilecek yerler","Doğal güzellik"]

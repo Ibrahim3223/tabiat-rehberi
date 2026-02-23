@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87iftlarslan%20Tepesi","alt":"Çiftlarslan Tepesi","caption":"Çiftlarslan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Çiftlarslan Tepesi","caption":"Çiftlarslan Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iftlarslan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818961","tip":"genel"}]
 description: "Hatay'da bulunan Çiftlarslan Tepesi, Akdeniz Bölgesi'nin önemli güzelliklerinden biri."
 keywords: ["Çiftlarslan Tepesi","Hatay","Akdeniz Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya","flora","fauna"]

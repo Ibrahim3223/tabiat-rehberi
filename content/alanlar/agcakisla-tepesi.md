@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","doğa fotoğrafçılığı","yöresel lezzetler tatmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C4%9Fcak%C4%B1%C5%9Fla%20Tepesi","alt":"Ağcakışla Tepesi","caption":"Ağcakışla Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Ağcakışla Tepesi","caption":"Ağcakışla Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Fcak%C4%B1%C5%9Fla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390722","tip":"genel"}]
 description: "Yozgat'ın doğal güzelliklerine ev sahipliği yapan Ağcakışla Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet."
 keywords: ["Ağcakışla Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","gezi","tepe","yayla"]

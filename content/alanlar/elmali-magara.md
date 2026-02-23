@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Elmal%C4%B1%20Ma%C4%9Fara","alt":"Elmalı Mağara","caption":"Elmalı Mağara"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf/page1-875px-Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf.jpg","alt":"Elmalı Mağara","caption":"Elmalı Mağara","credit":"Revue suisse de zoologie (IA revuesuissede11042003schw).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elmal%C4%B1%20Ma%C4%9Fara","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319143","tip":"genel"}]
 description: "Antalya'da yer alan Elmalı Mağara, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Elmalı Mağara","Antalya Jeopark","Doğal Alanlar","Mağara Gezileri","Jeolojik Özellikler","Turistik Yerler","Antalya Turizm","Doğa Sporları","Jeoparklar"]

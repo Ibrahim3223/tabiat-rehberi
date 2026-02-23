@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K.Mara%C5%9F-Antakya-K%C4%B1r%C4%B1khan-K%C4%B1z%C4%B1l%C3%A7am1","alt":"K.Maraş-Antakya-Kırıkhan-Kızılçam1","caption":"K.Maraş-Antakya-Kırıkhan-Kızılçam1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"K.Maraş-Antakya-Kırıkhan-Kızılçam1","caption":"K.Maraş-Antakya-Kırıkhan-Kızılçam1","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K.Mara%C5%9F-Antakya-K%C4%B1r%C4%B1khan-K%C4%B1z%C4%B1l%C3%A7am1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228424","tip":"genel"}]
 description: "Doğal güzelliklerin buluştuğu bir milli park"
 keywords: ["milli park","doğa","gezi","türkiye","kayseri","antakya","kırıkhan","kızılçam"]

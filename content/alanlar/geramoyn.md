@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Geramoyn","alt":"Geramoyn","caption":"Geramoyn"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Skyland%2C_situated_on_high_plateau_in_the_Blue_Ridge_near_grand_old_Stony_Man_Peak_%28IA_skylandsituatedo00roan%29.pdf/page1-847px-Skyland%2C_situated_on_high_plateau_in_the_Blue_Ridge_near_grand_old_Stony_Man_Peak_%28IA_skylandsituatedo00roan%29.pdf.jpg","alt":"Geramoyn","caption":"Geramoyn","credit":"Skyland, situated on high plateau in the Blue Ridge near grand old Stony Man Peak (IA skylandsituatedo00roan).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geramoyn","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21210756","tip":"genel"}]
 description: "Van'da bulunan Geramoyn Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Geramoyn","Van","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Doğa Sporları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=U%C4%9Fur%20Da%C4%9F%C4%B1","alt":"Uğur Dağı","caption":"Uğur Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Uğur Dağı","caption":"Uğur Dağı","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/U%C4%9Fur%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560598","tip":"genel"}]
 description: "Artvin'in en önemli doğal güzelliklerinden biri olan Uğur Dağı, 1200 hektarlık yeşil cenneti ile ziyaretçilerini bekliyor."
 keywords: ["Uğur Dağı","Artvin","Dağ","Doğa","Yeşil Cennet","Turizm","Gezi","Seyahat","Doğal Güzellik"]

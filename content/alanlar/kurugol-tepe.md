@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye tırmanmak","manzara izlemek","fotoğraf çekmek","yürüyüş yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurug%C3%B6l%20Tepe","alt":"Kurugöl Tepe","caption":"Kurugöl Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf/page1-800px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf.jpg","alt":"Kurugöl Tepe","caption":"Kurugöl Tepe","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00singiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurug%C3%B6l%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32206206","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kurugöl Tepe, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Kurugöl Tepe","İç Anadolu Bölgesi","tarih","doğa","gezi","tepe","coğrafya","flora","fauna"]

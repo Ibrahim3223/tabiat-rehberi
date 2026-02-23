@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["denizde yüzme","güneşlenme","kumda dinlenme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Burj%20al%20Babas","alt":"Burj al Babas","caption":"Burj al Babas"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Travels_in_northern_Greece_%28IA_gri_000433125008698033%29.pdf/page1-625px-Travels_in_northern_Greece_%28IA_gri_000433125008698033%29.pdf.jpg","alt":"Burj al Babas","caption":"Burj al Babas","credit":"Travels in northern Greece (IA gri 000433125008698033).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burj%20al%20Babas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q60842230","tip":"genel"}]
 description: "Bolu'nun eşsiz plajı, Karadeniz Bölgesi'nin gizli cenneti"
 keywords: ["Bolu","Karadeniz Bölgesi","plaj","deniz","doğa","gezi","tatil","seyahat","yaz"]

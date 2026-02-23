@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCkkiremit%20Adas%C4%B1","alt":"Büyükkiremit Adası","caption":"Büyükkiremit Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Büyükkiremit Adası","caption":"Büyükkiremit Adası","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkkiremit%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49634413","tip":"genel"}]
 description: "Muğla'da yer alan Büyükkiremit Adası, doğa severlerin ziyaret ettiği bir ada"
 keywords: ["Büyükkiremit Adası","Muğla","ada","doğa","seyahat","gezi","turizm","deniz","plaj","yaz tatili"]

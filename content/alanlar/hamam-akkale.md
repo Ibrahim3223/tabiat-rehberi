@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günde 4-6 saat"
 aktiviteler: ["güneşlenmek","denizde vakit geçirmek","yürüyüş yapmak","doğayı keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamam%2C%20Akkale","alt":"Hamam, Akkale","caption":"Hamam, Akkale"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Travels_in_Nubia_%28IA_b22017343%29.pdf/page1-912px-Travels_in_Nubia_%28IA_b22017343%29.pdf.jpg","alt":"Hamam, Akkale","caption":"Hamam, Akkale","credit":"Travels in Nubia (IA b22017343).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20Akkale","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245801","tip":"genel"}]
 description: "Mersin'in Erdemli ilçesinde yer alan Hamam, Akkale plajı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Mersin","Erdemli","Hamam","Akkale","plaj","yeşil alan","futbol sahası"]

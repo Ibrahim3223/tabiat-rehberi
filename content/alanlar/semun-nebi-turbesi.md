@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Dinî ziyaret","Doğa yürüyüşü","Yerel kültürü öğrenme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eem%E2%80%99un%20Nebi%20T%C3%BCrbesi","alt":"Şem’un Nebi Türbesi","caption":"Şem’un Nebi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Victoria_Daily_Times_%281921-12-31%29_%28IA_victoriadailytimes19211231%29.pdf/page1-960px-Victoria_Daily_Times_%281921-12-31%29_%28IA_victoriadailytimes19211231%29.pdf.jpg","alt":"Şem’un Nebi Türbesi","caption":"Şem’un Nebi Türbesi","credit":"Victoria Daily Times (1921-12-31) (IA victoriadailytimes19211231).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eem%E2%80%99un%20Nebi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390872","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Kilis ilinin doğal güzelliklerini keşfedin. Şem’un Nebi Türbesi, tarihi ve doğal zenginlikler sunuyor."
 keywords: ["Şem’un Nebi Türbesi","Kilis","Güneydoğu Anadolu Bölgesi","doğal güzellikler","tarihi yerler","türk kültürü","dinî mekânlar","gezi rehberi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adras%20Da%C4%9F%C4%B1","alt":"Adras Dağı","caption":"Adras Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Narrative_of_a_mission_to_Central_Africa_-_performed_in_the_years_1850-51_-_under_the_orders_and_at_the_expense_of_Her_Majesty%27s_government_%28IA_narrativeofmissi11853rich%29.pdf/page1-700px-thumbnail.pdf.jpg","alt":"Adras Dağı","caption":"Adras Dağı","credit":"Narrative of a mission to Central Africa - performed in the years 1850-51 - under the orders and at the expense of Her Majesty's government (IA narrativeofmissi11853rich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adras%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31533775","tip":"genel"}]
 description: "Karaman'da yer alan Adras Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Adras Dağı","Karaman","Dağ","Doğa","Yeşil Alan","Türkiye","Karaman Gezilecek Yerler","Dağcılık","Doğa Sporları"]

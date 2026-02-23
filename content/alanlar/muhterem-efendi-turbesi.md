@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve plajı gezmek","Denize girmek"," Piknik yapmak","Doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Muhterem%20Efendi%20T%C3%BCrbesi","alt":"Muhterem Efendi Türbesi","caption":"Muhterem Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Muhterem Efendi Türbesi","caption":"Muhterem Efendi Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Muhterem%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390971","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi bir türbe ve plaj"
 keywords: ["Muhterem Efendi","Türbe","Plaj","Fatih","İstanbul","Marmara Bölgesi","Tarih","Doğa","Ziyaret"]

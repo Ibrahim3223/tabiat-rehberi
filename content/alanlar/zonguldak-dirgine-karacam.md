@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zonguldak-Dirgine%20Karacam","alt":"Zonguldak-Dirgine Karacam","caption":"Zonguldak-Dirgine Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Zonguldak-Dirgine Karacam","caption":"Zonguldak-Dirgine Karacam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Dirgine%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227467","tip":"genel"}]
 description: "Zonguldak'ta yer alan Dirgine Karacam Milli Parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
 keywords: ["Zonguldak","Dirgine Karacam","Milli Park","Doğa","Yeşil Alan","Karadeniz Bölgesi"]

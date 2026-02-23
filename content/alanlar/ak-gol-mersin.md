@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ak%20G%C3%B6l%20(Mersin)","alt":"Ak Göl (Mersin)","caption":"Ak Göl (Mersin)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gilindire_Cave.jpg/960px-Gilindire_Cave.jpg","alt":"Ak Göl","caption":"Ak Göl","credit":"Gilindire Cave.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%20G%C3%B6l%20(Mersin)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34797604","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerinden biri olan Ak Göl, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Ak Göl","Mersin","göller","doğa","turizm","Mersin gezilecek yerler","göl","yeşil alan","Mersin turizmi"]

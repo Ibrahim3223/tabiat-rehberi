@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Boztepe%20Burnu","alt":"Boztepe Burnu","caption":"Boztepe Burnu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Status_and_management_of_neotropical_migratory_birds_-_September_21-25%2C_1992%2C_Estes_Park_Center%2C_YMCA_of_the_Rockies%2C_Colorado_%28IA_CAT93501984%29.pdf/page1-960px-Status_and_management_of_neotropical_migratory_birds_-_September_21-25%2C_1992%2C_Estes_Park_Center%2C_YMCA_of_the_Rockies%2C_Colorado_%28IA_CAT93501984%29.pdf.jpg","alt":"Boztepe Burnu","caption":"Boztepe Burnu","credit":"Status and management of neotropical migratory birds - September 21-25, 1992, Estes Park Center, YMCA of the Rockies, Colorado (IA CAT93501984).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boztepe%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6067558","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Boztepe Burnu, çeşitli kuş türlerini barındırır ve doğa severler için ideal bir destinasyon"
 keywords: ["Boztepe Burnu","kuş cenneti","Türkiye","doğa","kuş türleri","turizm","gezi","seyahat","çevre"]

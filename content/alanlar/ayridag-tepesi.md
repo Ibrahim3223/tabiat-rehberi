@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotograf çekme","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ayr%C4%B1da%C4%9F%20Tepesi","alt":"Ayrıdağ Tepesi","caption":"Ayrıdağ Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Barrow_-_panoramio.jpg/960px-The_Barrow_-_panoramio.jpg","alt":"Ayrıdağ Tepesi","caption":"Ayrıdağ Tepesi","credit":"The Barrow - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayr%C4%B1da%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390648","tip":"genel"}]
 description: "Kırşehir'in doğal güzelliklerinden biri olan Ayrıdağ Tepesi, İç Anadolu Bölgesi'nde yer alıyor."
 keywords: ["Ayrıdağ Tepesi","Kırşehir","İç Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

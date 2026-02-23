@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%96bekalan%20Da%C4%9F%C4%B1","alt":"Öbekalan Dağı","caption":"Öbekalan Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Öbekalan Dağı","caption":"Öbekalan Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96bekalan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820234","tip":"genel"}]
 description: "Balıkesir'in doğal güzelliklerini keşfedin, Öbekalan Dağı'nın büyüleyici manzaralarına tanık olun."
 keywords: ["Öbekalan Dağı","Balıkesir","Dağ","Doğa","Manzara","Gezi","Türkiye","Seyahat","Turizm"]

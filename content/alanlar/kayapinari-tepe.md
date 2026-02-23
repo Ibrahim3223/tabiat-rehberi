@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tepeye tırmanmak","manzara seyretmek","bitki türlerini incelemek","kuş gözlemi yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayap%C4%B1nar%C4%B1%20Tepe","alt":"Kayapınarı Tepe","caption":"Kayapınarı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rattler_%281913%29_%28IA_rattler191305rale%29.pdf/page1-960px-Rattler_%281913%29_%28IA_rattler191305rale%29.pdf.jpg","alt":"Kayapınarı Tepe","caption":"Kayapınarı Tepe","credit":"Rattler (1913) (IA rattler191305rale).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayap%C4%B1nar%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387401","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide illerinden Van'da yer alan Kayapınarı Tepe, 140 hektarlık bir alanı kaplayan geniş ve tarihi bir tepe"
 keywords: ["Kayapınarı Tepe","Van","Doğu Anadolu Bölgesi","tarih","coğrafya","doğa","gezi","ziyaret"]

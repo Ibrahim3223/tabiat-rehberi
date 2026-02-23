@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Kuş gözlemciliği","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bulan%C4%B1k%20Ovas%C4%B1%20Sulak%20Alan%C4%B1","alt":"Bulanık Ovası Sulak Alanı","caption":"Bulanık Ovası Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Bulanık Ovası Sulak Alanı","caption":"Bulanık Ovası Sulak Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bulan%C4%B1k%20Ovas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228854","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Bulanık Ovası Sulak Alanı, doğa severler için bir çekim merkezi"
 keywords: ["Bulanık Ovası","Sulak Alan","İç Anadolu Bölgesi","Doğa","Sulak Alanlar","Korunan Alanlar","Doğa Turizmi","Çevre"]

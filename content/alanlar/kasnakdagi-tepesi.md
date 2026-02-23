@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Kamp","Rehberli turlar"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kasnakda%C4%9F%C4%B1%20Tepesi","alt":"Kasnakdağı Tepesi","caption":"Kasnakdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Kasnakdağı Tepesi","caption":"Kasnakdağı Tepesi","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kasnakda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389343","tip":"genel"}]
 description: "Mersin'de bulunan Kasnakdağı Tepesi, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Kasnakdağı Tepesi","Mersin","Akdeniz Bölgesi","doğal alan","tepe","coğrafya","flora","fauna"]

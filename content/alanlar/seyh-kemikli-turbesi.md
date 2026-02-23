@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezmek","Doğa yürüyüşü yapmak","Kuş gözlemi","Fotografi","Doğal güzellikleri keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Kemikli%20T%C3%BCrbesi","alt":"Şeyh Kemikli Türbesi","caption":"Şeyh Kemikli Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Şeyh Kemikli Türbesi","caption":"Şeyh Kemikli Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Kemikli%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390998","tip":"genel"}]
 description: "Pendik'te yer alan Şeyh Kemikli Türbesi, İstanbul'un Marmara Bölgesi'nde bulunup, tarihi ve doğal güzellikleri bir arada sunan özel bir yer."
 keywords: ["Şeyh Kemikli Türbesi","Pendik","İstanbul","Marmara Bölgesi","tarihi yerler","doğal güzellikler","gezi noktaları","turistik alanlar","tarihçe","coğrafya"]

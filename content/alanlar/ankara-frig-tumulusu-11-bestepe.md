@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültür turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2011%2C%20Be%C5%9Ftepe","alt":"Ankara Frig Tümülüsü 11, Beştepe","caption":"Ankara Frig Tümülüsü 11, Beştepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/State_1995-01-_Iss_384_%28IA_sim_state-magazine_1995-01_384%29.pdf/page1-960px-State_1995-01-_Iss_384_%28IA_sim_state-magazine_1995-01_384%29.pdf.jpg","alt":"Ankara Frig Tümülüsü 11, Beştepe","caption":"Ankara Frig Tümülüsü 11, Beştepe","credit":"State 1995-01- Iss 384 (IA sim state-magazine 1995-01 384).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2011%2C%20Be%C5%9Ftepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728279","tip":"genel"}]
 description: "Ankara'nın tarihi güzelliklerini keşfedin. İç Anadolu Bölgesi'nin kalbinde yer alan bu önemli tarihi mekan, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Frig Tümülüsü","Beştepe","tarih","kültür","gezi","Ankara gezilecek yerler","tarihi mekanlar","İç Anadolu Bölgesi"]

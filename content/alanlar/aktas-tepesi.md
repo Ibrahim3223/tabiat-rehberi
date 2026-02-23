@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akta%C5%9F%20Tepesi","alt":"Aktaş Tepesi","caption":"Aktaş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Aktaş Tepesi","caption":"Aktaş Tepesi","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388236","tip":"genel"}]
 description: "Kars'ta bulunan Aktaş Tepesi, doğa severlerin ziyaret ettiği bir alan"
 keywords: ["Kars","Doğu Anadolu Bölgesi","Aktaş Tepesi","Doğa","Tarih","Coğrafya","Flora","Fauna","Ziyaret"]

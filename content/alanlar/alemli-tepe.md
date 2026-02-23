@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alemli%20Tepe","alt":"Alemli Tepe","caption":"Alemli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Alemli Tepe","caption":"Alemli Tepe","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alemli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388776","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Alemli Tepe, ziyaretçilerini tarihi ve doğal zenginlikleriyle karşılar."
 keywords: ["Alemli Tepe","İç Anadolu Bölgesi","doğal güzellikler","tarihi mekanlar","gezi noktaları","tepe","coğrafya","flora","fauna","ziyaret"]

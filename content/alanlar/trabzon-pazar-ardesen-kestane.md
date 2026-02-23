@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük gezi"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğraf çekimi","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trabzon-Pazar-Ardesen-Kestane","alt":"Trabzon-Pazar-Ardesen-Kestane","caption":"Trabzon-Pazar-Ardesen-Kestane"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sis_da%C4%9F%C4%B1_%284%29.jpg/960px-Sis_da%C4%9F%C4%B1_%284%29.jpg","alt":"Trabzon-Pazar-Ardesen-Kestane","caption":"Trabzon-Pazar-Ardesen-Kestane","credit":"Sis dağı (4).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Pazar-Ardesen-Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228499","tip":"genel"}]
 description: "Trabzon'un doğal güzellikleri arasında yer alan milli park"
 keywords: ["Trabzon","Pazar","Ardesen","Kestane","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

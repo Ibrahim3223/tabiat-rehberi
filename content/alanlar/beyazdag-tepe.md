@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Beyazda%C4%9F%20Tepe","alt":"Beyazdağ Tepe","caption":"Beyazdağ Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Beyazdağ Tepe","caption":"Beyazdağ Tepe","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beyazda%C4%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573350","tip":"genel"}]
 description: "Bingöl'de bulunan Beyazdağ Tepe, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Beyazdağ Tepe","Bingöl","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Türkiye"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kamp","fotoğrafçılık","tarih ve kültür gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0likaya%20Tepe","alt":"İlikaya Tepe","caption":"İlikaya Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"İlikaya Tepe","caption":"İlikaya Tepe","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0likaya%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390109","tip":"genel"}]
 description: "Antalya'da bulunan İlikaya Tepe, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["İlikaya Tepe","Antalya","Akdeniz Bölgesi","doğal alan","tepe","gezi","turizm"]

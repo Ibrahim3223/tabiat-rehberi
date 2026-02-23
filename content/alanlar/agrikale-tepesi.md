@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kültür turu","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C4%9Fr%C4%B1kale%20Tepesi","alt":"Ağrıkale Tepesi","caption":"Ağrıkale Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Ağrıkale Tepesi","caption":"Ağrıkale Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Fr%C4%B1kale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390107","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Ağrıkale Tepesi, 140 hektarlık geniş bir alana sahiptir."
 keywords: ["Ağrıkale Tepesi","Ankara","İç Anadolu Bölgesi","tepe","coğrafya","doğa"]

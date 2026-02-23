@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ko%C3%A7alak%20Tepe","alt":"Koçalak Tepe","caption":"Koçalak Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TRABZON-UZUNGOL.jpg/960px-TRABZON-UZUNGOL.jpg","alt":"Koçalak Tepe","caption":"Koçalak Tepe","credit":"TRABZON-UZUNGOL.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7alak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042413","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerini keşfedin. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Koçalak Tepe","Trabzon","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Trabzon Turistik Yerler"]

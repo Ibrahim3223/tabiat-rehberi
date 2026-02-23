@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","yaban hayatı gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Mesudiye-Arpaalan%20(ha)%20Saricam","alt":"Giresun-Mesudiye-Arpaalan (ha) Saricam","caption":"Giresun-Mesudiye-Arpaalan (ha) Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sis_da%C4%9F%C4%B1_%281%29.jpg/960px-Sis_da%C4%9F%C4%B1_%281%29.jpg","alt":"Giresun-Mesudiye-Arpaalan (ha) Saricam","caption":"Giresun-Mesudiye-Arpaalan (ha) Saricam","credit":"Sis dağı (1).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Mesudiye-Arpaalan%20(ha)%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227576","tip":"genel"}]
 description: "Giresun'da yer alan milli park, yaklaşık 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor"
 keywords: ["Giresun","milli park","Arpaalan","Saricam","Karadeniz Bölgesi","doğa","flora","fauna","gezi"]

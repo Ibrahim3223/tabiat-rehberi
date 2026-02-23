@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kazburnu%20Tepe","alt":"Kazburnu Tepe","caption":"Kazburnu Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Kazburnu Tepe","caption":"Kazburnu Tepe","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazburnu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31545803","tip":"genel"}]
 description: "Batman'da yer alan Kazburnu Tepe, doğa severler için önemli bir destinasyon. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Kazburnu Tepe","Batman","Doğa","Dağ","Yeşil Alan","Turizm","Gezi","Seyahat","Doğa Sporları"]

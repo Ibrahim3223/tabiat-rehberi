@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Yürüyüş","Flora ve fauna gözlemi","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara%20Kara%20Akbaba%20YHGS","alt":"Ankara Kara Akbaba YHGS","caption":"Ankara Kara Akbaba YHGS"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Ankara Kara Akbaba YHGS","caption":"Ankara Kara Akbaba YHGS","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Kara%20Akbaba%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228806","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Ankara Kara Akbaba YHGS, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor."
 keywords: ["Ankara Kara Akbaba YHGS","İç Anadolu Bölgesi","doğal güzellikler","flora ve fauna","yaban hayatı","korunan alanlar"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Tarihi sokaklar gezisi","Doğa yürüyüşleri","Yöresel lezzetler tadımı","Yerel el sanatları keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pir%20Ahmet%20Bey%20T%C3%BCrbesi","alt":"Pir Ahmet Bey Türbesi","caption":"Pir Ahmet Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_principal_ruins_of_Asia_Minor_%28IA_gri_33125008782936%29.pdf/page1-960px-The_principal_ruins_of_Asia_Minor_%28IA_gri_33125008782936%29.pdf.jpg","alt":"Pir Ahmet Bey Türbesi","caption":"Pir Ahmet Bey Türbesi","credit":"The principal ruins of Asia Minor (IA gri 33125008782936).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pir%20Ahmet%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391750","tip":"genel"}]
 description: "Tokat'ın tarihi ve doğal güzelliklerini keşfedin. Pir Ahmet Bey Türbesi, Karadeniz Bölgesi'nin önemli dini merkezlerinden biri."
 keywords: ["Pir Ahmet Bey Türbesi","Tokat","Karadeniz Bölgesi","tarihi mekanlar","dini merkezler","doğal güzellikler","gezi rehberi","turizm"]

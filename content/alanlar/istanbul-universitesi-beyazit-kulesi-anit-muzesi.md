@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Tarihî yapılar","Parklar ve bahçeler","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0stanbul%20%C3%9Cniversitesi%20Beyaz%C4%B1t%20Kulesi%20An%C4%B1t%20M%C3%BCzesi","alt":"İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi","caption":"İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Landscape_from_B%C3%BCy%C3%BCkada.jpg/960px-Landscape_from_B%C3%BCy%C3%BCkada.jpg","alt":"İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi","caption":"İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi","credit":"Landscape from Büyükada.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0stanbul%20%C3%9Cniversitesi%20Beyaz%C4%B1t%20Kulesi%20An%C4%B1t%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949064","tip":"genel"}]
 description: "İstanbul Üniversitesi'nin tarihi beyazıt kulesi anıt müzesi, İstanbul'un en önemli turistik mekanlarından biri."
 keywords: ["İstanbul Üniversitesi","Beyazıt Kulesi","Anıt Müzesi","İstanbul","Marmara Bölgesi","Tarih","Müze","Kültür"]

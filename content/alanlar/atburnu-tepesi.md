@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Atburnu%20Tepesi","alt":"Atburnu Tepesi","caption":"Atburnu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_National_geographic_magazine_%28IA_nationalgeograp361919nati%29.pdf/page1-960px-The_National_geographic_magazine_%28IA_nationalgeograp361919nati%29.pdf.jpg","alt":"Atburnu Tepesi","caption":"Atburnu Tepesi","credit":"The National geographic magazine (IA nationalgeograp361919nati).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atburnu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387909","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Atburnu Tepesi, Iğdır ilinin sınırları içerisinde yer alır."
 keywords: ["Atburnu Tepesi","Iğdır","Doğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

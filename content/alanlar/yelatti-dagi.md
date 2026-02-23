@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yelatt%C4%B1%20Da%C4%9F%C4%B1","alt":"Yelattı Dağı","caption":"Yelattı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf/page1-614px-Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf.jpg","alt":"Yelattı Dağı","caption":"Yelattı Dağı","credit":"Journal of a tour in Asia Minor - with comparative remarks on the ancient and modern geography of that country (IA gri 000033125011216732).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelatt%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502810","tip":"genel"}]
 description: "Karaman'da bulunan Yelattı Dağı, 1200 metre yüksekliği ile bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Yelattı Dağı","Karaman","Dağ","Doğa","Turizm","Gezi","Karaman gezilecek yerler","Yelattı Dağı yüksekliği","Karaman dağları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["İbadet","Gezi","Fotoğraf çekimi","Çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Muhammed%20Hariri%20T%C3%BCrbesi","alt":"Muhammed Hariri Türbesi","caption":"Muhammed Hariri Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Muhammed Hariri Türbesi","caption":"Muhammed Hariri Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Muhammed%20Hariri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390981","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi türbe ve çevresi"
 keywords: ["Muhammed Hariri Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarihi türbe","turistik yer","kültürel miras","dinî yapı","gezi","ziyaret"]

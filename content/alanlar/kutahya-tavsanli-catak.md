@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","doğa gözlemi","fotoğrafçılık","çevre gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kutahya-Tavsanli%20Catak","alt":"Kutahya-Tavsanli Catak","caption":"Kutahya-Tavsanli Catak"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Kutahya-Tavsanli Catak","caption":"Kutahya-Tavsanli Catak","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Tavsanli%20Catak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227824","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kutahya-Tavsanli Catak, doğa severler için bir cennet. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kutahya","Tavsanli Catak","İç Anadolu Bölgesi","doğa","milli park","gezi","turizm","çevre","ekoloji"]

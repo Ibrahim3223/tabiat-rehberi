@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Harosman%20Ma%C4%9Faralar%C4%B1","alt":"Harosman Mağaraları","caption":"Harosman Mağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Harosman Mağaraları","caption":"Harosman Mağaraları","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harosman%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123193106","tip":"genel"}]
 description: "Ardahan Hanak'ta yer alan Harosman Mağaraları, 1200 hektarlık bir jeopark alanıdır. Doğal güzellikleri keşfedin."
 keywords: ["Harosman Mağaraları","Ardahan","Hanak","Jeopark","Doğa","Mağara","Turizm","Gezi","Ardahan Turistik Yerler"]

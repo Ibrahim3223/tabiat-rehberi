@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Şelale izleme","Fotoğraf çekme","Kültürel geziler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6pr%C3%BCl%C3%BC%20%C5%9Eelalesi","alt":"Köprülü Şelalesi","caption":"Köprülü Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1.jpg","alt":"Köprülü Şelalesi","caption":"Köprülü Şelalesi","credit":"Kurşunlu Şelalesi - Şelalesi Bölgesi - Manzara Fotoğrafı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6pr%C3%BCl%C3%BC%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97208089","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Köprülü Şelalesi, ziyaretçilerini etkileyen bir yerdir."
 keywords: ["Köprülü Şelalesi","İç Anadolu Bölgesi","Doğa","Şelale","Turizm","Gezi","Yerel","Kültür","Tarih"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarihçi gezi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurtduman%C4%B1%20Tepe","alt":"Kurtdumanı Tepe","caption":"Kurtdumanı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf/page1-960px-From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf.jpg","alt":"Kurtdumanı Tepe","caption":"Kurtdumanı Tepe","credit":"From denial to participation- Turkey's evolving discourse on Kurdish nationalism (IA fromdenialtopart1094537734).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtduman%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387022","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerinin bir araya geldiği bir nokta"
 keywords: ["Ankara","Kurtdumanı Tepe","doğal güzellik","tarihi mekan","gezi","turizm","İç Anadolu Bölgesi","coğrafya","flora","fauna"]

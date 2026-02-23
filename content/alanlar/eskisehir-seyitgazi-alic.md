@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","doğa","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eskisehir-Seyitgazi%20Alic","alt":"Eskisehir-Seyitgazi Alic","caption":"Eskisehir-Seyitgazi Alic"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Eskisehir-Seyitgazi Alic","caption":"Eskisehir-Seyitgazi Alic","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskisehir-Seyitgazi%20Alic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228594","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Eskisehir-Seyitgazi Alic, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["milli park","İç Anadolu Bölgesi","Eskisehir","Seyitgazi","Alic","doğa","gezi","turizm"]

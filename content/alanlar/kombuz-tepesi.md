@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","trekking","yaban hayatı gözlemi","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kombuz%20Tepesi","alt":"Kombuz Tepesi","caption":"Kombuz Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg","alt":"Kombuz Tepesi","caption":"Kombuz Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 06.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kombuz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513425","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Kombuz Tepesi, doğal güzelliği ile dikkat çeken bir destinasyon. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kombuz Tepesi","Kahramanmaraş","doğa","gezi","tepe","Akdeniz Bölgesi","turizm","yaban hayatı","ekosistem"]

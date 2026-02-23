@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezmek","tepenin zirvesine tırmanmak","ormanlarda doğa yürüyüşü yapmak","mevsimsel festivallere katılmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kehiller%20Tepesi","alt":"Kehiller Tepesi","caption":"Kehiller Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf/page1-897px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf.jpg","alt":"Kehiller Tepesi","caption":"Kehiller Tepesi","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor00azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kehiller%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515964","tip":"genel"}]
 description: "Ege Bölgesi'nin gözde mekanlarından Kütahya'da yer alan Kehiller Tepesi, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor"
 keywords: ["Kehiller Tepesi","Kütahya","Ege Bölgesi","yeşil alan","tarihi geçmişi","coğrafya","flora","fauna","ziyaret"]

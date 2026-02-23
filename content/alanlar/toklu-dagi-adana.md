@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Toklu%20Da%C4%9F%C4%B1%20(Adana)","alt":"Toklu Dağı (Adana)","caption":"Toklu Dağı (Adana)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaidrich%29.pdf/page1-720px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaidrich%29.pdf.jpg","alt":"Toklu Dağı","caption":"Toklu Dağı","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen00gaidrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toklu%20Da%C4%9F%C4%B1%20(Adana)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504579","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin. Toklu Dağı, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Toklu Dağı","Adana","Doğa","Dağ","Yeşil Alan","Turizm","Gezi","Seyahat","Güney Türkiye"]

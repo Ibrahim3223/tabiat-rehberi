@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Dağ tırmanışı","Kampçılık","Fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erzurum-Ispir%20Vercenik%20Dagi","alt":"Erzurum-Ispir Vercenik Dagi","caption":"Erzurum-Ispir Vercenik Dagi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Erzurum-Ispir Vercenik Dagi","caption":"Erzurum-Ispir Vercenik Dagi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Ispir%20Vercenik%20Dagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227075","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin en önemli milli parklarından biri olan Erzurum-Ispir Vercenik Dagi, 140 hektarlık alanıyla doğa severleri bekliyor."
 keywords: ["Erzurum","Ispir","Vercenik Dagi","Milli Park","Doğu Anadolu Bölgesi","Doğa","Turizm","Seyahat","Gezi"]

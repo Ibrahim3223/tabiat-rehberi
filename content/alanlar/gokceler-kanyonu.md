@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Doga Yürüyüşü","Fotoğrafçılık","Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6k%C3%A7eler%20Kanyonu","alt":"Gökçeler Kanyonu","caption":"Gökçeler Kanyonu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Turkey_Run_Gorge.JPG","alt":"Gökçeler Kanyonu","caption":"Gökçeler Kanyonu","credit":"Turkey Run Gorge.JPG","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7eler%20Kanyonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30625381","tip":"genel"}]
 description: "Türkiye'nin en güzel kanyonlarından biri olan Gökçeler Kanyonu, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Gökçeler Kanyonu","Türkiye kanyonları","doğa turizmi","kanyon gezi","yeşil alanlar","turistik yerler","gezi noktaları","doğal güzellikler","kanyonlar"]

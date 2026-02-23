@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ko%C3%A7%20Da%C4%9F%C4%B1%20(Kahramanmara%C5%9F)","alt":"Koç Dağı (Kahramanmaraş)","caption":"Koç Dağı (Kahramanmaraş)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg","alt":"Koç Dağı","caption":"Koç Dağı","credit":"Kayaözü Creek Valley, Kahramanmaraş 07.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7%20Da%C4%9F%C4%B1%20(Kahramanmara%C5%9F)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042403","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Koç Dağı, bölgeye özgü flora ve fauna çeşitliliği sunar. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Koç Dağı","Kahramanmaraş","Dağ","Doğa","Flora","Fauna","Yeşil Alan","Turizm","Gezi"]

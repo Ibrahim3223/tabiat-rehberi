@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1%C4%9F%C4%B1nd%C4%B1%20Da%C4%9F%C4%B1","alt":"Sığındı Dağı","caption":"Sığındı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MOKG04.jpg/960px-MOKG04.jpg","alt":"Sığındı Dağı","caption":"Sığındı Dağı","credit":"MOKG04.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1%C4%9F%C4%B1nd%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506627","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Sığındı Dağı'nın büyüleyici manzaralarına şahit olun."
 keywords: ["Sığındı Dağı","İzmir","Dağ","Doğa","Manzara","Gezi","Türkiye","Seyahat","İzmir Turizm"]

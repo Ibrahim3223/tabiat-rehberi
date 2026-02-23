@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Tarihî kalıntıları ziyaret","Manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bugor%20Kechebey-tepe","alt":"Bugor Kechebey-tepe","caption":"Bugor Kechebey-tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Bugor Kechebey-tepe","caption":"Bugor Kechebey-tepe","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bugor%20Kechebey-tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386513","tip":"genel"}]
 description: "Hatay'ın doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Hatay","doğa","tepe","gezi","keşif","yaban hayatı","çevre","iklim","coğrafya"]

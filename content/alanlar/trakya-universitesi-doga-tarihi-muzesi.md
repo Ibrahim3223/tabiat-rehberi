@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze koleksiyonlarını keşfetmek","Yeşil alanı gezmek","Rehberli turlara katılmak","Bölgenin flora ve faunasını tanımak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trakya%20%C3%9Cniversitesi%20Do%C4%9Fa%20Tarihi%20M%C3%BCzesi","alt":"Trakya Üniversitesi Doğa Tarihi Müzesi","caption":"Trakya Üniversitesi Doğa Tarihi Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Research_natural_areas_in_New_Mexico_%28IA_CAT87881126%29.pdf/page1-960px-Research_natural_areas_in_New_Mexico_%28IA_CAT87881126%29.pdf.jpg","alt":"Trakya Üniversitesi Doğa Tarihi Müzesi","caption":"Trakya Üniversitesi Doğa Tarihi Müzesi","credit":"Research natural areas in New Mexico (IA CAT87881126).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trakya%20%C3%9Cniversitesi%20Do%C4%9Fa%20Tarihi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132681860","tip":"genel"}]
 description: "Edirne'nin kalbinde yer alan Trakya Üniversitesi Doğa Tarihi Müzesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Trakya Üniversitesi","Doğa Tarihi Müzesi","Edirne","Marmara Bölgesi","yeşil alan","müze","doğa","tarih"]

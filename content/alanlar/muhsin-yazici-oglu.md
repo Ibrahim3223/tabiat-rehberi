@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Bisiklet Turu","Çevre Gezisi","Doğa Fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=MUHSIN%20YAZICI%20OGLU","alt":"MUHSIN YAZICI OGLU","caption":"MUHSIN YAZICI OGLU"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"MUHSIN YAZICI OGLU","caption":"MUHSIN YAZICI OGLU","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/MUHSIN%20YAZICI%20OGLU","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228648","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşil cenneti, Muhsin Yazıcıoğlu Milli Parkı"
 keywords: ["Milli Park","İç Anadolu Bölgesi","Doğa","Yeşil Alan","Turizm","Doğa Sporları","Çevre","Korunan Alan"]

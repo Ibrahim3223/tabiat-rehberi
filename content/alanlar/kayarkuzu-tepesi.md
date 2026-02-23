@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayarkuzu%20Tepesi","alt":"Kayarkuzu Tepesi","caption":"Kayarkuzu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg","alt":"Kayarkuzu Tepesi","caption":"Kayarkuzu Tepesi","credit":"The Landscape of Çorum Sıklık.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayarkuzu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581980","tip":"genel"}]
 description: "Çorum'un güzide doğa noktalarından biri"
 keywords: ["Kayarkuzu Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

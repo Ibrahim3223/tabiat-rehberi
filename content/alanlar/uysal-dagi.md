@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Uysal%20Da%C4%9F%C4%B1","alt":"Uysal Dağı","caption":"Uysal Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Uysal Dağı","caption":"Uysal Dağı","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uysal%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31503605","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Uysal Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Uysal Dağı","Türkiye Dağları","Doğa Yürüyüşü","Trekking","Dağcılık","Türkiye Turizm","Dağ Turizmi","Uysal Dağı Trekking","Doğal Güzellikler"]

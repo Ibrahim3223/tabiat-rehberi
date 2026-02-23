@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","kamp","rehberli turlar"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Golhisar%20Kara%C3%A7am","alt":"Isparta-Golhisar Karaçam","caption":"Isparta-Golhisar Karaçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nationalpark_K%C4%B1z%C4%B1lda%C4%9F_bei_Yeni%C5%9Farbademli%3B_Blick_nach_Nord.jpg/960px-Nationalpark_K%C4%B1z%C4%B1lda%C4%9F_bei_Yeni%C5%9Farbademli%3B_Blick_nach_Nord.jpg","alt":"Isparta-Golhisar Karaçam","caption":"Isparta-Golhisar Karaçam","credit":"Nationalpark Kızıldağ bei Yenişarbademli; Blick nach Nord.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Golhisar%20Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227507","tip":"genel"}]
 description: "Isparta'nın güzide milli parklarından biri olan Isparta-Golhisar Karaçam, yaklaşık 140 hektarlık bir alanı kapsar ve 200 futbol sahası büyüklüğünde bir yeşil alandır."
 keywords: ["Isparta","Golhisar Karaçam","milli park","doğa","çevre","turizm","gezi","yaban hayatı","ekosistem"]

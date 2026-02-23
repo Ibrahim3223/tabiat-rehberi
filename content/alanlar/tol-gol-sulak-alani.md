@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık","eğitim programları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tol%20Gol%20Sulak%20Alan%C4%B1","alt":"Tol Gol Sulak Alanı","caption":"Tol Gol Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Tol Gol Sulak Alanı","caption":"Tol Gol Sulak Alanı","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tol%20Gol%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228860","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Tol Gol Sulak Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Tol Gol Sulak Alanı","İç Anadolu Bölgesi","sulak alan","doğa","çevre","flora","fauna","gezi","turizm"]

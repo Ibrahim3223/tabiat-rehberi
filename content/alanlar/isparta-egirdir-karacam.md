@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Egirdir%20Karacam","alt":"Isparta-Egirdir Karacam","caption":"Isparta-Egirdir Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Isparta-Egirdir Karacam","caption":"Isparta-Egirdir Karacam","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Egirdir%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227506","tip":"genel"}]
 description: "Isparta'nın doğal güzelliklerini keşfedin. Egirdir Karacam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Isparta","Egirdir","Karacam","doğa","yeşil","alan","futbol","sahası"]

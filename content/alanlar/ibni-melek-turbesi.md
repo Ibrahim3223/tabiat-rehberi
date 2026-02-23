@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0bni%20Melek%20T%C3%BCrbesi","alt":"İbni Melek Türbesi","caption":"İbni Melek Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/S%C3%BCzer_Sun_Dreams_Beach_22_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_22_-_panoramio.jpg","alt":"İbni Melek Türbesi","caption":"İbni Melek Türbesi","credit":"Süzer Sun Dreams Beach 22 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0bni%20Melek%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390551","tip":"genel"}]
 description: "Tire'nin İbni Melek Türbesi, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri"
 keywords: ["Tire","İzmir","Ege Bölgesi","İbni Melek Türbesi","tarih","doğa","gezi","turizm"]

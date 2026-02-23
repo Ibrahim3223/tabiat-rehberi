@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","tarihçe öğrenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C4%9Fz%C4%B1karahan%20Hamam%C4%B1","alt":"Ağzıkarahan Hamamı","caption":"Ağzıkarahan Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Ağzıkarahan Hamamı","caption":"Ağzıkarahan Hamamı","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Fz%C4%B1karahan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738755","tip":"genel"}]
 description: "Aksaray'ın doğal güzelliklerini keşfedin, Ağzıkarahan Hamamı'nın tarihi ve coğrafyasını öğrenin."
 keywords: ["Aksaray","Ağzıkarahan Hamamı","doğal güzellik","tarih","coğrafya","gezi","turizm","İç Anadolu Bölgesi","plaj"]

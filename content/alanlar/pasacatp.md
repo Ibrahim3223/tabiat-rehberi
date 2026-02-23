@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","çiçek izleme","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=PA%C5%9EACA_TP","alt":"PAŞACA_TP","caption":"PAŞACA_TP"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"PAŞACA_TP","caption":"PAŞACA_TP","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/PA%C5%9EACA_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229006","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, PAŞACA_TP milli parkı. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["milli park","İç Anadolu Bölgesi","doğal alan","yeşil alan","flora","fauna","turizm","gezi"]

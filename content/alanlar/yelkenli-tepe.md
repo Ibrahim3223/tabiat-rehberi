@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğrafçılık","Tarih ve kültür turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yelkenli%20Tepe","alt":"Yelkenli Tepe","caption":"Yelkenli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Yelkenli Tepe","caption":"Yelkenli Tepe","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelkenli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386910","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerinden biri olan Yelkenli Tepe, ziyaretçilerini büyülüyor"
 keywords: ["Yelkenli Tepe","Erzurum","Doğu Anadolu Bölgesi","Doğal güzellik","Turizm","Gezi","Tarihçe","Coğrafya"]

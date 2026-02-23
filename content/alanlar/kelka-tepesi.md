@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","trekking","piknik","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kelka%20Tepesi","alt":"Kelka Tepesi","caption":"Kelka Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Kelka Tepesi","caption":"Kelka Tepesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelka%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551728","tip":"genel"}]
 description: "Mardin'in doğal güzelliklerinden biri olan Kelka Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kelka Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","yürüyüş"]

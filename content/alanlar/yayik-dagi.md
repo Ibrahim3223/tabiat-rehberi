@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yay%C4%B1k%20Da%C4%9F%C4%B1","alt":"Yayık Dağı","caption":"Yayık Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_historicalsketch00step%29.pdf/page1-654px-Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_historicalsketch00step%29.pdf.jpg","alt":"Yayık Dağı","caption":"Yayık Dağı","credit":"Historical sketch of Armenia and the Armenians in ancient and modern times (IA historicalsketch00step).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yay%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574874","tip":"genel"}]
 description: "Ağrı'da bulunan Yayık Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Yayık Dağı","Ağrı","Dağ","Trekking","Doğa","Turizm","Gezi","Ağrı Dağları","Yayık Dağı trekking"]

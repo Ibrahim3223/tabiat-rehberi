@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rlang%C4%B1%C3%A7%20Kayal%C4%B1%C4%9F%C4%B1","alt":"Kırlangıç Kayalığı","caption":"Kırlangıç Kayalığı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Refugees_on_a_boat_crossing_the_Mediterranean_sea%2C_heading_from_Turkish_coast_to_the_northeastern_Greek_island_of_Lesbos%2C_29_January_2016.jpg/960px-Refugees_on_a_boat_crossing_the_Mediterranean_sea%2C_heading_from_Turkish_coast_to_the_northeastern_Greek_island_of_Lesbos%2C_29_January_2016.jpg","alt":"Kırlangıç Kayalığı","caption":"Kırlangıç Kayalığı","credit":"Refugees on a boat crossing the Mediterranean sea, heading from Turkish coast to the northeastern Greek island of Lesbos, 29 January 2016.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rlang%C4%B1%C3%A7%20Kayal%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35709266","tip":"genel"}]
 description: "Balıkesir'in doğal güzelliklerinden biri olan Kırlangıç Kayalığı, 1200 hektarlık yeşil cenneti ile dikkat çekiyor."
 keywords: ["Kırlangıç Kayalığı","Balıkesir","ada","doğal alan","yeşil cennet","turizm","gezi","seyahat","deniz"]

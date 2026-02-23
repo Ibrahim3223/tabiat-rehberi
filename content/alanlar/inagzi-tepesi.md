@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","tarihî yapıları ziyaret","bitki türlerini keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0na%C4%9Fz%C4%B1%20Tepesi","alt":"İnağzı Tepesi","caption":"İnağzı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_beauties_of_nature_-_and_how_far_they_transcend_those_of_art_in_landscape_gardening_-_a_poem_%28IA_beautiesofnature00sinc%29.pdf/page1-791px-The_beauties_of_nature_-_and_how_far_they_transcend_those_of_art_in_landscape_gardening_-_a_poem_%28IA_beautiesofnature00sinc%29.pdf.jpg","alt":"İnağzı Tepesi","caption":"İnağzı Tepesi","credit":"The beauties of nature - and how far they transcend those of art in landscape gardening - a poem (IA beautiesofnature00sinc).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0na%C4%9Fz%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390805","tip":"genel"}]
 description: "İnağzı Tepesi, Yozgat'ın İç Anadolu Bölgesi'nde yer alan bir tepe. 140 hektarlık alanı, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["İnağzı Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","tepe","gezi","tarihçe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Trekking","Kamp","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0yidost%20Tepesi","alt":"İyidost Tepesi","caption":"İyidost Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Capadocia_1998_05.jpg/960px-Capadocia_1998_05.jpg","alt":"İyidost Tepesi","caption":"İyidost Tepesi","credit":"Capadocia 1998 05.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0yidost%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390578","tip":"genel"}]
 description: "Nevşehir'in doğal güzelliklerini keşfedin. İyidost Tepesi, İç Anadolu Bölgesi'nde yer alan bir tepe"
 keywords: ["İyidost Tepesi","Nevşehir","İç Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

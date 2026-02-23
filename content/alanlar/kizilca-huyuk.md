@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","doğa fotoğrafçılığı","tarih gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lca%20H%C3%BCy%C3%BCk","alt":"Kızılca Hüyük","caption":"Kızılca Hüyük"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Kızılca Hüyük","caption":"Kızılca Hüyük","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lca%20H%C3%BCy%C3%BCk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211262","tip":"genel"}]
 description: "Hatay ilinin zengin tarihi ve doğal güzelliklerinin birleştiği bir nokta"
 keywords: ["Kızılca Hüyük","Hatay","Akdeniz Bölgesi","tarih","doğa","gezi","turizm","köy","tepe","arkeoloji"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekânları gezmek","doğa yürüyüşü yapmak","flora ve fauna türleri hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Muhiyettin%20T%C3%BCrbesi","alt":"Şeyh Muhiyettin Türbesi","caption":"Şeyh Muhiyettin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/New_Zealand_at_the_front%3B_%28IA_newzealandatfron00lond%29.pdf/page1-960px-New_Zealand_at_the_front%3B_%28IA_newzealandatfron00lond%29.pdf.jpg","alt":"Şeyh Muhiyettin Türbesi","caption":"Şeyh Muhiyettin Türbesi","credit":"New Zealand at the front; (IA newzealandatfron00lond).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhiyettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391353","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli kalmış güzelliği, Hasankeyf'te bulunan Şeyh Muhiyettin Türbesi"
 keywords: ["Şeyh Muhiyettin Türbesi","Hasankeyf","Batman","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","doğa","ziyaret"]

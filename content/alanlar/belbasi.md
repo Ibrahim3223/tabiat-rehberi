@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Belba%C5%9F%C4%B1","alt":"Belbaşı","caption":"Belbaşı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Belbaşı","caption":"Belbaşı","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Belba%C5%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q2065330","tip":"genel"}]
 description: "Antalya'nın Konyaaltı ilçesinde yer alan Belbaşı Jeopark, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Belbaşı","Jeopark","Antalya","Konyaaltı","Doğa","Yeşil Alan","Turizm","Gezi","Jeoloji"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Doğa"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuzluk%20Tepesi","alt":"Kuzluk Tepesi","caption":"Kuzluk Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Kuzluk Tepesi","caption":"Kuzluk Tepesi","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzluk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390986","tip":"genel"}]
 description: "Kayseri'nin İç Anadolu Bölgesi'nde yer alan Kuzluk Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kuzluk Tepesi","Kayseri","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","coğrafya"]

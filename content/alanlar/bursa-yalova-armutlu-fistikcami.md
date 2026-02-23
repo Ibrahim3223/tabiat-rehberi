@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Yalova-Armutlu-F%C4%B1st%C4%B1kcam%C4%B1","alt":"Bursa-Yalova-Armutlu-Fıstıkcamı","caption":"Bursa-Yalova-Armutlu-Fıstıkcamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Uluda%C4%9F_National_Park_%28777%29.jpg/960px-Uluda%C4%9F_National_Park_%28777%29.jpg","alt":"Bursa-Yalova-Armutlu-Fıstıkcamı","caption":"Bursa-Yalova-Armutlu-Fıstıkcamı","credit":"Uludağ National Park (777).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Yalova-Armutlu-F%C4%B1st%C4%B1kcam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228271","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan Bursa-Yalova-Armutlu-Fıstıkcamı, ziyaretçilerini doğayla baş başa bırakıyor."
 keywords: ["Bursa-Yalova-Armutlu-Fıstıkcamı","Marmara Bölgesi","doğal güzellik","milli park","turizm","doğa","gezi","yaban hayatı","ekosistem"]

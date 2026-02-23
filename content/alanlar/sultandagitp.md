@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","tarihi eserleri ziyaret etmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=SULTANDA%C4%9EI_TP","alt":"SULTANDAĞI_TP","caption":"SULTANDAĞI_TP"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"SULTANDAĞI_TP","caption":"SULTANDAĞI_TP","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/SULTANDA%C4%9EI_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229001","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan SULTANDAĞI_TP, zengin flora ve fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["SULTANDAĞI_TP","İç Anadolu Bölgesi","doğal alan","flora","fauna","milli park","turizm","gezi","doğa"]

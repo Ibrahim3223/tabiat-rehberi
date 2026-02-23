@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zonguldak-Bartin%20Karacam%202","alt":"Zonguldak-Bartin Karacam 2","caption":"Zonguldak-Bartin Karacam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Zonguldak-Bartin Karacam 2","caption":"Zonguldak-Bartin Karacam 2","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Bartin%20Karacam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227955","tip":"genel"}]
 description: "Zonguldak'ta yer alan milli park, Karadeniz Bölgesi'nin güzide noktalarından biri"
 keywords: ["Zonguldak","Bartin","Karacam","Karadeniz Bölgesi","Milli Park","Doğa","Turizm"]

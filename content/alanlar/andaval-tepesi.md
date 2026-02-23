@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["manzara izleme","yürüyüş","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Andaval%20Tepesi","alt":"Andaval Tepesi","caption":"Andaval Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yelatan_Alada%C4%9Flar_Lake.jpg/960px-Yelatan_Alada%C4%9Flar_Lake.jpg","alt":"Andaval Tepesi","caption":"Andaval Tepesi","credit":"Yelatan Aladağlar Lake.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Andaval%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390542","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri olan Andaval Tepesi, Niğde'nin zengin coğrafyasında yer alır."
 keywords: ["Andaval Tepesi","Niğde","İç Anadolu Bölgesi","doğal güzellik","coğrafya","gezi","turizm","tepe","manzara"]

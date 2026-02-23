@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaz%20Da%C4%9Flar%C4%B1%20Sit%20Alan%C4%B1","alt":"Kaz Dağları Sit Alanı","caption":"Kaz Dağları Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kaz Dağları Sit Alanı","caption":"Kaz Dağları Sit Alanı","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaz%20Da%C4%9Flar%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226354","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Kaz Dağları","Sit Alanı","İç Anadolu Bölgesi","doğal güzellik","flora","fauna","coğrafya"]

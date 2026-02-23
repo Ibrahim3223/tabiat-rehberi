@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kovan%20Adas%C4%B1","alt":"Kovan Adası","caption":"Kovan Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%D0%A1%D0%B0%D0%B3%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_%D0%B2%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_IMG20230908150209.jpg/960px-%D0%A1%D0%B0%D0%B3%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_%D0%B2%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_IMG20230908150209.jpg","alt":"Kovan Adası","caption":"Kovan Adası","credit":"Саговник відгорнений IMG20230908150209.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kovan%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49648930","tip":"genel"}]
 description: "Antalya'nın güzide adalarından biri olan Kovan Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kovan Adası","Antalya","ada","doğa","yeşil cennet","turizm","gezi","seyahat","Akdeniz"]

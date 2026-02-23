@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kocabulduk%20Tepe","alt":"Kocabulduk Tepe","caption":"Kocabulduk Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Kocabulduk Tepe","caption":"Kocabulduk Tepe","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocabulduk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513891","tip":"genel"}]
 description: "Isparta'da bulunan Kocabulduk Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biridir."
 keywords: ["Kocabulduk Tepe","Isparta","Dağ","Türkiye","Doğa","Seyahat","Gezi","Yerler","Coğrafya"]

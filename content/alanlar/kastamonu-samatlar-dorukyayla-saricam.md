@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Samatlar-Dorukyayla%20Saricam","alt":"Kastamonu-Samatlar-Dorukyayla Saricam","caption":"Kastamonu-Samatlar-Dorukyayla Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kastamonu-Samatlar-Dorukyayla Saricam","caption":"Kastamonu-Samatlar-Dorukyayla Saricam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Samatlar-Dorukyayla%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227699","tip":"genel"}]
 description: "Kastamonu ili sınırları içerisinde yer alan milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor"
 keywords: ["Kastamonu","milli park","doğa","yeşil alan","turizm","gezi","Kastamonu-Samatlar-Dorukyayla Saricam","Karadeniz Bölgesi","çevre"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Navur%20Tepesi","alt":"Navur Tepesi","caption":"Navur Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Navur Tepesi","caption":"Navur Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Navur%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387667","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Navur Tepesi, 140 hektarlık alanı ve zengin fauna ile dikkat çekiyor."
 keywords: ["Navur Tepesi","İç Anadolu Bölgesi","doğal güzellik","fauna","tepe","gezi"]

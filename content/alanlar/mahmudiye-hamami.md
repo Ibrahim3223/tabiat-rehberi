@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günde 2-3 saat"
 aktiviteler: ["doğa yürüyüşü","serinlemek","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mahmudiye%20Hamam%C4%B1","alt":"Mahmudiye Hamamı","caption":"Mahmudiye Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Mahmudiye Hamamı","caption":"Mahmudiye Hamamı","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahmudiye%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738661","tip":"genel"}]
 description: "Eskişehir'in Mahmudiye ilçesinde bulunan doğal güzellik"
 keywords: ["Mahmudiye Hamamı","Eskişehir","doğal güzellik","plaj","İç Anadolu Bölgesi","gezi","turizm","yerel kültür"]

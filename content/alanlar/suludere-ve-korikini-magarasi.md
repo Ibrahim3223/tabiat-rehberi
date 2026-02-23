@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Suludere%20ve%20K%C3%B6rikini%20Ma%C4%9Faras%C4%B1","alt":"Suludere ve Körikini Mağarası","caption":"Suludere ve Körikini Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Suludere ve Körikini Mağarası","caption":"Suludere ve Körikini Mağarası","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Suludere%20ve%20K%C3%B6rikini%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319785","tip":"genel"}]
 description: "Konya'da yer alan Suludere ve Körikini Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Suludere ve Körikini Mağarası","Konya Jeopark","Doğal Alanlar","Mağara Gezileri","Konya Turizm","Jeoparklar","Doğa Sporları","Konya Gezilecek Yerler","Mağara Keşifleri"]

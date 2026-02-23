@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğraf çekme","Doğa gözlemi","Çadır kurma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kars-Kuyucuk%20Golu","alt":"Kars-Kuyucuk Golu","caption":"Kars-Kuyucuk Golu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ten_years_in_Washington_Life_and_scenes_in_the_National_capital.djvu/page1-800px-Ten_years_in_Washington_Life_and_scenes_in_the_National_capital.djvu.jpg","alt":"Kars-Kuyucuk Golu","caption":"Kars-Kuyucuk Golu","credit":"Ten years in Washington Life and scenes in the National capital.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kars-Kuyucuk%20Golu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228383","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzellikleriyle dolu bir alanı"
 keywords: ["Kars","Kuyucuk Golu","Doğu Anadolu Bölgesi","Doğal Alan","Milli Park","Göl","Turizm","Doğa"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Bitki gözlemi","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ko%C3%A7ak%20Tepesi","alt":"Koçak Tepesi","caption":"Koçak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Koçak Tepesi","caption":"Koçak Tepesi","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7ak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32200857","tip":"genel"}]
 description: "Aydın'ın doğal güzelliklerini keşfedin. Koçak Tepesi, Ege Bölgesi'nin gizli cenneti."
 keywords: ["Koçak Tepesi","Aydın","Ege Bölgesi","doğa","gezi","tepe","manzara","çevre","ekoloji"]

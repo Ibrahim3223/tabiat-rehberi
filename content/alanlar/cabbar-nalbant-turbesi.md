@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları ziyaret","doğa yürüyüşleri","piknik","fotograf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cabbar%20Nalbant%20T%C3%BCrbesi","alt":"Cabbar Nalbant Türbesi","caption":"Cabbar Nalbant Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Cabbar Nalbant Türbesi","caption":"Cabbar Nalbant Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cabbar%20Nalbant%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391593","tip":"genel"}]
 description: "Düzce'nin tarihi ve doğal güzellikleri arasında yer alan Cabbar Nalbant Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Cabbar Nalbant Türbesi","Düzce","Karadeniz Bölgesi","tarihi mekanlar","doğal güzellikler","tarihi türbeler","Düzce gezilecek yerler","Karadeniz turizmi","tarih","doğa"]

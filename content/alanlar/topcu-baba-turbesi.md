@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi turbe ve çevresini gezmek","Plajın keyfini çıkarmak","Doğa yürüyüşü yapmak","Deniz canlıları ile karşılaşmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Top%C3%A7u%20Baba%20T%C3%BCrbesi","alt":"Topçu Baba Türbesi","caption":"Topçu Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Topçu Baba Türbesi","caption":"Topçu Baba Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Top%C3%A7u%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391814","tip":"genel"}]
 description: "Kırklareli'nin Kofçaz ilçesinde, Marmara Bölgesi'nde yer alan tarihi bir turbe ve plaj"
 keywords: ["Topçu Baba Türbesi","Kırklareli","Kofçaz","Marmara Bölgesi","tarihi turbe","plaj","doğa","tarih","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Serpula%C5%9F%20Da%C4%9F%C4%B1","alt":"Serpulaş Dağı","caption":"Serpulaş Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Literature_on_wildlife_research_in_the_Madrean_Archipelago%2C_1800s-1994_%28IA_CAT10832892%29.pdf/page1-960px-Literature_on_wildlife_research_in_the_Madrean_Archipelago%2C_1800s-1994_%28IA_CAT10832892%29.pdf.jpg","alt":"Serpulaş Dağı","caption":"Serpulaş Dağı","credit":"Literature on wildlife research in the Madrean Archipelago, 1800s-1994 (IA CAT10832892).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Serpula%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385469","tip":"genel"}]
 description: "Muş'un doğal güzelliklerini keşfedin, Serpulaş Dağı'nın büyüleyici manzaralarına şahit olun."
 keywords: ["Serpulaş Dağı","Muş","Dağ","Doğa","Turizm","Gezi","Manzara","Doğal Güzellik","Trekking"]

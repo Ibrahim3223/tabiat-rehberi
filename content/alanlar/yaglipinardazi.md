@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ya%C4%9Fl%C4%B1p%C4%B1nardaz%C4%B1","alt":"Yağlıpınardazı","caption":"Yağlıpınardazı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Yağlıpınardazı","caption":"Yağlıpınardazı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ya%C4%9Fl%C4%B1p%C4%B1nardaz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536339","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin, Yağlıpınardazı dağının büyüleyici manzaraları"
 keywords: ["Yağlıpınardazı","Gaziantep","Dağ","Doğa","Turizm","Gezi","Manzara","Gaziantep gezilecek yerler","Yağlıpınardazı dağı"]

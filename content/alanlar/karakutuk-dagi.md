@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karak%C3%BCt%C3%BCk%20Da%C4%9F%C4%B1","alt":"Karakütük Dağı","caption":"Karakütük Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Story_Of_The_Nation%2CChina_%28IA_TheStoryOfTheNationChina%29.pdf/page1-577px-The_Story_Of_The_Nation%2CChina_%28IA_TheStoryOfTheNationChina%29.pdf.jpg","alt":"Karakütük Dağı","caption":"Karakütük Dağı","credit":"The Story Of The Nation,China (IA TheStoryOfTheNationChina).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karak%C3%BCt%C3%BCk%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878017","tip":"genel"}]
 description: "Ordu'da yer alan Karakütük Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Karakütük Dağı","Ordu","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

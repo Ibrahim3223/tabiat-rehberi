@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","balık tutma","yöresel yemekleri tatma","orman gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erzurum-Erzincan-Refahiye%20Saricam","alt":"Erzurum-Erzincan-Refahiye Saricam","caption":"Erzurum-Erzincan-Refahiye Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Erzurum-Erzincan-Refahiye Saricam","caption":"Erzurum-Erzincan-Refahiye Saricam","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Erzincan-Refahiye%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227559","tip":"genel"}]
 description: "Erzurum'un doğusunda yer alan milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["milli park","Erzurum","Erzincan","Refahiye","Saricam","doğa","flora","fauna","gezi","turizm"]

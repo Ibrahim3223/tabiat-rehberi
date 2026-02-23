@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Tarihî Eserleri İnceleme","Köy Gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ali%C3%B6flez%20Da%C4%9F%C4%B1","alt":"Aliöflez Dağı","caption":"Aliöflez Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Thermal_Hotel_-_panoramio.jpg/960px-The_Thermal_Hotel_-_panoramio.jpg","alt":"Aliöflez Dağı","caption":"Aliöflez Dağı","credit":"The Thermal Hotel - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ali%C3%B6flez%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32127193","tip":"genel"}]
 description: "Kırşehir'de bulunan Aliöflez Dağı, tarihi geçmişi ve zengin doğasıyla dikkat çekiyor. İç Anadolu Bölgesi'nin güzide yerlerinden biri."
 keywords: ["Aliöflez Dağı","Kırşehir","İç Anadolu Bölgesi","Doğa","Tarih","Coğrafya","Flora","Fauna","Ziyaret"]

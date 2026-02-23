@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aird%20Shoals","alt":"Aird Shoals","caption":"Aird Shoals"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu/page1-800px-Islam%2C_Turkey%2C_and_Armenia%2C_and_How_They_Happened.djvu.jpg","alt":"Aird Shoals","caption":"Aird Shoals","credit":"Islam, Turkey, and Armenia, and How They Happened.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aird%20Shoals","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34789960","tip":"genel"}]
 description: "Türkiye'de bulunan Aird Shoals, doğanın güzelliğini keşfedin. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Aird Shoals","Türkiye Adaları","Doğa Alanları","Yeşil Cennet","İstanbul","Türkiye","Ada Gezileri","Doğa Turizmi","Yeşil Alanlar"]

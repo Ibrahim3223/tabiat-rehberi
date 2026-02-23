@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Dağda yürüyüş","Doğa keşfi","Manzara seyretme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ba%C5%9Fk%C3%B6y%20Hamam%C4%B1","alt":"Başköy Hamamı","caption":"Başköy Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Başköy Hamamı","caption":"Başköy Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C5%9Fk%C3%B6y%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738797","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, Bilecik ilinin doğal güzellikleri arasında yer alan Başköy Hamamı"
 keywords: ["Bilecik","Marmara Bölgesi","doğal güzellik","plaj","turizm","gezi","tatil","doğa","çevre"]

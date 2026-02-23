@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","çevre gezisi","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Celig%C3%B6l%C3%BC%20Tepesi","alt":"Celigölü Tepesi","caption":"Celigölü Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Celigölü Tepesi","caption":"Celigölü Tepesi","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Celig%C3%B6l%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34837577","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Celigölü Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Celigölü Tepesi","Doğu Anadolu Bölgesi","Bingöl","tepe","doğa","gezi","turizm","çevre","iklim"]

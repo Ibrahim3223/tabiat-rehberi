@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayseri-Develi-Toros%20Goknari","alt":"Kayseri-Develi-Toros Goknari","caption":"Kayseri-Develi-Toros Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Kayseri-Develi-Toros Goknari","caption":"Kayseri-Develi-Toros Goknari","credit":"TRrakD1 sazlik yuruyus.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayseri-Develi-Toros%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228583","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Toros Dağları'nda yer alan milli park"
 keywords: ["Kayseri","Develi","Toros Goknari","milli park","İç Anadolu Bölgesi","doğal güzellik","turizm"]

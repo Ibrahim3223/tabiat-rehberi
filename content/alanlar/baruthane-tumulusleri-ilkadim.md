@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Baruthane%20T%C3%BCm%C3%BCl%C3%BCsleri%20%C4%B0lkad%C4%B1m","alt":"Baruthane Tümülüsleri İlkadım","caption":"Baruthane Tümülüsleri İlkadım"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Baruthane Tümülüsleri İlkadım","caption":"Baruthane Tümülüsleri İlkadım","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Baruthane%20T%C3%BCm%C3%BCl%C3%BCsleri%20%C4%B0lkad%C4%B1m","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728399","tip":"genel"}]
 description: "Samsun'un İlkadım ilçesinde yer alan Baruthane Tümülüsleri, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Baruthane Tümülüsleri","İlkadım","Samsun","tarihi yerler","doğa","turizm"]

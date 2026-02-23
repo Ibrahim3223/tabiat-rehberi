@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","fotoğraf çekimi","tarih discoveryi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yuvarlakta%C5%9F%20Tepesi","alt":"Yuvarlaktaş Tepesi","caption":"Yuvarlaktaş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Forest_vegetation_of_the_Black_Hills_National_Forest_of_South_Dakota_and_Wyoming_-_a_habitat_type_classification_%28IA_CAT92273487%29.pdf/page1-960px-Forest_vegetation_of_the_Black_Hills_National_Forest_of_South_Dakota_and_Wyoming_-_a_habitat_type_classification_%28IA_CAT92273487%29.pdf.jpg","alt":"Yuvarlaktaş Tepesi","caption":"Yuvarlaktaş Tepesi","credit":"Forest vegetation of the Black Hills National Forest of South Dakota and Wyoming - a habitat type classification (IA CAT92273487).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yuvarlakta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387454","tip":"genel"}]
 description: "Van'ın güzide noktalarından biri olan Yuvarlaktaş Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Yuvarlaktaş Tepesi","Van","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

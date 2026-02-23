@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ardak%20Tepe","alt":"Çardak Tepe","caption":"Çardak Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Çardak Tepe","caption":"Çardak Tepe","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ardak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823985","tip":"genel"}]
 description: "Kayseri'nin en önemli dağlarından biri olan Çardak Tepe, 1400 metre yüksekliğiyle dikkat çekiyor."
 keywords: ["Çardak Tepe","Kayseri","Dağ","Turizm","Doğa","Gezi","Trekking","Kayseri Turistik Yerler","Dağcılık"]

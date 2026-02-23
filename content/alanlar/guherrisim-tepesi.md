@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğraf çekimi","Tarih gezisi","Kültür turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCherri%C5%9Fim%20Tepesi","alt":"Güherrişim Tepesi","caption":"Güherrişim Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Güherrişim Tepesi","caption":"Güherrişim Tepesi","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCherri%C5%9Fim%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872867","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerini keşfedin. Güherrişim Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Güherrişim Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür"]

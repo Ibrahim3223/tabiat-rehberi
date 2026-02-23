@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi yapıları gezmek","kültürel zenginlikleri keşfetmek","coğrafi özellikleri incelemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Naib%20K%C3%BCmbeti%2C%20Divri%C4%9Fi","alt":"Naib Kümbeti, Divriği","caption":"Naib Kümbeti, Divriği"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/South_Sea_letters_%28IA_southsealetters00wool%29.pdf/page1-960px-South_Sea_letters_%28IA_southsealetters00wool%29.pdf.jpg","alt":"Naib Kümbeti, Divriği","caption":"Naib Kümbeti, Divriği","credit":"South Sea letters (IA southsealetters00wool).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Naib%20K%C3%BCmbeti%2C%20Divri%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582393","tip":"genel"}]
 description: "Divriği'de tarihi bir yapı olan Naib Kümbeti, Sivas'ın tarihi zenginliklerini keşfetmek için önemli bir destinasyon."
 keywords: ["Naib Kümbeti","Divriği","Sivas","tarihi yapı","kültür","gezi"]

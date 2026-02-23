@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günün büyük bir kısmı"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCle%C5%9F%20Da%C4%9F%C4%B1","alt":"Güleş Dağı","caption":"Güleş Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen01gaid%29.pdf/page1-887px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen01gaid%29.pdf.jpg","alt":"Güleş Dağı","caption":"Güleş Dağı","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen01gaid).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCle%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872977","tip":"genel"}]
 description: "Adana'da bulunan Güleş Dağı, bölgenin önemli coğrafi oluşumlarından biridir. Doğal güzelliği ve trekking rotalarıyla dikkat çeker."
 keywords: ["Güleş Dağı","Adana","Dağ","Doğa","Trekking","Coğrafi Oluşum","Turizm","Gezi","Adana Turistik Yerler"]

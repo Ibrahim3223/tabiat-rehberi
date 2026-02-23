@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ifteada","alt":"Çifteada","caption":"Çifteada"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Greek-Turkish_dispute_in_the_Aegean_Sea_its_ramifcations_for_NATO_and_the_prospects_for_resolution_%28IA_thegreekturkishd109452684%29.pdf/page1-960px-The_Greek-Turkish_dispute_in_the_Aegean_Sea_its_ramifcations_for_NATO_and_the_prospects_for_resolution_%28IA_thegreekturkishd109452684%29.pdf.jpg","alt":"Çifteada","caption":"Çifteada","credit":"The Greek-Turkish dispute in the Aegean Sea its ramifcations for NATO and the prospects for resolution (IA thegreekturkishd109452684).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ifteada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34789917","tip":"genel"}]
 description: "İzmir'in güzel ada destinasyonlarından biri olan Çifteada, doğa severler için keyifli bir kaçış noktası"
 keywords: ["Çifteada","İzmir Adaları","Ada Turu","Doğa Gezileri","İzmir Gezi","Türkiye Adaları","Deniz Turu","İzmir Turizm","Ege Adaları"]

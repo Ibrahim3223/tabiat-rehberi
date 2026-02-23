@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["Yürüyüş","Piknik","Çocuk oyun parkları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=TURHAL%20%C5%9EEH%C4%B0R%20ORMANI","alt":"TURHAL ŞEHİR ORMANI","caption":"TURHAL ŞEHİR ORMANI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"TURHAL ŞEHİR ORMANI","caption":"TURHAL ŞEHİR ORMANI","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/TURHAL%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228670","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşil cenneti, 140 hektarlık Turhal Şehir Ormanı, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Turhal Şehir Ormanı","İç Anadolu Bölgesi","şehir ormanı","yeşil alan","doğa","gezi","turizm"]

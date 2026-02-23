@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Tirebolu-Gorele-Kizilagac","alt":"Giresun-Tirebolu-Gorele-Kizilagac","caption":"Giresun-Tirebolu-Gorele-Kizilagac"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sis_da%C4%9F%C4%B1_%284%29.jpg/960px-Sis_da%C4%9F%C4%B1_%284%29.jpg","alt":"Giresun-Tirebolu-Gorele-Kizilagac","caption":"Giresun-Tirebolu-Gorele-Kizilagac","credit":"Sis dağı (4).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Tirebolu-Gorele-Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228505","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin. Giresun-Tirebolu-Gorele-Kizilagac milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Giresun","Tirebolu","Gorele","Kizilagac","milli park","Karadeniz Bölgesi","doğal güzellik","yeşil alan","futbol sahası"]

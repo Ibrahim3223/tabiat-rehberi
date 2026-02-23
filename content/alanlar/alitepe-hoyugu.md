@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["höyük gezi","tarihî kalıntı inceleme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alitepe%20H%C3%B6y%C3%BC%C4%9F%C3%BC","alt":"Alitepe Höyüğü","caption":"Alitepe Höyüğü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Alitepe Höyüğü","caption":"Alitepe Höyüğü","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alitepe%20H%C3%B6y%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32127169","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi hazinelerinden biri"
 keywords: ["Alitepe Höyüğü","Malatya","Doğu Anadolu Bölgesi","tarih","höyük","arkeoloji","kültür","gezi","seyahat"]

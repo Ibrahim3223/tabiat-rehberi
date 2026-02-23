@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara seyretme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Girgevri%20Tepesi","alt":"Girgevri Tepesi","caption":"Girgevri Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Terry_-_a_tale_of_the_hill_people_%28IA_cu31924023989076%29.pdf/page1-668px-Terry_-_a_tale_of_the_hill_people_%28IA_cu31924023989076%29.pdf.jpg","alt":"Girgevri Tepesi","caption":"Girgevri Tepesi","credit":"Terry - a tale of the hill people (IA cu31924023989076).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Girgevri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387463","tip":"genel"}]
 description: "Van'ın gizli cenneti, Girgevri Tepesi'ni keşfedin! Doğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Girgevri Tepesi","Van","Doğu Anadolu Bölgesi","tepe","doğa","gezi","keşif"]

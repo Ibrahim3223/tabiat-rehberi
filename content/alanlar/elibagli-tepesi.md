@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eliba%C4%9Fl%C4%B1%20Tepesi","alt":"Elibağlı Tepesi","caption":"Elibağlı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf/page1-731px-Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf.jpg","alt":"Elibağlı Tepesi","caption":"Elibağlı Tepesi","credit":"Journal of a Tour in Asia Minor, with Comparative Remarks on the Ancient and Modern Geography of that Country (IA dli.granth.36210).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eliba%C4%9Fl%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568317","tip":"genel"}]
 description: "Samsun'un doğal güzellikleri arasında yer alan Elibağlı Tepesi, 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Samsun","Elibağlı Tepesi","doğal güzellik","tepe","Karadeniz Bölgesi","gezi","turizm","doğa","coğrafya"]

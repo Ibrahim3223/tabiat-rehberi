@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=E%C4%9Frikabaa%C4%9Fa%C3%A7%20Da%C4%9F%C4%B1","alt":"Eğrikabaağaç Dağı","caption":"Eğrikabaağaç Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OJ_C_280_of_2023_-_EN_English.pdf/page1-960px-OJ_C_280_of_2023_-_EN_English.pdf.jpg","alt":"Eğrikabaağaç Dağı","caption":"Eğrikabaağaç Dağı","credit":"OJ C 280 of 2023 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Frikabaa%C4%9Fa%C3%A7%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34867985","tip":"genel"}]
 description: "Çanakkale'nin önemli dağlarından biri olan Eğrikabaağaç Dağı, bölgenin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Eğrikabaağaç Dağı","Çanakkale","Dağ","Doğa","Turizm","Gezi","Çanakkale Dağları","Türkiye Coğrafyası","Doğal Alanlar"]

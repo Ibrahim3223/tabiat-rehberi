@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zonguldak%20Maden%20M%C3%BCzesi","alt":"Zonguldak Maden Müzesi","caption":"Zonguldak Maden Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Zonguldak Maden Müzesi","caption":"Zonguldak Maden Müzesi","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak%20Maden%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118958363","tip":"genel"}]
 description: "Karadeniz Bölgesi'ndeki Zonguldak ilinde yer alan Zonguldak Maden Müzesi, madencilik tarihini ve bölgenin doğal zenginliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Zonguldak","Maden Müzesi","Karadeniz Bölgesi","madencilik","tarih","doğa","müze","gezi","turizm"]

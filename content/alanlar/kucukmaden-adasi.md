@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCkmaden%20Adas%C4%B1","alt":"Küçükmaden Adası","caption":"Küçükmaden Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Kianida_Island_or_Cianeis_Insula.png","alt":"Küçükmaden Adası","caption":"Küçükmaden Adası","credit":"Kianida Island or Cianeis Insula.png","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkmaden%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49650058","tip":"genel"}]
 description: "Balıkesir'in güzide adalarından biri olan Küçükmaden Adası, doğal güzellikleri ve tarihi zenginlikleriyle dikkat çekiyor."
 keywords: ["Küçükmaden Adası","Balıkesir Adaları","Marmara Denizi Adaları","Türkiye Adaları","Balıkesir Gezi","Ada Tatili","Doğal Güzellikler","Tarihi Yerler","Marmara Bölgesi"]

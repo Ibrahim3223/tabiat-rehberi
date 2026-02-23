@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tepe tırmanışı","köy gezi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1%C3%BCmmet%20Tepesi","alt":"Hacıümmet Tepesi","caption":"Hacıümmet Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Hacıümmet Tepesi","caption":"Hacıümmet Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%C3%BCmmet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139776","tip":"genel"}]
 description: "Afyonkarahisar'ın tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Afyonkarahisar","Ege Bölgesi","Hacıümmet Tepesi","doğa","tarih","gezi","turizm","tepe","manzara","çevre"]

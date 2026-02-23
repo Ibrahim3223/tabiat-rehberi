@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Kemer-Yapraktepe%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mugla-Kemer-Yapraktepe Kızılçam","caption":"Mugla-Kemer-Yapraktepe Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Mugla-Kemer-Yapraktepe Kızılçam","caption":"Mugla-Kemer-Yapraktepe Kızılçam","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Kemer-Yapraktepe%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227667","tip":"genel"}]
 description: "Mugla-Kemer-Yapraktepe Kızılçam milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Doğal güzellikleri, zengin florası ve faunasıyla dikkat çekiyor."
 keywords: ["Mugla","Kemer","Yapraktepe","Kızılçam","milli park","doğa","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doga_yuruyusu","kuş_izleme","manzara_izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1ll%C4%B1da%C4%9F%20Tepesi","alt":"Kıllıdağ Tepesi","caption":"Kıllıdağ Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Kıllıdağ Tepesi","caption":"Kıllıdağ Tepesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1ll%C4%B1da%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564302","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerinden biri olan Kıllıdağ Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Kıllıdağ Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya"]

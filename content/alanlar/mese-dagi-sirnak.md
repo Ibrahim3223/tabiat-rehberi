@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Me%C5%9Fe%20Da%C4%9F%C4%B1%20(%C5%9E%C4%B1rnak)","alt":"Meşe Dağı (Şırnak)","caption":"Meşe Dağı (Şırnak)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf/page1-897px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf.jpg","alt":"Meşe Dağı (Şırnak)","caption":"Meşe Dağı (Şırnak)","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor00azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Me%C5%9Fe%20Da%C4%9F%C4%B1%20(%C5%9E%C4%B1rnak)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510573","tip":"genel"}]
 description: "Şırnak'ta bulunan Meşe Dağı, doğal güzellikleri ve zengin florası ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Meşe Dağı","Şırnak","doğa","dağ","gezi","turizm","yeşil alan","flora","fauna","çevre"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî yapıları gezme","kültürel mirası öğrenme","coğrafi keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yunus%20Hoca%20K%C3%BCmbeti","alt":"Yunus Hoca Kümbeti","caption":"Yunus Hoca Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Engineering_in_Europe_-_USACE-p16021coll8-556.pdf/page1-960px-Engineering_in_Europe_-_USACE-p16021coll8-556.pdf.jpg","alt":"Yunus Hoca Kümbeti","caption":"Yunus Hoca Kümbeti","credit":"Engineering in Europe - USACE-p16021coll8-556.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yunus%20Hoca%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132134482","tip":"genel"}]
 description: "Eskişehir'in Sivrihisar ilçesinde yer alan tarihi bir yapı"
 keywords: ["Yunus Hoca Kümbeti","Sivrihisar","Eskişehir","tarihi yapı","kültürel miras","gezi","turizm","İç Anadolu Bölgesi","coğrafya"]

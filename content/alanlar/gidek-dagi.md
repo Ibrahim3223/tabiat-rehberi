@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gidek%20Da%C4%9F%C4%B1","alt":"Gidek Dağı","caption":"Gidek Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/DSC_3140_-_panoramio.jpg/960px-DSC_3140_-_panoramio.jpg","alt":"Gidek Dağı","caption":"Gidek Dağı","credit":"DSC 3140 - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gidek%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31577586","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerini keşfedin, Gidek Dağı'nın heybetli manzaralarına şahit olun."
 keywords: ["Gidek Dağı","Giresun","Dağ","Doğa","Turizm","Giresun Turistik Yerler","Dağcılık","Doğa Yürüyüşü","Giresun Gezi Rehberi"]

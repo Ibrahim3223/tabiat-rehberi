@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Alanya-Sogut%20Karacam","alt":"Antalya-Alanya-Sogut Karacam","caption":"Antalya-Alanya-Sogut Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/14/Saklikent_Rocks_and_Sky.jpg","alt":"Antalya-Alanya-Sogut Karacam","caption":"Antalya-Alanya-Sogut Karacam","credit":"Saklikent Rocks and Sky.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Alanya-Sogut%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227479","tip":"genel"}]
 description: "Akdeniz Bölgesi'nde yer alan Antalya-Alanya-Sogut Karacam milli parkı, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor."
 keywords: ["Antalya","Alanya","Sogut Karacam","milli park","Akdeniz Bölgesi","flora","fauna","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nizar%20Tepesi","alt":"Nizar Tepesi","caption":"Nizar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Terry_-_a_tale_of_the_hill_people_%28IA_cu31924023989076%29.pdf/page1-668px-Terry_-_a_tale_of_the_hill_people_%28IA_cu31924023989076%29.pdf.jpg","alt":"Nizar Tepesi","caption":"Nizar Tepesi","credit":"Terry - a tale of the hill people (IA cu31924023989076).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nizar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509857","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Van şehrinde yer alan Nizar Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Nizar Tepesi","Van","Doğu Anadolu Bölgesi","yeşil alan","futbol sahası","doğa","gezi"]

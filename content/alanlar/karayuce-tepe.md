@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karay%C3%BCce%20Tepe","alt":"Karayüce Tepe","caption":"Karayüce Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Annual_report_of_the_Department_of_Agriculture_of_the_Province_of_Alberta_%28IA_ableg_33398003992970%29.pdf/page1-960px-Annual_report_of_the_Department_of_Agriculture_of_the_Province_of_Alberta_%28IA_ableg_33398003992970%29.pdf.jpg","alt":"Karayüce Tepe","caption":"Karayüce Tepe","credit":"Annual report of the Department of Agriculture of the Province of Alberta (IA ableg 33398003992970).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karay%C3%BCce%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878051","tip":"genel"}]
 description: "Sivas'ta bulunan Karayüce Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1400 metre yüksekliğiyle bölgenin önemli dağlarından biri."
 keywords: ["Karayüce Tepe","Sivas","Dağ","Doğa","Tarih","Gezi","Sivas Gezilecek Yerler","Karayüce Tepe Hakkında","Sivas Dağları"]

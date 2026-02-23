@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçi rehberli tur","Doğa yürüyüşü","Fotoğraf çekimi","Tarihi eserleri incelemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Daskyleion%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%207","alt":"Daskyleion Tümülüsü 7","caption":"Daskyleion Tümülüsü 7"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Daskyleion Tümülüsü 7","caption":"Daskyleion Tümülüsü 7","credit":"Sunset in Erdek.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Daskyleion%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%207","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728307","tip":"genel"}]
 description: "Bandırma'da bulunan Daskyleion Tümülüsü 7, Marmara Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Daskyleion Tümülüsü 7","Bandırma","Marmara Bölgesi","tarih","kültür","gezi","turizm","müze","tümülüs"]

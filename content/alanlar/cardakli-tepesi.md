@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ardakl%C4%B1%20Tepesi","alt":"Çardaklı Tepesi","caption":"Çardaklı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg","alt":"Çardaklı Tepesi","caption":"Çardaklı Tepesi","credit":"The Landscape of Sıklık Gate.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ardakl%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824008","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli güzelliklerinden biri olan Çardaklı Tepesi, Çorum'un eşsiz manzaralarına ev sahipliği yapıyor."
 keywords: ["Çardaklı Tepesi","Çorum","Karadeniz Bölgesi","tepe","doğa","gezi","turizm","manzara","çevre"]

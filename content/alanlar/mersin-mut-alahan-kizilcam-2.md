@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Mut-Alahan-K%C4%B1z%C4%B1l%C3%A7am%202","alt":"Mersin-Mut-Alahan-Kızılçam 2","caption":"Mersin-Mut-Alahan-Kızılçam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kad%C4%B1nc%C4%B1k_Valley_8.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_8.jpg","alt":"Mersin-Mut-Alahan-Kızılçam 2","caption":"Mersin-Mut-Alahan-Kızılçam 2","credit":"Kadıncık Valley 8.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut-Alahan-K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227909","tip":"genel"}]
 description: "Mersin ilinin Mut ilçesinde bulunan milli park, doğal güzellikleri ve zengin fauna ile dikkat çekiyor."
 keywords: ["Mersin","Mut","Alahan","Kızılçam","milli park","doğa","flora","fauna","gezi","turizm"]

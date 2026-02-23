@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarih gezisi","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=D%C3%B6rtayak%20T%C3%BCrbesi","alt":"Dörtayak Türbesi","caption":"Dörtayak Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Dörtayak Türbesi","caption":"Dörtayak Türbesi","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%B6rtayak%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390464","tip":"genel"}]
 description: "Kayseri'nin Melikgazi ilçesinde yer alan Dörtayak Türbesi, tarihi ve doğal güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Dörtayak Türbesi","Kayseri","Melikgazi","tarihi yerler","doğa güzelliği","turistik yerler","gezi rehberi","Kayseri gezilecek yerler","Melikgazi gezilecek yerler"]

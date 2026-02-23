@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ve tarihi yapıları gezmek","Doğal güzellikleri keşfetmek","Kültürel mirası öğrenmek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Felezade%20S%C3%BCleyman%20%C3%87avu%C5%9F%20T%C3%BCrbesi","alt":"Felezade Süleyman Çavuş Türbesi","caption":"Felezade Süleyman Çavuş Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Felezade Süleyman Çavuş Türbesi","caption":"Felezade Süleyman Çavuş Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Felezade%20S%C3%BCleyman%20%C3%87avu%C5%9F%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391282","tip":"genel"}]
 description: "Afyonkarahisar'ın tarihi ve doğal güzelliklerini bir arada sunan özel bir destinasyon"
 keywords: ["Felezade Süleyman Çavuş Türbesi","Afyonkarahisar","Ege Bölgesi","tarih","doğa","gezi","türbe","plaj"]

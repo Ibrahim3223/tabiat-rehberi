@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C4%B1z%C4%B1rreis%20Adac%C4%B1%C4%9F%C4%B1","alt":"Hızırreis Adacığı","caption":"Hızırreis Adacığı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf/page1-960px-Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf.jpg","alt":"Hızırreis Adacığı","caption":"Hızırreis Adacığı","credit":"Big dairy data to unravel effects of environmental, physiological and morphological factors on milk production of mountain-pastured Braunvieh cows.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1z%C4%B1rreis%20Adac%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49641168","tip":"genel"}]
 description: "Balıkesir'de bulunan Hızırreis Adacığı, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Hızırreis Adacığı","Balıkesir","ada","doğa","yeşil cennet","gezi","seyahat","turizm","deniz"]

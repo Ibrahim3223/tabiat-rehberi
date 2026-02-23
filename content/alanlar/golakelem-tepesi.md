@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","fotoğraf çekme","tarihi místa gezi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Golakelem%20Tepesi","alt":"Golakelem Tepesi","caption":"Golakelem Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Medical_Heritage_Library_%28IA_b22027300%29.pdf/page1-733px-Medical_Heritage_Library_%28IA_b22027300%29.pdf.jpg","alt":"Golakelem Tepesi","caption":"Golakelem Tepesi","credit":"Medical Heritage Library (IA b22027300).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Golakelem%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552246","tip":"genel"}]
 description: "Mardin'de yer alan Golakelem Tepesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Mardin","Golakelem Tepesi","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","coğrafya"]

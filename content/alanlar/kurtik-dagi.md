@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "7-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurtik%20Da%C4%9F%C4%B1","alt":"Kurtik Dağı","caption":"Kurtik Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/The_foreign_tour_of_Messrs._Brown%2C_Jones%2C_and_Robinson_-_being_the_history_of_what_they_saw%2C_and_did%2C_in_Belgium%2C_Germany%2C_Switzerland_%26amp%2C_Italy_%28IA_cu31924030683712%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Kurtik Dağı","caption":"Kurtik Dağı","credit":"The foreign tour of Messrs. Brown, Jones, and Robinson - being the history of what they saw, and did, in Belgium, Germany, Switzerland &amp, Italy (IA cu31924030683712).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511896","tip":"genel"}]
 description: "Muş'un doğal güzelliklerini keşfedin, Kurtik Dağı'nın yükseklikte doğa harikalarını görün"
 keywords: ["Kurtik Dağı","Muş","Dağ","Doğa","Turizm","Gezi","Yayla","Trekking","Doğal Güzellik"]

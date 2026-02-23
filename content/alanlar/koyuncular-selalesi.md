@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koyuncular%20%C5%9Eelalesi","alt":"Koyuncular Şelalesi","caption":"Koyuncular Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%C3%87al_Ma%C4%9Faras%C4%B13.jpg/960px-%C3%87al_Ma%C4%9Faras%C4%B13.jpg","alt":"Koyuncular Şelalesi","caption":"Koyuncular Şelalesi","credit":"Çal Mağarası3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koyuncular%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130367223","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerinden biri olan Koyuncular Şelalesi, ziyaretçilerini büyülüyor."
 keywords: ["Koyuncular Şelalesi","Trabzon","Karadeniz Bölgesi","doğal güzellik","şelale","gezi","turizm"]

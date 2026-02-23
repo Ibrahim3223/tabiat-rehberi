@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kasrisseri","alt":"Kasrisseri","caption":"Kasrisseri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf/page1-616px-Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf.jpg","alt":"Kasrisseri","caption":"Kasrisseri","credit":"Armenia and its sorrows (IA armeniaitssorrow00wint).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kasrisseri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q12865642","tip":"genel"}]
 description: "Ardahan'da bulunan Kasrisseri Dağı, bölgenin önemli coğrafi oluşumlarından biri"
 keywords: ["Kasrisseri","Ardahan","Dağ","Coğrafi Oluşum","Doğa","Türkiye","Ardahan Dağları","Kasrisseri Dağı","Turizm"]

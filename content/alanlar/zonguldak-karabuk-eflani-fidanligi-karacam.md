@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Çiçek izleme","Fotoğrafçılık","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zonguldak-Karabuk-Eflani%20Fidanligi%20Karacam","alt":"Zonguldak-Karabuk-Eflani Fidanligi Karacam","caption":"Zonguldak-Karabuk-Eflani Fidanligi Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Zonguldak-Karabuk-Eflani Fidanligi Karacam","caption":"Zonguldak-Karabuk-Eflani Fidanligi Karacam","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Karabuk-Eflani%20Fidanligi%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227964","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerinden biri olan Zonguldak-Karabuk-Eflani Fidanligi Karacam, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["Zonguldak","Karabuk","Eflani","Fidanligi","Karacam","Karadeniz Bölgesi","doğa","milli park"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Demirli%20Da%C4%9F%C4%B1","alt":"Demirli Dağı","caption":"Demirli Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf/page1-960px-FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf.jpg","alt":"Demirli Dağı","caption":"Demirli Dağı","credit":"FEDLINK - United States Federal Collection (IA keepingcurrentnd109453799).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526057","tip":"genel"}]
 description: "Konya'da yer alan Demirli Dağı, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzellikleri keşfedin!"
 keywords: ["Demirli Dağı","Konya","Dağ","Doğa","Yeşil Alan","Konya Turizm","Demirli Dağı Konya","Turistik Yerler","Doğal Güzellikler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["anıt mezarı gezisi","tarihi araştırma","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yeniyurt%20An%C4%B1t%20Mezar%C4%B1","alt":"Yeniyurt Anıt Mezarı","caption":"Yeniyurt Anıt Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Yeniyurt Anıt Mezarı","caption":"Yeniyurt Anıt Mezarı","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeniyurt%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728140","tip":"genel"}]
 description: "Mersin'in Erdemli ilçesinde yer alan Yeniyurt Anıt Mezarı, tarihi geçmişiyle dikkat çekiyor. Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Yeniyurt Anıt Mezarı","Erdemli","Mersin","Akdeniz Bölgesi","tarih","gezi","ziyaret","anıt","mezar"]

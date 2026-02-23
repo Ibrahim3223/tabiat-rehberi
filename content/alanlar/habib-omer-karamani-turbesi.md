@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotograf çekimi","mimari keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Habib%20%C3%96mer%20Karamani%20T%C3%BCrbesi","alt":"Habib Ömer Karamani Türbesi","caption":"Habib Ömer Karamani Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Habib Ömer Karamani Türbesi","caption":"Habib Ömer Karamani Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Habib%20%C3%96mer%20Karamani%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390659","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzelliklerini keşfedin, Habib Ömer Karamani Türbesi'ni ziyaret edin."
 keywords: ["Amasya","tarih","doğa","türbe","Karadeniz Bölgesi","kültür","gezi","turizm"]

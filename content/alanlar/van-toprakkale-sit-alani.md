@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kuş gözlemciliği","yürüyüş","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Van-toprakkale%20Sit%20Alan%C4%B1","alt":"Van-toprakkale Sit Alanı","caption":"Van-toprakkale Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/WhereRainbowRises.jpg/960px-WhereRainbowRises.jpg","alt":"Van-toprakkale Sit Alanı","caption":"Van-toprakkale Sit Alanı","credit":"WhereRainbowRises.jpg","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Van-toprakkale%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226045","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Van-toprakkale Sit Alanı, tarihi ve doğal güzellikleriyle dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Van-toprakkale","Doğu Anadolu Bölgesi","tarihi alan","doğal güzellik","sit alanı","Van","gezi","turizm"]

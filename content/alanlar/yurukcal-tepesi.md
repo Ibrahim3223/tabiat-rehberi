@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğraf çekme","bitki ve hayvan gözlemleme","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%BCr%C3%BCk%C3%A7al%20Tepesi","alt":"Yürükçal Tepesi","caption":"Yürükçal Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Yürükçal Tepesi","caption":"Yürükçal Tepesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCk%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196235","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerini keşfedin. Yürükçal Tepesi, Karadeniz Bölgesi'nin en önemli noktalarından biri."
 keywords: ["Yürükçal Tepesi","Samsun","Karadeniz Bölgesi","doğa","gezi","tepe","manzara"]

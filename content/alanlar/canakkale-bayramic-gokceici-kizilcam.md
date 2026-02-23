@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Canakkale-Bayramic-Gokceici%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Canakkale-Bayramic-Gokceici Kızılçam","caption":"Canakkale-Bayramic-Gokceici Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Canakkale-Bayramic-Gokceici Kızılçam","caption":"Canakkale-Bayramic-Gokceici Kızılçam","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Bayramic-Gokceici%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227642","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşillik cenneti, 140 hektarlık korunan alan"
 keywords: ["Kızılçam","İç Anadolu Bölgesi","milli park","doğa","yeşillik","korunan alan"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Orta%20Ada%20(T%C3%BCrkiye)","alt":"Orta Ada (Türkiye)","caption":"Orta Ada (Türkiye)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf/page1-860px-Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf.jpg","alt":"Orta Ada","caption":"Orta Ada","credit":"Revue suisse de zoologie (IA revuesuissede11412007schw).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Orta%20Ada%20(T%C3%BCrkiye)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49666391","tip":"genel"}]
 description: "Konya'da bulunan Orta Ada, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Orta Ada","Konya","ada","turizm","doğa","yeşil alan","gezi","seyahat","Türkiye"]

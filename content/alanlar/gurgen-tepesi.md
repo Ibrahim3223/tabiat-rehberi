@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","orman gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCrgen%20Tepesi","alt":"Gürgen Tepesi","caption":"Gürgen Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Story_Of_The_Nation%2CChina_%28IA_TheStoryOfTheNationChina%29.pdf/page1-577px-The_Story_Of_The_Nation%2CChina_%28IA_TheStoryOfTheNationChina%29.pdf.jpg","alt":"Gürgen Tepesi","caption":"Gürgen Tepesi","credit":"The Story Of The Nation,China (IA TheStoryOfTheNationChina).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrgen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873415","tip":"genel"}]
 description: "Ordu ilinin güzide tepelerinden biri olan Gürgen Tepesi, Karadeniz Bölgesi'nin yeşilliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Gürgen Tepesi","Ordu","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]

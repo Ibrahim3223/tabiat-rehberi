@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih keşfi","Doğa yürüyüşü","Fotoğrafçılık","Kültürel deneyim"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCfrevi%20T%C3%BCrbesi","alt":"Küfrevi Türbesi","caption":"Küfrevi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Glendale_Evening_News_1915-09-22_%28IA_cgl_002654%29.pdf/page1-960px-The_Glendale_Evening_News_1915-09-22_%28IA_cgl_002654%29.pdf.jpg","alt":"Küfrevi Türbesi","caption":"Küfrevi Türbesi","credit":"The Glendale Evening News 1915-09-22 (IA cgl 002654).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCfrevi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390702","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Bitlis'in tarihi ve doğal güzelliklerinin birleştiği point"
 keywords: ["Küfrevi Türbesi","Bitlis","Doğu Anadolu Bölgesi","tarih","doğa","gezi","türbe","plaj"]

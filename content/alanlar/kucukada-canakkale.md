@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCkada%20(%C3%87anakkale)","alt":"Küçükada (Çanakkale)","caption":"Küçükada (Çanakkale)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf/page1-960px-War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf.jpg","alt":"Küçükada","caption":"Küçükada","credit":"War diary - German Naval Staff Operations Division (IA wardiarygermann301942germ).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkada%20(%C3%87anakkale)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49650055","tip":"genel"}]
 description: "Çanakkale'nin güzide adalarından biri olan Küçükada, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Küçükada","Çanakkale","ada","turizm","gezi","doğa","tarih","Çanakkale adaları","Ege Denizi"]

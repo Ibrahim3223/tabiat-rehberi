@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşleri","yaban hayatı gözlemleme","fotografçılık","çevre eğitimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Akseki-Ibradi%20Mese","alt":"Antalya-Akseki-Ibradi Mese","caption":"Antalya-Akseki-Ibradi Mese"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf/page1-960px-Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf.jpg","alt":"Antalya-Akseki-Ibradi Mese","caption":"Antalya-Akseki-Ibradi Mese","credit":"Report of the Forest Service (IA CAT82764216021).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Akseki-Ibradi%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227276","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin doğal güzellikleri arasında yer alan bir milli park"
 keywords: ["milli park","Antalya","Akdeniz Bölgesi","Ibradi","Akseki","doğa","gezi","turizm","çevre","flora","fauna"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Plaj aktiviteleri","Doğa yürüyüşleri","Su sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kad%C4%B1%20Fazlullah%20Efendi%20T%C3%BCrbesi","alt":"Kadı Fazlullah Efendi Türbesi","caption":"Kadı Fazlullah Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kadı Fazlullah Efendi Türbesi","caption":"Kadı Fazlullah Efendi Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kad%C4%B1%20Fazlullah%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391822","tip":"genel"}]
 description: "Kocaeli'nin Gebze ilçesinde yer alan tarihi türbe ve plaj"
 keywords: ["Kadı Fazlullah Efendi Türbesi","Gebze","Kocaeli","Marmara Bölgesi","tarih","plaj","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ke%C3%A7ili%20Da%C4%9F%C4%B1","alt":"Keçili Dağı","caption":"Keçili Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Keçili Dağı","caption":"Keçili Dağı","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C3%A7ili%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041417","tip":"genel"}]
 description: "Kayseri'nin önemli dağlarından biri olan Keçili Dağı, 1200 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["Keçili Dağı","Kayseri","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Kayseri Turistik Yerler"]

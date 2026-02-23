@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sertkaya%20Tepesi","alt":"Sertkaya Tepesi","caption":"Sertkaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sislerin_b%C3%BCy%C3%BCleyici_d%C3%BCnyas%C4%B1ndan_Trabzon_Uzung%C3%B6l.jpg/960px-Sislerin_b%C3%BCy%C3%BCleyici_d%C3%BCnyas%C4%B1ndan_Trabzon_Uzung%C3%B6l.jpg","alt":"Sertkaya Tepesi","caption":"Sertkaya Tepesi","credit":"Sislerin büyüleyici dünyasından Trabzon Uzungöl.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sertkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387965","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerini keşfedin. Sertkaya Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Sertkaya Tepesi","Trabzon","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

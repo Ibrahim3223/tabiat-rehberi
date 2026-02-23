@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kanl%C4%B1ca%20Tepesi","alt":"Kanlıca Tepesi","caption":"Kanlıca Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf/page1-960px-Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf.jpg","alt":"Kanlıca Tepesi","caption":"Kanlıca Tepesi","credit":"Report of the Forest Service (IA CAT82764216021).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kanl%C4%B1ca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31519438","tip":"genel"}]
 description: "140-155 karakter, etkileyici SEO açıklaması: Antalya'nın önemli doğal güzelliklerinden biri olan Kanlıca Tepesi, ziyaretçilerini büyülemektedir."
 keywords: ["Kanlıca Tepesi","Antalya","doğal güzellik","tepe","gezi","Akdeniz Bölgesi"]

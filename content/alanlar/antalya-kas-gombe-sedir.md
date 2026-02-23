@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Denize girme","Güneşlenme","Doğa yürüyüşleri","Su sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Kas-Gombe%20Sedir","alt":"Antalya-Kas-Gombe Sedir","caption":"Antalya-Kas-Gombe Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf/page1-960px-Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf.jpg","alt":"Antalya-Kas-Gombe Sedir","caption":"Antalya-Kas-Gombe Sedir","credit":"Report of the Forest Service (IA CAT82764216021).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Kas-Gombe%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227598","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin. Akdeniz Bölgesi'nde yer alan Sedir Adası'nın muhteşem manzaraları ve tarihi geçmişiyle sizi büyüleyecek."
 keywords: ["Antalya","Kas","Gombe","Sedir Adası","Doğa","Tarih","Gezi","Turizm","Akdeniz Bölgesi","Deniz"]

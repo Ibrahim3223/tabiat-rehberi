@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kelmehmet%20Da%C4%9F%C4%B1","alt":"Kelmehmet Dağı","caption":"Kelmehmet Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Kelmehmet Dağı","caption":"Kelmehmet Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelmehmet%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31540391","tip":"genel"}]
 description: "Şırnak'ta bulunan Kelmehmet Dağı, doğa severlerin ziyaret ettiği önemli bir coğrafi oluşum"
 keywords: ["Kelmehmet Dağı","Şırnak","Dağ","Doğa","Türkiye Coğrafyası","Şırnak Turizm","Dağcılık","Doğa Yürüyüşü","Coğrafi Oluşumlar"]

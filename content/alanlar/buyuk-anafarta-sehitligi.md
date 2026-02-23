@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Şehitlik gezi","Müze ziyareti","Anıtkabir ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCk%20Anafarta%20%C5%9Eehitli%C4%9Fi","alt":"Büyük Anafarta Şehitliği","caption":"Büyük Anafarta Şehitliği"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Büyük Anafarta Şehitliği","caption":"Büyük Anafarta Şehitliği","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Anafarta%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728263","tip":"genel"}]
 description: "Çanakkale'nin Eceabat ilçesinde bulunan Büyük Anafarta Şehitliği, tarihin önemli sayfalarına tanıklık eden bir mekan."
 keywords: ["Büyük Anafarta Şehitliği","Eceabat","Çanakkale","Şehitlik","Tarih","Anıtkabir","Müze"]

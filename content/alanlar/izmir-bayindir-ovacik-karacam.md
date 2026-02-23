@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","doğa yürüyüşü","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Bayindir-Ovacik%20Karacam","alt":"Izmir-Bayindir-Ovacik Karacam","caption":"Izmir-Bayindir-Ovacik Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/MOKFC12.jpg/960px-MOKFC12.jpg","alt":"Izmir-Bayindir-Ovacik Karacam","caption":"Izmir-Bayindir-Ovacik Karacam","credit":"MOKFC12.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Bayindir-Ovacik%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227514","tip":"genel"}]
 description: "Ege Bölgesi'nin natuur güzelliklerini keşfedin. İzmir'in Bayındır ilçesinde yer alan Ovacık Karacam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Izmir","Bayındır","Ovacık Karacam","Milli Park","Ege Bölgesi","doğa","gezi","turizm"]

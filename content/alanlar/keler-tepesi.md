@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Keler%20Tepesi","alt":"Keler Tepesi","caption":"Keler Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Keler Tepesi","caption":"Keler Tepesi","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388188","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerinden biri olan Keler Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Keler Tepesi","Denizli","Ege Bölgesi","doğal güzellik","tepe","gezi","turizm","yerel kültür"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","yaban hayatı gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Cevizli%20Gidengelmez%20Dagi","alt":"Antalya-Cevizli Gidengelmez Dagi","caption":"Antalya-Cevizli Gidengelmez Dagi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf/page1-875px-Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf.jpg","alt":"Antalya-Cevizli Gidengelmez Dagi","caption":"Antalya-Cevizli Gidengelmez Dagi","credit":"Revue suisse de zoologie (IA revuesuissede11042003schw).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Cevizli%20Gidengelmez%20Dagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227074","tip":"genel"}]
 description: "Antalya'nın güzide milli parklarından biri olan Cevizli Gidengelmez Dağı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["milli park","Antalya","Cevizli Gidengelmez Dağı","doğa","turizm","gezi","yaban hayatı","ekosistem"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","piknik","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tekbir%20Tepesi","alt":"Tekbir Tepesi","caption":"Tekbir Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Science-gossip_%28IA_sciencegossip0670lond%29.pdf/page1-960px-Science-gossip_%28IA_sciencegossip0670lond%29.pdf.jpg","alt":"Tekbir Tepesi","caption":"Tekbir Tepesi","credit":"Science-gossip (IA sciencegossip0670lond).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekbir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388191","tip":"genel"}]
 description: "Denizli'nin en güzel tepelerinden biri olan Tekbir Tepesi, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
 keywords: ["Tekbir Tepesi","Denizli","Ege Bölgesi","yeşil alan","fauna","doğa","gezi","turizm","tepe"]

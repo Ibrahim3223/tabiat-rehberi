@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Kemerkopru-Gurgen","alt":"Giresun-Kemerkopru-Gurgen","caption":"Giresun-Kemerkopru-Gurgen"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sis_da%C4%9F%C4%B1_%287%29.jpg/960px-Sis_da%C4%9F%C4%B1_%287%29.jpg","alt":"Giresun-Kemerkopru-Gurgen","caption":"Giresun-Kemerkopru-Gurgen","credit":"Sis dağı (7).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Kemerkopru-Gurgen","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228478","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Giresun'da yer alan milli park, ziyaretçilerine doğanın tüm güzelliğini sunuyor"
 keywords: ["Giresun","Kemerkopru","Gurgen","Milli Park","Karadeniz Bölgesi","Doğa","Turizm","Gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğrafçılık","tarihi yerleri gezme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karl%C4%B1kdede%20Tepesi","alt":"Karlıkdede Tepesi","caption":"Karlıkdede Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Seashell_on_the_beach_-_Flickr_-_faktor1komma5.jpg/960px-Seashell_on_the_beach_-_Flickr_-_faktor1komma5.jpg","alt":"Karlıkdede Tepesi","caption":"Karlıkdede Tepesi","credit":"Seashell on the beach - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karl%C4%B1kdede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517053","tip":"genel"}]
 description: "Aydın'da yer alan Karlıkdede Tepesi, Ege Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Karlıkdede Tepesi","Aydın","Ege Bölgesi","doğal alan","tepe","gezi","turizm"]

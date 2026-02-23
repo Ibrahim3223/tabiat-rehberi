@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sadrazam%20Silahtar%20Kara%20Vezir%20Hamam%C4%B1","alt":"Sadrazam Silahtar Kara Vezir Hamamı","caption":"Sadrazam Silahtar Kara Vezir Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nature_of_Cappadocia.jpg/960px-Nature_of_Cappadocia.jpg","alt":"Sadrazam Silahtar Kara Vezir Hamamı","caption":"Sadrazam Silahtar Kara Vezir Hamamı","credit":"Nature of Cappadocia.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sadrazam%20Silahtar%20Kara%20Vezir%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738430","tip":"genel"}]
 description: "Gülşehir'in tarihi plajı, İç Anadolu Bölgesi'nin önemli turizm merkezlerinden biri"
 keywords: ["Sadrazam Silahtar Kara Vezir Hamamı","Gülşehir","Nevşehir","İç Anadolu Bölgesi","tarihi plaj","turizm merkezi"]

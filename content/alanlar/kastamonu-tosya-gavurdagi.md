@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 Gün"
 aktiviteler: ["Yürüyüş","Trekking","Doğa Yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Tosya%20Gavurdag%C4%B1","alt":"Kastamonu-Tosya Gavurdagı","caption":"Kastamonu-Tosya Gavurdagı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Kastamonu-Tosya Gavurdagı","caption":"Kastamonu-Tosya Gavurdagı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Tosya%20Gavurdag%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227400","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin. Tosya Gavurdagı Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kastamonu","Tosya Gavurdagı","Milli Park","Doğa","Yeşil Alan","Futbol Saha","Karadeniz Bölgesi"]

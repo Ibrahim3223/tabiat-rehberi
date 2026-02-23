@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik manzara izleme","tarihçe keşfi","flora ve fauna gözlemleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ku%C5%9Ftiyan%20Tepesi","alt":"Kuştiyan Tepesi","caption":"Kuştiyan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Kuştiyan Tepesi","caption":"Kuştiyan Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Ftiyan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31543943","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve coğrafi güzelliklerini birleştiren önemli bir nokta"
 keywords: ["Kuştiyan Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","coğrafi güzellikler","tarihçe","doğa","gezi"]

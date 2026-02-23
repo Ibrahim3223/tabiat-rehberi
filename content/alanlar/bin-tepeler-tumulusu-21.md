@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tümülüsleri gezmek","Doğa yürüyüşleri","Fotografcılık","Tarihi research"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2021","alt":"Bin Tepeler Tümülüsü 21","caption":"Bin Tepeler Tümülüsü 21"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf/page1-960px-The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 21","caption":"Bin Tepeler Tümülüsü 21","credit":"The new international encyclopaedia ... (Vol. 15, MANI-MISSI) (IA newinternational15unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2021","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728341","tip":"genel"}]
 description: "Manisa'nın Salihli ilçesinde bulunan Bin Tepeler Tümülüsü 21, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Bin Tepeler Tümülüsü 21","Salihli","Manisa","Ege Bölgesi","tarihi mekanlar","doğa turizmi","tümülüsler","arkeolojik siteler","gezi rehberi"]

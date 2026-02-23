@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültürel gezi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abdulkadir%20Erbili%20T%C3%BCrbesi","alt":"Abdulkadir Erbili Türbesi","caption":"Abdulkadir Erbili Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%B6bekli_Tepe_-_landscape.jpg/960px-G%C3%B6bekli_Tepe_-_landscape.jpg","alt":"Abdulkadir Erbili Türbesi","caption":"Abdulkadir Erbili Türbesi","credit":"Göbekli Tepe - landscape.jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdulkadir%20Erbili%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390485","tip":"genel"}]
 description: "Şanlıurfa'nın Eyyübiye ilçesinde yer alan Abdulkadir Erbili Türbesi, tarihi ve kültürel öneme sahip bir mekândır."
 keywords: ["Abdulkadir Erbili","Şanlıurfa","Eyyübiye","tarih","kültür","türbe","gezi","ziyaret"]

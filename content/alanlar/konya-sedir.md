@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Çevre koruma çalışmaları","Flora ve fauna gözlemi","Fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Konya-Sedir","alt":"Konya-Sedir","caption":"Konya-Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Konya-Sedir","caption":"Konya-Sedir","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227214","tip":"genel"}]
 description: "Konya ilinin güzide milli parkı, doğal güzelliklerin buluşma noktası"
 keywords: ["Konya","Sedir","Milli Park","Doğa","Gezi","Konya-Sedir","İç Anadolu","Turizm","Doğal Güzellikler"]

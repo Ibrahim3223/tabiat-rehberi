@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeytan%20Da%C4%9F%C4%B1%20(Bing%C3%B6l)","alt":"Şeytan Dağı (Bingöl)","caption":"Şeytan Dağı (Bingöl)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Şeytan Dağı","caption":"Şeytan Dağı","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeytan%20Da%C4%9F%C4%B1%20(Bing%C3%B6l)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34821023","tip":"genel"}]
 description: "Bingöl'de bulunan Şeytan Dağı, doğa severlerin ziyaret ettiği bir dağdır. Dağcılık ve trekking için idealdir."
 keywords: ["Şeytan Dağı","Bingöl","dağ","doğa","trekking","dağcılık","turizm","gezi","Bingöl turizm"]

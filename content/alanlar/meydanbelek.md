@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Meydanbelek","alt":"Meydanbelek","caption":"Meydanbelek"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Meydanbelek","caption":"Meydanbelek","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Meydanbelek","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510543","tip":"genel"}]
 description: "Hakkari'nin görkemli dağlarından biri olan Meydanbelek, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Meydanbelek","Hakkari","Dağ","Doğal Alan","Yeşil Cennet","Turizm","Seyahat","Gezi","Doğa"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Tarih ve kültür turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Boruklu%20Tepesi","alt":"Boruklu Tepesi","caption":"Boruklu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Boruklu Tepesi","caption":"Boruklu Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boruklu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558306","tip":"genel"}]
 description: "Ankara'nın önemli doğal alanlarından biri olan Boruklu Tepesi, yaklaşık 140 hektarlık bir alanı kapsar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalabalığından uzaklaşmak için ideal bir yer."
 keywords: ["Boruklu Tepesi","Ankara","İç Anadolu Bölgesi","doğal alan","yeşil alan","gezi","turizm","çevre","ekosistem"]

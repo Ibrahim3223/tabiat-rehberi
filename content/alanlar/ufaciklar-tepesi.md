@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","bitki gözlemi","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ufac%C4%B1klar%20Tepesi","alt":"Ufacıklar Tepesi","caption":"Ufacıklar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg","alt":"Ufacıklar Tepesi","caption":"Ufacıklar Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 07.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ufac%C4%B1klar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31503777","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Ufacıklar Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Ufacıklar Tepesi","Kahramanmaraş","Akdeniz Bölgesi","doğa","tepe","gezi","turizm"]

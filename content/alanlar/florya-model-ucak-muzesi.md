@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["model uçak inceleme","havacılık tarihini öğrenme","müze çevresinde yürüyüş yapma","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Florya%20Model%20U%C3%A7ak%20M%C3%BCzesi","alt":"Florya Model Uçak Müzesi","caption":"Florya Model Uçak Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Black_and_white_Paris_landscape.jpg/960px-Black_and_white_Paris_landscape.jpg","alt":"Florya Model Uçak Müzesi","caption":"Florya Model Uçak Müzesi","credit":"Black and white Paris landscape.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Florya%20Model%20U%C3%A7ak%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132888280","tip":"genel"}]
 description: "İstanbul'un Florya semtinde yer alan Florya Model Uçak Müzesi, zengin koleksiyonu ile ziyaretçilerini ağırlıyor."
 keywords: ["Florya Model Uçak Müzesi","İstanbul","Marmara Bölgesi","model uçak","müze","havacılık","turizm","gezi","tarih"]

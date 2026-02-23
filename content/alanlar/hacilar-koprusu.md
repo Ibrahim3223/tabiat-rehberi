@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekme","tarih gezisi","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1lar%20K%C3%B6pr%C3%BCs%C3%BC","alt":"Hacılar Köprüsü","caption":"Hacılar Köprüsü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Catalog_of_Copyright_Entries_1941_Music_New_Series_Vol_36_Pt_3_%28IA_catalogofcopyrig363libr%29.pdf/page1-810px-Catalog_of_Copyright_Entries_1941_Music_New_Series_Vol_36_Pt_3_%28IA_catalogofcopyrig363libr%29.pdf.jpg","alt":"Hacılar Köprüsü","caption":"Hacılar Köprüsü","credit":"Catalog of Copyright Entries 1941 Music New Series Vol 36 Pt 3 (IA catalogofcopyrig363libr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1lar%20K%C3%B6pr%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123651934","tip":"genel"}]
 description: "Ankara'nın Beypazarı ilçesinde yer alan Hacılar Köprüsü, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Doğal güzelliği ve tarihi geçmişi ile dikkat çeker."
 keywords: ["Hacılar Köprüsü","Beypazarı","Ankara","doğa","tarih","gezi","turizm","köprü","plaj"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Kuş gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bendimahi%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","alt":"Bendimahi Deltası Sulak Alanı","caption":"Bendimahi Deltası Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Bendimahi Deltası Sulak Alanı","caption":"Bendimahi Deltası Sulak Alanı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bendimahi%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228855","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Bendimahi Deltası Sulak Alanı, doğal güzelliği ve zengin fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Bendimahi Deltası","Sulak Alanı","İç Anadolu Bölgesi","doğal güzellik","fauna çeşitliliği"]

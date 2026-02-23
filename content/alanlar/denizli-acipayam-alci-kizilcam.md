@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Denizli-Acipayam-Alci%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Denizli-Acipayam-Alci Kızılçam","caption":"Denizli-Acipayam-Alci Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Denizli-Acipayam-Alci Kızılçam","caption":"Denizli-Acipayam-Alci Kızılçam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Acipayam-Alci%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227645","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan doğal güzellik"
 keywords: ["Denizli","Acipayam","Alci Kızılçam","milli park","doğal alan","iç Anadolu Bölgesi","orman","kızılçam"]

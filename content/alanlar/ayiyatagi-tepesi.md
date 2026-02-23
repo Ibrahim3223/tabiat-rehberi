@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Dağcılık","Doğa Yürüyüşleri","Fotoğrafçılık","Tarihi Yerleri Gezme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ay%C4%B1yata%C4%9F%C4%B1%20Tepesi","alt":"Ayıyatağı Tepesi","caption":"Ayıyatağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Ayıyatağı Tepesi","caption":"Ayıyatağı Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ay%C4%B1yata%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388408","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin, Ayıyatağı Tepesi'ne çıkın ve büyüleyici manzarayı görün."
 keywords: ["Ayıyatağı Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğa","Tepeler","Manzara","Gezi","Turizm","Dağcılık"]

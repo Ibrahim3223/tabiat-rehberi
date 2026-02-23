@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara seyri","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0ncirli%C3%B6ren%20Tepe","alt":"İncirliören Tepe","caption":"İncirliören Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen01gaid%29.pdf/page1-887px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen01gaid%29.pdf.jpg","alt":"İncirliören Tepe","caption":"İncirliören Tepe","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen01gaid).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncirli%C3%B6ren%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810513","tip":"genel"}]
 description: "Adana'nın tarihi ve doğal güzelliklerini keşfedin. İncirliören Tepe, Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["İncirliören Tepe","Adana","Akdeniz Bölgesi","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]

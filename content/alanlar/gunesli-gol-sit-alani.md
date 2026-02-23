@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa Yürüyüşleri","Balık Tutma","Orman Gezileri","Tarihî Kalıntıları İnceleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCne%C5%9Fli%20G%C3%B6l%20Sit%20Alan%C4%B1","alt":"Güneşli Göl Sit Alanı","caption":"Güneşli Göl Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Güneşli Göl Sit Alanı","caption":"Güneşli Göl Sit Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9Fli%20G%C3%B6l%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226229","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, 140 hektarlık bir alanın zengin faunası ve florasıyla buluşun."
 keywords: ["Güneşli Göl","Sit Alanı","İç Anadolu Bölgesi","Doğa","Flora","Fauna","Gezi","Tarihçe","Coğrafya"]

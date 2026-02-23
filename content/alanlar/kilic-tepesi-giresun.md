@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1l%C4%B1%C3%A7%20Tepesi%20(Giresun)","alt":"Kılıç Tepesi (Giresun)","caption":"Kılıç Tepesi (Giresun)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/ACI_SU_%28HOT_WATER_WATERFALL%29_-_panoramio.jpg/960px-ACI_SU_%28HOT_WATER_WATERFALL%29_-_panoramio.jpg","alt":"Kılıç Tepesi (Giresun)","caption":"Kılıç Tepesi (Giresun)","credit":"ACI SU (HOT WATER WATERFALL) - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1%C3%A7%20Tepesi%20(Giresun)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041563","tip":"genel"}]
 description: "Giresun'un en yüksek noktalarından biri olan Kılıç Tepesi, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi."
 keywords: ["Kılıç Tepesi","Giresun","Dağ","Doğa","Yeşil Alan","Trekking","Doğa Yürüyüşü","Giresun Gezilecek Yerler","Turizm"]

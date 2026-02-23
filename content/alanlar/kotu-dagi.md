@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6t%C3%BC%20Da%C4%9F%C4%B1","alt":"Kötü Dağı","caption":"Kötü Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Barrow_-_panoramio.jpg/960px-The_Barrow_-_panoramio.jpg","alt":"Kötü Dağı","caption":"Kötü Dağı","credit":"The Barrow - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6t%C3%BC%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042793","tip":"genel"}]
 description: "Kırşehir'de yer alan Kötü Dağı, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Kötü Dağı","Kırşehir","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Coğrafya"]

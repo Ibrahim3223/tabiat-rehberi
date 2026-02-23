@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","manzara seyretme","fotoğraf çekme","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Depelice%20Tepesi","alt":"Depelice Tepesi","caption":"Depelice Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Depelice Tepesi","caption":"Depelice Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Depelice%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31569028","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin. Depelice Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kastamonu","Karadeniz Bölgesi","Depelice Tepesi","doğal güzellik","gezi","turizm","tepe","manzara"]

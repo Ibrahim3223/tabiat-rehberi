@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa","tarihî kalıntıları gezmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=E%C4%9E%C4%B0L%20PEYGAMBERLER_TP","alt":"EĞİL PEYGAMBERLER_TP","caption":"EĞİL PEYGAMBERLER_TP"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"EĞİL PEYGAMBERLER_TP","caption":"EĞİL PEYGAMBERLER_TP","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9E%C4%B0L%20PEYGAMBERLER_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228784","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cevheri, 140 hektarlık bir yeşil alan."
 keywords: ["İç Anadolu Bölgesi","doğa alanları","milli park","yeşil alan","gezi noktaları","tarihçe","coğrafya","flora","fauna","ziyaret"]

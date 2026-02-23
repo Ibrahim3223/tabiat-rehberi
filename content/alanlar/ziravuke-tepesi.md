@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hiking","Doğa Yürüyüşü","Fotoğrafçılık","Tarih Araştırması"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ziravuke%20Tepesi","alt":"Ziravuke Tepesi","caption":"Ziravuke Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Ziravuke Tepesi","caption":"Ziravuke Tepesi","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziravuke%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552328","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin birleştiği Ziravuke Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mardin","Ziravuke Tepesi","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","tepe"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları gezmek","Doğal güzellikleri keşfetmek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Binbir%20Oklu%20Ahmet%20Baba%20T%C3%BCrbesi","alt":"Binbir Oklu Ahmet Baba Türbesi","caption":"Binbir Oklu Ahmet Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Binbir Oklu Ahmet Baba Türbesi","caption":"Binbir Oklu Ahmet Baba Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Binbir%20Oklu%20Ahmet%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391806","tip":"genel"}]
 description: "Kırklareli'nin Pınarhisar ilçesinde bulunan Binbir Oklu Ahmet Baba Türbesi, tarihin derinliklerinden gelen bir geçmişe sahiptir."
 keywords: ["Binbir Oklu Ahmet Baba Türbesi","Pınarhisar","Kırklareli","Marmara Bölgesi","tarih","türbe","gezi"]

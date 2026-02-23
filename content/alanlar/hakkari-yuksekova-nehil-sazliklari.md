@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=HAKKAR%C4%B0%20Y%C3%9CKSEKOVA%20NEH%C4%B0L%20SAZLIKLARI","alt":"HAKKARİ YÜKSEKOVA NEHİL SAZLIKLARI","caption":"HAKKARİ YÜKSEKOVA NEHİL SAZLIKLARI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"HAKKARİ YÜKSEKOVA NEHİL SAZLIKLARI","caption":"HAKKARİ YÜKSEKOVA NEHİL SAZLIKLARI","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HAKKAR%C4%B0%20Y%C3%9CKSEKOVA%20NEH%C4%B0L%20SAZLIKLARI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228930","tip":"genel"}]
 description: "Hakkâri'nin doğal güzellikleri arasında yer alan Nehil sazlıkları, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Hakkâri","Yüksekova","Nehil sazlıkları","doğal alanlar","sazlıklar","flora","fauna","milli parklar","turizm"]

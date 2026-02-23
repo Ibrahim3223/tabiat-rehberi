@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C4%B1ld%C4%B1r%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Çıldır Gölü Sulak Alanı","caption":"Çıldır Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Çıldır Gölü Sulak Alanı","caption":"Çıldır Gölü Sulak Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1ld%C4%B1r%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228814","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan, 140 hektarlık sulak alan. Doğal güzellikleri ve zengin fauna ile dikkat çekiyor."
 keywords: ["sulak alan","doğa","fauna","iç anadolu","çevre","ekoloji","koruma","turizm","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Do%C4%9Fmaz%20Da%C4%9F","alt":"Doğmaz Dağ","caption":"Doğmaz Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/G%C3%B6lba%C5%9F%C4%B1%2Cbursa_-_panoramio.jpg/960px-G%C3%B6lba%C5%9F%C4%B1%2Cbursa_-_panoramio.jpg","alt":"Doğmaz Dağ","caption":"Doğmaz Dağ","credit":"Gölbaşı,bursa - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fmaz%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568774","tip":"genel"}]
 description: "Bursa'nın doğal güzelliklerini keşfedin. Doğmaz Dağ, şehir merkezine yakın bir konumda yer alır."
 keywords: ["Doğmaz Dağ","Bursa","Dağ","Doğa","Türkiye","Seyahat","Gezi","Bursa Turizm","Doğal Alanlar"]

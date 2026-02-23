@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","plaj gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mevlana%20Feyzullah%20Dede%20T%C3%BCrbesi","alt":"Mevlana Feyzullah Dede Türbesi","caption":"Mevlana Feyzullah Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Mevlana Feyzullah Dede Türbesi","caption":"Mevlana Feyzullah Dede Türbesi","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mevlana%20Feyzullah%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735176","tip":"genel"}]
 description: "Aydın'ın Nazilli ilçesinde bulunan Mevlana Feyzullah Dede Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir yerdir."
 keywords: ["Mevlana Feyzullah Dede Türbesi","Nazilli","Aydın","tarih","doğa","türbe","gezi","kültür"]

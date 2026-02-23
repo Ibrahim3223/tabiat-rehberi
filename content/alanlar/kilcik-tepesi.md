@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1l%C3%A7%C4%B1k%20Tepesi","alt":"Kılçık Tepesi","caption":"Kılçık Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pasturing_Goats_-_panoramio.jpg/960px-Pasturing_Goats_-_panoramio.jpg","alt":"Kılçık Tepesi","caption":"Kılçık Tepesi","credit":"Pasturing Goats - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C3%A7%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211119","tip":"genel"}]
 description: "Kırşehir'in doğal güzellikleri arasında yer alan Kılçık Tepesi, ziyaretçilerini büyüleyen bir doğa harikasıdır."
 keywords: ["Kırşehir","Kılçık Tepesi","doğa","gezi","turizm","tepe","manzara","doğa harikası","gezilecek yerler"]

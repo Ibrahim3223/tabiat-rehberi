@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ke%C5%9Flik%20Tepe","alt":"Keşlik Tepe","caption":"Keşlik Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf/page1-804px-David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf.jpg","alt":"Keşlik Tepe","caption":"Keşlik Tepe","credit":"David George Hogarth. Accidents of an antiquary's life. 1910.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C5%9Flik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515467","tip":"genel"}]
 description: "Sivas'ta bulunan Keşlik Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Keşlik Tepe","Sivas","Dağ","Doğa","Tarih","Turizm","Sivas Turistik Yerler","Keşlik Tepe Hakkında","Sivas Dağları"]

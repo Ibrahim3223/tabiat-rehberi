@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük gezi"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","hayvan gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hisar%20%C3%87aml%C4%B1%C4%9F%C4%B1","alt":"Hisar Çamlığı","caption":"Hisar Çamlığı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Hisar Çamlığı","caption":"Hisar Çamlığı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hisar%20%C3%87aml%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228161","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Hisar Çamlığı","İç Anadolu Bölgesi","milli park","doğa","çevre","gezi","turizm"]

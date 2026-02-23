@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Elik%20Tepesi","alt":"Elik Tepesi","caption":"Elik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Through_the_heart_of_Asia-_over_the_Pamir_to_India_%28IA_throughheartofas01bonv%29.pdf/page1-920px-Through_the_heart_of_Asia-_over_the_Pamir_to_India_%28IA_throughheartofas01bonv%29.pdf.jpg","alt":"Elik Tepesi","caption":"Elik Tepesi","credit":"Through the heart of Asia- over the Pamir to India (IA throughheartofas01bonv).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389924","tip":"genel"}]
 description: "Samsun'un Karadeniz Bölgesi'nde yer alan Elik Tepesi, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile ziyaretçilerini bekliyor."
 keywords: ["Samsun","Karadeniz Bölgesi","Elik Tepesi","doğa","flora","fauna","gezi","turizm","Samsun doğa alanları","Karadeniz Bölgesi turizm"]

@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğraf çekimi","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87a%C4%9F%C3%A7a%C4%9Fan%20%C5%9Eelalesi","alt":"Çağçağan Şelalesi","caption":"Çağçağan Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_ve_Etraf%C4%B1ndaki_Ya%C5%9Fl%C4%B1_A%C4%9Fa%C3%A7lar.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_ve_Etraf%C4%B1ndaki_Ya%C5%9Fl%C4%B1_A%C4%9Fa%C3%A7lar.jpg","alt":"Çağçağan Şelalesi","caption":"Çağçağan Şelalesi","credit":"Kurşunlu Şelalesi Tabiat Parkı ve Etrafındaki Yaşlı Ağaçlar.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87a%C4%9F%C3%A7a%C4%9Fan%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q124363438","tip":"genel"}]
 description: "Artvin'in güzide şelalesi, Çağçağan Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri"
 keywords: ["Çağçağan Şelalesi","Artvin","Karadeniz Bölgesi","şelale","doğa","gezi","turizm","yaban hayatı","ekosistem"]

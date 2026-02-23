@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","fotoğraf çekme","tarihî araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akp%C4%B1nar%20Kaya%20Mezar%C4%B1","alt":"Akpınar Kaya Mezarı","caption":"Akpınar Kaya Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Akpınar Kaya Mezarı","caption":"Akpınar Kaya Mezarı","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akp%C4%B1nar%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728182","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan tarihi bir mezar, Ege Bölgesi'nin önemli kültürel varlıklarından biri"
 keywords: ["Akpınar Kaya Mezarı","Şehzadeler","Manisa","Ege Bölgesi","tarih","kaya mezarı","kültürel varlık","gezi","turizm"]

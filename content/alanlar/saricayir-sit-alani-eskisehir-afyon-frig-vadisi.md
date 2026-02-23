@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "en az birkaç saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sar%C4%B1%C3%A7ay%C4%B1r%20Sit%20Alan%C4%B1%20ESKISEHIR%20AFYON%20FRIG%20VADISI","alt":"Sarıçayır Sit Alanı ESKISEHIR AFYON FRIG VADISI","caption":"Sarıçayır Sit Alanı ESKISEHIR AFYON FRIG VADISI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Sarıçayır Sit Alanı ESKISEHIR AFYON FRIG VADISI","caption":"Sarıçayır Sit Alanı ESKISEHIR AFYON FRIG VADISI","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1%C3%A7ay%C4%B1r%20Sit%20Alan%C4%B1%20ESKISEHIR%20AFYON%20FRIG%20VADISI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226109","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Sarıçayır Sit Alanı","Eskişehir","Afyon","Frig Vadisi","İç Anadolu Bölgesi","doğa","tarih"]

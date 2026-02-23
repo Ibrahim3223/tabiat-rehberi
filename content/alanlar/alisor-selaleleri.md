@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","şelale izleme","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ali%C5%9For%20%C5%9Eelaleleri","alt":"Alişor Şelaleleri","caption":"Alişor Şelaleleri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kursunlu_Waterfall_Nature_Park_in_city_of_Antalya.jpg/960px-Kursunlu_Waterfall_Nature_Park_in_city_of_Antalya.jpg","alt":"Alişor Şelaleleri","caption":"Alişor Şelaleleri","credit":"Kursunlu Waterfall Nature Park in city of Antalya.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ali%C5%9For%20%C5%9Eelaleleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97207090","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Alişor Şelaleleri, doğa severlerin ziyaret ettiği bir destinasyon"
 keywords: ["Alişor Şelaleleri","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","yerel","çevre"]

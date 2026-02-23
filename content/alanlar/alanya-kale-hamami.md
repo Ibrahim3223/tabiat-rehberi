@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda güneşlenmek","denizde yüzmek","tarihi kale kalıntılarını ziyaret etmek","doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alanya%20Kale%20Hamam%C4%B1","alt":"Alanya Kale Hamamı","caption":"Alanya Kale Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"Alanya Kale Hamamı","caption":"Alanya Kale Hamamı","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alanya%20Kale%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738754","tip":"genel"}]
 description: "Alanya'nın tarihi ve doğal güzelliklerini keşfedin. 140 hektarlık yeşil alan, yüzyılların geçmişi ve zengin fauna."
 keywords: ["Alanya","Kale Hamamı","tarih","doğa","yeşil alan","flora","fauna","gezi","seyahat","Antalya"]

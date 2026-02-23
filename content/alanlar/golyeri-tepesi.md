@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6lyeri%20Tepesi","alt":"Gölyeri Tepesi","caption":"Gölyeri Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Gölyeri Tepesi","caption":"Gölyeri Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lyeri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872500","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Gölyeri Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Gölyeri Tepesi","doğa","gezi","turizm","tepe","manzara","İç Anadolu Bölgesi","coğrafya"]

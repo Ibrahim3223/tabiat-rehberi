@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara izleme","Bitki ve hayvan gözlemleme","Yürüyüş"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Persok%C4%B1ran%20Tepesi","alt":"Persokıran Tepesi","caption":"Persokıran Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf/page1-800px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf.jpg","alt":"Persokıran Tepesi","caption":"Persokıran Tepesi","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00singiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Persok%C4%B1ran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391263","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Persokıran Tepesi, bölgeye özel coğrafi özellikleriyle dikkat çekiyor."
 keywords: ["Persokıran Tepesi","İç Anadolu Bölgesi","coğrafi özellikler","doğa","gezi","tepe","manzara","tarihçe"]

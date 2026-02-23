@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ayvaini%20Ma%C4%9Faras%C4%B1","alt":"Ayvaini Mağarası","caption":"Ayvaini Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Myotis_alcathoe_range.svg/960px-Myotis_alcathoe_range.svg.png","alt":"Ayvaini Mağarası","caption":"Ayvaini Mağarası","credit":"Myotis alcathoe range.svg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayvaini%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q2975410","tip":"genel"}]
 description: "Bursa Nilüfer'de yer alan Ayvaini Mağarası, 1200 hektarlık yeşil alan içinde gizli bir doğa harikasıdır."
 keywords: ["Ayvaini Mağarası","Bursa","Nilüfer","Mağara","Doğa","Turizm","Gezi","Bursa Turistik Yerler","Mağaralar"]

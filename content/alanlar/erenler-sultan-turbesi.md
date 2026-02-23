@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erenler%20Sultan%20T%C3%BCrbesi","alt":"Erenler Sultan Türbesi","caption":"Erenler Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Into_all_the_world_%28IA_intoallworl00well%29.pdf/page1-741px-Into_all_the_world_%28IA_intoallworl00well%29.pdf.jpg","alt":"Erenler Sultan Türbesi","caption":"Erenler Sultan Türbesi","credit":"Into all the world (IA intoallworl00well).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erenler%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582724","tip":"genel"}]
 description: "Tokat'ta bulunan tarihi ve doğal güzellikleri bir arada sunan Erenler Sultan Türbesi"
 keywords: ["Erenler Sultan Türbesi","Tokat","Karadeniz Bölgesi","tarihi mekan","doğal güzellik","tarihçe","coğrafya","flora","fauna"]

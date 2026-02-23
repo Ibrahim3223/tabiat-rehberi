@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["gezi","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Esir%C3%BCddin%20Ebheri%20K%C3%BCmbeti","alt":"Esirüddin Ebheri Kümbeti","caption":"Esirüddin Ebheri Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Psyche_%28IA_psyche2010camb%29.pdf/page1-960px-Psyche_%28IA_psyche2010camb%29.pdf.jpg","alt":"Esirüddin Ebheri Kümbeti","caption":"Esirüddin Ebheri Kümbeti","credit":"Psyche (IA psyche2010camb).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esir%C3%BCddin%20Ebheri%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582195","tip":"genel"}]
 description: "Afyonkarahisar'ın Çay ilçesinde bulunan tarihi kümbet, yüzyılların gizemini taşıyor"
 keywords: ["Esirüddin Ebheri Kümbeti","Çay","Afyonkarahisar","tarihi kümbet","Ege Bölgesi","gezi","tarih","kültür"]

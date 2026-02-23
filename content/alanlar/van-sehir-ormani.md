@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=VAN%20%C5%9EEH%C4%B0R%20ORMANI","alt":"VAN ŞEHİR ORMANI","caption":"VAN ŞEHİR ORMANI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"VAN ŞEHİR ORMANI","caption":"VAN ŞEHİR ORMANI","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/VAN%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228754","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin kalbinde yer alan Van Şehir Ormanı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet."
 keywords: ["Van Şehir Ormanı","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","doğa","turizm","gezi","orman"]

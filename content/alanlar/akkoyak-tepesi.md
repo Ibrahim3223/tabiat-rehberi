@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekme"," piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akkoyak%20Tepesi","alt":"Akkoyak Tepesi","caption":"Akkoyak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf/page1-727px-Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf.jpg","alt":"Akkoyak Tepesi","caption":"Akkoyak Tepesi","credit":"Medical Heritage Library (IA 57721120R.nlm.nih.gov).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akkoyak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581445","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Akkoyak Tepesi, Çorum'un doğal güzelliklerini sunan bir destinasyon"
 keywords: ["Akkoyak Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

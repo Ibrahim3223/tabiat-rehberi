@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografcılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0kiztepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Alucra","alt":"İkiztepe Tümülüsü, Alucra","caption":"İkiztepe Tümülüsü, Alucra"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"İkiztepe Tümülüsü, Alucra","caption":"İkiztepe Tümülüsü, Alucra","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0kiztepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Alucra","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728403","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin tarihi ve doğal güzellikleri"
 keywords: ["İkiztepe Tümülüsü","Alucra","Giresun","Karadeniz Bölgesi","tarih","doğa","gezi","turizm"]

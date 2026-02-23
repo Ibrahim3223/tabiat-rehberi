@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kamp","fotoğrafçılık","bitki"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C4%9F%C4%B1l%C4%B1%20Ardic","alt":"Ağılı Ardic","caption":"Ağılı Ardic"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Ağılı Ardic","caption":"Ağılı Ardic","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9F%C4%B1l%C4%B1%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227355","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti Ağılı Ardic, doğa severlerin ziyaret etmesi gereken bir destinasyon"
 keywords: ["Ağılı Ardic","İç Anadolu Bölgesi","doğa","gezi","turizm","milli park","çevre","ekoloji"]

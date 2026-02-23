@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C5%9F%C4%B1k%C4%B1ran%20Tepe","alt":"Aşıkıran Tepe","caption":"Aşıkıran Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor01azhd%29.pdf/page1-691px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor01azhd%29.pdf.jpg","alt":"Aşıkıran Tepe","caption":"Aşıkıran Tepe","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor01azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9F%C4%B1k%C4%B1ran%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572747","tip":"genel"}]
 description: "Van'da bulunan Aşıkıran Tepe, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un yarısı kadar bir alanı kaplıyor."
 keywords: ["Aşıkıran Tepe","Van","Dağ","Doğa","Yeşil Alan","İstanbul","Türkiye","Seyahat","Gezi"]

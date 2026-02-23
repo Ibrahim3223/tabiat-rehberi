@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Susuz%20Tepesi","alt":"Susuz Tepesi","caption":"Susuz Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Susuz Tepesi","caption":"Susuz Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Susuz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549420","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli köşelerinden biri olan Susuz Tepesi, Batman'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Susuz Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

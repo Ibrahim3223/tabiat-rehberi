@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Duzlercami%20K%C4%B1z%C4%B1l%C3%A7am%201","alt":"Antalya-Duzlercami Kızılçam 1","caption":"Antalya-Duzlercami Kızılçam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Solitariness_-_panoramio.jpg/960px-Solitariness_-_panoramio.jpg","alt":"Antalya-Duzlercami Kızılçam 1","caption":"Antalya-Duzlercami Kızılçam 1","credit":"Solitariness - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Duzlercami%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227297","tip":"genel"}]
 description: "Antalya'da yer alan doğal güzellik"
 keywords: ["Antalya","doğa","kızılçam","milli park","gezi","yaban hayatı","ekosistem"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bak%C4%B1rda%C4%9F%C4%B1%20Tepe","alt":"Bakırdağı Tepe","caption":"Bakırdağı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Bakırdağı Tepe","caption":"Bakırdağı Tepe","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bak%C4%B1rda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31530891","tip":"genel"}]
 description: "Türkiye'de bulunan Bakırdağı Tepe, doğa severlerin keşfetmek için chờlu bir destinasyon"
 keywords: ["Bakırdağı Tepe","Dağ","Türkiye","Doğa","Seyahat","Gezi","Türkiye'nin dağları","Bakırdağı","Tepe"]

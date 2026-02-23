@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCm%C3%BC%C5%9Fki%20Tepesi","alt":"Gümüşki Tepesi","caption":"Gümüşki Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Trabzon_Kazang%C4%B1ran_Yaylas%C4%B1_Yolu.jpg/960px-Trabzon_Kazang%C4%B1ran_Yaylas%C4%B1_Yolu.jpg","alt":"Gümüşki Tepesi","caption":"Gümüşki Tepesi","credit":"Trabzon Kazangıran Yaylası Yolu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fki%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873170","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerinden biri olan Gümüşki Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Gümüşki Tepesi","Trabzon","Karadeniz Bölgesi","doğal güzellik","yeşil alan","tepeler"]

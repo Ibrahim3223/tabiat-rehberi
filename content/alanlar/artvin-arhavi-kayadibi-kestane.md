@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artvin-Arhavi-Kayadibi-Kestane","alt":"Artvin-Arhavi-Kayadibi-Kestane","caption":"Artvin-Arhavi-Kayadibi-Kestane"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ye%C5%9Fil_Deniz.jpg/960px-Ye%C5%9Fil_Deniz.jpg","alt":"Artvin-Arhavi-Kayadibi-Kestane","caption":"Artvin-Arhavi-Kayadibi-Kestane","credit":"Yeşil Deniz.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Arhavi-Kayadibi-Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228551","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Artvin-Arhavi-Kayadibi-Kestane milli parkı"
 keywords: ["Artvin","Arhavi","Kayadibi","Kestane","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

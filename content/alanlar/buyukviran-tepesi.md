@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCkviran%20Tepesi","alt":"Büyükviran Tepesi","caption":"Büyükviran Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Büyükviran Tepesi","caption":"Büyükviran Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkviran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731449","tip":"genel"}]
 description: "Diyarbakır'da bulunan Büyükviran Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biridir."
 keywords: ["Büyükviran Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","coğrafi nokta","tepe","doğa"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","arkeoloji gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antandros%20Roma%20Villas%C4%B1","alt":"Antandros Roma Villası","caption":"Antandros Roma Villası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Antandros Roma Villası","caption":"Antandros Roma Villası","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antandros%20Roma%20Villas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738782","tip":"genel"}]
 description: "Edremit'te Roma villası, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Antandros","Roma Villası","Edremit","Balıkesir","Marmara Bölgesi","tarih","arkeoloji","doğa","gezi"]

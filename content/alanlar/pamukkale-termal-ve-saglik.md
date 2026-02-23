@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","termal kaynak kullanımı","bitki"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=PAMUKKALE%20TERMAL%20VE%20SA%C4%9ELIK","alt":"PAMUKKALE TERMAL VE SAĞLIK","caption":"PAMUKKALE TERMAL VE SAĞLIK"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"PAMUKKALE TERMAL VE SAĞLIK","caption":"PAMUKKALE TERMAL VE SAĞLIK","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/PAMUKKALE%20TERMAL%20VE%20SA%C4%9ELIK","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228702","tip":"genel"}]
 description: "Doğal güzellikler ve termal kaynaklar bakımından zengin bir milli park"
 keywords: ["termal kaynaklar","doğal güzellikler","sağlık","milli park","Pamukkale","İç Anadolu Bölgesi","turizm","gezi","doğa"]

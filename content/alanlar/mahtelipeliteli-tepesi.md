@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","fotografcılık","yöresel yemekler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mahtelipeliteli%20Tepesi","alt":"Mahtelipeliteli Tepesi","caption":"Mahtelipeliteli Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Medical_Heritage_Library_%28IA_b22027300%29.pdf/page1-733px-Medical_Heritage_Library_%28IA_b22027300%29.pdf.jpg","alt":"Mahtelipeliteli Tepesi","caption":"Mahtelipeliteli Tepesi","credit":"Medical Heritage Library (IA b22027300).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahtelipeliteli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551378","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Mahtelipeliteli Tepesi, Mardin'in doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Mardin","Mahtelipeliteli Tepesi","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","Mardin gezilecek yerler","doğal güzellik"]

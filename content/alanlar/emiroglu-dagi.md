@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Emiro%C4%9Flu%20Da%C4%9F%C4%B1","alt":"Emiroğlu Dağı","caption":"Emiroğlu Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf/page1-616px-Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf.jpg","alt":"Emiroğlu Dağı","caption":"Emiroğlu Dağı","credit":"Armenia and its sorrows (IA armeniaitssorrow00wint).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emiro%C4%9Flu%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568238","tip":"genel"}]
 description: "Ardahan'da yer alan Emiroğlu Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Emiroğlu Dağı","Ardahan","Dağ","Trekking","Doğa","Turizm","Ardahan Turistik Yerler","Emiroğlu Dağı Trekking","Doğal Güzellikler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","tarih gezisi","yerel yemekleri tadımı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rk%20%C3%96r%C3%BCkl%C3%BC%20Bac%C4%B1%20T%C3%BCrbesi","alt":"Kırk Örüklü Bacı Türbesi","caption":"Kırk Örüklü Bacı Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Kırk Örüklü Bacı Türbesi","caption":"Kırk Örüklü Bacı Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rk%20%C3%96r%C3%BCkl%C3%BC%20Bac%C4%B1%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391655","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde, Erzincan ve Erzurum vilayetlerinin sınırında bulunan tarihi ve doğal güzellik"
 keywords: ["Kırk Örüklü Bacı Türbesi","İç Anadolu Bölgesi","Erzincan","Erzurum","tarih","doğa","türk kültürü","gezi","ziyaret"]

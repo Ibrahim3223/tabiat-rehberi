@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki ve hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Inebolu%20Kayin","alt":"Kastamonu-Inebolu Kayin","caption":"Kastamonu-Inebolu Kayin"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Kastamonu-Inebolu Kayin","caption":"Kastamonu-Inebolu Kayin","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Inebolu%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227262","tip":"genel"}]
 description: "Kastamonu'nun doğal güzellikleri arasında yer alan milli park"
 keywords: ["Kastamonu","Inebolu Kayin","milli park","doğal güzellik","Karadeniz Bölgesi","turizm","gezi","doğa","çevre"]

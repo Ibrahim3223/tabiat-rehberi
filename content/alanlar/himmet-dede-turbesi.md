@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotograf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Himmet%20Dede%20T%C3%BCrbesi","alt":"Himmet Dede Türbesi","caption":"Himmet Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Himmet Dede Türbesi","caption":"Himmet Dede Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Himmet%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390781","tip":"genel"}]
 description: "Cumayeri, Düzce'de yer alan tarihi Himmet Dede Türbesi ve plajı"
 keywords: ["Himmet Dede Türbesi","Cumayeri","Düzce","Karadeniz Bölgesi","tarihi mekanlar","plajlar","turistik yerler"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Balikesir-Korucu%20Kestane","alt":"Balikesir-Korucu Kestane","caption":"Balikesir-Korucu Kestane"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Balikesir-Korucu Kestane","caption":"Balikesir-Korucu Kestane","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Korucu%20Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228585","tip":"genel"}]
 description: "Doğal güzellikleri keşfedin, 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna"
 keywords: ["Balikesir","Korucu Kestane","milli park","doğal güzellik","yeşil alan","bitki türleri","fauna","iç Anadolu Bölgesi"]

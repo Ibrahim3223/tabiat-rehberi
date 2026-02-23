@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ilek%20Tepesi","alt":"Çilek Tepesi","caption":"Çilek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Çilek Tepesi","caption":"Çilek Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ilek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829123","tip":"genel"}]
 description: "Çankırı'nın doğal güzelliklerini keşfedin. Çilek Tepesi, İç Anadolu Bölgesi'nin en önemli noktalarından biri."
 keywords: ["Çilek Tepesi","Çankırı","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]

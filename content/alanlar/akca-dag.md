@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ak%C3%A7a%20Da%C4%9F","alt":"Akça Dağ","caption":"Akça Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Akça Dağ","caption":"Akça Dağ","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7a%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35723705","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin, 1200 hektarlık yeşil cennet"
 keywords: ["Akça Dağ","Gaziantep","Doğa","Turizm","Dağ","Yeşil Alan","Gaziantep Turistik Yerler","Doğa Sporları","Trekking"]

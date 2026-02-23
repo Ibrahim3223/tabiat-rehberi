@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Kanyon gezi","Doğa yürüyüşü","Fotoğrafçılık","Çadır kurma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karabuk-Sircali%20Kanyonu","alt":"Karabuk-Sircali Kanyonu","caption":"Karabuk-Sircali Kanyonu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Karabuk-Sircali Kanyonu","caption":"Karabuk-Sircali Kanyonu","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karabuk-Sircali%20Kanyonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227399","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Karabuk-Sircali Kanyonu, natuurun güzelliğini gözler önüne seren bir doğal alan."
 keywords: ["Karabuk-Sircali Kanyonu","İç Anadolu Bölgesi","doğal alan","kanyon","milli park","gezi","doğa","turizm"]

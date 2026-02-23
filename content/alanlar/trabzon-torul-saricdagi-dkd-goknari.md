@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Bir gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotoğrafçılık","çevre gezisi","ekoloji eğitimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trabzon%20Torul%20saricdagi-DKD%20Goknari","alt":"Trabzon Torul saricdagi-DKD Goknari","caption":"Trabzon Torul saricdagi-DKD Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Trabzon Torul saricdagi-DKD Goknari","caption":"Trabzon Torul saricdagi-DKD Goknari","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon%20Torul%20saricdagi-DKD%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228064","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerinin keşfedileceği milli park"
 keywords: ["Trabzon","milli park","doğa","gezi","yaban hayatı","çevre","ekoloji","turizm","gezilecek yerler"]

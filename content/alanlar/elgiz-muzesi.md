@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Sanat eserleri sergileri","Eğitim programları","Atölye çalışmaları","Konferanslar"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Elgiz%20M%C3%BCzesi","alt":"Elgiz Müzesi","caption":"Elgiz Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Goztepe_Park_and_beats_flowers.jpg/960px-Goztepe_Park_and_beats_flowers.jpg","alt":"Elgiz Müzesi","caption":"Elgiz Müzesi","credit":"Goztepe Park and beats flowers.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elgiz%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q2112323","tip":"genel"}]
 description: "İstanbul'un modern sanat merkezlerinden biri olan Elgiz Müzesi, çağdaş sanatın önemli noktalarından biri."
 keywords: ["Elgiz Müzesi","çağdaş sanat","modern sanat","İstanbul","Marmara Bölgesi","sanat merkezi","kültür","eğitim"]

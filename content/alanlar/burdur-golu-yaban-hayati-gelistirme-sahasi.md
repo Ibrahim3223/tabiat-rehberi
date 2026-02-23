@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Burdur%20G%C3%B6l%C3%BC%20Yaban%20Hayat%C4%B1%20Geli%C5%9Ftirme%20Sahas%C4%B1","alt":"Burdur Gölü Yaban Hayatı Geliştirme Sahası","caption":"Burdur Gölü Yaban Hayatı Geliştirme Sahası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Burdur Gölü Yaban Hayatı Geliştirme Sahası","caption":"Burdur Gölü Yaban Hayatı Geliştirme Sahası","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur%20G%C3%B6l%C3%BC%20Yaban%20Hayat%C4%B1%20Geli%C5%9Ftirme%20Sahas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228817","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin önemli doğal alanlarından biri, yaban hayatı koruma ve geliştirme çalışmaları"
 keywords: ["Burdur Gölü","yaban hayatı","doğal alan","koruma","geliştirme","İç Anadolu Bölgesi","turizm","doğa","çevre"]

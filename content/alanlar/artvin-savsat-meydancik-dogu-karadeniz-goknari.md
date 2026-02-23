@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","doğau","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artvin-Savsat-Meydancik%20Dogu%20Karadeniz%20Goknari","alt":"Artvin-Savsat-Meydancik Dogu Karadeniz Goknari","caption":"Artvin-Savsat-Meydancik Dogu Karadeniz Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wle-jury-report-2024-lores.pdf/page1-960px-Wle-jury-report-2024-lores.pdf.jpg","alt":"Artvin-Savsat-Meydancik Dogu Karadeniz Goknari","caption":"Artvin-Savsat-Meydancik Dogu Karadeniz Goknari","credit":"Wle-jury-report-2024-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Savsat-Meydancik%20Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227585","tip":"genel"}]
 description: "Doğu Karadeniz'in gizli cenneti, Artvin ili sınırları içinde yer alan milli park"
 keywords: ["Artvin","Savsat","Meydancik","Dogu Karadeniz","Goknari","milli park","Karadeniz Bölgesi","doğa","gezi"]

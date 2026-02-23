@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kale%20Bolu%20F%C4%B1nd%C4%B1%C4%9F%C4%B1","alt":"Kale Bolu Fındığı","caption":"Kale Bolu Fındığı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Kale Bolu Fındığı","caption":"Kale Bolu Fındığı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kale%20Bolu%20F%C4%B1nd%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227058","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kale Bolu Fındığı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
 keywords: ["Kale Bolu Fındığı","İç Anadolu Bölgesi","doğa harikası","yeşil alan","milli park","flora","fauna","turizm"]

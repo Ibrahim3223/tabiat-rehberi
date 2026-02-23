@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","tepe tırmanışı","manzara izleme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCm%C3%BC%C5%9Fmaden%20Tepesi","alt":"Gümüşmaden Tepesi","caption":"Gümüşmaden Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Myus_%28Myos%29_Ancient_City_-_Flickr_-_faktor1komma5.jpg/960px-Myus_%28Myos%29_Ancient_City_-_Flickr_-_faktor1komma5.jpg","alt":"Gümüşmaden Tepesi","caption":"Gümüşmaden Tepesi","credit":"Myus (Myos) Ancient City - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fmaden%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139264","tip":"genel"}]
 description: "Aydın'da yer alan Gümüşmaden Tepesi, Ege Bölgesi'nin önemli doğal güzelliklerinden biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Gümüşmaden Tepesi","Aydın","Ege Bölgesi","doğal güzellik","tepe","gezi","doğa","çevre"]

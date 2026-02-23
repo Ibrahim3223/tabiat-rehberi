@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Bitki gözlemi","Hayvan gözlemi","Manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaveli%20Tepesi","alt":"Karaveli Tepesi","caption":"Karaveli Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_scenery_of_Greece_and_its_islands%2C_illustrated_by_fifty_views%2C_sketched_from_nature%2C_executed_on_steel%2C_and_described_en_route%2C_with_a_map_of_the_country_%28IA_cu31924028239691%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Karaveli Tepesi","caption":"Karaveli Tepesi","credit":"The scenery of Greece and its islands, illustrated by fifty views, sketched from nature, executed on steel, and described en route, with a map of the country (IA cu31924028239691).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaveli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517352","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Karaveli Tepesi, Van'ın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon"
 keywords: ["Karaveli Tepesi","Van","Doğu Anadolu Bölgesi","Doğal güzellikler","Tepeler","Gezi","Tarihçe","Coğrafya","Flora","Fauna"]

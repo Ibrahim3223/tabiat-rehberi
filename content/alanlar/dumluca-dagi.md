@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dumluca%20Da%C4%9F%C4%B1","alt":"Dumluca Dağı","caption":"Dumluca Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf/page1-804px-David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf.jpg","alt":"Dumluca Dağı","caption":"Dumluca Dağı","credit":"David George Hogarth. Accidents of an antiquary's life. 1910.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dumluca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31525099","tip":"genel"}]
 description: "Sivas'ta bulunan Dumluca Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Dumluca Dağı","Sivas","Dağ","Doğa","Yeşil Alan","Turizm","Sivas Turistik Yerler","Doğal Güzellikler","Gezi Rehberi"]

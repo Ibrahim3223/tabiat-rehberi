@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Stadyum turu","Yeşil alanlarda dinlenmek","Spor mağazalarını ziyaret etmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Galatasaray%20Stadyum%20M%C3%BCzesi","alt":"Galatasaray Stadyum Müzesi","caption":"Galatasaray Stadyum Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece_at_Golden_Hour.jpg/960px-Lake_K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece_at_Golden_Hour.jpg","alt":"Galatasaray Stadyum Müzesi","caption":"Galatasaray Stadyum Müzesi","credit":"Lake Küçükçekmece at Golden Hour.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Galatasaray%20Stadyum%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949324","tip":"genel"}]
 description: "İstanbul'un merkezinde, Galatasaray tarihinin önemli bir parçası"
 keywords: ["Galatasaray","Stadyum Müzesi","İstanbul","Marmara Bölgesi","Spor Tarihi","Müze","Gezi"]

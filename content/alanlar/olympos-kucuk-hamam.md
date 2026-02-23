@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Tarih ve kültür turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Olympos%20K%C3%BC%C3%A7%C3%BCk%20Hamam","alt":"Olympos Küçük Hamam","caption":"Olympos Küçük Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Olympos Küçük Hamam","caption":"Olympos Küçük Hamam","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Olympos%20K%C3%BC%C3%A7%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739230","tip":"genel"}]
 description: "Antalya'nın Kumluca ilçesinde bulunan Olympos Küçük Hamam, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin fauna ile çeşitlilik gösteren bir doğa harikasıdır."
 keywords: ["Olympos","Küçük Hamam","Antalya","Kumluca","Akdeniz Bölgesi","doğa","flora","fauna"]

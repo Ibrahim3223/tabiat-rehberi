@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Keles-Muratdere-Uludag%20Goknari","alt":"Bursa-Keles-Muratdere-Uludag Goknari","caption":"Bursa-Keles-Muratdere-Uludag Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Bursa-Keles-Muratdere-Uludag Goknari","caption":"Bursa-Keles-Muratdere-Uludag Goknari","credit":"IMG-20210119-WA0093.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Keles-Muratdere-Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228590","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin. Bursa-Keles-Muratdere-Uludag Goknari milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Marmara Bölgesi","Bursa","milli park","doğal güzellik","yeşil alan","Uludağ"]

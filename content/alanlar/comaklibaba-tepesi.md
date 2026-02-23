@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarihi eserleri ziyaret etme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87omakl%C4%B1baba%20Tepesi","alt":"Çomaklıbaba Tepesi","caption":"Çomaklıbaba Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor01azhd%29.pdf/page1-691px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor01azhd%29.pdf.jpg","alt":"Çomaklıbaba Tepesi","caption":"Çomaklıbaba Tepesi","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor01azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87omakl%C4%B1baba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819669","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Van ilinde yer alan Çomaklıbaba Tepesi, tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Çomaklıbaba Tepesi","Van","Doğu Anadolu Bölgesi","tarihi geçmişi","doğal güzellikler","tepe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kirazl%C4%B1%20Da%C4%9F","alt":"Kirazlı Dağ","caption":"Kirazlı Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Kirazlı Dağ","caption":"Kirazlı Dağ","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirazl%C4%B1%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515013","tip":"genel"}]
 description: "Kayseri'nin görkemli dağlarından biri olan Kirazlı Dağ, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi."
 keywords: ["Kirazlı Dağ","Kayseri","Dağ","Doğa","Turizm","Gezi","Trekking","Kayseri Turistik Yerler","Dağcılık"]

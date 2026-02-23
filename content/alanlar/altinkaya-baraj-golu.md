@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alt%C4%B1nkaya%20Baraj%20G%C3%B6l%C3%BC","alt":"Altınkaya Baraj Gölü","caption":"Altınkaya Baraj Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Militarization_of_Energy_Security_-_Turkey_as_a_case_study_%28IA_militarizationof109455347%29.pdf/page1-960px-Militarization_of_Energy_Security_-_Turkey_as_a_case_study_%28IA_militarizationof109455347%29.pdf.jpg","alt":"Altınkaya Baraj Gölü","caption":"Altınkaya Baraj Gölü","credit":"Militarization of Energy Security - Turkey as a case study (IA militarizationof109455347).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1nkaya%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q101552467","tip":"genel"}]
 description: "Samsun'da bulunan Altınkaya Baraj Gölü, doğal güzellikleri ve su sporları olanakları ile dikkat çekiyor."
 keywords: ["Altınkaya Baraj Gölü","Samsun","göl","baraj","doğa","su sporları","turizm","Samsun gezilecek yerler","göl turizmi"]

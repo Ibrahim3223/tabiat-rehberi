@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe öğrenmek","kültürü keşfetmek","doğayı gezmek","fotografi çekmek","mimari keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Melik%20Gazi%20K%C3%BCmbeti%2C%20K%C4%B1r%C5%9Fehir","alt":"Melik Gazi Kümbeti, Kırşehir","caption":"Melik Gazi Kümbeti, Kırşehir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Thermal_Hotel_-_panoramio.jpg/960px-The_Thermal_Hotel_-_panoramio.jpg","alt":"Melik Gazi Kümbeti, Kırşehir","caption":"Melik Gazi Kümbeti, Kırşehir","credit":"The Thermal Hotel - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melik%20Gazi%20K%C3%BCmbeti%2C%20K%C4%B1r%C5%9Fehir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582398","tip":"genel"}]
 description: "Kırşehir'in tarihi ve kültürel zenginliklerini keşfedin. Melik Gazi Kümbeti, şehrin önemli tarihi eserlerinden biri."
 keywords: ["Melik Gazi Kümbeti","Kırşehir","tarih","kültür","tarihi eser","gezi","türbe","mimari","sanat"]

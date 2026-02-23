@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Mut-Alahan%20Kizilcam2","alt":"Mersin-Mut-Alahan Kizilcam2","caption":"Mersin-Mut-Alahan Kizilcam2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Kad%C4%B1nc%C4%B1k_Valley_14.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_14.jpg","alt":"Mersin-Mut-Alahan Kizilcam2","caption":"Mersin-Mut-Alahan Kizilcam2","credit":"Kadıncık Valley 14.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut-Alahan%20Kizilcam2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228535","tip":"genel"}]
 description: "Mersin'de yer alan milli park, 140 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Mersin","milli park","yeşil alan","doğa","gezi","turizm","Mersin-Mut-Alahan Kizilcam2","Akdeniz Bölgesi"]

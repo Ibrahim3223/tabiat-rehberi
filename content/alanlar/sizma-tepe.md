@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1zma%20Tepe","alt":"Sızma Tepe","caption":"Sızma Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg/960px-Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg","alt":"Sızma Tepe","caption":"Sızma Tepe","credit":"Konya Akyokuş Nature Park Konya Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1zma%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390397","tip":"genel"}]
 description: "Konya'nın gizli cenneti Sızma Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Sızma Tepe","Konya","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm"]

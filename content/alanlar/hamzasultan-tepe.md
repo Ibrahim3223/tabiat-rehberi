@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamzasultan%20Tepe","alt":"Hamzasultan Tepe","caption":"Hamzasultan Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Hamzasultan Tepe","caption":"Hamzasultan Tepe","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamzasultan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31521264","tip":"genel"}]
 description: "Kayseri'nin önemli dağlarından biri olan Hamzasultan Tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Hamzasultan Tepe","Kayseri","Dağ","Doğa","Turizm","Gezi","Kayseri Gezilecek Yerler","Dağcılık","Kayseri Turu"]

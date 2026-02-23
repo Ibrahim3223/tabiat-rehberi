@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kumru%20Tepe","alt":"Kumru Tepe","caption":"Kumru Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rocky_Mountain_adventures_%28IA_rockymountainadv00shel%29.pdf/page1-618px-Rocky_Mountain_adventures_%28IA_rockymountainadv00shel%29.pdf.jpg","alt":"Kumru Tepe","caption":"Kumru Tepe","credit":"Rocky Mountain adventures (IA rockymountainadv00shel).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumru%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31512178","tip":"genel"}]
 description: "Van'da bulunan Kumru Tepe, doğal güzellikleri ve tarihi önemi ile dikkat çeker. 1400 metre yüksekliği ile bölgenin önemli dağlarından biridir."
 keywords: ["Kumru Tepe","Van","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Van Gezilecek Yerler"]

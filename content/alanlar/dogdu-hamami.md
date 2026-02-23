@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarihî eserleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Do%C4%9Fdu%20Hamam%C4%B1","alt":"Doğdu Hamamı","caption":"Doğdu Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Doğdu Hamamı","caption":"Doğdu Hamamı","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fdu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739110","tip":"genel"}]
 description: "Çerkeş'in gizli cenneti, doğa ve tarihın birleştiği point"
 keywords: ["Doğdu Hamamı","Çerkeş","Çankırı","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm"]

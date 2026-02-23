@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87eneda%C4%9F%C4%B1%20%C5%9Eelalesi","alt":"Çenedağı Şelalesi","caption":"Çenedağı Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ball%C4%B1kayalar_Tabiat_Park%C4%B1nda_bulunan_bir_%C5%9Felale.jpg/960px-Ball%C4%B1kayalar_Tabiat_Park%C4%B1nda_bulunan_bir_%C5%9Felale.jpg","alt":"Çenedağı Şelalesi","caption":"Çenedağı Şelalesi","credit":"Ballıkayalar Tabiat Parkında bulunan bir şelale.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87eneda%C4%9F%C4%B1%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Kocaeli'nin saklı güzelliği, Çenedağı Şelalesi"
 keywords: ["Kocaeli","Marmara Bölgesi","doğa","şelale","gezi","turizm","çevre","ekoloji"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1%C3%A2kif%20Adas%C4%B1","alt":"Hacıâkif Adası","caption":"Hacıâkif Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Library_of_Congress_Classification_Subclasses_DS-DX.pdf/page1-960px-Library_of_Congress_Classification_Subclasses_DS-DX.pdf.jpg","alt":"Hacıâkif Adası","caption":"Hacıâkif Adası","credit":"Library of Congress Classification Subclasses DS-DX.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%C3%A2kif%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49640105","tip":"genel"}]
 description: "Konya'da bulunan Hacıâkif Adası, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Hacıâkif Adası","Konya","ada","doğa","tarih","gezi","seyahat","Konya gezilecek yerler","turizm"]

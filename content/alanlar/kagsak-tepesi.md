@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ka%C4%9F%C5%9Fak%20Tepesi","alt":"Kağşak Tepesi","caption":"Kağşak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Kağşak Tepesi","caption":"Kağşak Tepesi","credit":"Lake Meke (217872347).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C4%9F%C5%9Fak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390501","tip":"genel"}]
 description: "Konya'nın doğal güzellikleri arasında yer alan Kağşak Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini bekliyor."
 keywords: ["Konya","İç Anadolu Bölgesi","Kağşak Tepesi","doğal güzellik","tepe","gezi","turizm","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Naile%20Sultan%20Korusu","alt":"Naile Sultan Korusu","caption":"Naile Sultan Korusu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vernet_-_31_juillet_1830_-_Louis-Philippe_quitte_le_Palais-Royal.jpg/960px-Vernet_-_31_juillet_1830_-_Louis-Philippe_quitte_le_Palais-Royal.jpg","alt":"Naile Sultan Korusu","caption":"Naile Sultan Korusu","credit":"Vernet - 31 juillet 1830 - Louis-Philippe quitte le Palais-Royal.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Naile%20Sultan%20Korusu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6060754","tip":"genel"}]
 description: "İstanbul'un kalbinde, Beşiktaş'ta yer alan Naile Sultan Korusu, Marmara Bölgesi'nin önemli doğal alanlarından biri"
 keywords: ["Naile Sultan Korusu","Beşiktaş","İstanbul","Marmara Bölgesi","Milli Park","Doğa","Turizm"]

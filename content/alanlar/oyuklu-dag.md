@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Oyuklu%20Da%C4%9F","alt":"Oyuklu Dağ","caption":"Oyuklu Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Oyuklu Dağ","caption":"Oyuklu Dağ","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Oyuklu%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509158","tip":"genel"}]
 description: "Iğdır'da yer alan Oyuklu Dağ, Türkiye'nin doğu sınırındaki önemli coğrafi oluşumlardan biri"
 keywords: ["Oyuklu Dağ","Iğdır","Dağ","Türkiye Coğrafyası","Doğu Anadolu","Turizm","Doğal Alanlar","Gezi Rehberi","Coğrafi Oluşumlar"]

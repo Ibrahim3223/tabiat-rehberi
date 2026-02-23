@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","gözlem","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koturda%C4%9F%C4%B1%20Tepesi","alt":"Koturdağı Tepesi","caption":"Koturdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf/page1-820px-Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf.jpg","alt":"Koturdağı Tepesi","caption":"Koturdağı Tepesi","credit":"Travels In The Trans-Caucasian Provinces Of Russia (IA TravelsInTheTransCaucasianProvincesOfRussia).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koturda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387041","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli güzelliği, Kars'ta bulunan Koturdağı Tepesi"
 keywords: ["Koturdağı Tepesi","Kars","Doğu Anadolu Bölgesi","tepe","doğa","gezi","seyahat"]

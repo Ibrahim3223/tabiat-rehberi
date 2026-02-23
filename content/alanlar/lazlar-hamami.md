@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Yeşil alanda piknik","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Lazlar%20Hamam%C4%B1","alt":"Lazlar Hamamı","caption":"Lazlar Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Lazlar Hamamı","caption":"Lazlar Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lazlar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118947930","tip":"genel"}]
 description: "Marmara Bölgesi'nde, Karesi'nin güzide bir plajı olan Lazlar Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar."
 keywords: ["Lazlar Hamamı","Marmara Bölgesi","Karesi","plaj","yeşil alan","doğa","gezi","turizm","sahil"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe öğrenmek","Doğa yürüyüşü","Fotoğraf çekmek","Marmaris'i keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yakup%20Baba%20T%C3%BCrbesi","alt":"Yakup Baba Türbesi","caption":"Yakup Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Yakup Baba Türbesi","caption":"Yakup Baba Türbesi","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yakup%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390927","tip":"genel"}]
 description: "Marmaris'te tarihi ve doğal güzelliklerin birleştiği bir nokta olan Yakup Baba Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Marmaris","Muğla","Ege Bölgesi","tarihi mekanlar","doğal güzellikler","gezi noktaları","tarihçe","coğrafya","flora","fauna"]

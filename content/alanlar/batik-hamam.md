@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["doğa yürüyüşleri","deniz etkinlikleri","hayvan izleme","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bat%C4%B1k%20Hamam","alt":"Batık Hamam","caption":"Batık Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Batık Hamam","caption":"Batık Hamam","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bat%C4%B1k%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739030","tip":"genel"}]
 description: "Dalaman'da bulunan Batık Hamam, Muğla'nın gizli cennetlerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Dalaman","Muğla","Ege Bölgesi","plaj","doğa","gezi","tarihçe","coğrafya"]

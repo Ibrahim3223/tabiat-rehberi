@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ara%C3%A7eto%20Tepesi","alt":"Çaraçeto Tepesi","caption":"Çaraçeto Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Çaraçeto Tepesi","caption":"Çaraçeto Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ara%C3%A7eto%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823971","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal alanlarından biri olan Çaraçeto Tepesi, Batman'ın güzide noktalarından biridir."
 keywords: ["Çaraçeto Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","gezi","tepe","manzara","turizm"]

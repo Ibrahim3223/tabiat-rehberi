@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abdurrahim%20T%C4%B1rsi%20T%C3%BCrbesi","alt":"Abdurrahim Tırsi Türbesi","caption":"Abdurrahim Tırsi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Curiosities_of_natural_history_%28IA_curiositiesofnat03buck%29.pdf/page1-604px-Curiosities_of_natural_history_%28IA_curiositiesofnat03buck%29.pdf.jpg","alt":"Abdurrahim Tırsi Türbesi","caption":"Abdurrahim Tırsi Türbesi","credit":"Curiosities of natural history (IA curiositiesofnat03buck).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdurrahim%20T%C4%B1rsi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390716","tip":"genel"}]
 description: "Mudurnu'nun tarihi ve doğal güzellikleriyle dolu bir bölgesi"
 keywords: ["Abdurrahim Tırsi Türbesi","Mudurnu","Bolu","Karadeniz Bölgesi","tarih","doğa","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarihî kalıntıları gezme","kuş gözlemciliği","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6z%C3%BCda%C4%9F%C4%B1%20Tepesi","alt":"Gözüdağı Tepesi","caption":"Gözüdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf/page1-800px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf.jpg","alt":"Gözüdağı Tepesi","caption":"Gözüdağı Tepesi","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00singiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6z%C3%BCda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138758","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Gözüdağı Tepesi, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle bekliyor."
 keywords: ["Gözüdağı Tepesi","İç Anadolu Bölgesi","doğal güzellikler","tarihi zenginlikler","coğrafi zenginlikler","gezi","turizm","doğa"]

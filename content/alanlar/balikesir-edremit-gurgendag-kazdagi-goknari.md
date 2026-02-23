@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Balikesir-Edremit-Gurgendag%20Kazdagi%20Goknari","alt":"Balikesir-Edremit-Gurgendag Kazdagi Goknari","caption":"Balikesir-Edremit-Gurgendag Kazdagi Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Balikesir-Edremit-Gurgendag Kazdagi Goknari","caption":"Balikesir-Edremit-Gurgendag Kazdagi Goknari","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Edremit-Gurgendag%20Kazdagi%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227283","tip":"genel"}]
 description: "Balikesir-Edremit-Gurgendag Kazdagi Goknari milli parkı, Türkiye'nin en önemli doğal alanlarından biri"
 keywords: ["Balikesir","Edremit","Gurgendag","Kazdagi","Goknari","milli park","doğa","turizm","gezi","yaban hayatı"]

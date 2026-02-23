@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yumruta%C5%9F%20Da%C4%9F%C4%B1","alt":"Yumrutaş Dağı","caption":"Yumrutaş Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Yumrutaş Dağı","caption":"Yumrutaş Dağı","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumruta%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31501983","tip":"genel"}]
 description: "Diyarbakır'da yer alan Yumrutaş Dağı, bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Yumrutaş Dağı","Diyarbakır","Dağ","Doğa","Turizm","Gezi","Seyahat","Diyarbakır gezilecek yerler","Yumrutaş Dağı hakkında"]

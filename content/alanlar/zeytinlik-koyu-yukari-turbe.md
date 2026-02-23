@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zeytinlik%20K%C3%B6y%C3%BC%20Yukar%C4%B1%20T%C3%BCrbe","alt":"Zeytinlik Köyü Yukarı Türbe","caption":"Zeytinlik Köyü Yukarı Türbe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Zeytinlik Köyü Yukarı Türbe","caption":"Zeytinlik Köyü Yukarı Türbe","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeytinlik%20K%C3%B6y%C3%BC%20Yukar%C4%B1%20T%C3%BCrbe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391318","tip":"genel"}]
 description: "Doğal güzellikleri keşfedin, Zeytinlik Köyü Yukarı Türbe'de huzuru bulun"
 keywords: ["Zeytinlik Köyü","Yukarı Türbe","Artvin","Kutaisi Guberniyası","İç Anadolu Bölgesi","doğa","gezi","tarihçe"]

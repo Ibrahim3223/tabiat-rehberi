@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denize girme","Güneşlenme","Doğa yürüyüşleri","Su sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Andon%E2%80%99un%20Hamam%C4%B1","alt":"Andon’un Hamamı","caption":"Andon’un Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Andon’un Hamamı","caption":"Andon’un Hamamı","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Andon%E2%80%99un%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739193","tip":"genel"}]
 description: "Menteşe/Muğla'da bulunan Andon’un Hamamı, Ege Bölgesi'nin en güzel plajlarından biri"
 keywords: ["Andon’un Hamamı","Menteşe","Muğla","Ege Bölgesi","plaj","deniz","kumsal"]

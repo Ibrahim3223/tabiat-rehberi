@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","çevre gezisi","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Uludag%20Milli%20Parki%20Uludag%20Goknari","alt":"Bursa-Uludag Milli Parki Uludag Goknari","caption":"Bursa-Uludag Milli Parki Uludag Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Bursa-Uludag Milli Parki Uludag Goknari","caption":"Bursa-Uludag Milli Parki Uludag Goknari","credit":"IMG-20210119-WA0092.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Uludag%20Milli%20Parki%20Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227290","tip":"genel"}]
 description: "Marmara Bölgesi'nin en önemli doğal alanlarından biri olan Bursa-Uludag Milli Parki, 140 hektarlık bir alanı kaplıyor."
 keywords: ["Bursa","Uludag Milli Parki","Marmara Bölgesi","doğal alan","milli park","çevre","ekoloji","flora","fauna"]

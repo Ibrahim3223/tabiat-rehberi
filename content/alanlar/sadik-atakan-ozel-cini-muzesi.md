@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["müze gezi","çini sanatının tarihini öğrenme","Kütahya'nın kültürel mirasını keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sad%C4%B1k%20Atakan%20%C3%96zel%20%C3%87ini%20M%C3%BCzesi","alt":"Sadık Atakan Özel Çini Müzesi","caption":"Sadık Atakan Özel Çini Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Research_natural_areas_in_New_Mexico_%28IA_CAT87881126%29.pdf/page1-960px-Research_natural_areas_in_New_Mexico_%28IA_CAT87881126%29.pdf.jpg","alt":"Sadık Atakan Özel Çini Müzesi","caption":"Sadık Atakan Özel Çini Müzesi","credit":"Research natural areas in New Mexico (IA CAT87881126).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sad%C4%B1k%20Atakan%20%C3%96zel%20%C3%87ini%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6017883","tip":"genel"}]
 description: "Kütahya'nın merkezinde yer alan Sadık Atakan Özel Çini Müzesi, çini sanatının eşsiz örneklerini sergiliyor. Ziyaretçiler, Kütahya'nın tarihi geçmişini ve çini sanatının gelişimini keşfedebilir."
 keywords: ["Sadık Atakan Özel Çini Müzesi","Kütahya","çini sanatı","müze","tarih","sanat","Kütahya merkezinde","çini koleksiyonu","turizm","kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","picnic","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sivrikale%20Tepesi","alt":"Sivrikale Tepesi","caption":"Sivrikale Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Psyche_%28IA_psyche2010camb%29.pdf/page1-960px-Psyche_%28IA_psyche2010camb%29.pdf.jpg","alt":"Sivrikale Tepesi","caption":"Sivrikale Tepesi","credit":"Psyche (IA psyche2010camb).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sivrikale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390378","tip":"genel"}]
 description: "Afyonkarahisar'da yer alan Sivrikale Tepesi, Ege Bölgesi'nin önemli doğal alanlarından biri"
 keywords: ["Sivrikale Tepesi","Afyonkarahisar","Ege Bölgesi","doğal alan","tepe","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Keneli%20Tepe","alt":"Keneli Tepe","caption":"Keneli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Foreign_agriculture_-weekly_magazine_of_the_United_States_Department_of_Agriculture%2C_Foreign_Agricultural_Service%2C_U.S._Department_of_Agriculture_%28IA_CAT10252662303%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Keneli Tepe","caption":"Keneli Tepe","credit":"Foreign agriculture -weekly magazine of the United States Department of Agriculture, Foreign Agricultural Service, U.S. Department of Agriculture (IA CAT10252662303).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keneli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515765","tip":"genel"}]
 description: "İzmir'de yer alan Keneli Tepe, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Keneli Tepe","İzmir","Dağ","Doğa Yürüyüşü","Trekking","İzmir Turizm","Keneli Tepe İzmir","Dağcılık","İzmir Doğal Alanlar"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kavgal%C4%B1%20Da%C4%9F%C4%B1","alt":"Kavgalı Dağı","caption":"Kavgalı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Seashell_on_the_beach_-_Flickr_-_faktor1komma5.jpg/960px-Seashell_on_the_beach_-_Flickr_-_faktor1komma5.jpg","alt":"Kavgalı Dağı","caption":"Kavgalı Dağı","credit":"Seashell on the beach - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavgal%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516425","tip":"genel"}]
 description: "Aydın'da yer alan Kavgalı Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Kavgalı Dağı","Aydın","Dağ","Doğa","Turizm","Gezi","Trekking","Aydın Turistik Yerler","Doğa Yürüyüşü"]

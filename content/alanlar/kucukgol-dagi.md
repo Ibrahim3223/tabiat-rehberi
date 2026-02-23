@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCkg%C3%B6l%20Da%C4%9F%C4%B1","alt":"Küçükgöl Dağı","caption":"Küçükgöl Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Küçükgöl Dağı","caption":"Küçükgöl Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkg%C3%B6l%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042855","tip":"genel"}]
 description: "Tunceli'nin doğal güzelliklerini keşfedin, Küçükgöl Dağı'nda doğa ile baş başa kalın."
 keywords: ["Küçükgöl Dağı","Tunceli","Dağ","Doğa","Tunceli Turizm","Küçükgöl","Dağcılık","Tunceli Gezi","Doğa Sporları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["sarahayi gezisi","bahçe gezisi","tarihî mekan ziyaretleri","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20H%C3%BCnk%C3%A2r%20Dairesi","alt":"Yıldız Sarayı Hünkâr Dairesi","caption":"Yıldız Sarayı Hünkâr Dairesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Yıldız Sarayı Hünkâr Dairesi","caption":"Yıldız Sarayı Hünkâr Dairesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20H%C3%BCnk%C3%A2r%20Dairesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133684793","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini birleştiren bir destinasyon"
 keywords: ["Yıldız Sarayı","Hünkâr Dairesi","Beşiktaş","İstanbul","Marmara Bölgesi","tarihi mekanlar","doğal güzellikler","turistik yerler","gezi rehberi"]

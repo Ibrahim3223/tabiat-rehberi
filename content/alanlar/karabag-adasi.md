@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam bir gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaba%C4%9F%20Adas%C4%B1","alt":"Karabağ Adası","caption":"Karabağ Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_to_chios_island_3_-_panoramio.jpg/960px-View_to_chios_island_3_-_panoramio.jpg","alt":"Karabağ Adası","caption":"Karabağ Adası","credit":"View to chios island 3 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaba%C4%9F%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49645374","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Karabağ Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Karabağ Adası","İzmir Adaları","Karabağ Adası gezilecek yerler","İzmir turizm","Ege Adaları","Karabağ Adası tarihi","İzmir doğa","Karabağ Adası plajları","İzmir tatil"]

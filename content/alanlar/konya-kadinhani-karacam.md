@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Gözlem","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Konya-Kadinhani-Karacam","alt":"Konya-Kadinhani-Karacam","caption":"Konya-Kadinhani-Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Konya-Kadinhani-Karacam","caption":"Konya-Kadinhani-Karacam","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Kadinhani-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228106","tip":"genel"}]
 description: "Konya'da yer alan Konya-Kadinhani-Karacam Milli Parkı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
 keywords: ["Konya","Kadinhani","Karacam","Milli Park","Doğa","Flora","Fauna","Tarihçe","Coğrafya"]

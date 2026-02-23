@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Muhtar%C4%B1ay%C5%9F%C4%B1k%20Tepesi","alt":"Muhtarıayşık Tepesi","caption":"Muhtarıayşık Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Muhtarıayşık Tepesi","caption":"Muhtarıayşık Tepesi","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Muhtar%C4%B1ay%C5%9F%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31543422","tip":"genel"}]
 description: "Diyarbakır'ın Güneydoğu Anadolu Bölgesi'nde yer alan Muhtarıayşık Tepesi, bölgeye özgü coğrafi özellikleriyle dikkat çekiyor"
 keywords: ["Muhtarıayşık Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","coğrafi özellikler","doğa","gezi","tepe"]

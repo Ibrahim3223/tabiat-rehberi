@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","plajda dinlenmek","çevre gezileri yapmak","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hoca%20Cihan%20T%C3%BCrbesi","alt":"Hoca Cihan Türbesi","caption":"Hoca Cihan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Hoca Cihan Türbesi","caption":"Hoca Cihan Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hoca%20Cihan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391487","tip":"genel"}]
 description: "Konya'nın Selçuklu ilçesinde bulunan tarihi bir türbe ve plaj"
 keywords: ["Hoca Cihan Türbesi","Selçuklu","Konya","tarih","plaj","gezi","turizm","İç Anadolu Bölgesi","tarihi mekanlar"]

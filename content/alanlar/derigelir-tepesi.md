@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Derigelir%20Tepesi","alt":"Derigelir Tepesi","caption":"Derigelir Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/An_expedition_of_discovery_into_the_interior_of_Africa%2C_through_the_hitherto_undescribed_countries_of_the_Great_Namaquas%2C_Boschmans%2C_and_Hill_Damaras_%28IA_b29350979_0001%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Derigelir Tepesi","caption":"Derigelir Tepesi","credit":"An expedition of discovery into the interior of Africa, through the hitherto undescribed countries of the Great Namaquas, Boschmans, and Hill Damaras (IA b29350979 0001).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Derigelir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387459","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Derigelir Tepesi, Van ilinin doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi"
 keywords: ["Derigelir Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","keşif"]

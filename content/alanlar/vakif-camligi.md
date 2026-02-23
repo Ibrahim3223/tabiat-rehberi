@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Vakif%20%C3%87amligi","alt":"Vakif Çamligi","caption":"Vakif Çamligi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Vakif Çamligi","caption":"Vakif Çamligi","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vakif%20%C3%87amligi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227055","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Vakif Çamligi, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Vakif Çamligi","İç Anadolu Bölgesi","yeşil alan","zengin fauna","doğa","gezi","turizm"]

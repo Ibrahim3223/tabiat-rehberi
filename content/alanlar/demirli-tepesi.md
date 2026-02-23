@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğrafçılık","doğa gözlemi","tarihî kalıntıları ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Demirli%20Tepesi","alt":"Demirli Tepesi","caption":"Demirli Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Demirli Tepesi","caption":"Demirli Tepesi","credit":"Gelincik Dagi Manzara.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526023","tip":"genel"}]
 description: "Isparta'nın doğal güzelliklerinden biri olan Demirli Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Isparta","Demirli Tepesi","doğal güzellik","tepe","Akdeniz Bölgesi","gezi","turizm","doğa"]

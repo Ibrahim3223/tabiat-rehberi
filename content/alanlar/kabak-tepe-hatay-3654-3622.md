@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kabak%20Tepe%20(Hatay%2C%2036.54%2C%2036.22)","alt":"Kabak Tepe (Hatay, 36.54, 36.22)","caption":"Kabak Tepe (Hatay, 36.54, 36.22)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Kabak Tepe","caption":"Kabak Tepe","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabak%20Tepe%20(Hatay%2C%2036.54%2C%2036.22)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538404","tip":"genel"}]
 description: "Hatay'da yer alan Kabak Tepe, 36.54 ve 36.22 enlemlerinde bulunan bir dağdır. Doğal güzellikleri ve tarihi önemiyle dikkat çeker."
 keywords: ["Kabak Tepe","Hatay","Dağ","Doğal Alan","Tarih","Gezi","Seyahat","Coğrafya","Turizm"]

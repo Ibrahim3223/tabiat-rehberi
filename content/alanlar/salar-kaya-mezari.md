@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Salar%20Kaya%20Mezar%C4%B1","alt":"Salar Kaya Mezarı","caption":"Salar Kaya Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/A_Narrative_of_the_Siege_of_Kars_and_of_the_Six_Months_Resistance_by_the_Turkish_Garrison_under_General_Williams_to_the_Russia_Army_%28IA_dli.granth.70680%29.pdf/page1-643px-A_Narrative_of_the_Siege_of_Kars_and_of_the_Six_Months_Resistance_by_the_Turkish_Garrison_under_General_Williams_to_the_Russia_Army_%28IA_dli.granth.70680%29.pdf.jpg","alt":"Salar Kaya Mezarı","caption":"Salar Kaya Mezarı","credit":"A Narrative of the Siege of Kars and of the Six Months Resistance by the Turkish Garrison under General Williams to the Russia Army (IA dli.granth.70680).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Salar%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728191","tip":"genel"}]
 description: "Sinop'un Boyabat ilçesinde bulunan Salar Kaya Mezarı, Karadeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri."
 keywords: ["Salar Kaya Mezarı","Sinop","Boyabat","Karadeniz Bölgesi","tarih","doğa","gezi","kaya mezarı"]

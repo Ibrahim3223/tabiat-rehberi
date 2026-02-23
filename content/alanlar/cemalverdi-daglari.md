@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam bir gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cemalverdi%20Da%C4%9Flar%C4%B1","alt":"Cemalverdi Dağları","caption":"Cemalverdi Dağları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Cemalverdi Dağları","caption":"Cemalverdi Dağları","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cemalverdi%20Da%C4%9Flar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123676032","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Cemalverdi Dağları, Türkiye'nin en önemli coğrafi oluşumlarından biri"
 keywords: ["Cemalverdi Dağları","Türkiye Dağları","Doğa","Coğrafya","Turizm","Gezi","Dağcılık","Macera","Doğal Güzellik"]

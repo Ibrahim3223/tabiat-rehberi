@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Rehberli tur"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Corum-%C4%B0skilip-%C4%B0skilip-Turkfindigi","alt":"Corum-İskilip-İskilip-Turkfindigi","caption":"Corum-İskilip-İskilip-Turkfindigi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sierra_Madre_News_1917-12-07_%28IA_csie_000592%29.pdf/page1-960px-Sierra_Madre_News_1917-12-07_%28IA_csie_000592%29.pdf.jpg","alt":"Corum-İskilip-İskilip-Turkfindigi","caption":"Corum-İskilip-İskilip-Turkfindigi","credit":"Sierra Madre News 1917-12-07 (IA csie 000592).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Corum-%C4%B0skilip-%C4%B0skilip-Turkfindigi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228202","tip":"genel"}]
 description: "Çorum'un İskilip ilçesinde bulunan Türkfindigi Milli Parkı, doğal güzellikleri ve tarihi zenginlikleriyle ziyaretçilerini bekliyor."
 keywords: ["Çorum","İskilip","Türkfindigi","Milli Park","Doğa","Tarih","Gezi"]

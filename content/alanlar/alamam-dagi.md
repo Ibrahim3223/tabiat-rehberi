@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alamam%20Da%C4%9F%C4%B1","alt":"Alamam Dağı","caption":"Alamam Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Alamam Dağı","caption":"Alamam Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alamam%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571623","tip":"genel"}]
 description: "Karabük'te yer alan Alamam Dağı, 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor. Doğal güzelliği ile dikkat çeken bu dağ, trekking ve doğa yürüyüşü severlerin uğrak noktası."
 keywords: ["Alamam Dağı","Karabük","Doğa Yürüyüşü","Trekking","Yeşil Alan","İstanbul","Dağ","Turizm","Doğal Güzellik"]

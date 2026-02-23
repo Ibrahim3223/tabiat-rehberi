@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Savangin","alt":"Savangin","caption":"Savangin"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Savangin","caption":"Savangin","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Savangin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q7427817","tip":"genel"}]
 description: "Türkiye'de bulunan Savangin Jeopark, 1200 hektarlık yeşil alanı ile dikkat çekiyor"
 keywords: ["Savangin","Jeopark","Türkiye","Doğa","Yeşil Alan","Turizm","Gezi","Jeolojik Özellikler","Çevre"]

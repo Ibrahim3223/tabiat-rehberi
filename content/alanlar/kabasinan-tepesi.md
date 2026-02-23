@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kabasinan%20Tepesi","alt":"Kabasinan Tepesi","caption":"Kabasinan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Foreign_agriculture_-weekly_magazine_of_the_United_States_Department_of_Agriculture%2C_Foreign_Agricultural_Service%2C_U.S._Department_of_Agriculture_%28IA_CAT10252662303%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Kabasinan Tepesi","caption":"Kabasinan Tepesi","credit":"Foreign agriculture -weekly magazine of the United States Department of Agriculture, Foreign Agricultural Service, U.S. Department of Agriculture (IA CAT10252662303).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabasinan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557873","tip":"genel"}]
 description: "Ankara'nın doğal güzellikleri arasında yer alan Kabasinan Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olup, ziyaretçilerine zengin bir flora ve fauna sunar."
 keywords: ["Kabasinan Tepesi","Ankara","İç Anadolu Bölgesi","doğa","flora","fauna","tepe","gezi","turizm"]

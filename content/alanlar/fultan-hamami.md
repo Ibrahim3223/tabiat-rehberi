@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Çevre keşfi","Güneş banyosu","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Fultan%20Hamam%C4%B1","alt":"Fultan Hamamı","caption":"Fultan Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Fultan Hamamı","caption":"Fultan Hamamı","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fultan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739059","tip":"genel"}]
 description: "Doğu Anadolu'nun gizli cenneti, Kiğı'nın doğal harikası"
 keywords: ["Fultan Hamamı","Kiğı","Bingöl","Doğu Anadolu","doğal alan","plaj","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Tarih gezisi","Kültürel keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dursun%20Bey%20T%C3%BCrbesi","alt":"Dursun Bey Türbesi","caption":"Dursun Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg","alt":"Dursun Bey Türbesi","caption":"Dursun Bey Türbesi","credit":"Süzer Sun Dreams Beach 13 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dursun%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391302","tip":"genel"}]
 description: "İzmir'in tarihi ve doğal güzellikleri arasında yer alan Dursun Bey Türbesi, ziyaretçiler için önemli bir destinasyon"
 keywords: ["Dursun Bey Türbesi","Bergama","İzmir","tarih","doğa","gezi","türbe","Ege Bölgesi"]

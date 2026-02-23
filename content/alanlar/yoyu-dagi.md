@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yoyu%20Da%C4%9F%C4%B1","alt":"Yoyu Dağı","caption":"Yoyu Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf/page1-960px-Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf.jpg","alt":"Yoyu Dağı","caption":"Yoyu Dağı","credit":"Effects of forest fire on physical, chemical and biological soil properties.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yoyu%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502164","tip":"genel"}]
 description: "Çanakkale'nin doğal güzelliklerini keşfedin. Yoyu Dağı, şehrin panoramik manzarasına sahip bir dağ"
 keywords: ["Yoyu Dağı","Çanakkale","Dağ","Doğa","Turizm","Gezi","Manzara","Panorama","Çanakkale Turistik Yerler"]

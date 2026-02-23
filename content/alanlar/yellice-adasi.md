@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yellice%20Adas%C4%B1","alt":"Yellice Adası","caption":"Yellice Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Kianida_Island_or_Cianeis_Insula.png","alt":"Yellice Adası","caption":"Yellice Adası","credit":"Kianida Island or Cianeis Insula.png","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yellice%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34784669","tip":"genel"}]
 description: "Balıkesir'in güzide adalarından biri olan Yellice Adası, 1200 hektarlık yeşil cenneti ile ziyaretçilerini bekliyor."
 keywords: ["Yellice Adası","Balıkesir","ada","yeşil cennet","turizm","gezi","seyahat","doğa","deniz"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi yerleri gezmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kutluca%20Tepesi","alt":"Kutluca Tepesi","caption":"Kutluca Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Kutluca Tepesi","caption":"Kutluca Tepesi","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutluca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387411","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli güzelliği, Bingöl'de yer alan Kutluca Tepesi"
 keywords: ["Kutluca Tepesi","Bingöl","Doğu Anadolu Bölgesi","tepe","doğal alan","gezi","turizm"]

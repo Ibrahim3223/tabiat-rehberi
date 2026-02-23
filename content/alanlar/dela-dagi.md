@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dela%20Da%C4%9F%C4%B1","alt":"Dela Dağı","caption":"Dela Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Dela Dağı","caption":"Dela Dağı","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dela%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31578330","tip":"genel"}]
 description: "Aydın'da yer alan Dela Dağı, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Dela Dağı","Aydın","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Aydın Gezilecek Yerler"]

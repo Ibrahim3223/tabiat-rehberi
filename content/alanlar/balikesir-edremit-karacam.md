@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Balikesir-Edremit%20Karacam","alt":"Balikesir-Edremit Karacam","caption":"Balikesir-Edremit Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Balikesir-Edremit Karacam","caption":"Balikesir-Edremit Karacam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Edremit%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227928","tip":"genel"}]
 description: "Doğal güzelliği ve zengin fauna ile dikkat çeken Balikesir-Edremit Karacam milli parkı, ziyaretçilerini bekliyor."
 keywords: ["Balikesir","Edremit","Karacam","milli park","doğa","fauna","gezi","turizm","çevre"]

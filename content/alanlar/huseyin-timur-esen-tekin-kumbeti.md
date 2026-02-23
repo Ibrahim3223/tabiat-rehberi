@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları ziyaret etmek","doğa yürüyüşleri","kültürel mirası keşfetmek","fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C3%BCseyin%20Timur-Esen%20Tekin%20K%C3%BCmbeti","alt":"Hüseyin Timur-Esen Tekin Kümbeti","caption":"Hüseyin Timur-Esen Tekin Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_gate_of_Asia%3B_a_journey_from_the_Persian_Gulf_to_the_Black_Sea_%28IA_gateofasiajourne00warfiala%29.pdf/page1-789px-The_gate_of_Asia%3B_a_journey_from_the_Persian_Gulf_to_the_Black_Sea_%28IA_gateofasiajourne00warfiala%29.pdf.jpg","alt":"Hüseyin Timur-Esen Tekin Kümbeti","caption":"Hüseyin Timur-Esen Tekin Kümbeti","credit":"The gate of Asia; a journey from the Persian Gulf to the Black Sea (IA gateofasiajourne00warfiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCseyin%20Timur-Esen%20Tekin%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582808","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde tarihi bir yapı olan Hüseyin Timur-Esen Tekin Kümbeti, Ahlat/Bitlis'te bulunmaktadır. Tarihi ve coğrafi özellikleri ile dikkat çekmektedir."
 keywords: ["Hüseyin Timur-Esen Tekin Kümbeti","Ahlat","Bitlis","Doğu Anadolu Bölgesi","tarihi yapı","coğrafi özellikler","kültürel miras","gezi rehberi","turizm","Doğu Anadolu"]

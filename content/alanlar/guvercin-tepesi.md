@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara seyretme","Tarihî yapıları ziyaret","Çevreyi keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCvercin%20Tepesi","alt":"Güvercin Tepesi","caption":"Güvercin Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Güvercin Tepesi","caption":"Güvercin Tepesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCvercin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139705","tip":"genel"}]
 description: "Samsun'un güzide noktalarından biri olan Güvercin Tepesi, Karadeniz Bölgesi'nin önemli bir turizm merkezi."
 keywords: ["Güvercin Tepesi","Samsun","Karadeniz Bölgesi","turizm","doğa","tepe","manzara","gezi","seyahat"]

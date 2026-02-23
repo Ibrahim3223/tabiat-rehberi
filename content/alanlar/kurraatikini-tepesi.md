@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık","kültürel keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurraatik%C4%B1ni%20Tepesi","alt":"Kurraatikıni Tepesi","caption":"Kurraatikıni Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Kurraatikıni Tepesi","caption":"Kurraatikıni Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurraatik%C4%B1ni%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553265","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Kurraatikıni Tepesi, Batman'ın eşsiz manzaralarına ev sahipliği yapar."
 keywords: ["Kurraatikıni Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","manzara"]

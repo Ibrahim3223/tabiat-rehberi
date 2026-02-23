@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mustafa%20Mehi%20Efendi%20T%C3%BCrbesi","alt":"Mustafa Mehi Efendi Türbesi","caption":"Mustafa Mehi Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Mustafa Mehi Efendi Türbesi","caption":"Mustafa Mehi Efendi Türbesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustafa%20Mehi%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391715","tip":"genel"}]
 description: "Erzurum'un Yakutiye ilçesinde bulunan tarihi bir türbe"
 keywords: ["Mustafa Mehi Efendi Türbesi","Erzurum","Yakutiye","tarih","türbe","Doğu Anadolu Bölgesi","kültür"]

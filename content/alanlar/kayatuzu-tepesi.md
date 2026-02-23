@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayatuzu%20Tepesi","alt":"Kayatuzu Tepesi","caption":"Kayatuzu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg","alt":"Kayatuzu Tepesi","caption":"Kayatuzu Tepesi","credit":"The Landscape of Sıklık Gate park Çorum.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayatuzu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581683","tip":"genel"}]
 description: "Çorum'un Karadeniz Bölgesi'nde yer alan Kayatuzu Tepesi, eşsiz bir doğa harikasıdır."
 keywords: ["Kayatuzu Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","çevre"]

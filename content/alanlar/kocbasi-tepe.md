@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ko%C3%A7ba%C5%9F%C4%B1%20Tepe","alt":"Koçbaşı Tepe","caption":"Koçbaşı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/In_the_Maoriland_bush_%28IA_inmaorilandbush00koebiala%29.pdf/page1-816px-In_the_Maoriland_bush_%28IA_inmaorilandbush00koebiala%29.pdf.jpg","alt":"Koçbaşı Tepe","caption":"Koçbaşı Tepe","credit":"In the Maoriland bush (IA inmaorilandbush00koebiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7ba%C5%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32200871","tip":"genel"}]
 description: "Ağrı'da yer alan Koçbaşı Tepe, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Koçbaşı Tepe","Ağrı","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Türkiye"]

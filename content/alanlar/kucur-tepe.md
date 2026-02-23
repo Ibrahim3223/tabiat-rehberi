@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kucur%20Tepe","alt":"Kucur Tepe","caption":"Kucur Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Kucur Tepe","caption":"Kucur Tepe","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kucur%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31512375","tip":"genel"}]
 description: "Manisa'da bulunan Kucur Tepe, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Kucur Tepe","Manisa","Dağ","Doğa","Türkiye","Gezi","Seyahat","Manisa gezilecek yerler","Dağcılık"]

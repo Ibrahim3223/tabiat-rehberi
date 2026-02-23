@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trabzon%20Macka-Doguladini%201","alt":"Trabzon Macka-Doguladini 1","caption":"Trabzon Macka-Doguladini 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Trabzon Macka-Doguladini 1","caption":"Trabzon Macka-Doguladini 1","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon%20Macka-Doguladini%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228061","tip":"genel"}]
 description: "Trabzon'un güzide milli parklarından biri olan Trabzon Macka-Doguladini 1, 140 hektarlık geniş alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Trabzon","Macka-Doguladini","milli park","doğa","gezi","yaban hayatı","flora","fauna"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Su sporları","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=BITLIS%20AHLAT%20IL%C3%87ESI%20NAZIK%20G%C3%96L%C3%9C%20DOGAL%20SIT%20ALANI","alt":"BITLIS AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI","caption":"BITLIS AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"BITLIS AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI","caption":"BITLIS AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BITLIS%20AHLAT%20IL%C3%87ESI%20NAZIK%20G%C3%96L%C3%9C%20DOGAL%20SIT%20ALANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228968","tip":"genel"}]
 description: "Bitlis Ahlat İlçesiNazik Gölü Doğal Sit Alanı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Bitlis","Ahlât","Nazik Gölü","Doğal Sit Alanı","İç Anadolu Bölgesi","Doğa","Göl","Turizm"]

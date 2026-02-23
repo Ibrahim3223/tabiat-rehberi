@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları gezmek","Sarayın bahçelerini keşfetmek","Osmanlı İmparatorluğu'nun kültürel zenginliğini keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Han%C4%B1m%20Sultanlar%20Dairesi","alt":"Yıldız Sarayı Hanım Sultanlar Dairesi","caption":"Yıldız Sarayı Hanım Sultanlar Dairesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Yıldız Sarayı Hanım Sultanlar Dairesi","caption":"Yıldız Sarayı Hanım Sultanlar Dairesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Han%C4%B1m%20Sultanlar%20Dairesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133684794","tip":"genel"}]
 description: "İstanbul'un kalbinde, Marmara Bölgesi'nde yer alan tarihi bir mekan"
 keywords: ["Yıldız Sarayı","Hanım Sultanlar Dairesi","Beşiktaş","İstanbul","Marmara Bölgesi","Tarihi mekan","Kültür","Tarihçe"]

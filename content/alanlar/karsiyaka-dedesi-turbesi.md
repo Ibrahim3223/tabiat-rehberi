@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","plaj activities","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kar%C5%9F%C4%B1yaka%20Dedesi%20T%C3%BCrbesi","alt":"Karşıyaka Dedesi Türbesi","caption":"Karşıyaka Dedesi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Karşıyaka Dedesi Türbesi","caption":"Karşıyaka Dedesi Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kar%C5%9F%C4%B1yaka%20Dedesi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390901","tip":"genel"}]
 description: "Simav, Kütahya'da bulunan tarihi türbe ve plaj alanı"
 keywords: ["Kütahya","Simav","tarih","plaj","türbe","gezi","Ege Bölgesi"]

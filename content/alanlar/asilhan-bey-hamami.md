@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","kültür turu","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=As%C4%B1lhan%20Bey%20Hamam%C4%B1","alt":"Asılhan Bey Hamamı","caption":"Asılhan Bey Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Asılhan Bey Hamamı","caption":"Asılhan Bey Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/As%C4%B1lhan%20Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739003","tip":"genel"}]
 description: "Ezine'nin tarihi ve doğal güzelliklerinin birleştiği nadir mekanlardan biri olan Asılhan Bey Hamamı, ziyaretçilerini tarihin derinliklerine götürüyor."
 keywords: ["Asılhan Bey Hamamı","Ezine","tarihi mekanlar","doğal güzellikler","gezi noktaları","tarih","kültür","doğa","gezilecek yerler"]

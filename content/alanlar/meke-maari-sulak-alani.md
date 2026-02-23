@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotografçılık","Çevre turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Meke%20Maar%C4%B1%20Sulak%20Alan%C4%B1","alt":"Meke Maarı Sulak Alanı","caption":"Meke Maarı Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Meke Maarı Sulak Alanı","caption":"Meke Maarı Sulak Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Meke%20Maar%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228825","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin önemli sulak alanlarından biri olan Meke Maarı Sulak Alanı, çeşitlili ve güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Meke Maarı","Sulak Alan","İç Anadolu Bölgesi","Doğal Alan","Çevre","Ekoloji"]

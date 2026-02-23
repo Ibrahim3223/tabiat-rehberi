@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Bir gün"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Mut-Dagpazar%C4%B1%20Sedir","alt":"Mersin-Mut-Dagpazarı Sedir","caption":"Mersin-Mut-Dagpazarı Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kad%C4%B1nc%C4%B1k_Valley_27.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_27.jpg","alt":"Mersin-Mut-Dagpazarı Sedir","caption":"Mersin-Mut-Dagpazarı Sedir","credit":"Kadıncık Valley 27.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut-Dagpazar%C4%B1%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227218","tip":"genel"}]
 description: "Mersin-Mut-Dagpazarı Sedir, Akdeniz Bölgesi'nin güzide milli parklarından biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Mersin","Mut","Dagpazarı Sedir","Milli Park","Akdeniz Bölgesi","Doğa","Turizm"]

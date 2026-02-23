@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Mudurnu-Sarpuncuk%20Karacam","alt":"Bolu-Mudurnu-Sarpuncuk Karacam","caption":"Bolu-Mudurnu-Sarpuncuk Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bolu_G%C3%B6lc%C3%BCk_Tabiat_01.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Tabiat_01.jpg","alt":"Bolu-Mudurnu-Sarpuncuk Karacam","caption":"Bolu-Mudurnu-Sarpuncuk Karacam","credit":"Bolu Gölcük Tabiat 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Mudurnu-Sarpuncuk%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227489","tip":"genel"}]
 description: "Bolu ilinin doğal güzelliklerini keşfedin. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna."
 keywords: ["Bolu-Mudurnu-Sarpuncuk Karacam","milli park","Bolu","Karadeniz Bölgesi","doğal alan","yeşil alan","bitki türleri","fauna"]

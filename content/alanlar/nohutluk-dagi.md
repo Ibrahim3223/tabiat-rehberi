@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nohutluk%20Da%C4%9F%C4%B1","alt":"Nohutluk Dağı","caption":"Nohutluk Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Nohutluk Dağı","caption":"Nohutluk Dağı","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nohutluk%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31590821","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin. Nohutluk Dağı, 1200 hektarlık yeşil cennet"
 keywords: ["Nohutluk Dağı","Kayseri","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Kayseri Turistik Yerler","Doğa Sporları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Çevre gezisi","Fotoğraf çekimi","Tarihçe öğrenimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Habib-i%20Acem%20T%C3%BCrbesi%2C%20%C3%87ivril","alt":"Habib-i Acem Türbesi, Çivril","caption":"Habib-i Acem Türbesi, Çivril"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf/page1-629px-Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf.jpg","alt":"Habib-i Acem Türbesi, Çivril","caption":"Habib-i Acem Türbesi, Çivril","credit":"Letters from the Aegean (IA lettersfromaegea01tenn).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Habib-i%20Acem%20T%C3%BCrbesi%2C%20%C3%87ivril","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582190","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin, Çivril'de bulunan Habib-i Acem Türbesi'ni ziyaret edin"
 keywords: ["Çivril","Denizli","Ege Bölgesi","tarih","doğa","türbe","gezi","seyahat","kültür"]

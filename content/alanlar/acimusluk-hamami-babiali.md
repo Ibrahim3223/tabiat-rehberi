@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî hamam gezisi","plaj aktiviteleri","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ac%C4%B1musluk%20Hamam%C4%B1%20Bab%C4%B1ali","alt":"Acımusluk Hamamı Babıali","caption":"Acımusluk Hamamı Babıali"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Acımusluk Hamamı Babıali","caption":"Acımusluk Hamamı Babıali","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ac%C4%B1musluk%20Hamam%C4%B1%20Bab%C4%B1ali","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738583","tip":"genel"}]
 description: "Fatih/İstanbul'da yer alan tarihi hamam ve plaj alanı"
 keywords: ["Acımusluk Hamamı Babıali","Fatih","İstanbul","Marmara Bölgesi","tarihi hamam","plaj","turizm"]

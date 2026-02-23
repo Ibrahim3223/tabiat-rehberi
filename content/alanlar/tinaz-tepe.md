@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=T%C4%B1naz%20Tepe","alt":"Tınaz Tepe","caption":"Tınaz Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Psyche_%28IA_psyche2010camb%29.pdf/page1-960px-Psyche_%28IA_psyche2010camb%29.pdf.jpg","alt":"Tınaz Tepe","caption":"Tınaz Tepe","credit":"Psyche (IA psyche2010camb).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C4%B1naz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504677","tip":"genel"}]
 description: "Afyonkarahisar'da bulunan Tınaz Tepe, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon"
 keywords: ["Tınaz Tepe","Afyonkarahisar","Dağ","Doğa","Turizm","Gezi","Seyahat","Afyonkarahisar gezilecek yerler","Tınaz Tepe hakkında"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","manzara izleme","doğa yürüyüşü","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dinek%20Tepesi","alt":"Dinek Tepesi","caption":"Dinek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Dinek Tepesi","caption":"Dinek Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dinek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557316","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Dinek Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Dinek Tepesi","doğa","gezi","turizm","tepe","manzara","gezilecek yerler","İç Anadolu Bölgesi"]

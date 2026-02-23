@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi gezi","doğa yürüyüşü","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaosmano%C4%9Flu%20Hamam%C4%B1","alt":"Karaosmanoğlu Hamamı","caption":"Karaosmanoğlu Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf/page1-835px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf.jpg","alt":"Karaosmanoğlu Hamamı","caption":"Karaosmanoğlu Hamamı","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla02burt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaosmano%C4%9Flu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739035","tip":"genel"}]
 description: "Ege Bölgesi'nin Akhisar ilçesinde yer alan Karaosmanoğlu Hamamı, tarihi ve doğal güzelliği ile dikkat çekiyor"
 keywords: ["Karaosmanoğlu Hamamı","Akhisar","Manisa","Ege Bölgesi","tarihi hamam","doğal güzellik","gezi rehberi","turistik yerler","Manisa turizmi"]

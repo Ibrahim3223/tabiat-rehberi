@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki ve hayvan gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Denizli-Acipayam-Alci%20Ardic%201","alt":"Denizli-Acipayam-Alci Ardic 1","caption":"Denizli-Acipayam-Alci Ardic 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/California_Digital_Library_%28IA_smyrnafigathomea00roedrich%29.pdf/page1-939px-California_Digital_Library_%28IA_smyrnafigathomea00roedrich%29.pdf.jpg","alt":"Denizli-Acipayam-Alci Ardic 1","caption":"Denizli-Acipayam-Alci Ardic 1","credit":"California Digital Library (IA smyrnafigathomea00roedrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Acipayam-Alci%20Ardic%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227221","tip":"genel"}]
 description: "Denizli'de yer alan 140 hektarlık milli park, Ege Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Denizli","Acipayam","Alci Ardic","milli park","doğa","Ege Bölgesi"]

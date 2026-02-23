@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6t%C3%BCr%C3%BCm%20Adas%C4%B1","alt":"Kötürüm Adası","caption":"Kötürüm Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Refugees_crossing_the_Mediterranean_sea_on_a_boat%2C_heading_from_Turkish_coast_to_the_northeastern_Greek_island_of_Lesbos%2C_29_January_2016.jpg/960px-Refugees_crossing_the_Mediterranean_sea_on_a_boat%2C_heading_from_Turkish_coast_to_the_northeastern_Greek_island_of_Lesbos%2C_29_January_2016.jpg","alt":"Kötürüm Adası","caption":"Kötürüm Adası","credit":"Refugees crossing the Mediterranean sea on a boat, heading from Turkish coast to the northeastern Greek island of Lesbos, 29 January 2016.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6t%C3%BCr%C3%BCm%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49650041","tip":"genel"}]
 description: "Balıkesir'in gizli cenneti Kötürüm Adası, doğa severler için bir keşif noktasıdır."
 keywords: ["Kötürüm Adası","Balıkesir","ada","doğa","keşif","gezi","seyahat","turizm","deniz"]

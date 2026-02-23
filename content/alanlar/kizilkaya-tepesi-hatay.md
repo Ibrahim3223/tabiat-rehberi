@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lkaya%20Tepesi%20(Hatay)","alt":"Kızılkaya Tepesi (Hatay)","caption":"Kızılkaya Tepesi (Hatay)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Kızılkaya Tepesi","caption":"Kızılkaya Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lkaya%20Tepesi%20(Hatay)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31534801","tip":"genel"}]
 description: "Hatay'da yer alan Kızılkaya Tepesi, doğal güzellikleri ve tarihi önemi ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kızılkaya Tepesi","Hatay","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Yeşil Alan"]

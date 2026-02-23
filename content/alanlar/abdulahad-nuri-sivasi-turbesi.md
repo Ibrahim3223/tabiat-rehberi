@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezi","doğa yürüyüşü","plaj","yeme içme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abd%C3%BClahad%20Nuri%20Sivasi%20T%C3%BCrbesi","alt":"Abdülahad Nuri Sivasi Türbesi","caption":"Abdülahad Nuri Sivasi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Abdülahad Nuri Sivasi Türbesi","caption":"Abdülahad Nuri Sivasi Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abd%C3%BClahad%20Nuri%20Sivasi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391178","tip":"genel"}]
 description: "Eyüpsultan'da tarihi bir türbe ve plaj"
 keywords: ["Eyüpsultan","İstanbul","Marmara Bölgesi","tarih","plaj","türbe","gezi","seyahat"]

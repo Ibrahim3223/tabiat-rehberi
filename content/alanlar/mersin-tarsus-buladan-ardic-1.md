@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Bitki gözlemi","Hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Tarsus-Buladan%20Ardic%201","alt":"Mersin-Tarsus-Buladan Ardic 1","caption":"Mersin-Tarsus-Buladan Ardic 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kad%C4%B1nc%C4%B1k_Valley_8.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_8.jpg","alt":"Mersin-Tarsus-Buladan Ardic 1","caption":"Mersin-Tarsus-Buladan Ardic 1","credit":"Kadıncık Valley 8.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Tarsus-Buladan%20Ardic%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227231","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin Mersin ilinde yer alan Ardic 1 milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Mersin","Ardic 1","milli park","Akdeniz Bölgesi","doğa","yeşil alan"]

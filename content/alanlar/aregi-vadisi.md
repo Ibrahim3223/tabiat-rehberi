@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aregi%20Vadisi","alt":"Aregi Vadisi","caption":"Aregi Vadisi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kemaliye_Ta%C5%9F_Yolu_and_Karanlik_Kanyon.jpg/960px-Kemaliye_Ta%C5%9F_Yolu_and_Karanlik_Kanyon.jpg","alt":"Aregi Vadisi","caption":"Aregi Vadisi","credit":"Kemaliye Taş Yolu and Karanlik Kanyon.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aregi%20Vadisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21209952","tip":"genel"}]
 description: "Erzincan'da yer alan Aregi Vadisi, 1200 hektarlık yeşil cenneti ve doğa güzelliği ile dikkat çekiyor"
 keywords: ["Aregi Vadisi","Erzincan","kanyon","doğa turizmi","yeşil alan","gezi noktaları","turistik yerler","Erzincan gezilecek yerler","vadi"]

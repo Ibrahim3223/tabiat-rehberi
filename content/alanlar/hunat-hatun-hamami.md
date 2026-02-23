@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","fotografçılık","doğa yürüyüşü","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hunat%20Hatun%20Hamam%C4%B1","alt":"Hunat Hatun Hamamı","caption":"Hunat Hatun Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Hunat Hatun Hamamı","caption":"Hunat Hatun Hamamı","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hunat%20Hatun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738522","tip":"genel"}]
 description: "Kayseri'nin tarihi ve doğal güzelliklerinin buluştuğu yer, 140 hektarlık alan"
 keywords: ["Hunat Hatun Hamamı","Kayseri","Melikgazi","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

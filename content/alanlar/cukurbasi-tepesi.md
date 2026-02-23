@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihi kalıntıları keşfetme","yaban hayatı gözlemleme","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ukurba%C5%9F%C4%B1%20Tepesi","alt":"Çukurbaşı Tepesi","caption":"Çukurbaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Çukurbaşı Tepesi","caption":"Çukurbaşı Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ukurba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829565","tip":"genel"}]
 description: "Yozgat'ta doğal güzelli ve tarihi değerlere sahip bir tepe"
 keywords: ["Çukurbaşı Tepesi","Yozgat","İç Anadolu Bölgesi","doğal güzellik","tarihi değerler","tepe","gezi","turizm","yaban hayatı"]

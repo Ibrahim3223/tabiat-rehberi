@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenme","doğa yürüyüşü","fotoğraf çekme","kültürel deneyim"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zincirli%20Ali%20Baba%20T%C3%BCrbesi","alt":"Zincirli Ali Baba Türbesi","caption":"Zincirli Ali Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Zincirli Ali Baba Türbesi","caption":"Zincirli Ali Baba Türbesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zincirli%20Ali%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135430361","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Zincirli Ali Baba Türbesi","Beyoğlu","İstanbul","Marmara Bölgesi","tarih","kültür","gezi","turizm","doğa"]

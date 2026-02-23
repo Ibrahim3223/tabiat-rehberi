@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Diburida%C4%9F%C4%B1","alt":"Diburidağı","caption":"Diburidağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Seattle_and_the_Pacific_Northwest_-_Washington%2C_Oregon%2C_California%2C_Alaska%2C_British_Columbia%2C_Yukon%2C_and_A.-Y.-P._hotel_and_commercial_guide_%28IA_seattlepacificno00alasrich%29.pdf/page1-845px-thumbnail.pdf.jpg","alt":"Diburidağı","caption":"Diburidağı","credit":"Seattle and the Pacific Northwest - Washington, Oregon, California, Alaska, British Columbia, Yukon, and A.-Y.-P. hotel and commercial guide (IA seattlepacificno00alasrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diburida%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21211335","tip":"genel"}]
 description: "Ağrı'da bulunan Diburidağı, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Diburidağı","Ağrı","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Macera"]

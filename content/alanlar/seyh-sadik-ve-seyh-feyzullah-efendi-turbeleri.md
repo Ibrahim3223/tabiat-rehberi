@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbeleri ziyaret etmek","Çevreyi keşfetmek","Doğa güzelliği ve çeşitliliği deneyimlemek","Tarihi ve kültürel merkezleri ziyaret etmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Sad%C4%B1k%20ve%20%C5%9Eeyh%20Feyzullah%20Efendi%20T%C3%BCrbeleri","alt":"Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri","caption":"Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri","caption":"Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Sad%C4%B1k%20ve%20%C5%9Eeyh%20Feyzullah%20Efendi%20T%C3%BCrbeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391175","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["İstanbul","tarihi","kültürel","zenginlik","Şeyh Sadık","Şeyh Feyzullah Efendi","türbe","Marmara Bölgesi","Fatih"]

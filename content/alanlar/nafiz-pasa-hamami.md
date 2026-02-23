@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","tarih gezisi","mimari inceleme","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nafiz%20Pa%C5%9Fa%20Hamam%C4%B1","alt":"Nafiz Paşa Hamamı","caption":"Nafiz Paşa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wind_and_seismic_effects_%28IA_windseismiceffec843rauf%29.pdf/page1-960px-Wind_and_seismic_effects_%28IA_windseismiceffec843rauf%29.pdf.jpg","alt":"Nafiz Paşa Hamamı","caption":"Nafiz Paşa Hamamı","credit":"Wind and seismic effects (IA windseismiceffec843rauf).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nafiz%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739007","tip":"genel"}]
 description: "Erzincan'da tarihi bir hamam, 140-155 karakter, etkileyici SEO açıklaması"
 keywords: ["Nafiz Paşa Hamamı","Erzincan","Doğu Anadolu Bölgesi","tarihi hamam","gezi","turizm","Doğu Anadolu","Erzincan gezilecek yerler","hamam"]

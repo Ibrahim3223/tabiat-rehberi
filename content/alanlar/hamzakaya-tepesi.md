@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara çıkışı","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamzakaya%20Tepesi","alt":"Hamzakaya Tepesi","caption":"Hamzakaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Hamzakaya Tepesi","caption":"Hamzakaya Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamzakaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535369","tip":"genel"}]
 description: "Hatay'ın doğal güzelliklerini keşfedin. Hamzakaya Tepesi, Akdeniz Bölgesi'nin önemli coğrafi noktalarından biri."
 keywords: ["Hamzakaya Tepesi","Hatay","Akdeniz Bölgesi","doğa","tepe","coğrafya","gezi","seyahat"]

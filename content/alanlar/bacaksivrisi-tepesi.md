@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bacaksivrisi%20Tepesi","alt":"Bacaksivrisi Tepesi","caption":"Bacaksivrisi Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_wilds_of_Patagonia%3B_a_narrative_of_the_Swedish_expedition_to_Patagonia%2C_Tierra_del_Fuego_and_the_Falkland_Islands_in_1907-1909_%28IA_wildsofpatagonia00skotrich%29.pdf/page1-720px-thumbnail.pdf.jpg","alt":"Bacaksivrisi Tepesi","caption":"Bacaksivrisi Tepesi","credit":"The wilds of Patagonia; a narrative of the Swedish expedition to Patagonia, Tierra del Fuego and the Falkland Islands in 1907-1909 (IA wildsofpatagonia00skotrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bacaksivrisi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389798","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Bolu'da bulunan Bacaksivrisi Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bacaksivrisi Tepesi","Bolu","Karadeniz Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]

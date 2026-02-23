@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Kuş İzleme","Fotoğrafçılık","Bitki İzleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Haydarlar%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Haydarlar Gölü Sulak Alanı","caption":"Haydarlar Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Haydarlar Gölü Sulak Alanı","caption":"Haydarlar Gölü Sulak Alanı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haydarlar%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229026","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan, doğa severler için bir cennet."
 keywords: ["Haydarlar Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Sulak Alanları","Korunan Alanlar","Doğa Turizmi","İç Anadolu'nun Gizli Cenneti"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["trekking","kamp","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Moturklu%20Tepesi","alt":"Moturklu Tepesi","caption":"Moturklu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Moturklu Tepesi","caption":"Moturklu Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Moturklu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535176","tip":"genel"}]
 description: "Hatay'da yer alan Moturklu Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor."
 keywords: ["Moturklu Tepesi","Hatay","Akdeniz Bölgesi","doğal güzellik","tepe","gezi"]

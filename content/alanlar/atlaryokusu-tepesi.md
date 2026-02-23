@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Atlaryoku%C5%9Fu%20Tepesi","alt":"Atlaryokuşu Tepesi","caption":"Atlaryokuşu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Atlaryokuşu Tepesi","caption":"Atlaryokuşu Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atlaryoku%C5%9Fu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389022","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin en yüksek noktalarından biri olan Atlaryokuşu Tepesi, 140 hektarlık alanı ve çeşitli bitki türleriyle dikkat çekiyor"
 keywords: ["Atlaryokuşu Tepesi","Erzurum","Doğu Anadolu Bölgesi","tepe","coğrafya","flora","fauna","ziyaret"]

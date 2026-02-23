@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kamp yapma","balık avlama","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Sebinkarahisar%20Dogu%20Karadeniz%20Goknari%202","alt":"Giresun-Sebinkarahisar Dogu Karadeniz Goknari 2","caption":"Giresun-Sebinkarahisar Dogu Karadeniz Goknari 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sis_da%C4%9F%C4%B1_%282%29.jpg/960px-Sis_da%C4%9F%C4%B1_%282%29.jpg","alt":"Giresun-Sebinkarahisar Dogu Karadeniz Goknari 2","caption":"Giresun-Sebinkarahisar Dogu Karadeniz Goknari 2","credit":"Sis dağı (2).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Sebinkarahisar%20Dogu%20Karadeniz%20Goknari%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227591","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerini keşfedin. Sebinkarahisar Dogu Karadeniz Goknari 2 milli parkı, ziyaretçiler için bir cennet."
 keywords: ["Giresun","Sebinkarahisar","Dogu Karadeniz","Goknari","milli park","doğa","turizm"]

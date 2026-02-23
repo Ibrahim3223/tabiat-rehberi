@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kuş gözlemciliği","bitki gözlemciliği","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Heybeli%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Heybeli Gölü Sulak Alanı","caption":"Heybeli Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Heybeli Gölü Sulak Alanı","caption":"Heybeli Gölü Sulak Alanı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Heybeli%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228457","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin önemli sulak alanlarından biri olan Heybeli Gölü Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["sulak alan","İç Anadolu Bölgesi","Heybeli Gölü","doğal yaşam alanı","kuş türleri","bitki çeşitliliği","ekosistem","koruma alanı"]

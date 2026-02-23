@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Su sporları","Tarihi mekanları gezmek","Yeme ve içecek tadımı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BClb%C3%BCl%20Hatun%20ve%20Ahmet%20Bey%E2%80%99in%20T%C3%BCrbesi","alt":"Bülbül Hatun ve Ahmet Bey’in Türbesi","caption":"Bülbül Hatun ve Ahmet Bey’in Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Animal_disease_thesaurus_%28IA_CAT80734093003%29.pdf/page1-900px-Animal_disease_thesaurus_%28IA_CAT80734093003%29.pdf.jpg","alt":"Bülbül Hatun ve Ahmet Bey’in Türbesi","caption":"Bülbül Hatun ve Ahmet Bey’in Türbesi","credit":"Animal disease thesaurus (IA CAT80734093003).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BClb%C3%BCl%20Hatun%20ve%20Ahmet%20Bey%E2%80%99in%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391821","tip":"genel"}]
 description: "Karacabey, Bursa'da tarihi bir plaj"
 keywords: ["Karacabey","Bursa","Marmara Bölgesi","tarihi plaj","Bülbül Hatun","Ahmet Bey","türbe","deniz","gezi","turizm"]

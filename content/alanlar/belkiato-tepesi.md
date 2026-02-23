@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","tarihî yerleri ziyaret","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Belkiato%20Tepesi","alt":"Belkiato Tepesi","caption":"Belkiato Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Belkiato Tepesi","caption":"Belkiato Tepesi","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Belkiato%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386770","tip":"genel"}]
 description: "Diyarbakır'ın históri ve coğrafi güzelliği, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Belkiato Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","tarih","coğrafya","flora","fauna"]

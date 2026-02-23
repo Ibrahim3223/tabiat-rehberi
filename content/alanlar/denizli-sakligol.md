@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=DEN%C4%B0ZL%C4%B0%20SAKLIG%C3%96L","alt":"DENİZLİ SAKLIGÖL","caption":"DENİZLİ SAKLIGÖL"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"DENİZLİ SAKLIGÖL","caption":"DENİZLİ SAKLIGÖL","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DEN%C4%B0ZL%C4%B0%20SAKLIG%C3%96L","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228892","tip":"genel"}]
 description: "Doğal güzellikleri ve zengin fauna ile dikkat çeken Denizli Saklıgöl, ziyaretçilerini bekliyor."
 keywords: ["Denizli","Saklıgöl","Milli Park","Doğa","Fauna","Flora","Gezi","Türkiye","İç Anadolu Bölgesi","Turizm"]

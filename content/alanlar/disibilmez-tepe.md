@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarihçe araştırması","Coğrafi keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Di%C5%9Fibilmez%20Tepe","alt":"Dişibilmez Tepe","caption":"Dişibilmez Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Dişibilmez Tepe","caption":"Dişibilmez Tepe","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Di%C5%9Fibilmez%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388766","tip":"genel"}]
 description: "Muğla'da yer alan históri ve coğrafi öneme sahip bir tepe"
 keywords: ["Dişibilmez Tepe","Muğla","Ege Bölgesi","tepe","coğrafya","tarihçe","doğal güzellikler","gezi rehberi"]

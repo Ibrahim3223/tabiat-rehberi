@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Mengen-Cosur%20Ebe%20Saricami","alt":"Bolu-Mengen-Cosur Ebe Saricami","caption":"Bolu-Mengen-Cosur Ebe Saricami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bolu_Yedig%C3%B6ller_National_Park.jpg/960px-Bolu_Yedig%C3%B6ller_National_Park.jpg","alt":"Bolu-Mengen-Cosur Ebe Saricami","caption":"Bolu-Mengen-Cosur Ebe Saricami","credit":"Bolu Yedigöller National Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Mengen-Cosur%20Ebe%20Saricami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227968","tip":"genel"}]
 description: "Bolu-Mengen-Cosur Ebe Saricami milli parkı, Karadeniz Bölgesi'nde yer alan doğal güzellikler sunan bir alandır."
 keywords: ["Bolu","Mengen","Cosur Ebe Saricami","milli park","Karadeniz Bölgesi","doğa","turizm","gezi"]

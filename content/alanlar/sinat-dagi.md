@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sinat%20Da%C4%9F%C4%B1","alt":"Sinat Dağı","caption":"Sinat Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Sinat Dağı","caption":"Sinat Dağı","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinat%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31589306","tip":"genel"}]
 description: "Konya'da yer alan Sinat Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Sinat Dağı","Konya","Dağ","Doğa","Yeşil Alan","Konya Turizm","Doğal Güzellikler","Türkiye Dağları","Konya Gezilecek Yerler"]

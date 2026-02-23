@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["denizde yüzme","güneşlenme","balık avı","doğa yürüyüşleri","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=At%C3%A7a%20Hamam%C4%B1","alt":"Atça Hamamı","caption":"Atça Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Atça Hamamı","caption":"Atça Hamamı","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/At%C3%A7a%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739100","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerinden biri olan Atça Hamamı, Sultanhisar'a bağlı bir plajdır."
 keywords: ["Atça Hamamı","Sultanhisar","Aydın","Ege Bölgesi","plaj","doğal güzellik","tatil"]

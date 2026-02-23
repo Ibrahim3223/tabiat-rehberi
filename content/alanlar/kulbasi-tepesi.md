@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BClba%C5%9F%C4%B1%20Tepesi","alt":"Külbaşı Tepesi","caption":"Külbaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Külbaşı Tepesi","caption":"Külbaşı Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BClba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210739","tip":"genel"}]
 description: "Isparta'nın doğal güzelliklerinden biri olan Külbaşı Tepesi, tarihi ve coğrafi zenginlikleriyle dikkat çekiyor."
 keywords: ["Külbaşı Tepesi","Isparta","Akdeniz Bölgesi","doğa","tarih","coğrafya","gezi","turizm","tepe"]

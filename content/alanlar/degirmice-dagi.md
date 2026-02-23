@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=De%C4%9Firmice%20Da%C4%9F%C4%B1","alt":"Değirmice Dağı","caption":"Değirmice Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ordu_Cenneti.jpg/960px-Ordu_Cenneti.jpg","alt":"Değirmice Dağı","caption":"Değirmice Dağı","credit":"Ordu Cenneti.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/De%C4%9Firmice%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31569143","tip":"genel"}]
 description: "Ordu'nun görkemli dağlarından biri olan Değirmice Dağı, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Değirmice Dağı","Ordu","Dağ","Doğa","Turizm","Yeşil Alan","Ordu Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

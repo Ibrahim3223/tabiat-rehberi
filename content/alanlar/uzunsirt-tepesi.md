@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin etrafını gezmek","Bitki türleri ve hayvanları gözlemlemek","Coğrafi yapısını anlamak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Uzuns%C4%B1rt%20Tepesi","alt":"Uzunsırt Tepesi","caption":"Uzunsırt Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Uzunsırt Tepesi","caption":"Uzunsırt Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzuns%C4%B1rt%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536883","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en önemli coğrafi oluşumlarından biri olan Uzunsırt Tepesi, Gaziantep'in doğal güzelliklerini gözler önüne seriyor."
 keywords: ["Uzunsırt Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","Coğrafi oluşumlar","Doğal güzellikler","Tepeler","Dağlar","Coğrafya","Turizm"]

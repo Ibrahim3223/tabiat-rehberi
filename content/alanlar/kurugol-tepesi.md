@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurug%C3%B6l%20Tepesi","alt":"Kurugöl Tepesi","caption":"Kurugöl Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Kurugöl Tepesi","caption":"Kurugöl Tepesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurug%C3%B6l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042661","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin, 1400 metre yükseklikte yer alan Kurugöl Tepesi'ne çıkın"
 keywords: ["Kurugöl Tepesi","Erzurum","Dağ","Doğa","Trekking","Turizm","Erzurum Gezi","Kurugöl","Tepeler"]

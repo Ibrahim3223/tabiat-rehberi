@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0kig%C3%B6z%20Ma%C4%9Faras%C4%B1","alt":"İkigöz Mağarası","caption":"İkigöz Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"İkigöz Mağarası","caption":"İkigöz Mağarası","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0kig%C3%B6z%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319925","tip":"genel"}]
 description: "Van'da yer alan İkigöz Mağarası, 1200 hektarlık bir jeopark alanı sunar ve doğa severler için önemli bir destinasyondur."
 keywords: ["İkigöz Mağarası","Van","Jeopark","Doğa Turizmi","Mağara Gezisi","Van Turistik Yerler","Jeolojik Oluşumlar","Turizm Destinasyonları","Doğa Harikaları"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","vahşi yaşam gözlemi","fotoğrafçılık","kampçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artvin-Yusufeli-Kilickaya-Dogu%20Karadeniz%20Goknari","alt":"Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari","caption":"Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bentley%27s_Miscellany_1856-01-_Vol_39_%28IA_sim_bentleys-miscellany_1856-01_39%29.pdf/page1-812px-Bentley%27s_Miscellany_1856-01-_Vol_39_%28IA_sim_bentleys-miscellany_1856-01_39%29.pdf.jpg","alt":"Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari","caption":"Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari","credit":"Bentley's Miscellany 1856-01- Vol 39 (IA sim bentleys-miscellany 1856-01 39).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Yusufeli-Kilickaya-Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228555","tip":"genel"}]
 description: "Doğu Karadeniz'in yeşil cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Artvin","Yusufeli","Kilickaya","Doğu Karadeniz","Goknari","milli park","doğa","gezi"]

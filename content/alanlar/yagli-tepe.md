@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ya%C4%9Fl%C4%B1%20Tepe","alt":"Yağlı Tepe","caption":"Yağlı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Palms_and_pearls_-_or_Scenes_in_Ceylon_%28IA_palmspearlsorsce00waltrich%29.pdf/page1-818px-Palms_and_pearls_-_or_Scenes_in_Ceylon_%28IA_palmspearlsorsce00waltrich%29.pdf.jpg","alt":"Yağlı Tepe","caption":"Yağlı Tepe","credit":"Palms and pearls - or Scenes in Ceylon (IA palmspearlsorsce00waltrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ya%C4%9Fl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560323","tip":"genel"}]
 description: "Sivas'ta bulunan Yağlı Tepe, doğa severlerin ziyaret ettiği bir dağdır. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Yağlı Tepe","Sivas","Dağ","Doğa","Yeşil Alan","Türkiye","Sivas Turizm","Dağcılık","Doğa Yürüyüşü"]

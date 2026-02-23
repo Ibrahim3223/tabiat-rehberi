@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["müze gezisi","bahçe gezisi","etkinli ve sergi ziyaretleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sebil%C3%BCrre%C5%9Fad%20Dergisi%20M%C3%BCzesi","alt":"Sebilürreşad Dergisi Müzesi","caption":"Sebilürreşad Dergisi Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Sebilürreşad Dergisi Müzesi","caption":"Sebilürreşad Dergisi Müzesi","credit":"A Geological Wonder in Nallıhan.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sebil%C3%BCrre%C5%9Fad%20Dergisi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950231","tip":"genel"}]
 description: "Ankara'nın merkezinde yer alan tarihi dergi müzesi"
 keywords: ["Ankara","müze","dergi","tarih","kültür"]

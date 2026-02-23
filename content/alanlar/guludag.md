@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCl%C3%BCda%C4%9F","alt":"Gülüdağ","caption":"Gülüdağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Gülüdağ","caption":"Gülüdağ","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCl%C3%BCda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873132","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Gülüdağ, doğa severlerin ziyaret ettiği bir yer"
 keywords: ["Gülüdağ","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezi","Gülüdağ Turu","Dağ Keşfi","Doğa Harikaları","Türkiye'nin Dağları"]

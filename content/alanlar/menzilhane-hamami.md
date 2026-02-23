@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Menzilhane%20Hamam%C4%B1","alt":"Menzilhane Hamamı","caption":"Menzilhane Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Menzilhane Hamamı","caption":"Menzilhane Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Menzilhane%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739117","tip":"genel"}]
 description: "Kocaeli'nin Gebze ilçesinde bulunan Menzilhane Hamamı, doğal güzelliği ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Menzilhane Hamamı","Gebze","Kocaeli","Marmara Bölgesi","doğal güzellik","tarihi önemi"]

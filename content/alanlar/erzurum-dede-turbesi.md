@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenmek","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erzurum%20Dede%20T%C3%BCrbesi","alt":"Erzurum Dede Türbesi","caption":"Erzurum Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/The_salt-box_house_%28electronic_resource%29_-_eighteenth_century_life_in_a_New_England_hill_town_%28IA_saltboxhouseeigh00shelrich%29.pdf/page1-712px-The_salt-box_house_%28electronic_resource%29_-_eighteenth_century_life_in_a_New_England_hill_town_%28IA_saltboxhouseeigh00shelrich%29.pdf.jpg","alt":"Erzurum Dede Türbesi","caption":"Erzurum Dede Türbesi","credit":"The salt-box house (electronic resource) - eighteenth century life in a New England hill town (IA saltboxhouseeigh00shelrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582714","tip":"genel"}]
 description: "Çorum'da bulunan tarihi türbe ve doğal güzellikler"
 keywords: ["Erzurum Dede Türbesi","Çorum","Karadeniz Bölgesi","tarihi türbe","doğa","gezi","tarihçe","coğrafya","flora","fauna"]

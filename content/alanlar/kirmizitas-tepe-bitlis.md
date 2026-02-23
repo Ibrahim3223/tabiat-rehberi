@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rm%C4%B1z%C4%B1ta%C5%9F%20Tepe%20(Bitlis)","alt":"Kırmızıtaş Tepe (Bitlis)","caption":"Kırmızıtaş Tepe (Bitlis)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Kırmızıtaş Tepe","caption":"Kırmızıtaş Tepe","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1ta%C5%9F%20Tepe%20(Bitlis)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514685","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Kırmızıtaş Tepe, Bitlis'in doğal güzelliklerini keşfedin."
 keywords: ["Kırmızıtaş Tepe","Bitlis","Doğu Anadolu","Dağ","Doğal Alan","Türkiye","Gezi","Seyahat","Bitlis Gezilecek Yerler"]

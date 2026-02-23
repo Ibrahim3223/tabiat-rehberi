@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Kampçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=BURDUR%20SEREN%C3%87AY%20KANYONU","alt":"BURDUR SERENÇAY KANYONU","caption":"BURDUR SERENÇAY KANYONU"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"BURDUR SERENÇAY KANYONU","caption":"BURDUR SERENÇAY KANYONU","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BURDUR%20SEREN%C3%87AY%20KANYONU","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228939","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Burdur Serençay Kanyonu, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
 keywords: ["Burdur","Serençay Kanyonu","İç Anadolu Bölgesi","doğal güzellik","kanyon","gezi"]

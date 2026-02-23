@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Avgarsa%20Da%C4%9F%C4%B1","alt":"Avgarsa Dağı","caption":"Avgarsa Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rocky_Mountain_adventures_%28IA_rockymountainadv00shel%29.pdf/page1-618px-Rocky_Mountain_adventures_%28IA_rockymountainadv00shel%29.pdf.jpg","alt":"Avgarsa Dağı","caption":"Avgarsa Dağı","credit":"Rocky Mountain adventures (IA rockymountainadv00shel).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avgarsa%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531500","tip":"genel"}]
 description: "Van'da bulunan Avgarsa Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Avgarsa Dağı","Van","Dağ","Doğa","Turizm","Gezi","Trekking","Kamp","Doğa Sporları","Van Gezilecek Yerler"]

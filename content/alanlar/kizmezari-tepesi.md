@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1zmezar%C4%B1%20Tepesi","alt":"Kızmezarı Tepesi","caption":"Kızmezarı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tree_on_an_island_-_Flickr_-_faktor1komma5.jpg/960px-Tree_on_an_island_-_Flickr_-_faktor1komma5.jpg","alt":"Kızmezarı Tepesi","caption":"Kızmezarı Tepesi","credit":"Tree on an island - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1zmezar%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388337","tip":"genel"}]
 description: "Aydın'da yer alan Kızmezarı Tepesi, Ege Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Kızmezarı Tepesi","Aydın","Ege Bölgesi","doğal alan","tepe","coğrafya","flora","fauna"]

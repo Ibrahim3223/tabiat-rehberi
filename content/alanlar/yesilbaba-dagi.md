@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ye%C5%9Filbaba%20Da%C4%9F%C4%B1","alt":"Yeşilbaba Dağı","caption":"Yeşilbaba Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Yeşilbaba Dağı","caption":"Yeşilbaba Dağı","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Filbaba%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31578005","tip":"genel"}]
 description: "Tunceli'nin görkemli dağlarından biri olan Yeşilbaba Dağı, 1200 hektarlık yeşil cenneti ile doğa severlerin ziyaret noktalarından."
 keywords: ["Yeşilbaba Dağı","Tunceli","Dağ","Doğa","Yeşil Alan","Tunceli Turizm","Dağcılık","Doğa Yürüyüşü","Tunceli Gezi"]

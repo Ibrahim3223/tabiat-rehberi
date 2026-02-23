@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=So%C4%9Fukp%C4%B1nar%20Tepesi","alt":"Soğukpınar Tepesi","caption":"Soğukpınar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Soğukpınar Tepesi","caption":"Soğukpınar Tepesi","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fukp%C4%B1nar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387820","tip":"genel"}]
 description: "Ardahan'ın doğal güzelliklerini keşfedin. Soğukpınar Tepesi, Doğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Soğukpınar Tepesi","Ardahan","Doğu Anadolu Bölgesi","Doğal güzellikler","Tepeler","Coğrafya","Turizm","Gezi","Keşif"]

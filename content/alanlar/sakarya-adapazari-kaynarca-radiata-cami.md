@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotograf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sakarya-Adapazari-Kaynarca%20Radiata%20%C3%87am%C4%B1","alt":"Sakarya-Adapazari-Kaynarca Radiata Çamı","caption":"Sakarya-Adapazari-Kaynarca Radiata Çamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Sakarya-Adapazari-Kaynarca Radiata Çamı","caption":"Sakarya-Adapazari-Kaynarca Radiata Çamı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-Adapazari-Kaynarca%20Radiata%20%C3%87am%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227281","tip":"genel"}]
 description: "Sakarya'da yer alan doğal güzellik, Radiata Çamı"
 keywords: ["Sakarya","Adapazari","Kaynarca","Radiata Çamı","Marmara Bölgesi","doğal alan","çam ormanı"]

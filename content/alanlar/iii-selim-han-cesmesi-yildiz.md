@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=III.%20Selim%20Han%20%C3%87e%C5%9Fmesi%2C%20Y%C4%B1ld%C4%B1z","alt":"III. Selim Han Çeşmesi, Yıldız","caption":"III. Selim Han Çeşmesi, Yıldız"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"III. Selim Han Çeşmesi, Yıldız","caption":"III. Selim Han Çeşmesi, Yıldız","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/III.%20Selim%20Han%20%C3%87e%C5%9Fmesi%2C%20Y%C4%B1ld%C4%B1z","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131836258","tip":"genel"}]
 description: "III. Selim Han Çeşmesi, Yıldız, İstanbul'un Beşiktaş ilçesinde bulunan tarihi bir çeşme."
 keywords: ["III. Selim Han Çeşmesi","Yıldız","Beşiktaş","İstanbul","tarihi çeşme","Marmara Bölgesi","gezi","turizm","kültür"]

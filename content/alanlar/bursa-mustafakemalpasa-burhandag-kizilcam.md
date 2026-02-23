@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Mustafakemalpasa-Burhandag%20Kizilcam","alt":"Bursa-Mustafakemalpasa-Burhandag Kizilcam","caption":"Bursa-Mustafakemalpasa-Burhandag Kizilcam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Uluda%C4%9F_National_Park_%28777%29.jpg/960px-Uluda%C4%9F_National_Park_%28777%29.jpg","alt":"Bursa-Mustafakemalpasa-Burhandag Kizilcam","caption":"Bursa-Mustafakemalpasa-Burhandag Kizilcam","credit":"Uludağ National Park (777).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpasa-Burhandag%20Kizilcam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228596","tip":"genel"}]
 description: "Bursa'nın doğal güzelliklerini keşfedin. Marmara Bölgesi'nin önemli noktalarından biri olan Bursa-Mustafakemalpasa-Burhandag Kizilcam, ziyaretçilerini bekliyor."
 keywords: ["Bursa","Marmara Bölgesi","doğa"," milli park","gezi","turizm","çevre","ekosistem","flora","fauna"]

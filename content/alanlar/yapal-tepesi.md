@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yapal%20Tepesi","alt":"Yapal Tepesi","caption":"Yapal Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaidrich%29.pdf/page1-720px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaidrich%29.pdf.jpg","alt":"Yapal Tepesi","caption":"Yapal Tepesi","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen00gaidrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yapal%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390287","tip":"genel"}]
 description: "Adana'da yer alan Yapal Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Yapal Tepesi","Adana","Akdeniz Bölgesi","doğal güzellik","tepe","gezi","turizm"]

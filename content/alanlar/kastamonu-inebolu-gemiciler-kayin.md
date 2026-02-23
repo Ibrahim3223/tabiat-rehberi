@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Inebolu-Gemiciler%20Kayin","alt":"Kastamonu-Inebolu-Gemiciler Kayin","caption":"Kastamonu-Inebolu-Gemiciler Kayin"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Kastamonu-Inebolu-Gemiciler Kayin","caption":"Kastamonu-Inebolu-Gemiciler Kayin","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Inebolu-Gemiciler%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227261","tip":"genel"}]
 description: "Kastamonu'nun doğal güzellikleri arasında yer alan milli park, 140 hektarlık alanı ile dikkat çekiyor. Zengin flora ve fauna çeşitliliği sunan bu bölge, ziyaretçilerine unutulmaz anlar yaşatıyor."
 keywords: ["Kastamonu","Inebolu","Gemiciler Kayin","milli park","doğa","flora","fauna","turizm","gezi"]

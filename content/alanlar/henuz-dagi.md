@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hen%C3%BCz%20Da%C4%9F%C4%B1","alt":"Henüz Dağı","caption":"Henüz Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chambers%27s_concise_gazetteer_of_the_world_-_topographical%2C_statistical%2C_historical%2C_pronouncing_%28IA_chamberssconcise00patrrich%29.pdf/page1-850px-Chambers%27s_concise_gazetteer_of_the_world_-_topographical%2C_statistical%2C_historical%2C_pronouncing_%28IA_chamberssconcise00patrrich%29.pdf.jpg","alt":"Henüz Dağı","caption":"Henüz Dağı","credit":"Chambers's concise gazetteer of the world - topographical, statistical, historical, pronouncing (IA chamberssconcise00patrrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hen%C3%BCz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34921874","tip":"genel"}]
 description: "Adana'da bulunan Hiç Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Henüz Dağı","Adana","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Adana Turistik Yerler"]

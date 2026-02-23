@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=KarakaleTepesi","alt":"KarakaleTepesi","caption":"KarakaleTepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"KarakaleTepesi","caption":"KarakaleTepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KarakaleTepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388027","tip":"genel"}]
 description: "Kütahya'nın gizli cenneti KarakaleTepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor"
 keywords: ["KarakaleTepesi","Kütahya","Ege Bölgesi","tepe","doğa","gezi","tarih"]

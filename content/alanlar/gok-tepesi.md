@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğrafçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6k%20Tepesi","alt":"Gök Tepesi","caption":"Gök Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Anlamayana%2C_g%C3%B6z%C3%BCn_g%C3%B6rd%C3%BC%C4%9F%C3%BCd%C3%BCr%2C_bu_d%C3%BCnya._-_panoramio.jpg/960px-Anlamayana%2C_g%C3%B6z%C3%BCn_g%C3%B6rd%C3%BC%C4%9F%C3%BCd%C3%BCr%2C_bu_d%C3%BCnya._-_panoramio.jpg","alt":"Gök Tepesi","caption":"Gök Tepesi","credit":"Anlamayana, gözün gördüğüdür, bu dünya. - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32223440","tip":"genel"}]
 description: "Gök Tepesi, Karadeniz Bölgesi'nde bulunan Giresun ilinin doğal güzelliklerinden biri"
 keywords: ["Gök Tepesi","Giresun","Karadeniz Bölgesi","doğal güzellik","tepe","manzara","gezi","turizm","çevre"]

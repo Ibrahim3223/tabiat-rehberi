@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuyruksuzburun%20Tepesi","alt":"Kuyruksuzburun Tepesi","caption":"Kuyruksuzburun Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Kuyruksuzburun Tepesi","caption":"Kuyruksuzburun Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyruksuzburun%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390765","tip":"genel"}]
 description: "Yozgat'ın İç Anadolu Bölgesi'nde yer alan Kuyruksuzburun Tepesi, coğrafi güzelliği ve tarihi geçmişi ile dikkat çekiyor."
 keywords: ["Kuyruksuzburun Tepesi","Yozgat","İç Anadolu Bölgesi","coğrafi güzellik","tarihi geçmişi","doğa","gezi","turizm"]

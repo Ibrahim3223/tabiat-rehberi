@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Korukaya%20Tepesi","alt":"Korukaya Tepesi","caption":"Korukaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Korukaya Tepesi","caption":"Korukaya Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Korukaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389684","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin. Korukaya Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri"
 keywords: ["Korukaya Tepesi","Kastamonu","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","köy","manzara"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kocak%C4%B1ran%20Tepesi","alt":"Kocakıran Tepesi","caption":"Kocakıran Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/The_coast_at_Do%C4%9Fanbey_in_June_%281%29_-_Flickr_-_faktor1komma5.jpg/960px-The_coast_at_Do%C4%9Fanbey_in_June_%281%29_-_Flickr_-_faktor1komma5.jpg","alt":"Kocakıran Tepesi","caption":"Kocakıran Tepesi","credit":"The coast at Doğanbey in June (1) - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocak%C4%B1ran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388347","tip":"genel"}]
 description: "Aydın'ın doğal güzellikleri arasında yer alan Kocakıran Tepesi, ziyaretçilerini Ege Bölgesi'nin eşsiz manzarasına davet ediyor."
 keywords: ["Aydın","Ege Bölgesi","Kocakıran Tepesi","doğal güzellik","tepe","gezi","manzara"]

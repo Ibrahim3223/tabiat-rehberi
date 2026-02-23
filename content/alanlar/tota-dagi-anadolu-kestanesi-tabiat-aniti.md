@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tota%20Da%C4%9F%C4%B1%20Anadolu%20Kestanesi%20Tabiat%20An%C4%B1t%C4%B1","alt":"Tota Dağı Anadolu Kestanesi Tabiat Anıtı","caption":"Tota Dağı Anadolu Kestanesi Tabiat Anıtı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Tota Dağı Anadolu Kestanesi Tabiat Anıtı","caption":"Tota Dağı Anadolu Kestanesi Tabiat Anıtı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tota%20Da%C4%9F%C4%B1%20Anadolu%20Kestanesi%20Tabiat%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30590104","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide noktalarından biri olan Tota Dağı, Anadolu kestanesi türleriyle dikkat çekiyor"
 keywords: ["Tota Dağı","Anadolu Kestanesi","Tabiat Anıtı","İç Anadolu Bölgesi","Doğa","Kestane"]

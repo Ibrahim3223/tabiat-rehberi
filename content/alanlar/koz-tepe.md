@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koz%20Tepe","alt":"Koz Tepe","caption":"Koz Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf/page1-897px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf.jpg","alt":"Koz Tepe","caption":"Koz Tepe","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor00azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31512577","tip":"genel"}]
 description: "Bingöl'de yer alan Koz Tepe, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Koz Tepe","Bingöl","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Turizm"]

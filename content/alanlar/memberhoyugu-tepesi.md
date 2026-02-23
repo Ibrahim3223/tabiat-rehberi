@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî alan gezisi","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Memberh%C3%B6y%C3%BC%C4%9F%C3%BC%20Tepesi","alt":"Memberhöyüğü Tepesi","caption":"Memberhöyüğü Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Memberhöyüğü Tepesi","caption":"Memberhöyüğü Tepesi","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Memberh%C3%B6y%C3%BC%C4%9F%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32126382","tip":"genel"}]
 description: "Konya'nın tarihî ve coğrafî değerlerini taşıyan önemli bir nokta"
 keywords: ["Konya","İç Anadolu Bölgesi","tepe","tarih","coğrafya","doğa","gezi","ziyaret"]

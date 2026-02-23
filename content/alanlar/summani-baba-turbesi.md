@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCmmani%20Baba%20T%C3%BCrbesi","alt":"Sümmani Baba Türbesi","caption":"Sümmani Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Sümmani Baba Türbesi","caption":"Sümmani Baba Türbesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCmmani%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390807","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Sümmani Baba Türbesi","Narman","Erzurum","Doğu Anadolu Bölgesi","tarih","doğa","gezi","türbe"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","turizm","fotoğrafçılık","tarih research"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yaru%C3%A7an%20Tepe","alt":"Yaruçan Tepe","caption":"Yaruçan Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Yaruçan Tepe","caption":"Yaruçan Tepe","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yaru%C3%A7an%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32195054","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Yaruçan Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Yaruçan Tepe","Sivas","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","Sivas'ta gezilecek yerler","Yaruçan Tepe hakkında bilgi"]

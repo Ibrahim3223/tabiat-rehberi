@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","yaban hayatı izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Akkus-Golluce%20Dogu%20Kayini","alt":"Giresun-Akkus-Golluce Dogu Kayini","caption":"Giresun-Akkus-Golluce Dogu Kayini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Giresun-Akkus-Golluce Dogu Kayini","caption":"Giresun-Akkus-Golluce Dogu Kayini","credit":"Sis dağı (3).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Akkus-Golluce%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227790","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerinin sergilendiği bir milli park"
 keywords: ["Giresun","Akkus","Golluce Dogu Kayini","milli park","doğal güzellik","Karadeniz Bölgesi","turizm","gezi","yaban hayatı"]

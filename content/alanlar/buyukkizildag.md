@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCkk%C4%B1z%C4%B1lda%C4%9F","alt":"Büyükkızıldağ","caption":"Büyükkızıldağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Büyükkızıldağ","caption":"Büyükkızıldağ","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkk%C4%B1z%C4%B1lda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731380","tip":"genel"}]
 description: "Sivas'ta yer alan Büyükkızıldağ, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Büyükkızıldağ","Sivas","Dağ","Doğa","Yürüyüş Rotaları","Turizm","Sivas Turistik Yerler","Doğal Güzellikler","Trekking"]

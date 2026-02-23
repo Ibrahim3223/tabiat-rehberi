@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara seyretme","fotografcılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Av%C5%9Far%20Tepesi","alt":"Avşar Tepesi","caption":"Avşar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Giresun_yaylalar%C4%B1_-_panoramio.jpg/960px-Giresun_yaylalar%C4%B1_-_panoramio.jpg","alt":"Avşar Tepesi","caption":"Avşar Tepesi","credit":"Giresun yaylaları - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Av%C5%9Far%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389173","tip":"genel"}]
 description: "Giresun'un doğusunda yer alan Avşar Tepesi, Karadeniz Bölgesi'nin önemli coğrafi oluşumlarından biridir."
 keywords: ["Avşar Tepesi","Giresun","Karadeniz Bölgesi","coğrafi oluşum","doğa","gezi","turizm","tepe"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pirali%20Tepe","alt":"Pirali Tepe","caption":"Pirali Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Samsat_district_Turkey_%282%29.jpg/960px-Samsat_district_Turkey_%282%29.jpg","alt":"Pirali Tepe","caption":"Pirali Tepe","credit":"Samsat district Turkey (2).jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pirali%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391064","tip":"genel"}]
 description: "Adıyaman'ın tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Pirali Tepe, ziyaretçilerini büyülemektedir."
 keywords: ["Pirali Tepe","Adıyaman","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

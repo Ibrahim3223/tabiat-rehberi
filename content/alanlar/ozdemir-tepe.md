@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%96zdemir%20Tepe","alt":"Özdemir Tepe","caption":"Özdemir Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg","alt":"Özdemir Tepe","caption":"Özdemir Tepe","credit":"Güver Cliff Landscape (Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96zdemir%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820365","tip":"genel"}]
 description: "Antalya'da bulunan Özdemir Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri"
 keywords: ["Özdemir Tepe","Antalya","Dağ","Doğa","Trekking","Turizm","Gezi","Yürüyüş","Manzara"]

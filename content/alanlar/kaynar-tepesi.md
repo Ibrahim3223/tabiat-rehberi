@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotografcılık","Yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaynar%20Tepesi","alt":"Kaynar Tepesi","caption":"Kaynar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Kaynar Tepesi","caption":"Kaynar Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaynar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387081","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerinin başında gelen Kaynar Tepesi, ziyaretçilerini büyülemektedir."
 keywords: ["Kaynar Tepesi","Kastamonu","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","yaban hayatı","ekosistem"]

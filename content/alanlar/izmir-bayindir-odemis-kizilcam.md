@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0zmir-Bay%C4%B1nd%C4%B1r-%C3%96demi%C5%9F-K%C4%B1z%C4%B1l%C3%A7am","alt":"İzmir-Bayındır-Ödemiş-Kızılçam","caption":"İzmir-Bayındır-Ödemiş-Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MOKFC11.jpg/960px-MOKFC11.jpg","alt":"İzmir-Bayındır-Ödemiş-Kızılçam","caption":"İzmir-Bayındır-Ödemiş-Kızılçam","credit":"MOKFC11.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0zmir-Bay%C4%B1nd%C4%B1r-%C3%96demi%C5%9F-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228442","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. İzmir-Bayındır-Ödemiş-Kızılçam milli parkı, Ege Bölgesi'nin en çekici yerlerinden biri."
 keywords: ["İzmir","Bayındır","Ödemiş","Kızılçam","milli park","doğa","gezi","Ege Bölgesi"]

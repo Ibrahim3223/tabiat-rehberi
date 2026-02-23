@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6se%20Da%C4%9F%C4%B1%20(Van)","alt":"Köse Dağı (Van)","caption":"Köse Dağı (Van)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor01azhd%29.pdf/page1-691px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor01azhd%29.pdf.jpg","alt":"Köse Dağı","caption":"Köse Dağı","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor01azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6se%20Da%C4%9F%C4%B1%20(Van)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21704010","tip":"genel"}]
 description: "Van'ın doğal güzelliklerini keşfedin, Köse Dağı'nın heybetli manzaralarına şahit olun"
 keywords: ["Köse Dağı","Van","Dağ","Doğa","Turizm","Gezi","Van Gezilecek Yerler","Köse Dağı Van","Dağcılık"]

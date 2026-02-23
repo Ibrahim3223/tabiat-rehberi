@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Diyaradama%20Tepesi","alt":"Diyaradama Tepesi","caption":"Diyaradama Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Diyaradama Tepesi","caption":"Diyaradama Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diyaradama%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31544887","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en dikkat çekici noktalarından biri olan Diyaradama Tepesi, Batman'ilere ve ziyaretçilere eşsiz manzaralar sunuyor."
 keywords: ["Diyaradama Tepesi","Batman","Güneydoğu Anadolu Bölgesi","tepe","doğa","manzara","gezi","turizm","coğrafya"]

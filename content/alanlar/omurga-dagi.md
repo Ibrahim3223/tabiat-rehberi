@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Omurga%20Da%C4%9F%C4%B1","alt":"Omurga Dağı","caption":"Omurga Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Omurga Dağı","caption":"Omurga Dağı","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Omurga%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q13650859","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Omurga Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Omurga Dağı","Türkiye dağları","doğal güzellikler","trekking rotaları","dağcılık","turizm","gezi rehberi","coğrafya","Türkiye coğrafyası"]

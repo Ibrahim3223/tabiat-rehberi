@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Boyac%C4%B1d%C3%BCz%C3%BC%20Tepe","alt":"Boyacıdüzü Tepe","caption":"Boyacıdüzü Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Boyacıdüzü Tepe","caption":"Boyacıdüzü Tepe","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boyac%C4%B1d%C3%BCz%C3%BC%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35729013","tip":"genel"}]
 description: "Diyarbakır'ın görkemli dağlarından biri olan Boyacıdüzü Tepe, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Boyacıdüzü Tepe","Diyarbakır","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Diyarbakır Turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günün yarısı"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bayrak%20Adas%C4%B1%20(Antalya)","alt":"Bayrak Adası (Antalya)","caption":"Bayrak Adası (Antalya)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_tragedy_of_the_seas%3B_or%2C_Sorrow_on_the_ocean%2C_lake%2C_and_river%2C_from_shipwreck%2C_plague%2C_fire_and_famine_%281848%29_%2814763280232%29.jpg/960px-The_tragedy_of_the_seas%3B_or%2C_Sorrow_on_the_ocean%2C_lake%2C_and_river%2C_from_shipwreck%2C_plague%2C_fire_and_famine_%281848%29_%2814763280232%29.jpg","alt":"Bayrak Adası","caption":"Bayrak Adası","credit":"The tragedy of the seas; or, Sorrow on the ocean, lake, and river, from shipwreck, plague, fire and famine (1848) (14763280232).jpg","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bayrak%20Adas%C4%B1%20(Antalya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49632527","tip":"genel"}]
 description: "Antalya'nın güzide adalarından biri olan Bayrak Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Bayrak Adası","Antalya","ada","turizm","gezi","doğa","tarih","yeşil alan","deniz","kumsal"]

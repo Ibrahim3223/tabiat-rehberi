@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Gün boyu"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1la%C4%9Fa%C3%A7%20Adas%C4%B1","alt":"Kızılağaç Adası","caption":"Kızılağaç Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf/page1-960px-Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf.jpg","alt":"Kızılağaç Adası","caption":"Kızılağaç Adası","credit":"Victoria Daily Times (1897-03-18) (IA victoriadailytimes18970318).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1la%C4%9Fa%C3%A7%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49646172","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin. Kızılağaç Adası, Ege Denizi'nin sakin sularında yer alan bir ada."
 keywords: ["Kızılağaç Adası","Muğla","Ege Denizi","ada","doğa","gezi","seyahat","turizm","Muğla adaları"]

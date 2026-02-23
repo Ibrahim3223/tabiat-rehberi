@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Atlas%20Da%C4%9F%C4%B1","alt":"Atlas Dağı","caption":"Atlas Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg","alt":"Atlas Dağı","caption":"Atlas Dağı","credit":"Kayaözü Creek Valley, Kahramanmaraş 05.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atlas%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531617","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Atlas Dağı, 1200 hektarlık yeşil alanı ile şehrin önemli doğal güzelliklerinden biri"
 keywords: ["Atlas Dağı","Kahramanmaraş","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Kahramanmaraş Turistik Yerler"]

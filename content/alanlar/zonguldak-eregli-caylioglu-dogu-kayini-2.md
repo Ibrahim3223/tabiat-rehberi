@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Orman gezi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zonguldak-Eregli-Caylioglu%20Dogu%20Kayini%202","alt":"Zonguldak-Eregli-Caylioglu Dogu Kayini 2","caption":"Zonguldak-Eregli-Caylioglu Dogu Kayini 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Zonguldak-Eregli-Caylioglu Dogu Kayini 2","caption":"Zonguldak-Eregli-Caylioglu Dogu Kayini 2","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Eregli-Caylioglu%20Dogu%20Kayini%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227740","tip":"genel"}]
 description: "Zonguldak'ta yer alan doğal güzellikler arasında gösterilen milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar."
 keywords: ["Zonguldak","milli park","doğal güzellik","yeşil alan","Karadeniz Bölgesi","Çaycuma","Ereğli","Caylıoğlu"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Coğrafi keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ta%C5%9Fkesti%20Tepe","alt":"Taşkesti Tepe","caption":"Taşkesti Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Taşkesti Tepe","caption":"Taşkesti Tepe","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fkesti%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390464","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerinden biri olan Taşkesti Tepe, coğrafi zenginlikleriyle dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Taşkesti Tepe","Konya","İç Anadolu Bölgesi","doğal güzellik","coğrafi zenginlik","yeşil alan"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCng%C3%B6rmez%20Tepesi","alt":"Güngörmez Tepesi","caption":"Güngörmez Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Güngörmez Tepesi","caption":"Güngörmez Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCng%C3%B6rmez%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139534","tip":"genel"}]
 description: "Bayburt'un doğal güzelliklerinin başında gelen Güngörmez Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Güngörmez Tepesi","Bayburt","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","tarih","coğrafya"]

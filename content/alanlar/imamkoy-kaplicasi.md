@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kaplıca tedavisi","ormanlık alan gezintisi","doğal güzellik keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0mamk%C3%B6y%20Kapl%C4%B1cas%C4%B1","alt":"İmamköy Kaplıcası","caption":"İmamköy Kaplıcası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"İmamköy Kaplıcası","caption":"İmamköy Kaplıcası","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mamk%C3%B6y%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739017","tip":"genel"}]
 description: "Ege Bölgesi'nin Aydın ilindeki Efeler ilçesinde bulunan İmamköy Kaplıcası, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["İmamköy Kaplıcası","Aydın","Efeler","Ege Bölgesi","kaplıca","doğa","turizm","gezi","seyahat"]

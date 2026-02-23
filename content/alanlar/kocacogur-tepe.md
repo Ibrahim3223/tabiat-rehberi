@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koca%C3%A7%C3%B6%C4%9F%C3%BCr%20Tepe","alt":"Kocaçöğür Tepe","caption":"Kocaçöğür Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_coast_at_Do%C4%9Fanbey_in_the_evening_%281%29_-_Flickr_-_faktor1komma5.jpg/960px-The_coast_at_Do%C4%9Fanbey_in_the_evening_%281%29_-_Flickr_-_faktor1komma5.jpg","alt":"Kocaçöğür Tepe","caption":"Kocaçöğür Tepe","credit":"The coast at Doğanbey in the evening (1) - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%C3%A7%C3%B6%C4%9F%C3%BCr%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32197900","tip":"genel"}]
 description: "Aydın ilinin doğal güzelliklerini keşfedin. Kocaçöğür Tepe, Ege Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kocaçöğür Tepe","Aydın","Ege Bölgesi","doğa","gezi","tepe","manzara","çevre","flora","fauna"]

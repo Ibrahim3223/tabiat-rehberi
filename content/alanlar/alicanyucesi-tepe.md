@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","trekking","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alicany%C3%BCcesi%20Tepe","alt":"Alicanyücesi Tepe","caption":"Alicanyücesi Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg","alt":"Alicanyücesi Tepe","caption":"Alicanyücesi Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alicany%C3%BCcesi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32127148","tip":"genel"}]
 description: "Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan Alicanyücesi Tepe, tarihi geçmişi ve zengin doğası ile dikkat çekiyor."
 keywords: ["Alicanyücesi Tepe","Kahramanmaraş","Akdeniz Bölgesi","doğa","tarih","gezi","turizm","coğrafya","flora","fauna"]

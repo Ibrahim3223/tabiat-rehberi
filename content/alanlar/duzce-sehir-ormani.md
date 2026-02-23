@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=D%C3%9CZCE%20%C5%9EEH%C4%B0R%20ORMANI","alt":"DÜZCE ŞEHİR ORMANI","caption":"DÜZCE ŞEHİR ORMANI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"DÜZCE ŞEHİR ORMANI","caption":"DÜZCE ŞEHİR ORMANI","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%9CZCE%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228671","tip":"genel"}]
 description: "Düzce Şehir Ormanı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
 keywords: ["Düzce Şehir Ormanı","doğa harikası","yeşil alan","futbol sahası","doğa severler","gezi alanı","orman","çevre"]

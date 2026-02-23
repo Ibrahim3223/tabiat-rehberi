@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sakarya-%C4%B0zmit-Kerpe%20Ara%C5%9Ft%C4%B1rma%20Orman%20Radiata%20%C3%87am%C4%B1","alt":"Sakarya-İzmit-Kerpe Araştırma Orman Radiata Çamı","caption":"Sakarya-İzmit-Kerpe Araştırma Orman Radiata Çamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Sakarya-İzmit-Kerpe Araştırma Orman Radiata Çamı","caption":"Sakarya-İzmit-Kerpe Araştırma Orman Radiata Çamı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-%C4%B0zmit-Kerpe%20Ara%C5%9Ft%C4%B1rma%20Orman%20Radiata%20%C3%87am%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228280","tip":"genel"}]
 description: "Marmara Bölgesi'nin Sakarya ilinde yer alan Sakarya-İzmit-Kerpe Araştırma Orman Radiata Çamı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Sakarya","İzmit","Kerpe","Araştırma Orman","Radiata Çamı","Marmara Bölgesi","orman","çam","doğa"]

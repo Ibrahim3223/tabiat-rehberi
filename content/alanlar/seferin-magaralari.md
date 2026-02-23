@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Seferin%20Ma%C4%9Faralar%C4%B1","alt":"Seferin Mağaraları","caption":"Seferin Mağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Seferin Mağaraları","caption":"Seferin Mağaraları","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seferin%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319744","tip":"genel"}]
 description: "Gaziantep'te yer alan Seferin Mağaraları, jeopark olarak bilinen doğal bir oluşum"
 keywords: ["Seferin Mağaraları","Gaziantep","Jeopark","Doğal Alanlar","Mağara Gezileri","Turizm","Gaziantep Turistik Yerler","Jeolojik Oluşumlar","Doğa Harikaları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültürel aktivite","fotoğraf çekimi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sara%C3%A7%20Sinan%20T%C3%BCrbesi","alt":"Saraç Sinan Türbesi","caption":"Saraç Sinan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/EIE_express_-_USACE-p16021coll8-511.pdf/page1-960px-EIE_express_-_USACE-p16021coll8-511.pdf.jpg","alt":"Saraç Sinan Türbesi","caption":"Saraç Sinan Türbesi","credit":"EIE express - USACE-p16021coll8-511.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sara%C3%A7%20Sinan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391357","tip":"genel"}]
 description: "Ankara'nın tarihi ve kültürel zenginliklerini keşfedin, Saraç Sinan Türbesi'ni ziyaret edin"
 keywords: ["Ankara","Saraç Sinan Türbesi","tarih","kültür","gezi","turizm","Altındağ","İç Anadolu Bölgesi","türk kültürü"]

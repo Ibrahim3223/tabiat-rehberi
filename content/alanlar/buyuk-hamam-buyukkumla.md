@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Bir gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Kumda oynamak","Yürüyüş yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCk%20Hamam%2C%20B%C3%BCy%C3%BCkkumla","alt":"Büyük Hamam, Büyükkumla","caption":"Büyük Hamam, Büyükkumla"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Animal_disease_thesaurus_%28IA_CAT80734093004%29.pdf/page1-858px-Animal_disease_thesaurus_%28IA_CAT80734093004%29.pdf.jpg","alt":"Büyük Hamam, Büyükkumla","caption":"Büyük Hamam, Büyükkumla","credit":"Animal disease thesaurus (IA CAT80734093004).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Hamam%2C%20B%C3%BCy%C3%BCkkumla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245846","tip":"genel"}]
 description: "Marmara Bölgesi'nin en güzel plajlarından biri olan Büyük Hamam, Büyükkumla, Gemlik'in en çok ziyaret edilen yerlerinden biri."
 keywords: ["Büyük Hamam","Büyükkumla","Gemlik","Marmara Bölgesi","plaj","deniz","kum"]

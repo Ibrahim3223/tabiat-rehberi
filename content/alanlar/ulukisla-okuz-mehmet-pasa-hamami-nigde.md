@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hamamın tarihi ve mimari özelliklerini incelemek","Bölgenin flora ve faunasını keşfetmek","Hamamın etrafındaki tarihi evleri ve yapıları gezmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Uluk%C4%B1%C5%9Fla%20%C3%96k%C3%BCz%20Mehmet%20Pa%C5%9Fa%20Hamam%C4%B1%20Ni%C4%9Fde","alt":"Ulukışla Öküz Mehmet Paşa Hamamı Niğde","caption":"Ulukışla Öküz Mehmet Paşa Hamamı Niğde"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Ulukışla Öküz Mehmet Paşa Hamamı Niğde","caption":"Ulukışla Öküz Mehmet Paşa Hamamı Niğde","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uluk%C4%B1%C5%9Fla%20%C3%96k%C3%BCz%20Mehmet%20Pa%C5%9Fa%20Hamam%C4%B1%20Ni%C4%9Fde","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738686","tip":"genel"}]
 description: "Niğde'nin tarihi hamamlarından biri olan Öküz Mehmet Paşa Hamamı, geçmişin izlerini taşır."
 keywords: ["Öküz Mehmet Paşa Hamamı","Niğde","Ulukışla","tarih","hamam","gezi","kültür","mimari","İç Anadolu Bölgesi"]

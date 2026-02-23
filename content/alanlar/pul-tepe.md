@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pul%20Tepe","alt":"Pul Tepe","caption":"Pul Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nature_of_Cappadocia.jpg/960px-Nature_of_Cappadocia.jpg","alt":"Pul Tepe","caption":"Pul Tepe","credit":"Nature of Cappadocia.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pul%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390599","tip":"genel"}]
 description: "Nevşehir'de bulunan Pul Tepe, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Pul Tepe","Nevşehir","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara","coğrafya"]

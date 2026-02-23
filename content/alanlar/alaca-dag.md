@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alaca%20Da%C4%9F","alt":"Alaca Dağ","caption":"Alaca Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Alaca Dağ","caption":"Alaca Dağ","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alaca%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31583402","tip":"genel"}]
 description: "Diyarbakır'ın doğal güzelliklerini keşfedin, Alaca Dağ'ın büyüleyici manzaralarını görün"
 keywords: ["Alaca Dağ","Diyarbakır","Doğa","Dağ","Turizm","Gezi","Manzara","Güneydoğu Anadolu","Türkiye"]

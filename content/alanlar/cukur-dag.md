@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ukur%20Da%C4%9F","alt":"Çukur Dağ","caption":"Çukur Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Samsat_district_Turkey_%281%29.jpg/960px-Samsat_district_Turkey_%281%29.jpg","alt":"Çukur Dağ","caption":"Çukur Dağ","credit":"Samsat district Turkey (1).jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ukur%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819801","tip":"genel"}]
 description: "Adıyaman'da yer alan Çukur Dağ, bölgenin önemli coğrafi oluşumlarından biri"
 keywords: ["Çukur Dağ","Adıyaman","Dağ","Coğrafi Oluşum","Doğa","Turizm","Gezi","Yerel","Türkiye"]

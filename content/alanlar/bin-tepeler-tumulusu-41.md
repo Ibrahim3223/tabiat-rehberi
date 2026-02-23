@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","arkeoloji turu","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2041","alt":"Bin Tepeler Tümülüsü 41","caption":"Bin Tepeler Tümülüsü 41"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 41","caption":"Bin Tepeler Tümülüsü 41","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2041","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728327","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Manisa'nın Salihli ilçesinde bulunan Bin Tepeler Tümülüsü 41, ziyaretçilerini bekliyor."
 keywords: ["Bin Tepeler Tümülüsü 41","Salihli","Manisa","Ege Bölgesi","tarih","tümülüs","arkeoloji","gezi","kültür"]

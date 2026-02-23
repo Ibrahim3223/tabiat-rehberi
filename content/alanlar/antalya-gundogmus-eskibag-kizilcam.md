@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Gundogmus-Eskibag%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Antalya-Gundogmus-Eskibag Kızılçam","caption":"Antalya-Gundogmus-Eskibag Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Solitariness_-_panoramio.jpg/960px-Solitariness_-_panoramio.jpg","alt":"Antalya-Gundogmus-Eskibag Kızılçam","caption":"Antalya-Gundogmus-Eskibag Kızılçam","credit":"Solitariness - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Gundogmus-Eskibag%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227301","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan Antalya-Gundogmus-Eskibag Kızılçam, ziyaretçilerini bekliyor."
 keywords: ["Antalya","Gundogmus","Eskibag","Kızılçam","milli park","doğa","gezi","turizm"]

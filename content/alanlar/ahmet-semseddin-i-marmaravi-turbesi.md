@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Yüzme","Güneşlenme","Doğa yürüyüşü","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ahmet%20%C5%9Eemseddin-i%20Marmaravi%20T%C3%BCrbesi","alt":"Ahmet Şemseddin-i Marmaravi Türbesi","caption":"Ahmet Şemseddin-i Marmaravi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf/page1-835px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf.jpg","alt":"Ahmet Şemseddin-i Marmaravi Türbesi","caption":"Ahmet Şemseddin-i Marmaravi Türbesi","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla02burt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahmet%20%C5%9Eemseddin-i%20Marmaravi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390916","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan tarihi türbe ve plajı."
 keywords: ["Ahmet Şemseddin-i Marmaravi","Türbe","Manisa","Şehzadeler","Plaj","Tarih","Ege Bölgesi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=As%C4%B1mpa%C5%9Fa%20Da%C4%9F%C4%B1","alt":"Asımpaşa Dağı","caption":"Asımpaşa Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Asımpaşa Dağı","caption":"Asımpaşa Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/As%C4%B1mpa%C5%9Fa%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531664","tip":"genel"}]
 description: "Tunceli'nin görkemli dağlarından biri olan Asımpaşa Dağı, doğa severlerin keşfetmek için bekleyen bir hazine."
 keywords: ["Asımpaşa Dağı","Tunceli","Dağ","Doğa","Tunceli Dağları","Turizm","Gezi","Keşif","Doğa Yürüyüşü","Dağcılık"]

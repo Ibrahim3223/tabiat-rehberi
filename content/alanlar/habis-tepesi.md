@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","tarih öğrenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Habis%20Tepesi","alt":"Habis Tepesi","caption":"Habis Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf/page1-897px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf.jpg","alt":"Habis Tepesi","caption":"Habis Tepesi","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor00azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Habis%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385787","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Şırnak ilinin doğal güzelliklerini keşfedin"
 keywords: ["Şırnak","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya","flora","fauna","ziyaret"]

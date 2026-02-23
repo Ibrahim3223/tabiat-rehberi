@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayseri-Develi-Lubnan%20Mesesi","alt":"Kayseri-Develi-Lubnan Mesesi","caption":"Kayseri-Develi-Lubnan Mesesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Uncontained_engine_failure_during_take-off_with_a_Fly_Air_Airbus_A300-B4%2C_registration_TC-FLF%2C_Amsterdam_Airport_Schiphol%2C_June_29%2C_2005.pdf/page1-960px-Uncontained_engine_failure_during_take-off_with_a_Fly_Air_Airbus_A300-B4%2C_registration_TC-FLF%2C_Amsterdam_Airport_Schiphol%2C_June_29%2C_2005.pdf.jpg","alt":"Kayseri-Develi-Lubnan Mesesi","caption":"Kayseri-Develi-Lubnan Mesesi","credit":"Uncontained engine failure during take-off with a Fly Air Airbus A300-B4, registration TC-FLF, Amsterdam Airport Schiphol, June 29, 2005.pdf","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayseri-Develi-Lubnan%20Mesesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228579","tip":"genel"}]
 description: "Kayseri'nin doğal güzellikleri arasında yer alan Kayseri-Develi-Lubnan Mesesi milli parkı, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["Kayseri","Develi","Lubnan Mesesi","milli park","doğa","gezi","turizm"]

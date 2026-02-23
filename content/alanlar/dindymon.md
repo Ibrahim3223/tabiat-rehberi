@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dindymon","alt":"Dindymon","caption":"Dindymon"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Dindymon","caption":"Dindymon","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dindymon","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q5278019","tip":"genel"}]
 description: "Türkiye'de bulunan Dindymon Dağı, 1200 hektarlık yeşil alanı ile dikkat çekiyor"
 keywords: ["Dindymon","Dağ","Türkiye","Doğa","Yeşil Alan","Türkiye'nin Dağları","Coğrafya","Seyahat","Gezi"]

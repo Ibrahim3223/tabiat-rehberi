@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hel%20Tepe","alt":"Hel Tepe","caption":"Hel Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Hel Tepe","caption":"Hel Tepe","credit":"Erzincan Refahiye.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hel%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520838","tip":"genel"}]
 description: "Erzincan'da bulunan Hel Tepe, doğa severlerin keşfetmeyi bekleyen bir dağ"
 keywords: ["Hel Tepe","Erzincan","Dağ","Doğa","Türkiye","Gezi","Seyahat","Dağcılık","Macera"]

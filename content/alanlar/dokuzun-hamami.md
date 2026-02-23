@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denize girmek","Güneşlenmek","Doğa yürüyüşleri","Deniz sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dokuzun%20Hamam%C4%B1","alt":"Dokuzun Hamamı","caption":"Dokuzun Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Dokuzun Hamamı","caption":"Dokuzun Hamamı","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dokuzun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738931","tip":"genel"}]
 description: "Aydın'ın Nazilli ilçesinde bulunan Dokuzun Hamamı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir plajdır. Ege Bölgesi'nin en güzel plajlarından biri olarak bilinir."
 keywords: ["Dokuzun Hamamı","Nazilli","Aydın","Ege Bölgesi","plaj","deniz","kumsal"]

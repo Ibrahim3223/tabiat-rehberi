@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Uluda%C4%9F%20Tepesi%20(Ankara)","alt":"Uludağ Tepesi (Ankara)","caption":"Uludağ Tepesi (Ankara)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf/page1-960px-From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf.jpg","alt":"Uludağ Tepesi (Ankara)","caption":"Uludağ Tepesi (Ankara)","credit":"From denial to participation- Turkey's evolving discourse on Kurdish nationalism (IA fromdenialtopart1094537734).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uluda%C4%9F%20Tepesi%20(Ankara)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558674","tip":"genel"}]
 description: "Ankara'nın göbeğinde yer alan Uludağ Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Uludağ Tepesi","Ankara","doğa","tepe","gezi","turizm","Ankara'nın güzellikleri","doğa yürüyüşü","manzara"]

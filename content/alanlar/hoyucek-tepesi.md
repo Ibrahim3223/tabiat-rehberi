@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C3%B6y%C3%BCcek%20Tepesi","alt":"Höyücek Tepesi","caption":"Höyücek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Höyücek Tepesi","caption":"Höyücek Tepesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%B6y%C3%BCcek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32162559","tip":"genel"}]
 description: "Marmara Bölgesi'nin gözde noktalarından biri olan Höyücek Tepesi, Bandırma'nın güzide bir mevkisi"
 keywords: ["Höyücek Tepesi","Bandırma","Marmara Bölgesi","doğa","gezi","tepe","manzara"]

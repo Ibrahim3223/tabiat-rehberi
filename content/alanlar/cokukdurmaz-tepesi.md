@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye çıkmak","panoramik manzara izlemek","flora ve fauna keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C3%B6k%C3%BCkdurmaz%20Tepesi","alt":"Çökükdurmaz Tepesi","caption":"Çökükdurmaz Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Thermal_Hotel_-_panoramio.jpg/960px-The_Thermal_Hotel_-_panoramio.jpg","alt":"Çökükdurmaz Tepesi","caption":"Çökükdurmaz Tepesi","credit":"The Thermal Hotel - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C3%B6k%C3%BCkdurmaz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829615","tip":"genel"}]
 description: "Kırşehir'in önemli doğal miraslarından biri olan Çökükdurmaz Tepesi"
 keywords: ["Kırşehir","Çökükdurmaz Tepesi","doğal alan","tepe","coğrafya","flora","fauna","ziyaret","gezi"]

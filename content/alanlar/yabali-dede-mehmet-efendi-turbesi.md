@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Meditasyon","Doğa İzleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yabal%C4%B1%20Dede%20Mehmet%20Efendi%20T%C3%BCrbesi","alt":"Yabalı Dede Mehmet Efendi Türbesi","caption":"Yabalı Dede Mehmet Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Yabalı Dede Mehmet Efendi Türbesi","caption":"Yabalı Dede Mehmet Efendi Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yabal%C4%B1%20Dede%20Mehmet%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391618","tip":"genel"}]
 description: "Düzce'nin tarihi ve doğal güzelliklerinin birleştiği point"
 keywords: ["Düzce","Karadeniz Bölgesi","Türbe","Doğal Alan","Tarih","Kültür","Doğa","Turizm","Gezi","Yaban Hayatı"]

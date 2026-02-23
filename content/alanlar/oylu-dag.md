@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Manzara izleme","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Oylu%20Da%C4%9F","alt":"Oylu Dağ","caption":"Oylu Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fairy_Chimneys_-_panoramio_%283%29.jpg/960px-Fairy_Chimneys_-_panoramio_%283%29.jpg","alt":"Oylu Dağ","caption":"Oylu Dağ","credit":"Fairy Chimneys - panoramio (3).jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Oylu%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385517","tip":"genel"}]
 description: "Nevşehir'in doğal güzelliklerini keşfedin. Oylu Dağ, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Oylu Dağ","Nevşehir","İç Anadolu Bölgesi","Doğa","Tarih","Coğrafya","Flora","Fauna","Ziyaret"]

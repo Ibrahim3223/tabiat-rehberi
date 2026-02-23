@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğraf çekme","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Egirdir-Boylu%20Ardic","alt":"Isparta-Egirdir-Boylu Ardic","caption":"Isparta-Egirdir-Boylu Ardic"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nationalpark_K%C4%B1z%C4%B1lda%C4%9F_bei_Yeni%C5%9Farbademli%3B_Blick_nach_Nord.jpg/960px-Nationalpark_K%C4%B1z%C4%B1lda%C4%9F_bei_Yeni%C5%9Farbademli%3B_Blick_nach_Nord.jpg","alt":"Isparta-Egirdir-Boylu Ardic","caption":"Isparta-Egirdir-Boylu Ardic","credit":"Nationalpark Kızıldağ bei Yenişarbademli; Blick nach Nord.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Egirdir-Boylu%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228480","tip":"genel"}]
 description: "Isparta'nın doğal güzellikleri arasında yer alan milli park."
 keywords: ["Isparta","Egirdir","Boylu Ardic","milli park","doğa","gezi","turizm","Akdeniz Bölgesi"]

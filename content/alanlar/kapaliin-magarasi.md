@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kapal%C4%B1in%20Ma%C4%9Faras%C4%B1","alt":"Kapalıin Mağarası","caption":"Kapalıin Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Kapalıin Mağarası","caption":"Kapalıin Mağarası","credit":"Gelincik Dagi Manzara.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kapal%C4%B1in%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319313","tip":"genel"}]
 description: "Isparta'da bulunan Kapalıin Mağarası, 1200 hektarlık bir alana yayılmış, Türkiye'nin önemli jeoparklarından biri."
 keywords: ["Kapalıin Mağarası","Isparta","Jeopark","Doğa","Turizm","Mağara","Gezi","Isparta Turistik Yerler","Jeolojik Alanlar"]

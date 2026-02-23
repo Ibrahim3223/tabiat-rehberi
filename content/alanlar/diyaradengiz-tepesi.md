@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Diyaradeng%C4%B1z%20Tepesi","alt":"Diyaradengız Tepesi","caption":"Diyaradengız Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Travels_in_Kurdistan%2C_with_Notices_of_the_Sources_of_the_Eastern_and_Western_Tigris%2C_and_Ancient_Ruins_in_Their_Neighbourhood_%28IA_jstor-3698077%29.pdf/page1-787px-Travels_in_Kurdistan%2C_with_Notices_of_the_Sources_of_the_Eastern_and_Western_Tigris%2C_and_Ancient_Ruins_in_Their_Neighbourhood_%28IA_jstor-3698077%29.pdf.jpg","alt":"Diyaradengız Tepesi","caption":"Diyaradengız Tepesi","credit":"Travels in Kurdistan, with Notices of the Sources of the Eastern and Western Tigris, and Ancient Ruins in Their Neighbourhood (IA jstor-3698077).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diyaradeng%C4%B1z%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31544842","tip":"genel"}]
 description: "Güneydoğu Anadolu'nun gizli hazinevi, Batman'ın görkemli tepesi"
 keywords: ["Diyaradengız Tepesi","Batman","Güneydoğu Anadolu","tepe","doğa","gezi","tarih","coğrafya","flora","fauna"]

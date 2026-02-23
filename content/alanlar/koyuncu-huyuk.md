@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koyuncu%20H%C3%BCy%C3%BCk","alt":"Koyuncu Hüyük","caption":"Koyuncu Hüyük"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf/page1-960px-A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf.jpg","alt":"Koyuncu Hüyük","caption":"Koyuncu Hüyük","credit":"A novel environmental restoration method for an abandoned limestone quarry with a deep open pit and steep palisades - a case study.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koyuncu%20H%C3%BCy%C3%BCk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32200790","tip":"genel"}]
 description: "Kırıkhan'da bulunan Koyuncu Hüyük, tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Koyuncu Hüyük","Kırıkhan","Hatay","Akdeniz Bölgesi","tarih","doğa","gezi"]

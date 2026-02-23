@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografcılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Istanbul-Catalca-Karacam","alt":"Istanbul-Catalca-Karacam","caption":"Istanbul-Catalca-Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Report_of_program_activities_-_National_Institutes_of_Health._Clinical_Center_%28IA_reportofprograma19621nati%29.pdf/page1-862px-Report_of_program_activities_-_National_Institutes_of_Health._Clinical_Center_%28IA_reportofprograma19621nati%29.pdf.jpg","alt":"Istanbul-Catalca-Karacam","caption":"Istanbul-Catalca-Karacam","credit":"Report of program activities - National Institutes of Health. Clinical Center (IA reportofprograma19621nati).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Catalca-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228523","tip":"genel"}]
 description: "İstanbul'un doğa harikası milli parkı, 140 hektarlık yeşil alan, Marmara Bölgesi'nin önemli noktalarından biri"
 keywords: ["İstanbul","Marmara Bölgesi","milli park","doğa","yeşil alan","gezi","turizm"]

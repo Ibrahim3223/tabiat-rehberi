@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Yilanli%20Cakmak","alt":"Mugla-Yilanli Cakmak","caption":"Mugla-Yilanli Cakmak"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Marmaris_milli_park.jpg/960px-Marmaris_milli_park.jpg","alt":"Mugla-Yilanli Cakmak","caption":"Mugla-Yilanli Cakmak","credit":"Marmaris milli park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Yilanli%20Cakmak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227404","tip":"genel"}]
 description: "Muğla'da yer alan doğal güzellikler arasında bulunan Yilanlı Çakmak, 140 hektarlık bir alanı kapsıyor."
 keywords: ["Mugla-Yilanli Cakmak","Muğla","Ege Bölgesi","doğal güzellik","milli park","çevre","ekosistem"]

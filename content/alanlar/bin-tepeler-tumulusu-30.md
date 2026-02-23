@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2030","alt":"Bin Tepeler Tümülüsü 30","caption":"Bin Tepeler Tümülüsü 30"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 30","caption":"Bin Tepeler Tümülüsü 30","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2030","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728353","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli hazinelerinden biri olan Bin Tepeler Tümülüsü 30, tarihi ve doğal güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Bin Tepeler Tümülüsü 30","Salihli","Manisa","Ege Bölgesi","tarihi mekanlar","doğa alanları","gezi rehberi"]

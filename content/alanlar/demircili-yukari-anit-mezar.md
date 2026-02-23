@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Demircili%20Yukar%C4%B1%20An%C4%B1t%20Mezar","alt":"Demircili Yukarı Anıt Mezar","caption":"Demircili Yukarı Anıt Mezar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Casualty_Returns_1937.pdf/page1-960px-Casualty_Returns_1937.pdf.jpg","alt":"Demircili Yukarı Anıt Mezar","caption":"Demircili Yukarı Anıt Mezar","credit":"Casualty Returns 1937.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demircili%20Yukar%C4%B1%20An%C4%B1t%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728152","tip":"genel"}]
 description: "Mersin'in Silifke ilçesinde bulunan Demircili Yukarı Anıt Mezar, tarihi ve doğal güzelliği ile dikkat çekiyor"
 keywords: ["Demircili Yukarı Anıt Mezar","Silifke","Mersin","Akdeniz Bölgesi","tarihi mekanlar","doğa","gezi"]

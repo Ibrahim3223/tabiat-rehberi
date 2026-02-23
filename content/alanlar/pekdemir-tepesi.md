@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pekdemir%20Tepesi","alt":"Pekdemir Tepesi","caption":"Pekdemir Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/ACI_SU_%28HOT_WATER_WATERFALL%29_-_panoramio.jpg/960px-ACI_SU_%28HOT_WATER_WATERFALL%29_-_panoramio.jpg","alt":"Pekdemir Tepesi","caption":"Pekdemir Tepesi","credit":"ACI SU (HOT WATER WATERFALL) - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pekdemir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31562091","tip":"genel"}]
 description: "Giresun'un Karadeniz manzaralı tepesi"
 keywords: ["Giresun","Karadeniz","tepe","doğa","gezi","yürüyüş","manzara","gezilecek yerler"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aydin-Ayd%C4%B1n%20Sigla","alt":"Aydin-Aydın Sigla","caption":"Aydin-Aydın Sigla"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Aydin-Aydın Sigla","caption":"Aydin-Aydın Sigla","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aydin-Ayd%C4%B1n%20Sigla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228102","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Aydın-Aydın Sigla, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir milli parktır."
 keywords: ["milli park","doğa","gezi","İç Anadolu Bölgesi","Aydın-Aydın Sigla","yeşil alan","flora","fauna"]

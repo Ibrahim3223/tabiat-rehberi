@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=O%C4%9Ful%20Da%C4%9F%C4%B1","alt":"Oğul Dağı","caption":"Oğul Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Oğul Dağı","caption":"Oğul Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/O%C4%9Ful%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509714","tip":"genel"}]
 description: "Hakkari'nin görkemli dağlarından biri olan Oğul Dağı, doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Oğul Dağı","Hakkari","Dağ","Doğa","Turizm","Gezi","Trekking","Dağcılık","Doğal Güzellik"]

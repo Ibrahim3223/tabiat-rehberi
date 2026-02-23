@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Madra%20Da%C4%9Flar%C4%B1","alt":"Madra Dağları","caption":"Madra Dağları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MOKG05.jpg/960px-MOKG05.jpg","alt":"Madra Dağları","caption":"Madra Dağları","credit":"MOKG05.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Madra%20Da%C4%9Flar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q4833452","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, 1200 hektarlık Madra Dağları'nda doğa yürüyüşü ve piknik yapın."
 keywords: ["Madra Dağları","İzmir","Dağ","Doğa Yürüyüşü","Piknik","Turizm","İzmir Turistik Yerler","Doğal Alanlar","Yeşil Alanlar"]

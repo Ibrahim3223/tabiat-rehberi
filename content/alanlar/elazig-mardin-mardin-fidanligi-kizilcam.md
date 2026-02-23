@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","flora ve fauna gözlemi","ekolojik sistemleri keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Elazig-Mardin-Mardin%20Fidanligi%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Elazig-Mardin-Mardin Fidanligi Kızılçam","caption":"Elazig-Mardin-Mardin Fidanligi Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Elazig-Mardin-Mardin Fidanligi Kızılçam","caption":"Elazig-Mardin-Mardin Fidanligi Kızılçam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elazig-Mardin-Mardin%20Fidanligi%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227866","tip":"genel"}]
 description: "Elazig-Mardin-Mardin Fidanligi Kızılçam milli parkı, doğa severlerin ziyaret ettiği bir yerdir."
 keywords: ["milli park","doğa","çevre","flora","fauna","gezi","turizm","iç anadolu","elazig","mardin"]

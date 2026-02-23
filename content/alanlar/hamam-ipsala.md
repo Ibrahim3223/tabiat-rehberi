@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["denizde serinlemek","güneşin tadını çıkarmak","doğanın güzelliğini deneyimlemek","tarihi ve kültürel zenginliği keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamam%2C%20%C4%B0psala","alt":"Hamam, İpsala","caption":"Hamam, İpsala"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Hamam, İpsala","caption":"Hamam, İpsala","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20%C4%B0psala","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245798","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, İpsala'da yer alan Hamam Plajı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Hamam Plajı","İpsala","Marmara Bölgesi","plaj","deniz","tatil","gezi","edinmek","doğa","çevre"]

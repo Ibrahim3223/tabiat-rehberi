@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arka%C3%A7da%C4%9F%C4%B1%20Tepesi","alt":"Arkaçdağı Tepesi","caption":"Arkaçdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf/page1-960px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf.jpg","alt":"Arkaçdağı Tepesi","caption":"Arkaçdağı Tepesi","credit":"Explorations in Bible lands during the 19th century (IA gri 33125007229756).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arka%C3%A7da%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32129457","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Arkaçdağı Tepesi, Malatya'nın önemli coğrafi oluşumlarından biri olarak dikkat çekiyor."
 keywords: ["Arkaçdağı Tepesi","Malatya","Doğu Anadolu Bölgesi","coğrafi oluşum","tepe","doğa","gezi","turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Kamp","Ormanlık alanlarda gezi","Nehir kenarında piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Bucak-Ugurlu%20Toros%20Goknari","alt":"Isparta-Bucak-Ugurlu Toros Goknari","caption":"Isparta-Bucak-Ugurlu Toros Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/P_20180323_150213-01.jpg/960px-P_20180323_150213-01.jpg","alt":"Isparta-Bucak-Ugurlu Toros Goknari","caption":"Isparta-Bucak-Ugurlu Toros Goknari","credit":"P 20180323 150213-01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Bucak-Ugurlu%20Toros%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227285","tip":"genel"}]
 description: "Isparta'nın doğal güzellikleri arasında yer alan milli park, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Isparta","Bucak","Ugurlu","Toros Goknari","Milli Park","Doğa","Yeşil Alan","Akdeniz Bölgesi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık","çevre gezileri","ekosistem koruma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Bergama-Kozak%20Fistikcami","alt":"Izmir-Bergama-Kozak Fistikcami","caption":"Izmir-Bergama-Kozak Fistikcami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Izmir-Bergama-Kozak Fistikcami","caption":"Izmir-Bergama-Kozak Fistikcami","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Bergama-Kozak%20Fistikcami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227620","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan İzmir-Bergama-Kozak Fistikcami milli parkı, 1200 hektarlık yeşil cenneti ile ziyaretçilerini bekliyor."
 keywords: ["İzmir-Bergama-Kozak Fistikcami","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","yeşil alan","çevre","ekosistem"]

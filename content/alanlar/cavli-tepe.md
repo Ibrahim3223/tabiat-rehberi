@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Photografi","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87avl%C4%B1%20Tepe","alt":"Çavlı Tepe","caption":"Çavlı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Çavlı Tepe","caption":"Çavlı Tepe","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828706","tip":"genel"}]
 description: "Balıkesir'in doğal güzellikleri arasında yer alan Çavlı Tepe, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biri."
 keywords: ["Çavlı Tepe","Balıkesir","Marmara Bölgesi","doğal güzellik","coğrafi oluşum","tepe","gezi","turizm"]

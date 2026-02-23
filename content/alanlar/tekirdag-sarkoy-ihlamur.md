@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tekirdag-Sarkoy%20Ihlamur","alt":"Tekirdag-Sarkoy Ihlamur","caption":"Tekirdag-Sarkoy Ihlamur"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Tekirdag-Sarkoy Ihlamur","caption":"Tekirdag-Sarkoy Ihlamur","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekirdag-Sarkoy%20Ihlamur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227720","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan doğal güzellik"
 keywords: ["Tekirdag-Sarkoy Ihlamur","İç Anadolu Bölgesi","doğal alan","milli park","gezi","turizm","çevre","ekosistem","flora","fauna"]

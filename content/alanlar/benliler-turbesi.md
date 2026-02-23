@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarih gezileri","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Benliler%20T%C3%BCrbesi","alt":"Benliler Türbesi","caption":"Benliler Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Benliler Türbesi","caption":"Benliler Türbesi","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Benliler%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391686","tip":"genel"}]
 description: "Köyceğiz'in tarihi ve doğal güzellikleri"
 keywords: ["Köyceğiz","Muğla","Ege Bölgesi","tarih","doğa","gezi","turizm","kültür","miras"]

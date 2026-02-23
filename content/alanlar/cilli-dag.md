@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87illi%20Da%C4%9F","alt":"Çilli Dağ","caption":"Çilli Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rocky_Mountain_adventures_%28IA_rockymountainadv00shel%29.pdf/page1-618px-Rocky_Mountain_adventures_%28IA_rockymountainadv00shel%29.pdf.jpg","alt":"Çilli Dağ","caption":"Çilli Dağ","credit":"Rocky Mountain adventures (IA rockymountainadv00shel).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87illi%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819059","tip":"genel"}]
 description: "Van'da bulunan Çilli Dağ, doğal güzelliği ile dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Çilli Dağ","Van","Doğal Alan","Dağ","Yeşil Cennet","İstanbul","Turizm","Seyahat","Gezi"]

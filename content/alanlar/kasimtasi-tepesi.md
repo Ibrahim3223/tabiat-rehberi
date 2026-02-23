@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","manzara seyri","çevre gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ka%C5%9F%C4%B1mta%C5%9F%C4%B1%20Tepesi","alt":"Kaşımtaşı Tepesi","caption":"Kaşımtaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg","alt":"Kaşımtaşı Tepesi","caption":"Kaşımtaşı Tepesi","credit":"The Landscape of Sıklık Gate.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C5%9F%C4%B1mta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582325","tip":"genel"}]
 description: "Çorum'un görkemli doğal güzelliği Kaşımtaşı Tepesi, 140 hektarlık geniş alanı ile ziyaretçilerini bekliyor."
 keywords: ["Kaşımtaşı Tepesi","Çorum","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","çevre","ekosistem"]

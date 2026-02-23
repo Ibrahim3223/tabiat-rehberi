@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Denizde yüzme","Kumda güneşlenme","Doğa yürüyüşü","Türbe ziyareti"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Be%C5%9F%20Yat%C4%B1rlar%20T%C3%BCrbesi","alt":"Beş Yatırlar Türbesi","caption":"Beş Yatırlar Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Beş Yatırlar Türbesi","caption":"Beş Yatırlar Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9F%20Yat%C4%B1rlar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390567","tip":"genel"}]
 description: "Ayvalık'ın doğal güzellikleri arasında yer alan Beş Yatırlar Türbesi, Marmara Bölgesi'nde bulunan bir plaj"
 keywords: ["Ayvalık","Marmara Bölgesi","Beş Yatırlar Türbesi","plaj","doğal güzellik","tarihçe","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zokarasma%C4%9Faralar%C4%B1","alt":"Zokarasmağaraları","caption":"Zokarasmağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Zokarasmağaraları","caption":"Zokarasmağaraları","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zokarasma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319898","tip":"genel"}]
 description: "Siirt'te yer alan Zokarasmağaraları, 1200 hektarlık yeşil cennet ve jeopark alanı"
 keywords: ["Zokarasmağaraları","Siirt","Jeopark","Doğa Alanı","Turizm","Gezi","Yerel Turizm","Doğa Harikaları","Turistik Yerler"]

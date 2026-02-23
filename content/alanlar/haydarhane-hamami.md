@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denize girmek","Güneşin tadını çıkarmak","Doğal güzelliği keşfetmek","Yürüyüş yapmak","Picnic yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Haydarhane%20Hamam%C4%B1","alt":"Haydarhane Hamamı","caption":"Haydarhane Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf/page1-960px-The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf.jpg","alt":"Haydarhane Hamamı","caption":"Haydarhane Hamamı","credit":"The Enterprise 1923-06-07 (IA cssf 001428).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haydarhane%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738462","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli plajlarından biri olan Haydarhane Hamamı, Osmangazi/Bursa'da yer alıyor."
 keywords: ["Haydarhane Hamamı","Osmangazi","Bursa","Marmara Bölgesi","plaj","deniz","kumsal","turizm","gezi"]

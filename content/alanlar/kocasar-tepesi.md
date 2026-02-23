@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğraf çekme","bitki ve fauna"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koca%C5%9Far%20Tepesi","alt":"Kocaşar Tepesi","caption":"Kocaşar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kocaşar Tepesi","caption":"Kocaşar Tepesi","credit":"Malatya turgut ozal nature park view.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%C5%9Far%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389292","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Kocaşar Tepesi, Malatya'nın doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Malatya","Doğu Anadolu Bölgesi","Kocaşar Tepesi","doğal güzellik","gezi","turizm","tepe","manzara"]

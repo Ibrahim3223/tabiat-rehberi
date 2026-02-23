@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","doğaı","kültürel keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bozluk%20Da%C4%9F","alt":"Bozluk Dağ","caption":"Bozluk Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Shepherd%27s_Fountain_-_panoramio.jpg/960px-Shepherd%27s_Fountain_-_panoramio.jpg","alt":"Bozluk Dağ","caption":"Bozluk Dağ","credit":"Shepherd's Fountain - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozluk%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385959","tip":"genel"}]
 description: "Kırşehir'de yer alan Bozluk Dağ, zengin doğası ve tarihi geçmişiyle dikkat çekiyor. İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Bozluk Dağ","Kırşehir","İç Anadolu Bölgesi","doğa","tarih","coğrafya","flora","fauna","ziyaret"]

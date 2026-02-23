@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karakad%C4%B1%20Hamam%C4%B1","alt":"Karakadı Hamamı","caption":"Karakadı Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/S%C3%BCzer_Sun_Dreams_Beach_14_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_14_-_panoramio.jpg","alt":"Karakadı Hamamı","caption":"Karakadı Hamamı","credit":"Süzer Sun Dreams Beach 14 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakad%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739029","tip":"genel"}]
 description: "İzmir'in Tire ilçesinde bulunan Karakadı Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
 keywords: ["Karakadı Hamamı","Tire","İzmir","Ege Bölgesi","doğa","yeşil alan","futbol sahası"]

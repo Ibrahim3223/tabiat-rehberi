@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yaklaşık 4-5 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=R%C3%BCzgarl%C4%B1%20%C5%9Eelalesi","alt":"Rüzgarlı Şelalesi","caption":"Rüzgarlı Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kursunlu_Waterfall_Nature_Park%2C_Antalya.jpg/960px-Kursunlu_Waterfall_Nature_Park%2C_Antalya.jpg","alt":"Rüzgarlı Şelalesi","caption":"Rüzgarlı Şelalesi","credit":"Kursunlu Waterfall Nature Park, Antalya.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/R%C3%BCzgarl%C4%B1%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320235","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği Rüzgarlı Şelalesi, doğa severlerin yeni durağı"
 keywords: ["Rüzgarlı Şelalesi","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","yerel","çevre","ekosistem"]

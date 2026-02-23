@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Fekrik%20Da%C4%9F%C4%B1","alt":"Fekrik Dağı","caption":"Fekrik Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Fekrik Dağı","caption":"Fekrik Dağı","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fekrik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31523791","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Fekrik Dağı, Türkiye'nin önemli dağlarından biri"
 keywords: ["Fekrik Dağı","Türkiye Dağları","Doğal Alanlar","Turizm","Dağcılık","Doğa","Gezi","Seyahat","Türkiye"]

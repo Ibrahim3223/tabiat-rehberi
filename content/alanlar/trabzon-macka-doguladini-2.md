@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trabzon%20Macka-Doguladini%202","alt":"Trabzon Macka-Doguladini 2","caption":"Trabzon Macka-Doguladini 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Trabzon Macka-Doguladini 2","caption":"Trabzon Macka-Doguladini 2","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon%20Macka-Doguladini%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228062","tip":"genel"}]
 description: "Trabzon Macka-Doguladini 2 milli parkı, İç Anadolu Bölgesi'nde yer alan eşsiz bir doğal alan."
 keywords: ["milli park","doğal alan","İç Anadolu Bölgesi","Trabzon","Macka-Doguladini","çevre","ekosistem","turizm","doğa"]

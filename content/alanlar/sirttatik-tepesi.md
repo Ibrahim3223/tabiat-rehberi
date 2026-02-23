@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Köy ve kasaba gezisi","Yerel yemekler deneme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1rttatik%20Tepesi","alt":"Sırttatik Tepesi","caption":"Sırttatik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Sırttatik Tepesi","caption":"Sırttatik Tepesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1rttatik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31542738","tip":"genel"}]
 description: "Diyarbakır'ın doğal güzelliklerini keşfedin. Sırttatik Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Sırttatik Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","gezi","tepe","manzara","tarihçe","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","trekking"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Maselevat%20%C5%9Eelalesi","alt":"Maselevat Şelalesi","caption":"Maselevat Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kur%C5%9Funlu_%C5%9Eelalesi_-Y%C3%BCr%C3%BCy%C3%BC%C5%9F_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_Merdivenler_Foto%C4%9Fraf%C4%B1.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_-Y%C3%BCr%C3%BCy%C3%BC%C5%9F_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_Merdivenler_Foto%C4%9Fraf%C4%B1.jpg","alt":"Maselevat Şelalesi","caption":"Maselevat Şelalesi","credit":"Kurşunlu Şelalesi -Yürüyüş Bölgesi - Manzara Fotoğrafı - Merdivenler Fotoğrafı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Maselevat%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076484","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Maselevat Şelalesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Maselevat Şelalesi","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","gezi rehberi","şelale","turizm","doğa"]

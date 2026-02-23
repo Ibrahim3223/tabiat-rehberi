@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tepe tırmanışı","köy gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6kda%C4%9F%C4%B1%20Tepesi","alt":"Gökdağı Tepesi","caption":"Gökdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Recreation_area_management_plan_for_the_Pacific_Crest_National_Scenic_Trail_-_Owens_Peak%2C_Dove_Springs%2C_Cache_Peak_segments%2C_California_%28IA_recreationareama00unit%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Gökdağı Tepesi","caption":"Gökdağı Tepesi","credit":"Recreation area management plan for the Pacific Crest National Scenic Trail - Owens Peak, Dove Springs, Cache Peak segments, California (IA recreationareama00unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872104","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Erzurum'un önemli doğal güzelliklerinden biri olan Gökdağı Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılamaktadır."
 keywords: ["Gökdağı Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","manzara","gezi","tarihçe","coğrafya","flora","fauna"]

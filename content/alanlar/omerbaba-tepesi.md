@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","çiçek izleme","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%96merbaba%20Tepesi","alt":"Ömerbaba Tepesi","caption":"Ömerbaba Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Ömerbaba Tepesi","caption":"Ömerbaba Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96merbaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829765","tip":"genel"}]
 description: "Kütahya'da yer alan Ömerbaba Tepesi, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçileri için birçok imkân sunmaktadır."
 keywords: ["Ömerbaba Tepesi","Kütahya","Ege Bölgesi","doğal güzellik","tepe","turizm","gezi","doğa"]

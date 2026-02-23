@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6hnebaba%20Tepesi","alt":"Köhnebaba Tepesi","caption":"Köhnebaba Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Köhnebaba Tepesi","caption":"Köhnebaba Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6hnebaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210145","tip":"genel"}]
 description: "Afyonkarahisar'ın doğal güzelliklerinden biri olan Köhnebaba Tepesi, ziyaretçilerini i bir yolculuğa çıkarıyor."
 keywords: ["Köhnebaba Tepesi","Afyonkarahisar","Ege Bölgesi","doğal güzellik","tarih","coğrafya","flora","fauna"]

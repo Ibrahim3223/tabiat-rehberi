@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yass%C4%B1%C3%A7al%20Tepesi","alt":"Yassıçal Tepesi","caption":"Yassıçal Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._1.djvu.jpg","alt":"Yassıçal Tepesi","caption":"Yassıçal Tepesi","credit":"Armenia, Travels and Studies, Vol. 1.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yass%C4%B1%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32195094","tip":"genel"}]
 description: "Samsun'un doğal güzellikleri arasında yer alan Yassıçal Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biridir."
 keywords: ["Samsun","Karadeniz Bölgesi","Yassıçal Tepesi","doğa","gezi","tepe","manzara"]

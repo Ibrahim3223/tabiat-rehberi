@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tepe tırmanışı","bölge keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamiyamalafeli%20Tepesi","alt":"Hamiyamalafeli Tepesi","caption":"Hamiyamalafeli Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Hamiyamalafeli Tepesi","caption":"Hamiyamalafeli Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamiyamalafeli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550020","tip":"genel"}]
 description: "Diyarbakır'ın doğal güzelliklerinden biri olan Hamiyamalafeli Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Hamiyamalafeli Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","ziyaret","turizm"]

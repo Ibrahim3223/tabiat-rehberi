@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tepeli%20Da%C4%9F%C4%B1","alt":"Tepeli Dağı","caption":"Tepeli Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf/page1-860px-Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf.jpg","alt":"Tepeli Dağı","caption":"Tepeli Dağı","credit":"Across Asia on a bicycle; (IA acrossasiaonbicy00alle).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepeli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31591618","tip":"genel"}]
 description: "Sivas'ta yer alan Tepeli Dağı, doğal güzelliği ve zengin tarihi ile dikkat çekiyor. 1400 metre yüksekliği ile bölgenin önemli dağlarından biri."
 keywords: ["Tepeli Dağı","Sivas","Dağ","Doğa","Tarih","Turizm","Gezi","Sivas Turistik Yerler","Tepeli Dağı Hakkında"]

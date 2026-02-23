@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih keşfi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nuhun%20Gemisi%20Sit%20Alan%C4%B1","alt":"Nuhun Gemisi Sit Alanı","caption":"Nuhun Gemisi Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Nuhun Gemisi Sit Alanı","caption":"Nuhun Gemisi Sit Alanı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nuhun%20Gemisi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226260","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinesi, Nuhun Gemisi Sit Alanı"
 keywords: ["Nuhun Gemisi","Sit Alanı","İç Anadolu Bölgesi","doğa","tarih","coğrafya"]

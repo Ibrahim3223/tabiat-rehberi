@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kozda%C4%9F","alt":"Kozdağ","caption":"Kozdağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Kozdağ","caption":"Kozdağ","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kozda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549502","tip":"genel"}]
 description: "Batman'da yer alan Kozdağ, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Kozdağ","Batman","Dağ","Doğa","Yürüyüş Rotası","Turizm","Gezi","Türkiye'nin Dağları","Batman Turistik Yerler"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["doğa yürüyüşleri","flora ve fauna keşfi","tarihî geçmişi keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adana-Kozan-Horzum%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Adana-Kozan-Horzum Kızılçam","caption":"Adana-Kozan-Horzum Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Victoria_Daily_Times_%281922-09-30%29_%28IA_victoriadailytimes19220930%29.pdf/page1-960px-Victoria_Daily_Times_%281922-09-30%29_%28IA_victoriadailytimes19220930%29.pdf.jpg","alt":"Adana-Kozan-Horzum Kızılçam","caption":"Adana-Kozan-Horzum Kızılçam","credit":"Victoria Daily Times (1922-09-30) (IA victoriadailytimes19220930).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kozan-Horzum%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227294","tip":"genel"}]
 description: "140 hektarlık bu yeşil cennet, yaklaşık 200 futbol sahası büyüklüğünde ve Akdeniz Bölgesi'nin en önemli doğal alanlarından biri"
 keywords: ["Adana","Kozan","Horzum","Kızılçam","milli park","doğa","yeşil alan","Akdeniz Bölgesi"]

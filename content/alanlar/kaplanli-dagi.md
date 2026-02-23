@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaplanl%C4%B1%20Da%C4%9F%C4%B1","alt":"Kaplanlı Dağı","caption":"Kaplanlı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Narrative_of_a_Mission_to_Central_Africa%2C_performed_in_the_years_1850-51%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.52984%29.pdf/page1-622px-Narrative_of_a_Mission_to_Central_Africa%2C_performed_in_the_years_1850-51%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.52984%29.pdf.jpg","alt":"Kaplanlı Dağı","caption":"Kaplanlı Dağı","credit":"Narrative of a Mission to Central Africa, performed in the years 1850-51, in Two Volumes, Vol. I (IA dli.granth.52984).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaplanl%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31585685","tip":"genel"}]
 description: "Karaman'da yer alan Kaplanlı Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi. Doğal güzellikleri keşfedin!"
 keywords: ["Kaplanlı Dağı","Karaman","Dağ","Doğa","Yeşil Alan","Kaplanlı Dağı Karaman","Doğa Turizmi","Türkiye Dağları","Kaplanlı Dağı Nerede"]

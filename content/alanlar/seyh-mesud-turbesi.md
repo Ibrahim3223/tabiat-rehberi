@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Mesud%20T%C3%BCrbesi","alt":"Şeyh Mesud Türbesi","caption":"Şeyh Mesud Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Siverek.jpg/960px-Siverek.jpg","alt":"Şeyh Mesud Türbesi","caption":"Şeyh Mesud Türbesi","credit":"Siverek.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Mesud%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390484","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin."
 keywords: ["Şanlıurfa","Eyyübiye","tarih","doğa","türk kültürü","gezi","tarihçe","coğrafya","flora","fauna","ziyaret"]

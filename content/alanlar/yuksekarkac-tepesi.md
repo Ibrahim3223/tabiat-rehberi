@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Yürüyüş","Doğa","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%BCksekarka%C3%A7%20Tepesi","alt":"Yüksekarkaç Tepesi","caption":"Yüksekarkaç Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Yüksekarkaç Tepesi","caption":"Yüksekarkaç Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCksekarka%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822563","tip":"genel"}]
 description: "Ankara'nın doğal güzellikleri arasında yer alan Yüksekarkaç Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Yüksekarkaç Tepesi","Ankara","İç Anadolu Bölgesi","doğa","gezi","tepe"]

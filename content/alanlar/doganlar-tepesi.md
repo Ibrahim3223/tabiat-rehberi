@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yaklaşık 2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Fotoğraf çekme","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Do%C4%9Fanlar%20Tepesi","alt":"Doğanlar Tepesi","caption":"Doğanlar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"Doğanlar Tepesi","caption":"Doğanlar Tepesi","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fanlar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31525527","tip":"genel"}]
 description: "Antalya'nın gizli cenneti Doğanlar Tepesi, 140 hektarlık geniş bir alan üzerine kurulu"
 keywords: ["Doğanlar Tepesi","Antalya","Akdeniz Bölgesi","tepe","doğa","gezi","tarih"]

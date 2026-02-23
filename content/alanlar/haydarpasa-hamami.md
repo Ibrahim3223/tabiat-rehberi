@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["hamam ziyaretleri","plaj aktiviteleri","tarihî gezi","doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Haydarpa%C5%9Fa%20Hamam%C4%B1","alt":"Haydarpaşa Hamamı","caption":"Haydarpaşa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Haydarpaşa Hamamı","caption":"Haydarpaşa Hamamı","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haydarpa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738549","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi hamam ve plaj alanı"
 keywords: ["Fatih","İstanbul","Marmara Bölgesi","tarihi hamam","plaj","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Deniz ve güneşin tadını çıkarmak","Çeşitli bitkiler ve ağaçlar ile karşılaşmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9Cryanizade%20Ahmet%20Esat%20Efendi%20T%C3%BCrbesi","alt":"Üryanizade Ahmet Esat Efendi Türbesi","caption":"Üryanizade Ahmet Esat Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Üryanizade Ahmet Esat Efendi Türbesi","caption":"Üryanizade Ahmet Esat Efendi Türbesi","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cryanizade%20Ahmet%20Esat%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391115","tip":"genel"}]
 description: "Eyüpsultan'da tarihi bir figura ait türbe ve plaj"
 keywords: ["Eyüpsultan","Üryanizade Ahmet Esat Efendi","tarih","türbe","plaj","Marmara Bölgesi","İstanbul","gezi","tarihçe"]

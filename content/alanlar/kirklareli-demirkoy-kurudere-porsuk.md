@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rklareli-Demirkoy-Kurudere-Porsuk","alt":"Kırklareli-Demirkoy-Kurudere-Porsuk","caption":"Kırklareli-Demirkoy-Kurudere-Porsuk"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/%C4%B0%C4%9FneadaFloodplainForestsNP_%284%29.JPG/960px-%C4%B0%C4%9FneadaFloodplainForestsNP_%284%29.JPG","alt":"Kırklareli-Demirkoy-Kurudere-Porsuk","caption":"Kırklareli-Demirkoy-Kurudere-Porsuk","credit":"İğneadaFloodplainForestsNP (4).JPG","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rklareli-Demirkoy-Kurudere-Porsuk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228207","tip":"genel"}]
 description: "Kırklareli ilinin Demirköy ilçesinde bulunan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kırklareli","Demirköy","Kurudere","Porsuk","Marmara Bölgesi","milli park","yeşil alan","futbol sahası"]

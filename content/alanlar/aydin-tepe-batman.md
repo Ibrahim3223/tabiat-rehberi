@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ayd%C4%B1n%20Tepe%20(Batman)","alt":"Aydın Tepe (Batman)","caption":"Aydın Tepe (Batman)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Aydın Tepe (Batman)","caption":"Aydın Tepe (Batman)","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayd%C4%B1n%20Tepe%20(Batman)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531317","tip":"genel"}]
 description: "Batman'ın görkemli dağlarından biri olan Aydın Tepe, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Aydın Tepe","Batman","Dağ","Doğa","Yeşil Alan","Gezi","Seyahat","Türkiye","Coğrafya"]

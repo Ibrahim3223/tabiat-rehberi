@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCkellesor%20Da%C4%9F%C4%B1","alt":"Büyükellesor Dağı","caption":"Büyükellesor Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_beauties_of_nature_-_and_how_far_they_transcend_those_of_art_in_landscape_gardening_-_a_poem_%28IA_beautiesofnature00sinc%29.pdf/page1-791px-The_beauties_of_nature_-_and_how_far_they_transcend_those_of_art_in_landscape_gardening_-_a_poem_%28IA_beautiesofnature00sinc%29.pdf.jpg","alt":"Büyükellesor Dağı","caption":"Büyükellesor Dağı","credit":"The beauties of nature - and how far they transcend those of art in landscape gardening - a poem (IA beautiesofnature00sinc).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkellesor%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731326","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Büyükellesor Dağı, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Büyükellesor Dağı","Türkiye Dağları","Doğa Yürüyüşü","Dağcılık","Türkiye Turizm","Dağ Turizmi","Yürüyüş Rotaları","Doğal Güzellikler","Türkiye'nin Dağları"]

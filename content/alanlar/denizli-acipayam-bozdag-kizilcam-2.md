@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Denizli-Acipayam-Bozdag%20K%C4%B1z%C4%B1l%C3%A7am%202","alt":"Denizli-Acipayam-Bozdag Kızılçam 2","caption":"Denizli-Acipayam-Bozdag Kızılçam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf/page1-731px-Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf.jpg","alt":"Denizli-Acipayam-Bozdag Kızılçam 2","caption":"Denizli-Acipayam-Bozdag Kızılçam 2","credit":"Journal of a Tour in Asia Minor, with Comparative Remarks on the Ancient and Modern Geography of that Country (IA dli.granth.36210).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Acipayam-Bozdag%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227331","tip":"genel"}]
 description: "Ege Bölgesi'nin yeşilliklerle bezeli köşesi, 140 hektarlık bir alan"
 keywords: ["Denizli","Acipayam","Bozdag","Kızılçam","milli park","Ege Bölgesi","yeşil alan","doğa"]

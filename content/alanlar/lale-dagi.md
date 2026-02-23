@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Lale%20Da%C4%9F%C4%B1","alt":"Lale Dağı","caption":"Lale Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Lale Dağı","caption":"Lale Dağı","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lale%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34926448","tip":"genel"}]
 description: "Konya'da yer alan Lale Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Lale Dağı","Konya","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Konya Turizm"]

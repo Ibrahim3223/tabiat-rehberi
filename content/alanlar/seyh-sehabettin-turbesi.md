@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Bahçe gezisi","Fotoğraf çekimi","Tarihi research"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20%C5%9Eehabettin%20T%C3%BCrbesi","alt":"Şeyh Şehabettin Türbesi","caption":"Şeyh Şehabettin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Şeyh Şehabettin Türbesi","caption":"Şeyh Şehabettin Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C5%9Eehabettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q12813068","tip":"genel"}]
 description: "Eskişehir'in Odunpazarı ilçesinde bulunan tarihi bir mekan"
 keywords: ["Eskişehir","Odunpazarı","Türbe","Tarih","Kültür","Mimari","Gezi","Türkiye"]

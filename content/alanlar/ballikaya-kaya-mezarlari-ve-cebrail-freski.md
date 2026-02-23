@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ball%C4%B1kaya%20Kaya%20Mezarlar%C4%B1%20ve%20Cebrail%20Freski","alt":"Ballıkaya Kaya Mezarları ve Cebrail Freski","caption":"Ballıkaya Kaya Mezarları ve Cebrail Freski"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Ballıkaya Mezarları ve Cebrail Freski","caption":"Ballıkaya Mezarları ve Cebrail Freski","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ball%C4%B1kaya%20Kaya%20Mezarlar%C4%B1%20ve%20Cebrail%20Freski","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728162","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Ballıkaya Mezarları","Cebrail Freski","İncirliova","Aydın","Ege Bölgesi","kaya mezarları","fresk","tarih","doğa"]

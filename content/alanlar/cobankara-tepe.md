@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87obankara%20Tepe","alt":"Çobankara Tepe","caption":"Çobankara Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf/page1-897px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf.jpg","alt":"Çobankara Tepe","caption":"Çobankara Tepe","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor00azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87obankara%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819532","tip":"genel"}]
 description: "Türkiye'de bulunan Çobankara Tepe, ülkenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon"
 keywords: ["Çobankara Tepe","Türkiye dağları","doğa turizmi","dağcılık","Türkiye'nin yüksek noktaları","coğrafi oluşumlar","turistik yerler","gezi rehberi","doğal güzellikler"]

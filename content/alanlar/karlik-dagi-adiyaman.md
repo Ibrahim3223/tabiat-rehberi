@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karl%C4%B1k%20Da%C4%9F%C4%B1%20(Ad%C4%B1yaman)","alt":"Karlık Dağı (Adıyaman)","caption":"Karlık Dağı (Adıyaman)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Samsat_district_Turkey_%282%29.jpg/960px-Samsat_district_Turkey_%282%29.jpg","alt":"Karlık Dağı","caption":"Karlık Dağı","credit":"Samsat district Turkey (2).jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karl%C4%B1k%20Da%C4%9F%C4%B1%20(Ad%C4%B1yaman)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385671","tip":"genel"}]
 description: "Adıyaman'da yer alan Karlık Dağı, bölgenin önemli doğal güzelliklerinden biri. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Karlık Dağı","Adıyaman","Doğa","Dağ","Yeşil Alan","Turizm","Gezi","Seyahat","Doğal Güzellik"]

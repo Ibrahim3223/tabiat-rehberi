@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["şifalı sularda yüzme","doga yürüyüşleri","tarihi yerleri gezme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alang%C3%BCll%C3%BC%20Kapl%C4%B1cas%C4%B1","alt":"Alangüllü Kaplıcası","caption":"Alangüllü Kaplıcası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Alangüllü Kaplıcası","caption":"Alangüllü Kaplıcası","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alang%C3%BCll%C3%BC%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738946","tip":"genel"}]
 description: "Ege Bölgesi'nin gözde tatil noktalarından biri olan Alangüllü Kaplıcası, Aydın'ın Germencik ilçesinde bulunmaktadır. Doğal güzelliği ve şifalı sularıyla dikkat çeken bu kaplıca, yıl boyunca birçok ziyaretçi tarafından tercih edilmektedir."
 keywords: ["Alangüllü Kaplıcası","Aydın","Germencik","Ege Bölgesi","kaplıca","doğal güzellik","şifalı su"]

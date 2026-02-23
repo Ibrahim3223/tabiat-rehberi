@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Z%C4%B1rnak%20Tepe","alt":"Zırnak Tepe","caption":"Zırnak Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_prophet_of_the_Great_Smoky_Mountains_%28IA_prophetofgreatsmcrad%29.pdf/page1-641px-The_prophet_of_the_Great_Smoky_Mountains_%28IA_prophetofgreatsmcrad%29.pdf.jpg","alt":"Zırnak Tepe","caption":"Zırnak Tepe","credit":"The prophet of the Great Smoky Mountains (IA prophetofgreatsmcrad).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Z%C4%B1rnak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31501705","tip":"genel"}]
 description: "Muş'un doğal güzelliklerini keşfedin, Zırnak Tepe'de dağların büyüsüne kapılmaya hazır olun!"
 keywords: ["Zırnak Tepe","Muş","Dağ","Doğa","Turizm","Gezi","Seyahat","Muş Turistik Yerler","Zırnak Tepe Nerede"]

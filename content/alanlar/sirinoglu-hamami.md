@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih hakkında bilgi edinme","Doğa yürüyüşü","Fotoğraf çekme","Hamamın etrafındaki bitki ve hayvan türlerini gözlemleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eirino%C4%9Flu%20Hamam%C4%B1","alt":"Şirinoğlu Hamamı","caption":"Şirinoğlu Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu/page1-800px-The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu.jpg","alt":"Şirinoğlu Hamamı","caption":"Şirinoğlu Hamamı","credit":"The Modern Review Vol 37 (Jan.-June 1925).djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eirino%C4%9Flu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739161","tip":"genel"}]
 description: "Sivas'ta yer alan Şirinoğlu Hamamı, tarihi ve doğal güzelliği ile dikkat çekiyor"
 keywords: ["Şirinoğlu Hamamı","Sivas","tarih","doğal güzellik","gezi","turizm","Sivas'ta gezilecek yerler","tarihi mekanlar","doğa"]

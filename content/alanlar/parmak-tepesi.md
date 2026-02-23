@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["yürüyüş","keşif","doğa fotoğrafçılığı","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Parmak%20Tepesi","alt":"Parmak Tepesi","caption":"Parmak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Scientific_American_-_Series_1_-_Volume_003_-_Issue_24.pdf/page1-960px-Scientific_American_-_Series_1_-_Volume_003_-_Issue_24.pdf.jpg","alt":"Parmak Tepesi","caption":"Parmak Tepesi","credit":"Scientific American - Series 1 - Volume 003 - Issue 24.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Parmak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388546","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin, Karadeniz Bölgesi'nin önemli noktalarından biri"
 keywords: ["Rize","Karadeniz Bölgesi","Parmak Tepesi","doğa","gezi","turizm","coğrafya","flora","fauna"]

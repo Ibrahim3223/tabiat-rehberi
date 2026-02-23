@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["doğa yürüyüşleri","manzara seyri","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6l%C3%BCk%20Tepe","alt":"Gölük Tepe","caption":"Gölük Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Gölük Tepe","caption":"Gölük Tepe","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6l%C3%BCk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138529","tip":"genel"}]
 description: "Niğde ilinin doğal güzelliklerinden biri olan Gölük Tepe, ziyaretçilerini büyülüyor."
 keywords: ["Gölük Tepe","Niğde","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm"]

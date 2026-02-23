@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kal%C4%B1np%C4%B1nar%20Yaylas%C4%B1","alt":"Kalınpınar Yaylası","caption":"Kalınpınar Yaylası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Kalınpınar Yaylası","caption":"Kalınpınar Yaylası","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kal%C4%B1np%C4%B1nar%20Yaylas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31566555","tip":"genel"}]
 description: "Türkiye'nin dağlık bölgelerinde yer alan Kalınpınar Yaylası, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kalınpınar Yaylası","Türkiye","Dağ","Doğa","Yayla","Yeşil Alan","İstanbul","Turizm","Seyahat","Gezi"]

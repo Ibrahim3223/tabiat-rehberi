@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plaj","denize girmek","doğada yürüyüş","tarihi ve kültürel değerleri keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kulaks%C4%B1z%20Hamam%C4%B1","alt":"Kulaksız Hamamı","caption":"Kulaksız Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Kulaksız Hamamı","caption":"Kulaksız Hamamı","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kulaks%C4%B1z%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q119841563","tip":"genel"}]
 description: "İstanbul'un gözde mekanlarından biri olan Kulaksız Hamamı, Marmara Bölgesi'nde Beyoğlu'nda yer alır. 140 hektarlık yeşil alan, ziyaretçilerine ferah bir ortam sunar."
 keywords: ["Kulaksız Hamamı","Beyoğlu","İstanbul","Marmara Bölgesi","yeşil alan","plaj","gezi","turizm"]

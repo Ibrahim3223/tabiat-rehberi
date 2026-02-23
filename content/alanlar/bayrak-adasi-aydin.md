@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bayrak%20Adas%C4%B1%20(Ayd%C4%B1n)","alt":"Bayrak Adası (Aydın)","caption":"Bayrak Adası (Aydın)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/A_computer-assisted_petty_officer_assignment_system_for_the_Turkish_Navy._%28IA_computerassisted00seyh%29.pdf/page1-960px-A_computer-assisted_petty_officer_assignment_system_for_the_Turkish_Navy._%28IA_computerassisted00seyh%29.pdf.jpg","alt":"Bayrak Adası","caption":"Bayrak Adası","credit":"A computer-assisted petty officer assignment system for the Turkish Navy. (IA computerassisted00seyh).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bayrak%20Adas%C4%B1%20(Ayd%C4%B1n)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49632529","tip":"genel"}]
 description: "Aydın'da yer alan Bayrak Adası, Ege Denizi'nin güzide noktalarından biri. Turkuaz suları ve yeşillikleriyle dikkat çekiyor."
 keywords: ["Bayrak Adası","Aydın","Ege Denizi","Ada","Turizm","Doğa","Gezi","Tatil","Seyahat"]

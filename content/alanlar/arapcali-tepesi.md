@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tepe tırmanışı","manzara izleme","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arap%C3%A7al%C4%B1%20Tepesi","alt":"Arapçalı Tepesi","caption":"Arapçalı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Across_Asia_on_a_Bicycle_-_The_Journey_of_Two_American_Students_from_Constantinople_to_Peking_by_Thomas_Gaskell_Allen_%26_William_Lewis_Sachtleben.pdf/page1-872px-Across_Asia_on_a_Bicycle_-_The_Journey_of_Two_American_Students_from_Constantinople_to_Peking_by_Thomas_Gaskell_Allen_%26_William_Lewis_Sachtleben.pdf.jpg","alt":"Arapçalı Tepesi","caption":"Arapçalı Tepesi","credit":"Across Asia on a Bicycle - The Journey of Two American Students from Constantinople to Peking by Thomas Gaskell Allen & William Lewis Sachtleben.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arap%C3%A7al%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32129156","tip":"genel"}]
 description: "Sivas'ta bulunan Arapçalı Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri"
 keywords: ["Arapçalı Tepesi","Sivas","İç Anadolu Bölgesi","coğrafi nokta","tepe","doğa","gezi","turizm","yerel história"]

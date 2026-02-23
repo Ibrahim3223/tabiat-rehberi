@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cape%20Dragutina","alt":"Cape Dragutina","caption":"Cape Dragutina"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/The_Gull_%28IA_v43n1gullv43ngold%29.pdf/page1-960px-The_Gull_%28IA_v43n1gullv43ngold%29.pdf.jpg","alt":"Cape Dragutina","caption":"Cape Dragutina","credit":"The Gull (IA v43n1gullv43ngold).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cape%20Dragutina","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34830247","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Cape Dragutina, 1200 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["Cape Dragutina","kuş cenneti","Türkiye","doğal alan","yeşil alan","kuş gözlem","turizm","doğa","çevre"]

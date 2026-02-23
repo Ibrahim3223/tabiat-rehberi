@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["şifalı sulara girmek","doğa yürüyüşü yapmak","zeytin ağaçlarını ziyaret etmek","denize girerek serinlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nebiler%20Il%C4%B1cas%C4%B1%20(Astyra)","alt":"Nebiler Ilıcası (Astyra)","caption":"Nebiler Ilıcası (Astyra)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg","alt":"Nebiler Ilıcası (Astyra)","caption":"Nebiler Ilıcası (Astyra)","credit":"Süzer Sun Dreams Beach 8 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nebiler%20Il%C4%B1cas%C4%B1%20(Astyra)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738529","tip":"genel"}]
 description: "Dikili'nin gizli cenneti, şifalı suları ve yeşilliklerle çevrili doğası ile Nebiler Ilıcası"
 keywords: ["Dikili","İzmir","Ege Bölgesi","ılıca","plaj","şifalı su","doğa","gezi","tatil"]

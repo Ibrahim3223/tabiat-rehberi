@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Demitapa","alt":"Demitapa","caption":"Demitapa"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Demitapa","caption":"Demitapa","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demitapa","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21696966","tip":"genel"}]
 description: "Iğdır'da bulunan Demitapa dağı, 1200 hektarlık yeşil cenneti ile doğa severleri bekliyor."
 keywords: ["Demitapa","Iğdır","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Iğdır Turistik Yerler"]

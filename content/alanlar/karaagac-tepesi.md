@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","manzara seyretme","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaa%C4%9Fa%C3%A7%20Tepesi","alt":"Karaağaç Tepesi","caption":"Karaağaç Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Karaağaç Tepesi","caption":"Karaağaç Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaa%C4%9Fa%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877798","tip":"genel"}]
 description: "Aksaray'ın doğal güzelliklerini keşfedin. Karaağaç Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Karaağaç Tepesi","Aksaray","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

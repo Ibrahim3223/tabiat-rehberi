@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenmek","doğal güzellikleri deneyimlemek","fotograf çekmek","yürüyüş yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kudbeddin%20Dede%20T%C3%BCrbesi","alt":"Kudbeddin Dede Türbesi","caption":"Kudbeddin Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Kudbeddin Dede Türbesi","caption":"Kudbeddin Dede Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kudbeddin%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391774","tip":"genel"}]
 description: "Eskişehir'in Sivrihisar ilçesinde yer alan Kudbeddin Dede Türbesi, tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Kudbeddin Dede Türbesi","Sivrihisar","Eskişehir","tarihi mekanlar","doğal güzellikler","türk kültürü","tarihçe","coğrafya","flora","fauna"]

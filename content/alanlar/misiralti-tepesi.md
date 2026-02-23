@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyretme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=M%C4%B1s%C4%B1ralt%C4%B1%20Tepesi","alt":"Mısıraltı Tepesi","caption":"Mısıraltı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Mısıraltı Tepesi","caption":"Mısıraltı Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C4%B1s%C4%B1ralt%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390613","tip":"genel"}]
 description: "Kırıkkale'nin gizli köşesi, tarihi ve doğal güzellikleri ile baştan çıkarır."
 keywords: ["Mısıraltı Tepesi","Kırıkkale","İç Anadolu Bölgesi","doğal güzellikler","tarih","coğrafya","flora","fauna","ziyaret"]

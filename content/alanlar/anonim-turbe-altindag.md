@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçi ile rehberli tur","Doğa yürüyüşü","Fotograf çekimi","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Anonim%20T%C3%BCrbe%2C%20Alt%C4%B1nda%C4%9F","alt":"Anonim Türbe, Altındağ","caption":"Anonim Türbe, Altındağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/State_1986-03-_Iss_287_%28IA_sim_state-magazine_1986-03_287%29.pdf/page1-960px-State_1986-03-_Iss_287_%28IA_sim_state-magazine_1986-03_287%29.pdf.jpg","alt":"Anonim Türbe, Altındağ","caption":"Anonim Türbe, Altındağ","credit":"State 1986-03- Iss 287 (IA sim state-magazine 1986-03 287).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20T%C3%BCrbe%2C%20Alt%C4%B1nda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582364","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. Anonim Türbe, Altındağ'da sizi bekliyor."
 keywords: ["Ankara","Altındağ","Anonim Türbe","tarih","doğa","gezi","turizm","kültür","miras"]

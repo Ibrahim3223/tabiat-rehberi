@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","kültür gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurduku%C5%9Fki%20Tepesi","alt":"Kurdukuşki Tepesi","caption":"Kurdukuşki Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Recreation_area_management_plan_for_the_Pacific_Crest_National_Scenic_Trail_-_Owens_Peak%2C_Dove_Springs%2C_Cache_Peak_segments%2C_California_%28IA_recreationareama00unit%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Kurdukuşki Tepesi","caption":"Kurdukuşki Tepesi","credit":"Recreation area management plan for the Pacific Crest National Scenic Trail - Owens Peak, Dove Springs, Cache Peak segments, California (IA recreationareama00unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurduku%C5%9Fki%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539333","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli güzelliği, 140 hektarlık bir alana yayılmış"
 keywords: ["Siirt","Güneydoğu Anadolu Bölgesi","Kurdukuşki Tepesi","tepe","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe öğrenme","Doğa yürüyüşü","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mustafa%20Bey%20T%C3%BCrbesi%20Kal%C4%B1nt%C4%B1s%C4%B1%2C%20%C5%9Eav%C5%9Fat","alt":"Mustafa Bey Türbesi Kalıntısı, Şavşat","caption":"Mustafa Bey Türbesi Kalıntısı, Şavşat"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Victoria_Daily_Times_%281921-03-21%29_%28IA_victoriadailytimes19210321%29.pdf/page1-960px-Victoria_Daily_Times_%281921-03-21%29_%28IA_victoriadailytimes19210321%29.pdf.jpg","alt":"Mustafa Bey Türbesi Kalıntısı, Şavşat","caption":"Mustafa Bey Türbesi Kalıntısı, Şavşat","credit":"Victoria Daily Times (1921-03-21) (IA victoriadailytimes19210321).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustafa%20Bey%20T%C3%BCrbesi%20Kal%C4%B1nt%C4%B1s%C4%B1%2C%20%C5%9Eav%C5%9Fat","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582718","tip":"genel"}]
 description: "Artvin'in Şavşat ilçesinde bulunan tarihi bir alan olan Mustafa Bey Türbesi Kalıntısı, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar."
 keywords: ["Mustafa Bey Türbesi Kalıntısı","Şavşat","Artvin","Karadeniz Bölgesi","tarihi alan","doğal güzellik"]

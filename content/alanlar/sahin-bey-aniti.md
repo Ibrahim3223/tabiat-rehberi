@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi"," Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eahin%20Bey%20An%C4%B1t%C4%B1","alt":"Şahin Bey Anıtı","caption":"Şahin Bey Anıtı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Şahin Bey Anıtı","caption":"Şahin Bey Anıtı","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eahin%20Bey%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728091","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli turizm merkezlerinden biri olan Şahin Bey Anıtı, Gaziantep'in Şahinbey ilçesinde yer alıyor."
 keywords: ["Şahin Bey Anıtı","Gaziantep","Şahinbey","Güneydoğu Anadolu Bölgesi","Tarih","Kültür","Turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Busu%20Tapa","alt":"Busu Tapa","caption":"Busu Tapa"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Busu Tapa","caption":"Busu Tapa","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Busu%20Tapa","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21210393","tip":"genel"}]
 description: "Kars'ta bulunan Busu Tapa, doğa severler için 1200 hektarlık bir yeşil cennet"
 keywords: ["Busu Tapa","Kars","Doğa","Yeşil Alan","Turizm","Dağ","Kars Turistik Yerler","Doğa Harikaları","Yeşil Cennet"]

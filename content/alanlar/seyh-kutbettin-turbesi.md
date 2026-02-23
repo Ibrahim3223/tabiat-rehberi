@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","doğa yürüyüşü","göl manzarası"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Kutbettin%20T%C3%BCrbesi","alt":"Şeyh Kutbettin Türbesi","caption":"Şeyh Kutbettin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/The_oist_%28IA_oist31albi%29.pdf/page1-847px-The_oist_%28IA_oist31albi%29.pdf.jpg","alt":"Şeyh Kutbettin Türbesi","caption":"Şeyh Kutbettin Türbesi","credit":"The oist (IA oist31albi).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Kutbettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390726","tip":"genel"}]
 description: "İznik'in doğal güzelliklerinin birleştiği yer olan Şeyh Kutbettin Türbesi, 140 hektarlık bir alanı kaplayan geniş bir yeşil alan sunar."
 keywords: ["İznik","Bursa","Marmara Bölgesi","tarih","doğa","turizm","gezi","tarihçe","coğrafya"]

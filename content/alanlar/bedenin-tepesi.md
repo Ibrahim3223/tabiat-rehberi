@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bedenin%20Tepesi","alt":"Bedenin Tepesi","caption":"Bedenin Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Getty_Research_Institute_%28IA_landscapeillustr00horn%29.pdf/page1-960px-Getty_Research_Institute_%28IA_landscapeillustr00horn%29.pdf.jpg","alt":"Bedenin Tepesi","caption":"Bedenin Tepesi","credit":"Getty Research Institute (IA landscapeillustr00horn).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bedenin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388265","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gözde mekanlarından biri olan Bedenin Tepesi, Kars ilinin doğal güzellikleri içerisindeki önemli bir nokta."
 keywords: ["Kars","Doğu Anadolu Bölgesi","Bedenin Tepesi","doğal güzellik","tepe","coğrafya"]

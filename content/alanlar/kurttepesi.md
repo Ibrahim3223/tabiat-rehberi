@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurttepesi","alt":"Kurttepesi","caption":"Kurttepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_scenery_of_Greece_and_its_islands%2C_illustrated_by_fifty_views%2C_sketched_from_nature%2C_executed_on_steel%2C_and_described_en_route%2C_with_a_map_of_the_country_%28IA_cu31924028239691%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Kurttepesi","caption":"Kurttepesi","credit":"The scenery of Greece and its islands, illustrated by fifty views, sketched from nature, executed on steel, and described en route, with a map of the country (IA cu31924028239691).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurttepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387497","tip":"genel"}]
 description: "Van'ın tarihi ve doğal güzelliklerinin birleştiği point"
 keywords: ["Kurttepesi","Van","Doğu Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

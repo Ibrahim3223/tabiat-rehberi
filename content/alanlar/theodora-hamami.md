@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Doğa fotoğrafçılığı","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Theodora%20Hamam%C4%B1","alt":"Theodora Hamamı","caption":"Theodora Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Theodora Hamamı","caption":"Theodora Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Theodora%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738952","tip":"genel"}]
 description: "Tuzla'da bulunan Theodora Hamamı, Marmara Bölgesi'nin önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve çeşitli bitki türleriyle çevrilidir."
 keywords: ["Theodora Hamamı","Tuzla","Marmara Bölgesi","doğal alan","yeşil alan","bitki türleri"]

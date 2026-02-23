@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Tarih Araştırması","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tezveren%20Dede%20T%C3%BCrbesi","alt":"Tezveren Dede Türbesi","caption":"Tezveren Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf/page1-960px-The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf.jpg","alt":"Tezveren Dede Türbesi","caption":"Tezveren Dede Türbesi","credit":"The Enterprise 1923-06-07 (IA cssf 001428).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tezveren%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390462","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzel köşesi, Osmangazi/Bursa'da yer alan Tezveren Dede Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Tezveren Dede Türbesi","Osmangazi","Bursa","Marmara Bölgesi","Yeşil Alan","Türbe","Tarih"]

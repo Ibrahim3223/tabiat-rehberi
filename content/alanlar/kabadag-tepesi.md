@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kabada%C4%9F%20Tepesi","alt":"Kabadağ Tepesi","caption":"Kabadağ Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Kabadağ Tepesi","caption":"Kabadağ Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabada%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558056","tip":"genel"}]
 description: "Ankara'nın önemli doğal güzelliklerinden biri olan Kabadağ Tepesi, şehrin panoramik manzarasını sunar."
 keywords: ["Kabadağ Tepesi","Ankara","Dağ","Doğal Alan","Panoramik Manzara","Turistik Yerler","Ankara Gezi","Doğa Yürüyüşü","Tepeler"]

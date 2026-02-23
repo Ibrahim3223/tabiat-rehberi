@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Fotoğrafçılık","Tarihi mekan gezme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Galip%20Pa%C5%9Fa%20K%C3%BCmbeti","alt":"Galip Paşa Kümbeti","caption":"Galip Paşa Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Travels_and_Adventures_in_the_Persian_Provinces_on_the_Southern_Banks_of_the_Caspian_Sea_-_James_Baillie_Fraser%2C_1826_%28IA_travelsadventure00frasrich%29.pdf/page1-960px-Travels_and_Adventures_in_the_Persian_Provinces_on_the_Southern_Banks_of_the_Caspian_Sea_-_James_Baillie_Fraser%2C_1826_%28IA_travelsadventure00frasrich%29.pdf.jpg","alt":"Galip Paşa Kümbeti","caption":"Galip Paşa Kümbeti","credit":"Travels and Adventures in the Persian Provinces on the Southern Banks of the Caspian Sea - James Baillie Fraser, 1826 (IA travelsadventure00frasrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Galip%20Pa%C5%9Fa%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391817","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Van ilinde yer alan Galip Paşa Kümbeti, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Galip Paşa Kümbeti","Van","Doğu Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

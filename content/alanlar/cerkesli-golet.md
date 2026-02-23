@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87erke%C5%9Fli%20G%C3%B6let","alt":"Çerkeşli Gölet","caption":"Çerkeşli Gölet"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"Çerkeşli Gölet","caption":"Çerkeşli Gölet","credit":"Bilecik, Küçükelmalı tabiat parkı göleti.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87erke%C5%9Fli%20G%C3%B6let","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34937009","tip":"genel"}]
 description: "Bilecik'te bulunan Çerkeşli Gölet, 1200 hektarlık yeşil cennet, doğa severler için ideal bir destinasyon."
 keywords: ["Çerkeşli Gölet","Bilecik","gölet","doğa","turizm","gezi","yaban hayatı","orman","su kaynakları","ekosistem"]

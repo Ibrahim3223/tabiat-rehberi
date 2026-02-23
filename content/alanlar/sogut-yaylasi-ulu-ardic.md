@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%B6%C4%9F%C3%BCt%20Yaylasi%20Ulu%20Ardic","alt":"Söğüt Yaylasi Ulu Ardic","caption":"Söğüt Yaylasi Ulu Ardic"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Söğüt Yaylasi Ulu Ardic","caption":"Söğüt Yaylasi Ulu Ardic","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%B6%C4%9F%C3%BCt%20Yaylasi%20Ulu%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227134","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti Söğüt Yaylasi Ulu Ardic, 140 hektarlık yeşil alanlarıyla doğa severleri bekliyor."
 keywords: ["Söğüt Yaylasi","Ulu Ardic","İç Anadolu Bölgesi","doğa","yayla","milli park"]

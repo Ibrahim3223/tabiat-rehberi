@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9C%C3%A7p%C4%B1nar%20Tepesi","alt":"Üçpınar Tepesi","caption":"Üçpınar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Trabzon_Kazang%C4%B1ran_Yaylas%C4%B1_Yolu.jpg/960px-Trabzon_Kazang%C4%B1ran_Yaylas%C4%B1_Yolu.jpg","alt":"Üçpınar Tepesi","caption":"Üçpınar Tepesi","credit":"Trabzon Kazangıran Yaylası Yolu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7p%C4%B1nar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820586","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerinden biri olan Üçpınar Tepesi, Karadeniz Bölgesi'nde yer alan bir tepe."
 keywords: ["Üçpınar Tepesi","Trabzon","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

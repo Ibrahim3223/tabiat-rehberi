@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Hamamın tarihi atmosferini deneyimlemek","Geleneksel Türk hamam kültürünü öğrenmek","Hamamın bahçesinde dinlenmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1%20Kad%C4%B1n%20Hamam%C4%B1%2C%20Kocamustafapa%C5%9Fa","alt":"Hacı Kadın Hamamı, Kocamustafapaşa","caption":"Hacı Kadın Hamamı, Kocamustafapaşa"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Hacı Kadın Hamamı, Kocamustafapaşa","caption":"Hacı Kadın Hamamı, Kocamustafapaşa","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Kad%C4%B1n%20Hamam%C4%B1%2C%20Kocamustafapa%C5%9Fa","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738625","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Hacı Kadın Hamamı, Kocamustafapaşa'da ziyaretçilerini bekliyor."
 keywords: ["Hacı Kadın Hamamı","Kocamustafapaşa","İstanbul","tarihi hamam","Marmara Bölgesi","Fatih","gezi","turizm"]

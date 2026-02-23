@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1m%C4%B1l%20Tepe%20(38.10%20N)","alt":"Kımıl Tepe (38.10 N)","caption":"Kımıl Tepe (38.10 N)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Travels_and_Researches_in_Asia_Minor%2C_Mesopotania%2C_Chaldea%2C_and_Armenia_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.41531%29.pdf/page1-612px-Travels_and_Researches_in_Asia_Minor%2C_Mesopotania%2C_Chaldea%2C_and_Armenia_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.41531%29.pdf.jpg","alt":"Kımıl Tepe (38.10 N)","caption":"Kımıl Tepe (38.10 N)","credit":"Travels and Researches in Asia Minor, Mesopotania, Chaldea, and Armenia (in Two Volumes, Vol.I) (IA dli.granth.41531).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1m%C4%B1l%20Tepe%20(38.10%20N)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515245","tip":"genel"}]
 description: "Adıyaman'da yer alan Kımıl Tepe, 38.10 N enlemde bulunan bir dağdır. Doğal güzellikleri ve coğrafi konumuyla dikkat çeker."
 keywords: ["Kımıl Tepe","Adıyaman","Dağ","Doğal Alan","Coğrafi Konum","38.10 N","Turizm","Gezi","Seyahat"]

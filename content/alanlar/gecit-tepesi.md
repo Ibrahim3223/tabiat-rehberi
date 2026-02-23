@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","gezi","fotografcılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ge%C3%A7it%20Tepesi","alt":"Geçit Tepesi","caption":"Geçit Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Geçit Tepesi","caption":"Geçit Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ge%C3%A7it%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210407","tip":"genel"}]
 description: "Şırnak'ta bulunan Geçit Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri."
 keywords: ["Şırnak","Geçit Tepesi","Güneydoğu Anadolu Bölgesi","coğrafi oluşum","tepe","turizm","doğa","gezi"]

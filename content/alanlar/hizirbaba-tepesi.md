@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C4%B1z%C4%B1rbaba%20Tepesi","alt":"Hızırbaba Tepesi","caption":"Hızırbaba Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_prophet_of_the_Great_Smoky_Mountains_%28IA_prophetofgreatsm00cradiala%29.pdf/page1-664px-The_prophet_of_the_Great_Smoky_Mountains_%28IA_prophetofgreatsm00cradiala%29.pdf.jpg","alt":"Hızırbaba Tepesi","caption":"Hızırbaba Tepesi","credit":"The prophet of the Great Smoky Mountains (IA prophetofgreatsm00cradiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1z%C4%B1rbaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520613","tip":"genel"}]
 description: "Muş'un görkemli dağlarından biri olan Hızırbaba Tepesi, doğa severlerin ziyaret ettiği bir nokta"
 keywords: ["Hızırbaba Tepesi","Muş","Dağ","Doğa","Türkiye","Seyahat","Gezi","Turizm","Muş Turistik Yerler"]

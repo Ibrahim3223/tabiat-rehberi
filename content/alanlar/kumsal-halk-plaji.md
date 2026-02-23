@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["deniz keyfi","su sporları","güneş banyosu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kumsal%20Halk%20Plaj%C4%B1","alt":"Kumsal Halk Plajı","caption":"Kumsal Halk Plajı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"Kumsal Halk Plajı","caption":"Kumsal Halk Plajı","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumsal%20Halk%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49321668","tip":"genel"}]
 description: "Antalya'nın gözde plajı, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
 keywords: ["Antalya plajları","Kumsal Halk Plajı","Akdeniz Bölgesi","deniz turizmi","turistik yerler","plaj aktiviteleri","deniz keyfi","güney kıyıları"]

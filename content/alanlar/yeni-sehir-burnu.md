@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yeni%20%C5%9Eehir%20Burnu","alt":"Yeni Şehir Burnu","caption":"Yeni Şehir Burnu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Status_and_management_of_neotropical_migratory_birds_-_September_21-25%2C_1992%2C_Estes_Park_Center%2C_YMCA_of_the_Rockies%2C_Colorado_%28IA_CAT93501984%29.pdf/page1-960px-Status_and_management_of_neotropical_migratory_birds_-_September_21-25%2C_1992%2C_Estes_Park_Center%2C_YMCA_of_the_Rockies%2C_Colorado_%28IA_CAT93501984%29.pdf.jpg","alt":"Yeni Şehir Burnu","caption":"Yeni Şehir Burnu","credit":"Status and management of neotropical migratory birds - September 21-25, 1992, Estes Park Center, YMCA of the Rockies, Colorado (IA CAT93501984).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20%C5%9Eehir%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34833942","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Yeni Şehir Burnu, 1200 hektarlık alanı ile İstanbul'un doğal güzelliklerini keşfetmek için ideal bir yer."
 keywords: ["Yeni Şehir Burnu","kuş cenneti","doğa turizmi","İstanbul","Türkiye","kuş gözlemi","doğal alanlar","ekoturizm","çevre turizmi"]

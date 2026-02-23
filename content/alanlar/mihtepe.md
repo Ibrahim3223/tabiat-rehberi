@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=M%C4%B1htepe","alt":"Mıhtepe","caption":"Mıhtepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Mıhtepe","caption":"Mıhtepe","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C4%B1htepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572874","tip":"genel"}]
 description: "Türkiye'nin görkemli dağlarından biri olan Mıhtepe, doğa severlerin ziyaret ettiği bir yer"
 keywords: ["Mıhtepe","Dağ","Türkiye","Doğa","Seyahat","Gezi","Türkiye'nin dağları","Mıhtepe dağı","Doğa turizmi"]

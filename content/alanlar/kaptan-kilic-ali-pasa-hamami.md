@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Gezi","Tarihçe","Doğa Yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaptan%20K%C4%B1l%C4%B1%C3%A7%20Ali%20Pa%C5%9Fa%20Hamam%C4%B1","alt":"Kaptan Kılıç Ali Paşa Hamamı","caption":"Kaptan Kılıç Ali Paşa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Kaptan Kılıç Ali Paşa Hamamı","caption":"Kaptan Kılıç Ali Paşa Hamamı","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaptan%20K%C4%B1l%C4%B1%C3%A7%20Ali%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738544","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini keşfedin. Kaptan Kılıç Ali Paşa Hamamı, Marmara Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kaptan Kılıç Ali Paşa Hamamı","Beyoğlu","İstanbul","Marmara Bölgesi","tarih","doğa","gezi","turizm","kültür"]

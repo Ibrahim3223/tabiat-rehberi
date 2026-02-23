@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotografi","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mevlana%20Fevzullah%20%C3%87ingilli%20Dede%20T%C3%BCrbesi","alt":"Mevlana Fevzullah Çingilli Dede Türbesi","caption":"Mevlana Fevzullah Çingilli Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Mevlana Fevzullah Çingilli Dede Türbesi","caption":"Mevlana Fevzullah Çingilli Dede Türbesi","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mevlana%20Fevzullah%20%C3%87ingilli%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130428957","tip":"genel"}]
 description: "Nazilli'nin tarihi ve doğal güzelliklerinin birleştiği yer"
 keywords: ["Mevlana Fevzullah Çingilli Dede Türbesi","Nazilli","Aydın","tarih","doğa","turizm","gezi","türk kültürü"]

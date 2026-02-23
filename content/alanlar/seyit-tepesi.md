@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Seyit%20Tepesi","alt":"Seyit Tepesi","caption":"Seyit Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Seyit Tepesi","caption":"Seyit Tepesi","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyit%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31576692","tip":"genel"}]
 description: "Şanlıurfa'nın doğal güzelliklerinden biri olan Seyit Tepesi, 1200 metre yükseklikte yer alır ve bölgenin en önemli dağlarından biridir."
 keywords: ["Seyit Tepesi","Şanlıurfa","Dağ","Doğa","Turizm","Gezi","Türkiye","Coğrafya","Seyahat"]

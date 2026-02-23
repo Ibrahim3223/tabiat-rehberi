@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları gezmek","Doğa yürüyüşü yapmak","Fotoğraf çekmek","Tarihi olayları öğrenmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karakad%C4%B1%20Mecdettin%20T%C3%BCrbesi","alt":"Karakadı Mecdettin Türbesi","caption":"Karakadı Mecdettin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg","alt":"Karakadı Mecdettin Türbesi","caption":"Karakadı Mecdettin Türbesi","credit":"Süzer Sun Dreams Beach 12 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakad%C4%B1%20Mecdettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390839","tip":"genel"}]
 description: "İzmir'in Tire ilçesinde bulunan Karakadı Mecdettin Türbesi, tarihin derinliklerinde gizli bir hazine. Bu tarihi mekan, ziyaretçilerini Ege Bölgesi'nin mistik atmosferine davet ediyor."
 keywords: ["Karakadı Mecdettin Türbesi","Tire","İzmir","Ege Bölgesi","Türbe","Tarih","Mecdettin","Karakadı"]

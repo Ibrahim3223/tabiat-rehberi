@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C4%B1nz%C4%B1r%20Da%C4%9F%C4%B1","alt":"Hınzır Dağı","caption":"Hınzır Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Hınzır Dağı","caption":"Hınzır Dağı","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1nz%C4%B1r%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520732","tip":"genel"}]
 description: "Kayseri'nin görkemli dağlarından biri olan Hınzır Dağı, doğa severler için bir cennet."
 keywords: ["Hınzır Dağı","Kayseri","Dağ","Doğa","Trekking","Kaya tırmanışı","Turizm","Gezi","Kayseri gezilecek yerler"]

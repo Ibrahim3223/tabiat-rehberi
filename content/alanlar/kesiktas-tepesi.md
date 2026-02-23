@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kesikta%C5%9F%20Tepesi","alt":"Kesiktaş Tepesi","caption":"Kesiktaş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%B6bekli_Tepe_-_landscape.jpg/960px-G%C3%B6bekli_Tepe_-_landscape.jpg","alt":"Kesiktaş Tepesi","caption":"Kesiktaş Tepesi","credit":"Göbekli Tepe - landscape.jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kesikta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385647","tip":"genel"}]
 description: "Şanlıurfa'nın doğal güzelliklerini keşfedin, Kesiktaş Tepesi'ni ziyaret edin."
 keywords: ["Kesiktaş Tepesi","Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

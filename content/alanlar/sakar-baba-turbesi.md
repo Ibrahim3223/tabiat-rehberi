@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarih gezileri","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sakar%20Baba%20T%C3%BCrbesi","alt":"Sakar Baba Türbesi","caption":"Sakar Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Sakar Baba Türbesi","caption":"Sakar Baba Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakar%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391619","tip":"genel"}]
 description: "Adapazarı'nın Sakarya ilçesinde bulunan Sakar Baba Türbesi, tarihi ve doğal güzellikleri bir arada sunan bir destinasyon."
 keywords: ["Sakar Baba Türbesi","Adapazarı","Sakarya","tarih","doğa","gezi","türk kültürü","tarihçe","coğrafya","flora","fauna"]

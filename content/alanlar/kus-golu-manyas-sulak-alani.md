@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Kuş gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ku%C5%9F%20G%C3%B6l%C3%BC%20(Manyas)%20Sulak%20Alan%C4%B1","alt":"Kuş Gölü (Manyas) Sulak Alanı","caption":"Kuş Gölü (Manyas) Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Kuş Gölü (Manyas) Sulak Alanı","caption":"Kuş Gölü (Manyas) Sulak Alanı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9F%20G%C3%B6l%C3%BC%20(Manyas)%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228818","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kuş Gölü (Manyas) Sulak Alanı, zengin fauna ve flora çeşitliliğiyle dikkat çeker."
 keywords: ["Kuş Gölü","Manyas","Sulak Alanı","İç Anadolu Bölgesi","Doğa","Flora","Fauna","Sulak Alan"]

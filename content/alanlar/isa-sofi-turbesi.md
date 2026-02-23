@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["İbadet etmek","Tarihi geçmişi keşfetmek","Doğa ile iç içe olmak","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0sa%20Sofi%20t%C3%BCrbesi","alt":"İsa Sofi türbesi","caption":"İsa Sofi türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"İsa Sofi türbesi","caption":"İsa Sofi türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0sa%20Sofi%20t%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q105474252","tip":"genel"}]
 description: "Marmara Bölgesi'nde yer alan İsa Sofi türbesi, Söğüt ilçesinde bulunan tarihi bir mekan."
 keywords: ["İsa Sofi türbesi","Söğüt","Bilecik","Marmara Bölgesi","tarihi mekan","türbe","gezi","turizm"]

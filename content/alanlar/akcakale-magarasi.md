@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ak%C3%A7akale%20Ma%C4%9Faras%C4%B1","alt":"Akçakale Mağarası","caption":"Akçakale Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Akçakale Mağarası","caption":"Akçakale Mağarası","credit":"Aydıncık Cave.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7akale%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Gümüşhane'de bulunan Akçakale Mağarası, doğal güzelliği ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Akçakale Mağarası","Gümüşhane","Mağara","Doğa","Turizm","Gezi","Gümüşhane Turistik Yerler","Mağaralar","Doğal Güzellikler"]

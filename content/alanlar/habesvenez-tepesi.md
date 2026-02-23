@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Habesvenez%20Tepesi","alt":"Habesvenez Tepesi","caption":"Habesvenez Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Habesvenez Tepesi","caption":"Habesvenez Tepesi","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Habesvenez%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551410","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin. Güneydoğu Anadolu Bölgesi'nde yer alan Habesvenez Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mardin","Habesvenez Tepesi","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]

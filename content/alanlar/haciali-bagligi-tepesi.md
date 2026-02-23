@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1ali%20Ba%C4%9Fl%C4%B1%C4%9F%C4%B1%20Tepesi","alt":"Hacıali Bağlığı Tepesi","caption":"Hacıali Bağlığı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Hacıali Bağlığı Tepesi","caption":"Hacıali Bağlığı Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1ali%20Ba%C4%9Fl%C4%B1%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31534640","tip":"genel"}]
 description: "Hatay'da yer alan Hacıali Bağlığı Tepesi, Akdeniz Bölgesi'nin önemli coğrafi noktalarından biridir."
 keywords: ["Hacıali Bağlığı Tepesi","Hatay","Akdeniz Bölgesi","coğrafi nokta","tepe","doğa","gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Do%C4%9Fdu%20Da%C4%9F%C4%B1","alt":"Doğdu Dağı","caption":"Doğdu Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Doğdu Dağı","caption":"Doğdu Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fdu%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568806","tip":"genel"}]
 description: "İç Anadolu Bölgesi, Çankırı'da bulunan Doğdu Dağı, 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Doğdu Dağı","İç Anadolu Bölgesi","Çankırı","Dağ","Doğal Alan","Yeşil Alan","Türkiye Coğrafyası","Çankırı Turizm","Dağcılık"]

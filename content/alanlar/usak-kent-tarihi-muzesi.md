@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Rehberli tur","Eser ve belge incelemesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=U%C5%9Fak%20Kent%20Tarihi%20M%C3%BCzesi","alt":"Uşak Kent Tarihi Müzesi","caption":"Uşak Kent Tarihi Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Research_natural_areas_in_New_Mexico_%28IA_CAT87881126%29.pdf/page1-960px-Research_natural_areas_in_New_Mexico_%28IA_CAT87881126%29.pdf.jpg","alt":"Uşak Kent Tarihi Müzesi","caption":"Uşak Kent Tarihi Müzesi","credit":"Research natural areas in New Mexico (IA CAT87881126).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/U%C5%9Fak%20Kent%20Tarihi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132682074","tip":"genel"}]
 description: "Uşak'ın tarihi ve kültürel zenginliğini keşfedin"
 keywords: ["Uşak","Kent Tarihi Müzesi","Ege Bölgesi","Tarih","Kültür","Müze"]

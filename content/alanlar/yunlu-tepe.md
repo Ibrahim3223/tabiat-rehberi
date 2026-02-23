@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","tarihî alan gezisi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%BCnl%C3%BC%20Tepe","alt":"Yünlü Tepe","caption":"Yünlü Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Yünlü Tepe","caption":"Yünlü Tepe","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCnl%C3%BC%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196198","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli köşelerinden biri olan Yünlü Tepe, tarihi ve coğrafi zenginlikleriyle ziyaretçilerini bekliyor."
 keywords: ["Yünlü Tepe","İç Anadolu Bölgesi","tarih","coğrafya","doğa","gezi","keşif"]

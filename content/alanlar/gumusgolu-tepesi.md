@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","manzara izleme","fotoğrafçılık","kamp yapma","yürüyüş"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCm%C3%BC%C5%9Fg%C3%B6l%C3%BC%20Tepesi","alt":"Gümüşgölü Tepesi","caption":"Gümüşgölü Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00sing%29.pdf/page1-770px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00sing%29.pdf.jpg","alt":"Gümüşgölü Tepesi","caption":"Gümüşgölü Tepesi","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00sing).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fg%C3%B6l%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873158","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Gümüşgölü Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor. 140 hektarlık bir alanı kapsayan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Gümüşgölü Tepesi","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","tepe","gezi","turizm","çevre","ekosistem"]

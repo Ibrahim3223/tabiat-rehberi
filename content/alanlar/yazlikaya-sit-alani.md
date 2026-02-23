@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yazl%C4%B1kaya%20Sit%20alan%C4%B1","alt":"Yazlıkaya Sit alanı","caption":"Yazlıkaya Sit alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Yazlıkaya Sit Alanı","caption":"Yazlıkaya Sit Alanı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yazl%C4%B1kaya%20Sit%20alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226085","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan doğal güzellik"
 keywords: ["Yazlıkaya Sit Alanı","İç Anadolu Bölgesi","doğal güzellik","turizm","gezi","yerel kültür","coğrafya","flora","fauna"]

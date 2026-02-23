@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa gezisi","fotograf çekimi","kültürel deneyim"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ahi%20Bayram%20T%C3%BCrbesi%2C%20%C3%87ine","alt":"Ahi Bayram Türbesi, Çine","caption":"Ahi Bayram Türbesi, Çine"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Ahi Bayram Türbesi, Çine","caption":"Ahi Bayram Türbesi, Çine","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20Bayram%20T%C3%BCrbesi%2C%20%C3%87ine","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582193","tip":"genel"}]
 description: "Aydın'ın Çine ilçesinde bulunan Ahi Bayram Türbesi, tarihin sâu izlerini taşıyan bir bölge"
 keywords: ["Ahi Bayram Türbesi","Çine","Aydın","tarih","türk kültürü","tarihi mekanlar","gezi","turizm","Ege Bölgesi"]

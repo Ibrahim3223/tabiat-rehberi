@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Bergama-Dikili%20K%C4%B1z%C4%B1lcam","alt":"Izmir-Bergama-Dikili Kızılcam","caption":"Izmir-Bergama-Dikili Kızılcam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MOKFC15.jpg/960px-MOKFC15.jpg","alt":"Izmir-Bergama-Dikili Kızılcam","caption":"Izmir-Bergama-Dikili Kızılcam","credit":"MOKFC15.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Bergama-Dikili%20K%C4%B1z%C4%B1lcam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228588","tip":"genel"}]
 description: "Izmir-Bergama-Dikili Kızılcam milli parkı, Ege Bölgesi'nin en önemli doğal alanlarından biri"
 keywords: ["Izmir milli parkı","Bergama","Dikili","Kızılcam","Ege Bölgesi","doğal alan","milli park","turizm","gezi"]

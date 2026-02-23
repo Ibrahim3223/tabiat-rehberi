@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezi","Sergi ziyaret","Kültür workshop"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ke%C3%A7i%C3%B6ren%20Belediyesi%20Etnografya%20M%C3%BCzesi","alt":"Keçiören Belediyesi Etnografya Müzesi","caption":"Keçiören Belediyesi Etnografya Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Keçiören Belediyesi Etnografya Müzesi","caption":"Keçiören Belediyesi Etnografya Müzesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C3%A7i%C3%B6ren%20Belediyesi%20Etnografya%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950034","tip":"genel"}]
 description: "Ankara'nın merkezinde zengin bir tarihi ve kültürel deneyim sunan özel bir mekan."
 keywords: ["Keçiören Belediyesi Etnografya Müzesi","Ankara","Etnografya","Müze","Tarih","Kültür","Ankara turizmi","Müze ziyaretleri","Etnografya müzesi"]

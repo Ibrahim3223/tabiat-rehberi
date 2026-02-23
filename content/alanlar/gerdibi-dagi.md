@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gerdibi%20Da%C4%9F%C4%B1","alt":"Gerdibi Dağı","caption":"Gerdibi Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaid%29.pdf/page1-931px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaid%29.pdf.jpg","alt":"Gerdibi Dağı","caption":"Gerdibi Dağı","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen00gaid).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gerdibi%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31523408","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerinden biri olan Gerdibi Dağı, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Gerdibi Dağı","Adana","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

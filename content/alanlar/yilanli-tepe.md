@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1lanl%C4%B1%20Tepe","alt":"Yılanlı Tepe","caption":"Yılanlı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ongoing_declines_for_the_world%E2%80%99s_amphibians_in_the_face_of_emerging_threats.pdf/page1-960px-Ongoing_declines_for_the_world%E2%80%99s_amphibians_in_the_face_of_emerging_threats.pdf.jpg","alt":"Yılanlı Tepe","caption":"Yılanlı Tepe","credit":"Ongoing declines for the world’s amphibians in the face of emerging threats.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1lanl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502355","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Yılanlı Tepe'de dağcılık ve trekking deneyimi"
 keywords: ["Yılanlı Tepe","İzmir","Dağ","Trekking","Dağcılık","Doğa","İzmir Turizm","Yılanlı Tepe İzmir","Turistik Yerler"]

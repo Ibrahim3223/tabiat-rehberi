@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kar%C4%B1ncal%C4%B1%20Da%C4%9F%C4%B1","alt":"Karıncalı Dağı","caption":"Karıncalı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Myus_%28Myos%29_Ancient_City_-_Flickr_-_faktor1komma5.jpg/960px-Myus_%28Myos%29_Ancient_City_-_Flickr_-_faktor1komma5.jpg","alt":"Karıncalı Dağı","caption":"Karıncalı Dağı","credit":"Myus (Myos) Ancient City - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kar%C4%B1ncal%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878226","tip":"genel"}]
 description: "Aydın'da bulunan Karıncalı Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Karıncalı Dağı","Aydın","Dağ","Doğa","Turizm","Gezi","Aydın Turistik Yerler","Karıncalı Dağı Aydın","Doğal Alanlar"]

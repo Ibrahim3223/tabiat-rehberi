@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan izleme","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Aladag%20Saricam%204","alt":"Bolu-Aladag Saricam 4","caption":"Bolu-Aladag Saricam 4"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Abant_Lake_Nature_Park.jpg/960px-Abant_Lake_Nature_Park.jpg","alt":"Bolu-Aladag Saricam 4","caption":"Bolu-Aladag Saricam 4","credit":"Abant Lake Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Aladag%20Saricam%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227557","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini sunan Bolu-Aladag Saricam 4, 140 hektarlık bir alanı kapsar."
 keywords: ["Bolu-Aladag Saricam 4","milli park","Karadeniz Bölgesi","doğa","gezi","turizm","çevre","ekosistem","koruma"]

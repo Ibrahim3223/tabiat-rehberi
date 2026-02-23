@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kay%C4%B1k%20Ge%C3%A7idi","alt":"Kayık Geçidi","caption":"Kayık Geçidi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Kayık Geçidi","caption":"Kayık Geçidi","credit":"VallesMarinerisHuge.jpg","license":"Attribution"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kay%C4%B1k%20Ge%C3%A7idi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49342965","tip":"genel"}]
 description: "Şırnak'ta yer alan Kayık Geçidi, 1200 hektarlık bir alanı kaplayan doğal bir kanyon"
 keywords: ["Kayık Geçidi","Şırnak","Kanyon","Doğa","Turizm","Gezi","Şırnak Turistik Yerler","Kanyonlar","Doğal Alanlar"]

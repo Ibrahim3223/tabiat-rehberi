@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Göl gezisi","Piknik","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Seyfe%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Seyfe Gölü Sulak Alanı","caption":"Seyfe Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Seyfe Gölü Sulak Alanı","caption":"Seyfe Gölü Sulak Alanı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyfe%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228815","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Seyfe Gölü Sulak Alanı, 140 hektarlık alanı ile önemli bir ekosistem"
 keywords: ["Seyfe Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Ekosistem","Göl","Sulak Alan","Korunan Alan"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","tarihi yerleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mak%C5%9Fitirke%20Tepesi","alt":"Makşitirke Tepesi","caption":"Makşitirke Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Makşitirke Tepesi","caption":"Makşitirke Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mak%C5%9Fitirke%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31542850","tip":"genel"}]
 description: "Diyarbakır'da bulunan Makşitirke Tepesi, tarihi ve doğal güzellikleri ile dikkat çeker."
 keywords: ["Makşitirke Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","tepe","doğa","tarih"]

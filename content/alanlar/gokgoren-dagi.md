@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6kg%C3%B6ren%20Da%C4%9F%C4%B1","alt":"Gökgören Dağı","caption":"Gökgören Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_historicalsketch00step%29.pdf/page1-654px-Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_historicalsketch00step%29.pdf.jpg","alt":"Gökgören Dağı","caption":"Gökgören Dağı","credit":"Historical sketch of Armenia and the Armenians in ancient and modern times (IA historicalsketch00step).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kg%C3%B6ren%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872127","tip":"genel"}]
 description: "Bitlis'in görkemli dağlarından biri olan Gökgören Dağı, 1200 hektarlık yeşil cenneti ve doğa güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Gökgören Dağı","Bitlis","Dağ","Doğa","Yeşil Cennet","Turizm","Gezi","Seyahat","Doğa Sporları"]

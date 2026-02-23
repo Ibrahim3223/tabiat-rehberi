@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","doğa fotoğrafçılığı","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Namazlar%20Tepesi","alt":"Namazlar Tepesi","caption":"Namazlar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Namazlar Tepesi","caption":"Namazlar Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Namazlar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509889","tip":"genel"}]
 description: "Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olan Namazlar Tepesi, Balıkesir'in eşsiz manzarasına ev sahipliği yapıyor."
 keywords: ["Namazlar Tepesi","Balıkesir","Marmara Bölgesi","doğal güzellik","tepe","manzara","gezi","turizm","çevre"]

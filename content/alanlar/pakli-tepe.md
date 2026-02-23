@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pakl%C4%B1%20Tepe","alt":"Paklı Tepe","caption":"Paklı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Paklı Tepe","caption":"Paklı Tepe","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pakl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509053","tip":"genel"}]
 description: "Erzurum'un görkemli dağlarından biri olan Paklı Tepe, 1400 metre yüksekliğiyle dikkat çekiyor."
 keywords: ["Paklı Tepe","Erzurum","Dağ","Doğa","Türkiye","Gezi","Seyahat","Yürüyüş","Kış Sporları"]

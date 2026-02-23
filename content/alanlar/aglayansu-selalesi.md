@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","picnic","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C4%9Flayansu%20%C5%9Eelalesi","alt":"Ağlayansu Şelalesi","caption":"Ağlayansu Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_ve_Etraf%C4%B1ndaki_Ya%C5%9Fl%C4%B1_A%C4%9Fa%C3%A7lar.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_ve_Etraf%C4%B1ndaki_Ya%C5%9Fl%C4%B1_A%C4%9Fa%C3%A7lar.jpg","alt":"Ağlayansu Şelalesi","caption":"Ağlayansu Şelalesi","credit":"Kurşunlu Şelalesi Tabiat Parkı ve Etrafındaki Yaşlı Ağaçlar.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Flayansu%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320208","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Ağlayansu Şelalesi"
 keywords: ["Ağlayansu Şelalesi","İç Anadolu Bölgesi","şelale","doğa","turizm","gezi","seyahat","yerel","ekosistem"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Su sporları","Yeme içme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yal%C4%B1%20Hamam%C4%B1","alt":"Yalı Hamamı","caption":"Yalı Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Yalı Hamamı","caption":"Yalı Hamamı","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yal%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738507","tip":"genel"}]
 description: "Çanakkale'nin güzide plajlarından biri olan Yalı Hamamı, doğal güzelliği ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Yalı Hamamı","Çanakkale","plaj","doğal güzellik","tarihi değer","gezi","turizm","deniz","kumsal"]

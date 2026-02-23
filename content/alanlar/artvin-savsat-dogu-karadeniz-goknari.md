@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","kamp","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artvin-Savsat-Dogu%20Karadeniz%20Goknari","alt":"Artvin-Savsat-Dogu Karadeniz Goknari","caption":"Artvin-Savsat-Dogu Karadeniz Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ye%C5%9Fil_Deniz.jpg/960px-Ye%C5%9Fil_Deniz.jpg","alt":"Artvin-Savsat-Dogu Karadeniz Goknari","caption":"Artvin-Savsat-Dogu Karadeniz Goknari","credit":"Yeşil Deniz.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Savsat-Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228464","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzellikleri ve tarihi değerleri ile dikkat çeken bir milli park"
 keywords: ["Artvin","Savsat","Doğu Karadeniz","Gök Narı","milli park","Karadeniz Bölgesi","doğal güzellik","tarih"]

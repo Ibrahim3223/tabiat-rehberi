@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","keşif","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6skerlik%20Kaya%20Mezarlar%C4%B1","alt":"Köskerlik Kaya Mezarları","caption":"Köskerlik Kaya Mezarları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia%3B_with_some_account_of_their_antiquities_and_geology_02_%28researchesinasia02hami%29.pdf/page1-764px-Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia%3B_with_some_account_of_their_antiquities_and_geology_02_%28researchesinasia02hami%29.pdf.jpg","alt":"Köskerlik Kaya Mezarları","caption":"Köskerlik Kaya Mezarları","credit":"Researches in Asia Minor, Pontus, and Armenia; with some account of their antiquities and geology 02 (researchesinasia02hami).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6skerlik%20Kaya%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728189","tip":"genel"}]
 description: "Karaman'ın Ayrancı ilçesinde bulunan Köskerlik Kaya Mezarları, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Köskerlik Kaya Mezarları","Ayrancı","Karaman","İç Anadolu Bölgesi","tarihi mekanlar","doğa güzellikleri"]

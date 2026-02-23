@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara izleme","Doğa yürüyüşü","Fotoğraf çekme","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=And%C4%B1kl%C4%B1%20Tepesi","alt":"Andıklı Tepesi","caption":"Andıklı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Andıklı Tepesi","caption":"Andıklı Tepesi","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/And%C4%B1kl%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390503","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin kalbinde yer alan Andıklı Tepesi, Konya'nın doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon."
 keywords: ["Andıklı Tepesi","Konya","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

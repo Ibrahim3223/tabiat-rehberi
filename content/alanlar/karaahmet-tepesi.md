@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["manzara izleme","doğa yürüyüşü","fotoğraf çekimi","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaahmet%20Tepesi","alt":"Karaahmet Tepesi","caption":"Karaahmet Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Karaahmet Tepesi","caption":"Karaahmet Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaahmet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386351","tip":"genel"}]
 description: "Gaziantep'in históri ve doğal güzelliklerini keşfedin. Karaahmet Tepesi, şehrin önemli bir noktası"
 keywords: ["Karaahmet Tepesi","Gaziantep","doğa","tarih","gezi","tepe","manzara","güneydoğu anadolu","turizm"]

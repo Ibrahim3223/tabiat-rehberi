@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kandil%20Da%C4%9F%C4%B1%20(Kahramanmara%C5%9F%2C%2038.07%20N%2036.80%20E)","alt":"Kandil Dağı (Kahramanmaraş, 38.07 N 36.80 E)","caption":"Kandil Dağı (Kahramanmaraş, 38.07 N 36.80 E)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Kandil Dağı","caption":"Kandil Dağı","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kandil%20Da%C4%9F%C4%B1%20(Kahramanmara%C5%9F%2C%2038.07%20N%2036.80%20E)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385734","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Kandil Dağı, 38.07 N 36.80 E koordinatlarında yer alır. Doğal güzellikleri ve trekking rotalarıyla dikkat çeker."
 keywords: ["Kandil Dağı","Kahramanmaraş","Dağ","Trekking","Doğa","Turizm","Gezi","Koordinat","Harita","Seyahat"]

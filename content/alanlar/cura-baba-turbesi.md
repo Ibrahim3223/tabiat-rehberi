@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarihî türbe gezi","plaj","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cura%20Baba%20T%C3%BCrbesi","alt":"Cura Baba Türbesi","caption":"Cura Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Cura Baba Türbesi","caption":"Cura Baba Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cura%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391637","tip":"genel"}]
 description: "İstanbul'un Şişli ilçesinde bulunan tarihi bir türbe ve plaj alanı"
 keywords: ["Cura Baba Türbesi","Şişli","İstanbul","Marmara Bölgesi","tarihi türbe","plaj","gezi","turizm","doğa"]

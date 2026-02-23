@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bulut%20Tepe","alt":"Bulut Tepe","caption":"Bulut Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Travels_in_Kurdistan%2C_with_Notices_of_the_Sources_of_the_Eastern_and_Western_Tigris%2C_and_Ancient_Ruins_in_Their_Neighbourhood_%28IA_jstor-3698077%29.pdf/page1-787px-Travels_in_Kurdistan%2C_with_Notices_of_the_Sources_of_the_Eastern_and_Western_Tigris%2C_and_Ancient_Ruins_in_Their_Neighbourhood_%28IA_jstor-3698077%29.pdf.jpg","alt":"Bulut Tepe","caption":"Bulut Tepe","credit":"Travels in Kurdistan, with Notices of the Sources of the Eastern and Western Tigris, and Ancient Ruins in Their Neighbourhood (IA jstor-3698077).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bulut%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554214","tip":"genel"}]
 description: "Mardin'in en yüksek noktalarından biri olan Bulut Tepe, 1200 metre rakımla şehrin panoramik manzarasını sunar."
 keywords: ["Bulut Tepe","Mardin","Dağ","Turizm","Doğa","Manzara","Gezi","Seyahat","Mardin Gezilecek Yerler"]

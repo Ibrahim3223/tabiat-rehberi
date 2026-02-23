@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kapl%C4%B1kaya%20Tepesi","alt":"Kaplıkaya Tepesi","caption":"Kaplıkaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Elaz%C4%B1g_K%C3%B6y.jpg/960px-Elaz%C4%B1g_K%C3%B6y.jpg","alt":"Kaplıkaya Tepesi","caption":"Kaplıkaya Tepesi","credit":"Elazıg Köy.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kapl%C4%B1kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31519212","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Kaplıkaya Tepesi, Elazığ'ın doğal güzelliklerinden biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kaplıkaya Tepesi","Elazığ","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi"]

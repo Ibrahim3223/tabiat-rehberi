@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1rakaya%20Tepesi","alt":"Sırakaya Tepesi","caption":"Sırakaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Sırakaya Tepesi","caption":"Sırakaya Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1rakaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31533991","tip":"genel"}]
 description: "Hakkari'nin doğal güzelliklerini keşfedin, Sırakaya Tepesi'ne doğru bir yolculuğa çıkın"
 keywords: ["Hakkari","Doğu Anadolu Bölgesi","Sırakaya Tepesi","tepe","doğa","gezi","yolculuk"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aygar%20Da%C4%9F%C4%B1","alt":"Aygar Dağı","caption":"Aygar Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flagship_-_USACE-p16021coll8-1708.pdf/page1-960px-Flagship_-_USACE-p16021coll8-1708.pdf.jpg","alt":"Aygar Dağı","caption":"Aygar Dağı","credit":"Flagship - USACE-p16021coll8-1708.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aygar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581904","tip":"genel"}]
 description: "Çorum'da yer alan Aygar Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Aygar Dağı","Çorum","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Çorum Turistik Yerler","Dağcılık"]

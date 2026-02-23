@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","flora çeşitliliği gözlemi","tarihî kalıntılar gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Canakkale-Bayramic-Gokceici%20K%C4%B1z%C4%B1l%C3%A7am%203","alt":"Canakkale-Bayramic-Gokceici Kızılçam 3","caption":"Canakkale-Bayramic-Gokceici Kızılçam 3"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gallipoli_Peninsula_Historical_National_Park_%286%29.jpg/960px-Gallipoli_Peninsula_Historical_National_Park_%286%29.jpg","alt":"Canakkale-Bayramic-Gokceici Kızılçam 3","caption":"Canakkale-Bayramic-Gokceici Kızılçam 3","credit":"Gallipoli Peninsula Historical National Park (6).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Bayramic-Gokceici%20K%C4%B1z%C4%B1l%C3%A7am%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227863","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan Canakkale-Bayramic-Gokceici Kızılçam 3, yaban hayatı ve flora çeşitliliğiyle dikkat çekiyor."
 keywords: ["Çanakkale","Marmara Bölgesi","Kızılçam","Milli Park","yaban hayatı","flora","doğa","gezi","turizm"]

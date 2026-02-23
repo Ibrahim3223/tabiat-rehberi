@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Yürüyüş","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0lyas%20Bey%20K%C3%BC%C3%A7%C3%BCk%20Hamam%C4%B1","alt":"İlyas Bey Küçük Hamamı","caption":"İlyas Bey Küçük Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"İlyas Bey Küçük Hamamı","caption":"İlyas Bey Küçük Hamamı","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0lyas%20Bey%20K%C3%BC%C3%A7%C3%BCk%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738672","tip":"genel"}]
 description: "Didim'in tarihi ve doğal güzelliklerini bir araya getiren İlyas Bey Küçük Hamamı, Ege Bölgesi'nin önemli turizm merkezlerinden biri."
 keywords: ["İlyas Bey Küçük Hamamı","Didim","Aydın","Ege Bölgesi","tarih","doğa","turizm","plaj","kültür"]

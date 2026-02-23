@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","flora ve fauna gözlemi","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yemezzade%20S%C3%BCleyman%20R%C3%BC%C5%9Fdi%20T%C3%BCrbesi","alt":"Yemezzade Süleyman Rüşdi Türbesi","caption":"Yemezzade Süleyman Rüşdi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Yemezzade Süleyman Rüşdi Türbesi","caption":"Yemezzade Süleyman Rüşdi Türbesi","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yemezzade%20S%C3%BCleyman%20R%C3%BC%C5%9Fdi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735188","tip":"genel"}]
 description: "Karacasu, Aydın'da tarihi ve doğal güzelliğin bir arada olduğu yer"
 keywords: ["Karacasu","Aydın","tarih","doğa","türbe","gezi","Ege Bölgesi","plaj"]

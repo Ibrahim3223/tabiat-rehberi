@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Seher%20Da%C4%9F%C4%B1","alt":"Seher Dağı","caption":"Seher Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf/page1-812px-On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf.jpg","alt":"Seher Dağı","caption":"Seher Dağı","credit":"On the fringe of the great fight (IA onfringeofgreatf00nasmrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seher%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31588768","tip":"genel"}]
 description: "Batman'da yer alan Seher Dağı, doğa severler için önemli bir destinasyon. 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Seher Dağı","Batman","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Doğa Severler","Batman Turistik Yerler"]

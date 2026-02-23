@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yanm%C4%B1%C5%9F%20Tepe","alt":"Yanmış Tepe","caption":"Yanmış Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Yanmış Tepe","caption":"Yanmış Tepe","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yanm%C4%B1%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386805","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan Yanmış Tepe, 140 hektarlık geniş bir alanı kaplıyor. Tarihi geçmişi ve coğrafi konumuyla dikkat çekiyor."
 keywords: ["Yanmış Tepe","Batman","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","tarihçe","flora","fauna","ziyaret"]

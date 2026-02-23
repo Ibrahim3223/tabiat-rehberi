@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87amalt%C4%B1%20Tuzlas%C4%B1","alt":"Çamaltı Tuzlası","caption":"Çamaltı Tuzlası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/AUTUMN_BIRDS.jpg/960px-AUTUMN_BIRDS.jpg","alt":"Çamaltı Tuzlası","caption":"Çamaltı Tuzlası","credit":"AUTUMN BIRDS.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amalt%C4%B1%20Tuzlas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6017790","tip":"genel"}]
 description: "İzmir'in Çiğli ilçesinde bulunan Çamaltı Tuzlası, 1200 hektarlık bir alanı kaplayan önemli bir tuzla ve doğal yaşam alanıdır."
 keywords: ["Çamaltı Tuzlası","İzmir","Çiğli","Tuzla","Doğal Alan","Gol","İzmir Gezi","Doğa","Tuzlası"]

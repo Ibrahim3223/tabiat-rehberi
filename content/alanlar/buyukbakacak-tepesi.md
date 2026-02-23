@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCkbakacak%20Tepesi","alt":"Büyükbakacak Tepesi","caption":"Büyükbakacak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Büyükbakacak Tepesi","caption":"Büyükbakacak Tepesi","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkbakacak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731288","tip":"genel"}]
 description: "Türkiye'nin görkemli dağ manzaralarından biri olan Büyükbakacak Tepesi, doğa severler için bir cennet."
 keywords: ["Büyükbakacak Tepesi","Türkiye Dağları","Doğa Turizmi","Tepeler","Dağcılık","Doğa Yürüyüşü","Manzara Noktaları","Türkiye Gezi Rehberi","Dağ Manzaraları"]

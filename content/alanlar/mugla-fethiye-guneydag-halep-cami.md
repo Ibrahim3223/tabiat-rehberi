@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Fethiye-Guneydag%20Halep%20Cami","alt":"Mugla-Fethiye-Guneydag Halep Cami","caption":"Mugla-Fethiye-Guneydag Halep Cami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Marmaris_Macera_Park.jpg/960px-Marmaris_Macera_Park.jpg","alt":"Mugla-Fethiye-Guneydag Halep Cami","caption":"Mugla-Fethiye-Guneydag Halep Cami","credit":"Marmaris Macera Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Fethiye-Guneydag%20Halep%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228007","tip":"genel"}]
 description: "Muğla'nın Fethiye ilçesinde yer alan Güneydağ Halep Cami, tarihi ve doğal güzellikleriyle dikkat çekiyor. Zengin bir geçmişe sahip olan bu région, ziyaretçilerini bekliyor."
 keywords: ["Muğla","Fethiye","Güneydağ Halep Cami","tarih","doğa","gezi","turizm","kültür","miras"]

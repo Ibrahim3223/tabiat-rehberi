@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9C%C3%A7g%C3%B6zl%C3%BCkl%C3%BC%20Da%C4%9F","alt":"Üçgözlüklü Dağ","caption":"Üçgözlüklü Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Travels_in_Greece_%26_Russia_with_an_excursion_into_Crete_%28IA_travelsingreecer00tayl%29.pdf/page1-670px-Travels_in_Greece_%26_Russia_with_an_excursion_into_Crete_%28IA_travelsingreecer00tayl%29.pdf.jpg","alt":"Üçgözlüklü Dağ","caption":"Üçgözlüklü Dağ","credit":"Travels in Greece & Russia with an excursion into Crete (IA travelsingreecer00tayl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7g%C3%B6zl%C3%BCkl%C3%BC%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820498","tip":"genel"}]
 description: "Kars'ta yer alan Üçgözlüklü Dağ, 1200 hektarlık yeşil cenneti ve doğa güzellikleriyle dikkat çekiyor."
 keywords: ["Üçgözlüklü Dağ","Kars","Doğa","Dağ","Yeşil Alan","Turizm","Kars Turistik Yerler","Doğa Sporları","Trekking"]

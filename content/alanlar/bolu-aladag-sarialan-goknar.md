@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fauna gözlemi","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Aladag-Sar%C4%B1alan-Goknar","alt":"Bolu-Aladag-Sarıalan-Goknar","caption":"Bolu-Aladag-Sarıalan-Goknar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bolu_Yedig%C3%B6ller_panoramik_B%C3%BCy%C3%BCk_G%C3%B6l_ve_Sonbahar_renklerine_b%C3%BCr%C3%BCnm%C3%BC%C5%9F_tabiat_harikas%C4%B1_orman%C4%B1.jpg/960px-Bolu_Yedig%C3%B6ller_panoramik_B%C3%BCy%C3%BCk_G%C3%B6l_ve_Sonbahar_renklerine_b%C3%BCr%C3%BCnm%C3%BC%C5%9F_tabiat_harikas%C4%B1_orman%C4%B1.jpg","alt":"Bolu-Aladag-Sarıalan-Goknar","caption":"Bolu-Aladag-Sarıalan-Goknar","credit":"Bolu Yedigöller panoramik Büyük Göl ve Sonbahar renklerine bürünmüş tabiat harikası ormanı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Aladag-Sar%C4%B1alan-Goknar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228538","tip":"genel"}]
 description: "Bolu'nun doğal güzellikleri arasında yer alan milli park"
 keywords: ["Bolu","Aladag","Sarıalan","Goknar","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

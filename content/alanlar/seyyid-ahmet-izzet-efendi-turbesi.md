@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Historical geçmişi hakkında bilgi edinme","Çevresindeki önemli eserleri görme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Seyyid%20Ahmet%20%C4%B0zzet%20Efendi%20T%C3%BCrbesi","alt":"Seyyid Ahmet İzzet Efendi Türbesi","caption":"Seyyid Ahmet İzzet Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Seyyid Ahmet İzzet Efendi Türbesi","caption":"Seyyid Ahmet İzzet Efendi Türbesi","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Ahmet%20%C4%B0zzet%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390990","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan historical türbe, Marmara Bölgesi'nin önemli dini noktalarından biri."
 keywords: ["Seyyid Ahmet İzzet Efendi Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarih","dini point","gezi","tarihçe"]

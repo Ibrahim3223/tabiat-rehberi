@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["manzara izlemek","doğa yürüyüşü","fotoğraf çekmek","picnic yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Esirg%C3%B6l%C3%BC%20Tepesi","alt":"Esirgölü Tepesi","caption":"Esirgölü Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Esirgölü Tepesi","caption":"Esirgölü Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esirg%C3%B6l%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34867856","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin, Esirgölü Tepesi'ne gidin ve şehrin manzarasını izleyin"
 keywords: ["Esirgölü Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğa","gezi","tepe","manzara"]

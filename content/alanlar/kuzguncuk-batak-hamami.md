@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["denize girmek","güneşlenmek","yürüyüş yapmak","doğayı seyretmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuzguncuk%20Batak%20Hamam%C4%B1","alt":"Kuzguncuk Batak Hamamı","caption":"Kuzguncuk Batak Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Kuzguncuk Batak Hamamı","caption":"Kuzguncuk Batak Hamamı","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzguncuk%20Batak%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738592","tip":"genel"}]
 description: "İstanbul'un en güzel plajlarından biri olan Kuzguncuk Batak Hamamı, doğal güzelliği ve tarihi geçmişi ile dikkat çekiyor."
 keywords: ["Kuzguncuk Batak Hamamı","Üsküdar","İstanbul","Marmara Bölgesi","plaj","doğal güzellik","tarihi geçmişi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["yürüyüş","doğa keşfi","jeolojik oluşumları incelemek","bitki ve hayvan türlerini keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zonguldak%20K%C3%B6m%C3%BCr%20Jeopark%C4%B1","alt":"Zonguldak Kömür Jeoparkı","caption":"Zonguldak Kömür Jeoparkı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Zonguldak Kömür Jeoparkı","caption":"Zonguldak Kömür Jeoparkı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak%20K%C3%B6m%C3%BCr%20Jeopark%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q116413227","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Zonguldak Kömür Jeoparkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Zonguldak","Kömür Jeoparkı","Karadeniz Bölgesi","yeşil alan","futbol sahası","doğa","gezi","turizm"]

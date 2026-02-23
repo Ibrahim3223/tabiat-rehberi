@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Doruk%20Tepesi","alt":"Doruk Tepesi","caption":"Doruk Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf/page1-616px-Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf.jpg","alt":"Doruk Tepesi","caption":"Doruk Tepesi","credit":"Armenia and its sorrows (IA armeniaitssorrow00wint).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Doruk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388217","tip":"genel"}]
 description: "Kars ilinin yüksek noktalarından biri olan Doruk Tepesi, doğa severlerin keyif alacağı bir destinasyon."
 keywords: ["Doruk Tepesi","Kars","Doğu Anadolu Bölgesi","doğa","gezi","tepe","manzara"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erikli%20Mevk%C4%B1%C4%B1%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%20Kavak","alt":"Erikli Mevkıı Tümülüsü Kavak","caption":"Erikli Mevkıı Tümülüsü Kavak"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Autobiography_of_Sir_George_Biddlecombe_%28IA_autobiographyofs01bidd%29.pdf/page1-710px-Autobiography_of_Sir_George_Biddlecombe_%28IA_autobiographyofs01bidd%29.pdf.jpg","alt":"Erikli Mevkıı Tümülüsü Kavak","caption":"Erikli Mevkıı Tümülüsü Kavak","credit":"Autobiography of Sir George Biddlecombe (IA autobiographyofs01bidd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erikli%20Mevk%C4%B1%C4%B1%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%20Kavak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728400","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun ilinde bulunan Erikli Mevkıı Tümülüsü Kavak, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta."
 keywords: ["Erikli Mevkıı","Tümülüsü Kavak","Samsun","Karadeniz Bölgesi","tarih","doğa","gezi","turizm"]

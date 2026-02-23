@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografcılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Koycegiz-Koyobasi%20K%C4%B1z%C4%B1l%C3%A7am%201","alt":"Mugla-Koycegiz-Koyobasi Kızılçam 1","caption":"Mugla-Koycegiz-Koyobasi Kızılçam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Marmaris_milli_park.jpg/960px-Marmaris_milli_park.jpg","alt":"Mugla-Koycegiz-Koyobasi Kızılçam 1","caption":"Mugla-Koycegiz-Koyobasi Kızılçam 1","credit":"Marmaris milli park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Koycegiz-Koyobasi%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227914","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, Koycegiz'in yeşil cenneti"
 keywords: ["Muğla","Koycegiz","Kızılçam","milli park","doğa","yeşil alan","gezi","turizm","çevre"]

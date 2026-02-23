@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemciliği","Fotoğrafçılık","Tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCkalamet%20Tepesi","alt":"Büyükalamet Tepesi","caption":"Büyükalamet Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf/page1-820px-Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf.jpg","alt":"Büyükalamet Tepesi","caption":"Büyükalamet Tepesi","credit":"Travels In The Trans-Caucasian Provinces Of Russia (IA TravelsInTheTransCaucasianProvincesOfRussia).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkalamet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21199611","tip":"genel"}]
 description: "Kars'ın eşsiz doğal güzelliklerinden biri, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kars","Doğu Anadolu Bölgesi","Büyükalamet Tepesi","Doğal Alan","Tepeler","Coğrafya","Tarihçe","Flora","Fauna"]

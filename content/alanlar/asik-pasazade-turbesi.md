@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Marmara Denizi'nde yüzme","Yürüyüş ve doğa yürüyüşleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C5%9F%C4%B1k%20Pa%C5%9Fazade%20T%C3%BCrbesi","alt":"Aşık Paşazade Türbesi","caption":"Aşık Paşazade Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Aşık Paşazade Türbesi","caption":"Aşık Paşazade Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9F%C4%B1k%20Pa%C5%9Fazade%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391037","tip":"genel"}]
 description: "Fatih, İstanbul'da tarihi bir türbe ve plaj alanı."
 keywords: ["Aşık Paşazade","Türbe","Fatih","İstanbul","Marmara Bölgesi","Tarih","Coğrafya","Doğa"]

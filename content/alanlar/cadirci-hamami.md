@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi"," piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ad%C4%B1rc%C4%B1%20Hamam%C4%B1","alt":"Çadırcı Hamamı","caption":"Çadırcı Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Çadırcı Hamamı","caption":"Çadırcı Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ad%C4%B1rc%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739005","tip":"genel"}]
 description: "Erzincan'da doğal güzelli ve tarihi değerlerin birleştiği bir mekan"
 keywords: ["doğal güzellik","tarihi mekan","Erzincan","plaj","çevre","ekoloji","turizm","gezi","yaban hayatı","doğa"]

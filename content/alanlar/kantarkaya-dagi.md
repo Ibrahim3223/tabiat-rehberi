@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kantarkaya%20Da%C4%9F%C4%B1","alt":"Kantarkaya Dağı","caption":"Kantarkaya Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Kantarkaya Dağı","caption":"Kantarkaya Dağı","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kantarkaya%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582603","tip":"genel"}]
 description: "Bingöl'de yer alan Kantarkaya Dağı, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Kantarkaya Dağı","Bingöl","Dağ","Doğa","Trekking","Kaya Tırmanışı","Doğa Yürüyüşü","Bingöl Gezilecek Yerler","Dağcılık"]

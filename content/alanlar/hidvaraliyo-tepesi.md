@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotoğrafçılık","Tarihi yerleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C4%B1dvaraliyo%20Tepesi","alt":"Hıdvaraliyo Tepesi","caption":"Hıdvaraliyo Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_westernworldpict00kingrich%29.pdf/page1-654px-The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_westernworldpict00kingrich%29.pdf.jpg","alt":"Hıdvaraliyo Tepesi","caption":"Hıdvaraliyo Tepesi","credit":"The western world. Picturesque sketches of nature and natural history in North and South America (IA westernworldpict00kingrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1dvaraliyo%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554708","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, Hıdvaraliyo Tepesi'ni ziyaret edin."
 keywords: ["İç Anadolu Bölgesi","doğa","gezi","tepe","Hıdvaraliyo Tepesi","manzara","turizm","yaban hayatı","çevre"]

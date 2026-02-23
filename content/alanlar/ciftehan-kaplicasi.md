@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["şifalı sularda Dinlenme","doğa yürüyüşleri","tarih gezileri","ekolojik gözlem"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87iftehan%20Kapl%C4%B1cas%C4%B1","alt":"Çiftehan Kaplıcası","caption":"Çiftehan Kaplıcası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yelatan_Alada%C4%9Flar_Lake.jpg/960px-Yelatan_Alada%C4%9Flar_Lake.jpg","alt":"Çiftehan Kaplıcası","caption":"Çiftehan Kaplıcası","credit":"Yelatan Aladağlar Lake.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iftehan%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49742034","tip":"genel"}]
 description: "Niğde'nin doğal güzellikleri arasında yer alan Çiftehan Kaplıcası, şifalı suları ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Çiftehan Kaplıcası","Niğde","termal kaynak","kaplıca","doğal güzellik","tarihi geçmişi","şifalı su","sağlık turizmi"]

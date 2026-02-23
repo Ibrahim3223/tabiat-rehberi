@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kabak%20Tepesi","alt":"Kabak Tepesi","caption":"Kabak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/DSC_3140_-_panoramio.jpg/960px-DSC_3140_-_panoramio.jpg","alt":"Kabak Tepesi","caption":"Kabak Tepesi","credit":"DSC 3140 - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387919","tip":"genel"}]
 description: "Giresun'un doğal güzellikleriyle dolu bir alanı olan Kabak Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kabak Tepesi","Giresun","Karadeniz Bölgesi","doğa","turizm","gezi","tepe"]

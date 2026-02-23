@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zortul%20K%C3%BCmbeti%2C%20Erci%C5%9F","alt":"Zortul Kümbeti, Erciş","caption":"Zortul Kümbeti, Erciş"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bird_notes_afield%3B_essays_on_the_birds_of_the_Pacific_coast_with_a_field_check_list_%28IA_birdnotesafielde00keel%29.pdf/page1-789px-Bird_notes_afield%3B_essays_on_the_birds_of_the_Pacific_coast_with_a_field_check_list_%28IA_birdnotesafielde00keel%29.pdf.jpg","alt":"Zortul Kümbeti, Erciş","caption":"Zortul Kümbeti, Erciş","credit":"Bird notes afield; essays on the birds of the Pacific coast with a field check list (IA birdnotesafielde00keel).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zortul%20K%C3%BCmbeti%2C%20Erci%C5%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582830","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide illerinden Van'ın Erciş ilçesinde bulunan Zortul Kümbeti, tarihi ve doğal güzellikleri bir arada sunan özel bir destinasyon."
 keywords: ["Zortul Kümbeti","Erciş","Van","Doğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","mimari"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kartin%20Da%C4%9F%C4%B1","alt":"Kartin Dağı","caption":"Kartin Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Kartin Dağı","caption":"Kartin Dağı","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartin%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385661","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin, Kartin Dağı'nda doğa yürüyüşü ve kayak keyfi yaşayın."
 keywords: ["Kartin Dağı","Kayseri","Dağ","Doğa Yürüyüşü","Kayak","Turizm","Gezi","Doğal Güzellik","Kayseri Turistik Yerler"]

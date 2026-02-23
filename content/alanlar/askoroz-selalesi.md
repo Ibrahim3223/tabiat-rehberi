@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Askoroz%20%C5%9Eelalesi","alt":"Askoroz Şelalesi","caption":"Askoroz Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kursunlu_Waterfall_Nature_Park%2C_Antalya.jpg/960px-Kursunlu_Waterfall_Nature_Park%2C_Antalya.jpg","alt":"Askoroz Şelalesi","caption":"Askoroz Şelalesi","credit":"Kursunlu Waterfall Nature Park, Antalya.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Askoroz%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320206","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Askoroz Şelalesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
 keywords: ["Askoroz Şelalesi","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","şelale","turizm","gezi","doğa"]

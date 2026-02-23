@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe gezisi","mimari inceleme","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Rak%C4%B1m%20Mustafa%20Efendi%20Camii","alt":"Rakım Mustafa Efendi Camii","caption":"Rakım Mustafa Efendi Camii"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Rakım Mustafa Efendi Camii","caption":"Rakım Mustafa Efendi Camii","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rak%C4%B1m%20Mustafa%20Efendi%20Camii","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q127418260","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel zenginliklerini barındıran Rakım Mustafa Efendi Camii hakkında bilgi"
 keywords: ["Rakım Mustafa Efendi Camii","İstanbul","Fatih","Marmara Bölgesi","tarih","kültür","mimari"]

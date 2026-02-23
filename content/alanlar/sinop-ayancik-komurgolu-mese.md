@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sinop-Ayancik-Komurg%C3%B6l%C3%BC%20Mese","alt":"Sinop-Ayancik-Komurgölü Mese","caption":"Sinop-Ayancik-Komurgölü Mese"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Sinop-Ayancik-Komurgölü Mese","caption":"Sinop-Ayancik-Komurgölü Mese","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Ayancik-Komurg%C3%B6l%C3%BC%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227707","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Sinop","Ayancık","Komurgölü","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

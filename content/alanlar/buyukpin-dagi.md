@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCkpin%20Da%C4%9F%C4%B1","alt":"Büyükpin Dağı","caption":"Büyükpin Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Büyükpin Dağı","caption":"Büyükpin Dağı","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkpin%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731418","tip":"genel"}]
 description: "Erzincan'da yer alan Büyükpin Dağı, doğa severler için önemli bir destinasyon. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Büyükpin Dağı","Erzincan","Doğa","Dağ","Trekking","Kamp","Doğa Turizmi","Erzincan Gezilecek Yerler","Dağcılık"]

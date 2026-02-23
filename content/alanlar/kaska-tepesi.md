@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ka%C5%9Fka%20Tepesi","alt":"Kaşka Tepesi","caption":"Kaşka Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor01azhd%29.pdf/page1-691px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor01azhd%29.pdf.jpg","alt":"Kaşka Tepesi","caption":"Kaşka Tepesi","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor01azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C5%9Fka%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387471","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde Van ilinin önemli doğal güzelliklerinden biri olan Kaşka Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Kaşka Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre","iklim"]

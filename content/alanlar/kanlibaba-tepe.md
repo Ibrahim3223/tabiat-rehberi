@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kanl%C4%B1baba%20Tepe","alt":"Kanlıbaba Tepe","caption":"Kanlıbaba Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Kanlıbaba Tepe","caption":"Kanlıbaba Tepe","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kanl%C4%B1baba%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572795","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Kanlıbaba Tepe, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Kanlıbaba Tepe","Türkiye dağları","doğa yürüyüşü","turizm","gezi rehberi","dağcılık","yürüyüş rotaları","Türkiye'nin dağları","coğrafya"]

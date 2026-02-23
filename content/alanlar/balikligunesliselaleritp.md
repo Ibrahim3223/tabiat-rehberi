@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=BALIKLI_G%C3%9CNE%C5%9EL%C4%B0_%C5%9EELALER%C4%B0_TP","alt":"BALIKLI_GÜNEŞLİ_ŞELALERİ_TP","caption":"BALIKLI_GÜNEŞLİ_ŞELALERİ_TP"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"BALIKLI_GÜNEŞLİ_ŞELALERİ_TP","caption":"BALIKLI_GÜNEŞLİ_ŞELALERİ_TP","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BALIKLI_G%C3%9CNE%C5%9EL%C4%B0_%C5%9EELALER%C4%B0_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228783","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin birleştiği nokta, 140 hektarlık yeşil alan"
 keywords: ["BALIKLI_GÜNEŞLİ_ŞELALERİ_TP","İç Anadolu Bölgesi","doğal güzellikler","yeşil alan","şelaleler","milli park"]

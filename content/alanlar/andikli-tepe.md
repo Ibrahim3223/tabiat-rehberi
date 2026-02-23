@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=And%C4%B1kl%C4%B1%20Tepe","alt":"Andıklı Tepe","caption":"Andıklı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Andıklı Tepe","caption":"Andıklı Tepe","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/And%C4%B1kl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390422","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerinin birleştiği nokta, Andıklı Tepe. 140 hektarlık yeşil alan, tarihi geçmişi ve coğrafyası ile dikkat çekiyor."
 keywords: ["Andıklı Tepe","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]

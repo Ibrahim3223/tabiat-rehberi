@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih hakkında bilgi edinme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Titiopolis%20Hamam%C4%B1","alt":"Titiopolis Hamamı","caption":"Titiopolis Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"Titiopolis Hamamı","caption":"Titiopolis Hamamı","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Titiopolis%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738832","tip":"genel"}]
 description: "Anamur'un tarihi ve doğal güzellikleri arasında yer alan Titiopolis Hamamı, Mersin'in Akdeniz Bölgesi'nde bulunur."
 keywords: ["Titiopolis Hamamı","Anamur","Mersin","Akdeniz Bölgesi","tarih","doğa","hamam"]

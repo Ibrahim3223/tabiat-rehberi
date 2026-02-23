@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kel%20Da%C4%9F%20(Giresun)","alt":"Kel Dağ (Giresun)","caption":"Kel Dağ (Giresun)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DSC_2971_-_panoramio.jpg/960px-DSC_2971_-_panoramio.jpg","alt":"Kel Dağ","caption":"Kel Dağ","credit":"DSC 2971 - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kel%20Da%C4%9F%20(Giresun)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564622","tip":"genel"}]
 description: "Giresun'un önemli dağlarından biri olan Kel Dağ, 1200 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["Kel Dağ","Giresun","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

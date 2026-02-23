@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ye%C5%9Filg%C3%B6lc%C3%BCk%20Tepesi","alt":"Yeşilgölcük Tepesi","caption":"Yeşilgölcük Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Yeşilgölcük Tepesi","caption":"Yeşilgölcük Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Filg%C3%B6lc%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32195205","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide şehri Balıkesir'de yer alan Yeşilgölcük Tepesi, doğa severlerin ziyaret ettiği bir noktadır."
 keywords: ["Yeşilgölcük Tepesi","Balıkesir","Marmara Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

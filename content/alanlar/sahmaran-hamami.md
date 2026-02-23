@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Piknik","Fotoğrafçılık","Tarihî Gezi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eahmaran%20Hamam%C4%B1","alt":"Şahmaran Hamamı","caption":"Şahmaran Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Şahmaran Hamamı","caption":"Şahmaran Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eahmaran%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738478","tip":"genel"}]
 description: "Tarsus'un Kilikya bölgesinde yer alan Şahmaran Hamamı, doğanın güzelliğini ve tarihi geçmişiyle dikkat çeken bir destinasyon."
 keywords: ["Şahmaran Hamamı","Tarsus","Kilikya","doğa","tarih","gezi","turizm","Mersin","İç Anadolu Bölgesi"]

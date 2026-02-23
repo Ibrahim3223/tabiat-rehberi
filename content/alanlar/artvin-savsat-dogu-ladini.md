@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Doğa ile iç içe olmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artvin%20Savsat-Dogu%20Ladini","alt":"Artvin Savsat-Dogu Ladini","caption":"Artvin Savsat-Dogu Ladini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Artvin Savsat-Dogu Ladini","caption":"Artvin Savsat-Dogu Ladini","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin%20Savsat-Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228053","tip":"genel"}]
 description: "Doğal güzelliği ve tarihi geçmişi ile dikkat çeken Artvin Savsat-Dogu Ladini, ziyaretçilerini bekliyor."
 keywords: ["Artvin","Savsat","Dogu Ladini","milli park","doğa","tarih","gezi","turizm","çevre"]

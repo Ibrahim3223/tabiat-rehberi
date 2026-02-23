@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kozanl%C4%B1-G%C3%B6kg%C3%B6l%20Sulak%20Alan%C4%B1","alt":"Kozanlı-Gökgöl Sulak Alanı","caption":"Kozanlı-Gökgöl Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kozanlı-Gökgöl Sulak Alanı","caption":"Kozanlı-Gökgöl Sulak Alanı","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kozanl%C4%B1-G%C3%B6kg%C3%B6l%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229016","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Kozanlı-Gökgöl Sulak Alanı, 140 hektarlık alanı ile önemli bir sulak alan"
 keywords: ["Kozanlı-Gökgöl Sulak Alanı","İç Anadolu Bölgesi","sulak alan","doğal güzellik","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Davayata%C4%9F","alt":"Davayatağ","caption":"Davayatağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf/page1-616px-Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf.jpg","alt":"Davayatağ","caption":"Davayatağ","credit":"Armenia and its sorrows (IA armeniaitssorrow00wint).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davayata%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21696926","tip":"genel"}]
 description: "Kars'ta yer alan Davayatağ, doğal güzellikleri ve zengin tarihi ile dikkat çekiyor."
 keywords: ["Davayatağ","Kars","Dağ","Doğa","Tarih","Gezi","Seyahat","Kars'ın dağları","Davayatağ hakkında"]

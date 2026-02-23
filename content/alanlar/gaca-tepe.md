@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","picnic","manzara seyretme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gaca%20Tepe","alt":"Gaca Tepe","caption":"Gaca Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%BCver_Canyon_Scene%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scene%28Antalya%29.jpg","alt":"Gaca Tepe","caption":"Gaca Tepe","credit":"Güver Canyon Scene(Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gaca%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390147","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerinden biri olan Gaca Tepe, ziyaretçilerini bekliyor."
 keywords: ["Gaca Tepe","Antalya","doğa","tepe","gezi","turizm","Akdeniz Bölgesi","yaban hayatı","ekosistem"]

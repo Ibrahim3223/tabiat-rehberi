@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","manzara seyretme","fotoğrafçılık","doğa gezintisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kar%C5%9F%C4%B1kaya%20Tepesi","alt":"Karşıkaya Tepesi","caption":"Karşıkaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karşıkaya Tepesi","caption":"Karşıkaya Tepesi","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kar%C5%9F%C4%B1kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557174","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, Karşıkaya Tepesi'nin zengin tarihi ve coğrafyası"
 keywords: ["Karşıkaya Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tarih","coğrafya","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Güneş banyosu","Denizde yüzmek","Yeşil alanın keyfini çıkarmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyhler%20Hamam%C4%B1","alt":"Şeyhler Hamamı","caption":"Şeyhler Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Şeyhler Hamamı","caption":"Şeyhler Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhler%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738421","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Şeyhler Hamamı, Erzurum'un Yakutiye ilçesinde yer alan bir plajdır. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Şeyhler Hamamı","Yakutiye","Erzurum","Doğu Anadolu Bölgesi","plaj","yeşil alan","fiziksel veriler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Geriali%20Da%C4%9F%C4%B1","alt":"Geriali Dağı","caption":"Geriali Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Skyland%2C_situated_on_high_plateau_in_the_Blue_Ridge_near_grand_old_Stony_Man_Peak_%28IA_skylandsituatedo01roan%29.pdf/page1-864px-Skyland%2C_situated_on_high_plateau_in_the_Blue_Ridge_near_grand_old_Stony_Man_Peak_%28IA_skylandsituatedo01roan%29.pdf.jpg","alt":"Geriali Dağı","caption":"Geriali Dağı","credit":"Skyland, situated on high plateau in the Blue Ridge near grand old Stony Man Peak (IA skylandsituatedo01roan).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geriali%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31523391","tip":"genel"}]
 description: "Van'da bulunan Geriali Dağı, doğa severlerin ziyaret ettiği önemli bir coğrafi oluşum"
 keywords: ["Geriali Dağı","Van","Dağ","Doğa","Türkiye","Coğrafya","Seyahat","Gezi","Van Gezilecek Yerler"]

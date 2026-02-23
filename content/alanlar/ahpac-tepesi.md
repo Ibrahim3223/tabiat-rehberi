@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara gözlemi","bitki ve hayvan gözlemi","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ahpa%C3%A7%20Tepesi","alt":"Ahpaç Tepesi","caption":"Ahpaç Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf/page1-960px-From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf.jpg","alt":"Ahpaç Tepesi","caption":"Ahpaç Tepesi","credit":"From denial to participation- Turkey's evolving discourse on Kurdish nationalism (IA fromdenialtopart1094537734).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahpa%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35723658","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Ahpaç Tepesi, bölgeye özgü bitki türleri ve hayvan.populate ile dikkat çeker."
 keywords: ["Ahpaç Tepesi","Ankara","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara","bitki","hayvan"]

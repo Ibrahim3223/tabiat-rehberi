@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["Yürüyüş","Doğa gezintisi","Fotoğrafçılık","Çiçek gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87and%C4%B1rda%C4%9F%C4%B1%20Tepesi","alt":"Çandırdağı Tepesi","caption":"Çandırdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg","alt":"Çandırdağı Tepesi","caption":"Çandırdağı Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 04.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87and%C4%B1rda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828317","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Çandırdağı Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Kahramanmaraş","Çandırdağı Tepesi","Akdeniz Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

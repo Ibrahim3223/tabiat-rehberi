@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük ziyaret"
 aktiviteler: ["Plaj","Tarihi yapılar","Su sporları","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Ada%20K%C3%B6%C5%9Fk%C3%BC","alt":"Yıldız Sarayı Ada Köşkü","caption":"Yıldız Sarayı Ada Köşkü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Yıldız Sarayı Ada Köşkü","caption":"Yıldız Sarayı Ada Köşkü","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Ada%20K%C3%B6%C5%9Fk%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133683984","tip":"genel"}]
 description: "Beşiktaş'ta bulunan historical bir plaj"
 keywords: ["Yıldız Sarayı","Ada Köşkü","Beşiktaş","Marmara Bölgesi","plaj","historical","İstanbul","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1l%C4%B1n%C3%A7%20Da%C4%9F%C4%B1%20(Manisa)","alt":"Kılınç Dağı (Manisa)","caption":"Kılınç Dağı (Manisa)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Kılınç Dağı","caption":"Kılınç Dağı","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1n%C3%A7%20Da%C4%9F%C4%B1%20(Manisa)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041559","tip":"genel"}]
 description: "Manisa'da bulunan Kılınç Dağı, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kılınç Dağı","Manisa","Dağ","Doğa","Yürüyüş Rotası","Yeşil Alan","Turizm","Gezi","Manisa Turistik Yerler"]

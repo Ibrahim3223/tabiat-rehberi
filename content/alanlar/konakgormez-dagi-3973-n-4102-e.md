@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Konakg%C3%B6rmez%20Da%C4%9F%C4%B1%20(39.73%20N%2041.02%20E)","alt":"Konakgörmez Dağı (39.73 N 41.02 E)","caption":"Konakgörmez Dağı (39.73 N 41.02 E)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Konakgörmez Dağı","caption":"Konakgörmez Dağı","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konakg%C3%B6rmez%20Da%C4%9F%C4%B1%20(39.73%20N%2041.02%20E)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042335","tip":"genel"}]
 description: "Erzurum'un görkemli dağlarından biri olan Konakgörmez Dağı, 39.73 N 41.02 E koordinatlarında yer alır. Doğa severler için bir cennet."
 keywords: ["Konakgörmez Dağı","Erzurum","Dağ","Doğa","Trekking","Koordinat","Gezi","Seyahat","Turizm"]

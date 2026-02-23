@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Su sporları","Güneşlenmek","Doğa yürüyüşleri","Deniz keyfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1%20Evhattin%20Hamam%C4%B1","alt":"Hacı Evhattin Hamamı","caption":"Hacı Evhattin Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Hacı Evhattin Hamamı","caption":"Hacı Evhattin Hamamı","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Evhattin%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738600","tip":"genel"}]
 description: "İstanbul'un tarihi plajlarından biri olan Hacı Evhattin Hamamı, Marmara Bölgesi'nde Fatih ilçesinde bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Hacı Evhattin Hamamı","Fatih","İstanbul","Marmara Bölgesi","plaj","tarih","gezi","doğa","deniz"]

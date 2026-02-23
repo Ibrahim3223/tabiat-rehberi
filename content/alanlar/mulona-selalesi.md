@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","piknik","keşif gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mulona%20%C5%9Eelalesi","alt":"Mulona Şelalesi","caption":"Mulona Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg","alt":"Mulona Şelalesi","caption":"Mulona Şelalesi","credit":"Kurşunlu Şelalesi Tabiat Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mulona%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076488","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti,Mulona Şelalesi'ni keşfedin"
 keywords: ["Mulona Şelalesi","İç Anadolu Bölgesi","şelale","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]

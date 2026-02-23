@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hayvan%20Ma%C4%9Faras%C4%B1","alt":"Hayvan Mağarası","caption":"Hayvan Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/1972_fall_catalog_%26_guide_to_successful_gardening_nature-ally_%28IA_1972fallcatalogg19fwbo%29.pdf/page1-858px-1972_fall_catalog_%26_guide_to_successful_gardening_nature-ally_%28IA_1972fallcatalogg19fwbo%29.pdf.jpg","alt":"Hayvan Mağarası","caption":"Hayvan Mağarası","credit":"1972 fall catalog & guide to successful gardening nature-ally (IA 1972fallcatalogg19fwbo).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hayvan%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319247","tip":"genel"}]
 description: "Muş'ta bulunan jeopark, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Hayvan Mağarası","Muş","Jeopark","Doğal Alan","Tarih","Turizm","Mağara","Jeoloji","Doğa"]

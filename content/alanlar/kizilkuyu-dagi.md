@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lkuyu%20Da%C4%9F%C4%B1","alt":"Kızılkuyu Dağı","caption":"Kızılkuyu Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Psyche_%28IA_psyche2010camb%29.pdf/page1-960px-Psyche_%28IA_psyche2010camb%29.pdf.jpg","alt":"Kızılkuyu Dağı","caption":"Kızılkuyu Dağı","credit":"Psyche (IA psyche2010camb).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lkuyu%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385616","tip":"genel"}]
 description: "Afyonkarahisar'ın doğal güzelliklerinden biri olan Kızılkuyu Dağı, Ege Bölgesi'nde yer alır."
 keywords: ["Kızılkuyu Dağı","Afyonkarahisar","Ege Bölgesi","doğa","gezi","turizm","coğrafya","flora","fauna"]

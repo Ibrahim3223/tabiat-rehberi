@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Haraminin%20Tepe","alt":"Haraminin Tepe","caption":"Haraminin Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Haraminin Tepe","caption":"Haraminin Tepe","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haraminin%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31521197","tip":"genel"}]
 description: "Erzincan'da bulunan Haraminin Tepe, 1200 hektarlık yeşil alanıyla doğa severlerin gözdesi. 2500 metre yükseklikte yer alan tepe, trekking ve kamp için ideal."
 keywords: ["Haraminin Tepe","Erzincan","Dağ","Doğa","Trekking","Kamp","Yeşil Alan","Doğa Turizmi","Erzincan Gezi"]

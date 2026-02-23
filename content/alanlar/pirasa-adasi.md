@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=P%C4%B1rasa%20Adas%C4%B1","alt":"Pırasa Adası","caption":"Pırasa Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/The_Greek-Turkish_dispute_in_the_Aegean_Sea-_its_ramifications_for_NATO_and_the_prospects_for_resolution_%28IA_thegreekturkishd109459725%29.pdf/page1-960px-The_Greek-Turkish_dispute_in_the_Aegean_Sea-_its_ramifications_for_NATO_and_the_prospects_for_resolution_%28IA_thegreekturkishd109459725%29.pdf.jpg","alt":"Pırasa Adası","caption":"Pırasa Adası","credit":"The Greek-Turkish dispute in the Aegean Sea- its ramifications for NATO and the prospects for resolution (IA thegreekturkishd109459725).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/P%C4%B1rasa%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49669637","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Pırasa Adası, doğa severlerin ziyaret ettiği bir yer."
 keywords: ["Pırasa Adası","İzmir Adaları","İzmir Turizm","Ada Gezileri","Doğa Turizmi","İzmir Doğal Alanlar","Pırasa Adası Gezi","Ege Adaları","İzmir Tatil"]

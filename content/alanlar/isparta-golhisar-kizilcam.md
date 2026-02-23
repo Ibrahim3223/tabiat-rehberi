@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Golhisar%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Isparta-Golhisar Kızılçam","caption":"Isparta-Golhisar Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Isparta-Golhisar Kızılçam","caption":"Isparta-Golhisar Kızılçam","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Golhisar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227420","tip":"genel"}]
 description: "Isparta'nın doğal güzellikleri arasında yer alan milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Isparta","Golhisar","Kızılçam","milli park","doğa","yeşil alan","Akdeniz Bölgesi"]

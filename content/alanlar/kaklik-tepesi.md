@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["yürüyüş","piknik","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kakl%C4%B1k%20Tepesi","alt":"Kaklık Tepesi","caption":"Kaklık Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Science-gossip_%28IA_sciencegossip0670lond%29.pdf/page1-960px-Science-gossip_%28IA_sciencegossip0670lond%29.pdf.jpg","alt":"Kaklık Tepesi","caption":"Kaklık Tepesi","credit":"Science-gossip (IA sciencegossip0670lond).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kakl%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388142","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerinden biri olan Kaklık Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kaklık Tepesi","Denizli","Ege Bölgesi","doğal güzellik","tepe","gezi","turizm"]

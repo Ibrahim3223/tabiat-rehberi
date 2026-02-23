@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["tarihçe öğrenme","mimari inceleme","flora ve fauna gözlemleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Saliha%20Hatun%20T%C3%BCrbesi","alt":"Saliha Hatun Türbesi","caption":"Saliha Hatun Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Saliha Hatun Türbesi","caption":"Saliha Hatun Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saliha%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582339","tip":"genel"}]
 description: "Aksaray'ın tarihi ve kültürel değerlerini keşfedin. Saliha Hatun Türbesi, şehrin merkezinde bulunan önemli bir tarihi yapıdır."
 keywords: ["Saliha Hatun Türbesi","Aksaray","tarihi yapı","kültürel değer","İç Anadolu Bölgesi","türk kültürü","tarih","mimari"]

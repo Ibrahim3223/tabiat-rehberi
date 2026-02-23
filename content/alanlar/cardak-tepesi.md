@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ardak%20Tepesi","alt":"Çardak Tepesi","caption":"Çardak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%B6bekli_Tepe_-_landscape.jpg/960px-G%C3%B6bekli_Tepe_-_landscape.jpg","alt":"Çardak Tepesi","caption":"Çardak Tepesi","credit":"Göbekli Tepe - landscape.jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ardak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828389","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren Çardak Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar."
 keywords: ["Çardak Tepesi","Eyyübiye","Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe"]

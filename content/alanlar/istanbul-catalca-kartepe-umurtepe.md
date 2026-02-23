@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Yürüyüş","Bisiklet","Doğa fotoğrafçılığı","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0STANBUL%20%C3%87ATALCA%20KARTEPE%20(UMURTEPE","alt":"İSTANBUL ÇATALCA KARTEPE (UMURTEPE","caption":"İSTANBUL ÇATALCA KARTEPE (UMURTEPE"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"İSTANBUL ÇATALCA KARTEPE (UMURTEPE","caption":"İSTANBUL ÇATALCA KARTEPE (UMURTEPE","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0STANBUL%20%C3%87ATALCA%20KARTEPE%20(UMURTEPE","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228910","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan İstanbul Çatalca Kartaltepe (Umurtepe), 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor"
 keywords: ["Kartaltepe","Umurtepe","İstanbul Çatalca","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","gezi","turizm"]

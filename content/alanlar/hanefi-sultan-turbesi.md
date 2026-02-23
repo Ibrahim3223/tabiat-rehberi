@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Plajda denize girmek","Doğada yürüyüş yapmak","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hanefi%20Sultan%20T%C3%BCrbesi","alt":"Hanefi Sultan Türbesi","caption":"Hanefi Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Hanefi Sultan Türbesi","caption":"Hanefi Sultan Türbesi","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hanefi%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390909","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide yerlerinden biri olan Hanefi Sultan Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor. 140 hektarlık bir alanı kapsayan bu özel yer, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Hanefi Sultan Türbesi","Gölmarmara","Manisa","Ege Bölgesi","tarih","doğa","gezi","türbe","plaj"]

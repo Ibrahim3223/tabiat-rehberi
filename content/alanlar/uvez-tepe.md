@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tırmanma","Doğa yürüyüşü","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9Cvez%20Tepe","alt":"Üvez Tepe","caption":"Üvez Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Üvez Tepe","caption":"Üvez Tepe","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cvez%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810087","tip":"genel"}]
 description: "Kayseri'nin İç Anadolu Bölgesi'nde yer alan Üvez Tepe, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Üvez Tepe","Kayseri","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","tepe","coğrafya","flora","fauna","ziyaret"]

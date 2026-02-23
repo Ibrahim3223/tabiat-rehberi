@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Harzadin%20Da%C4%9F%C4%B1","alt":"Harzadin Dağı","caption":"Harzadin Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Harzadin Dağı","caption":"Harzadin Dağı","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harzadin%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31589367","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin, Harzadin Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Harzadin Dağı","Konya","Dağ","Doğa","Turizm","Gezi","Konya gezilecek yerler","Dağ turizmi","Turistik yerler"]

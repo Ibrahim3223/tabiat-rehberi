@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihi kalıntıları ziyaret","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alidervi%C5%9F%20Tepe","alt":"Aliderviş Tepe","caption":"Aliderviş Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_westernworldpict00kingrich%29.pdf/page1-654px-The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_westernworldpict00kingrich%29.pdf.jpg","alt":"Aliderviş Tepe","caption":"Aliderviş Tepe","credit":"The western world. Picturesque sketches of nature and natural history in North and South America (IA westernworldpict00kingrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alidervi%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387610","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Aliderviş Tepe, coğrafi açıdan zengin bir bölgedir. Tarihi ve doğal güzellikleri bir arada sunar."
 keywords: ["Aliderviş Tepe","İç Anadolu Bölgesi","coğrafi zenginlik","tarihi güzellik","doğal güzellik","gezi noktası","turizm","yerel tarih"]

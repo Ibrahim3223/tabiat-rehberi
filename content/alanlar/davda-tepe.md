@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","tarih gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Davda%20Tepe","alt":"Davda Tepe","caption":"Davda Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf/page1-731px-Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf.jpg","alt":"Davda Tepe","caption":"Davda Tepe","credit":"Journal of a Tour in Asia Minor, with Comparative Remarks on the Ancient and Modern Geography of that Country (IA dli.granth.36210).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davda%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389549","tip":"genel"}]
 description: "Karaman'ın gizli güzelliği, tarihi ve doğal zenginlikleriyle dolu bir bölge"
 keywords: ["Davda Tepe","Karaman","İç Anadolu Bölgesi","doğal güzellik","tarihi yerler","gezi rehberi","turizm","coğrafya"]

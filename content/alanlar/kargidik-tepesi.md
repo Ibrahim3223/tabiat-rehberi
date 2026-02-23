@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Gün boyu"
 aktiviteler: ["Trekking","Doğa yürüyüşleri","Fotoğrafçılık","Yaban hayatı gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karg%C4%B1d%C4%B1k%20Tepesi","alt":"Kargıdık Tepesi","caption":"Kargıdık Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Kargıdık Tepesi","caption":"Kargıdık Tepesi","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karg%C4%B1d%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388730","tip":"genel"}]
 description: "Muğla'nın Ege Bölgesi'nde yer alan Kargıdık Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
 keywords: ["Kargıdık Tepesi","Muğla","Ege Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denize girme","Tarihçe keşfetme","Doğa yürüyüşü","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arykanda%20K%C3%BC%C3%A7%C3%BCk%20Hamam","alt":"Arykanda Küçük Hamam","caption":"Arykanda Küçük Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cost_benefit_analysis_for_Turkish_Navy._%28IA_costbenefitanaly00eman%29.pdf/page1-960px-Cost_benefit_analysis_for_Turkish_Navy._%28IA_costbenefitanaly00eman%29.pdf.jpg","alt":"Arykanda Küçük Hamam","caption":"Arykanda Küçük Hamam","credit":"Cost benefit analysis for Turkish Navy. (IA costbenefitanaly00eman).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arykanda%20K%C3%BC%C3%A7%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739044","tip":"genel"}]
 description: "Arykanda Küçük Hamam, Finike/Antalya'da bulunan doğal bir plaj ve tarihi bir yerdir."
 keywords: ["Arykanda","Küçük Hamam","Finike","Antalya","plaj","tarih","doğa"]

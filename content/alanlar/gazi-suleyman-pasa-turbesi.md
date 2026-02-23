@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Plaj","Yürüyüş","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gazi%20S%C3%BCleyman%20Pa%C5%9Fa%20T%C3%BCrbesi","alt":"Gazi Süleyman Paşa Türbesi","caption":"Gazi Süleyman Paşa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf/page1-960px-War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf.jpg","alt":"Gazi Süleyman Paşa Türbesi","caption":"Gazi Süleyman Paşa Türbesi","credit":"War diary - German Naval Staff Operations Division (IA wardiarygermann301942germ).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazi%20S%C3%BCleyman%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390760","tip":"genel"}]
 description: "Gelibolu'da bulunan tarihi türbe ve plaj hakkında bilgi"
 keywords: ["Gazi Süleyman Paşa Türbesi","Gelibolu","Çanakkale","Marmara Bölgesi","Tarihi mekanlar","Plajlar","Türbeler"]

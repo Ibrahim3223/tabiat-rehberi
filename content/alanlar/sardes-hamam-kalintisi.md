@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarihi yapılar ve kalıntılar","yerel yemekler ve el sanatları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sardes%20Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1","alt":"Sardes Hamam Kalıntısı","caption":"Sardes Hamam Kalıntısı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf/page1-835px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf.jpg","alt":"Sardes Hamam Kalıntısı","caption":"Sardes Hamam Kalıntısı","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla02burt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sardes%20Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739049","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin. Sardes Hamam Kalıntısı, Manisa'nın Salihli ilçesinde yer alan bir tarihi ve turistik mekan."
 keywords: ["Sardes","Hamam Kalıntısı","Manisa","Salihli","Ege Bölgesi","tarihi mekan","turistik mekan"]

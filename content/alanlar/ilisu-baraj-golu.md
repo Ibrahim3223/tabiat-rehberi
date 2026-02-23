@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Il%C4%B1su%20Baraj%20G%C3%B6l%C3%BC","alt":"Ilısu Baraj Gölü","caption":"Ilısu Baraj Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lake_Limni_Nature_Park_02.jpg/960px-Lake_Limni_Nature_Park_02.jpg","alt":"Ilısu Baraj Gölü","caption":"Ilısu Baraj Gölü","credit":"Lake Limni Nature Park 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Il%C4%B1su%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q101551504","tip":"genel"}]
 description: "Şırnak'ta bulunan Ilısu Baraj Gölü, 1200 hektarlık yeşil cennet, doğa severler için önemli bir destinasyon"
 keywords: ["Ilısu Baraj Gölü","Şırnak","göl","doğa","turizm","baraj","gezi","seyahat","yerel turizm"]

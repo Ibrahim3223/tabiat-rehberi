@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kandil%20Da%C4%9F%C4%B1%20(A%C4%9Fr%C4%B1)","alt":"Kandil Dağı (Ağrı)","caption":"Kandil Dağı (Ağrı)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_historicalsketch00step%29.pdf/page1-654px-Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_historicalsketch00step%29.pdf.jpg","alt":"Kandil Dağı (Ağrı)","caption":"Kandil Dağı (Ağrı)","credit":"Historical sketch of Armenia and the Armenians in ancient and modern times (IA historicalsketch00step).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kandil%20Da%C4%9F%C4%B1%20(A%C4%9Fr%C4%B1)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385732","tip":"genel"}]
 description: "Ağrı'da yer alan Kandil Dağı, 3937 metre yüksekliğiyle dikkat çekiyor. Doğal güzellikleri ve trekking rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Kandil Dağı","Ağrı","Dağ","Trekking","Doğa","Turizm","Ağrı Dağları","Kandil Dağı trekking","Ağrı turizm"]

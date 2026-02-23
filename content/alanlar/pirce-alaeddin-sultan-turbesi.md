@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Yeşil alan gezintisi","Doğa seyri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pirce%20Alaeddin%20Sultan%20T%C3%BCrbesi","alt":"Pirce Alaeddin Sultan Türbesi","caption":"Pirce Alaeddin Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Pirce Alaeddin Sultan Türbesi","caption":"Pirce Alaeddin Sultan Türbesi","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pirce%20Alaeddin%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390680","tip":"genel"}]
 description: "Alanya'nın tarihi ve kültürel zenginliğini keşfedin. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Pirce Alaeddin Sultan Türbesi","Alanya","Antalya","tarih","kültür","yeşil alan","futbol sahası"]

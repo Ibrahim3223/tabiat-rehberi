@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ac%C4%B1su%20Tepesi","alt":"Acısu Tepesi","caption":"Acısu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Acısu Tepesi","caption":"Acısu Tepesi","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ac%C4%B1su%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572200","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli köşelerinden biri olan Acısu Tepesi, Zonguldak'ın doğal güzelliklerini keşfedeceğiniz bir destinasyon."
 keywords: ["Acısu Tepesi","Zonguldak","Karadeniz Bölgesi","doğa","gezi","tepe","manzara"]

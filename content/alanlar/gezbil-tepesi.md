@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "en az bir gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gezbil%20Tepesi","alt":"Gezbil Tepesi","caption":"Gezbil Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Gezbil Tepesi","caption":"Gezbil Tepesi","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gezbil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388756","tip":"genel"}]
 description: "Muğla'nın Ege Bölgesi'nde yer alan Gezbil Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Muğla","Ege Bölgesi","Gezbil Tepesi","yeşil alan","fiziksel veriler","coğrafya","doğa","flora","fauna"]

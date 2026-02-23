@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Mevlana'nın annesi ve ailesinin mezarlarını ziyaret etmek","Türbenin tarihi geçmişi hakkında bilgi edinmek","Bölgenin flora ve faunasını keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hz.%20Mevlana%E2%80%99n%C4%B1n%20Validesi%20ve%20Ailesi%20T%C3%BCrbesi","alt":"Hz. Mevlana’nın Validesi ve Ailesi Türbesi","caption":"Hz. Mevlana’nın Validesi ve Ailesi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia-_with_some_account_of_their_Antquities_and_Geology_%28in_Two_Volumes%2C_Vol.II%29_%28IA_dli.granth.41504%29.pdf/page1-731px-Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia-_with_some_account_of_their_Antquities_and_Geology_%28in_Two_Volumes%2C_Vol.II%29_%28IA_dli.granth.41504%29.pdf.jpg","alt":"Hz. Mevlana’nın Validesi ve Ailesi Türbesi","caption":"Hz. Mevlana’nın Validesi ve Ailesi Türbesi","credit":"Researches in Asia Minor, Pontus, and Armenia- with some account of their Antquities and Geology (in Two Volumes, Vol.II) (IA dli.granth.41504).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hz.%20Mevlana%E2%80%99n%C4%B1n%20Validesi%20ve%20Ailesi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390850","tip":"genel"}]
 description: "Karaman'da bulunan tarihi türbe, Mevlana'nın annesi ve ailesinin mezarlarını barındırır. Ziyaretçiler için önemli bir dini ve kültürel merkez."
 keywords: ["Hz. Mevlana","Karaman","tarih","türbe","dini merkez","kültürel değer","gezi","ziyaret","İç Anadolu Bölgesi"]

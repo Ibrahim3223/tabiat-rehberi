@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCvendik%20Da%C4%9F%C4%B1","alt":"Güvendik Dağı","caption":"Güvendik Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Güvendik Dağı","caption":"Güvendik Dağı","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCvendik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873569","tip":"genel"}]
 description: "Amasya'nın doğal güzelliklerini keşfedin. Güvendik Dağı, şehir merkezine yakın bir konumda yer alır ve trekking rotaları sunar."
 keywords: ["Güvendik Dağı","Amasya","Dağ","Trekking","Doğa","Turizm","Gezi","Amasya Gezilecek Yerler","Dağcılık"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","güneşlenme","picnic yapma","dalış yapma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCtl%C3%BCce%20Hamam%C4%B1","alt":"Sütlüce Hamamı","caption":"Sütlüce Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Sütlüce Hamamı","caption":"Sütlüce Hamamı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCtl%C3%BCce%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738581","tip":"genel"}]
 description: "Marmara Bölgesi'nin en güzel plajlarından biri olan Sütlüce Hamamı, İstanbul'un güzelliğini yansıtan bir mekan."
 keywords: ["Sütlüce Hamamı","İstanbul","Marmara Bölgesi","plaj","deniz","gezi","tatil","Beyoğlu"]

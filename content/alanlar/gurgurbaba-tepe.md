@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCrg%C3%BCrbaba%20Tepe","alt":"Gürgürbaba Tepe","caption":"Gürgürbaba Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Skyland%2C_situated_on_high_plateau_in_the_Blue_Ridge_near_grand_old_Stony_Man_Peak_%28IA_skylandsituatedo00roan%29.pdf/page1-847px-Skyland%2C_situated_on_high_plateau_in_the_Blue_Ridge_near_grand_old_Stony_Man_Peak_%28IA_skylandsituatedo00roan%29.pdf.jpg","alt":"Gürgürbaba Tepe","caption":"Gürgürbaba Tepe","credit":"Skyland, situated on high plateau in the Blue Ridge near grand old Stony Man Peak (IA skylandsituatedo00roan).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrg%C3%BCrbaba%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873437","tip":"genel"}]
 description: "Van'da bulunan Gürgürbaba Tepe, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Gürgürbaba Tepe","Van","Dağ","Doğa","Trekking","Van Gezilecek Yerler","Dağcılık","Turizm","Van Turistik Yerler"]

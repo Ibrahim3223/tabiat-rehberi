@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Esma%20Han%C4%B1m%20T%C3%BCrbesi","alt":"Esma Hanım Türbesi","caption":"Esma Hanım Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Esma Hanım Türbesi","caption":"Esma Hanım Türbesi","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esma%20Han%C4%B1m%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391819","tip":"genel"}]
 description: "Talas, Kayseri'de yer alan tarihi bir türbe ve plaj alanı"
 keywords: ["Esma Hanım Türbesi","Talas","Kayseri","tarih","plaj","turizm","doğa","kültür"]

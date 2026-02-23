@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarihi yapıları ziyaret","Doğa"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ay%20Dede%20T%C3%BCrbesi","alt":"Ay Dede Türbesi","caption":"Ay Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/British_medical_journal_%28IA_1877britishmedic02brit%29.pdf/page1-960px-British_medical_journal_%28IA_1877britishmedic02brit%29.pdf.jpg","alt":"Ay Dede Türbesi","caption":"Ay Dede Türbesi","credit":"British medical journal (IA 1877britishmedic02brit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ay%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390730","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde yer alan Ay Dede Türbesi, tarihin derinliklerinden gelen bir dini merkez. Bu alan, 140 hektarlık yeşil bir alan üzerinde kurulmuştur."
 keywords: ["Ay Dede Türbesi","Osmangazi","Bursa","tarih","din","doğa","gezi","türk kültür","mimarlık","manzara"]

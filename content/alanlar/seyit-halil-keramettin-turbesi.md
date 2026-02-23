@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarihî yapıları ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Seyit%20Halil%20Keramettin%20T%C3%BCrbesi","alt":"Seyit Halil Keramettin Türbesi","caption":"Seyit Halil Keramettin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Seyit Halil Keramettin Türbesi","caption":"Seyit Halil Keramettin Türbesi","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyit%20Halil%20Keramettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391706","tip":"genel"}]
 description: "Akkışla'da tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Seyit Halil Keramettin Türbesi","Akkışla","Kayseri","İç Anadolu Bölgesi","tarih","doğa","kültür"]

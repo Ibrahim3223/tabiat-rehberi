@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Denize girme","Plajda güneşlenme","Tarihi yerleri ziyaret","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1l%C4%B1%C3%A7dede%20T%C3%BCrbesi","alt":"Kılıçdede Türbesi","caption":"Kılıçdede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Kılıçdede Türbesi","caption":"Kılıçdede Türbesi","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1%C3%A7dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391808","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide şehirlerinden Samsun'un İlkadım ilçesinde yer alan Kılıçdede Türbesi, tarihi ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kılıçdede Türbesi","Samsun","İlkadım","Karadeniz Bölgesi","tarihi mekanlar","doğal güzellikler","plajlar","turistik yerler","Samsun turizm","Karadeniz turizm"]

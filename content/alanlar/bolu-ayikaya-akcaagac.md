@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu%20Ayikaya-Akcaagac","alt":"Bolu Ayikaya-Akcaagac","caption":"Bolu Ayikaya-Akcaagac"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Bolu Ayikaya-Akcaagac","caption":"Bolu Ayikaya-Akcaagac","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu%20Ayikaya-Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228091","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Bolu Ayikaya-Akcaagac Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bolu","Ayikaya-Akcaagac","Milli Park","İç Anadolu Bölgesi","doğa","turizm","gezi","yaban hayatı","flora","fauna"]

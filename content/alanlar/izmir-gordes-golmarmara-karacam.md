@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Gordes-Golmarmara%20Karacam","alt":"Izmir-Gordes-Golmarmara Karacam","caption":"Izmir-Gordes-Golmarmara Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/MOKFC10.jpg/960px-MOKFC10.jpg","alt":"Izmir-Gordes-Golmarmara Karacam","caption":"Izmir-Gordes-Golmarmara Karacam","credit":"MOKFC10.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Gordes-Golmarmara%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227949","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerinin sergilendiği bir milli park"
 keywords: ["Ege Bölgesi","milli park","doğa","gezi","İzmir","Gordes","Golmarmara","Karacam","çevre","ekoloji"]

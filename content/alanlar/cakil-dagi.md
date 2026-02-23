@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ak%C4%B1l%20Da%C4%9F%C4%B1","alt":"Çakıl Dağı","caption":"Çakıl Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Giresun_yaylalar%C4%B1_-_panoramio.jpg/960px-Giresun_yaylalar%C4%B1_-_panoramio.jpg","alt":"Çakıl Dağı","caption":"Çakıl Dağı","credit":"Giresun yaylaları - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ak%C4%B1l%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823108","tip":"genel"}]
 description: "Giresun'da bulunan Çakıl Dağı, 1200 hektarlık yeşil cenneti ile dikkat çekiyor. Doğal güzelliği ve zengin florası ile ziyaretçilerini bekliyor."
 keywords: ["Çakıl Dağı","Giresun","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Doğal Güzellik","Flora","Ekosistem"]

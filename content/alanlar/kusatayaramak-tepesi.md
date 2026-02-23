@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","tarihi yerleri keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C5%9Fatayaramak%20Tepesi","alt":"Küşatayaramak Tepesi","caption":"Küşatayaramak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Küşatayaramak Tepesi","caption":"Küşatayaramak Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C5%9Fatayaramak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211108","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin. Diyarbakır'a yakın bir konumda bulunan Küşatayaramak Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Küşatayaramak Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğal güzellikler","tarihi yerler","tepe","coğrafya","flora","fauna"]

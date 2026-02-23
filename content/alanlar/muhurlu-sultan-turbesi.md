@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzmek","Güneşlenmek","Plaj voleybolu oynamak","Yürüyüş yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=M%C3%BCh%C3%BCrl%C3%BC%20Sultan%20T%C3%BCrbesi","alt":"Mühürlü Sultan Türbesi","caption":"Mühürlü Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Mühürlü Sultan Türbesi","caption":"Mühürlü Sultan Türbesi","credit":"Beach view - panoramio (1).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%BCh%C3%BCrl%C3%BC%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391568","tip":"genel"}]
 description: "İzmir'in Menemen ilçesinde bulunan tarihi bir plaj"
 keywords: ["Mühürlü Sultan Türbesi","Menemen","İzmir","Ege Bölgesi","plaj","tarihi mekan","deniz","turizm","gezi","tatil"]

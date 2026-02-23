@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sand%C4%B1kdere%20Tepesi","alt":"Sandıkdere Tepesi","caption":"Sandıkdere Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Sandıkdere Tepesi","caption":"Sandıkdere Tepesi","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sand%C4%B1kdere%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31507631","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerinden biri olan Sandıkdere Tepesi, ziyaretçilerini bekliyor. Doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Sandıkdere Tepesi","Kayseri","İç Anadolu Bölgesi","doğa","tarih","gezi","tepe","manzara","çevre"]

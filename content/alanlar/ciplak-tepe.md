@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C4%B1plak%20Tepe","alt":"Çıplak Tepe","caption":"Çıplak Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Çıplak Tepe","caption":"Çıplak Tepe","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1plak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819209","tip":"genel"}]
 description: "İstanbul'un doğal güzelliklerini keşfedin, Çıplak Tepe'de doğa ile baş başa kalın."
 keywords: ["Çıplak Tepe","İstanbul","dağ","doğa","gezi","turizm","İstanbul dağları","çevre","ekosistem"]

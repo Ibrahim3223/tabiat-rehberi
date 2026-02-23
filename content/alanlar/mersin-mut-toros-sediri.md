@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Mut%20Toros%20Sediri","alt":"Mersin-Mut Toros Sediri","caption":"Mersin-Mut Toros Sediri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kad%C4%B1nc%C4%B1k_Valley_4.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_4.jpg","alt":"Mersin-Mut Toros Sediri","caption":"Mersin-Mut Toros Sediri","credit":"Kadıncık Valley 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut%20Toros%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228001","tip":"genel"}]
 description: "Mersin ili Mut ilçesinde yer alan milli park, 140 hektarlık yeşil alanı ve históriki geçmişiyle dikkat çekiyor"
 keywords: ["Mersin","Mut","Toros Sediri","milli park","doğa","yaban hayatı","ekosistem","çevre","korunma"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lta%C5%9F%20Tepesi","alt":"Kızıltaş Tepesi","caption":"Kızıltaş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DSC_2971_-_panoramio.jpg/960px-DSC_2971_-_panoramio.jpg","alt":"Kızıltaş Tepesi","caption":"Kızıltaş Tepesi","credit":"DSC 2971 - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387923","tip":"genel"}]
 description: "Giresun'un güzide tepelerinden biri olan Kızıltaş Tepesi, ziyaretçilerini Karadeniz Bölgesi'nin muhteşem manzaralarına davet ediyor."
 keywords: ["Kızıltaş Tepesi","Giresun","Karadeniz Bölgesi","tepe","doğa","manzara","gezi","turizm"]

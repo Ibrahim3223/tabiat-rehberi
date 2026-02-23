@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Boztepeler","alt":"Boztepeler","caption":"Boztepeler"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Boztepeler","caption":"Boztepeler","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boztepeler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35729074","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Boztepeler, Türkiye'de yer alan bir dağdır."
 keywords: ["Boztepeler","Dağ","Türkiye","Doğal Alan","Seyahat","Gezi","Turizm","Coğrafya","Dağcılık"]

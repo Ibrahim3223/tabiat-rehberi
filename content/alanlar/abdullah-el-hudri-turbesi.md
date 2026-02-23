@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe öğrenme","kültürel miras keşfi","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abdullah%20El-Hudri%20T%C3%BCrbesi","alt":"Abdullah El-Hudri Türbesi","caption":"Abdullah El-Hudri Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abdullah El-Hudri Türbesi","caption":"Abdullah El-Hudri Türbesi","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdullah%20El-Hudri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391029","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Abdullah El-Hudri Türbesi, Fatih ilçesinde yer almaktadır."
 keywords: ["Abdullah El-Hudri Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarih","kültür","türbe"]

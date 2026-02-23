@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kala%C3%A7agir%20Tepesi","alt":"Kalaçagir Tepesi","caption":"Kalaçagir Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Armenian_bondage_and_carnage%3B_being_the_story_of_Christian_martyrdom_in_modern_times_%28IA_armenianbondagec00beheiala%29.pdf/page1-820px-Armenian_bondage_and_carnage%3B_being_the_story_of_Christian_martyrdom_in_modern_times_%28IA_armenianbondagec00beheiala%29.pdf.jpg","alt":"Kalaçagir Tepesi","caption":"Kalaçagir Tepesi","credit":"Armenian bondage and carnage; being the story of Christian martyrdom in modern times (IA armenianbondagec00beheiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kala%C3%A7agir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877443","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzellikleriyle dikkat çeken Kalaçagir Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bölgeye özgü flora ile fauna çeşitliliğini sunar."
 keywords: ["Mardin","Kalaçagir Tepesi","doğa","tarih","gezi","tepe","Güneydoğu Anadolu Bölgesi","coğrafya","flora","fauna"]

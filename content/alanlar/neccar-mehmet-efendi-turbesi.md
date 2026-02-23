@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Deniz kenarında yürüyüş","Kuş gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Neccar%20Mehmet%20Efendi%20T%C3%BCrbesi","alt":"Neccar Mehmet Efendi Türbesi","caption":"Neccar Mehmet Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Neccar Mehmet Efendi Türbesi","caption":"Neccar Mehmet Efendi Türbesi","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Neccar%20Mehmet%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391085","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi türbe ve plaj"
 keywords: ["Neccar Mehmet Efendi","Türbe","Plaj","Fatih","İstanbul","Marmara Bölgesi","Tarih","Coğrafya"]

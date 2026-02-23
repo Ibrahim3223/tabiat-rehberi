@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahramanmaras-Sucati%20K%C4%B1z%C4%B1l%C3%A7am%201","alt":"Kahramanmaras-Sucati Kızılçam 1","caption":"Kahramanmaras-Sucati Kızılçam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kahramanmaras-Sucati Kızılçam 1","caption":"Kahramanmaras-Sucati Kızılçam 1","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Sucati%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227430","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kahramanmaras-Sucati Kızılçam 1 milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kahramanmaras-Sucati Kızılçam 1","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna"]

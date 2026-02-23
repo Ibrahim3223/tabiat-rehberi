@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün veya birkaç gün"
 aktiviteler: ["trekking","kampçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trabzon-Gumushane-K.dere%20Dogu%20Karadeniz%20Goknari","alt":"Trabzon-Gumushane-K.dere Dogu Karadeniz Goknari","caption":"Trabzon-Gumushane-K.dere Dogu Karadeniz Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Alt%C4%B1ndere_%281%29.jpg/960px-Alt%C4%B1ndere_%281%29.jpg","alt":"Trabzon-Gumushane-K.dere Dogu Karadeniz Goknari","caption":"Trabzon-Gumushane-K.dere Dogu Karadeniz Goknari","credit":"Altındere (1).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Gumushane-K.dere%20Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227593","tip":"genel"}]
 description: "Trabzon-Gumushane-K.dere Dogu Karadeniz Goknari milli parkı, Karadeniz Bölgesi'nin en önemli doğal alanlarından biri."
 keywords: ["Trabzon","Karadeniz Bölgesi","milli park","doğa","turizm","gezi","yerel kültür","çevre","ekosistem"]

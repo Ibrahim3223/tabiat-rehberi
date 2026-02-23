@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yelkalesi","alt":"Yelkalesi","caption":"Yelkalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Yelkalesi","caption":"Yelkalesi","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelkalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502649","tip":"genel"}]
 description: "Mersin'de yer alan Yelkalesi, doğa severlerin ziyaret ettiği bir dağdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Yelkalesi","Mersin","Dağ","Doğa","Turizm","Gezi","Mersin Turistik Yerler","Yelkalesi Mersin","Doğa Sporları"]

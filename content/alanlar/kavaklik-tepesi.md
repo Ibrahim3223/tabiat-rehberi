@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kavakl%C4%B1k%20Tepesi","alt":"Kavaklık Tepesi","caption":"Kavaklık Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/The_Armenians%2Cor_the_people_of_Ararat_-_a_brief_historical_sketch_of_the_past_and_the_present_condition_of_Armenia%2C_the_Armenians%2C_their_religion%2C_and_missions_among_them_%28IA_b24886403%29.pdf/page1-872px-thumbnail.pdf.jpg","alt":"Kavaklık Tepesi","caption":"Kavaklık Tepesi","credit":"The Armenians,or the people of Ararat - a brief historical sketch of the past and the present condition of Armenia, the Armenians, their religion, and missions among them (IA b24886403).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavakl%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388274","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Kars şehrinde bulunan Kavaklık Tepesi, coğrafi güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kavaklık Tepesi","Kars","Doğu Anadolu Bölgesi","coğrafi güzellik","tarihi geçmişi","doğa","gezi","turizm"]

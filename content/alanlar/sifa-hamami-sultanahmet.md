@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eifa%20Hamam%C4%B1%20Sultanahmet","alt":"Şifa Hamamı Sultanahmet","caption":"Şifa Hamamı Sultanahmet"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Şifa Hamamı Sultanahmet","caption":"Şifa Hamamı Sultanahmet","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eifa%20Hamam%C4%B1%20Sultanahmet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738601","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel zenginliklerini barındıran bir destinasyon"
 keywords: ["İstanbul","Fatih","Marmara Bölgesi","Sultanahmet","tarih","kültür","gezi","turizm"]

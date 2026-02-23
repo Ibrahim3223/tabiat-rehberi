@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Panoramik 관","Fotografcılık","Tarihî araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ziyaretda%C4%9F%C4%B1%20Tepesi","alt":"Ziyaretdağı Tepesi","caption":"Ziyaretdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Ziyaretdağı Tepesi","caption":"Ziyaretdağı Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaretda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388519","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Ziyaretdağı Tepesi, Erzurum'un görece yüksek bir alanında yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Ziyaretdağı Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]

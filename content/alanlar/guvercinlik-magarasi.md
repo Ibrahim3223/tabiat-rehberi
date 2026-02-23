@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCvercinlik%20Ma%C4%9Faras%C4%B1","alt":"Güvercinlik Mağarası","caption":"Güvercinlik Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Güvercinlik Mağarası","caption":"Güvercinlik Mağarası","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCvercinlik%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Antalya'da bulunan Güvercinlik Mağarası, doğal güzelliği ile dikkat çeken bir mağara. 1200 hektarlık yeşil alan içinde yer alan mağara, ziyaretçilerini bekliyor."
 keywords: ["Güvercinlik Mağarası","Antalya","magara","doğa","turizm","gezi","yerel","turistik","mağaralar"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","vahşi yaşam gözlemi","fotografcılık","çevre eğitimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Eskere-Cicekli%20Karacam","alt":"Mugla-Eskere-Cicekli Karacam","caption":"Mugla-Eskere-Cicekli Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chameleon_in_Turkish_forest_%282%29.jpg/960px-Chameleon_in_Turkish_forest_%282%29.jpg","alt":"Mugla-Eskere-Cicekli Karacam","caption":"Mugla-Eskere-Cicekli Karacam","credit":"Chameleon in Turkish forest (2).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Eskere-Cicekli%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227678","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, Cicekli Karacam milli parkı"
 keywords: ["milli park","Muğla","Ege Bölgesi","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]

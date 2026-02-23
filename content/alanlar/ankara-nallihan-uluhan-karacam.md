@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Fotoğrafçılık","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara-Nallihan-Uluhan%20Karacam","alt":"Ankara-Nallihan-Uluhan Karacam","caption":"Ankara-Nallihan-Uluhan Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MOKFC07.jpg/960px-MOKFC07.jpg","alt":"Ankara-Nallihan-Uluhan Karacam","caption":"Ankara-Nallihan-Uluhan Karacam","credit":"MOKFC07.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Nallihan-Uluhan%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227478","tip":"genel"}]
 description: "İç Anadolu'nun yeşilliği ve güzelliği ile tanınan Ankara-Nallihan-Uluhan Karacam milli parkı"
 keywords: ["Ankara","Nallihan","Uluhan Karacam","milli park","İç Anadolu","doğa","yeşillik","güzellik"]

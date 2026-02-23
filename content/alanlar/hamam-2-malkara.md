@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşleri","Tarih ve kültür turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamam%202%2C%20Malkara","alt":"Hamam 2, Malkara","caption":"Hamam 2, Malkara"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hamam 2, Malkara","caption":"Hamam 2, Malkara","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%202%2C%20Malkara","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245859","tip":"genel"}]
 description: "Malkara'da yer alan Hamam 2 plajı, İstanbul Vilayeti'nin sakin ve güzellikle dolu bir köşesi."
 keywords: ["Malkara","İstanbul Vilayeti","plaj","doğa","gezi","tatil","deniz","kumsal","yaz"]

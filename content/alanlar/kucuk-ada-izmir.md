@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCk%20Ada%20(%C4%B0zmir)","alt":"Küçük Ada (İzmir)","caption":"Küçük Ada (İzmir)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/View_to_chios_island_9view_to_chios_island_-_panoramio.jpg/960px-View_to_chios_island_9view_to_chios_island_-_panoramio.jpg","alt":"Küçük Ada","caption":"Küçük Ada","credit":"View to chios island 9view to chios island - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Ada%20(%C4%B0zmir)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49650048","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Küçük Ada, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Küçük Ada","İzmir Adaları","İzmir Turizm","Ada Gezisi","Yeşil Alan","Tarih","Doğa","Turistik Yerler","İzmir Gezi"]

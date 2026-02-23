@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=SULTANGAZ%C4%B0%20M%C4%B0MAR%20S%C4%B0NAN","alt":"SULTANGAZİ MİMAR SİNAN","caption":"SULTANGAZİ MİMAR SİNAN"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"SULTANGAZİ MİMAR SİNAN","caption":"SULTANGAZİ MİMAR SİNAN","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/SULTANGAZ%C4%B0%20M%C4%B0MAR%20S%C4%B0NAN","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228602","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Sultangazi Mimar Sinan Milli Parkı, 140 hektarlık alanı ile ziyaretçilerini büyülüyor. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir destinasyon."
 keywords: ["Mimar Sinan","Sultangazi","Milli Park","İç Anadolu Bölgesi","Doğa","Tarih","Gezi","Turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Kampçılık","Photography"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Aladag%20Saricam%202","alt":"Bolu-Aladag Saricam 2","caption":"Bolu-Aladag Saricam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bolu_G%C3%B6lc%C3%BCk_Tabiat_01.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Tabiat_01.jpg","alt":"Bolu-Aladag Saricam 2","caption":"Bolu-Aladag Saricam 2","credit":"Bolu Gölcük Tabiat 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Aladag%20Saricam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227555","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğa harikalarından biri olan Bolu-Aladag Saricam 2, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bolu","Aladag","Saricam","milli park","doğa","yeşil alan","Karadeniz Bölgesi"]

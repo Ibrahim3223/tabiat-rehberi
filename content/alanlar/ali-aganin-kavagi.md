@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","doğa","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ali%20Aganin%20Kavagi","alt":"Ali Aganin Kavagi","caption":"Ali Aganin Kavagi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Ali Ağanın Kavaklığı","caption":"Ali Ağanın Kavaklığı","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ali%20Aganin%20Kavagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227167","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Ali Ağanın Kavaklığı, ziyaretçilerini bekliyor."
 keywords: ["Ali Ağanın Kavaklığı","İç Anadolu Bölgesi","doğa","gezi","milli park","yaban hayatı","ekosistem","çevre","turizm"]

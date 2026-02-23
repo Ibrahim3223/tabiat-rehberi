@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaleyeri%20S%C4%B1%C4%9Fl%C4%B1%C4%9F%C4%B1","alt":"Kaleyeri Sığlığı","caption":"Kaleyeri Sığlığı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/View_to_chios_island_6_-_panoramio.jpg/960px-View_to_chios_island_6_-_panoramio.jpg","alt":"Kaleyeri Sığlığı","caption":"Kaleyeri Sığlığı","credit":"View to chios island 6 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaleyeri%20S%C4%B1%C4%9Fl%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34798064","tip":"genel"}]
 description: "İzmir'in güzide adalarından Kaleyeri Sığlığı, 1200 hektarlık bir yeşil cennet"
 keywords: ["Kaleyeri Sığlığı","İzmir Adaları","Ada Gezileri","İzmir Turizm","Doğa Alanları","Yeşil Cennet","Sığlık","İzmir Gezi Rehberi","Turistik Yerler"]

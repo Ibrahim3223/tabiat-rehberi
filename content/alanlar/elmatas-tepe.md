@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Elmata%C5%9F%20Tepe","alt":"Elmataş Tepe","caption":"Elmataş Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Proceedings_of_the_Symposium_on_the_Environmental_Consequences_of_Fire_and_Fuel_Management_in_Mediterranean_Ecosystems_-_August_1-5%2C_1977%2C_Palo_Alto%2C_California._-_%28IA_CAT78696401%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Elmataş Tepe","caption":"Elmataş Tepe","credit":"Proceedings of the Symposium on the Environmental Consequences of Fire and Fuel Management in Mediterranean Ecosystems - August 1-5, 1977, Palo Alto, California. - (IA CAT78696401).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elmata%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388653","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, Elmataş Tepe'nin tarihi ve coğrafyasını öğrenin"
 keywords: ["Elmataş Tepe","Muğla","Ege Bölgesi","doğa","tarih","coğrafya","gezi","seyahat","turizm"]

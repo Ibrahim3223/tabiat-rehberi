@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yaylak%20Tepesi","alt":"Yaylak Tepesi","caption":"Yaylak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Thermal_Hotel_-_panoramio.jpg/960px-The_Thermal_Hotel_-_panoramio.jpg","alt":"Yaylak Tepesi","caption":"Yaylak Tepesi","credit":"The Thermal Hotel - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yaylak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390652","tip":"genel"}]
 description: "Kırşehir'in doğal güzelliklerini keşfedin. Yaylak Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kırşehir","İç Anadolu Bölgesi","Yaylak Tepesi","doğa","gezi","tepe","coğrafya"]

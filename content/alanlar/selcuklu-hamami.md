@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sel%C3%A7uklu%20Hamam%C4%B1","alt":"Selçuklu Hamamı","caption":"Selçuklu Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Engineering_in_Europe_-_USACE-p16021coll8-556.pdf/page1-960px-Engineering_in_Europe_-_USACE-p16021coll8-556.pdf.jpg","alt":"Selçuklu Hamamı","caption":"Selçuklu Hamamı","credit":"Engineering in Europe - USACE-p16021coll8-556.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sel%C3%A7uklu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738662","tip":"genel"}]
 description: "Eskişehir'in Seyitgazi ilçesinde bulunan Selçuklu Hamamı, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Selçuklu Hamamı","Seyitgazi","Eskişehir","tarihi hamam","doğa","gezi","turizm"]

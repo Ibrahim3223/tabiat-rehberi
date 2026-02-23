@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğraf çekimi","trekking"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tuzla%20Palas%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Tuzla Palas Gölü Sulak Alanı","caption":"Tuzla Palas Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Tuzla Palas Gölü Sulak Alanı","caption":"Tuzla Palas Gölü Sulak Alanı","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tuzla%20Palas%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229011","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cevheri, Tuzla Palas Gölü Sulak Alanı, 140 hektarlık alana kurulu, doğal güzellikleri ve zengin fauna ile dikkat çekiyor."
 keywords: ["Tuzla Palas Gölü Sulak Alanı","İç Anadolu Bölgesi","doğal güzellik","sulak alan","fauna","flora","turizm","gezi","doğa"]

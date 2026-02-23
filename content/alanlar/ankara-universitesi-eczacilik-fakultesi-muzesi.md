@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Eczacılık tarihi hakkında bilgi edinmek","Müze içerisinde sergilenen eserleri görmek","Eczacılık bilimi hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara%20%C3%9Cniversitesi%20Eczac%C4%B1l%C4%B1k%20Fak%C3%BCltesi%20M%C3%BCzesi","alt":"Ankara Üniversitesi Eczacılık Fakültesi Müzesi","caption":"Ankara Üniversitesi Eczacılık Fakültesi Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Ankara Üniversitesi Eczacılık Fakültesi Müzesi","caption":"Ankara Üniversitesi Eczacılık Fakültesi Müzesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20%C3%9Cniversitesi%20Eczac%C4%B1l%C4%B1k%20Fak%C3%BCltesi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949957","tip":"genel"}]
 description: "Ankara'da eczacılık tarihi ve bilimi hakkında bilgi veren bir müze"
 keywords: ["Ankara Üniversitesi","Eczacılık Fakültesi","Müze","Eczacılık Tarihi","Bilimi","Ankara","İç Anadolu Bölgesi","Eğitim","Bilgi"]

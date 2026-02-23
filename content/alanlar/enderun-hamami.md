@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yüzme","Güneşlenme","Doğa yürüyüşü","Tarihî yerleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Enderun%20Hamam%C4%B1","alt":"Enderun Hamamı","caption":"Enderun Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Enderun Hamamı","caption":"Enderun Hamamı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Enderun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739150","tip":"genel"}]
 description: "İstanbul'un tarihi plajlarından Enderun Hamamı, Marmara Bölgesi'nin güzide noktalarından biri."
 keywords: ["Enderun Hamamı","Fatih","İstanbul","Marmara Bölgesi","plaj","tarihçe","coğrafya","doğa","ziyaret"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Manzara izleme","Fotograf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mukaddem%20Dede%20T%C3%BCrbesi","alt":"Mukaddem Dede Türbesi","caption":"Mukaddem Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf/page1-960px-Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf.jpg","alt":"Mukaddem Dede Türbesi","caption":"Mukaddem Dede Türbesi","credit":"Jewish - Zionist terrorism and the establishment of Israel. (IA jewishzionistter00peek).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mukaddem%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390499","tip":"genel"}]
 description: "Mersin'in Silifke ilçesinde yer alan Mukaddem Dede Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir destinasyon."
 keywords: ["Mukaddem Dede Türbesi","Silifke","Mersin","tarih","doğa","gezi","türbe","Akdeniz Bölgesi"]

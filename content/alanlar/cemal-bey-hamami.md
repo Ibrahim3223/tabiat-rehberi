@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denize girmek","Güneşlenmek","Çevreyi keşfetmek","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cemal%20Bey%20Hamam%C4%B1","alt":"Cemal Bey Hamamı","caption":"Cemal Bey Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Cemal Bey Hamamı","caption":"Cemal Bey Hamamı","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cemal%20Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738897","tip":"genel"}]
 description: "Ege Bölgesi'nin Efeler ilçesinde yer alan doğal bir plaj"
 keywords: ["Ege Bölgesi","Efeler","doğal plaj","Cemal Bey Hamamı","Aydın","deniz","kumsal"]

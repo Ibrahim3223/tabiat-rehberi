@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alanya%20Gazipa%C5%9Fa%20K%C4%B1y%C4%B1%20Band%C4%B1%20Sit%20Alan%C4%B1","alt":"Alanya Gazipaşa Kıyı Bandı Sit Alanı","caption":"Alanya Gazipaşa Kıyı Bandı Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Alanya Gazipaşa Kıyı Bandı Sit Alanı","caption":"Alanya Gazipaşa Kıyı Bandı Sit Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alanya%20Gazipa%C5%9Fa%20K%C4%B1y%C4%B1%20Band%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226642","tip":"genel"}]
 description: "Doğal güzellikleri ve zengin fauna ile dikkat çeken bir sahil alanı"
 keywords: ["Alanya","Gazipaşa","Kıyı Bandı","Sit Alanı","Doğal Güzellik","Zengin Fauna","Sahil","Turizm","Çevre"]

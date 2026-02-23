@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6l%20Da%C4%9F%C4%B1%20(Sivas)","alt":"Göl Dağı (Sivas)","caption":"Göl Dağı (Sivas)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Palms_and_pearls_-_or_Scenes_in_Ceylon_%28IA_palmspearlsorsce00waltrich%29.pdf/page1-818px-Palms_and_pearls_-_or_Scenes_in_Ceylon_%28IA_palmspearlsorsce00waltrich%29.pdf.jpg","alt":"Göl Dağı","caption":"Göl Dağı","credit":"Palms and pearls - or Scenes in Ceylon (IA palmspearlsorsce00waltrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6l%20Da%C4%9F%C4%B1%20(Sivas)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872372","tip":"genel"}]
 description: "Sivas'ta bulunan Göl Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Göl Dağı","Sivas","Dağ","Doğa","Yeşil Alan","Turizm","Sivas Turistik Yerler","Göl Dağı Sivas","Doğal Güzellikler"]

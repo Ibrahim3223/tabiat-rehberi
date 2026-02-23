@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşleri","Kampçılık","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Antalya-D%C3%B6%C5%9Femealt%C4%B1-K%C4%B1z%C4%B1l%C3%A7am","alt":"Antalya-Antalya-Döşemealtı-Kızılçam","caption":"Antalya-Antalya-Döşemealtı-Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Antalya-Antalya-Döşemealtı-Kızılçam","caption":"Antalya-Antalya-Döşemealtı-Kızılçam","credit":"Turkish nature reserve.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Antalya-D%C3%B6%C5%9Femealt%C4%B1-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228421","tip":"genel"}]
 description: "Antalya'nın yemyeşil doğası içinde yer alan Kızılçam Milli Parkı, ziyaretçilerini bekliyor."
 keywords: ["Antalya","Milli Park","Kızılçam","Doğa","Yeşil","Turizm","Gezi","Seyahat"]

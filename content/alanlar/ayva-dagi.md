@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ayva%20Da%C4%9F%C4%B1","alt":"Ayva Dağı","caption":"Ayva Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Trabzon_Kazang%C4%B1ran_Yaylas%C4%B1_Yolu.jpg/960px-Trabzon_Kazang%C4%B1ran_Yaylas%C4%B1_Yolu.jpg","alt":"Ayva Dağı","caption":"Ayva Dağı","credit":"Trabzon Kazangıran Yaylası Yolu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayva%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571160","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerini keşfedin, Ayva Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Ayva Dağı","Trabzon","Dağ","Doğa","Manzara","Gezi","Türkiye","Seyahat","Turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Fotoğraf çekimi","Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Mengen-Daren%20Saricam","alt":"Bolu-Mengen-Daren Saricam","caption":"Bolu-Mengen-Daren Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/G%C3%B6lc%C3%BCk1.jpg/960px-G%C3%B6lc%C3%BCk1.jpg","alt":"Bolu-Mengen-Daren Saricam","caption":"Bolu-Mengen-Daren Saricam","credit":"Gölcük1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Mengen-Daren%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227976","tip":"genel"}]
 description: "Bolu'nun doğal güzelliklerini keşfedin, 140 hektarlık milli parkı gezin"
 keywords: ["Bolu","Mengen","Daren Saricam","milli park","doğa","gezi","turizm","Karadeniz Bölgesi"]

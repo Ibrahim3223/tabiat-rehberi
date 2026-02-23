@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "7-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Fi%C5%9Fekli%20Da%C4%9F%C4%B1","alt":"Fişekli Dağı","caption":"Fişekli Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/James_Lane_Allen_And_The_Gentell_Tradition_%28IA_jameslaneallenan027851mbp%29.djvu/page1-800px-James_Lane_Allen_And_The_Gentell_Tradition_%28IA_jameslaneallenan027851mbp%29.djvu.jpg","alt":"Fişekli Dağı","caption":"Fişekli Dağı","credit":"James Lane Allen And The Gentell Tradition (IA jameslaneallenan027851mbp).djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fi%C5%9Fekli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31577310","tip":"genel"}]
 description: "Ağrı'da yer alan Fişekli Dağı, doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Fişekli Dağı","Ağrı","Dağ","Trekking","Doğa","Gezi","Seyahat","Turizm","Ağrı Turistik Yerler"]

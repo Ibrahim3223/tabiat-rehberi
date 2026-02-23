@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ciritmeydan%C4%B1tepesi","alt":"Ciritmeydanıtepesi","caption":"Ciritmeydanıtepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Ciritmeydanıtepesi","caption":"Ciritmeydanıtepesi","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ciritmeydan%C4%B1tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388300","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Kars şehrinde bulunan Ciritmeydanıtepesi, tarihi ve coğrafi açıdan önemli bir nokta"
 keywords: ["Kars","Doğu Anadolu Bölgesi","Ciritmeydanıtepesi","tarih","coğrafya","doğa","gezi","turizm"]

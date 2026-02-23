@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=E%C5%9Fen%20G%C3%B6l%C3%BC","alt":"Eşen Gölü","caption":"Eşen Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lake_Limni_Nature_Park_03.jpg/960px-Lake_Limni_Nature_Park_03.jpg","alt":"Eşen Gölü","caption":"Eşen Gölü","credit":"Lake Limni Nature Park 03.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Fen%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q48791507","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerinden biri olan Eşen Gölü, turizm ve doğa severler için önemli bir destinasyon."
 keywords: ["Eşen Gölü","Türkiye gölleri","doğa turizmi","göl gezi","turistik yerler","Türkiye'nin güzellikleri","göl turu","doğal alanlar","gezi noktaları"]

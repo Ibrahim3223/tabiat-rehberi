@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Ordu-Golkoy%20Saricam","alt":"Giresun-Ordu-Golkoy Saricam","caption":"Giresun-Ordu-Golkoy Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sis_da%C4%9F%C4%B1_%286%29.jpg/960px-Sis_da%C4%9F%C4%B1_%286%29.jpg","alt":"Giresun-Ordu-Golkoy Saricam","caption":"Giresun-Ordu-Golkoy Saricam","credit":"Sis dağı (6).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Ordu-Golkoy%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227982","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gözde millet parkı, 140 hektarlık geniş alanıyla ziyaretçilerini bekliyor."
 keywords: ["Giresun","Ordu","Golkoy","Saricam","millet parkı","Karadeniz Bölgesi","doğa","gezi","turizm"]

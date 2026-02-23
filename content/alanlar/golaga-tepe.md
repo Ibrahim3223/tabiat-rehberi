@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6la%C4%9Fa%20Tepe","alt":"Gölağa Tepe","caption":"Gölağa Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/On_horseback_through_Asia_Minor_%28IA_onhorsebackthrou01burn_0%29.pdf/page1-883px-On_horseback_through_Asia_Minor_%28IA_onhorsebackthrou01burn_0%29.pdf.jpg","alt":"Gölağa Tepe","caption":"Gölağa Tepe","credit":"On horseback through Asia Minor (IA onhorsebackthrou01burn 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6la%C4%9Fa%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872420","tip":"genel"}]
 description: "Tokat'ta yer alan Gölağa Tepe, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Gölağa Tepe","Tokat","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Tokat Turistik Yerler"]

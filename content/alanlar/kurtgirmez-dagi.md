@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurtgirmez%20Da%C4%9F%C4%B1","alt":"Kurtgirmez Dağı","caption":"Kurtgirmez Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Kurtgirmez Dağı","caption":"Kurtgirmez Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtgirmez%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31585965","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin, Kurtgirmez Dağı'nda doğa ile baş başa kalın."
 keywords: ["Kurtgirmez Dağı","Kastamonu","Dağ","Doğa","Turizm","Gezi","Kurtgirmez","Dağcılık","Kastamonu Turistik Yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Masat%20H%C3%BCy%C3%BC%C4%9F%C3%BC","alt":"Masat Hüyüğü","caption":"Masat Hüyüğü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Masat Hüyüğü","caption":"Masat Hüyüğü","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Masat%20H%C3%BCy%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32125065","tip":"genel"}]
 description: "Akdeniz Bölgesi'ndeki Hatay'da bulunan tarihi Masat Hüyüğü, 140 hektarlık geniş bir alanı kaplıyor."
 keywords: ["Masat Hüyüğü","Hatay","Akdeniz Bölgesi","tarih","coğrafya","flora","fauna","ziyaret"]

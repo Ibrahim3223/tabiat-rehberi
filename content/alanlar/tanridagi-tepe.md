@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Trekking","Kamp yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tanr%C4%B1da%C4%9F%C4%B1%20Tepe","alt":"Tanrıdağı Tepe","caption":"Tanrıdağı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"Tanrıdağı Tepe","caption":"Tanrıdağı Tepe","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tanr%C4%B1da%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390143","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin. Tanrıdağı Tepe, Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Tanrıdağı Tepe","Antalya","Akdeniz Bölgesi","Doğa","Gezi","Tarih","Coğrafya"]

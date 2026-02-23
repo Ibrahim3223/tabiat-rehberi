@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","kayak","snowboard"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87i%C3%A7ekli%20Tepesi","alt":"Çiçekli Tepesi","caption":"Çiçekli Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Çiçekli Tepesi","caption":"Çiçekli Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87i%C3%A7ekli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829377","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin en güzel tepelerinden biri olan Çiçekli Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Çiçekli Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","türk doğası","coğrafya","flora","fauna"]

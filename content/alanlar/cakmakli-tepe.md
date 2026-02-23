@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Bisiklet turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87akmakl%C4%B1%20Tepe","alt":"Çakmaklı Tepe","caption":"Çakmaklı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Çakmaklı Tepe","caption":"Çakmaklı Tepe","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87akmakl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34827879","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cevheri, tarihi ve doğal güzelliklerin birleştiği Çakmaklı Tepe"
 keywords: ["Çakmaklı Tepe","İç Anadolu Bölgesi","Çankırı","doğal güzellik","tarihi mekanlar","coğrafi oluşumlar","flora","fauna","gezilecek yerler"]

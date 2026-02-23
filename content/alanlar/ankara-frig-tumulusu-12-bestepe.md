@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Tarih incelemesi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2012%2C%20Be%C5%9Ftepe","alt":"Ankara Frig Tümülüsü 12, Beştepe","caption":"Ankara Frig Tümülüsü 12, Beştepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/State_Magazine_2003-05-_Iss_468_%28IA_sim_state-magazine_2003-05_468%29.pdf/page1-960px-State_Magazine_2003-05-_Iss_468_%28IA_sim_state-magazine_2003-05_468%29.pdf.jpg","alt":"Ankara Frig Tümülüsü 12, Beştepe","caption":"Ankara Frig Tümülüsü 12, Beştepe","credit":"State Magazine 2003-05- Iss 468 (IA sim state-magazine 2003-05 468).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2012%2C%20Be%C5%9Ftepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728278","tip":"genel"}]
 description: "Ankara'nın Yenimahalle ilçesinde bulunan Ankara Frig Tümülüsü 12, Beştepe, tarihi ve doğal güzellikleri bir araya getiren bir destinasyon."
 keywords: ["Ankara","Frig","Tümülüs","Beştepe","Yenimahalle","İç Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","gezi noktaları"]

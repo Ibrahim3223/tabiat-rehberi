@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","tarih keşfi","doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C4%9Fa%C3%A7k%C3%B6y%20%C5%9Eehitli%C4%9Fi%20I","alt":"Ağaçköy Şehitliği I","caption":"Ağaçköy Şehitliği I"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ağaçköy Şehitliği","caption":"Ağaçköy Şehitliği","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Fa%C3%A7k%C3%B6y%20%C5%9Eehitli%C4%9Fi%20I","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728251","tip":"genel"}]
 description: "Kütahya'nın Dumlupınar ilçesinde yer alan Ağaçköy Şehitliği, tarihin izlerini taşıyan özel bir alan."
 keywords: ["Ağaçköy Şehitliği","Dumlupınar","Kütahya","Ege Bölgesi","tarih","doğa","gezi","şehir","ilçe","alan"]

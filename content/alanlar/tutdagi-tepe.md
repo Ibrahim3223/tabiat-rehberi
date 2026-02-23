@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["doğa yürüyüşü","tarihi kalıntıları gezmek","manzara seyretmek","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tutda%C4%9F%C4%B1%20Tepe","alt":"Tutdağı Tepe","caption":"Tutdağı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg","alt":"Tutdağı Tepe","caption":"Tutdağı Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tutda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389464","tip":"genel"}]
 description: "Kahramanmaraş'ın tarihi ve doğal güzelliklerini birleştiren önemli bir destinasyon"
 keywords: ["Tutdağı Tepe","Kahramanmaraş","Akdeniz Bölgesi","doğal güzellik","tarihi mekân","coğrafya","flora","fauna","gezi","ziyaret"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1zkayas%C4%B1","alt":"Kızkayası","caption":"Kızkayası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HEARING_TO_REVIEW_THE_NATIONAL_FOREST_SYSTEM_AND_ACTIVE_FOREST_MANAGEMENT_%28IA_gov.gpo.fdsys.CHRG-114hhrg94655%29.pdf/page1-960px-HEARING_TO_REVIEW_THE_NATIONAL_FOREST_SYSTEM_AND_ACTIVE_FOREST_MANAGEMENT_%28IA_gov.gpo.fdsys.CHRG-114hhrg94655%29.pdf.jpg","alt":"Kızkayası","caption":"Kızkayası","credit":"HEARING TO REVIEW THE NATIONAL FOREST SYSTEM AND ACTIVE FOREST MANAGEMENT (IA gov.gpo.fdsys.CHRG-114hhrg94655).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1zkayas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513955","tip":"genel"}]
 description: "Konya'da bulunan Kızkayası, doğal güzellikleri ile dikkat çeken bir dağdır. 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Kızkayası","Konya","Dağ","Doğal Alan","Yeşil Alan","Turizm","Gezi","Konya Gezilecek Yerler","Dağcılık"]

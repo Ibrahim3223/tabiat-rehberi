@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Mağara gezi","Doğa yürüyüşü","Fotoğrafçılık","Picnic","Kampçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C4%B1ma%C4%9F%C4%B1l%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","alt":"Çımağıl Mağarası Sit Alanı","caption":"Çımağıl Mağarası Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Çımağıl Mağarası Sit Alanı","caption":"Çımağıl Mağarası Sit Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1ma%C4%9F%C4%B1l%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226256","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinesi, Çımağıl Mağarası Sit Alanı"
 keywords: ["Çımağıl Mağarası","Sit Alanı","İç Anadolu Bölgesi","doğa","mağara","gezi","turizm","çevre"]

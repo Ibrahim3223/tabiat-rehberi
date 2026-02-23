@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denize girme","Güneşlenme","Doga yürüyüşleri","Su sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Keramos%20Hamam%C4%B1","alt":"Keramos Hamamı","caption":"Keramos Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Keramos Hamamı","caption":"Keramos Hamamı","credit":"Muğla - Dalyan - İztuzu Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keramos%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245737","tip":"genel"}]
 description: "Ege Bölgesi'nin Muğla ilinin Milas ilçesinde yer alan Keramos Hamamı, 140 hektarlık alanıyla dikkat çekiyor."
 keywords: ["Keramos Hamamı","Milas","Muğla","Ege Bölgesi","plaj","doğa","tatil"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","trekking","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Akkus-Golluce-Kayin","alt":"Giresun-Akkus-Golluce-Kayin","caption":"Giresun-Akkus-Golluce-Kayin"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sis_da%C4%9F%C4%B1_%284%29.jpg/960px-Sis_da%C4%9F%C4%B1_%284%29.jpg","alt":"Giresun-Akkus-Golluce-Kayin","caption":"Giresun-Akkus-Golluce-Kayin","credit":"Sis dağı (4).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Akkus-Golluce-Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228548","tip":"genel"}]
 description: "Giresun'un doğal güzellikleri arasında yer alan milli park, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle dikkat çekiyor."
 keywords: ["Giresun","Akkus","Golluce","Kayin","milli park","doğa","yeşil alan","bitki türleri"]

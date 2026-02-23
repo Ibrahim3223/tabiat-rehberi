@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mendiklihop%C3%BCz%20Tepesi","alt":"Mendiklihopüz Tepesi","caption":"Mendiklihopüz Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Mendiklihopüz Tepesi","caption":"Mendiklihopüz Tepesi","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mendiklihop%C3%BCz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49049203","tip":"genel"}]
 description: "Hatay'da bulunan Mendiklihopüz Tepesi, bölgenin en önemli doğal güzelliklerinden biri. Doğa severler için ideal bir destinasyon."
 keywords: ["Mendiklihopüz Tepesi","Hatay","Dağ","Doğa","Turizm","Gezi","Tepeler","Hatay Turistik Yerler","Doğa Harikaları"]

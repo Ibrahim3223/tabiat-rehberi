@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları gezmek","doğal güzellikleri keşfetmek","rehberli turlara katılmak","etkinliklere katılmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mekteb-i%20T%C4%B1bbiye-i%20%C5%9Eahane%20Hamam%C4%B1","alt":"Mekteb-i Tıbbiye-i Şahane Hamamı","caption":"Mekteb-i Tıbbiye-i Şahane Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Mekteb-i Tıbbiye-i Şahane Hamamı","caption":"Mekteb-i Tıbbiye-i Şahane Hamamı","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mekteb-i%20T%C4%B1bbiye-i%20%C5%9Eahane%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738599","tip":"genel"}]
 description: "Üsküdar'da tarihi ve doğal güzelliğin birleştiği bir mekan"
 keywords: ["Mekteb-i Tıbbiye-i Şahane Hamamı","Üsküdar","İstanbul","Marmara Bölgesi","tarihi mekan","doğal güzellik","gezi","turizm"]

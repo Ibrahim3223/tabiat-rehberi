@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","tarihî mekan ziyaretleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sekiz%20Direkli%20Hamam","alt":"Sekiz Direkli Hamam","caption":"Sekiz Direkli Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Sekiz Direkli Hamam","caption":"Sekiz Direkli Hamam","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sekiz%20Direkli%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738515","tip":"genel"}]
 description: "Trabzon'un Ortahisar ilçesinde yer alan Sekiz Direkli Hamam, Karadeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Sekiz Direkli Hamam","Ortahisar","Trabzon","Karadeniz Bölgesi","doğal alanlar","plaj","turizm"]

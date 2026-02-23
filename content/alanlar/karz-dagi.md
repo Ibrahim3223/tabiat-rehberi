@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karz%20Da%C4%9F%C4%B1","alt":"Karz Dağı","caption":"Karz Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Travels_in_the_Trans-caucasian_Provinces_of_Russia_-_Along_the_Southern_Shore_of_the_Lakes_of_Van_and_Urumiah%2C_in_the_Autumn_and_Winter_of_1837_%28IA_dli.granth.36634%29.pdf/page1-750px-thumbnail.pdf.jpg","alt":"Karz Dağı","caption":"Karz Dağı","credit":"Travels in the Trans-caucasian Provinces of Russia - Along the Southern Shore of the Lakes of Van and Urumiah, in the Autumn and Winter of 1837 (IA dli.granth.36634).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516766","tip":"genel"}]
 description: "Bitlis'te yer alan Karz Dağı, doğa severlerin ziyaret ettiği önemli bir dağ"
 keywords: ["Karz Dağı","Bitlis","Dağ","Doğa","Türkiye","Gezi","Seyahat","Bitlis Gezilecek Yerler","Dağcılık"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Ula-Kizilyaka%20Sigla","alt":"Mugla-Ula-Kizilyaka Sigla","caption":"Mugla-Ula-Kizilyaka Sigla"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Mugla-Ula-Kizilyaka Sigla","caption":"Mugla-Ula-Kizilyaka Sigla","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Ula-Kizilyaka%20Sigla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227716","tip":"genel"}]
 description: "Mugla-Ula-Kizilyaka Sigla milli parkı, doğa severlerin ziyaret etmesi gereken bir yer. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Mugla","Ula","Kizilyaka","Sigla","milli park","doğa","gezi","turizm"]

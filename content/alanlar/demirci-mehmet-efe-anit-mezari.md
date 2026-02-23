@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","dinlenme","tarih öğrenme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Demirci%20Mehmet%20Efe%20An%C4%B1t%20Mezar%C4%B1","alt":"Demirci Mehmet Efe Anıt Mezarı","caption":"Demirci Mehmet Efe Anıt Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Demirci Mehmet Efe Anıt Mezarı","caption":"Demirci Mehmet Efe Anıt Mezarı","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirci%20Mehmet%20Efe%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728110","tip":"genel"}]
 description: "Aydın'ın Nazilli ilçesinde bulunan Demirci Mehmet Efe Anıt Mezarı, önemli bir tarihi figürün anısına edilmiştir."
 keywords: ["Demirci Mehmet Efe","Aydın","Nazilli","tarih","anıt mezar","Ege Bölgesi","coğrafya","gezi"]

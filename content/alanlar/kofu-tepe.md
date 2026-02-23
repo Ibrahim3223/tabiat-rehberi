@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kofu%20Tepe","alt":"Kofu Tepe","caption":"Kofu Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Kofu Tepe","caption":"Kofu Tepe","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kofu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513532","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Kofu Tepe, doğa severlerin ziyaret noktalarından."
 keywords: ["Kofu Tepe","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezi","Kofu Tepe Zirvesi","Doğa Harikaları","Türkiye'nin En Yüksek Noktaları","Dağ Trekking"]

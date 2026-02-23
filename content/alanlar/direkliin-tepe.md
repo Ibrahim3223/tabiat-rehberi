@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Direkliin%20Tepe","alt":"Direkliin Tepe","caption":"Direkliin Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Direkliin Tepe","caption":"Direkliin Tepe","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Direkliin%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390149","tip":"genel"}]
 description: "Antalya'da bulunan tarihi tepe, zengin geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor"
 keywords: ["Direkliin Tepe","Antalya","tarih","doğa","gezi","turizm","Akdeniz Bölgesi","tepe","gezilecek yerler"]

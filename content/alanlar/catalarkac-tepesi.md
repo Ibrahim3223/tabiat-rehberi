@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Catalarka%C3%A7%20Tepesi","alt":"Catalarkaç Tepesi","caption":"Catalarkaç Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf/page1-960px-THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf.jpg","alt":"Catalarkaç Tepesi","caption":"Catalarkaç Tepesi","credit":"THE IDEAL OF HANDICRAFTS AND THE MODERN DESIGN FORMATION COINCIDENCES AND FAILURES.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Catalarka%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34837366","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin. Catalarkaç Tepesi, şehrin merkezine yakın bir konumda yer alır."
 keywords: ["Catalarkaç Tepesi","Ankara","dağ","doğa","gezi","turizm","Ankara gezilecek yerler","Catalarkaç Tepesi hakkında","Ankara'nın dağları"]

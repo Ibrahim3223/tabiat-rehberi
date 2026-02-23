@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["piknik","doğa yürüyüşü","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ser%C3%A7e%20Hamam%C4%B1","alt":"Serçe Hamamı","caption":"Serçe Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Serçe Hamamı","caption":"Serçe Hamamı","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ser%C3%A7e%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739180","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tatil cenneti Şanlıurfa'da bulunan Serçe Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
 keywords: ["Serçe Hamamı","Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa harikası","yeşil alan","futbol sahası"]

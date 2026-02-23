@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","balık tutmak","doğa güzelliğini izlemek","geleneksel köyleri gezmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B0VAS%20%C4%B0MRANLI%20%C4%B0MRANLI%20BARAJ%20G%C3%96L%C3%9C%20VE%20KIZILIRMAK%20KAYNA%C4%9EI%20DO%C4%9EDU%C4%9EU%20YER","alt":"SİVAS İMRANLI İMRANLI BARAJ GÖLÜ VE KIZILIRMAK KAYNAĞI DOĞDUĞU YER","caption":"SİVAS İMRANLI İMRANLI BARAJ GÖLÜ VE KIZILIRMAK KAYNAĞI DOĞDUĞU YER"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"SİVAS İMRANLI İMRANLI BARAJ GÖLÜ VE KIZILIRMAK KAYNAĞI DOĞDUĞU YER","caption":"SİVAS İMRANLI İMRANLI BARAJ GÖLÜ VE KIZILIRMAK KAYNAĞI DOĞDUĞU YER","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B0VAS%20%C4%B0MRANLI%20%C4%B0MRANLI%20BARAJ%20G%C3%96L%C3%9C%20VE%20KIZILIRMAK%20KAYNA%C4%9EI%20DO%C4%9EDU%C4%9EU%20YER","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228933","tip":"genel"}]
 description: "Sivas'ın İmranlı ilçesinde yer alan İmranlı Baraj Gölü ve Kızılırmak'ın kaynağı, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["İmranlı Baraj Gölü","Kızılırmak","Sivas","İmranlı","doğal güzellik","tarihi geçmişi","gezi","turizm"]

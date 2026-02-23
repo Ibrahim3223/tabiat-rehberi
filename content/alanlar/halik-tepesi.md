@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["manzara izleme","tarih incelemesi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Halik%20Tepesi","alt":"Halik Tepesi","caption":"Halik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Halik Tepesi","caption":"Halik Tepesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556441","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini bir araya getiren Halik Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mardin","Halik Tepesi","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","tepe"]

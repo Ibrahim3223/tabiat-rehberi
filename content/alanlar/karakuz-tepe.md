@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Piknik yapmak","Fotograf çekmek","Tarih ve kültür gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karakuz%20Tepe","alt":"Karakuz Tepe","caption":"Karakuz Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf/page1-960px-State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf.jpg","alt":"Karakuz Tepe","caption":"Karakuz Tepe","credit":"State 2009-01- Iss 530 (IA sim state-magazine 2009-01 530).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakuz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387112","tip":"genel"}]
 description: "Ankara'nın gizli cenneti, tarihi ve doğal güzellikleri ile keşfedilmeyi bekliyor."
 keywords: ["Karakuz Tepe","Ankara","İç Anadolu Bölgesi","doğal güzellik","tarih","gezi"]

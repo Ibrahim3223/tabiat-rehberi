@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bak%C4%B1ml%C4%B1%20Da%C4%9F%C4%B1","alt":"Bakımlı Dağı","caption":"Bakımlı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Bakımlı Dağı","caption":"Bakımlı Dağı","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bak%C4%B1ml%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31570980","tip":"genel"}]
 description: "Tokat'ta bulunan Bakımlı Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri keşfedin."
 keywords: ["Bakımlı Dağı","Tokat","Dağ","Doğa","Yeşil Alan","Tokat Turizm","Dağ Turizmi","Doğa Sporları","Tokat Gezi"]

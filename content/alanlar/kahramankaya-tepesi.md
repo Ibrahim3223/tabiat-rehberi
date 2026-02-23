@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","tarihçe gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahramankaya%20Tepesi","alt":"Kahramankaya Tepesi","caption":"Kahramankaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Kahramankaya Tepesi","caption":"Kahramankaya Tepesi","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramankaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31565342","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinesi, Kahramankaya Tepesi'ni keşfedin"
 keywords: ["Kahramankaya Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","tarihçe"]

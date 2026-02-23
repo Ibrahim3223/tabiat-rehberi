@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Manzara izleme","Tarihçe araştırması"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gedik%C3%A7al%20Tepesi","alt":"Gedikçal Tepesi","caption":"Gedikçal Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf/page1-960px-THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf.jpg","alt":"Gedikçal Tepesi","caption":"Gedikçal Tepesi","credit":"THE IDEAL OF HANDICRAFTS AND THE MODERN DESIGN FORMATION COINCIDENCES AND FAILURES.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gedik%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34916013","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzellikleri arasında yer alan Gedikçal Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Gedikçal Tepesi","Ankara","Doğal Alan","Tarihçe","Coğrafya","Flora","Fauna","Ziyaret"]

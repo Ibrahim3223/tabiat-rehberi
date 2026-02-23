@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","tarih turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=M%C3%BCnzevi%20Karde%C5%9Fler%20T%C3%BCrbesi","alt":"Münzevi Kardeşler Türbesi","caption":"Münzevi Kardeşler Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Münzevi Kardeşler Türbesi","caption":"Münzevi Kardeşler Türbesi","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%BCnzevi%20Karde%C5%9Fler%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735146","tip":"genel"}]
 description: "İstanbul'un Eyüpsultan ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Münzevi Kardeşler Türbesi","Eyüpsultan","İstanbul","Marmara Bölgesi","tarih","doğa","plaj","gezi","turizm"]

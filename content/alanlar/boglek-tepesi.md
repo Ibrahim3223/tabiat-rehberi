@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Fotoğrafçılık","Doğa gözlemi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%B6%C4%9Flek%20Tepesi","alt":"Böğlek Tepesi","caption":"Böğlek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Böğlek Tepesi","caption":"Böğlek Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%B6%C4%9Flek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731182","tip":"genel"}]
 description: "Ankara'nın en önemli doğal güzellikleri arasında yer alan Böğlek Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
 keywords: ["Ankara","doğa","tepe","yeşil alan","gezi","turizm","çevre","ekoloji","gezgin"]

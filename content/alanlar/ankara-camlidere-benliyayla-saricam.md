@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara-Camlidere-Benliyayla%20Saricam","alt":"Ankara-Camlidere-Benliyayla Saricam","caption":"Ankara-Camlidere-Benliyayla Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MOKFC07.jpg/960px-MOKFC07.jpg","alt":"Ankara-Camlidere-Benliyayla Saricam","caption":"Ankara-Camlidere-Benliyayla Saricam","credit":"MOKFC07.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Camlidere-Benliyayla%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227549","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, Saricam'da doğanın tadını çıkarın."
 keywords: ["Ankara","Saricam","Camlidere","Benliyayla","doğa","gezi","turizm","milli park","çevre","ekosistem"]

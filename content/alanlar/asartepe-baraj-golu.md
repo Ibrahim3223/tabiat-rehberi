@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Asartepe%20Baraj%20G%C3%B6l%C3%BC","alt":"Asartepe Baraj Gölü","caption":"Asartepe Baraj Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Camping_at_the_Sorgun_Lake.jpg/960px-Camping_at_the_Sorgun_Lake.jpg","alt":"Asartepe Baraj Gölü","caption":"Asartepe Baraj Gölü","credit":"Camping at the Sorgun Lake.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asartepe%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34876680","tip":"genel"}]
 description: "Ankara'da bulunan Asartepe Baraj Gölü, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Asartepe Baraj Gölü","Ankara gölleri","Baraj gölleri","Doğa turizmi","Ankara turizm","Göl gezi","Su sporları","Ankara doğal güzellikleri","Barajlar"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Deliiskan%20Tepesi","alt":"Deliiskan Tepesi","caption":"Deliiskan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf/page1-731px-Journal_of_a_Tour_in_Asia_Minor%2C_with_Comparative_Remarks_on_the_Ancient_and_Modern_Geography_of_that_Country_%28IA_dli.granth.36210%29.pdf.jpg","alt":"Deliiskan Tepesi","caption":"Deliiskan Tepesi","credit":"Journal of a Tour in Asia Minor, with Comparative Remarks on the Ancient and Modern Geography of that Country (IA dli.granth.36210).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deliiskan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390231","tip":"genel"}]
 description: "Burdur'un doğal güzelliklerinden biri olan Deliiskan Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Deliiskan Tepesi","Burdur","Akdeniz Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre","iklim"]

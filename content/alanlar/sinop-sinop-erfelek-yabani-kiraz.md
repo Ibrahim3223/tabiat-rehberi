@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sinop-Sinop-Erfelek-Yabani%20kiraz","alt":"Sinop-Sinop-Erfelek-Yabani kiraz","caption":"Sinop-Sinop-Erfelek-Yabani kiraz"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Sinop-Sinop-Erfelek-Yabani kiraz","caption":"Sinop-Sinop-Erfelek-Yabani kiraz","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Sinop-Erfelek-Yabani%20kiraz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228282","tip":"genel"}]
 description: "Sinop'un Erfelek ilçesinde yer alan milli park, 140 hektarlık yeşil alanı ve yabanî kiraz ağaçlarıyla dikkat çekiyor."
 keywords: ["Sinop","Erfelek","Yabani kiraz","Milli park","Karadeniz Bölgesi","Doğa","Yeşil alan","Turizm"]

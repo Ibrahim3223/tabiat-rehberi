@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["termal sutherapy","doğa yürüyüşü","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sarayc%C4%B1k%20Il%C4%B1cas%C4%B1","alt":"Saraycık Ilıcası","caption":"Saraycık Ilıcası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/In_the_land_of_Ararat%2C_a_sketch_of_the_life_of_Mrs._Elizabeth_Freeman_Barrows_Ussher%2C_missionary_to_Turkey_and_a_martyr_of_the_great_war_%28IA_inlandofararatsk00barr%29.pdf/page1-762px-thumbnail.pdf.jpg","alt":"Saraycık Ilıcası","caption":"Saraycık Ilıcası","credit":"In the land of Ararat, a sketch of the life of Mrs. Elizabeth Freeman Barrows Ussher, missionary to Turkey and a martyr of the great war (IA inlandofararatsk00barr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sarayc%C4%B1k%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741974","tip":"genel"}]
 description: "Manisa'nın gizli cenneti, Saraycık Ilıcası termal kaynakları ve doğası ile ziyaretçilerini bekliyor."
 keywords: ["Saraycık Ilıcası","Manisa","termal kaynak","doğa","turizm","gezi","seyahat","Manisa turizm","termal turizm"]

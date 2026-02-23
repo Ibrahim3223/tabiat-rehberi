@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları ziyaret etmek","Doğa yürüyüşleri","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hersekzade%20Ahmed%20Pa%C5%9Fa%20T%C3%BCrbesi","alt":"Hersekzade Ahmed Paşa Türbesi","caption":"Hersekzade Ahmed Paşa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Hersekzade Ahmed Paşa Türbesi","caption":"Hersekzade Ahmed Paşa Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hersekzade%20Ahmed%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q127786769","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin tarihi durağı, Hersekzade Ahmed Paşa Türbesi'ni keşfedin."
 keywords: ["Hersekzade Ahmed Paşa Türbesi","İç Anadolu Bölgesi","Altınova","Hersek","Tarihi mekanlar","Türbe","Ahmed Paşa"]

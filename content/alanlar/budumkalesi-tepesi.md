@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Budumkalesi%20Tepesi","alt":"Budumkalesi Tepesi","caption":"Budumkalesi Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf/page1-960px-Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf.jpg","alt":"Budumkalesi Tepesi","caption":"Budumkalesi Tepesi","credit":"Orienting our sights on the future - opportunities and challenges of the Arab revolts (IA orientingoursigh00amin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Budumkalesi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557792","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerinin birleştiği Budumkalesi Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Budumkalesi Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tarih","tepe"]

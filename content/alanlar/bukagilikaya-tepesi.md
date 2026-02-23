@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğrafçılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Buka%C4%9F%C4%B1l%C4%B1kaya%20Tepesi","alt":"Bukağılıkaya Tepesi","caption":"Bukağılıkaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Bukağılıkaya Tepesi","caption":"Bukağılıkaya Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buka%C4%9F%C4%B1l%C4%B1kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390747","tip":"genel"}]
 description: "Yozgat'ın doğal güzellikleriyle dolu bir bölgesi olan Bukağılıkaya Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri."
 keywords: ["Yozgat","Bukağılıkaya Tepesi","İç Anadolu Bölgesi","coğrafi nokta","doğal güzellik","tepe","gezi"]

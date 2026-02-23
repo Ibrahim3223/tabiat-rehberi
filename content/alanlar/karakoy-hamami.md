@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karak%C3%B6y%20Hamam%C4%B1","alt":"Karaköy Hamamı","caption":"Karaköy Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Karaköy Hamamı","caption":"Karaköy Hamamı","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karak%C3%B6y%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738739","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, Manisa'nın Yunusemre ilçesinde bulunan Karaköy Hamamı, doğa severlerin yeni durağı."
 keywords: ["Karaköy Hamamı","Manisa","Yunusemre","Ege Bölgesi","doğa","gezi","yerel","turizm"]

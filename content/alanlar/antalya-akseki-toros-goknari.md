@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","kampçılık","yaban hayatı gözlemleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Akseki%20Toros%20Goknari","alt":"Antalya-Akseki Toros Goknari","caption":"Antalya-Akseki Toros Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Antalya-Akseki Toros Goknari","caption":"Antalya-Akseki Toros Goknari","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Akseki%20Toros%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227284","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin doğal güzellikleri arasında yer alan Antalya-Akseki Toros Goknari, 140 hektarlık alanı ile ziyaretçilerini büyülüyor."
 keywords: ["Antalya","Akseki","Toros Goknari","milli park","doğa","gezi","Akdeniz Bölgesi","turizm","çevre"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dikenli%20Da%C4%9F%C4%B1","alt":"Dikenli Dağı","caption":"Dikenli Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Dikenli Dağı","caption":"Dikenli Dağı","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikenli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31579108","tip":"genel"}]
 description: "Erzurum'un görkemli dağlarından biri olan Dikenli Dağı, 1400 metre yüksekliği ile bölgenin önemli doğal güzelliklerinden."
 keywords: ["Dikenli Dağı","Erzurum","Dağ","Doğa","Turizm","Gezi","Trekking","Doğal Güzellik","Erzurum Turizm"]

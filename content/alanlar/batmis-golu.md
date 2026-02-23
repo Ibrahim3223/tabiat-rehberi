@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Batm%C4%B1%C5%9F%20G%C3%B6l%C3%BC","alt":"Batmış Gölü","caption":"Batmış Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Story_of_Turkey_and_Armenia.djvu/page1-800px-Story_of_Turkey_and_Armenia.djvu.jpg","alt":"Batmış Gölü","caption":"Batmış Gölü","credit":"Story of Turkey and Armenia.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Batm%C4%B1%C5%9F%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97217841","tip":"genel"}]
 description: "Bitlis'in Adilcevaz ilçesinde bulunan Batmış Gölü, doğal güzelliği ile dikkat çekiyor."
 keywords: ["Batmış Gölü","Bitlis","Adilcevaz","göl","doğa","turizm","gezi","seyahat","göller"]

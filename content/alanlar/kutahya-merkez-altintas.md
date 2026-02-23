@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kutahya-Merkez%20Alt%C4%B1ntas","alt":"Kutahya-Merkez Altıntas","caption":"Kutahya-Merkez Altıntas"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Kutahya-Merkez Altıntas","caption":"Kutahya-Merkez Altıntas","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Merkez%20Alt%C4%B1ntas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227087","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Kutahya-Merkez Altıntas, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kutahya","Altıntas","milli park","doğal alan","yeşil alan","fiziksel veriler","coğrafya","flora","fauna"]

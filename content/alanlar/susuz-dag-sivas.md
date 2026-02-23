@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Susuz%20Da%C4%9F%20(Sivas)","alt":"Susuz Dağ (Sivas)","caption":"Susuz Dağ (Sivas)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf/page1-960px-Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf.jpg","alt":"Susuz Dağ","caption":"Susuz Dağ","credit":"Harper's New Monthly Magazine, Volume 46.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Susuz%20Da%C4%9F%20(Sivas)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505597","tip":"genel"}]
 description: "Sivas'ta bulunan Susuz Dağ, doğa severler için önemli bir destinasyon. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Susuz Dağ","Sivas","Doğa","Dağ","Yeşil Alan","İstanbul","Türkiye","Seyahat","Gezi"]

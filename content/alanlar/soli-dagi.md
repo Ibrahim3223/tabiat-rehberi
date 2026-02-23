@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eoli%20Da%C4%9F%C4%B1","alt":"Şoli Dağı","caption":"Şoli Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf/page1-960px-Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf.jpg","alt":"Şoli Dağı","caption":"Şoli Dağı","credit":"Diary of H. M. Van Deusen January 29, 1953 to November 17, 1953 (IA diaryhmvandeuse00vanda).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eoli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506035","tip":"genel"}]
 description: "Van'da yer alan Şoli Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Şoli Dağı","Van","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Trekking","Doğal Güzellik"]

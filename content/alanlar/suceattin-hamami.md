@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["yürüyüş","doğa gezileri","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCceattin%20Hamam%C4%B1","alt":"Süceattin Hamamı","caption":"Süceattin Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Süceattin Hamamı","caption":"Süceattin Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCceattin%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738663","tip":"genel"}]
 description: "Eskişehir'in Seyitgazi ilçesinde yer alan Süceattin Hamamı, tarihi ve doğası ile dikkat çekici bir destinasyon."
 keywords: ["Süceattin Hamamı","Eskişehir","Seyitgazi","tarihi yerler","doğa alanları","gezi noktaları","İç Anadolu Bölgesi","turistik yerler","kültür mirası"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","vahşi yaşam gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Eskere-Cicekli%20Kizilagac","alt":"Mugla-Eskere-Cicekli Kizilagac","caption":"Mugla-Eskere-Cicekli Kizilagac"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Mugla-Eskere-Cicekli Kizilagac","caption":"Mugla-Eskere-Cicekli Kizilagac","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Eskere-Cicekli%20Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227733","tip":"genel"}]
 description: "Mugla-Eskere-Cicekli Kizilagac milli parkı, doğal güzellikleri ve zengin fauna çeşitliliğiyle dikkat çekiyor."
 keywords: ["Mugla","Eskere","Cicekli Kizilagac","milli park","doğal güzellik","fauna","çeşitli bitki türleri"]

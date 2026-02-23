@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Fotoğraf çekimi","Yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Kizildag%20MP%20Sedir%201","alt":"Isparta-Kizildag MP Sedir 1","caption":"Isparta-Kizildag MP Sedir 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/P_20180323_124555.jpg/960px-P_20180323_124555.jpg","alt":"Isparta-Kizildag MP Sedir 1","caption":"Isparta-Kizildag MP Sedir 1","credit":"P 20180323 124555.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Kizildag%20MP%20Sedir%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227605","tip":"genel"}]
 description: "Isparta'da yer alan Isparta-Kizildag MP Sedir 1, Akdeniz Bölgesi'nin doğal güzelliklerini sunan bir milli parktır."
 keywords: ["Isparta","Kizildag","Milli Park","Sedir","Akdeniz Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı"]

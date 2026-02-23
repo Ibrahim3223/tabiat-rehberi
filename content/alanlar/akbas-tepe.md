@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğrafçılık","doğa keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akba%C5%9F%20Tepe","alt":"Akbaş Tepe","caption":"Akbaş Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HEARING_TO_REVIEW_THE_NATIONAL_FOREST_SYSTEM_AND_ACTIVE_FOREST_MANAGEMENT_%28IA_gov.gpo.fdsys.CHRG-114hhrg94655%29.pdf/page1-960px-HEARING_TO_REVIEW_THE_NATIONAL_FOREST_SYSTEM_AND_ACTIVE_FOREST_MANAGEMENT_%28IA_gov.gpo.fdsys.CHRG-114hhrg94655%29.pdf.jpg","alt":"Akbaş Tepe","caption":"Akbaş Tepe","credit":"HEARING TO REVIEW THE NATIONAL FOREST SYSTEM AND ACTIVE FOREST MANAGEMENT (IA gov.gpo.fdsys.CHRG-114hhrg94655).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akba%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390460","tip":"genel"}]
 description: "Konya'nın görkemli doğal güzelliklerinden biri olan Akbaş Tepe, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle bekliyor."
 keywords: ["Konya","İç Anadolu Bölgesi","doğal güzellik","tarih","coğrafya","gezi","turizm","Akbaş Tepe","tepe","anadolu"]

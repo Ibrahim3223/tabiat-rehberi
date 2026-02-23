@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük ziyaret"
 aktiviteler: ["Denize girme","Güneşlenme","Su sporları","Kuş gözlemciliği","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Sinan%20Hamam%C4%B1","alt":"Şeyh Sinan Hamamı","caption":"Şeyh Sinan Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Şeyh Sinan Hamamı","caption":"Şeyh Sinan Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Sinan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738840","tip":"genel"}]
 description: "İstanbul'un gizli cenneti Şeyh Sinan Hamamı, Çatalca'da yer alan doğal bir plaj"
 keywords: ["Şeyh Sinan Hamamı","Çatalca","İstanbul","Marmara Bölgesi","doğal plaj","deniz","kumsal","turizm","gezi"]

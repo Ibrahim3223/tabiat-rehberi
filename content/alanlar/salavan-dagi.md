@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Salavan%20Da%C4%9F%C4%B1","alt":"Salavan Dağı","caption":"Salavan Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg","alt":"Salavan Dağı","caption":"Salavan Dağı","credit":"Kayaözü Creek Valley, Kahramanmaraş 03.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Salavan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31507864","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Salavan Dağı, doğa severlerin ziyaret ettiği önemli bir dağdır."
 keywords: ["Salavan Dağı","Kahramanmaraş","Dağ","Doğa","Türkiye","Gezi","Seyahat","Dağcılık","Kahramanmaraş Turizm"]

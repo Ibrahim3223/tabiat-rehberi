@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-5 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Delikta%C5%9Fda%C4%9F%C4%B1%20Tepesi","alt":"Deliktaşdağı Tepesi","caption":"Deliktaşdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Deliktaşdağı Tepesi","caption":"Deliktaşdağı Tepesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Delikta%C5%9Fda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388434","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin önemli coğrafya oluşumlarından biri olan Deliktaşdağı Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için bir hazine"
 keywords: ["Deliktaşdağı Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","coğrafya","tepe","dağ"]

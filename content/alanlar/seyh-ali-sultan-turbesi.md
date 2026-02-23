@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Tarihi araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Ali%20Sultan%20T%C3%BCrbesi","alt":"Şeyh Ali Sultan Türbesi","caption":"Şeyh Ali Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia%3B_with_some_account_of_their_antiquities_and_geology_02_%28researchesinasia02hami%29.pdf/page1-764px-Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia%3B_with_some_account_of_their_antiquities_and_geology_02_%28researchesinasia02hami%29.pdf.jpg","alt":"Şeyh Ali Sultan Türbesi","caption":"Şeyh Ali Sultan Türbesi","credit":"Researches in Asia Minor, Pontus, and Armenia; with some account of their antiquities and geology 02 (researchesinasia02hami).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Ali%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390848","tip":"genel"}]
 description: "Karaman'ın tarihi ve doğal güzellikleri arasında yer alan Şeyh Ali Sultan Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Karaman","Şeyh Ali Sultan Türbesi","tarih","doğa","gezi","türbe","Karaman gezi rehberi","tarihi mekanlar","doğal güzellikler"]

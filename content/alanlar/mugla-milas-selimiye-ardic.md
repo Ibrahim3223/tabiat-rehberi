@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Milas-Selimiye-Ard%C4%B1c","alt":"Mugla-Milas-Selimiye-Ardıc","caption":"Mugla-Milas-Selimiye-Ardıc"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Marmaris_Macera_Park.jpg/960px-Marmaris_Macera_Park.jpg","alt":"Mugla-Milas-Selimiye-Ardıc","caption":"Mugla-Milas-Selimiye-Ardıc","credit":"Marmaris Macera Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Milas-Selimiye-Ard%C4%B1c","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228279","tip":"genel"}]
 description: "Muğla'nın tarihi ve doğal güzelliklerini keşfedin. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna."
 keywords: ["Muğla","Milas","Selimiye","Ardıc","Milli Park","Doğa","Tarih","Gezi"]

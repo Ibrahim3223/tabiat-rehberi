@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşleri","Bitki ve hayvan türleri gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Konya-Ermenek-Kazanci%20Sedir%202","alt":"Konya-Ermenek-Kazanci Sedir 2","caption":"Konya-Ermenek-Kazanci Sedir 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Konya-Ermenek-Kazanci Sedir 2","caption":"Konya-Ermenek-Kazanci Sedir 2","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Ermenek-Kazanci%20Sedir%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227612","tip":"genel"}]
 description: "Konya'nın Ermenek ilçesinde yer alan milli park, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle dikkat çekiyor."
 keywords: ["Konya","Ermenek","Kazancı","Sedir","Milli Park","Doğa","Yeşil Alan","Bitki Türleri"]

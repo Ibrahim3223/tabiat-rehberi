@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","coğrafya keşfi","flora ve fauna gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sel%C3%A7uklu%20Evliya%20T%C3%BCrbesi","alt":"Selçuklu Evliya Türbesi","caption":"Selçuklu Evliya Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_universal_geography_-_the_earth_and_its_inhabitants_%28IA_cu31924095158998%29.pdf/page1-960px-The_universal_geography_-_the_earth_and_its_inhabitants_%28IA_cu31924095158998%29.pdf.jpg","alt":"Selçuklu Evliya Türbesi","caption":"Selçuklu Evliya Türbesi","credit":"The universal geography - the earth and its inhabitants (IA cu31924095158998).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sel%C3%A7uklu%20Evliya%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391696","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerine sahip bir bölge olan Kars'ta bulunan Selçuklu Evliya Türbesi, ziyaretçilerini tarihi ve coğrafi güzelliği ile etkilemektedir."
 keywords: ["Kars","Doğu Anadolu Bölgesi","Selçuklu Evliya Türbesi","tarih","kültür","coğrafya","gezi","turizm","türk kültür mirası"]

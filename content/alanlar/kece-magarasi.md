@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ke%C3%A7e%20Ma%C4%9Faras%C4%B1","alt":"Keçe Mağarası","caption":"Keçe Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg","alt":"Keçe Mağarası","caption":"Keçe Mağarası","credit":"Kayaözü Creek Valley, Kahramanmaraş 03.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C3%A7e%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q125536847","tip":"genel"}]
 description: "Kahramanmaraş Elbistan'da bulunan Keçe Mağarası, jeopark olarak dikkat çekiyor."
 keywords: ["Keçe Mağarası","Kahramanmaraş","Elbistan","Jeopark","Mağara","Turizm","Doğa","Gezi","Türkiye"]

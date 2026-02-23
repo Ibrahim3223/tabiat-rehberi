@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","orman gezi","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Senirkent%20Sedir","alt":"Isparta-Senirkent Sedir","caption":"Isparta-Senirkent Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/P_20180323_133309-01.jpg/960px-P_20180323_133309-01.jpg","alt":"Isparta-Senirkent Sedir","caption":"Isparta-Senirkent Sedir","credit":"P 20180323 133309-01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Senirkent%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227609","tip":"genel"}]
 description: "Isparta'da bulunan Sedir Ormanı'nın güzelliği ve tarihi"
 keywords: ["Isparta","Sedir Ormanı","milli park","doğa","orman","gezi","turizm","Akdeniz Bölgesi","Sedir"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Kültürel etkinlikler","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abdurrahman%20Sultan%20T%C3%BCrbesi","alt":"Abdurrahman Sultan Türbesi","caption":"Abdurrahman Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Abdurrahman Sultan Türbesi","caption":"Abdurrahman Sultan Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdurrahman%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390601","tip":"genel"}]
 description: "Afyonkarahisar'ın Başmakçı ilçesinde bulunan tarihi Abdurrahman Sultan Türbesi, Ege Bölgesi'nin önemli dini merkezlerinden biri."
 keywords: ["Abdurrahman Sultan Türbesi","Başmakçı","Afyonkarahisar","Ege Bölgesi","tarihi mekan","dini merkez","türbe","gezi rehberi"]

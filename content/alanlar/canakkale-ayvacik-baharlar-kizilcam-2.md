@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Canakkale-Ayvacik-Baharlar%20K%C4%B1z%C4%B1l%C3%A7am%202","alt":"Canakkale-Ayvacik-Baharlar Kızılçam 2","caption":"Canakkale-Ayvacik-Baharlar Kızılçam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf/page1-960px-Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf.jpg","alt":"Canakkale-Ayvacik-Baharlar Kızılçam 2","caption":"Canakkale-Ayvacik-Baharlar Kızılçam 2","credit":"Effects of forest fire on physical, chemical and biological soil properties.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Ayvacik-Baharlar%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227325","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide mekanlarından biri olan milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["milli park","Marmara Bölgesi","çevre","doğa","gezi","çanakkale","ayvacık","baharlar","kızılçam"]

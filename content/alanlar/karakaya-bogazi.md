@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karakaya%20Bo%C4%9Faz%C4%B1","alt":"Karakaya Boğazı","caption":"Karakaya Boğazı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Karakaya Boğazı","caption":"Karakaya Boğazı","credit":"VallesMarinerisHuge.jpg","license":"Attribution"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakaya%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49342953","tip":"genel"}]
 description: "Kastamonu'da yer alan Karakaya Boğazı, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Karakaya Boğazı","Kastamonu","kanyon","doğa","turizm","gezi","yerel","çevre","ekosistem"]

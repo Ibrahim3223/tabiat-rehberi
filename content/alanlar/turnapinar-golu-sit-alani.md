@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","balık tutma","su sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Turnap%C4%B1nar%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","alt":"Turnapınar Gölü Sit Alanı","caption":"Turnapınar Gölü Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Turnapınar Gölü Sit Alanı","caption":"Turnapınar Gölü Sit Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turnap%C4%B1nar%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226224","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Turnapınar Gölü Sit Alanı, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir."
 keywords: ["Turnapınar Gölü","Sit Alanı","İç Anadolu Bölgesi","Doğal Alan","Göl","Flora","Fauna"]

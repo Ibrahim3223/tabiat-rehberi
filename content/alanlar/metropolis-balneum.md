@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denize girmek","Su sporları","Güneşlenmek","Yürüyüş yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Metropolis%20Balneum","alt":"Metropolis Balneum","caption":"Metropolis Balneum"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg","alt":"Metropolis Balneum","caption":"Metropolis Balneum","credit":"Süzer Sun Dreams Beach 12 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Metropolis%20Balneum","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739215","tip":"genel"}]
 description: "Torbalı'nın güzel plajlarından biri olan Metropolis Balneum, Ege Bölgesi'nin en güzel kıyılarını sunuyor."
 keywords: ["Metropolis Balneum","Torbalı","İzmir","Ege Bölgesi","plaj","deniz","kumsal","turizm","gezi"]

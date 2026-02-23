@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","flora ve fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87engel%20Tepesi","alt":"Çengel Tepesi","caption":"Çengel Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Çengel Tepesi","caption":"Çengel Tepesi","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87engel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828947","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerini keşfedin, Çengel Tepesi'ni ziyaret edin"
 keywords: ["Çengel Tepesi","Denizli","Ege Bölgesi","doğa","tepe","gezi","turizm","çevre","ekosistem"]

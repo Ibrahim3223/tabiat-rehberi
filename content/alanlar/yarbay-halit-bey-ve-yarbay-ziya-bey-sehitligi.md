@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Şehitli ve çevresini gezmek","Tarihi geçmişi öğrenmek","Yeşil alanlarda dinlenmek","Çevre gezileri yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yarbay%20Halit%20Bey%20ve%20Yarbay%20Ziya%20Bey%20%C5%9Eehitli%C4%9Fi","alt":"Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği","caption":"Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği","caption":"Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yarbay%20Halit%20Bey%20ve%20Yarbay%20Ziya%20Bey%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728264","tip":"genel"}]
 description: "Çanakkale'nin Eceabat ilçesinde bulunan Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği, Türk milletinin bağımsızlık mücadelesinin önemli sembollerinden biri."
 keywords: ["Yarbay Halit Bey","Yarbay Ziya Bey","Şehitlik","Eceabat","Çanakkale","Tarih","Müze","Anıtkabir"]

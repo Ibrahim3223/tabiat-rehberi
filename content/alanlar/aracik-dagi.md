@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arac%C4%B1k%20Da%C4%9F%C4%B1","alt":"Aracık Dağı","caption":"Aracık Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dar-ul-Islam%3B_a_record_of_a_journey_through_ten_of_the_Asiatic_provinces_of_Turkey_%28IA_darulislamrecord00syke%29.pdf/page1-866px-Dar-ul-Islam%3B_a_record_of_a_journey_through_ten_of_the_Asiatic_provinces_of_Turkey_%28IA_darulislamrecord00syke%29.pdf.jpg","alt":"Aracık Dağı","caption":"Aracık Dağı","credit":"Dar-ul-Islam; a record of a journey through ten of the Asiatic provinces of Turkey (IA darulislamrecord00syke).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arac%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31532045","tip":"genel"}]
 description: "Iğdır'da bulunan Aracık Dağı, 1400 metre yüksekliğiyle bölgenin önemli coğrafi oluşumlarından biri."
 keywords: ["Aracık Dağı","Iğdır","Dağ","Coğrafi Oluşum","Doğa","Türkiye","Gezi","Seyahat","Iğdır Turizm"]

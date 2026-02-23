@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa gezisi","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mangal%20Da%C4%9F%C4%B1%20%C5%9Eehitli%C4%9Fi","alt":"Mangal Dağı Şehitliği","caption":"Mangal Dağı Şehitliği"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Mangal Dağı Şehitliği","caption":"Mangal Dağı Şehitliği","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mangal%20Da%C4%9F%C4%B1%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728259","tip":"genel"}]
 description: "Ankara'nın Haymana ilçesinde bulunan Mangal Dağı Şehitliği, doğa ve tarih severler için önemli bir destinasyon."
 keywords: ["Mangal Dağı Şehitliği","Ankara","Haymana","doğa","tarih","şehirlik","gezi","turlar"]

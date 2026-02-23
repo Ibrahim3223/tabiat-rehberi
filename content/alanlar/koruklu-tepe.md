@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koruklu%20Tepe","alt":"Koruklu Tepe","caption":"Koruklu Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/View_from_Dagyenice.jpg/960px-View_from_Dagyenice.jpg","alt":"Koruklu Tepe","caption":"Koruklu Tepe","credit":"View from Dagyenice.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koruklu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387043","tip":"genel"}]
 description: "Bursa'nın gizli hazinesi Koruklu Tepe, Marmara Bölgesi'nin eşsiz doğası"
 keywords: ["Koruklu Tepe","Bursa","Marmara Bölgesi","doğa","tepe","gezi","tarihçe","coğrafya"]

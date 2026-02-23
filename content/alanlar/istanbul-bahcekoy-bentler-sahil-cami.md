@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["ibadet","doğa yürüyüşü","fotografcılık","mimari keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Istanbul-Bahcekoy-Bentler%20Sahil%20Cami","alt":"Istanbul-Bahcekoy-Bentler Sahil Cami","caption":"Istanbul-Bahcekoy-Bentler Sahil Cami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG/960px-Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG","alt":"Istanbul-Bahcekoy-Bentler Sahil Cami","caption":"Istanbul-Bahcekoy-Bentler Sahil Cami","credit":"Prise de l'Hôtel de ville - le Pont d'Arcole.JPG","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Bahcekoy-Bentler%20Sahil%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227280","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide şehri İstanbul'da yer alan Bahçeköy Bentler Sahil Cami, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["İstanbul","Bahçeköy","Bentler Sahil Cami","Marmara Bölgesi","doğa","tarih","mimarlık","gezi","ziyaret"]

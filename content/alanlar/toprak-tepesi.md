@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğraf çekimi","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Toprak%20Tepesi","alt":"Toprak Tepesi","caption":"Toprak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_gri_westernworld00king%29.pdf/page1-647px-The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_gri_westernworld00king%29.pdf.jpg","alt":"Toprak Tepesi","caption":"Toprak Tepesi","credit":"The western world. Picturesque sketches of nature and natural history in North and South America (IA gri westernworld00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toprak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504380","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, 140 hektarlık yeşil alan"
 keywords: ["Toprak Tepesi","İç Anadolu Bölgesi","doğa","gezilecek yerler","tepe","yeşil alan","gezi","turizm"]

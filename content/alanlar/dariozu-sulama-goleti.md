@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dar%C4%B1%C3%B6z%C3%BC%20Sulama%20G%C3%B6leti","alt":"Darıözü Sulama Göleti","caption":"Darıözü Sulama Göleti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Lake_Seyfe_-_panoramio.jpg/960px-Lake_Seyfe_-_panoramio.jpg","alt":"Darıözü Sulama Göleti","caption":"Darıözü Sulama Göleti","credit":"Lake Seyfe - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dar%C4%B1%C3%B6z%C3%BC%20Sulama%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34882508","tip":"genel"}]
 description: "Kırşehir'de bulunan Darıözü Sulama Göleti, bölgenin sulama ihtiyacını karşılayan önemli bir su kaynağı."
 keywords: ["Darıözü Sulama Göleti","Kırşehir","gölet","sulama","su kaynağı","Kırşehir göletleri","Darıözü","su havzası","çevre"]

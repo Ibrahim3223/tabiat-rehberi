@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kavelik%20Tepesi","alt":"Kavelik Tepesi","caption":"Kavelik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Kavelik Tepesi","caption":"Kavelik Tepesi","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavelik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388708","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerinden biri olan Kavelik Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kavelik Tepesi","Muğla","Ege Bölgesi","doğa","gezi","tepe","manzara","çevre","ekoloji"]

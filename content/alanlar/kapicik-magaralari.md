@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kap%C4%B1c%C4%B1k%20Ma%C4%9Faralar%C4%B1","alt":"Kapıcık Mağaraları","caption":"Kapıcık Mağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Kapıcık Mağaraları","caption":"Kapıcık Mağaraları","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kap%C4%B1c%C4%B1k%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319315","tip":"genel"}]
 description: "Batman'da yer alan Kapıcık Mağaraları, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzelliği keşfedin!"
 keywords: ["Kapıcık Mağaraları","Batman Jeopark","Doğal Alanlar","Mağara Gezileri","Jeoparklar","Batman Turizm","Doğa Sporları","Mağara Keşifleri","Jeolojik Miras"]

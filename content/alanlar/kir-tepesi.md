@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Flora ve fauna gözlemi","Kültürel etkinliklere katılım"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1r%20Tepesi","alt":"Kır Tepesi","caption":"Kır Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Kır Tepesi","caption":"Kır Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388015","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli köşesi, tarihi ve coğrafyası ile dikkat çekici bir tepe"
 keywords: ["Kır Tepesi","İç Anadolu Bölgesi","coğrafya","tarih","doğa","gezi","turizm","tepe","çevre"]

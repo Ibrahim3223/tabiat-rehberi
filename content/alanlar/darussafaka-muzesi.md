@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Historik eserleri inceleme","Yeşil alanlarda yürüyüş","Fotograf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dar%C3%BC%C5%9F%C5%9Fafaka%20M%C3%BCzesi","alt":"Darüşşafaka Müzesi","caption":"Darüşşafaka Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Serenity_in_nature.jpg/960px-Serenity_in_nature.jpg","alt":"Darüşşafaka Müzesi","caption":"Darüşşafaka Müzesi","credit":"Serenity in nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dar%C3%BC%C5%9F%C5%9Fafaka%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132681982","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından olan Darüşşafaka Müzesi, ziyaretçilerini bekliyor."
 keywords: ["Darüşşafaka","Müze","İstanbul","Tarih","Kültür","Eğitim","Marmara Bölgesi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","doğa yürüyüşü","fotoğraf çekimi","tarihi yerleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kocaarmut%20Tepesi","alt":"Kocaarmut Tepesi","caption":"Kocaarmut Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/The_Eagle_Rock_-_panoramio.jpg/960px-The_Eagle_Rock_-_panoramio.jpg","alt":"Kocaarmut Tepesi","caption":"Kocaarmut Tepesi","credit":"The Eagle Rock - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocaarmut%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390621","tip":"genel"}]
 description: "Kırşehir'in doğal güzelliklerine ev sahipliği yapan Kocaarmut Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Kocaarmut Tepesi","Kırşehir","doğa","gezi","tepe","manzara","turizm","İç Anadolu Bölgesi","coğrafya"]

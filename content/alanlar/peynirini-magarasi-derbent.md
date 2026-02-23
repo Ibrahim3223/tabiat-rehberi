@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Fotoğraf çekme","Doğa gözlemi","Jeoloji nghiênmesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Peynirini%20Ma%C4%9Faras%C4%B1%20(Derbent)","alt":"Peynirini Mağarası (Derbent)","caption":"Peynirini Mağarası (Derbent)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Peynirini Mağarası (Derbent)","caption":"Peynirini Mağarası (Derbent)","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Peynirini%20Ma%C4%9Faras%C4%B1%20(Derbent)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Konya'nın İç Anadolu Bölgesi'nde yer alan Peynirini Mağarası, 140 milyon yıllık jeolojik geçmişe sahip."
 keywords: ["Peynirini Mağarası","Derbent","Konya","İç Anadolu Bölgesi","Mağara","Jeoloji","Turizm","Doğa","Gezi"]

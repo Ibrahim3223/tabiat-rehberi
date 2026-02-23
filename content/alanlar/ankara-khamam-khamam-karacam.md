@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşü","Çiçek İzleme","Orman Gezisi","Vadi Gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara-K.Hamam-K.Hamam-Kara%C3%A7am","alt":"Ankara-K.Hamam-K.Hamam-Karaçam","caption":"Ankara-K.Hamam-K.Hamam-Karaçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MOKFC13.jpg/960px-MOKFC13.jpg","alt":"Ankara-K.Hamam-K.Hamam-Karaçam","caption":"Ankara-K.Hamam-K.Hamam-Karaçam","credit":"MOKFC13.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-K.Hamam-K.Hamam-Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228438","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Ankara-K.Hamam-K.Hamam-Karaçam, ziyaretçilerini bekliyor. Doğal güzellikleri ve zengin fauna çeşitliliği ile ön plana çıkan bu bölge, her yıl binlerce ziyaretçi tarafından tercih ediliyor."
 keywords: ["Ankara","Kızılcahamam","Karaçam","Milli Park","Doğal Güzellik","Flora","Fauna","Ziyaret","Gezi"]

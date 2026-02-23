@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0n%C3%BCst%C3%BC%20Tepesi","alt":"İnüstü Tepesi","caption":"İnüstü Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"İnüstü Tepesi","caption":"İnüstü Tepesi","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0n%C3%BCst%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810520","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin. İnüstü Tepesi, İç Anadolu Bölgesi'nde yer alan bir tepe"
 keywords: ["Kayseri","İnüstü Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","kayseri gezilecek yerler","kayseri turizm"]

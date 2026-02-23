@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğraf çekimi","Picnic","Yaban hayvanları izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1%C4%9F%C4%B1ryata%C4%9F%C4%B1%20Tepesi","alt":"Sığıryatağı Tepesi","caption":"Sığıryatağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Sığıryatağı Tepesi","caption":"Sığıryatağı Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1%C4%9F%C4%B1ryata%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390034","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Sığıryatağı Tepesi, 140 hektarlık geniş bir alanı kaplar. Bu tepenin etrafında çeşitli bitki türleri ve zengin fauna bulunur."
 keywords: ["Sığıryatağı Tepesi","Ankara","İç Anadolu Bölgesi","Doğa","Tepeler","Flora","Fauna","Gezilecek Yerler"]

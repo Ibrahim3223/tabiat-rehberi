@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arasa%20Tepe","alt":"Arasa Tepe","caption":"Arasa Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf/page1-960px-Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf.jpg","alt":"Arasa Tepe","caption":"Arasa Tepe","credit":"Effects of forest fire on physical, chemical and biological soil properties.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arasa%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387526","tip":"genel"}]
 description: "Çanakkale'nin gizli köşesi, tarihi ve doğal güzellikler sunan Arasa Tepe"
 keywords: ["Arasa Tepe","Çanakkale","Marmara Bölgesi","tepe","tarihçe","coğrafya","flora","fauna","ziyaret"]

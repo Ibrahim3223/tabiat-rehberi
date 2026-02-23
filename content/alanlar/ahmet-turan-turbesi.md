@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları gezmek","kültürel etkinliklere katılmak","çevre gezileri yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ahmet%20Turan%20T%C3%BCrbesi","alt":"Ahmet Turan Türbesi","caption":"Ahmet Turan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Ahmet Turan Türbesi","caption":"Ahmet Turan Türbesi","credit":"Malatya turgut ozal nature park view.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahmet%20Turan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390902","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Ahmet Turan Türbesi, Malatya'nın Battalgazi ilçesinde yer alır. Tarihi ve kültürel bir öneme sahiptir."
 keywords: ["Ahmet Turan Türbesi","Battalgazi","Malatya","Doğu Anadolu Bölgesi","tarihi mekan","kültürel öneme sahip","türbe","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kirmizkaya%20Tepe","alt":"Kirmizkaya Tepe","caption":"Kirmizkaya Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf/page1-960px-Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf.jpg","alt":"Kirmizkaya Tepe","caption":"Kirmizkaya Tepe","credit":"Harper's New Monthly Magazine, Volume 46.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirmizkaya%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556031","tip":"genel"}]
 description: "Mardin'de bulunan Kirmizkaya Tepe, 1200 metre yüksekliğiyle dikkat çeker. Doğal güzelliği ve tarihi önemiyle ziyaretçilerini bekliyor."
 keywords: ["Kirmizkaya Tepe","Mardin","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Mardin Gezilecek Yerler"]

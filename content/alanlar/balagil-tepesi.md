@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"," Piknik","Tarihî alanları ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bala%C4%9F%C4%B1l%20Tepesi","alt":"Balağıl Tepesi","caption":"Balağıl Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Balağıl Tepesi","caption":"Balağıl Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bala%C4%9F%C4%B1l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31530815","tip":"genel"}]
 description: "Eskişehir'in gizli köşesi, Balağıl Tepesi'ni keşfedin. İç Anadolu Bölgesi'nin yeşillikler içindeki bu noktası, doğa severler için bir cennet."
 keywords: ["Balağıl Tepesi","Eskişehir","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","yerel","coğrafya"]

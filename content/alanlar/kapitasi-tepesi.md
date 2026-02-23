@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kap%C4%B1ta%C5%9F%C4%B1%20Tepesi","alt":"Kapıtaşı Tepesi","caption":"Kapıtaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Kapıtaşı Tepesi","caption":"Kapıtaşı Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kap%C4%B1ta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389361","tip":"genel"}]
 description: "Mersin'de bulunan Kapıtaşı Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Mersin","Akdeniz Bölgesi","Kapıtaşı Tepesi","doğal güzellik","tepe","coğrafya"]

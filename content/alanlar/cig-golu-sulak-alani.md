@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87i%C4%9F%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Çiğ Gölü Sulak Alanı","caption":"Çiğ Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Çiğ Gölü Sulak Alanı","caption":"Çiğ Gölü Sulak Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87i%C4%9F%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228869","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Çiğ Gölü Sulak Alanı, zengin fauna ve florasıyla dikkat çekiyor."
 keywords: ["Çiğ Gölü","Sulak Alanı","İç Anadolu Bölgesi","Doğa","Flora","Fauna","Sulak Alan","Göl"]

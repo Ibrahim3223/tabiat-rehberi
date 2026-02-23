@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Ula%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mugla-Ula Kızılçam","caption":"Mugla-Ula Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chameleon_in_Turkish_forest_%282%29.jpg/960px-Chameleon_in_Turkish_forest_%282%29.jpg","alt":"Mugla-Ula Kızılçam","caption":"Mugla-Ula Kızılçam","credit":"Chameleon in Turkish forest (2).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Ula%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227464","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin"
 keywords: ["Muğla","Ula","Kızılçam","milli park","doğa","gezi","turizm"]

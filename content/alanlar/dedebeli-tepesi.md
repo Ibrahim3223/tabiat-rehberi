@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dedebeli%20Tepesi","alt":"Dedebeli Tepesi","caption":"Dedebeli Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf/page1-960px-THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf.jpg","alt":"Dedebeli Tepesi","caption":"Dedebeli Tepesi","credit":"THE IDEAL OF HANDICRAFTS AND THE MODERN DESIGN FORMATION COINCIDENCES AND FAILURES.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedebeli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557507","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde bulunan Dedebeli Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Dedebeli Tepesi","Ankara","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","coğrafya","tarihçe","doğa","gezi"]

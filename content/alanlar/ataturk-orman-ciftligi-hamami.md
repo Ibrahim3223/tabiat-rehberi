@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarihi yapıları gezme","konaklama"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Atat%C3%BCrk%20Orman%20%C3%87iftli%C4%9Fi%20Hamam%C4%B1","alt":"Atatürk Orman Çiftliği Hamamı","caption":"Atatürk Orman Çiftliği Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf/page1-960px-State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf.jpg","alt":"Atatürk Orman Çiftliği Hamamı","caption":"Atatürk Orman Çiftliği Hamamı","credit":"State August-September 1981- Iss 281 (IA sim state-magazine august-september-1981 281).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atat%C3%BCrk%20Orman%20%C3%87iftli%C4%9Fi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738838","tip":"genel"}]
 description: "Atatürk Orman Çiftliği Hamamı, İç Anadolu Bölgesi'nde yer alan bir doğa harikası"
 keywords: ["Atatürk Orman Çiftliği","Hamamı","İç Anadolu Bölgesi","doğa","gezi","yazlık","kamp"]

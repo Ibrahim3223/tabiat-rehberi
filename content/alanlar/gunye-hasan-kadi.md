@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gunye-Hasan%20Kadi","alt":"Gunye-Hasan Kadi","caption":"Gunye-Hasan Kadi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Gunye-Hasan Kadi","caption":"Gunye-Hasan Kadi","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gunye-Hasan%20Kadi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227882","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, doğa severlerin yeni durağı"
 keywords: ["milli park","doğa","gezi","İç Anadolu Bölgesi","Gunye-Hasan Kadi","yaban hayatı","ekosistem"]

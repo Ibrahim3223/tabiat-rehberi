@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["höyüğün etrafındaki manzaraları görmek","bölgenin tarihi geçmişi hakkında bilgi edinmek","doğal güzellikleri keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Amudeh%C3%BCy%C3%BC%C4%9F%C3%BC","alt":"Amudehüyüğü","caption":"Amudehüyüğü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Amudehüyüğü","caption":"Amudehüyüğü","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amudeh%C3%BCy%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386873","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Amudehüyüğü","Mardin","Güneydoğu Anadolu Bölgesi","tarih","kültür","coğrafya","doğa","gezi"]

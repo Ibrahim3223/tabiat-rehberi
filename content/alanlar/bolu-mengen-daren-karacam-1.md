@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Mengen-Daren%20Karacam%201","alt":"Bolu-Mengen-Daren Karacam 1","caption":"Bolu-Mengen-Daren Karacam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bolu-20191012-163038.jpg/960px-Bolu-20191012-163038.jpg","alt":"Bolu-Mengen-Daren Karacam 1","caption":"Bolu-Mengen-Daren Karacam 1","credit":"Bolu-20191012-163038.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Mengen-Daren%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227488","tip":"genel"}]
 description: "Bolu'nun Mengen ilçesinde yer alan milli park, doğa severlerin gözdesi"
 keywords: ["Bolu","Mengen","milli park","doğa","turizm","gezi","yaban hayatı","çevre"]

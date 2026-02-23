@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Mustafakemalpa%C5%9Fa-pa%C5%9Falar%20Karacam","alt":"Bursa-Mustafakemalpaşa-paşalar Karacam","caption":"Bursa-Mustafakemalpaşa-paşalar Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Myotis_alcathoe_range.svg/960px-Myotis_alcathoe_range.svg.png","alt":"Bursa-Mustafakemalpaşa-paşalar Karacam","caption":"Bursa-Mustafakemalpaşa-paşalar Karacam","credit":"Myotis alcathoe range.svg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-pa%C5%9Falar%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227937","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Bursa'da yer alan bir milli park. Doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor."
 keywords: ["Bursa","Marmara Bölgesi","milli park","doğa","tarih","gezi","turizm","çevre","ekoloji"]

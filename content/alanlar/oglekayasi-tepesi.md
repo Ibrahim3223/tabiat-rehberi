@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","kampçılık","doğa yürüyüşü","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%96%C4%9Flekayasi%20Tepesi","alt":"Öğlekayasi Tepesi","caption":"Öğlekayasi Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_westernworldpict00kingrich%29.pdf/page1-654px-The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_westernworldpict00kingrich%29.pdf.jpg","alt":"Öğlekayasi Tepesi","caption":"Öğlekayasi Tepesi","credit":"The western world. Picturesque sketches of nature and natural history in North and South America (IA westernworldpict00kingrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96%C4%9Flekayasi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829890","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Öğlekayasi Tepesi, ziyaretçilerini bekliyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Öğlekayasi Tepesi","İç Anadolu Bölgesi","doğa","gezi","turizm","tepe","manzara","yaban hayatı","çevre"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yürüyüş","piknik","kuş gözlemciliği","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Istanbul-Kirklareli-Kofcaz%20Mese","alt":"Istanbul-Kirklareli-Kofcaz Mese","caption":"Istanbul-Kirklareli-Kofcaz Mese"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Istanbul-Kirklareli-Kofcaz Mese","caption":"Istanbul-Kirklareli-Kofcaz Mese","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Kirklareli-Kofcaz%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227765","tip":"genel"}]
 description: "Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir milli park"
 keywords: ["milli park","doğa","gezi","türlü bitki","hayvan çeşitliliği","coğrafya","iklim","turizm"]

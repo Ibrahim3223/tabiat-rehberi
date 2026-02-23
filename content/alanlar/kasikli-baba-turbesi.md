@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî türbe gezisi","doğa yürüyüşü","deniz kenarı gezintisi","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ka%C5%9F%C4%B1kl%C4%B1%20Baba%20T%C3%BCrbesi","alt":"Kaşıklı Baba Türbesi","caption":"Kaşıklı Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Kaşıklı Baba Türbesi","caption":"Kaşıklı Baba Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C5%9F%C4%B1kl%C4%B1%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390750","tip":"genel"}]
 description: "Eceabat'ta bulunan tarihi türbe ve plaj"
 keywords: ["Eceabat","tarih","türbe","plaj","Çanakkale","gezi","turizm","kültür","doğa"]

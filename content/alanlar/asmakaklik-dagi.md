@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Asmakakl%C4%B1k%20Da%C4%9F%C4%B1","alt":"Asmakaklık Dağı","caption":"Asmakaklık Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf/page1-960px-FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf.jpg","alt":"Asmakaklık Dağı","caption":"Asmakaklık Dağı","credit":"FEDLINK - United States Federal Collection (IA keepingcurrentnd109453799).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asmakakl%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31589399","tip":"genel"}]
 description: "Konya'da yer alan Asmakaklık Dağı, doğal güzellikleri ve tarihi önemi ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Asmakakaklık Dağı","Konya","Dağ","Doğa","Tarih","Gezi","Seyahat","Konya Turizm","Dağcılık"]

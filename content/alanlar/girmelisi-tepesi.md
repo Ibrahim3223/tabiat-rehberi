@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğrafçılık","yürüyüş"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Girmelisi%20Tepesi","alt":"Girmelisi Tepesi","caption":"Girmelisi Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Girmelisi Tepesi","caption":"Girmelisi Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Girmelisi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549686","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan Girmelisi Tepesi, Batman ilinin güzide doğal alanlarından."
 keywords: ["Girmelisi Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal alan","tepe","coğrafi nokta","gezi","doğa"]

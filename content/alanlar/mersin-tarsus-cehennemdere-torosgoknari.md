@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa keşfi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin%20Tarsus%20Cehennemdere-Torosgoknari","alt":"Mersin Tarsus Cehennemdere-Torosgoknari","caption":"Mersin Tarsus Cehennemdere-Torosgoknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Mersin Tarsus Cehennemdere-Torosgoknari","caption":"Mersin Tarsus Cehennemdere-Torosgoknari","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin%20Tarsus%20Cehennemdere-Torosgoknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228119","tip":"genel"}]
 description: "Mersin'in Tarsus ilçesinde yer alan milli park, doğa severler için bir cennet. 140 hektarlık yeşil alan, zengin fauna ve flora çeşitliliği ile dikkat çekiyor."
 keywords: ["Mersin","Tarsus","Cehennemdere-Torosgoknari","milli park","doğa","flora","fauna"]

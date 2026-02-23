@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara-Cerkes-Ismetpa%C5%9Fa%20Karacam","alt":"Ankara-Cerkes-Ismetpaşa Karacam","caption":"Ankara-Cerkes-Ismetpaşa Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"Ankara-Cerkes-Ismetpaşa Karacam","caption":"Ankara-Cerkes-Ismetpaşa Karacam","credit":"MOKFC09.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Cerkes-Ismetpa%C5%9Fa%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227476","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Ankara","Cerkes","Ismetpaşa","Karacam","milli park","doğa","gezi","turizm"]

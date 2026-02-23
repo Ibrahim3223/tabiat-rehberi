@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı Gün"
 aktiviteler: ["Doğa Yürüyüşü","Picnic","Fotografcılık","Doğayla İç İçe Olmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=P%C4%B1narba%C5%9F%C4%B1%20Hamam%C4%B1","alt":"Pınarbaşı Hamamı","caption":"Pınarbaşı Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/S%C3%BCzer_Sun_Dreams_Beach_24_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_24_-_panoramio.jpg","alt":"Pınarbaşı Hamamı","caption":"Pınarbaşı Hamamı","credit":"Süzer Sun Dreams Beach 24 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/P%C4%B1narba%C5%9F%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738843","tip":"genel"}]
 description: "İzmir'in Bornova ilçesinde nmış Pınarbaşı Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Pınarbaşı Hamamı","Bornova","İzmir","Ege Bölgesi","Yeşil Alan","Futbol Sahası"]

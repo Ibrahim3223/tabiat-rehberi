@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük gezi"
 aktiviteler: ["denize girme","tarihi hamam gezi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Topkap%C4%B1%20Hamam%C4%B1","alt":"Topkapı Hamamı","caption":"Topkapı Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Topkapı Hamamı","caption":"Topkapı Hamamı","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topkap%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739217","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, Edirne'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir alan"
 keywords: ["Edirne","Marmara Bölgesi","tarih","doğa","gezi","turizm","hamam","plaj","Deniz","Marmara Denizi"]

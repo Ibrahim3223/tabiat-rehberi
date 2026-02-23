@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","picnic","fotoğraf çekme","doğa"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCk%20%C3%87ak%C4%B1l%20Plaj%C4%B1","alt":"Küçük Çakıl Plajı","caption":"Küçük Çakıl Plajı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Küçük Çakıl Plajı","caption":"Küçük Çakıl Plajı","credit":"The joy of nature.JPG","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20%C3%87ak%C4%B1l%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6010141","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık geniş alanıyla ziyaretçilerini bekliyor."
 keywords: ["Küçük Çakıl Plajı","İç Anadolu Bölgesi","plaj","doğa","gezi","turizm","çevre","ekoloji","gezgin"]

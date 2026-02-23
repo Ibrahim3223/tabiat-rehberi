@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğa yürüyüşü yapmak","Fotografi çekmek","Yeşilırmak Nehri'ni seyretmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Selamet%20H%C3%A2tun%20T%C3%BCrbesi%20%E2%80%93%20%C4%B0n%C3%A2%C3%A7%20T%C3%BCrbesi","alt":"Selamet Hâtun Türbesi – İnâç Türbesi","caption":"Selamet Hâtun Türbesi – İnâç Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Selamet Hâtun Türbesi – İnâç Türbesi","caption":"Selamet Hâtun Türbesi – İnâç Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Selamet%20H%C3%A2tun%20T%C3%BCrbesi%20%E2%80%93%20%C4%B0n%C3%A2%C3%A7%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391458","tip":"genel"}]
 description: "Amasya'da tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Selamet Hâtun Türbesi","İnâç Türbesi","Amasya","Karadeniz Bölgesi","tarih","doğa","türbe","plaj"]

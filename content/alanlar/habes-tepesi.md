@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin manzarasını izlemek","Historical yapıları gezmek","Yerel restoranlarda yemek","Tepenin çevresindeki bitki türlerini keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Habe%C5%9F%20Tepesi","alt":"Habeş Tepesi","caption":"Habeş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Habeş Tepesi","caption":"Habeş Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Habe%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31542951","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerini keşfedin. Habeş Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Habeş Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür"]

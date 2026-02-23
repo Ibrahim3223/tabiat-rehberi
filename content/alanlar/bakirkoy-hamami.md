@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Kumda vakit geçirme","Su sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bak%C4%B1rk%C3%B6y%20Hamam%C4%B1","alt":"Bakırköy Hamamı","caption":"Bakırköy Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Bakırköy Hamamı","caption":"Bakırköy Hamamı","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bak%C4%B1rk%C3%B6y%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738610","tip":"genel"}]
 description: "İstanbul'un gözde plajlarından biri olan Bakırköy Hamamı, Marmara Denizi'nin serin sularında keyifli anlar sunar."
 keywords: ["Bakırköy","plaj","Marmara Denizi","İstanbul","deniz","kum","güneş"]

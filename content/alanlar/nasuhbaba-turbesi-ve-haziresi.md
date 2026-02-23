@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî mekanları gezmek","Doğa yürüyüşü","Fotoğraf çekmek","Picnic yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nasuhbaba%20T%C3%BCrbesi%20ve%20Haziresi","alt":"Nasuhbaba Türbesi ve Haziresi","caption":"Nasuhbaba Türbesi ve Haziresi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Nasuhbaba Türbesi ve Haziresi","caption":"Nasuhbaba Türbesi ve Haziresi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nasuhbaba%20T%C3%BCrbesi%20ve%20Haziresi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391740","tip":"genel"}]
 description: "Tekirdağ'ın Kapaklı ilçesinde bulunan Nasuhbaba Türbesi ve Haziresi, tarihin derinliklerine uzanan bir geçmişe sahiptir."
 keywords: ["Nasuhbaba Türbesi","Hazire","Kapaklı","Tekirdağ","Marmara Bölgesi","tarih","tarihi mekanlar","kültür"]

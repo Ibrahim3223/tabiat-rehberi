@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Euleser%20Tepe","alt":"Şuleser Tepe","caption":"Şuleser Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf/page1-812px-On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf.jpg","alt":"Şuleser Tepe","caption":"Şuleser Tepe","credit":"On the fringe of the great fight (IA onfringeofgreatf00nasmrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Euleser%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31544523","tip":"genel"}]
 description: "Batman'da yer alan Şuleser Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri."
 keywords: ["Şuleser Tepe","Batman","Dağ","Doğa","Türkiye","Coğrafya","Seyahat","Gezi","Turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara seyri","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karto%20Tepesi","alt":"Karto Tepesi","caption":"Karto Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Karto Tepesi","caption":"Karto Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karto%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390052","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Karto Tepesi, şehrin merkezine yakınlığıyla dikkat çekiyor."
 keywords: ["Karto Tepesi","Ankara","İç Anadolu Bölgesi","doğa","turizm","gezi","tepe","manzara","yerel","çevre"]

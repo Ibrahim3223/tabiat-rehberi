@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî eserleri ziyaret","plajda dinlenme","çevreyi keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mesih%20Pa%C5%9Fa%E2%80%99n%C4%B1n%20Mezar%C4%B1","alt":"Mesih Paşa’nın Mezarı","caption":"Mesih Paşa’nın Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Mesih Paşa’nın Mezarı","caption":"Mesih Paşa’nın Mezarı","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mesih%20Pa%C5%9Fa%E2%80%99n%C4%B1n%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728098","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi plaj ve mezar alanı"
 keywords: ["Mesih Paşa’nın Mezarı","Fatih","İstanbul","Marmara Bölgesi","tarihi plaj","mezar alanı"]

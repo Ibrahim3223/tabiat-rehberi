@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eahin%20Tepe%20(Bing%C3%B6l)","alt":"Şahin Tepe (Bingöl)","caption":"Şahin Tepe (Bingöl)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf/page1-897px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf.jpg","alt":"Şahin Tepe (Bingöl)","caption":"Şahin Tepe (Bingöl)","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor00azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eahin%20Tepe%20(Bing%C3%B6l)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820976","tip":"genel"}]
 description: "Bingöl'de yer alan Şahin Tepe, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Şahin Tepe","Bingöl","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Bingöl Gezilecek Yerler","Doğal Güzellikler"]

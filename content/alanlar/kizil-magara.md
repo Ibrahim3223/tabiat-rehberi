@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1l%20Ma%C4%9Fara","alt":"Kızıl Mağara","caption":"Kızıl Mağara"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf/page1-960px-A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf.jpg","alt":"Kızıl Mağara","caption":"Kızıl Mağara","credit":"A novel environmental restoration method for an abandoned limestone quarry with a deep open pit and steep palisades - a case study.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%20Ma%C4%9Fara","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319370","tip":"genel"}]
 description: "Hatay'da bulunan jeopark, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Kızıl Mağara","Hatay","Jeopark","Doğal Alan","Tarih","Turizm","Gezi","Mağara","Jeolojik Özellikler"]

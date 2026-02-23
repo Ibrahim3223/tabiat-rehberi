@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=D%C3%BCz%20Da%C4%9F%20(Giresun)","alt":"Düz Dağ (Giresun)","caption":"Düz Dağ (Giresun)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aksu_Deresi_-_panoramio.jpg/960px-Aksu_Deresi_-_panoramio.jpg","alt":"Düz Dağ","caption":"Düz Dağ","credit":"Aksu Deresi - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCz%20Da%C4%9F%20(Giresun)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49026428","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerini keşfedin, 1200 hektarlık yeşil cennet"
 keywords: ["Düz Dağ","Giresun","Doğal Alan","Yeşil Cennet","Dağ","Turizm","Giresun Turistik Yerler","Doğa","Gezi"]

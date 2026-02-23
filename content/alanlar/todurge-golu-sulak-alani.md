@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Balık avı","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=T%C3%B6d%C3%BCrge%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Tödürge Gölü Sulak Alanı","caption":"Tödürge Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Tödürge Gölü Sulak Alanı","caption":"Tödürge Gölü Sulak Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%B6d%C3%BCrge%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228840","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Tödürge Gölü Sulak Alanı"
 keywords: ["Tödürge Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Turizm","Sulak Alanlar","Korunan Alanlar","Ekosistem","Çevre"]

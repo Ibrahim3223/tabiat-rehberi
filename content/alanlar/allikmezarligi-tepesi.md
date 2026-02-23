@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih turu","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=All%C4%B1kmezarl%C4%B1%C4%9F%C4%B1%20Tepesi","alt":"Allıkmezarlığı Tepesi","caption":"Allıkmezarlığı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Allıkmezarlığı Tepesi","caption":"Allıkmezarlığı Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/All%C4%B1kmezarl%C4%B1%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549403","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan Allıkmezarlığı Tepesi, tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Allıkmezarlığı Tepesi","Batman","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","tarih"]

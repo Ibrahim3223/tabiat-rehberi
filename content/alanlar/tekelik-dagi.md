@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tekelik%20Da%C4%9F%C4%B1","alt":"Tekelik Dağı","caption":"Tekelik Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf/page1-960px-Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf.jpg","alt":"Tekelik Dağı","caption":"Tekelik Dağı","credit":"Report of the Forest Service (IA CAT82764216021).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekelik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31587714","tip":"genel"}]
 description: "Antalya'da yer alan Tekelik Dağı, 1200 hektarlık yeşil cenneti ile doğa severlerin gözdesi"
 keywords: ["Tekelik Dağı","Antalya","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Trekking","Doğa Yürüyüşü"]

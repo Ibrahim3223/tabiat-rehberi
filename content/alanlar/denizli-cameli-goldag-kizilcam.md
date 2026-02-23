@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","vahşi yaşam gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Denizli-Cameli-Goldag%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Denizli-Cameli-Goldag Kızılçam","caption":"Denizli-Cameli-Goldag Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Denizli-Cameli-Goldag Kızılçam","caption":"Denizli-Cameli-Goldag Kızılçam","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cameli-Goldag%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227336","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Denizli","Cameli","Goldag Kızılçam","milli park","Ege Bölgesi","doğa","gezi","turizm"]

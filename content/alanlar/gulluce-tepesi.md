@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tırmanma","Doğa Yürüyüşü","Fotoğrafçılık"," Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCll%C3%BCce%20Tepesi","alt":"Güllüce Tepesi","caption":"Güllüce Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Forest_vegetation_of_the_Black_Hills_National_Forest_of_South_Dakota_and_Wyoming_-_a_habitat_type_classification_%28IA_CAT92273487%29.pdf/page1-960px-Forest_vegetation_of_the_Black_Hills_National_Forest_of_South_Dakota_and_Wyoming_-_a_habitat_type_classification_%28IA_CAT92273487%29.pdf.jpg","alt":"Güllüce Tepesi","caption":"Güllüce Tepesi","credit":"Forest vegetation of the Black Hills National Forest of South Dakota and Wyoming - a habitat type classification (IA CAT92273487).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCll%C3%BCce%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873049","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Van şehrinde yer alan Güllüce Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor. Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor."
 keywords: ["Güllüce Tepesi","Van","Doğu Anadolu Bölgesi","Doğa","Tepeler","Fauna","Flora"]

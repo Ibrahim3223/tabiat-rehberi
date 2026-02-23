@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuzma%C4%9Fara%20Tepe","alt":"Kuzmağara Tepe","caption":"Kuzmağara Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Kuzmağara Tepe","caption":"Kuzmağara Tepe","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzma%C4%9Fara%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31576948","tip":"genel"}]
 description: "Şanlıurfa'da bulunan Kuzmağara Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Kuzmağara Tepe","Şanlıurfa","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Coğrafya"]

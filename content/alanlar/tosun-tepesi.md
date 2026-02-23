@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara seyretme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tosun%20Tepesi","alt":"Tosun Tepesi","caption":"Tosun Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Tosun Tepesi","caption":"Tosun Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tosun%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385403","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Diyarbakır","Güneydoğu Anadolu Bölgesi","Tosun Tepesi","doğal güzellik","tarihçe","coğrafya"]

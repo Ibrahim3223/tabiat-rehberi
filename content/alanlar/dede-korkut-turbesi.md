@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dede%20Korkut%20T%C3%BCrbesi","alt":"Dede Korkut Türbesi","caption":"Dede Korkut Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Dede Korkut Türbesi","caption":"Dede Korkut Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dede%20Korkut%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391307","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Dede Korkut Türbesi","Bayburt","Karadeniz Bölgesi","tarihi mekan","doğal güzellik","gezi","tarihçe","coğrafya"]

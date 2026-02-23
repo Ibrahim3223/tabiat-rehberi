@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe keşfi","doğa yürüyüşü","fotografcılık","kültürel keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Demircili%20%C3%87ifte%20An%C4%B1t%20Mezar","alt":"Demircili Çifte Anıt Mezar","caption":"Demircili Çifte Anıt Mezar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Travels_in_Nubia_%28IA_b22017343%29.pdf/page1-912px-Travels_in_Nubia_%28IA_b22017343%29.pdf.jpg","alt":"Demircili Çifte Anıt Mezar","caption":"Demircili Çifte Anıt Mezar","credit":"Travels in Nubia (IA b22017343).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demircili%20%C3%87ifte%20An%C4%B1t%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728143","tip":"genel"}]
 description: "Mersin'in Silifke ilçesinde bulunan tarihi mezarlar, Akdeniz Bölgesi'nin önemli ziyaret noktaları arasında yer alır."
 keywords: ["Demircili Çifte Anıt Mezar","Silifke","Mersin","Akdeniz Bölgesi","tarihi mezarlar","anıt mezarlar","kültürel miras","tarih","coğrafya","doğa"]

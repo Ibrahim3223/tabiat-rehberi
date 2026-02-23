@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotografcilik","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kocakatran%20Da%C4%9F%C4%B1","alt":"Kocakatran Dağı","caption":"Kocakatran Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OJ_C_280_of_2023_-_EN_English.pdf/page1-960px-OJ_C_280_of_2023_-_EN_English.pdf.jpg","alt":"Kocakatran Dağı","caption":"Kocakatran Dağı","credit":"OJ C 280 of 2023 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocakatran%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513742","tip":"genel"}]
 description: "Çanakkale'nin görkemli dağlarından biri olan Kocakatran Dağı, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Kocakatran Dağı","Çanakkale","Dağ","Doğa","Yeşil Alan","Trekking","Doğa Yürüyüşü","Çanakkale Turizm","Dağcılık"]

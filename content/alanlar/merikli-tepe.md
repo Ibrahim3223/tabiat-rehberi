@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","trekking","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Merikli%20Tepe","alt":"Merikli Tepe","caption":"Merikli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg","alt":"Merikli Tepe","caption":"Merikli Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 03.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merikli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389437","tip":"genel"}]
 description: "Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan Merikli Tepe, tarihi ve coğrafi özellikleri ile dikkat çekiyor."
 keywords: ["Merikli Tepe","Kahramanmaraş","Akdeniz Bölgesi","tarih","coğrafya","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cemali%20Sultan%20T%C3%BCrbesi","alt":"Cemali Sultan Türbesi","caption":"Cemali Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Billboard_1912-12-14-_Vol_24_Iss_50_%28IA_sim_billboard_1912-12-14_24_50%29.pdf/page1-960px-The_Billboard_1912-12-14-_Vol_24_Iss_50_%28IA_sim_billboard_1912-12-14_24_50%29.pdf.jpg","alt":"Cemali Sultan Türbesi","caption":"Cemali Sultan Türbesi","credit":"The Billboard 1912-12-14- Vol 24 Iss 50 (IA sim billboard 1912-12-14 24 50).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cemali%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390873","tip":"genel"}]
 description: "Kilis'in tarihi ve doğal güzelliklerinin birleştiği özel bir nokta"
 keywords: ["Kilis","Cemali Sultan Türbesi","tarih","doğa","gezi","turizm","tarihçe","coğrafya","flora","fauna"]

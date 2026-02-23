@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akg%C3%B6l%20Sit%20Alan%C4%B1","alt":"Akgöl Sit Alanı","caption":"Akgöl Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Akgöl Sit Alanı","caption":"Akgöl Sit Alanı","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akg%C3%B6l%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226222","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Akgöl Sit Alanı, 140 hektarlık geniş bir alana sahiptir. Bu bölge, doğal güzellikleri ve tarihi geçmişi ile dikkat çekmektedir."
 keywords: ["Akgöl Sit Alanı","İç Anadolu Bölgesi","doğal alan","tarihi geçmişi","göl","sit alanı","korunan bölge","çevre"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaziyaret","alt":"Karaziyaret","caption":"Karaziyaret"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf/page1-897px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf.jpg","alt":"Karaziyaret","caption":"Karaziyaret","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor00azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaziyaret","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389468","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin, Karaziyaret'te doğa ile baş başa kalın."
 keywords: ["Karaziyaret","Gaziantep","doğa","tepe","gezi","türlü bitkiler","zengin fauna","coğrafya","iklim","çevre"]

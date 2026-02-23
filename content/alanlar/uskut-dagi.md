@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9Csk%C3%BCt%20Da%C4%9F%C4%B1","alt":"Üsküt Dağı","caption":"Üsküt Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Glendale_Evening_News_1922-09-18_%28IA_cgl_004792%29.pdf/page1-960px-The_Glendale_Evening_News_1922-09-18_%28IA_cgl_004792%29.pdf.jpg","alt":"Üsküt Dağı","caption":"Üsküt Dağı","credit":"The Glendale Evening News 1922-09-18 (IA cgl 004792).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Csk%C3%BCt%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820456","tip":"genel"}]
 description: "Rize'de yer alan Üsküt Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Üsküt Dağı","Rize","Dağ","Trekking","Doğa","Turizm","Rize Turistik Yerler","Üsküt Dağı Trekking","Doğal Güzellikler"]

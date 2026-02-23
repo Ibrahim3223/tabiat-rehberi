@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6k%C3%A7e%20Da%C4%9F%20(Osmaniye)","alt":"Gökçe Dağ (Osmaniye)","caption":"Gökçe Dağ (Osmaniye)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Gökçe Dağ","caption":"Gökçe Dağ","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7e%20Da%C4%9F%20(Osmaniye)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872219","tip":"genel"}]
 description: "Osmaniye'nin görkemli dağlarından biri olan Gökçe Dağ, doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Gökçe Dağ","Osmaniye","Dağ","Doğa","Trekking","Osmaniye Turizm","Gökçe Dağ Osmaniye","Dağcılık","Doğa Yürüyüşleri"]

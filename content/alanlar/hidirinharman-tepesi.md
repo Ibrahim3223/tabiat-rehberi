@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","fotografcılık"," piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C4%B1d%C4%B1r%C4%B1nharman%20Tepesi","alt":"Hıdırınharman Tepesi","caption":"Hıdırınharman Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Hıdırınharman Tepesi","caption":"Hıdırınharman Tepesi","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1r%C4%B1nharman%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386574","tip":"genel"}]
 description: "Van'ın doğal güzelliklerini keşfedin. Hıdırınharman Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Hıdırınharman Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellikler","tepe","gezi","turizm","coğrafya","flora","fauna"]

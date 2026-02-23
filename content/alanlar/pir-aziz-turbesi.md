@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih ve kültür turu","doğa yürüyüşü","flora ve fauna gözlemi","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pir%20Aziz%20T%C3%BCrbesi","alt":"Pir Aziz Türbesi","caption":"Pir Aziz Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Pir Aziz Türbesi","caption":"Pir Aziz Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pir%20Aziz%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391794","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Giresun'da bulunan Piraziz'de yer alan tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Pir Aziz Türbesi","Giresun","Karadeniz Bölgesi","tarih","doğa","gezi","türk kültürü","din","coğrafya","ekoloji"]

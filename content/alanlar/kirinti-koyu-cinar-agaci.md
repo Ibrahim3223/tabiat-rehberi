@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","photografi","çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kirinti%20Koyu%20Cinar%20Agaci","alt":"Kirinti Koyu Cinar Agaci","caption":"Kirinti Koyu Cinar Agaci"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Kirinti Koyu Cinar Agaci","caption":"Kirinti Koyu Cinar Agaci","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirinti%20Koyu%20Cinar%20Agaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227365","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Kirinti Koyu Cinar Agaci, ziyaretçilerini büyüleyici bir doğa ile karşılar."
 keywords: ["doğa","milli park","iç anadolu","gezi","turizm","çevre","ekosistem","flora","fauna","gezilecek yerler"]

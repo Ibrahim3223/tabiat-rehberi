@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaret","Plaj","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koru%20Dede%20Hazretleri%20T%C3%BCrbesi","alt":"Koru Dede Hazretleri Türbesi","caption":"Koru Dede Hazretleri Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Koru Dede Hazretleri Türbesi","caption":"Koru Dede Hazretleri Türbesi","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koru%20Dede%20Hazretleri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391616","tip":"genel"}]
 description: "Düzce'nin Cumayeri ilçesinde bulunan tarihi türbe ve plajı"
 keywords: ["Koru Dede Hazretleri","Türbe","Cumayeri","Düzce","Karadeniz Bölgesi","Plaj","Tarihi mekan","Türbe ziyaret","Doğa alanı"]

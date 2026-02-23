@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["antik kent gezisi","tarihî hamam ziyaretleri","kilise ve yapı gezileri","doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Laodikeia%20Do%C4%9Fu%20Hamam%C4%B1","alt":"Laodikeia Doğu Hamamı","caption":"Laodikeia Doğu Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf/page1-629px-Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf.jpg","alt":"Laodikeia Doğu Hamamı","caption":"Laodikeia Doğu Hamamı","credit":"Letters from the Aegean (IA lettersfromaegea01tenn).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Laodikeia%20Do%C4%9Fu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738923","tip":"genel"}]
 description: "Pamukkale'nin tarihi ve doğal güzelliklerini keşfedin. Laodikeia Doğu Hamamı, Ege Bölgesi'nin gizli bir hazine."
 keywords: ["Laodikeia","Doğu Hamamı","Pamukkale","Denizli","Ege Bölgesi","tarih","doğa","gezi","turizm","antik kent"]

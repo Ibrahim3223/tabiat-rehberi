@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresi gezi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arap%20%C5%9Eeyhi%20T%C3%BCrbesi","alt":"Arap Şeyhi Türbesi","caption":"Arap Şeyhi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_fair_land_of_Central_America_%28IA_fairlandofcentra00waleiala%29.pdf/page1-787px-The_fair_land_of_Central_America_%28IA_fairlandofcentra00waleiala%29.pdf.jpg","alt":"Arap Şeyhi Türbesi","caption":"Arap Şeyhi Türbesi","credit":"The fair land of Central America (IA fairlandofcentra00waleiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arap%20%C5%9Eeyhi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391390","tip":"genel"}]
 description: "Sivas'ın merkezinde bulunan Arap Şeyhi Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir nokta."
 keywords: ["Arap Şeyhi Türbesi","Sivas","tarih","doğa","gezi","türbe","Sivas gezilecek yerler","Arap Şeyhi","tarihi mekanlar"]

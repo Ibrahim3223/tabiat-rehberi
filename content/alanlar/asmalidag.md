@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Asmal%C4%B1da%C4%9F","alt":"Asmalıdağ","caption":"Asmalıdağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf/page1-860px-Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf.jpg","alt":"Asmalıdağ","caption":"Asmalıdağ","credit":"Across Asia on a bicycle; (IA acrossasiaonbicy00alle).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asmal%C4%B1da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571368","tip":"genel"}]
 description: "Sivas'ta bulunan Asmalıdağ, 1200 hektarlık yeşil alanıyla İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Asmalıdağ","Sivas","Dağ","Doğa","Yeşil Alan","İstanbul","Türkiye","Seyahat","Gezi"]

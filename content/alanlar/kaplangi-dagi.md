@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaplang%C4%B1%20Da%C4%9F%C4%B1","alt":"Kaplangı Dağı","caption":"Kaplangı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Kaplangı Dağı","caption":"Kaplangı Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaplang%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31519229","tip":"genel"}]
 description: "Uşak'ta bulunan Kaplangı Dağı, doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Kaplangı Dağı","Uşak","Dağ","Trekking","Doğa","Turizm","Gezi","Uşak Turistik Yerler","Dağcılık"]

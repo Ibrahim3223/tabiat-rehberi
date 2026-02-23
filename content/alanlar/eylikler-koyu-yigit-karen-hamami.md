@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eylikler%20K%C3%B6y%C3%BC%20Yi%C4%9Fit%20Karen%20Hamam%C4%B1","alt":"Eylikler Köyü Yiğit Karen Hamamı","caption":"Eylikler Köyü Yiğit Karen Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf/page1-860px-Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf.jpg","alt":"Eylikler Köyü Yiğit Karen Hamamı","caption":"Eylikler Köyü Yiğit Karen Hamamı","credit":"Revue suisse de zoologie (IA revuesuissede11412007schw).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eylikler%20K%C3%B6y%C3%BC%20Yi%C4%9Fit%20Karen%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245688","tip":"genel"}]
 description: "Beyşehir'in gizli cenneti: Yiğit Karen Hamamı"
 keywords: ["Eylikler Köyü","Yiğit Karen Hamamı","Beyşehir","Konya","İç Anadolu Bölgesi","doğa","gezi","turizm"]

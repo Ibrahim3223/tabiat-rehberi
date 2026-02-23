@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Armutlu%20Tepesi","alt":"Armutlu Tepesi","caption":"Armutlu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf/page1-670px-The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_cu31924028842544%29.pdf.jpg","alt":"Armutlu Tepesi","caption":"Armutlu Tepesi","credit":"The salt-box house; eighteenth century life in a New England hill town (IA cu31924028842544).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Armutlu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581335","tip":"genel"}]
 description: "Çorum'un güzel manzaralı tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Armutlu Tepesi","Çorum","Karadeniz Bölgesi","doğa","gezi","tarih","coğrafya","flora","fauna"]

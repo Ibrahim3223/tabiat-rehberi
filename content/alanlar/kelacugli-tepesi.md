@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","manzara seyri","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kelacugli%20Tepesi","alt":"Kelacugli Tepesi","caption":"Kelacugli Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf/page1-812px-On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf.jpg","alt":"Kelacugli Tepesi","caption":"Kelacugli Tepesi","credit":"On the fringe of the great fight (IA onfringeofgreatf00nasmrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelacugli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553887","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Kelacugli Tepesi, Batman'ın doğal güzelliklerinden biri"
 keywords: ["Kelacugli Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

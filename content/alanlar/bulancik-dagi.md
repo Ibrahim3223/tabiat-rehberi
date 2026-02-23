@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","doğa yürüyüşü","kültür turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bulanc%C4%B1k%20Da%C4%9F%C4%B1","alt":"Bulancık Dağı","caption":"Bulancık Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Recreation_area_management_plan_for_the_Pacific_Crest_National_Scenic_Trail_-_Owens_Peak%2C_Dove_Springs%2C_Cache_Peak_segments%2C_California_%28IA_recreationareama00unit%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Bulancık Dağı","caption":"Bulancık Dağı","credit":"Recreation area management plan for the Pacific Crest National Scenic Trail - Owens Peak, Dove Springs, Cache Peak segments, California (IA recreationareama00unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bulanc%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387259","tip":"genel"}]
 description: "Çankırı'nın doğal güzelliklerini keşfedin. Bulancık Dağı, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Bulancık Dağı","Çankırı","İç Anadolu Bölgesi","doğa","gezi","tepe"]

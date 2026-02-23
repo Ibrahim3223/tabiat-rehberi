@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarihi kalıntıları gezmek","Fotoğraf çekmek","Picnic yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Keleserda%C4%9F%C4%B1%20Tepesi","alt":"Keleserdağı Tepesi","caption":"Keleserdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Glendale_Evening_News_1924-09-09_%28IA_cgl_005409%29.pdf/page1-960px-The_Glendale_Evening_News_1924-09-09_%28IA_cgl_005409%29.pdf.jpg","alt":"Keleserdağı Tepesi","caption":"Keleserdağı Tepesi","credit":"The Glendale Evening News 1924-09-09 (IA cgl 005409).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keleserda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388052","tip":"genel"}]
 description: "Muş'un doğal güzelliklerinden biri olan Keleserdağı Tepesi, Doğu Anadolu Bölgesi'nde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Keleserdağı Tepesi","Muş","Doğu Anadolu Bölgesi","Doğal güzellik","Yeşil alan","Tepeler"]

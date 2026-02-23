@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora/fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayseri-Yahyali%20Aladaglar","alt":"Kayseri-Yahyali Aladaglar","caption":"Kayseri-Yahyali Aladaglar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Kayseri-Yahyali Aladaglar","caption":"Kayseri-Yahyali Aladaglar","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayseri-Yahyali%20Aladaglar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227825","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri"
 keywords: ["Kayseri","Yahyali","Aladaglar","milli park","doğal alan","İç Anadolu Bölgesi","turizm","gezi"]

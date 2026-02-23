@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografçılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Davras%20Yalanci%20Akasya","alt":"Isparta-Davras Yalanci Akasya","caption":"Isparta-Davras Yalanci Akasya"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/P_20180323_133309-01.jpg/960px-P_20180323_133309-01.jpg","alt":"Isparta-Davras Yalancı Akasya","caption":"Isparta-Davras Yalancı Akasya","credit":"P 20180323 133309-01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Davras%20Yalanci%20Akasya","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227756","tip":"genel"}]
 description: "Isparta'da yer alan doğal güzellik, zengin flora ve fauna"
 keywords: ["Isparta","Davras","Yalancı Akasya","doğal güzellik","milli park","Akdeniz Bölgesi"]

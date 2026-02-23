@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Tarih araştırması"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Topme%C5%9Fe%20Tepesi","alt":"Topmeşe Tepesi","caption":"Topmeşe Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Topmeşe Tepesi","caption":"Topmeşe Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topme%C5%9Fe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386937","tip":"genel"}]
 description: "Tekirdağ'ın gözde noktalarından biri olan Topmeşe Tepesi, Marmara Bölgesi'nin güzide yerlerinden"
 keywords: ["Tekirdağ","Marmara Bölgesi","Topmeşe Tepesi","doğa","gezi","tarihçe","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçi rehberli tur","mimari inceleme","fotograf çekimi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pertevniyal%20Valide%20Sultan%20T%C3%BCrbesi","alt":"Pertevniyal Valide Sultan Türbesi","caption":"Pertevniyal Valide Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Pertevniyal Valide Sultan Türbesi","caption":"Pertevniyal Valide Sultan Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pertevniyal%20Valide%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391099","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından Pertevniyal Valide Sultan Türbesi, Marmara Bölgesi'nde yer alıyor."
 keywords: ["Pertevniyal Valide Sultan Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarih","türbe","mimari"]

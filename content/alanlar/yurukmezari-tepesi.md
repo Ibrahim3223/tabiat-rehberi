@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%BCr%C3%BCkmezar%C4%B1%20Tepesi","alt":"Yürükmezarı Tepesi","caption":"Yürükmezarı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Yürükmezarı Tepesi","caption":"Yürükmezarı Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCkmezar%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196223","tip":"genel"}]
 description: "Kütahya'nın gizli cenneti Yürükmezarı Tepesi, doğa severlerin yeni durağı"
 keywords: ["Yürükmezarı Tepesi","Kütahya","Ege Bölgesi","doğa","tepe","gezi","turizm","yürüyüş"]

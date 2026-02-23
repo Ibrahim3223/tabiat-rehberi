@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hamamın Historisini Öğrenmek","Hamamın Bahçesinde Yürüyüş Yapmak","Eminönü'nü Keşfetmek","Yerel Lezzetleri Tatmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Haseki%20H%C3%BCrrem%20Sultan%20Hamam%C4%B1%2C%20Emin%C3%B6n%C3%BC","alt":"Haseki Hürrem Sultan Hamamı, Eminönü","caption":"Haseki Hürrem Sultan Hamamı, Eminönü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Haseki Hürrem Sultan Hamamı, Eminönü","caption":"Haseki Hürrem Sultan Hamamı, Eminönü","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haseki%20H%C3%BCrrem%20Sultan%20Hamam%C4%B1%2C%20Emin%C3%B6n%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738540","tip":"genel"}]
 description: "Tarihi geçmişi olan Haseki Hürrem Sultan Hamamı, Eminönü'nde ziyaretçilerini bekliyor."
 keywords: ["Haseki Hürrem Sultan Hamamı","Eminönü","Fatih","İstanbul","Marmara Bölgesi","Tarihi Hamam","Kültürel Miras","Gezi","Tarih"]

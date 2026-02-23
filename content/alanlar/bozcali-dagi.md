@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kayak","köy ziyaretleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bozcal%C4%B1%20Da%C4%9F%C4%B1","alt":"Bozcalı Dağı","caption":"Bozcalı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/The_Eagle_Rock_-_panoramio.jpg/960px-The_Eagle_Rock_-_panoramio.jpg","alt":"Bozcalı Dağı","caption":"Bozcalı Dağı","credit":"The Eagle Rock - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozcal%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385975","tip":"genel"}]
 description: "Kırşehir'in doğal güzellikleri arasında yer alan Bozcalı Dağı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kırşehir","Bozcalı Dağı","doğal güzellik","yeşil alan","fiziksel veriler","coğrafya","flora","fauna","ziyaret"]

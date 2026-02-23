@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Medetsiz%20Da%C4%9F%C4%B1","alt":"Medetsiz Dağı","caption":"Medetsiz Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg","alt":"Medetsiz Dağı","caption":"Medetsiz Dağı","credit":"Kayaözü Creek Valley, Kahramanmaraş 06.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Medetsiz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31591195","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Medetsiz Dağı, bölgenin önemli coğrafi oluşumlarından biri"
 keywords: ["Medetsiz Dağı","Kahramanmaraş","Dağ","Coğrafi Oluşum","Turizm","Doğa","Gezi","Türkiye","Dağcılık"]

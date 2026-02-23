@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6%C3%A7erma%C4%9Faralar%C4%B1","alt":"Göçermağaraları","caption":"Göçermağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Göçermağaraları","caption":"Göçermağaraları","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6%C3%A7erma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319212","tip":"genel"}]
 description: "Şırnak'ta bulunan Göçermağaraları, 1200 hektarlık yeşil cennet, jeopark özellikleri ile dikkat çekiyor."
 keywords: ["Göçermağaraları","Şırnak","Jeopark","Doğa","Turizm","Mağara","Yeşil Alan","Şırnak Turistik Yerler","Jeolojik Özellikler"]

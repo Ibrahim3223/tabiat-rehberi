@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alaburun%20Tepe","alt":"Alaburun Tepe","caption":"Alaburun Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Alaburun Tepe","caption":"Alaburun Tepe","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alaburun%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31576981","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin, Alaburun Tepe'de doğa ile baş başa kalın."
 keywords: ["Alaburun Tepe","Gaziantep","Dağ","Doğa","Turizm","Gezi","Gaziantep gezilecek yerler","Dağcılık","Trekking"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarihî yapıları gezme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kavalkaya%20Tepesi","alt":"Kavalkaya Tepesi","caption":"Kavalkaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/On_horseback_through_Asia_Minor_%28IA_onhorsebackthrou01burn%29.pdf/page1-714px-On_horseback_through_Asia_Minor_%28IA_onhorsebackthrou01burn%29.pdf.jpg","alt":"Kavalkaya Tepesi","caption":"Kavalkaya Tepesi","credit":"On horseback through Asia Minor (IA onhorsebackthrou01burn).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavalkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390698","tip":"genel"}]
 description: "Tokat'ta yer alan Kavalkaya Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Kavalkaya Tepesi","Tokat","Karadeniz Bölgesi","doğa","gezi","tepe"]

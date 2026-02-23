@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Yaban hayatı gözlemleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCkyayla%20Tepesi","alt":"Küçükyayla Tepesi","caption":"Küçükyayla Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_westernworldpict00kingrich%29.pdf/page1-654px-The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_westernworldpict00kingrich%29.pdf.jpg","alt":"Küçükyayla Tepesi","caption":"Küçükyayla Tepesi","credit":"The western world. Picturesque sketches of nature and natural history in North and South America (IA westernworldpict00kingrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkyayla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211076","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde bulunan Küçükyayla Tepesi, ziyaretçilerini etkileyen doğal güzellikleri sunar."
 keywords: ["Küçükyayla Tepesi","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya","flora","fauna"]

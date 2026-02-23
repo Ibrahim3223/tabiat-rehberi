@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi mekanları keşfetmek","doğa yürüyüşleri","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pir%20S%C3%BCcaaddin%20%C4%B0lyas%20T%C3%BCrbesi","alt":"Pir Sücaaddin İlyas Türbesi","caption":"Pir Sücaaddin İlyas Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Pir Sücaaddin İlyas Türbesi","caption":"Pir Sücaaddin İlyas Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pir%20S%C3%BCcaaddin%20%C4%B0lyas%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391211","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzelliklerini keşfedin."
 keywords: ["Pir Sücaaddin İlyas Türbesi","Amasya","Karadeniz Bölgesi","tarihi mekanlar","doğal güzellikler","tarihçe","coğrafya","flora","fauna","ziyaret"]

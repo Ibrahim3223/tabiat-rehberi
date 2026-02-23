@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Deniz keyfi","Güneş banyosu","Doğa yürüyüşü","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Telmessos%20Lahdi","alt":"Telmessos Lahdi","caption":"Telmessos Lahdi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Telmessos Lahdi","caption":"Telmessos Lahdi","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Telmessos%20Lahdi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728236","tip":"genel"}]
 description: "Ege Bölgesi'nin Muğla ilinde bulunan Telmessos Lahdi, 140 hektarlık bir yeşil alana sahiptir."
 keywords: ["Telmessos Lahdi","Muğla","Ege Bölgesi","plaj","doğa","turizm","gezi","tatil"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCk%C3%BCttoyu%20Tepe","alt":"Küküttoyu Tepe","caption":"Küküttoyu Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Küküttoyu Tepe","caption":"Küküttoyu Tepe","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCttoyu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210728","tip":"genel"}]
 description: "Konya'da bulunan Küküttoyu Tepe, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Küküttoyu Tepe","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","çevre"]

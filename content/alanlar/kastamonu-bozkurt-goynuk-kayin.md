@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Doğa fotoğrafçılığı","Rehberli turlar"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Bozkurt-Goynuk%20Kayin","alt":"Kastamonu-Bozkurt-Goynuk Kayin","caption":"Kastamonu-Bozkurt-Goynuk Kayin"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Kastamonu-Bozkurt-Goynuk Kayin","caption":"Kastamonu-Bozkurt-Goynuk Kayin","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Bozkurt-Goynuk%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227260","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin, Bozkurt ve Göynük'teki kayın ormanlarını ziyaret edin."
 keywords: ["Kastamonu","Bozkurt","Göynük","Kayın Ormanı","Doğa","Turizm","Karadeniz","Milli Park"]

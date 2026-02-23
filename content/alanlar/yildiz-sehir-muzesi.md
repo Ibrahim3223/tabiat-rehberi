@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["müze ziyareti","sergi gezisi","park gezintisi","yeme ve içmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20%C5%9Eehir%20M%C3%BCzesi","alt":"Yıldız Şehir Müzesi","caption":"Yıldız Şehir Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Yıldız Şehir Müzesi","caption":"Yıldız Şehir Müzesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20%C5%9Eehir%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q111633241","tip":"genel"}]
 description: "Beşiktaş'ta bulunan Yıldız Şehir Müzesi, İstanbul'un tarihi ve kültürel zenginliklerini sunuyor."
 keywords: ["Yıldız Şehir Müzesi","Beşiktaş","İstanbul","Marmara Bölgesi","müze","tarih","kültür","sanat","turizm"]

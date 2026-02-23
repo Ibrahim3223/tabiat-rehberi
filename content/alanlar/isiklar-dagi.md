@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=I%C5%9F%C4%B1klar%20Da%C4%9F%C4%B1","alt":"Işıklar Dağı","caption":"Işıklar Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kartaltepe_Landscape.jpg/960px-Kartaltepe_Landscape.jpg","alt":"Işıklar Dağı","caption":"Işıklar Dağı","credit":"Kartaltepe Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/I%C5%9F%C4%B1klar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q16665138","tip":"genel"}]
 description: "Tekirdağ'da yer alan Işıklar Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Işıklar Dağı","Tekirdağ","Doğa","Dağ","Yeşil Alan","Turizm","Gezi","Doğal Güzellik","Çevre"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","trekking"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artvin-Arhavi-Kayadibi-Kizilagac","alt":"Artvin-Arhavi-Kayadibi-Kizilagac","caption":"Artvin-Arhavi-Kayadibi-Kizilagac"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wle-jury-report-2024-lores.pdf/page1-960px-Wle-jury-report-2024-lores.pdf.jpg","alt":"Artvin-Arhavi-Kayadibi-Kizilagac","caption":"Artvin-Arhavi-Kayadibi-Kizilagac","credit":"Wle-jury-report-2024-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Arhavi-Kayadibi-Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228552","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Artvin-Arhavi-Kayadibi-Kizilagac, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Artvin","Arhavi","Kayadibi","Kizilagac","Karadeniz Bölgesi","doğa","yeşil alan","milli park"]

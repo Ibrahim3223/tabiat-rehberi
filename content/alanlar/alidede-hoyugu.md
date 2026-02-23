@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["höyüğü gezmek","arkeolojik kazılara katılmak","bölgenin doğal güzelliklerini keşfetmek","yerel yemekleri tatmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alidede%20H%C3%B6y%C3%BC%C4%9F%C3%BC","alt":"Alidede Höyüğü","caption":"Alidede Höyüğü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Suharg%C4%B1_-_panoramio.jpg/960px-Suharg%C4%B1_-_panoramio.jpg","alt":"Alidede Höyüğü","caption":"Alidede Höyüğü","credit":"Suhargı - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alidede%20H%C3%B6y%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32127158","tip":"genel"}]
 description: "Giresun'un tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Giresun","Alidede Höyüğü","tarih","kültür","Karadeniz Bölgesi","arkeoloji","turizm","gezi"]

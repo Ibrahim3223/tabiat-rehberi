@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%205","alt":"Adana-Kadirli Kızılçam 5","caption":"Adana-Kadirli Kızılçam 5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/The_New-York_Evangelist_1888-06-14-_Vol_59_Iss_24_%28IA_sim_evangelist-and-religious-review_1888-06-14_59_24%29.pdf/page1-960px-The_New-York_Evangelist_1888-06-14-_Vol_59_Iss_24_%28IA_sim_evangelist-and-religious-review_1888-06-14_59_24%29.pdf.jpg","alt":"Adana-Kadirli Kızılçam 5","caption":"Adana-Kadirli Kızılçam 5","credit":"The New-York Evangelist 1888-06-14- Vol 59 Iss 24 (IA sim evangelist-and-religious-review 1888-06-14 59 24).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%205","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227827","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin güzelliklerini keşfedeceğiniz Adana-Kadirli Kızılçam 5 milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Adana","Kadirli","Kızılçam","Milli Park","Akdeniz Bölgesi","Doğa","Yeşil Alan","Futbol Saha"]

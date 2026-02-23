@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Tarihi yapılar gezisi","Yeşillik alanlarda dinlenmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Halil%20Efendiler%20T%C3%BCrbesi","alt":"Halil Efendiler Türbesi","caption":"Halil Efendiler Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Halil Efendiler Türbesi","caption":"Halil Efendiler Türbesi","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halil%20Efendiler%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391176","tip":"genel"}]
 description: "Fatih'in tarihi mekanlarından biri olan Halil Efendiler Türbesi, İstanbul'un önemli dini ziyaret noktaları arasında yer alıyor."
 keywords: ["Halil Efendiler Türbesi","Fatih","İstanbul","tarihi mekanlar","dini ziyaret noktaları","Marmara Bölgesi","İstanbul'un önemli noktaları","tarih","kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye tırmanmak","manzara izlemek","çevreyi keşfetmek","bitki türlerini incelemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akoluk%20Tepesi","alt":"Akoluk Tepesi","caption":"Akoluk Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"Akoluk Tepesi","caption":"Akoluk Tepesi","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akoluk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31532810","tip":"genel"}]
 description: "Akoluk Tepesi, Antalya'nın büyüleyici doğal güzelliklerinden biridir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kaplar."
 keywords: ["Akoluk Tepesi","Antalya","doğal güzellik","tepe","yeşil alan","gezi","turizm","Akdeniz Bölgesi","coğrafya"]

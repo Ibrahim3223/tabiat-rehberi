@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yaban hayatı izleme","Doğa yürüyüşü","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ye%C5%9Fil%C3%B6z%20Yaban%20Hayat%C4%B1%20Geli%C5%9Ftirme%20Sahas%C4%B1","alt":"Yeşilöz Yaban Hayatı Geliştirme Sahası","caption":"Yeşilöz Yaban Hayatı Geliştirme Sahası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Yeşilöz Yaban Hayatı Geliştirme Sahası","caption":"Yeşilöz Yaban Hayatı Geliştirme Sahası","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Fil%C3%B6z%20Yaban%20Hayat%C4%B1%20Geli%C5%9Ftirme%20Sahas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q119442770","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Yeşilöz Yaban Hayatı Geliştirme Sahası, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan"
 keywords: ["Yeşilöz","Yaban Hayatı Geliştirme Sahası","İç Anadolu Bölgesi","doğal alan","yaban hayatı","korunan bölge"]

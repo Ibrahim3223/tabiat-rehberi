@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarih ve kültür turu","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C3%BCsamettin%20Efendi%20T%C3%BCrbesi","alt":"Hüsamettin Efendi Türbesi","caption":"Hüsamettin Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Hüsamettin Efendi Türbesi","caption":"Hüsamettin Efendi Türbesi","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCsamettin%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391630","tip":"genel"}]
 description: "Ege Bölgesi'nde, Muğla'nın Ula ilçesinde bulunan Hüsamettin Efendi Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir alan olarak dikkat çekmektedir."
 keywords: ["Hüsamettin Efendi Türbesi","Ula","Muğla","Ege Bölgesi","tarih","doğa","türbe"]

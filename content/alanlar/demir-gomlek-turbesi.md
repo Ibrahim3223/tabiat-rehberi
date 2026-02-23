@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Tarihî bölge turu","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Demir%20G%C3%B6mlek%20T%C3%BCrbesi","alt":"Demir Gömlek Türbesi","caption":"Demir Gömlek Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Demir Gömlek Türbesi","caption":"Demir Gömlek Türbesi","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demir%20G%C3%B6mlek%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390491","tip":"genel"}]
 description: "Karaman'da tarihi ve doğal güzellikleri bir arada sunan Demir Gömlek Türbesi, 1400'lerden kalma önemli bir tarihi yapı"
 keywords: ["Demir Gömlek Türbesi","Karaman","Türbe","Tarih","Doğa","Gezi","Türkiye"]

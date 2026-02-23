@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Piknik yapmak","Doğayı seyretmek","Türbe ziyaretleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ahi%20H%C3%BCsameddin%20T%C3%BCrbesi","alt":"Ahi Hüsameddin Türbesi","caption":"Ahi Hüsameddin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Ahi Hüsameddin Türbesi","caption":"Ahi Hüsameddin Türbesi","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20H%C3%BCsameddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390665","tip":"genel"}]
 description: "Ankara'nın tarihi mekanlarından biri olan Ahi Hüsameddin Türbesi, İç Anadolu Bölgesi'nde yer alır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı kapsar."
 keywords: ["Ahi Hüsameddin Türbesi","Ankara","İç Anadolu Bölgesi","Tarih","Kültür","Turizm","Yeşil Alan","Türbe"]

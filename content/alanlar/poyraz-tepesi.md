@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Poyraz%20Tepesi","alt":"Poyraz Tepesi","caption":"Poyraz Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg/960px-Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg","alt":"Poyraz Tepesi","caption":"Poyraz Tepesi","credit":"Stamp of Indonesia - 2018 - Colnect 800738 - Environmental Protection - Bamboo Forest.jpeg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Poyraz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31508487","tip":"genel"}]
 description: "Çanakkale'nin en önemli doğal güzelliklerinden biri olan Poyraz Tepesi, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Poyraz Tepesi","Çanakkale","Doğal Alan","Yeşil Alan","Türkiye","Dağ","Gezi","Seyahat","Turizm"]

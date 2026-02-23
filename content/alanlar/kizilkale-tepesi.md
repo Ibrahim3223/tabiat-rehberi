@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lkale%20Tepesi","alt":"Kızılkale Tepesi","caption":"Kızılkale Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Creek_-_panoramio.jpg/960px-The_Creek_-_panoramio.jpg","alt":"Kızılkale Tepesi","caption":"Kızılkale Tepesi","credit":"The Creek - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lkale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390635","tip":"genel"}]
 description: "Kırşehir'in tarihi ve doğal güzelliklerini keşfedin. Kızılkale Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kızılkale Tepesi","Kırşehir","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","tepe","coğrafya"]

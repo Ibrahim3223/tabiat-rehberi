@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa Yürüyüşü","Photography","Kampçılık","Doğa Gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Ordu%20Dogu%20Ladini%203","alt":"Giresun-Ordu Dogu Ladini 3","caption":"Giresun-Ordu Dogu Ladini 3"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sis_da%C4%9F%C4%B1_%284%29.jpg/960px-Sis_da%C4%9F%C4%B1_%284%29.jpg","alt":"Giresun-Ordu Dogu Ladini 3","caption":"Giresun-Ordu Dogu Ladini 3","credit":"Sis dağı (4).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Ordu%20Dogu%20Ladini%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227991","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğa harikası milli parkı"
 keywords: ["Giresun","Ordu","Milli Park","Doğu Ladini","Karadeniz Bölgesi","Doğa","Turizm","Seyahat"]

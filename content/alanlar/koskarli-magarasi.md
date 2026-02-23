@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koskarl%C4%B1%20Ma%C4%9Faras%C4%B1","alt":"Koskarlı Mağarası","caption":"Koskarlı Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%C3%87al_Ma%C4%9Faras%C4%B19.jpg/960px-%C3%87al_Ma%C4%9Faras%C4%B19.jpg","alt":"Koskarlı Mağarası","caption":"Koskarlı Mağarası","credit":"Çal Mağarası9.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koskarl%C4%B1%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Trabzon'un gizli doğa harikası Koskarlı Mağarası, 1200 hektarlık yeşil cennet içinde yer alıyor."
 keywords: ["Koskarlı Mağarası","Trabzon mağaraları","doğa turizmi","Trabzon gezilecek yerler","mağara gezisi","Trabzon doğa harikaları","yeşil cennet","Trabzon turizm","Trabzon seyahat"]

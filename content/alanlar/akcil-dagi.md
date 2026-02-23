@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ak%C3%A7%C4%B1l%20Da%C4%9F%C4%B1","alt":"Akçıl Dağı","caption":"Akçıl Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Akçıl Dağı","caption":"Akçıl Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7%C4%B1l%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35723765","tip":"genel"}]
 description: "Şırnak'ta bulunan Akçıl Dağı, doğa severlerin ziyaret ettiği önemli bir dağ"
 keywords: ["Akçıl Dağı","Şırnak","Dağ","Doğa","Türkiye","Gezi","Seyahat","Dağcılık","Doğa Yürüyüşü"]

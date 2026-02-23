@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî eserleri gezmek","Doğa yürüyüşü","Fotografcılık","Picnic yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=R%C3%BCstem%20Bey%20K%C3%BCmbeti","alt":"Rüstem Bey Kümbeti","caption":"Rüstem Bey Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Rüstem Bey Kümbeti","caption":"Rüstem Bey Kümbeti","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/R%C3%BCstem%20Bey%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582349","tip":"genel"}]
 description: "Seydişehir'in tarihi değerlerinden biri olan Rüstem Bey Kümbeti, Konya'nın önemli turizm noktalarından."
 keywords: ["Konya","Seydişehir","Rüstem Bey Kümbeti","tarihi eser","turizm","Kümbet","mimari","İç Anadolu"]

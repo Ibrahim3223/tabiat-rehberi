@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nergizi%20Adas%C4%B1","alt":"Nergizi Adası","caption":"Nergizi Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Atmospheric_effects_on_communications_and_electronic_warfare_systems_within_Turkey_and_surrounding_areas_%28IA_atmosphericeffec109455228%29.pdf/page1-960px-Atmospheric_effects_on_communications_and_electronic_warfare_systems_within_Turkey_and_surrounding_areas_%28IA_atmosphericeffec109455228%29.pdf.jpg","alt":"Nergizi Adası","caption":"Nergizi Adası","credit":"Atmospheric effects on communications and electronic warfare systems within Turkey and surrounding areas (IA atmosphericeffec109455228).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nergizi%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49662390","tip":"genel"}]
 description: "Adana'da bulunan Nergizi Adası, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Nergizi Adası","Adana","ada","doğal güzellik","tarih","yeşil cennet","gezi","seyahat","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nifkarl%C4%B1%C4%9F%C4%B1%20Tepesi","alt":"Nifkarlığı Tepesi","caption":"Nifkarlığı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ongoing_declines_for_the_world%E2%80%99s_amphibians_in_the_face_of_emerging_threats.pdf/page1-960px-Ongoing_declines_for_the_world%E2%80%99s_amphibians_in_the_face_of_emerging_threats.pdf.jpg","alt":"Nifkarlığı Tepesi","caption":"Nifkarlığı Tepesi","credit":"Ongoing declines for the world’s amphibians in the face of emerging threats.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nifkarl%C4%B1%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509841","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerinden biri olan Nifkarlığı Tepesi, Ege Bölgesi'nde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Nifkarlığı Tepesi","İzmir","Ege Bölgesi","doğa","gezi","tepe"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["Tarih keşfi","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C4%B1z%C4%B1r%20Bey%20A%C3%A7%C4%B1k%20T%C3%BCrbesi","alt":"Hızır Bey Açık Türbesi","caption":"Hızır Bey Açık Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fairy_Chimneys_-_panoramio_%283%29.jpg/960px-Fairy_Chimneys_-_panoramio_%283%29.jpg","alt":"Hızır Bey Açık Türbesi","caption":"Hızır Bey Açık Türbesi","credit":"Fairy Chimneys - panoramio (3).jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1z%C4%B1r%20Bey%20A%C3%A7%C4%B1k%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391582","tip":"genel"}]
 description: "Ürgüp'te bulunan tarihi türbe ve plaj"
 keywords: ["Ürgüp","Nevşehir","İç Anadolu Bölgesi","tarih","plaj","doğa","gezi","türbe"]

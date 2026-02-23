@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karamanlar%20Tepesi","alt":"Karamanlar Tepesi","caption":"Karamanlar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Karamanlar Tepesi","caption":"Karamanlar Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karamanlar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31565327","tip":"genel"}]
 description: "Karabük'ün önemli doğal alanlarından biri olan Karamanlar Tepesi, ziyaretçilerini büyüleyici bir manzarayla karşılıyor."
 keywords: ["Karamanlar Tepesi","Karabük","Karadeniz Bölgesi","doğa","gezi","tepe"]

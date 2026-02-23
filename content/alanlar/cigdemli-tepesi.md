@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara izleme","Doğa yürüyüşü","Fotografçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87i%C4%9Fdemli%20Tepesi","alt":"Çiğdemli Tepesi","caption":"Çiğdemli Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Armenia%2C_travels_and_studies_%28IA_armeniatravelsst01lync%29.pdf/page1-835px-Armenia%2C_travels_and_studies_%28IA_armeniatravelsst01lync%29.pdf.jpg","alt":"Çiğdemli Tepesi","caption":"Çiğdemli Tepesi","credit":"Armenia, travels and studies (IA armeniatravelsst01lync).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87i%C4%9Fdemli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829413","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerini keşfedin, Çiğdemli Tepesi'ne gidin ve şehrin panoramik manzarasını izleyin"
 keywords: ["Çiğdemli Tepesi","Samsun","Karadeniz Bölgesi","doğa","tepe","manzara","gezi","turizm","Samsun gezilecek yerler"]

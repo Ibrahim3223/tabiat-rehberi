@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["doğa yürüyüşü","tarihî gezinti","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Girikulu%20Tepesi","alt":"Girikulu Tepesi","caption":"Girikulu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Girikulu Tepesi","caption":"Girikulu Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Girikulu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386808","tip":"genel"}]
 description: "Siirt ilinin doğal güzelliklerinden biri olan Girikulu Tepesi, tarihi geçmişi ve zengin florası ile dikkat çekiyor."
 keywords: ["Girikulu Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğa","tarih","flora","fauna"]

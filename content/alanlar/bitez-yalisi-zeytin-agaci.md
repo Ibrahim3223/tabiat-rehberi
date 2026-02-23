@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["doğa yürüyüşü","zeytin ağacı gezisi","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bitez%20Yalisi%20Zeytin%20Agaci","alt":"Bitez Yalisi Zeytin Agaci","caption":"Bitez Yalisi Zeytin Agaci"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Bitez Yalisi Zeytin Agaci","caption":"Bitez Yalisi Zeytin Agaci","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bitez%20Yalisi%20Zeytin%20Agaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227170","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzel bir köşesinde yer alan Bitez Yalisi Zeytin Agaci, yaklaşık 140 hektarlık bir alanı kaplıyor."
 keywords: ["Bitez Yalisi Zeytin Agaci","İç Anadolu Bölgesi","doğa","zeytin ağacı","milli park","turizm","gezi","doğal güzellik"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6pr%C3%BCta%C5%9F%C4%B1%20Tepesi","alt":"Köprütaşı Tepesi","caption":"Köprütaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Köprütaşı Tepesi","caption":"Köprütaşı Tepesi","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6pr%C3%BCta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210270","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Köprütaşı Tepesi, Van'ın doğal güzelliklerini keşfetmek için ideal bir nokta."
 keywords: ["Köprütaşı Tepesi","Van","Doğu Anadolu Bölgesi","Doğal Alanlar","Tepeler","Gezi","Seyahat"]

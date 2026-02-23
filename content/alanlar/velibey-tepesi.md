@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Velibey%20Tepesi","alt":"Velibey Tepesi","caption":"Velibey Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf/page1-800px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf.jpg","alt":"Velibey Tepesi","caption":"Velibey Tepesi","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00singiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Velibey%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391204","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Velibey Tepesi, coğrafyası ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Velibey Tepesi","İç Anadolu Bölgesi","coğrafya","tarih","tepe","doğa","gezi","turizm"]

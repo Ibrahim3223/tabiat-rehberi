@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adana-Adana-Adana-Karaaagac","alt":"Adana-Adana-Adana-Karaaagac","caption":"Adana-Adana-Adana-Karaaagac"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg/960px-Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg","alt":"Adana-Adana-Adana-Karaaagac","caption":"Adana-Adana-Adana-Karaaagac","credit":"Aladağlar Milli Parkı - Aladaglar National Park 01.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Adana-Adana-Karaaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228284","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin güzide milli parklarından biri olan Adana-Adana-Adana-Karaaagac, 140 hektarlık bir alanı kapsıyor."
 keywords: ["Adana","Akdeniz Bölgesi","milli park","doğa","turizm","gezi","yaban hayatı","çevre"]

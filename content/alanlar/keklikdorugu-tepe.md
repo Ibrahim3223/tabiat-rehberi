@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Keklikdoru%C4%9Fu%20Tepe","alt":"Keklikdoruğu Tepe","caption":"Keklikdoruğu Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Keklikdoruğu Tepe","caption":"Keklikdoruğu Tepe","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keklikdoru%C4%9Fu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387078","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Keklikdoruğu Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Keklikdoruğu Tepe","Ankara","İç Anadolu Bölgesi","doğal güzellikler","tarihi geçmişi","tepe","coğrafya","flora","fauna"]

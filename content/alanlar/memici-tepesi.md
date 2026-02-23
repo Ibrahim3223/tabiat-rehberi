@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","yerel yemekleri tatma","kültürel mirasın keşfedilmesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Memici%20Tepesi","alt":"Memici Tepesi","caption":"Memici Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Memici Tepesi","caption":"Memici Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Memici%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390672","tip":"genel"}]
 description: "Amasya'nın yükselen tepeleri arasında yer alan Memici Tepesi, Karadeniz Bölgesi'nin güzide noktalarından biri."
 keywords: ["Memici Tepesi","Amasya","Karadeniz Bölgesi","tepe","doğa","gezi","yerel","coğrafya"]

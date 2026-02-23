@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","yaban hayatı gözlemleme","kültürel zenginlikleri keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Satitre%20Tepesi","alt":"Satitre Tepesi","caption":"Satitre Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Satitre Tepesi","caption":"Satitre Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Satitre%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387680","tip":"genel"}]
 description: "Karadeniz Bölgesi'ndeki Artvin'de yer alan Satitre Tepesi, 1400 metre yüksekliği ile bölgenin önemli noktalarından biri."
 keywords: ["Satitre Tepesi","Artvin","Karadeniz Bölgesi","tepe","doğa","gezilecek yerler","yaban hayatı","doğa yürüyüşü","manzara"]

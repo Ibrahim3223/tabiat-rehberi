@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Yürüyüş","Manzara izleme","Tarihî araştırma","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCn%C4%B1%C5%9F%C4%B1kda%C4%9F%20Tepesi","alt":"Günışıkdağ Tepesi","caption":"Günışıkdağ Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Siverek.jpg/960px-Siverek.jpg","alt":"Günışıkdağ Tepesi","caption":"Günışıkdağ Tepesi","credit":"Siverek.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCn%C4%B1%C5%9F%C4%B1kda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873345","tip":"genel"}]
 description: "Şanlıurfa'nın tarihi ve coğrafi güzelliklerini barındıran Günışıkdağ Tepesi, 140 hektarlık bir alanın üzerinde yükselen bir tepe."
 keywords: ["Şanlıurfa","Güneydoğu Anadolu Bölgesi","tepe","coğrafi güzellik","tarih","doğa"]

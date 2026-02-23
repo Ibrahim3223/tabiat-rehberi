@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6ristan%20%C3%96renyeri","alt":"Köristan Örenyeri","caption":"Köristan Örenyeri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia-_with_some_account_of_their_Antquities_and_Geology_%28in_Two_Volumes%2C_Vol.II%29_%28IA_dli.granth.41504%29.pdf/page1-731px-Researches_in_Asia_Minor%2C_Pontus%2C_and_Armenia-_with_some_account_of_their_Antquities_and_Geology_%28in_Two_Volumes%2C_Vol.II%29_%28IA_dli.granth.41504%29.pdf.jpg","alt":"Köristan Örenyeri","caption":"Köristan Örenyeri","credit":"Researches in Asia Minor, Pontus, and Armenia- with some account of their Antquities and Geology (in Two Volumes, Vol.II) (IA dli.granth.41504).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6ristan%20%C3%96renyeri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728146","tip":"genel"}]
 description: "Sarıveliler Karaman'da bulunan tarihi ve doğal güzellikleri barındıran bir ören yeri"
 keywords: ["Köristan Örenyeri","Sarıveliler","Karaman","İç Anadolu Bölgesi","tarihi örenyeri","doğal güzellik","gezi alanı"]

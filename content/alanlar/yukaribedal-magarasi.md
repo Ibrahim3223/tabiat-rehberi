@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yukar%C4%B1bedal%20Ma%C4%9Faras%C4%B1","alt":"Yukarıbedal Mağarası","caption":"Yukarıbedal Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Travels_in_Kurdistan%2C_with_Notices_of_the_Sources_of_the_Eastern_and_Western_Tigris%2C_and_Ancient_Ruins_in_Their_Neighbourhood_%28IA_jstor-3698077%29.pdf/page1-787px-Travels_in_Kurdistan%2C_with_Notices_of_the_Sources_of_the_Eastern_and_Western_Tigris%2C_and_Ancient_Ruins_in_Their_Neighbourhood_%28IA_jstor-3698077%29.pdf.jpg","alt":"Yukarıbedal Mağarası","caption":"Yukarıbedal Mağarası","credit":"Travels in Kurdistan, with Notices of the Sources of the Eastern and Western Tigris, and Ancient Ruins in Their Neighbourhood (IA jstor-3698077).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yukar%C4%B1bedal%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319882","tip":"genel"}]
 description: "Batman'da yer alan jeopark, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Yukarıbedal Mağarası","Batman","Jeopark","Doğal Alan","Tarih","Turizm","Gezi","Mağara","Jeoloji"]

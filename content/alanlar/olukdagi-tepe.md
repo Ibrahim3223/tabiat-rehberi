@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Olukda%C4%9F%C4%B1%20Tepe","alt":"Olukdağı Tepe","caption":"Olukdağı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HEARING_TO_REVIEW_THE_NATIONAL_FOREST_SYSTEM_AND_ACTIVE_FOREST_MANAGEMENT_%28IA_gov.gpo.fdsys.CHRG-114hhrg94655%29.pdf/page1-960px-HEARING_TO_REVIEW_THE_NATIONAL_FOREST_SYSTEM_AND_ACTIVE_FOREST_MANAGEMENT_%28IA_gov.gpo.fdsys.CHRG-114hhrg94655%29.pdf.jpg","alt":"Olukdağı Tepe","caption":"Olukdağı Tepe","credit":"HEARING TO REVIEW THE NATIONAL FOREST SYSTEM AND ACTIVE FOREST MANAGEMENT (IA gov.gpo.fdsys.CHRG-114hhrg94655).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Olukda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509616","tip":"genel"}]
 description: "Konya'da yer alan Olukdağı Tepe, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Olukdağı Tepe","Konya","Dağ","Doğa","Yeşil Alan","Konya Turizm","Turistik Yerler","Doğa Yürüyüşü","Konya Gezilecek Yerler"]

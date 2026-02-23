@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Denizli-U%C5%9Fak-G%C3%BCre%20Kara%C3%A7am","alt":"Denizli-Uşak-Güre Karaçam","caption":"Denizli-Uşak-Güre Karaçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/California_Digital_Library_%28IA_smyrnafigathomea00roedrich%29.pdf/page1-939px-California_Digital_Library_%28IA_smyrnafigathomea00roedrich%29.pdf.jpg","alt":"Denizli-Uşak-Güre Karaçam","caption":"Denizli-Uşak-Güre Karaçam","credit":"California Digital Library (IA smyrnafigathomea00roedrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-U%C5%9Fak-G%C3%BCre%20Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228477","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide milli parkı, doğa severler için cennet"
 keywords: ["milli park","Denizli","Uşak","Güre Karaçam","doğa","turizm","gezi","Ege Bölgesi"]

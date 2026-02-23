@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kasatamonu-Daday%20Kizilcik","alt":"Kasatamonu-Daday Kizilcik","caption":"Kasatamonu-Daday Kizilcik"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kasatamonu-Daday Kizilcik","caption":"Kasatamonu-Daday Kizilcik","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kasatamonu-Daday%20Kizilcik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228593","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan milli park"
 keywords: ["milli park","doğa","gezi","İç Anadolu Bölgesi","Kasatamonu","Daday Kizilcik","yeşil alan","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Şehri keşfetme","Tarihi yapıları ziyaret","Panoramik manzara izleme","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alihalil%20Tepesi","alt":"Alihalil Tepesi","caption":"Alihalil Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Alihalil Tepesi","caption":"Alihalil Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alihalil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31542476","tip":"genel"}]
 description: "Diyarbakır'da bulunan Alihalil Tepesi, tarihi geçmişi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Alihalil Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","tepe","coğrafya","flora","fauna"]

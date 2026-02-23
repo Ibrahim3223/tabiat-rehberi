@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotograf çekimi","kültürel araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ahi%20Kerim%20Sultan%20T%C3%BCrbesi","alt":"Ahi Kerim Sultan Türbesi","caption":"Ahi Kerim Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ahi Kerim Sultan Türbesi","caption":"Ahi Kerim Sultan Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20Kerim%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391338","tip":"genel"}]
 description: "Merzifon'un tarihi ve doğal güzellikleri arasında yer alan Ahi Kerim Sultan Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Ahi Kerim Sultan Türbesi","Merzifon","tarih","doğa","turizm","gezi","türbe","kültür","miras"]

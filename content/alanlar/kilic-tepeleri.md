@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1l%C4%B1%C3%A7%20Tepeleri","alt":"Kılıç Tepeleri","caption":"Kılıç Tepeleri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Kılıç Tepeleri","caption":"Kılıç Tepeleri","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1%C3%A7%20Tepeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211131","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerinin başında gelen Kılıç Tepeleri, ziyaretçilerini büyüleyen bir doğa harikasıdır"
 keywords: ["Kılıç Tepeleri","Erzurum","Doğu Anadolu Bölgesi","doğa","gezi","turizm"]

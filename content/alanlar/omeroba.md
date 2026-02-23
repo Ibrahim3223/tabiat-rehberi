@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Rehberli turlar","Yaban hayatı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Omeroba","alt":"Omeroba","caption":"Omeroba"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Omeroba","caption":"Omeroba","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Omeroba","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227872","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, Omeroba milli parkında"
 keywords: ["Omeroba","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Trekking","Kamp","Doğa fotoğrafçılığı","Tarihi mekan gezi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adana-Karaisali-Hacili%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Adana-Karaisali-Hacili Kızılçam","caption":"Adana-Karaisali-Hacili Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Adana-Karaisali-Hacili Kızılçam","caption":"Adana-Karaisali-Hacili Kızılçam","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Karaisali-Hacili%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227632","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Adana-Karaisali-Hacili Kızılçam Milli Parkı, 1200 hektarlık yeşil cenneti ve zengin ekosistemiyle dikkat çekiyor."
 keywords: ["Adana-Karaisali-Hacili Kızılçam","Milli Park","İç Anadolu Bölgesi","Kızılçam","Doğa","Ekosistem","Turizm","Gezi"]

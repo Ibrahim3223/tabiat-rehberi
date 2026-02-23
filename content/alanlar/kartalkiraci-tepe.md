@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kartalk%C4%B1rac%C4%B1%20Tepe","alt":"Kartalkıracı Tepe","caption":"Kartalkıracı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Kartalkıracı Tepe","caption":"Kartalkıracı Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartalk%C4%B1rac%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31541281","tip":"genel"}]
 description: "Diyarbakır'da yer alan Kartalkıracı Tepe, 1200 metre yüksekliğiyle bölgenin önemli doğal güzelliklerinden biri."
 keywords: ["Kartalkıracı Tepe","Diyarbakır","Dağ","Doğa","Türkiye","Gezi","Seyahat","Yerel Turizm","Coğrafya"]

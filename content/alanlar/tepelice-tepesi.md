@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarihi eserleri ziyaret","Kültürel mirası keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tepelice%20Tepesi","alt":"Tepelice Tepesi","caption":"Tepelice Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Transcaucasia_and_Ararat-_being_notes_of_a_vacation_tour_in_the_autumn_of_1876_%28IA_transcaucasiaara00bryciala%29.pdf/page1-689px-Transcaucasia_and_Ararat-_being_notes_of_a_vacation_tour_in_the_autumn_of_1876_%28IA_transcaucasiaara00bryciala%29.pdf.jpg","alt":"Tepelice Tepesi","caption":"Tepelice Tepesi","credit":"Transcaucasia and Ararat- being notes of a vacation tour in the autumn of 1876 (IA transcaucasiaara00bryciala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepelice%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389906","tip":"genel"}]
 description: "Samsun'un Karadeniz Bölgesi'nde yer alan Tepelice Tepesi, bölgenin önemli coğrafi oluşumlarından biri olarak dikkat çekiyor."
 keywords: ["Tepelice Tepesi","Samsun","Karadeniz Bölgesi","coğrafi oluşum","doğa","gezi","turizm","Samsun turizm","Karadeniz Bölgesi turizm","Tepelice Tepesi gezisi"]

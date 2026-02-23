@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kabak%20Tepe%20(Hatay)","alt":"Kabak Tepe (Hatay)","caption":"Kabak Tepe (Hatay)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Kabak Tepe","caption":"Kabak Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabak%20Tepe%20(Hatay)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535827","tip":"genel"}]
 description: "Hatay'da yer alan Kabak Tepe, 1200 metre yüksekliği ile bölgenin önemli dağlarından biri. Doğal güzellikleri ve tarihi zenginlikleriyle dikkat çekiyor."
 keywords: ["Kabak Tepe","Hatay","Dağ","Doğa","Tarih","Turizm","Gezi","Seyahat","Coğrafya"]

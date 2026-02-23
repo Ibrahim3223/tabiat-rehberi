@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mustafa%C3%A7elebi%20Adas%C4%B1","alt":"Mustafaçelebi Adası","caption":"Mustafaçelebi Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Greek-Turkish_dispute_in_the_Aegean_Sea_its_ramifcations_for_NATO_and_the_prospects_for_resolution_%28IA_thegreekturkishd109452684%29.pdf/page1-960px-The_Greek-Turkish_dispute_in_the_Aegean_Sea_its_ramifcations_for_NATO_and_the_prospects_for_resolution_%28IA_thegreekturkishd109452684%29.pdf.jpg","alt":"Mustafaçelebi Adası","caption":"Mustafaçelebi Adası","credit":"The Greek-Turkish dispute in the Aegean Sea its ramifcations for NATO and the prospects for resolution (IA thegreekturkishd109452684).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustafa%C3%A7elebi%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49660952","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Mustafaçelebi Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Mustafaçelebi Adası","İzmir Adaları","Ege Denizi","Turizm","Doğa","Tarih","Gezi","Seyahat","İzmir"]

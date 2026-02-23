@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","piknik","doğa yürüyüşü","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Derinkuzunbel%20Tepesi","alt":"Derinkuzunbel Tepesi","caption":"Derinkuzunbel Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg","alt":"Derinkuzunbel Tepesi","caption":"Derinkuzunbel Tepesi","credit":"The Landscape of Sıklık Gates.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Derinkuzunbel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582073","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cevheri, Çorum'un en yüksek noktası"
 keywords: ["Derinkuzunbel Tepesi","Çorum","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]

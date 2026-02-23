@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları gezme","Doğa yürüyüşü","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Telmessos%20Kaya%20Mezarlar%C4%B1%202","alt":"Telmessos Kaya Mezarları 2","caption":"Telmessos Kaya Mezarları 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Telmessos Kaya Mezarları 2","caption":"Telmessos Kaya Mezarları 2","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Telmessos%20Kaya%20Mezarlar%C4%B1%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728173","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinelerinden biri olan Telmessos Kaya Mezarları 2, Muğla'nın zengin kültürel mirasını gözler önüne seren önemli bir destinasyon."
 keywords: ["Telmessos Kaya Mezarları 2","Muğla","Ege Bölgesi","tarihi mekanlar","kaya mezarları","kültürel miras"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarih gezisi","kültür turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tarihi%20Hamam%2C%20%C4%B0zmit","alt":"Tarihi Hamam, İzmit","caption":"Tarihi Hamam, İzmit"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Tarihi Hamam, İzmit","caption":"Tarihi Hamam, İzmit","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarihi%20Hamam%2C%20%C4%B0zmit","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245817","tip":"genel"}]
 description: "İzmit'in tarihi ve doğal güzelliklerini keşfedin. İzmit'teki Tarihi Hamam, Marmara Bölgesi'nin önemli turizm noktalarından biri"
 keywords: ["İzmit","Tarihi Hamam","Marmara Bölgesi","turizm","doğal güzellik","tarih","kültür"]

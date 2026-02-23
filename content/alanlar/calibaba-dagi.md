@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87al%C4%B1baba%20Da%C4%9F%C4%B1","alt":"Çalıbaba Dağı","caption":"Çalıbaba Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rip_rap_-_USACE-p16021coll8-1223.pdf/page1-960px-Rip_rap_-_USACE-p16021coll8-1223.pdf.jpg","alt":"Çalıbaba Dağı","caption":"Çalıbaba Dağı","credit":"Rip rap - USACE-p16021coll8-1223.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87al%C4%B1baba%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823627","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Çalıbaba Dağı'nda doğa yürüyüşü ve manzaraların keyfini çıkarın."
 keywords: ["Çalıbaba Dağı","İzmir","Dağ","Doğa Yürüyüşü","Manzara","Turizm","Gezi","İzmir Turistik Yerler","Dağcılık"]

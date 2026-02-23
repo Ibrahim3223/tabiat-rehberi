@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Asarl%C4%B1k%20Tepeler","alt":"Asarlık Tepeler","caption":"Asarlık Tepeler"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"Asarlık Tepeler","caption":"Asarlık Tepeler","credit":"MOKFC09.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asarl%C4%B1k%20Tepeler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28450849","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinin örneklerinden biri olan Asarlık Tepeler, 140 hektarlık bir alan üzerinde yer alıyor."
 keywords: ["Asarlık Tepeler","Ankara","doğa","gezi","turizm","milli park","iç Anadolu Bölgesi","çevre","ekoloji"]

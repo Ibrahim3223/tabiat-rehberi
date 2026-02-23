@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Al%C4%B1ml%C4%B1%20Tepe","alt":"Alımlı Tepe","caption":"Alımlı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Alımlı Tepe","caption":"Alımlı Tepe","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Al%C4%B1ml%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573301","tip":"genel"}]
 description: "Bingöl'de yer alan Alımlı Tepe, doğa severler için ideal bir destinasyon. 1200 hektarlık yeşil alanı keşfedin!"
 keywords: ["Alımlı Tepe","Bingöl","Dağ","Doğa","Trekking","Kamp","Gezi","Turizm","Doğa Sporları"]

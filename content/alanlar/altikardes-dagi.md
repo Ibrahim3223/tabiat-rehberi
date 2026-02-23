@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alt%C4%B1karde%C5%9F%20Da%C4%9F%C4%B1","alt":"Altıkardeş Dağı","caption":"Altıkardeş Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Altıkardeş Dağı","caption":"Altıkardeş Dağı","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1karde%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31532156","tip":"genel"}]
 description: "Bingöl'de yer alan Altıkardeş Dağı, doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Altıkardeş Dağı","Bingöl","Dağ","Doğa","Trekking","Turizm","Gezi","Bingöl Gezi","Dağcılık"]

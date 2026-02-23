@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ramadan%20Tepesi","alt":"Ramadan Tepesi","caption":"Ramadan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Forest_vegetation_of_the_Black_Hills_National_Forest_of_South_Dakota_and_Wyoming_-_a_habitat_type_classification_%28IA_CAT92273487%29.pdf/page1-960px-Forest_vegetation_of_the_Black_Hills_National_Forest_of_South_Dakota_and_Wyoming_-_a_habitat_type_classification_%28IA_CAT92273487%29.pdf.jpg","alt":"Ramadan Tepesi","caption":"Ramadan Tepesi","credit":"Forest vegetation of the Black Hills National Forest of South Dakota and Wyoming - a habitat type classification (IA CAT92273487).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ramadan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572462","tip":"genel"}]
 description: "Van'ın doğal güzelliklerini keşfedin, Ramadan Tepesi'ne çıkın ve Doğu Anadolu Bölgesi'nin büyüleyici manzaralarına şahit olun."
 keywords: ["Van","Doğu Anadolu Bölgesi","Ramadan Tepesi","doğa","gezi","keşif","manzara","tepe","çevre"]

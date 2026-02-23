@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihi yapıları keşfetmek","güneşin batışını izlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20%C4%B0brahim%20T%C3%BCrbesi%2C%20Alan%C5%9Feyhi","alt":"Şeyh İbrahim Türbesi, Alanşeyhi","caption":"Şeyh İbrahim Türbesi, Alanşeyhi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Şeyh İbrahim Türbesi, Alanşeyhi","caption":"Şeyh İbrahim Türbesi, Alanşeyhi","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C4%B0brahim%20T%C3%BCrbesi%2C%20Alan%C5%9Feyhi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582717","tip":"genel"}]
 description: "Vezirköprü/Samsun'da yer alan Şeyh İbrahim Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Şeyh İbrahim Türbesi","Alanşeyhi","Vezirköprü","Samsun","tarih","doğal güzellik","turizm","gezi"]

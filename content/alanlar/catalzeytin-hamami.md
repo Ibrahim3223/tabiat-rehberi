@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","güneşlenme","yürüyüş","doğa gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87atalzeytin%20Hamam%C4%B1","alt":"Çatalzeytin Hamamı","caption":"Çatalzeytin Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Çatalzeytin Hamamı","caption":"Çatalzeytin Hamamı","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atalzeytin%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738977","tip":"genel"}]
 description: "Kastamonu'nun Çatalzeytin ilçesinde bulunan doğal güzellik"
 keywords: ["Kastamonu","Çatalzeytin","Karadeniz Bölgesi","doğal güzellik","plaj","deniz","tatil"]

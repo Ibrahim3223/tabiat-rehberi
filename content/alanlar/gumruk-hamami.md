@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["su sporları","güneş banyosu","doğa yürüyüşü","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCmr%C3%BCk%20Hamam%C4%B1","alt":"Gümrük Hamamı","caption":"Gümrük Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Gümrük Hamamı","caption":"Gümrük Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCmr%C3%BCk%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738826","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Gümrük Hamamı, Erzurum'un Yakutiye ilçesinde yer alan bir plajdır."
 keywords: ["Gümrük Hamamı","Erzurum","Yakutiye","Doğu Anadolu Bölgesi","plaj","doğal güzellik","gezi","turizm"]

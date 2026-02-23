@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ziyaret%20Tepesi%20(Kars%2C%2040.37%20Kuzey)","alt":"Ziyaret Tepesi (Kars, 40.37 Kuzey)","caption":"Ziyaret Tepesi (Kars, 40.37 Kuzey)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf/page1-616px-Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf.jpg","alt":"Ziyaret Tepesi (Kars, 40.37 Kuzey)","caption":"Ziyaret Tepesi (Kars, 40.37 Kuzey)","credit":"Armenia and its sorrows (IA armeniaitssorrow00wint).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20Tepesi%20(Kars%2C%2040.37%20Kuzey)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388281","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Kars şehrinde yer alan Ziyaret Tepesi, tarihi ve coğrafi güzellikleri bir araya getiren bir destinasyon"
 keywords: ["Kars","Doğu Anadolu Bölgesi","Ziyaret Tepesi","tarih","coğrafya","doğa","gezi","turizm"]

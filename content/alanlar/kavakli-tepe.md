@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kavakl%C4%B1%20Tepe","alt":"Kavaklı Tepe","caption":"Kavaklı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Kavaklı Tepe","caption":"Kavaklı Tepe","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavakl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387746","tip":"genel"}]
 description: "Erzurum'un güzide mekanlarından biri olan Kavaklı Tepe,  doğa severlerin uğrak noktası"
 keywords: ["Kavaklı Tepe","Erzurum","Doğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

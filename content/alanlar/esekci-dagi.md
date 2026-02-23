@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=E%C5%9Fek%C3%A7i%20Da%C4%9F%C4%B1","alt":"Eşekçi Dağı","caption":"Eşekçi Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg/960px-Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg","alt":"Eşekçi Dağı","caption":"Eşekçi Dağı","credit":"Stamp of Indonesia - 2018 - Colnect 800738 - Environmental Protection - Bamboo Forest.jpeg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Fek%C3%A7i%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34867998","tip":"genel"}]
 description: "Çanakkale'nin doğal güzelliklerini keşfedin, Eşekçi Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Eşekçi Dağı","Çanakkale","Dağ","Doğa","Manzara","Turizm","Gezi","Seyahat","Çevre"]

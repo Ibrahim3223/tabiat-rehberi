@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mamal%C4%B1%20Adas%C4%B1","alt":"Mamalı Adası","caption":"Mamalı Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf/page1-960px-Big_dairy_data_to_unravel_effects_of_environmental%2C_physiological_and_morphological_factors_on_milk_production_of_mountain-pastured_Braunvieh_cows.pdf.jpg","alt":"Mamalı Adası","caption":"Mamalı Adası","credit":"Big dairy data to unravel effects of environmental, physiological and morphological factors on milk production of mountain-pastured Braunvieh cows.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mamal%C4%B1%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49656473","tip":"genel"}]
 description: "Balıkesir'in güzide adalarından biri olan Mamalı Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Mamalı Adası","Balıkesir Adaları","Türkiye Adaları","Doğal Alanlar","Yeşil Cennet","Balıkesir Gezilecek Yerler","Ada Tatili","Doğa Turizmi","Turistik Yerler"]

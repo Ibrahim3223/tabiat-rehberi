@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Did%C4%9Fere%20%C5%9Eelalesi","alt":"Didğere Şelalesi","caption":"Didğere Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kursunlu_Waterfall_Nature_Park.jpg/960px-Kursunlu_Waterfall_Nature_Park.jpg","alt":"Didğere Şelalesi","caption":"Didğere Şelalesi","credit":"Kursunlu Waterfall Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Did%C4%9Fere%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97207856","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerinden biri olan Didğere Şelalesi, Artvin'de yer alır."
 keywords: ["Didğere Şelalesi","Artvin","Karadeniz Bölgesi","şelale","doğa","gezi","turizm"]

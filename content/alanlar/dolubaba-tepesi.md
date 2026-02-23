@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dolubaba%20Tepesi","alt":"Dolubaba Tepesi","caption":"Dolubaba Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/New_chapters_in_the_warfare_of_science_%28IA_cu31924092291495%29.pdf/page1-789px-New_chapters_in_the_warfare_of_science_%28IA_cu31924092291495%29.pdf.jpg","alt":"Dolubaba Tepesi","caption":"Dolubaba Tepesi","credit":"New chapters in the warfare of science (IA cu31924092291495).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dolubaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31525447","tip":"genel"}]
 description: "Sivas'ın gizli doğa harikası: Dolubaba Tepesi. İç Anadolu Bölgesi'nin en güzel manzaralı noktası"
 keywords: ["Dolubaba Tepesi","Sivas","İç Anadolu Bölgesi","doğa","manzara","tepe","gezi","turizm"]

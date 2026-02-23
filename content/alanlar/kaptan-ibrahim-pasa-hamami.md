@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihi hamamı gezmek","Çevresindeki tarihi yapıları ziyaret etmek","Yeşil alanlarda dinlenmek","Yakındaki çarşilarda alışveriş yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaptan%20%C4%B0brahim%20Pa%C5%9Fa%20Hamam%C4%B1","alt":"Kaptan İbrahim Paşa Hamamı","caption":"Kaptan İbrahim Paşa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Kaptan İbrahim Paşa Hamamı","caption":"Kaptan İbrahim Paşa Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaptan%20%C4%B0brahim%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738689","tip":"genel"}]
 description: "Fatih'in tarihi hamamları arasında yer alan Kaptan İbrahim Paşa Hamamı, Marmara Bölgesi'nin kalbinde, İstanbul'un zengin geçmişiyle buluşuyor."
 keywords: ["Kaptan İbrahim Paşa Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarihi hamam","gezi","turizm","kültür","tarih"]

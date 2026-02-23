@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mikale%20Burnu","alt":"Mikale Burnu","caption":"Mikale Burnu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/U.S._Army_Corps_of_Engineers_%28Corps%29_Regulatory_Program_reissuance_and_issuance_of_nationwide_permits_with_Ohio_EPA_401_water_quality_certification_and_Ohio_Department_of_Natural_Resources_consis_..._-_USACE-p16021coll15-4578.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Mikale Burnu","caption":"Mikale Burnu","credit":"U.S. Army Corps of Engineers (Corps) Regulatory Program reissuance and issuance of nationwide permits with Ohio EPA 401 water quality certification and Ohio Department of Natural Resources consis ... - USACE-p16021coll15-4578.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mikale%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q2937072","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Mikale Burnu, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Mikale Burnu","kuş cenneti","Türkiye","doğa","yeşil alan","kuş gözlem","turizm","ekoturizm","çevre"]

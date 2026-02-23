@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yurt%20Da%C4%9F%C4%B1","alt":"Yurt Dağı","caption":"Yurt Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Yurt Dağı","caption":"Yurt Dağı","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yurt%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31501900","tip":"genel"}]
 description: "Şırnak'ta bulunan Yurt Dağı, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Yurt Dağı","Şırnak","Dağ","Doğa","Trekking","Coğrafi Oluşum","Turizm","Gezi","Şırnak Turistik Yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Plaj aktiviteleri","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eehit%20Hac%C4%B1%20Yakup%20Efendi%20T%C3%BCrbesi","alt":"Şehit Hacı Yakup Efendi Türbesi","caption":"Şehit Hacı Yakup Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Animal_disease_thesaurus_%28IA_CAT80734093004%29.pdf/page1-858px-Animal_disease_thesaurus_%28IA_CAT80734093004%29.pdf.jpg","alt":"Şehit Hacı Yakup Efendi Türbesi","caption":"Şehit Hacı Yakup Efendi Türbesi","credit":"Animal disease thesaurus (IA CAT80734093004).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehit%20Hac%C4%B1%20Yakup%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391754","tip":"genel"}]
 description: "Osmangazi, Bursa'da bulunan tarihi türbe ve plaj alanı"
 keywords: ["Şehit Hacı Yakup Efendi Türbesi","Osmangazi","Bursa","Marmara Bölgesi","Türbe","Plaj","Tarih"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Goynuk-Hacimahmut%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Bolu-Goynuk-Hacimahmut Kızılçam","caption":"Bolu-Goynuk-Hacimahmut Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Abant_Lake_Nature_Park.jpg/960px-Abant_Lake_Nature_Park.jpg","alt":"Bolu-Goynuk-Hacimahmut Kızılçam","caption":"Bolu-Goynuk-Hacimahmut Kızılçam","credit":"Abant Lake Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Goynuk-Hacimahmut%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227323","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Bolu-Goynuk-Hacimahmut Kızılçam, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Bolu","Karadeniz Bölgesi","milli park","kızılçam","doğa","gezi","turizm","çevre"]

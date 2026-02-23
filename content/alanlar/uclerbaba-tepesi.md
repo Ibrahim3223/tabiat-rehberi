@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Tepenin etrafını gezmek","Manzara noktalarından Sivas'ı seyretmek","Tarihi yapıları ziyaret etmek","Doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9C%C3%A7lerbaba%20Tepesi","alt":"Üçlerbaba Tepesi","caption":"Üçlerbaba Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf/page1-860px-Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf.jpg","alt":"Üçlerbaba Tepesi","caption":"Üçlerbaba Tepesi","credit":"Across Asia on a bicycle; (IA acrossasiaonbicy00alle).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7lerbaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820553","tip":"genel"}]
 description: "Sivas'ın tarihi ve doğal güzelliklerini barındıran Üçlerbaba Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Üçlerbaba Tepesi","Sivas","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara","Sivas'ın güzellikleri"]

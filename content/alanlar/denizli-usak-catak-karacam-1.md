@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","çevre keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Denizli-Usak-Catak%20Karacam%201","alt":"Denizli-Usak-Catak Karacam 1","caption":"Denizli-Usak-Catak Karacam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Denizli-Usak-Catak Karacam 1","caption":"Denizli-Usak-Catak Karacam 1","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Usak-Catak%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227503","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti Denizli-Usak-Catak Karacam 1, 140 hektarlık geniş bir alana yayılmış, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Denizli","Usak","Catak Karacam 1","Ege Bölgesi","milli park","doğa","gezi","turizm","çevre"]

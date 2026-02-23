@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Avadangedi%C4%9Fi%20Tepesi","alt":"Avadangediği Tepesi","caption":"Avadangediği Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Avadangediği Tepesi","caption":"Avadangediği Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avadangedi%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536187","tip":"genel"}]
 description: "Hatay'ın doğal güzellikleri arasında yer alan Avadangediği Tepesi, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir."
 keywords: ["Avadangediği Tepesi","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","çevre","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ak%C4%B1ll%C4%B1ca%20Tepe","alt":"Çakıllıca Tepe","caption":"Çakıllıca Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf/page1-875px-Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf.jpg","alt":"Çakıllıca Tepe","caption":"Çakıllıca Tepe","credit":"Revue suisse de zoologie (IA revuesuissede11042003schw).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ak%C4%B1ll%C4%B1ca%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34827805","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin. Çakıllıca Tepe, Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Antalya","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","çevre","ekoloji","flora","fauna"]

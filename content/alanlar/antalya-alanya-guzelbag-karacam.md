@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","açık hava etkinlikleri","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Alanya-Guzelbag-Kara%C3%A7am","alt":"Antalya-Alanya-Guzelbag-Karaçam","caption":"Antalya-Alanya-Guzelbag-Karaçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Solitariness_-_panoramio.jpg/960px-Solitariness_-_panoramio.jpg","alt":"Antalya-Alanya-Guzelbag-Karaçam","caption":"Antalya-Alanya-Guzelbag-Karaçam","credit":"Solitariness - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Alanya-Guzelbag-Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228257","tip":"genel"}]
 description: "Antalya'nın Akdeniz Bölgesi'nde yer alan doğal güzellikler arasında yer alan bir milli park"
 keywords: ["Antalya","Alanya","Guzelbag","Karaçam","milli park","doğal güzellik","Akdeniz Bölgesi"]

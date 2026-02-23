@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["plajda dinlenmek","tarihi mekanları gezmek","doğa yürüyüşleri","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamza%20Baba%20T%C3%BCrbesi","alt":"Hamza Baba Türbesi","caption":"Hamza Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg","alt":"Hamza Baba Türbesi","caption":"Hamza Baba Türbesi","credit":"Süzer Sun Dreams Beach 10 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamza%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391572","tip":"genel"}]
 description: "İzmir'in Kemalpaşa ilçesinde bulunan Hamza Baba Türbesi, tarihi ve doğal güzellikleri bir arada sunan bir destinasyon."
 keywords: ["Hamza Baba Türbesi","Kemalpaşa","İzmir","tarih","doğa","gezi","türbe","plaj"]

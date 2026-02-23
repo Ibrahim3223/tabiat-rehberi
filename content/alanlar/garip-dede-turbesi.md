@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezmek","doğal güzellikleri keşfetmek","kuş gözlemi yapmak","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Garip%20Dede%20T%C3%BCrbesi","alt":"Garip Dede Türbesi","caption":"Garip Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Garip Dede Türbesi","caption":"Garip Dede Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Garip%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390972","tip":"genel"}]
 description: "Küçükçekmece'de tarihi ve doğal güzelliklerin birleştiği Garip Dede Türbesi, Marmara Bölgesi'nin önemli ziyaret noktalarından biri."
 keywords: ["Garip Dede Türbesi","Küçükçekmece","Marmara Bölgesi","tarihi mekanlar","doğal güzellikler","İstanbul","gezi noktaları","tarihçe","coğrafya","flora","fauna"]

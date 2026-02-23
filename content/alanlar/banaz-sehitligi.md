@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî gezi","doğa yürüyüşü","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Banaz%20%C5%9Eehitli%C4%9Fi","alt":"Banaz Şehitliği","caption":"Banaz Şehitliği"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Banaz Şehitliği","caption":"Banaz Şehitliği","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Banaz%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728246","tip":"genel"}]
 description: "Uşak'ın Banaz ilçesinde bulunan Banaz Şehitliği, lchçe ve doğasıyla dikkat çeken bir alan"
 keywords: ["Banaz Şehitliği","Uşak","Ege Bölgesi","tarih","doğa","gezi","ziyaret"]

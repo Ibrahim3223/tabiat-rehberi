@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","tarihi kalıntıları ziyaret","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yukar%C4%B1yandakl%C4%B1%20Tepesi","alt":"Yukarıyandaklı Tepesi","caption":"Yukarıyandaklı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Yukarıyandaklı Tepesi","caption":"Yukarıyandaklı Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yukar%C4%B1yandakl%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389832","tip":"genel"}]
 description: "Çankırı'nın doğal güzelliklerini keşfedin. Yukarıyandaklı Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Yukarıyandaklı Tepesi","Çankırı","İç Anadolu Bölgesi","doğa","gezi","tepe","coğrafya","flora","fauna"]

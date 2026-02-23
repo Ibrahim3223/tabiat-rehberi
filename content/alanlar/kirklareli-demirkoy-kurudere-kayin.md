@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rklareli-Demirkoy-Kurudere%20Kayin","alt":"Kırklareli-Demirkoy-Kurudere Kayin","caption":"Kırklareli-Demirkoy-Kurudere Kayin"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%C4%B0%C4%9FneadaFloodplainForestsNP_%283%29.JPG/960px-%C4%B0%C4%9FneadaFloodplainForestsNP_%283%29.JPG","alt":"Kırklareli-Demirkoy-Kurudere Kayin","caption":"Kırklareli-Demirkoy-Kurudere Kayin","credit":"İğneadaFloodplainForestsNP (3).JPG","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rklareli-Demirkoy-Kurudere%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227256","tip":"genel"}]
 description: "Kırklareli ilinin Demirköy ilçesinde yer alan Kurudere Kayın Milli Parkı, 140 hektarlık geniş bir alanı kapsar."
 keywords: ["Kırklareli","Demirköy","Kurudere Kayın","Milli Park","Marmara Bölgesi","doğa","turizm"]

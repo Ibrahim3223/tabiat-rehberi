@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşleri","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Liman%20Hamam%C4%B1%20(K%C4%B1y%C4%B1k%C3%B6y)","alt":"Liman Hamamı (Kıyıköy)","caption":"Liman Hamamı (Kıyıköy)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Liman Hamamı (Kıyıköy)","caption":"Liman Hamamı (Kıyıköy)","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Liman%20Hamam%C4%B1%20(K%C4%B1y%C4%B1k%C3%B6y)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q127386498","tip":"genel"}]
 description: "Marmara Bölgesi'nin saklı cenneti, Vize/Kırklareli'de yer alan Liman Hamamı (Kıyıköy) plajı"
 keywords: ["Kırklareli","Vize","Marmara Bölgesi","Liman Hamamı","Kıyıköy","plaj","deniz","turizm","gezi","yolculuk"]

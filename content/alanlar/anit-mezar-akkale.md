@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=An%C4%B1t%20mezar%2C%20Akkale","alt":"Anıt mezar, Akkale","caption":"Anıt mezar, Akkale"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Anıt mezar, Akkale","caption":"Anıt mezar, Akkale","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/An%C4%B1t%20mezar%2C%20Akkale","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728089","tip":"genel"}]
 description: "Erdemli/Mersin'de yer alan tarihi Anıt mezar, Akkale"
 keywords: ["Anıt mezar","Akkale","Erdemli","Mersin","tarih","coğrafya","flora","fauna","ziyaret"]

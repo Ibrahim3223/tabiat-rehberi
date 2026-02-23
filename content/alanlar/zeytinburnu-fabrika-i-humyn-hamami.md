@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa izleme","tarihçe hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zeytinburnu%20Fabrika-i%20H%C3%BCm%C3%A2y%C3%BBn%20Hamam%C4%B1","alt":"Zeytinburnu Fabrika-i Hümâyûn Hamamı","caption":"Zeytinburnu Fabrika-i Hümâyûn Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Zeytinburnu Fabrika-i Hümâyûn Hamamı","caption":"Zeytinburnu Fabrika-i Hümâyûn Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeytinburnu%20Fabrika-i%20H%C3%BCm%C3%A2y%C3%BBn%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739066","tip":"genel"}]
 description: "Zeytinburnu'nun tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Zeytinburnu","Fabrika-i Hümâyûn Hamamı","İstanbul","Marmara Bölgesi","tarih","doğa","gezi","turizm"]

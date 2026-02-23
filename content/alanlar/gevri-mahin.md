@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gevri%20Mahin","alt":"Gevri Mahin","caption":"Gevri Mahin"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rocky_Mountain_adventures_%28IA_rockymountainadv00shelrich%29.pdf/page1-804px-Rocky_Mountain_adventures_%28IA_rockymountainadv00shelrich%29.pdf.jpg","alt":"Gevri Mahin","caption":"Gevri Mahin","credit":"Rocky Mountain adventures (IA rockymountainadv00shelrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gevri%20Mahin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21696857","tip":"genel"}]
 description: "Van'da bulunan Gevri Mahin Dağı, 1200 hektarlık yeşil cenneti ile doğa severlerin gözdesi"
 keywords: ["Gevri Mahin","Van","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezilecek Yerler","Van Gezisi"]

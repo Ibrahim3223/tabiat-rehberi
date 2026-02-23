@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["denizde yüzme","doğa yürüyüşü","tepeye çıkma","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1r%20Mutaf%20Tepe","alt":"Kır Mutaf Tepe","caption":"Kır Mutaf Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Kır Mutaf Tepe","caption":"Kır Mutaf Tepe","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1r%20Mutaf%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728328","tip":"genel"}]
 description: "Salihli, Manisa'da yer alan Kır Mutaf Tepe, Ege Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Kır Mutaf Tepe","Salihli","Manisa","Ege Bölgesi","doğal güzellik","plaj","tepe"]

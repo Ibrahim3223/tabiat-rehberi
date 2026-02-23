@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Gezi","Tarih keşfi","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20%C5%9Eehzade%20ve%20Valide%20Sultan%20Daireleri%20Binas%C4%B1","alt":"Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası","caption":"Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası","caption":"Yıldız Sarayı Şehzade ve Valide Sultan Daireleri Binası","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20%C5%9Eehzade%20ve%20Valide%20Sultan%20Daireleri%20Binas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133683556","tip":"genel"}]
 description: "Beşiktaş'ta yer alan tarihi bir yapı"
 keywords: ["Yıldız Sarayı","Şehzade Daireleri","Valide Sultan Daireleri","Beşiktaş","İstanbul","Marmara Bölgesi","Tarihi Yapılar"]

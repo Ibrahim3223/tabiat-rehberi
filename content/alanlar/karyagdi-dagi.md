@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karya%C4%9Fd%C4%B1%20Da%C4%9F%C4%B1","alt":"Karyağdı Dağı","caption":"Karyağdı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Karyağdı Dağı","caption":"Karyağdı Dağı","credit":"A Geological Wonder in Nallıhan.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karya%C4%9Fd%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564929","tip":"genel"}]
 description: "Ankara'nın önemli dağlarından biri olan Karyağdı Dağı, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Karyağdı Dağı","Ankara","Dağ","Doğa","Turizm","Gezi","Trekking","Ankara'nın dağları","Karyağdı Dağı gezisi"]

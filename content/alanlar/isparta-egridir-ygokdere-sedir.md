@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Fotoğraf çekimi","Vahşi yaşam gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Egridir-Y.gokdere%20Sedir","alt":"Isparta-Egridir-Y.gokdere Sedir","caption":"Isparta-Egridir-Y.gokdere Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/P_20180323_150213-01.jpg/960px-P_20180323_150213-01.jpg","alt":"Isparta-Egridir-Y.gokdere Sedir","caption":"Isparta-Egridir-Y.gokdere Sedir","credit":"P 20180323 150213-01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Egridir-Y.gokdere%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227606","tip":"genel"}]
 description: "Isparta ilinde yer alan milli park, 140 hektarlık yeşil alanıyla dikkat çekiyor. Akdeniz Bölgesi'nde bulunan bu milli park, doğal güzellikleri ve zengin fauna ile ziyaretçilerini bekliyor."
 keywords: ["Isparta","Egridir","Y.gokdere Sedir","milli park","doğa","yeşil alan","Akdeniz Bölgesi"]

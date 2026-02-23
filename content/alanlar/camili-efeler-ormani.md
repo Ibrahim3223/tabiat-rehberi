@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Yaban hayatı izleme","Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Camili%20Efeler%20Ormani","alt":"Camili Efeler Ormani","caption":"Camili Efeler Ormani"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Camili Efeler Ormani","caption":"Camili Efeler Ormani","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Camili%20Efeler%20Ormani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227237","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Camili Efeler Ormani, 140 hektarlık geniş bir alanı kapsar. Zengin flora ve fauna çeşitliliği ile dikkat çeker."
 keywords: ["Camili Efeler Ormani","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","turizm","gezi","yaban hayatı"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Yürüyüş","Bisiklet Turu","Piknik","Doğa Fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Mustafakemalpa%C5%9Fa-Pa%C5%9Falar%20Kayin","alt":"Bursa-Mustafakemalpaşa-Paşalar Kayin","caption":"Bursa-Mustafakemalpaşa-Paşalar Kayin"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Uluda%C4%9F_-_Olympos_Misios.jpg/960px-Uluda%C4%9F_-_Olympos_Misios.jpg","alt":"Bursa-Mustafakemalpaşa-Paşalar Kayin","caption":"Bursa-Mustafakemalpaşa-Paşalar Kayin","credit":"Uludağ - Olympos Misios.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Pa%C5%9Falar%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227239","tip":"genel"}]
 description: "Bursa'da yer alan Paşalar Kayin Milli Parkı, 140 hektarlık yeşil alanı ve zengin faunasıyla ziyaretçilerini bekliyor."
 keywords: ["Bursa","Milli Park","Paşalar Kayin","Marmara Bölgesi","Doğa","Flora","Fauna","Ziyaret","Gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih hakkında bilgi edinme","doğa yürüyüşü","fotografcılık","ekolojik gözlem"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurtbo%C4%9Fan%20T%C3%BCrbesi","alt":"Kurtboğan Türbesi","caption":"Kurtboğan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Kurtboğan Türbesi","caption":"Kurtboğan Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtbo%C4%9Fan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390510","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Kurtboğan Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Kurtboğan Türbesi","Amasya","Karadeniz Bölgesi","tarih","doğa","gezi","turizm","kültür"]

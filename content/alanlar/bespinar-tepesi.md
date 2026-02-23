@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Manzara seyretme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Be%C5%9Fp%C4%B1nar%20Tepesi","alt":"Beşpınar Tepesi","caption":"Beşpınar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf/page1-614px-Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf.jpg","alt":"Beşpınar Tepesi","caption":"Beşpınar Tepesi","credit":"Journal of a tour in Asia Minor - with comparative remarks on the ancient and modern geography of that country (IA gri 000033125011216732).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fp%C4%B1nar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390700","tip":"genel"}]
 description: "Tokat'ın güzide noktalarından Beşpınar Tepesi, ziyaretçilerini bekliyor. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Beşpınar Tepesi","Tokat","Karadeniz Bölgesi","Doğa","Turizm","Gezi","Tepeler","Yeşil Alanlar"]

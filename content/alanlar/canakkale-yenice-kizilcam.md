@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Canakkale-Yenice%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Canakkale-Yenice Kızılçam","caption":"Canakkale-Yenice Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf/page1-960px-Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf.jpg","alt":"Canakkale-Yenice Kızılçam","caption":"Canakkale-Yenice Kızılçam","credit":"Effects of forest fire on physical, chemical and biological soil properties.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Yenice%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227328","tip":"genel"}]
 description: "Çanakkale'de yer alan 140 hektarlık milli park, yeşil alanlarıyla ziyaretçilerini bekliyor."
 keywords: ["Çanakkale","Yenice","Kızılçam","milli park","Marmara Bölgesi","doğa","yeşil alan"]

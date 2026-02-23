@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","tarih gezisi","kültürel gezi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trabzon-Surmene-Arakli%20Dogu%20Ladini","alt":"Trabzon-Surmene-Arakli Dogu Ladini","caption":"Trabzon-Surmene-Arakli Dogu Ladini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nature_photo_of_trabzon.jpg/960px-Nature_photo_of_trabzon.jpg","alt":"Trabzon-Surmene-Arakli Dogu Ladini","caption":"Trabzon-Surmene-Arakli Dogu Ladini","credit":"Nature photo of trabzon.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Surmene-Arakli%20Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227993","tip":"genel"}]
 description: "Trabzon'un doğal güzellikleri arasında yer alan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Trabzon","Surmene","Arakli","Dogu Ladini","milli park","doğal güzellik","yeşil alan","futbol sahası"]

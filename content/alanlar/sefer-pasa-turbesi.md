@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Tarihî araştırma","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sefer%20Pa%C5%9Fa%20T%C3%BCrbesi","alt":"Sefer Paşa Türbesi","caption":"Sefer Paşa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/New_England_Spectator_%28IA_1d9e19f8-014d-42a1-8f57-29a8de969664%29.pdf/page1-960px-New_England_Spectator_%28IA_1d9e19f8-014d-42a1-8f57-29a8de969664%29.pdf.jpg","alt":"Sefer Paşa Türbesi","caption":"Sefer Paşa Türbesi","credit":"New England Spectator (IA 1d9e19f8-014d-42a1-8f57-29a8de969664).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sefer%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391751","tip":"genel"}]
 description: "Tokat'ta tarihi ve kültürel bir değer olan Sefer Paşa Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Sefer Paşa Türbesi","Tokat","tarih","kültür","gezi","turizm","Karadeniz Bölgesi","plaj","türbe"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa aktiviteleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Mustafakemalpa%C5%9Fa-Turfal%20Mese","alt":"Bursa-Mustafakemalpaşa-Turfal Mese","caption":"Bursa-Mustafakemalpaşa-Turfal Mese"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/British_medical_journal_%28IA_1877britishmedic02brit%29.pdf/page1-960px-British_medical_journal_%28IA_1877britishmedic02brit%29.pdf.jpg","alt":"Bursa-Mustafakemalpaşa-Turfal Mese","caption":"Bursa-Mustafakemalpaşa-Turfal Mese","credit":"British medical journal (IA 1877britishmedic02brit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Turfal%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227703","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli doğal alanlarından biri olan Bursa-Mustafakemalpaşa-Turfal Mese, ziyaretçilerini bekliyor."
 keywords: ["Bursa","Marmara Bölgesi","doğal alan","milli park","turizm","çevre","ekoloji","yaban hayatı","gezi","ziyaret"]

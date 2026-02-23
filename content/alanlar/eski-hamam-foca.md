@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzmek","Güneşlenmek","Tarih ve kültür gezisi","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eski%20Hamam%2C%20Fo%C3%A7a","alt":"Eski Hamam, Foça","caption":"Eski Hamam, Foça"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg","alt":"Eski Hamam, Foça","caption":"Eski Hamam, Foça","credit":"Süzer Sun Dreams Beach 11 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%20Hamam%2C%20Fo%C3%A7a","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245833","tip":"genel"}]
 description: "Foça'nın tarihi ve doğal güzelliklerini keşfedin. Eski Hamam, Foça'nın en önemli plajlarından biri."
 keywords: ["Eski Hamam","Foça","İzmir","Ege Bölgesi","plaj","deniz","tarih","doğa","gezi"]

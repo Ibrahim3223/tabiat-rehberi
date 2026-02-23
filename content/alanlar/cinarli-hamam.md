@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["denizde yüzme","güneşlenme","su sporları","doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C4%B1narl%C4%B1%20Hamam","alt":"Çınarlı Hamam","caption":"Çınarlı Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg","alt":"Çınarlı Hamam","caption":"Çınarlı Hamam","credit":"Süzer Sun Dreams Beach 10 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1narl%C4%B1%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738956","tip":"genel"}]
 description: "Bergama'da yer alan Çınarlı Hamam, Ege Bölgesi'nin önemli turizm noktalarından biri."
 keywords: ["Bergama","İzmir","Ege Bölgesi","plaj","deniz","turizm","çevre","doğa","gezi"]

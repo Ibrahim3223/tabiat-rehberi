@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87atalsay%20Tepesi","alt":"Çatalsay Tepesi","caption":"Çatalsay Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Çatalsay Tepesi","caption":"Çatalsay Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atalsay%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828605","tip":"genel"}]
 description: "Yozgat'ın doğal güzelliklerinden biri olan Çatalsay Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir."
 keywords: ["Çatalsay Tepesi","Yozgat","İç Anadolu Bölgesi","doğal güzellik","coğrafi oluşum","tepe","gezi","turizm"]

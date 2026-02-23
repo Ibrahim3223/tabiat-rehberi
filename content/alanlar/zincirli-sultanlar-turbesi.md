@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Ziyaretçilerin ilgisine göre değişir"
 aktiviteler: ["Türbe ve plajı keşfetmek","İki tepe arasında yürüyüş yapmak","Deniz kenarında piknik yapmak","Tarih ve kültür hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zincirli%20Sultanlar%20T%C3%BCrbesi","alt":"Zincirli Sultanlar Türbesi","caption":"Zincirli Sultanlar Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Zincirli Sultanlar Türbesi","caption":"Zincirli Sultanlar Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zincirli%20Sultanlar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391008","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi türbe ve plaj"
 keywords: ["Zincirli Sultanlar Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarih","türbe","plaj"]

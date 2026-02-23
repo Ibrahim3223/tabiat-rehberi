@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sipahiler%20G%C3%B6leti","alt":"Sipahiler Göleti","caption":"Sipahiler Göleti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Yuvac%C4%B1k_G%C3%B6l%C3%BC_Kocaeli_T%C3%BCrkiye_1.jpg","alt":"Sipahiler Göleti","caption":"Sipahiler Göleti","credit":"Yuvacık Gölü Kocaeli Türkiye 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sipahiler%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34924070","tip":"genel"}]
 description: "Kocaeli'nin doğal güzelliklerinden biri olan Sipahiler Göleti, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Sipahiler Göleti","Kocaeli","gölet","doğa","yeşil alan","turizm","gezi","Kocaeli göletleri","Sipahiler"]

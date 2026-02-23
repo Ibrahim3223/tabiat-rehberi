@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaret","Yeşil alan gezintisi","Doğa fotoğrafçılığı","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cem%C3%A2leddin%20U%C5%9F%C5%9F%C3%A2k%C3%AE%20T%C3%BCrbesi","alt":"Cemâleddin Uşşâkî Türbesi","caption":"Cemâleddin Uşşâkî Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Cemâleddin Uşşâkî Türbesi","caption":"Cemâleddin Uşşâkî Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cem%C3%A2leddin%20U%C5%9F%C5%9F%C3%A2k%C3%AE%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390966","tip":"genel"}]
 description: "Eyüpsultan'da histórik bir turbe, 140 hektarlık yeşil alanın içerisinde yer alır."
 keywords: ["Cemâleddin Uşşâkî","Eyüpsultan","İstanbul","Marmara Bölgesi","Türbe","Yeşil Alan","Tarih","Doğa"]

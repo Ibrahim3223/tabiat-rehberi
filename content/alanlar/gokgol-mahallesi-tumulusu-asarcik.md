@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih turu","fotografçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6kg%C3%B6l%20Mahallesi%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Asarc%C4%B1k","alt":"Gökgöl Mahallesi Tümülüsü, Asarcık","caption":"Gökgöl Mahallesi Tümülüsü, Asarcık"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Casualty_Returns_1927.pdf/page1-960px-Casualty_Returns_1927.pdf.jpg","alt":"Gökgöl Mahallesi Tümülüsü, Asarcık","caption":"Gökgöl Mahallesi Tümülüsü, Asarcık","credit":"Casualty Returns 1927.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kg%C3%B6l%20Mahallesi%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Asarc%C4%B1k","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728396","tip":"genel"}]
 description: "Asarcık'ta bulunan Gökgöl Mahallesi Tümülüsü, tarihi ve doğal güzelliklerin bir arada olduğu özel bir bölge."
 keywords: ["Gökgöl Mahallesi Tümülüsü","Asarcık","Samsun","Karadeniz Bölgesi","tarihi mekanlar","doğal güzellikler","kültür turizmi","tarihçe","coğrafya"]

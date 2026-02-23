@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denize girme","Güneşlenme","Tarihi hamamları gezme","İstanbul'un tarihi mirasını tanıma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bah%C3%A7eli%20Hamam","alt":"Bahçeli Hamam","caption":"Bahçeli Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Bahçeli Hamam","caption":"Bahçeli Hamam","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bah%C3%A7eli%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738604","tip":"genel"}]
 description: "İstanbul'un tarihi plajı, Marmara Bölgesi'nin keyifli noktası."
 keywords: ["Bahçeli Hamam","İstanbul","Marmara Bölgesi","Beyoğlu","plaj","tarihçe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mount%20%C3%87akaltepeleri","alt":"Mount Çakaltepeleri","caption":"Mount Çakaltepeleri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Mount Çakaltepeleri","caption":"Mount Çakaltepeleri","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mount%20%C3%87akaltepeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49395664","tip":"genel"}]
 description: "Marmara Bölgesi'nin Sakarya ilinde yer alan dağ,\n       doğa severlerin gözdesi"
 keywords: ["Sakarya","Marmara Bölgesi","dağ","doğa","turizm"]

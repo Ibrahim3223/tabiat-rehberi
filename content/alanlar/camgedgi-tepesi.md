@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Manzara seyretme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87amged%C4%9Fi%20Tepesi","alt":"Çamgedği Tepesi","caption":"Çamgedği Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Çamgedği Tepesi","caption":"Çamgedği Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amged%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828160","tip":"genel"}]
 description: "Yozgat'ın doğal güzelliklerini keşfedin, Çamgedği Tepesi'ne çıkın ve İç Anadolu Bölgesi'nin muhteşem manzarasını görün."
 keywords: ["Yozgat","Çamgedği Tepesi","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara"]

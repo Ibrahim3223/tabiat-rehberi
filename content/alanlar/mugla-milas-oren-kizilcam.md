@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Milas-Oren%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mugla-Milas-Oren Kızılçam","caption":"Mugla-Milas-Oren Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Marmaris_National_Park.jpg/960px-Marmaris_National_Park.jpg","alt":"Mugla-Milas-Oren Kızılçam","caption":"Mugla-Milas-Oren Kızılçam","credit":"Marmaris National Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Milas-Oren%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227461","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Muğla","Milas","Oren","Kızılçam","milli park","doğa","gezi","turizm","Ege Bölgesi"]

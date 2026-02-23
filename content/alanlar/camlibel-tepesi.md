@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","orman gezisi","nehir kenarı gezisi","yerel kültürü keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87aml%C4%B1bel%20Tepesi","alt":"Çamlıbel Tepesi","caption":"Çamlıbel Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/On_horseback_through_Asia_Minor_%28IA_onhorsebackthrou01burn_0%29.pdf/page1-883px-On_horseback_through_Asia_Minor_%28IA_onhorsebackthrou01burn_0%29.pdf.jpg","alt":"Çamlıbel Tepesi","caption":"Çamlıbel Tepesi","credit":"On horseback through Asia Minor (IA onhorsebackthrou01burn 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1bel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823844","tip":"genel"}]
 description: "Tokat'ın en yüksek noktası, 140 hektarlık yeşil alan, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri"
 keywords: ["Çamlıbel Tepesi","Tokat","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","çevre","ekosistem"]

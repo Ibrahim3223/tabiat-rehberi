@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğraf Çekimi","Tarihi Yerleri Ziyaret","Çevre Gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0ncir%20Hamam%C4%B1%20ve%20%C3%87e%C5%9Fmesi","alt":"İncir Hamamı ve Çeşmesi","caption":"İncir Hamamı ve Çeşmesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Award_ceremony_for_the_Wiki_Loves_Earth_2024_19.12.24.pdf/page1-960px-Award_ceremony_for_the_Wiki_Loves_Earth_2024_19.12.24.pdf.jpg","alt":"İncir Hamamı ve Çeşmesi","caption":"İncir Hamamı ve Çeşmesi","credit":"Award ceremony for the Wiki Loves Earth 2024 19.12.24.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncir%20Hamam%C4%B1%20ve%20%C3%87e%C5%9Fmesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738769","tip":"genel"}]
 description: "Burdur'un Bucak ilçesinde yer alan İncir Hamamı ve Çeşmesi, tarihi ve doğal güzelliklerin bir arada olduğu özel bir mekan."
 keywords: ["Burdur","Bucak","İncir Hamamı","Çeşme","Tarih","Doğa","Turizm","Gezi","Mekan"]

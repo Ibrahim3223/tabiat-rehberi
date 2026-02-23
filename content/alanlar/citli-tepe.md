@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87itli%20Tepe","alt":"Çitli Tepe","caption":"Çitli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf/page1-960px-Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf.jpg","alt":"Çitli Tepe","caption":"Çitli Tepe","credit":"Harper's New Monthly Magazine, Volume 46.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87itli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819258","tip":"genel"}]
 description: "Mardin'de bulunan Çitli Tepe, şehrin doğal güzelliklerini keşfetmek için ideal bir nokta"
 keywords: ["Çitli Tepe","Mardin","Dağ","Doğa","Turizm","Gezi","Mardin Gezilecek Yerler","Doğal Alanlar","Çitli Tepe Mardin"]

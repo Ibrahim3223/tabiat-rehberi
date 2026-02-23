@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87angall%C4%B1%20Tepesi","alt":"Çangallı Tepesi","caption":"Çangallı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Recreation_area_management_plan_for_the_Pacific_Crest_National_Scenic_Trail_-_Owens_Peak%2C_Dove_Springs%2C_Cache_Peak_segments%2C_California_%28IA_recreationareama00unit%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Çangallı Tepesi","caption":"Çangallı Tepesi","credit":"Recreation area management plan for the Pacific Crest National Scenic Trail - Owens Peak, Dove Springs, Cache Peak segments, California (IA recreationareama00unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87angall%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828329","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzellikleri ile bilinen bir bölgesi olan Çangallı Tepesi, ziyaretçilerine tarihi ve coğrafi açıdan zengin bir deneyim sunar."
 keywords: ["Amasya","Karadeniz Bölgesi","tarih","doğa","gezi","tepe","coğrafya"]

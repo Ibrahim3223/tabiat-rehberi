@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Darl%C4%B1ksivrisi%20Tepesi","alt":"Darlıksivrisi Tepesi","caption":"Darlıksivrisi Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Darlıksivrisi Tepesi","caption":"Darlıksivrisi Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Darl%C4%B1ksivrisi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387869","tip":"genel"}]
 description: "Manisa'nın güzide noktalarından biri olan Darlıksivrisi Tepesi, ziyaretçilerini büyüleyici bir doğa ile karşılar."
 keywords: ["Darlıksivrisi Tepesi","Manisa","Ege Bölgesi","doğa","tepe","gezi","turizm","manzara"]

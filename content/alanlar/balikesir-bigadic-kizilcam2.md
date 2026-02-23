@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşü","Orman gezi","Vahşi yaşam gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Balikesir-Bigadic%20K%C4%B1z%C4%B1l%C3%A7am2","alt":"Balikesir-Bigadic Kızılçam2","caption":"Balikesir-Bigadic Kızılçam2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Balikesir-Bigadic Kızılçam2","caption":"Balikesir-Bigadic Kızılçam2","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Bigadic%20K%C4%B1z%C4%B1l%C3%A7am2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227856","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Balikesir","Bigadic","Kızılçam2","milli park","doğa","gezi","turizm","İç Anadolu Bölgesi","orman"]

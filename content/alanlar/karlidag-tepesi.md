@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotograf çekme","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karl%C4%B1da%C4%9F%20Tepesi","alt":"Karlıdağ Tepesi","caption":"Karlıdağ Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Karlıdağ Tepesi","caption":"Karlıdağ Tepesi","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karl%C4%B1da%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385673","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerinin arasında yer alan Karlıdağ Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılıyor."
 keywords: ["Karlıdağ Tepesi","Kayseri","doğa","tepe","gezi","turizm","İç Anadolu Bölgesi","coğrafya"]

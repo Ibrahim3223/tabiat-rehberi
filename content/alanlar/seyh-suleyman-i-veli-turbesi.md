@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresi gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Tarihi yapılar gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20S%C3%BCleyman-%C4%B1%20Veli%20T%C3%BCrbesi","alt":"Şeyh Süleyman-ı Veli Türbesi","caption":"Şeyh Süleyman-ı Veli Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Barrow_-_panoramio.jpg/960px-The_Barrow_-_panoramio.jpg","alt":"Şeyh Süleyman-ı Veli Türbesi","caption":"Şeyh Süleyman-ı Veli Türbesi","credit":"The Barrow - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20S%C3%BCleyman-%C4%B1%20Veli%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390867","tip":"genel"}]
 description: "Kırşehir'de tarihi ve doğal güzellikleri bir arada sunan bir destinasyon"
 keywords: ["Şeyh Süleyman-ı Veli","Türbe","Kırşehir","İç Anadolu Bölgesi","Tarihi mekanlar","Doğa","Gezi","Türkiye"]

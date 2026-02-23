@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin zirvesine tırmanmak","Manzara seyretmek","Flora ve fauna gözlemlemek","Piknik yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erdemk%C4%B1r%C4%B1%20Tepesi","alt":"Erdemkırı Tepesi","caption":"Erdemkırı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Erdemkırı Tepesi","caption":"Erdemkırı Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erdemk%C4%B1r%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568191","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Erdemkırı Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Erdemkırı Tepesi","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmiş","tepe","coğrafya","flora","fauna","ziyaret","gezi"]

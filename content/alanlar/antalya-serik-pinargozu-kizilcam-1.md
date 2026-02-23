@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Serik-Pinargozu%20K%C4%B1z%C4%B1l%C3%A7am%201","alt":"Antalya-Serik-Pinargozu Kızılçam 1","caption":"Antalya-Serik-Pinargozu Kızılçam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf/page1-960px-Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf.jpg","alt":"Antalya-Serik-Pinargozu Kızılçam 1","caption":"Antalya-Serik-Pinargozu Kızılçam 1","credit":"Report of the Forest Service (IA CAT82764216021).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Serik-Pinargozu%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227306","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin güzide illerinden Antalya'da yer alan bir milli park"
 keywords: ["Antalya","milli park","kızılçam","doğa","gezi","yaban hayatı","çevre","ekoloji","turizm"]

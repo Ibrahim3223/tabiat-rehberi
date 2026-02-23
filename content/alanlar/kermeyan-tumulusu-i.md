@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî mekanları gezmek","Doğal güzellikleri keşfetmek","Kültürel etkinliklere katılmak","Malkara'nın yerel lezzetlerini denemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kermeyan%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%20I","alt":"Kermeyan Tümülüsü I","caption":"Kermeyan Tümülüsü I"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Kermeyan Tümülüsü I","caption":"Kermeyan Tümülüsü I","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kermeyan%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%20I","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728271","tip":"genel"}]
 description: "Marmara Bölgesi'nin tarihi hazinesi, Malkara'da bulunan Kermeyan Tümülüsü I"
 keywords: ["Kermeyan Tümülüsü I","Malkara","Tekirdağ","Marmara Bölgesi","tarih","tümülüs","arkeoloji","kültür","gezi","turizm"]

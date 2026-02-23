@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bebedes%20%C5%9Eelalesi","alt":"Bebedes Şelalesi","caption":"Bebedes Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_Bal%C4%B1klar.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_Bal%C4%B1klar.jpg","alt":"Bebedes Şelalesi","caption":"Bebedes Şelalesi","credit":"Kurşunlu Şelalesi - Şelalesi Bölgesi - Manzara Fotoğrafı - Balıklar.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bebedes%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320209","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, Bebedes Şelalesi"
 keywords: ["Bebedes Şelalesi","İç Anadolu Bölgesi","doğa","gezi","turizm","şelale","çevre","ekosistem","flora","fauna","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih öğrenmek","Doğa yürüyüşü","Fotoğraf çekmek","Mardin'in kültürünü keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCmeli%20Tepe","alt":"Kümeli Tepe","caption":"Kümeli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Memoir_of_Rev._Levi_Parsons_%28microform%29_-_first_missionary_to_Palestine_from_the_United_States_-_containing_sketches_of_his_early_life_and_education%2C_his_missionary_labors_in_this_country_%28IA_MN41579ucmf_4%29.pdf/page1-925px-thumbnail.pdf.jpg","alt":"Kümeli Tepe","caption":"Kümeli Tepe","credit":"Memoir of Rev. Levi Parsons (microform) - first missionary to Palestine from the United States - containing sketches of his early life and education, his missionary labors in this country (IA MN41579ucmf 4).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCmeli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210783","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzellikleri arasında yer alan Kümeli Tepe, ziyaretçilerini bekliyor."
 keywords: ["Kümeli Tepe","Mardin","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür"]

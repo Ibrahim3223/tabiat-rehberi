@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Buzg%C3%B6l%C3%BC%20Tepe","alt":"Buzgölü Tepe","caption":"Buzgölü Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Buzgölü Tepe","caption":"Buzgölü Tepe","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buzg%C3%B6l%C3%BC%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731007","tip":"genel"}]
 description: "Erzincan'da bulunan Buzgölü Tepe, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Buzgölü Tepe","Erzincan","Dağ","Doğa","Türkiye","Seyahat","Gezi","Turizm","Coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["tarihi mekanları gezmek","doğal güzellikleri keşfetmek","fotoğraflar çekmek","yürüyüş yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ball%C4%B1ca%20Sultan%20T%C3%BCrbesi","alt":"Ballıca Sultan Türbesi","caption":"Ballıca Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Ballıca Sultan Türbesi","caption":"Ballıca Sultan Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ball%C4%B1ca%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391818","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Balıkesir'de bulunan Ballıca Sultan Türbesi, tarihi ve doğal güzelliklerinin birleştiği bir noktada ziyaretçilerini bekliyor."
 keywords: ["Ballıca Sultan Türbesi","Balıkesir","Marmara Bölgesi","tarihi mekanlar","doğal güzellikler","türk kültürü","tarihçe","coğrafya","flora","fauna","ziyaret rehberi"]

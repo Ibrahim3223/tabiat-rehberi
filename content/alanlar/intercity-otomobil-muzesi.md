@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Sergi gezisi","Otomobil koleksiyonu incelemesi","Müze bahçesi gezintisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Intercity%20Otomobil%20M%C3%BCzesi","alt":"Intercity Otomobil Müzesi","caption":"Intercity Otomobil Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Serenity_in_nature.jpg/960px-Serenity_in_nature.jpg","alt":"Intercity Otomobil Müzesi","caption":"Intercity Otomobil Müzesi","credit":"Serenity in nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Intercity%20Otomobil%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949363","tip":"genel"}]
 description: "İstanbul'da yer alan Intercity Otomobil Müzesi, geniş koleksiyonu ve etkileyici sergi alanı ile ziyaretçilerini bekliyor."
 keywords: ["Intercity Otomobil Müzesi","İstanbul","Marmara Bölgesi","Otomobil Müzesi","Sergi Alanı","Koleksiyon"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarihî mekanlar gezisi","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kagnimelez%C4%B1b%C4%B1t%20Tepesi","alt":"Kagnimelezıbıt Tepesi","caption":"Kagnimelezıbıt Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Kagnimelezıbıt Tepesi","caption":"Kagnimelezıbıt Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kagnimelez%C4%B1b%C4%B1t%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386766","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve coğrafi güzellikleri arasında yer alan Kagnimelezıbıt Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Kagnimelezıbıt Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","coğrafi güzellik","tarihi mekan","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plaj","hamam","tarih gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0lyas%20Bey%20Hamam%C4%B1","alt":"İlyas Bey Hamamı","caption":"İlyas Bey Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"İlyas Bey Hamamı","caption":"İlyas Bey Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0lyas%20Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738671","tip":"genel"}]
 description: "Didim'in tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["İlyas Bey Hamamı","Didim","tarih","doğa","gezi","turizm","plaj","hamam","Antik Çağ"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kanl%C4%B1g%C3%B6l%20Tepesi","alt":"Kanlıgöl Tepesi","caption":"Kanlıgöl Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf/page1-727px-Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf.jpg","alt":"Kanlıgöl Tepesi","caption":"Kanlıgöl Tepesi","credit":"Medical Heritage Library (IA 57721120R.nlm.nih.gov).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kanl%C4%B1g%C3%B6l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877695","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerinden biri olan Kanlıgöl Tepesi, Karadeniz Bölgesi'nde yer alıyor."
 keywords: ["Kanlıgöl Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi"]

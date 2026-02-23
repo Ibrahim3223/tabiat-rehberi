@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğa yürüyüşü","Fotoğraf çekmek","Yerel yemekleri denemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bekta%C5%9F%20Efendi%20T%C3%BCrbesi","alt":"Bektaş Efendi Türbesi","caption":"Bektaş Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Bektaş Efendi Türbesi","caption":"Bektaş Efendi Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bekta%C5%9F%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391285","tip":"genel"}]
 description: "Hacıbektaş'ta bulunan tarihi türbe ve çevresi"
 keywords: ["Bektaş Efendi","Hacıbektaş","Nevşehir","İç Anadolu Bölgesi","Türbe","Tarih","Kültür","Doğa"]

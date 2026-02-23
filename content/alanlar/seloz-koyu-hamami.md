@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Kumsal yürüyüşü","Balık avı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sel%C3%B6z%20K%C3%B6y%C3%BC%20Hamam%C4%B1","alt":"Selöz Köyü Hamamı","caption":"Selöz Köyü Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Selöz Köyü Hamamı","caption":"Selöz Köyü Hamamı","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sel%C3%B6z%20K%C3%B6y%C3%BC%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738792","tip":"genel"}]
 description: "Bilecik'in gizli cenneti Selöz Köyü Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri"
 keywords: ["Selöz Köyü Hamamı","Bilecik","Marmara Bölgesi","plaj","deniz","kumsal","turizm","gezi"]

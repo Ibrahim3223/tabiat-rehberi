@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCk%20La%C3%A7in%20Ma%C4%9Faras%C4%B1","alt":"Büyük Laçin Mağarası","caption":"Büyük Laçin Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_works_of_Mary_Russell_Mitford%2C_prose_and_verse%2C_viz_Our_village%2C_Belford_Regis%2C_Country_stories%2C_Finden%27s_tableaux%2C_Foscari%2C_Julian%2C_Rienzi%2C_Charles_the_First_%28IA_worksofmaryrusse00mitf%29.pdf/page1-806px-thumbnail.pdf.jpg","alt":"Büyük Laçin Mağarası","caption":"Büyük Laçin Mağarası","credit":"The works of Mary Russell Mitford, prose and verse, viz Our village, Belford Regis, Country stories, Finden's tableaux, Foscari, Julian, Rienzi, Charles the First (IA worksofmaryrusse00mitf).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20La%C3%A7in%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319087","tip":"genel"}]
 description: "Çorum'da yer alan Büyük Laçin Mağarası, 1200 hektarlık yeşil cennet içinde gizlenen bir jeopark"
 keywords: ["Büyük Laçin Mağarası","Çorum","Jeopark","Doğa","Mağara","Turizm","Çorum Turistik Yerler","Jeolojik oluşumlar","Doğa Harikaları"]

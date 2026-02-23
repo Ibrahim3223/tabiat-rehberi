@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Muhammed%20Kesikba%C5%9F%20T%C3%BCrbesi","alt":"Şeyh Muhammed Kesikbaş Türbesi","caption":"Şeyh Muhammed Kesikbaş Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Şeyh Muhammed Kesikbaş Türbesi","caption":"Şeyh Muhammed Kesikbaş Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhammed%20Kesikba%C5%9F%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391835","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Şeyh Muhammed Kesikbaş Türbesi, Cizre/Şırnak'ta yer alan önemli bir dini merkez."
 keywords: ["Şeyh Muhammed Kesikbaş Türbesi","Cizre","Şırnak","Güneydoğu Anadolu Bölgesi","dini merkez","tarih","coğrafya","doğa"]

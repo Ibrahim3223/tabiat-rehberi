@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","piknik","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ziyaret%20Tepesi%20(Erzincan)","alt":"Ziyaret Tepesi (Erzincan)","caption":"Ziyaret Tepesi (Erzincan)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Ziyaret Tepesi (Erzincan)","caption":"Ziyaret Tepesi (Erzincan)","credit":"Erzincan Refahiye.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20Tepesi%20(Erzincan)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387944","tip":"genel"}]
 description: "Erzincan'ın doğal güzelliklerini keşfedin. Ziyaret Tepesi, şehrin panoramik manzarasını sunan bir tepe"
 keywords: ["Erzincan","Doğu Anadolu Bölgesi","Ziyaret Tepesi","doğal güzellik","tepe","manzara","gezi","turizm"]

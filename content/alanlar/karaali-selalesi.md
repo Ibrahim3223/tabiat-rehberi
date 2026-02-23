@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık"," Piknik","Doğa"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaali%20%C5%9Eelalesi","alt":"Karaali Şelalesi","caption":"Karaali Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wle-jury-report-2023-lores.pdf/page1-960px-Wle-jury-report-2023-lores.pdf.jpg","alt":"Karaali Şelalesi","caption":"Karaali Şelalesi","credit":"Wle-jury-report-2023-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaali%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97211789","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin, Karaali Şelalesi'ni ziyaret edin"
 keywords: ["Karaali Şelalesi","Rize","Karadeniz Bölgesi","doğal güzellik","şelale","gezi","turizm"]

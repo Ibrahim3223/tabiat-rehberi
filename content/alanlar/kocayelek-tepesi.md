@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kocayelek%20Tepesi","alt":"Kocayelek Tepesi","caption":"Kocayelek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaidrich%29.pdf/page1-720px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaidrich%29.pdf.jpg","alt":"Kocayelek Tepesi","caption":"Kocayelek Tepesi","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen00gaidrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocayelek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390258","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin, Kocayelek Tepesi'ni ziyaret edin ve bölgenin zengin tarihini öğrenin."
 keywords: ["Kocayelek Tepesi","Adana","Akdeniz Bölgesi","doğa","tarih","gezi","turizm"]

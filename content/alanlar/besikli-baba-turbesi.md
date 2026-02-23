@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Be%C5%9Fikli%20Baba%20T%C3%BCrbesi","alt":"Beşikli Baba Türbesi","caption":"Beşikli Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Elaz%C4%B1g_K%C3%B6y.jpg/960px-Elaz%C4%B1g_K%C3%B6y.jpg","alt":"Beşikli Baba Türbesi","caption":"Beşikli Baba Türbesi","credit":"Elazıg Köy.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fikli%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390801","tip":"genel"}]
 description: "Elazığ'da tarihi bir figura adanmış özel bir alan"
 keywords: ["Beşikli Baba Türbesi","Elazığ","Doğu Anadolu Bölgesi","tarih","türbe","gezi","kültür"]

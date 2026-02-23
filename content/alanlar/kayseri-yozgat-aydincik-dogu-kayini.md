@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayseri-Yozgat-Aydincik-Dogu%20Kayini","alt":"Kayseri-Yozgat-Aydincik-Dogu Kayini","caption":"Kayseri-Yozgat-Aydincik-Dogu Kayini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"Kayseri-Yozgat-Aydincik-Dogu Kayini","caption":"Kayseri-Yozgat-Aydincik-Dogu Kayini","credit":"Rock-cut achitecture of Cappadocia.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayseri-Yozgat-Aydincik-Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228576","tip":"genel"}]
 description: "Kayseri'de bulunan milli park, İç Anadolu Bölgesi'nin güzelliklerini sunar."
 keywords: ["Kayseri","Yozgat","Aydincik","Dogu Kayini","milli park","İç Anadolu Bölgesi","doğa","gezi"]

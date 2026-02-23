@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","kültürel gezi","doğa gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mehmed%20Bahaeddin%20Nak%C5%9Fibendi%20T%C3%BCrbesi","alt":"Mehmed Bahaeddin Nakşibendi Türbesi","caption":"Mehmed Bahaeddin Nakşibendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf/page1-860px-Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf.jpg","alt":"Mehmed Bahaeddin Nakşibendi Türbesi","caption":"Mehmed Bahaeddin Nakşibendi Türbesi","credit":"Revue suisse de zoologie (IA revuesuissede11412007schw).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehmed%20Bahaeddin%20Nak%C5%9Fibendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390889","tip":"genel"}]
 description: "Konya'nın Meram ilçesinde bulunan historical türbe"
 keywords: ["Mehmed Bahaeddin Nakşibendi","Konya","Meram","tarih","türbe","ziyaret","gezi"]

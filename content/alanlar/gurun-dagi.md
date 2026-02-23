@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCr%C3%BCn%20Da%C4%9F%C4%B1","alt":"Gürün Dağı","caption":"Gürün Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MOKG04.jpg/960px-MOKG04.jpg","alt":"Gürün Dağı","caption":"Gürün Dağı","credit":"MOKG04.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCr%C3%BCn%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873507","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. Gürün Dağı, 1200 metre yüksekliğiyle şehrin panoramik manzarasını sunar."
 keywords: ["Gürün Dağı","İzmir","dağ","doğa","gezi","turizm","manzara","panorama","İzmir gezilecek yerler"]

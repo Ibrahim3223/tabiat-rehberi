@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Goynuk%20Kapi%20Ormani","alt":"Bolu-Goynuk Kapi Ormani","caption":"Bolu-Goynuk Kapi Ormani"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bolu_G%C3%B6lc%C3%BCk_Milli_Park%C4%B1_-_Safa_Usta.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Milli_Park%C4%B1_-_Safa_Usta.jpg","alt":"Bolu-Goynuk Kapi Ormani","caption":"Bolu-Goynuk Kapi Ormani","credit":"Bolu Gölcük Milli Parkı - Safa Usta.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Goynuk%20Kapi%20Ormani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227077","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide milli parklarından biri olan Bolu-Goynuk Kapi Ormani, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Bolu","Goynuk Kapi Ormani","milli park","Karadeniz Bölgesi","orman","doğa","gezi","turizm"]

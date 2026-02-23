@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","doğa gezisi","spor","sağlık tedavisi","konaklama"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sar%C4%B1ot%20Kapl%C4%B1cas%C4%B1","alt":"Sarıot Kaplıcası","caption":"Sarıot Kaplıcası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/At_The_Peak_%2889020351%29.jpeg/960px-At_The_Peak_%2889020351%29.jpeg","alt":"Sarıot Kaplıcası","caption":"Sarıot Kaplıcası","credit":"At The Peak (89020351).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1ot%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741975","tip":"genel"}]
 description: "Bolu'nun sakin ve doğal güzelliği ile tanınan Sarıot Kaplıcası, şifalı sıcak su kaynakları ve zengin flora ile ziyaretçilerini ağırlıyor."
 keywords: ["Sarıot Kaplıcası","Bolu","Karadeniz Bölgesi","termal kaynak","kaplıca","doğa","gezi","turizm","sağlık","relaxasyon"]

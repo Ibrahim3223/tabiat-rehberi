@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Picnic","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCrc%C3%BCd%C3%BCz%C3%BC%20%C5%9Eelalesi","alt":"Gürcüdüzü Şelalesi","caption":"Gürcüdüzü Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/The_National_Era_%28IA_d437fe46-f955-403c-a961-bd8b024310d8%29.pdf/page1-960px-The_National_Era_%28IA_d437fe46-f955-403c-a961-bd8b024310d8%29.pdf.jpg","alt":"Gürcüdüzü Şelalesi","caption":"Gürcüdüzü Şelalesi","credit":"The National Era (IA d437fe46-f955-403c-a961-bd8b024310d8).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BCd%C3%BCz%C3%BC%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97211591","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfetmenin keyfi, Gürcüdüzü Şelalesi'nde başlar. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor."
 keywords: ["Gürcüdüzü Şelalesi","Rize","Karadeniz Bölgesi","doğal güzellik","yeşil alan","bitki türleri","fauna"]

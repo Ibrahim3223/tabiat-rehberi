@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","tarihi eserleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bakacak%20Mahallesi%20Kaya%20Mezar%C4%B1%2C%20Tekkek%C3%B6y","alt":"Bakacak Mahallesi Kaya Mezarı, Tekkeköy","caption":"Bakacak Mahallesi Kaya Mezarı, Tekkeköy"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Bakacak Mahallesi Kaya Mezarı, Tekkeköy","caption":"Bakacak Mahallesi Kaya Mezarı, Tekkeköy","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bakacak%20Mahallesi%20Kaya%20Mezar%C4%B1%2C%20Tekkek%C3%B6y","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728200","tip":"genel"}]
 description: "Samsun'un Tekkeköy ilçesinde bulunan Bakacak Mahallesi Kaya Mezarı, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Bakacak Mahallesi Kaya Mezarı","Tekkeköy","Samsun","Karadeniz Bölgesi","tarih","doğa","kaya mezarı"]

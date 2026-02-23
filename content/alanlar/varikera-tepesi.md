@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Coğrafi gözlem","Kampçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Varikera%20Tepesi","alt":"Varikera Tepesi","caption":"Varikera Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Varikera Tepesi","caption":"Varikera Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Varikera%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547762","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'ndeki Siirt ilinde bulunan Varikera Tepesi, coğrafi güzelliği ve tarihi geçmişiyle dikkat çekmektedir."
 keywords: ["Varikera Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","coğrafi güzellik","tarihi geçmişi","doğa","gezi","turizm"]

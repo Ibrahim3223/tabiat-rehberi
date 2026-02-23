@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","güneşlenme","kumda dinlenme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Salihler%20Il%C4%B1cas%C4%B1","alt":"Salihler Ilıcası","caption":"Salihler Ilıcası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/S%C3%BCzer_Sun_Dreams_Beach_22_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_22_-_panoramio.jpg","alt":"Salihler Ilıcası","caption":"Salihler Ilıcası","credit":"Süzer Sun Dreams Beach 22 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Salihler%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738530","tip":"genel"}]
 description: "Dikili'nin gizli cenneti, Ege Bölgesi'nin doğal güzellikleri"
 keywords: ["Dikili","İzmir","Ege Bölgesi","Salihler Ilıcası","doğal güzellik","plaj","deniz"]

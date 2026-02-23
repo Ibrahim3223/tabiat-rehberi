@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tarabiz%20Tepe","alt":"Tarabiz Tepe","caption":"Tarabiz Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Tarabiz Tepe","caption":"Tarabiz Tepe","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarabiz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389420","tip":"genel"}]
 description: "Mersin'in Akdeniz Bölgesi'nde yer alan Tarabiz Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir."
 keywords: ["Mersin","Akdeniz Bölgesi","doğal güzellik","tepe","gezi","turizm","Mersin turizm","Akdeniz turizm","doğa"]

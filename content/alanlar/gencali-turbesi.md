@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gen%C3%A7ali%20T%C3%BCrbesi","alt":"Gençali Türbesi","caption":"Gençali Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Animal_disease_thesaurus_%28IA_CAT80734093003%29.pdf/page1-900px-Animal_disease_thesaurus_%28IA_CAT80734093003%29.pdf.jpg","alt":"Gençali Türbesi","caption":"Gençali Türbesi","credit":"Animal disease thesaurus (IA CAT80734093003).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gen%C3%A7ali%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391364","tip":"genel"}]
 description: "İnegöl'ün doğal güzellikleri arasında yer alan Gençali Türbesi, Marmara Bölgesi'nin önemli turizm noktalarından biri."
 keywords: ["İnegöl","Marmara Bölgesi","doğal güzellik","turizm","tarih","coğrafya","flora","fauna","ziyaret"]

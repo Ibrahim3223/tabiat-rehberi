@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tepecik%20Hamam%C4%B1","alt":"Tepecik Hamamı","caption":"Tepecik Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Tepecik Hamamı","caption":"Tepecik Hamamı","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepecik%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738988","tip":"genel"}]
 description: "Bodrum'un gizli cenneti Tepecik Hamamı, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini bekliyor."
 keywords: ["Tepecik Hamamı","Bodrum","Muğla","Ege Bölgesi","plaj","deniz","doğa","turizm","gezi"]

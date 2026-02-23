@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","trekking","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Doru%20Tepe","alt":"Doru Tepe","caption":"Doru Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Award_ceremony_for_the_Wiki_Loves_Earth_2024_19.12.24.pdf/page1-960px-Award_ceremony_for_the_Wiki_Loves_Earth_2024_19.12.24.pdf.jpg","alt":"Doru Tepe","caption":"Doru Tepe","credit":"Award ceremony for the Wiki Loves Earth 2024 19.12.24.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Doru%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390203","tip":"genel"}]
 description: "Burdur'un doğal güzellikleri arasında yer alan Doru Tepe, ziyaretçilerini bekliyor."
 keywords: ["Doru Tepe","Burdur","Akdeniz Bölgesi","doğa","tepe","gezi","turizm"]

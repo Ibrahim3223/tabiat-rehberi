@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî eserleri keşfetmek","Doğa yürüyüşü","Manzara seyretmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kevranergiza%20Tepesi","alt":"Kevranergiza Tepesi","caption":"Kevranergiza Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf/page1-635px-In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf.jpg","alt":"Kevranergiza Tepesi","caption":"Kevranergiza Tepesi","credit":"In gold and silver .. (IA ingoldandsilver00ellwiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kevranergiza%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555613","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzellikleriyle dikkat çeken Kevranergiza Tepesi, ziyaretçiler için eşsiz bir deneyim sunuyor."
 keywords: ["Kevranergiza Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","Tarih","Doğa","Turizm","Gezi","Kültür"]

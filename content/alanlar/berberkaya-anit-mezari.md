@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["gezi","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Berberkaya%20An%C4%B1t%20Mezar%C4%B1","alt":"Berberkaya Anıt Mezarı","caption":"Berberkaya Anıt Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Animal_disease_thesaurus_%28IA_CAT80734093002%29.pdf/page1-902px-Animal_disease_thesaurus_%28IA_CAT80734093002%29.pdf.jpg","alt":"Berberkaya Anıt Mezarı","caption":"Berberkaya Anıt Mezarı","credit":"Animal disease thesaurus (IA CAT80734093002).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Berberkaya%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728105","tip":"genel"}]
 description: "İznik'in tarih kokan streetsinde gizlenen bir hazine"
 keywords: ["İznik","Bursa","Marmara Bölgesi","tarih","anıt mezar","gezi","turizm","kültür","doğa"]

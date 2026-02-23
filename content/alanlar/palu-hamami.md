@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Palu%20Hamam%C4%B1","alt":"Palu Hamamı","caption":"Palu Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Palu Hamamı","caption":"Palu Hamamı","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Palu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738523","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti Palu Hamamı, doğa severlerin ziyaret edebileceği bir plaj."
 keywords: ["Palu Hamamı","Elazığ","Doğu Anadolu Bölgesi","plaj","doğa","gezi","turizm","tatil","yaban hayatı"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kartall%C4%B1k%20%C4%B0ni","alt":"Kartallık İni","caption":"Kartallık İni"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Kartallık İni","caption":"Kartallık İni","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartall%C4%B1k%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319337","tip":"genel"}]
 description: "Mersin'de yer alan Kartallık İni, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzelliği ve jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Kartallık İni","Mersin","Jeopark","Doğal Alan","Turizm","Mersin Turistik Yerler","Jeolojik Oluşumlar","Doğa Seyahati","Mersin Gezilecek Yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Tarih turu","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCmele%20Tepe","alt":"Gümele Tepe","caption":"Gümele Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Samsat_district_Turkey_%281%29.jpg/960px-Samsat_district_Turkey_%281%29.jpg","alt":"Gümele Tepe","caption":"Gümele Tepe","credit":"Samsat district Turkey (1).jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCmele%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139173","tip":"genel"}]
 description: "Adıyaman'ın tarihi ve doğal güzellikleriyle dolu önemli noktalarından biri olan Gümele Tepe"
 keywords: ["Gümele Tepe","Adıyaman","Tarih","Doğa","Güneydoğu Anadolu Bölgesi","Kültür","Turizm","Coğrafya","Flora","Fauna"]

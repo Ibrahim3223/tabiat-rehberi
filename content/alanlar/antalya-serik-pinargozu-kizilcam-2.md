@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Serik-Pinargozu%20K%C4%B1z%C4%B1l%C3%A7am%202","alt":"Antalya-Serik-Pinargozu Kızılçam 2","caption":"Antalya-Serik-Pinargozu Kızılçam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf/page1-875px-Revue_suisse_de_zoologie_%28IA_revuesuissede11042003schw%29.pdf.jpg","alt":"Antalya-Serik-Pinargozu Kızılçam 2","caption":"Antalya-Serik-Pinargozu Kızılçam 2","credit":"Revue suisse de zoologie (IA revuesuissede11042003schw).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Serik-Pinargozu%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227307","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin önemli doğal alanlarından biri olan Antalya-Serik-Pinargozu Kızılçam 2, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Antalya","Serik","Pinargozu","Kızılçam","milli park","doğa","yeşil alan","Akdeniz Bölgesi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ball%C4%B1%20Da%C4%9F","alt":"Ballı Dağ","caption":"Ballı Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Ballı Dağ","caption":"Ballı Dağ","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ball%C4%B1%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31570918","tip":"genel"}]
 description: "Kastamonu'nun Daday ilçesinde bulunan Ballı Dağ, 1200 hektarlık yeşil cenneti ile ziyaretçilerini bekliyor."
 keywords: ["Ballı Dağ","Kastamonu","Daday","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye"]

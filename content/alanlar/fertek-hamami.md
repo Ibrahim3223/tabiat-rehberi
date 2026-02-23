@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Fertek%20Hamam%C4%B1","alt":"Fertek Hamamı","caption":"Fertek Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf/page1-614px-Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf.jpg","alt":"Fertek Hamamı","caption":"Fertek Hamamı","credit":"Journal of a tour in Asia Minor - with comparative remarks on the ancient and modern geography of that country (IA gri 000033125011216732).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fertek%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739197","tip":"genel"}]
 description: "Niğde'nin doğal güzelliklerinden biri olan Fertek Hamamı, ziyaretçilerini bekliyor. Doğal bir plaj olarak bilinen bu alan, 140 hektarlık yeşil alanı yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Fertek Hamamı","Niğde","doğal plaj","yeşil alan","İç Anadolu Bölgesi"]

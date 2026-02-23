@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","tarihi yapıları gezmek","doğa yürüyüşü","manzara izlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ta%C5%9Fba%C5%9F%C4%B1%20Tepe","alt":"Taşbaşı Tepe","caption":"Taşbaşı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Taşbaşı Tepe","caption":"Taşbaşı Tepe","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fba%C5%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389507","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren Taşbaşı Tepe, Gaziantep'in önemli çekim merkezlerinden biri."
 keywords: ["Taşbaşı Tepe","Gaziantep","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","coğrafya"]

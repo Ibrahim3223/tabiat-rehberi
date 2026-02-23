@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%B6lme%20Adas%C4%B1","alt":"Bölme Adası","caption":"Bölme Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/View_to_chios_island_6_-_panoramio.jpg/960px-View_to_chios_island_6_-_panoramio.jpg","alt":"Bölme Adası","caption":"Bölme Adası","credit":"View to chios island 6 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%B6lme%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49634382","tip":"genel"}]
 description: "İzmir'de yer alan Bölme Adası, Ege Denizi'nin güzide noktalarından biri. Doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Bölme Adası","İzmir Adaları","Ege Denizi","Doğal Alanlar","Tarihi Yerler","İzmir Turizm","Ada Gezileri","Deniz Turu","Doğa Seyahati"]

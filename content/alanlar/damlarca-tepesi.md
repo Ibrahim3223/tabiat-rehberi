@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Damlarca%20Tepesi","alt":"Damlarca Tepesi","caption":"Damlarca Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Damlarca Tepesi","caption":"Damlarca Tepesi","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Damlarca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390494","tip":"genel"}]
 description: "Konya'da yer alan Damlarca Tepesi, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor."
 keywords: ["Damlarca Tepesi","Konya","İç Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

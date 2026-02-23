@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mollatopuz%20Tepe","alt":"Mollatopuz Tepe","caption":"Mollatopuz Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Mollatopuz Tepe","caption":"Mollatopuz Tepe","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mollatopuz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510223","tip":"genel"}]
 description: "Van'da yer alan Mollatopuz Tepe, doğa severler için bir çekim merkezi. 1400 metre yükseklikte, Van Gölü manzarası sunuyor."
 keywords: ["Mollatopuz Tepe","Van","Dağ","Doğa","Van Gölü","Trekking","Kamp","Doğa Turizmi","Van Turizm"]

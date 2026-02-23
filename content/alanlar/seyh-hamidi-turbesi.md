@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezmek","doğal güzelliği keşfetmek","yerel kültürü tanımak","fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Hamidi%20T%C3%BCrbesi","alt":"Şeyh Hamidi Türbesi","caption":"Şeyh Hamidi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_encyclopedia_of_missions._Descriptive%2C_historical%2C_biographical%2C_statistical_%28IA_cu31924029338187%29.pdf/page1-960px-The_encyclopedia_of_missions._Descriptive%2C_historical%2C_biographical%2C_statistical_%28IA_cu31924029338187%29.pdf.jpg","alt":"Şeyh Hamidi Türbesi","caption":"Şeyh Hamidi Türbesi","credit":"The encyclopedia of missions. Descriptive, historical, biographical, statistical (IA cu31924029338187).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Hamidi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582872","tip":"genel"}]
 description: "Mardin'in Artuklu ilçesinde bulunan Şeyh Hamidi Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Şeyh Hamidi Türbesi","Mardin","Artuklu","tarih","doğa","gezi","türk kültürü","tarihi mekanlar","doğal güzellikler"]

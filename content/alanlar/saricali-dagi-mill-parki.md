@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Trekking","Kampçılık","Doğa Fotografçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sar%C4%B1%C3%A7al%C4%B1%20Da%C4%9F%C4%B1%20Mill%C3%AE%20Park%C4%B1","alt":"Sarıçalı Dağı Millî Parkı","caption":"Sarıçalı Dağı Millî Parkı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/MOKFC10.jpg/960px-MOKFC10.jpg","alt":"Sarıçalı Dağı Millî Parkı","caption":"Sarıçalı Dağı Millî Parkı","credit":"MOKFC10.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1%C3%A7al%C4%B1%20Da%C4%9F%C4%B1%20Mill%C3%AE%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q109323615","tip":"genel"}]
 description: "Ankara'nın Nallıhan ilçesinde yer alan Sarıçalı Dağı Millî Parkı, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Sarıçalı Dağı","Millî Park","Nallıhan","Ankara","İç Anadolu Bölgesi","Doğa Turizmi","Millî Parklar","Yeşil Alanlar"]

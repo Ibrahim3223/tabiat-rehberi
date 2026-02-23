@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%96rmeli%20G%C3%B6l","alt":"Örmeli Göl","caption":"Örmeli Göl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lake_in_Fevizpa%C5%9Fa_2020-03-07_03.jpg/960px-Lake_in_Fevizpa%C5%9Fa_2020-03-07_03.jpg","alt":"Örmeli Göl","caption":"Örmeli Göl","credit":"Lake in Fevizpaşa 2020-03-07 03.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96rmeli%20G%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49316755","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerinden biri olan Örmeli Göl, 1200 hektarlık alanı ile şehrin önemli bir turizm merkezidir."
 keywords: ["Örmeli Göl","Gaziantep","Göl","Doğa","Turizm","Gezi","Seyahat","Gaziantep Gezilecek Yerler","Örmeli Gölü"]

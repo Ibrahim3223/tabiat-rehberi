@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe öğrenme","mimari özellikleri inceleme","flora ve fauna çeşitliliği gözlemleme","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hibetullah%20Burucerdio%C4%9Flu%20Muzaffer%20Bey%20T%C3%BCrbesi","alt":"Hibetullah Burucerdioğlu Muzaffer Bey Türbesi","caption":"Hibetullah Burucerdioğlu Muzaffer Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Hibetullah Burucerdioğlu Muzaffer Bey Türbesi","caption":"Hibetullah Burucerdioğlu Muzaffer Bey Türbesi","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hibetullah%20Burucerdio%C4%9Flu%20Muzaffer%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582368","tip":"genel"}]
 description: "Sivas'ın merkezinde, tarihin izlerini taşıyan bir türbe. 14. yüzyılda yapılmış, Sivas'ın önemli dini yapılarından biri."
 keywords: ["Hibetullah Burucerdioğlu Muzaffer Bey Türbesi","Sivas","tarih","tarihi yapı","türbe","dini yapı","İç Anadolu Bölgesi","Sivas merkezinde","14. yüzyıl"]

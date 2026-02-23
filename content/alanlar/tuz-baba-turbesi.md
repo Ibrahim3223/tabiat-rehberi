@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekânları gezmek","Doğanın güzelliğini tadabilmek","Fotoğraf çekmek","Yürüyüş yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tuz%20Baba%20T%C3%BCrbesi","alt":"Tuz Baba Türbesi","caption":"Tuz Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Tuz Baba Türbesi","caption":"Tuz Baba Türbesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tuz%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391002","tip":"genel"}]
 description: "İstanbul'un en önemli tarihi ve turistik mekanlarından biri olan Tuz Baba Türbesi, Beşiktaş'ta yer almaktadır."
 keywords: ["Tuz Baba Türbesi","Beşiktaş","İstanbul","tarihi mekan","turistik mekan","Marmara Bölgesi","gezi","tarihçe"]

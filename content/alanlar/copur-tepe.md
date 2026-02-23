@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87opur%20Tepe","alt":"Çopur Tepe","caption":"Çopur Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Explorations_in_Bible_lands_during_the_19th_century_%28IA_cu31924019176217%29.pdf/page1-629px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_cu31924019176217%29.pdf.jpg","alt":"Çopur Tepe","caption":"Çopur Tepe","credit":"Explorations in Bible lands during the 19th century (IA cu31924019176217).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87opur%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819693","tip":"genel"}]
 description: "Malatya'da bulunan Çopur Tepe, 1400 metre yüksekliğiyle dikkat çekiyor. Doğal güzelliği ve trekking rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Çopur Tepe","Malatya","Dağ","Doğa","Trekking","Turizm","Gezi","Yürüyüş","Malatya Turistik Yerler"]

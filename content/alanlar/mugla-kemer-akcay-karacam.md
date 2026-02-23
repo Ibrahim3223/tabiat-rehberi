@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Kemer-Akcay%20Karacam","alt":"Mugla-Kemer-Akcay Karacam","caption":"Mugla-Kemer-Akcay Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marmaris_Cennet_Adas%C4%B1.jpg/960px-Marmaris_Cennet_Adas%C4%B1.jpg","alt":"Mugla-Kemer-Akcay Karacam","caption":"Mugla-Kemer-Akcay Karacam","credit":"Marmaris Cennet Adası.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Kemer-Akcay%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227953","tip":"genel"}]
 description: "Muğla'da yer alan doğal güzelliklerin başında gelen milli park."
 keywords: ["Muğla","Kemer","Akcay Karacam","milli park","doğa","gezi","turizm","Ege Bölgesi","çevre"]

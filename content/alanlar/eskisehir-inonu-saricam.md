@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekme","Picnic","Doğa izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eski%C5%9Fehir-Inonu%20Saricam","alt":"Eskişehir-Inonu Saricam","caption":"Eskişehir-Inonu Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Eskişehir-Inonu Saricam","caption":"Eskişehir-Inonu Saricam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Inonu%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227978","tip":"genel"}]
 description: "Eskişehir'in doğal güzelliklerini keşfedin, Sarıcam Milli Parkı'nı ziyaret edin"
 keywords: ["Eskişehir","Sarıcăm","Milli Park","Doğa","Turizm","Gezi","İç Anadolu Bölgesi","Çevre","Ekosistem"]

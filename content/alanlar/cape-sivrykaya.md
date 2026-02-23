@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cape%20Sivrykaya","alt":"Cape Sivrykaya","caption":"Cape Sivrykaya"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_National_geographic_magazine_%28IA_nationalgeograph271915nati%29.pdf/page1-816px-The_National_geographic_magazine_%28IA_nationalgeograph271915nati%29.pdf.jpg","alt":"Cape Sivrykaya","caption":"Cape Sivrykaya","credit":"The National geographic magazine (IA nationalgeograph271915nati).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cape%20Sivrykaya","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q126629303","tip":"genel"}]
 description: "Yalova'da bulunan Cape Sivrykaya, 1200 hektarlık bir alan üzerinde kurulu, çeşitli kuş türlerine ev sahipliği yapan bir kuş cenneti."
 keywords: ["Cape Sivrykaya","Yalova","kuş cenneti","doğa alanı","turizm","Yalova turistik yerler","kuş gözlem","doğa yürüyüşü","çevre turizmi"]

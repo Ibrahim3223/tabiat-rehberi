@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Vesiya%20Tepesi","alt":"Vesiya Tepesi","caption":"Vesiya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf/page1-960px-Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf.jpg","alt":"Vesiya Tepesi","caption":"Vesiya Tepesi","credit":"Harper's New Monthly Magazine, Volume 46.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vesiya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554356","tip":"genel"}]
 description: "Mardin'in doğa harikası Vesiya Tepesi, tarihi geçmişi ve zengin ekosistemiyle dikkat çekiyor"
 keywords: ["Mardin","Vesiya Tepesi","doğa","tarih","ekosistem","gezi","turizm","Güneydoğu Anadolu Bölgesi","coğrafya"]

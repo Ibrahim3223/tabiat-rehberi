@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Plaj ziyaretleri","Orman yürüyüşleri","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sunguriye%20T%C3%BCrbesi","alt":"Sunguriye Türbesi","caption":"Sunguriye Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Into_all_the_world_%28IA_intoallworl00well%29.pdf/page1-741px-Into_all_the_world_%28IA_intoallworl00well%29.pdf.jpg","alt":"Sunguriye Türbesi","caption":"Sunguriye Türbesi","credit":"Into all the world (IA intoallworl00well).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sunguriye%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118188330","tip":"genel"}]
 description: "Niksar'da Karadeniz kıyısında bulunan tarihi bir türbe"
 keywords: ["Sunguriye Türbesi","Niksar","Tokat","Karadeniz Bölgesi","Türbe","Tarihi mekan","Karadeniz kıyısı","Tokat ilinin tarihi yerleri"]

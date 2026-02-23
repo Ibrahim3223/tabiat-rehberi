@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayseri-Sivas-Titrek%20Kavak","alt":"Kayseri-Sivas-Titrek Kavak","caption":"Kayseri-Sivas-Titrek Kavak"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cotton_literature%2C_selected_references_%28IA_CAT11085433068%29.pdf/page1-960px-Cotton_literature%2C_selected_references_%28IA_CAT11085433068%29.pdf.jpg","alt":"Kayseri-Sivas-Titrek Kavak","caption":"Kayseri-Sivas-Titrek Kavak","credit":"Cotton literature, selected references (IA CAT11085433068).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayseri-Sivas-Titrek%20Kavak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228513","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Kayseri","Sivas","Titrek Kavak","milli park","doğa","gezi","turizm","İç Anadolu Bölgesi","çevre"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Bursa-Karacam","alt":"Bursa-Bursa-Karacam","caption":"Bursa-Bursa-Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Uluda%C4%9F_-_Olympos_Misios.jpg/960px-Uluda%C4%9F_-_Olympos_Misios.jpg","alt":"Bursa-Bursa-Karacam","caption":"Bursa-Bursa-Karacam","credit":"Uludağ - Olympos Misios.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Bursa-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227490","tip":"genel"}]
 description: "Bursa'nın zengin doğal güzelliklerini keşfedeceğiniz Karacam Milli Parkı, Marmara Bölgesi'nin önemli turizm merkezlerinden biri."
 keywords: ["Bursa","Karacam","Milli Park","Marmara Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı"]

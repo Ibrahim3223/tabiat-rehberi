@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Banaaziza%20Tepesi","alt":"Banaaziza Tepesi","caption":"Banaaziza Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Banaaziza Tepesi","caption":"Banaaziza Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Banaaziza%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555681","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Banaaziza Tepesi, Şırnak'ın doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Şırnak","Güneydoğu Anadolu Bölgesi","Banaaziza Tepesi","doğal güzellikler","gezi","turizm"]

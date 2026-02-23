@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lkurt%20Da%C4%9F%C4%B1","alt":"Kızılkurt Dağı","caption":"Kızılkurt Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Kızılkurt Dağı","caption":"Kızılkurt Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lkurt%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31579123","tip":"genel"}]
 description: "Erzurum'un görkemli dağlarından biri olan Kızılkurt Dağı, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Kızılkurt Dağı","Erzurum","Dağ","Doğa","Yeşil Alan","Trekking","Doğa Turizmi","Erzurum Gezi","Dağcılık"]

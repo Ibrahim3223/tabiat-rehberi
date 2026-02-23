@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihçe","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1r%C3%A7al%C4%B1%20K%C3%BCmbet","alt":"Sırçalı Kümbet","caption":"Sırçalı Kümbet"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Sırçalı Kümbet","caption":"Sırçalı Kümbet","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1r%C3%A7al%C4%B1%20K%C3%BCmbet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582395","tip":"genel"}]
 description: "Kayseri'nin Melikgazi ilçesinde yer alan Sırcalı Kümbet, tarihi ve doğal güzellikleri bir arada sunan özel bir destinasyon"
 keywords: ["Sırçalı Kümbet","Kayseri","Melikgazi","tarih","doğa","gezi","turizm","kültür","İç Anadolu Bölgesi"]

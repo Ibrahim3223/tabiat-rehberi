@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyareti","Flora ve fauna keşfi","Tarihî atmosferi soluyarak dinlenmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yunus%20Emre%20ve%20Taptuk%20Emre%20T%C3%BCrbesi","alt":"Yunus Emre ve Taptuk Emre Türbesi","caption":"Yunus Emre ve Taptuk Emre Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Yunus Emre ve Taptuk Emre Türbesi","caption":"Yunus Emre ve Taptuk Emre Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yunus%20Emre%20ve%20Taptuk%20Emre%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390457","tip":"genel"}]
 description: "Isparta'nın Gönen ilçesinde yer alan tarihi ve kültürel bir mekan"
 keywords: ["Yunus Emre","Taptuk Emre","Türbe","Isparta","Gönen","Tarih","Kültür","Mekan"]

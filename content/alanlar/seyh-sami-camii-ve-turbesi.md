@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Cami ve türbe gezisi","Rehberlik hizmeti","Doğa yürüyüşü","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20%C5%9Eami%20Camii%20ve%20T%C3%BCrbesi","alt":"Şeyh Şami Camii ve Türbesi","caption":"Şeyh Şami Camii ve Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Şeyh Şami Camii ve Türbesi","caption":"Şeyh Şami Camii ve Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C5%9Eami%20Camii%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q121345065","tip":"genel"}]
 description: "Kırıkkale'nin Sulakyurt ilçesinde yer alan tarihi cami ve türbe"
 keywords: ["Şeyh Şami Camii","Türbe","Sulakyurt","Kırıkkale","İç Anadolu Bölgesi","Tarihi mekanlar","Dini yapılar","Türbeler"]

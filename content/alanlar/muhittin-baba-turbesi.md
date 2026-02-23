@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğa yürüyüşü","Fotografcılık","Tarihi yapıları keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Muhittin%20Baba%20T%C3%BCrbesi","alt":"Muhittin Baba Türbesi","caption":"Muhittin Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Muhittin Baba Türbesi","caption":"Muhittin Baba Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Muhittin%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134734853","tip":"genel"}]
 description: "Çorlu'nun tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Muhittin Baba Türbesi","Çorlu","Tekirdağ","Marmara Bölgesi","tarih","doğa","gezi","türbe"]

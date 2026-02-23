@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6kgedik%20Tepesi","alt":"Gökgedik Tepesi","caption":"Gökgedik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/G%C3%BCver_Cliff_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Scenery_%28Antalya%29.jpg","alt":"Gökgedik Tepesi","caption":"Gökgedik Tepesi","credit":"Güver Cliff Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kgedik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32223488","tip":"genel"}]
 description: "Antalya'nın doğa harikalarından biri olan Gökgedik Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Gökgedik Tepesi","Antalya","Akdeniz Bölgesi","doğa turizmi","tepe","manzara","gezi","turizm","yaban hayatı"]

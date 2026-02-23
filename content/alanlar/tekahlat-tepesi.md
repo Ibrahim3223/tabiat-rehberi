@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tekahlat%20Tepesi","alt":"Tekahlat Tepesi","caption":"Tekahlat Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Foreign_agriculture_-weekly_magazine_of_the_United_States_Department_of_Agriculture%2C_Foreign_Agricultural_Service%2C_U.S._Department_of_Agriculture_%28IA_CAT10252662303%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Tekahlat Tepesi","caption":"Tekahlat Tepesi","credit":"Foreign agriculture -weekly magazine of the United States Department of Agriculture, Foreign Agricultural Service, U.S. Department of Agriculture (IA CAT10252662303).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekahlat%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390073","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinin başında gelen Tekahlat Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Ankara","İç Anadolu Bölgesi","Tekahlat Tepesi","doğa","gezi","turizm","çevre","flora","fauna","ziyaret"]

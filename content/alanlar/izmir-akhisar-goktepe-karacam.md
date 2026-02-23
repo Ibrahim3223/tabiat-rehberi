@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Akhisar-Goktepe-Karacam","alt":"Izmir-Akhisar-Goktepe-Karacam","caption":"Izmir-Akhisar-Goktepe-Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MOKFC07.jpg/960px-MOKFC07.jpg","alt":"Izmir-Akhisar-Goktepe-Karacam","caption":"Izmir-Akhisar-Goktepe-Karacam","credit":"MOKFC07.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Akhisar-Goktepe-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228529","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Akhisar ve Göktepeleri keşfedin."
 keywords: ["İzmir","Akhisar","Göktepe","Karacam","doğa","gezi","milli park"]

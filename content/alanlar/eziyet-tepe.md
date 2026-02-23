@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eziyet%20Tepe","alt":"Eziyet Tepe","caption":"Eziyet Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Eziyet Tepe","caption":"Eziyet Tepe","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eziyet%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548974","tip":"genel"}]
 description: "Siirt'te yer alan Eziyet Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Eziyet Tepe","Siirt","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Coğrafya"]

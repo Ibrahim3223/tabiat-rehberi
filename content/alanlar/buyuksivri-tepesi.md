@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","dağcılık","kamp","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCksivri%20Tepesi","alt":"Büyüksivri Tepesi","caption":"Büyüksivri Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Foreign_agriculture_-weekly_magazine_of_the_United_States_Department_of_Agriculture%2C_Foreign_Agricultural_Service%2C_U.S._Department_of_Agriculture_%28IA_CAT10252662303%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Büyüksivri Tepesi","caption":"Büyüksivri Tepesi","credit":"Foreign agriculture -weekly magazine of the United States Department of Agriculture, Foreign Agricultural Service, U.S. Department of Agriculture (IA CAT10252662303).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCksivri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731434","tip":"genel"}]
 description: "Ankara'nın en yüksek noktası, yüksek bir konumdate, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri."
 keywords: ["Büyüksivri Tepesi","Ankara","İç Anadolu Bölgesi","coğrafi oluşum","tepe","dağcılık","doğa","gezi","tarihçe"]

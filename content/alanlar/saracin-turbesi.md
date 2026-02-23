@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları gezmek","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sarac%C4%B1n%20T%C3%BCrbesi","alt":"Saracın Türbesi","caption":"Saracın Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Saracın Türbesi","caption":"Saracın Türbesi","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sarac%C4%B1n%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391659","tip":"genel"}]
 description: "Sivas'ın Divriği ilçesinde yer alan Saracın Türbesi, tarihi ve doğal güzellikleri bir arada sunan bir destinasyon."
 keywords: ["Saracın Türbesi","Divriği","Sivas","tarihi mekanlar","doğa","turizm"]

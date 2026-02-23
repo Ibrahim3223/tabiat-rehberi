@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî kalıntıları gezme","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gora%20Mugrushems","alt":"Gora Mugrushems","caption":"Gora Mugrushems"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Gora Mugrushems","caption":"Gora Mugrushems","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Mugrushems","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386531","tip":"genel"}]
 description: "Hatay'ın doğal güzelliklerini keşfedin. Gora Mugrushems, Akdeniz Bölgesi'nin önemli noktalarından biri"
 keywords: ["Gora Mugrushems","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

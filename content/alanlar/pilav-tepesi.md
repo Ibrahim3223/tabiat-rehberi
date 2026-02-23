@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","coğrafi yapı incelemesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pilav%20Tepesi","alt":"Pilav Tepesi","caption":"Pilav Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Asagi_Cagirankaya_Yaylasi.jpg/960px-Asagi_Cagirankaya_Yaylasi.jpg","alt":"Pilav Tepesi","caption":"Pilav Tepesi","credit":"Asagi Cagirankaya Yaylasi.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pilav%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388504","tip":"genel"}]
 description: "Rize'de yer alan Pilav Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri"
 keywords: ["Rize","Karadeniz Bölgesi","Pilav Tepesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

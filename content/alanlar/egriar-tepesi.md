@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Yürüyüş","Fotoğrafçılık","Doğa Gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=E%C4%9Friar%20Tepesi","alt":"Eğriar Tepesi","caption":"Eğriar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/960px-Kursunlu_Waterfall_Autumn.jpg","alt":"Eğriar Tepesi","caption":"Eğriar Tepesi","credit":"Kursunlu Waterfall Autumn.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Friar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31524893","tip":"genel"}]
 description: "Antalya'nın yemyeşil doğası içindeki Eğriar Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Eğriar Tepesi","Antalya","Akdeniz Bölgesi","Doğa","Tepeler","Gezi","Turizm"]

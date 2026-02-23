@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87etenli%20K%C3%B6y%C3%BC%20Kurgan%C4%B1","alt":"Çetenli Köyü Kurganı","caption":"Çetenli Köyü Kurganı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Çetenli Köyü Kurganı","caption":"Çetenli Köyü Kurganı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87etenli%20K%C3%B6y%C3%BC%20Kurgan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728229","tip":"genel"}]
 description: "Doğubayazıt'ın tarihi ve doğal güzellikleri"
 keywords: ["Doğubayazıt","Erzurum","İç Anadolu Bölgesi","tarih","doğa","kültür","gezi","seyahat","çevre","coğrafya"]

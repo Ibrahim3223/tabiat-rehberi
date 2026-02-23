@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Delikkaya%20Da%C4%9F%C4%B1","alt":"Delikkaya Dağı","caption":"Delikkaya Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Geography_readers_..._%28IA_geographyreaders41wins%29.pdf/page1-791px-Geography_readers_..._%28IA_geographyreaders41wins%29.pdf.jpg","alt":"Delikkaya Dağı","caption":"Delikkaya Dağı","credit":"Geography readers ... (IA geographyreaders41wins).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Delikkaya%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31577279","tip":"genel"}]
 description: "Ağrı'da bulunan Delikkaya Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Delikkaya Dağı","Ağrı","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Doğal Güzellik","Ağrı Turistik Yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı izleme","manzara seyretme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dall%C4%B1kavak%20Tepesi","alt":"Dallıkavak Tepesi","caption":"Dallıkavak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Across_Asia_on_a_bicycle%3B_the_journey_of_two_American_students_from_Constantinople_to_Peking_%28IA_cu31924023209491%29.pdf/page1-687px-Across_Asia_on_a_bicycle%3B_the_journey_of_two_American_students_from_Constantinople_to_Peking_%28IA_cu31924023209491%29.pdf.jpg","alt":"Dallıkavak Tepesi","caption":"Dallıkavak Tepesi","credit":"Across Asia on a bicycle; the journey of two American students from Constantinople to Peking (IA cu31924023209491).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dall%C4%B1kavak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389169","tip":"genel"}]
 description: "Sivas'ın doğal güzelliklerini keşfedin, Dallıkavak Tepesi'ni ziyaret edin"
 keywords: ["Sivas","Dallıkavak Tepesi","doğa","gezi","yaban hayatı","coğrafya","tarihçe"]

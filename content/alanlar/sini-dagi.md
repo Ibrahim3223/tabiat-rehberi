@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sini%20Da%C4%9F%C4%B1","alt":"Sini Dağı","caption":"Sini Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Sini Dağı","caption":"Sini Dağı","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sini%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385448","tip":"genel"}]
 description: "Bitlis'te yer alan Sini Dağı, doğa severlerin keşfetmek için bekleyen bir hazine. 1200 hektarlık yeşil cennet"
 keywords: ["Sini Dağı","Bitlis","Dağ","Doğa","Turizm","Gezi","Keşif","Yeşil Cennet","Doğa Harikası"]

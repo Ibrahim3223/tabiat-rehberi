@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Me%C5%9Fti%20Ma%C4%9Faralar%C4%B1","alt":"Meşti Mağaraları","caption":"Meşti Mağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Meşti Mağaraları","caption":"Meşti Mağaraları","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Me%C5%9Fti%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319553","tip":"genel"}]
 description: "Batman'da yer alan Meşti Mağaraları, 1200 hektarlık yeşil cennet, jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Meşti Mağaraları","Batman","Jeopark","Doğa Alanları","Mağara Gezileri","Turizm","Jeolojik Oluşumlar","Yeşil Alanlar","Doğa Harikaları"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Coğrafi gözlem","Fotoğrafçılık","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nemrut%20Yanarda%C4%9F%20Krater%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","alt":"Nemrut Yanardağ Krater Gölü Sit Alanı","caption":"Nemrut Yanardağ Krater Gölü Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Nemrut Yanardağ Krater Gölü Sit Alanı","caption":"Nemrut Yanardağ Krater Gölü Sit Alanı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nemrut%20Yanarda%C4%9F%20Krater%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226044","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Nemrut Yanardağ Krater Gölü Sit Alanı, benzersiz coğrafyası ve zengin fauna ile dikkat çekiyor."
 keywords: ["Nemrut Yanardağ","Krater Gölü","Sit Alanı","İç Anadolu Bölgesi","doğa","turizm","gezi","coğrafya"]

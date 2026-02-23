@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezi","Doğa yürüyüşü","Fotoğraf çekimi","Tarihi araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Seyyid%20%C5%9Eerif%20T%C3%BCrbesi","alt":"Seyyid Şerif Türbesi","caption":"Seyyid Şerif Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Seyyid Şerif Türbesi","caption":"Seyyid Şerif Türbesi","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20%C5%9Eerif%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582344","tip":"genel"}]
 description: "Develi'nin tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Seyyid Şerif Türbesi","Develi","Kayseri","İç Anadolu Bölgesi","tarihi mekan","doğa","tarihçe","coğrafya"]

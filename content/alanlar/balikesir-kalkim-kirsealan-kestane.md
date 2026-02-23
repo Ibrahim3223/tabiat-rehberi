@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bal%C4%B1kesir-Kalkim-Kirsealan%20Kestane","alt":"Balıkesir-Kalkim-Kirsealan Kestane","caption":"Balıkesir-Kalkim-Kirsealan Kestane"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kartalcimen.jpg/960px-Kartalcimen.jpg","alt":"Balıkesir-Kalkim-Kirsealan Kestane","caption":"Balıkesir-Kalkim-Kirsealan Kestane","credit":"Kartalcimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kesir-Kalkim-Kirsealan%20Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227723","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin. Balıkesir-Kalkim-Kirsealan Kestane milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Balıkesir","Marmara Bölgesi","milli park","kestane","doğa","turizm","gezi","yaban hayatı","çevre"]

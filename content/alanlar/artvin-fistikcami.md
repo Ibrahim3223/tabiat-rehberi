@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü","tarih kalıntıları gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artvin%20Fistik%C3%A7ami","alt":"Artvin Fistikçami","caption":"Artvin Fistikçami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Artvin Fistikçami","caption":"Artvin Fistikçami","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin%20Fistik%C3%A7ami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227734","tip":"genel"}]
 description: "Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir milli park"
 keywords: ["Artvin","Fistikçami","milli park","doğa","türkiye","gezi","tarihçe","coğrafya"]

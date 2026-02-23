@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plaj activities","tarih gezisi","doğa yürüyüşü","fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaya%20Mezar%C4%B1%201%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","alt":"Kaya Mezarı 1 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 1 (Tikenlice Mahallesi) Gürgentepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Victoria_Daily_Times_%281913-10-06%29_%28IA_victoriadailytimes19131006%29.pdf/page1-960px-Victoria_Daily_Times_%281913-10-06%29_%28IA_victoriadailytimes19131006%29.pdf.jpg","alt":"Kaya Mezarı 1 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 1 (Tikenlice Mahallesi) Gürgentepe","credit":"Victoria Daily Times (1913-10-06) (IA victoriadailytimes19131006).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%201%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728219","tip":"genel"}]
 description: "Gürgentepe'nin tarihi ve doğal güzelliklerini keşfedin. Kaya Mezarı 1, Tikenlice Mahallesi'nde ziyaretçiler için önemli bir destinasyon."
 keywords: ["Kaya Mezarı 1","Tikenlice Mahallesi","Gürgentepe","Ordu","Karadeniz Bölgesi","tarih","doğa","gezi"]

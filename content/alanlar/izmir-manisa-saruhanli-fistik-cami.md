@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Manisa-Saruhanli%20Fistik%20Cami","alt":"Izmir-Manisa-Saruhanli Fistik Cami","caption":"Izmir-Manisa-Saruhanli Fistik Cami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MOKFC15.jpg/960px-MOKFC15.jpg","alt":"Izmir-Manisa-Saruhanli Fistik Cami","caption":"Izmir-Manisa-Saruhanli Fistik Cami","credit":"MOKFC15.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Manisa-Saruhanli%20Fistik%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228004","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Izmir","Manisa","Saruhanli","Fistik Cami","Ege Bölgesi","Doğa","Tarih","Kültür"]

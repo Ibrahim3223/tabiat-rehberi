@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","orman gezi","su kaynakları keşfi","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Akseki-Ibradi-Menengic","alt":"Antalya-Akseki-Ibradi-Menengic","caption":"Antalya-Akseki-Ibradi-Menengic"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Antalya-Akseki-Ibradi-Menengic","caption":"Antalya-Akseki-Ibradi-Menengic","credit":"Turkish nature reserve.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Akseki-Ibradi-Menengic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228402","tip":"genel"}]
 description: "Antalya'nın doğal güzellikleri arasında yer alan milli park, ziyaretçilerine benzersiz bir doğa deneyimi sunuyor."
 keywords: ["Antalya","milli park","Ibradi","Menengic","doğa","gezi","turizm","Akdeniz Bölgesi","çevre"]

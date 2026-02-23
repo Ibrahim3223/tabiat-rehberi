@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0mam%20Tepesi","alt":"İmam Tepesi","caption":"İmam Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf/page1-820px-Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf.jpg","alt":"İmam Tepesi","caption":"İmam Tepesi","credit":"Travels In The Trans-Caucasian Provinces Of Russia (IA TravelsInTheTransCaucasianProvincesOfRussia).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mam%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388230","tip":"genel"}]
 description: "Kars'ın tarihi ve doğal güzelliklerini keşfedin. İmam Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kars","İmam Tepesi","Doğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]

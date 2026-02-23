@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1%20%C3%96mer%20H%C3%BCdai%20Baba%20T%C3%BCrbesi","alt":"Hacı Ömer Hüdai Baba Türbesi","caption":"Hacı Ömer Hüdai Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hacı Ömer Hüdai Baba Türbesi","caption":"Hacı Ömer Hüdai Baba Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20%C3%96mer%20H%C3%BCdai%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391334","tip":"genel"}]
 description: "Elazığ'da tarihi ve doğal güzellikleri bir arada sunan Hacı Ömer Hüdai Baba Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Hacı Ömer Hüdai Baba Türbesi","Elazığ","Doğu Anadolu Bölgesi","Türbe","Tarih","Doğa"]

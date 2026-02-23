@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bal%C4%B1kesir-Konakp%C4%B1nar-K%C4%B1z%C4%B1l%C3%A7am","alt":"Balıkesir-Konakpınar-Kızılçam","caption":"Balıkesir-Konakpınar-Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/AgaricusMushroom.jpg/960px-AgaricusMushroom.jpg","alt":"Balıkesir-Konakpınar-Kızılçam","caption":"Balıkesir-Konakpınar-Kızılçam","credit":"AgaricusMushroom.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kesir-Konakp%C4%B1nar-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228446","tip":"genel"}]
 description: "Balıkesir'de yer alan milli parkın güzellikleri ve özellikleri."
 keywords: ["Balıkesir","milli park","Konakpınar","Kızılçam","Marmara Bölgesi","doğa","gezi","turizm"]

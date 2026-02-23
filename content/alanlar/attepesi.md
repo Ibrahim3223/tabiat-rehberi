@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Attepesi","alt":"Attepesi","caption":"Attepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Forest_vegetation_of_the_Black_Hills_National_Forest_of_South_Dakota_and_Wyoming_-_a_habitat_type_classification_%28IA_CAT92273487%29.pdf/page1-960px-Forest_vegetation_of_the_Black_Hills_National_Forest_of_South_Dakota_and_Wyoming_-_a_habitat_type_classification_%28IA_CAT92273487%29.pdf.jpg","alt":"Attepesi","caption":"Attepesi","credit":"Forest vegetation of the Black Hills National Forest of South Dakota and Wyoming - a habitat type classification (IA CAT92273487).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Attepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387503","tip":"genel"}]
 description: "Van'ın tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Attepesi","Van","Doğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","coğrafya"]

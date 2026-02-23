@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCkkartal%20Tepesi","alt":"Küçükkartal Tepesi","caption":"Küçükkartal Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Küçükkartal Tepesi","caption":"Küçükkartal Tepesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkkartal%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042689","tip":"genel"}]
 description: "Ankara'nın en önemli doğal güzelliklerinden biri olan Küçükkartal Tepesi, 1200 metre yüksekliğiyle şehrin panoramik manzarasını sunar."
 keywords: ["Küçükkartal Tepesi","Ankara","dağ","doğa","gezi","turizm","panoramik manzara","yürüyüş rotaları","Ankara gezilecek yerler"]

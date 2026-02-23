@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sal%C4%B1yeri%20Da%C4%9F%C4%B1","alt":"Salıyeri Dağı","caption":"Salıyeri Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/MOKG06.jpg/960px-MOKG06.jpg","alt":"Salıyeri Dağı","caption":"Salıyeri Dağı","credit":"MOKG06.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sal%C4%B1yeri%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31577110","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Salıyeri Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Salıyeri Dağı","İzmir dağları","doğa yürüyüşü","İzmir turizm","dağcılık","Salıyeri Dağı gezilecek yerler","İzmir doğal güzellikler","Salıyeri Dağı manzaraları","İzmir seyahat"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğal yürüyüş","manzara izleme","fotografçılık","tarihî yapılar gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kirazl%C4%B1yayla%20Tepesi","alt":"Kirazlıyayla Tepesi","caption":"Kirazlıyayla Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Kirazlıyayla Tepesi","caption":"Kirazlıyayla Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirazl%C4%B1yayla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388470","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerinden biri olan Kirazlıyayla Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kirazlıyayla Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm"]

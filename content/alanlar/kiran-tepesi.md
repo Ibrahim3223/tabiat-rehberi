@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara seyretme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1ran%20Tepesi","alt":"Kıran Tepesi","caption":"Kıran Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Landscape_of_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k.jpg","alt":"Kıran Tepesi","caption":"Kıran Tepesi","credit":"The Landscape of Sıklık.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1ran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31580969","tip":"genel"}]
 description: "Çorum'un doğal güzellikleri arasında yer alan Kıran Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kıran Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi"]

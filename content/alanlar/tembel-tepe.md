@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimleri","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tembel%20Tepe","alt":"Tembel Tepe","caption":"Tembel Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Tembel Tepe","caption":"Tembel Tepe","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tembel%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390910","tip":"genel"}]
 description: "Kayseri'de yer alan Tembel Tepe, doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["Tembel Tepe","Kayseri","doğal güzellik","tarihi geçmişi","gezi","turizm","İç Anadolu Bölgesi","tepe","manzara"]

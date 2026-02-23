@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Doğa Yürüyüşü","Tepenin Zirvesine Tırmanış","Çevre Gezisi","Fotoğrafçılık","Doğa Gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuzudoru%C4%9Fu%20Tepesi","alt":"Kuzudoruğu Tepesi","caption":"Kuzudoruğu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Kuzudoruğu Tepesi","caption":"Kuzudoruğu Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzudoru%C4%9Fu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389778","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli hazinelerinden biri olan Kuzudoruğu Tepesi, Bilecik'te doğa severleri bekliyor."
 keywords: ["Kuzudoruğu Tepesi","Bilecik","Marmara Bölgesi","doğa","tepe","gezi","yerel","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%BCr%C3%BCcek%20Tepe","alt":"Yürücek Tepe","caption":"Yürücek Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aksu_Deresi_-_panoramio.jpg/960px-Aksu_Deresi_-_panoramio.jpg","alt":"Yürücek Tepe","caption":"Yürücek Tepe","credit":"Aksu Deresi - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCcek%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822596","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerini keşfedin, Yürücek Tepe'de doğa ile baş başa kalın."
 keywords: ["Yürücek Tepe","Giresun","Dağ","Doğa","Turizm","Gezi","Türkiye","Giresun Gezilecek Yerler","Dağcılık"]

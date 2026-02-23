@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğrafçılık","tarihi yapıları gezmek","yöresel yemekleri denemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BChere%C5%9Feho%20Tepesi","alt":"Gühereşeho Tepesi","caption":"Gühereşeho Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New-Dark_Evangelist_1871-04-13-_Vol_42_Iss_15_%28IA_sim_evangelist-and-religious-review_1871-04-13_42_15%29.pdf/page1-960px-New-Dark_Evangelist_1871-04-13-_Vol_42_Iss_15_%28IA_sim_evangelist-and-religious-review_1871-04-13_42_15%29.pdf.jpg","alt":"Gühereşeho Tepesi","caption":"Gühereşeho Tepesi","credit":"New-Dark Evangelist 1871-04-13- Vol 42 Iss 15 (IA sim evangelist-and-religious-review 1871-04-13 42 15).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BChere%C5%9Feho%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872855","tip":"genel"}]
 description: "Mardin'in tarihi ve coğrafi güzelliği bir arada sunan önemli bir nokta"
 keywords: ["Mardin","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","tarihçe","doğa","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCkada%20Tepesi","alt":"Küçükada Tepesi","caption":"Küçükada Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf/page1-960px-THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf.jpg","alt":"Küçükada Tepesi","caption":"Küçükada Tepesi","credit":"THE IDEAL OF HANDICRAFTS AND THE MODERN DESIGN FORMATION COINCIDENCES AND FAILURES.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkada%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042845","tip":"genel"}]
 description: "Ankara'nın önemli doğal güzelliklerinden biri olan Küçükada Tepesi, 1200 metrelik yüksekliğiyle şehrin panoramik manzarasını sunar."
 keywords: ["Küçükada Tepesi","Ankara","Dağ","Doğa","Turizm","Gezi","Manzara","Panorama","Tepeler"]

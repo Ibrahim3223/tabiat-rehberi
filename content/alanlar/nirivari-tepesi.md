@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Kültür Gezisi","Fotoğrafçılık","Doğa Gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nir%C4%B1vari%20Tepesi","alt":"Nirıvari Tepesi","caption":"Nirıvari Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Nirıvari Tepesi","caption":"Nirıvari Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nir%C4%B1vari%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553538","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli cenneti, Batman'da yer alan Nirıvari Tepesi, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor."
 keywords: ["Nirıvari Tepesi","Batman","Güneydoğu Anadolu Bölgesi","Yeşil Alan","Zengin Fauna","Doğa","Tepeler","Gezi","Turizm"]

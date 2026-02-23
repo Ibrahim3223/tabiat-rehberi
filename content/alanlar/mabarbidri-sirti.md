@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mabarb%C4%B1dr%C4%B1%20S%C4%B1rt%C4%B1","alt":"Mabarbıdrı Sırtı","caption":"Mabarbıdrı Sırtı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Mabarbıdrı Sırtı","caption":"Mabarbıdrı Sırtı","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mabarb%C4%B1dr%C4%B1%20S%C4%B1rt%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554948","tip":"genel"}]
 description: "Batman'da yer alan Mabarbıdrı Sırtı, doğa severler için önemli bir destinasyon. 1200 hektarlık yeşil alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Mabarbıdrı Sırtı","Batman","Dağ","Doğa","Yeşil Alan","İstanbul","Türkiye","Seyahat","Gezi","Doğa Turizmi"]

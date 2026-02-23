@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarih incelemesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nohut%20Tepe","alt":"Nohut Tepe","caption":"Nohut Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf/page1-960px-State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf.jpg","alt":"Nohut Tepe","caption":"Nohut Tepe","credit":"State 2009-01- Iss 530 (IA sim state-magazine 2009-01 530).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nohut%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558612","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Ankara","Nohut Tepe","tarih","doğa","gezi","turizm","kültür","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","bitki gözlemi","hayvan izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bozada%20Tepesi","alt":"Bozada Tepesi","caption":"Bozada Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Creek_-_panoramio.jpg/960px-The_Creek_-_panoramio.jpg","alt":"Bozada Tepesi","caption":"Bozada Tepesi","credit":"The Creek - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozada%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390641","tip":"genel"}]
 description: "Kırşehir'in doğal güzelliklerinin başında gelen Bozada Tepesi, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
 keywords: ["Kırşehir","Bozada Tepesi","doğal güzellik","tepe","gezi","İç Anadolu Bölgesi","coğrafya","flora","fauna"]

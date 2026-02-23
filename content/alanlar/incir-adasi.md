@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0ncir%20Adas%C4%B1","alt":"İncir Adası","caption":"İncir Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Assessing_the_Resilience_of_Global_Sea_Routes_%28IA_assessingresilie109457344%29.pdf/page1-960px-Assessing_the_Resilience_of_Global_Sea_Routes_%28IA_assessingresilie109457344%29.pdf.jpg","alt":"İncir Adası","caption":"İncir Adası","credit":"Assessing the Resilience of Global Sea Routes (IA assessingresilie109457344).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncir%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34795598","tip":"genel"}]
 description: "Kocaeli'nin güzide adalarından biri olan İncir Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["İncir Adası","Kocaeli","ada","yeşil alan","tarih","gezi","turizm","doğa","Kocaeli adaları"]

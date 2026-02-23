@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","bitki gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karasu%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","alt":"Karasu Deltası Sulak Alanı","caption":"Karasu Deltası Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Karasu Deltası Sulak Alanı","caption":"Karasu Deltası Sulak Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karasu%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228448","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal zenginliklerinden biri olan Karasu Deltası Sulak Alanı, birçok canlıya ev sahipliği yapıyor."
 keywords: ["Karasu Deltası","Sulak Alan","İç Anadolu Bölgesi","doğa","canlılar","flora","fauna","korunan alan","ekosistem"]

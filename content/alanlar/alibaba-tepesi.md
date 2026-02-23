@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alibaba%20Tepesi","alt":"Alibaba Tepesi","caption":"Alibaba Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Alibaba Tepesi","caption":"Alibaba Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alibaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21694784","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide illerinden Erzurum'da bulunan Alibaba Tepesi, ziyaretçilerini büyüleyen bir doğa harikasıdır."
 keywords: ["Alibaba Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğa harikası","tepe","gezi"]

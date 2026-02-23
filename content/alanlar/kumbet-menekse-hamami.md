@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","picnic","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCmbet%20Menek%C5%9Fe%20Hamam%C4%B1","alt":"Kümbet Menekşe Hamamı","caption":"Kümbet Menekşe Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu/page1-800px-The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu.jpg","alt":"Kümbet Menekşe Hamamı","caption":"Kümbet Menekşe Hamamı","credit":"The Modern Review Vol 37 (Jan.-June 1925).djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCmbet%20Menek%C5%9Fe%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738437","tip":"genel"}]
 description: "Sivas'ın doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Sivas","doğal güzellik","Kümbet Menekşe Hamamı","plaj","İç Anadolu Bölgesi","turizm","gezi","yazılık"]

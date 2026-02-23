@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Kültürel etkinlikler","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C3%BCsamettin%20Gazi%20Bey%20T%C3%BCrbesi","alt":"Hüsamettin Gazi Bey Türbesi","caption":"Hüsamettin Gazi Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf/page1-633px-Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf.jpg","alt":"Hüsamettin Gazi Bey Türbesi","caption":"Hüsamettin Gazi Bey Türbesi","credit":"Letters from the Aegean (in Two Volumes, Vol.I) (IA dli.granth.36180).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCsamettin%20Gazi%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390469","tip":"genel"}]
 description: "Denizli'nin Baklan ilçesinde yer alan tarihi türbe"
 keywords: ["Baklan","Denizli","Ege Bölgesi","Türbe","Tarih","Kültür"]

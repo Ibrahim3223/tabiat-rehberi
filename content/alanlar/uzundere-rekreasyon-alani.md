@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Uzundere%20Rekreasyon%20Alan%C4%B1","alt":"Uzundere Rekreasyon Alanı","caption":"Uzundere Rekreasyon Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Abstrakty_z_III_Warsztat%C3%B3w_Etnobiologii_Europy_Wschodniej_9-13_pa%C5%BAdziernika_2013.pdf/page1-960px-Abstrakty_z_III_Warsztat%C3%B3w_Etnobiologii_Europy_Wschodniej_9-13_pa%C5%BAdziernika_2013.pdf.jpg","alt":"Uzundere Rekreasyon Alanı","caption":"Uzundere Rekreasyon Alanı","credit":"Abstrakty z III Warsztatów Etnobiologii Europy Wschodniej 9-13 października 2013.pdf","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzundere%20Rekreasyon%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q98767771","tip":"genel"}]
 description: "İzmir Karabağlar'da bulunan 1200 hektarlık yeşil cennet, botanik bahçesi ve rekreasyon alanı"
 keywords: ["Uzundere Rekreasyon Alanı","İzmir botanik bahçesi","Karabağlar gezilecek yerler","İzmir rekreasyon alanları","Yeşil alanlar","Botanik bahçeleri","İzmir parkları","Doğa yürüyüşü","Rekreasyon alanları"]

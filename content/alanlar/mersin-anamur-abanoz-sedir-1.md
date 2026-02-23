@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Anamur-Abanoz%20Sedir%201","alt":"Mersin-Anamur-Abanoz Sedir 1","caption":"Mersin-Anamur-Abanoz Sedir 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kad%C4%B1nc%C4%B1k_Valley_3.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_3.jpg","alt":"Mersin-Anamur-Abanoz Sedir 1","caption":"Mersin-Anamur-Abanoz Sedir 1","credit":"Kadıncık Valley 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Anamur-Abanoz%20Sedir%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227217","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin. Akdeniz Bölgesi'nde yer alan bu milli park, ziyaretçilerine benzersiz bir deneyim sunuyor."
 keywords: ["Mersin","Anamur","Abanoz Sedir","milli park","doğa","turizm","gezi","Akdeniz Bölgesi"]

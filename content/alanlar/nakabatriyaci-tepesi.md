@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nakabatriyaci%20Tepesi","alt":"Nakabatriyaci Tepesi","caption":"Nakabatriyaci Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Nakabatriyaci Tepesi","caption":"Nakabatriyaci Tepesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nakabatriyaci%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31543375","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzellikleri arasında yer alan Nakabatriyaci Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Nakabatriyaci Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","tepe","doğa","tarih"]

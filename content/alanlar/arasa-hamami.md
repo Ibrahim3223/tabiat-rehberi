@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arasa%20Hamam%C4%B1","alt":"Arasa Hamamı","caption":"Arasa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Arasa Hamamı","caption":"Arasa Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arasa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738901","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli cenneti, Şanlıurfa'nın Eyyübiye ilçesinde bulunan Arasa Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Arasa Hamamı","Eyyübiye","Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa","yeşil alan","futbol sahası"]

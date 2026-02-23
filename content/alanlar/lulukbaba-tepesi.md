@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=L%C3%BCl%C3%BCkbaba%20Tepesi","alt":"Lülükbaba Tepesi","caption":"Lülükbaba Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Palms_and_pearls_-_or_Scenes_in_Ceylon_%28IA_palmspearlsorsce00waltrich%29.pdf/page1-818px-Palms_and_pearls_-_or_Scenes_in_Ceylon_%28IA_palmspearlsorsce00waltrich%29.pdf.jpg","alt":"Lülükbaba Tepesi","caption":"Lülükbaba Tepesi","credit":"Palms and pearls - or Scenes in Ceylon (IA palmspearlsorsce00waltrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/L%C3%BCl%C3%BCkbaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34926494","tip":"genel"}]
 description: "Sivas'ın yüksek noktalarından biri olan Lülükbaba Tepesi, doğa severlerin ilgi odağı."
 keywords: ["Lülükbaba Tepesi","Sivas","İç Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya"]

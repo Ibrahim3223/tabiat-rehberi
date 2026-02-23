@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Oyunlar","Güneş banyosu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tarihi%20%C3%87ar%C5%9F%C4%B1%20Hamam%C4%B1","alt":"Tarihi Çarşı Hamamı","caption":"Tarihi Çarşı Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Tarihi Çarşı Hamamı","caption":"Tarihi Çarşı Hamamı","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarihi%20%C3%87ar%C5%9F%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738467","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Tarihi Çarşı Hamamı","Battalgazi","Malatya","Doğu Anadolu Bölgesi","Plaj","Doğal güzellik","Tarih","Kültür"]

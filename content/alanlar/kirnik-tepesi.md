@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rn%C4%B1k%20Tepesi","alt":"Kırnık Tepesi","caption":"Kırnık Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Kırnık Tepesi","caption":"Kırnık Tepesi","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rn%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389109","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin büyüleyici doğal güzelliklerinden biri olan Kırnık Tepesi, Bingöl'de yer alır."
 keywords: ["Kırnık Tepesi","Doğu Anadolu Bölgesi","Bingöl","doğa","tepe","gezi","tarihçe","coğrafya"]

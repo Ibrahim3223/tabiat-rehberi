@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih keşfi","doğa yürüyüşü","fotoğrafçılık","kültürel deneyim"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Iasos%20Saat%20Kulesi%20An%C4%B1t%20Mezar%C4%B1","alt":"Iasos Saat Kulesi Anıt Mezarı","caption":"Iasos Saat Kulesi Anıt Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Iasos Saat Kulesi Anıt Mezarı","caption":"Iasos Saat Kulesi Anıt Mezarı","credit":"Muğla - Dalyan - İztuzu Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Iasos%20Saat%20Kulesi%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728113","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Iasos","Saat Kulesi Anıt Mezarı","Milas","Muğla","Ege Bölgesi","tarih","kültür","gezi","turizm"]

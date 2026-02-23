@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bostanba%C4%9F%20Tepesi","alt":"Bostanbağ Tepesi","caption":"Bostanbağ Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf/page1-960px-From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf.jpg","alt":"Bostanbağ Tepesi","caption":"Bostanbağ Tepesi","credit":"From denial to participation- Turkey's evolving discourse on Kurdish nationalism (IA fromdenialtopart1094537734).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bostanba%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558581","tip":"genel"}]
 description: "Ankara'nın gizli cenneti, İç Anadolu Bölgesi'nin natuur harikası"
 keywords: ["Ankara","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","çevre","ekoloji","flora","fauna"]

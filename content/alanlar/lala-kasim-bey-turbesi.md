@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihi yapıları gezmek","Rehberli turlara katılmak","Çevresindeki doğayı keşfetmek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Lala%20Kas%C4%B1m%20Bey%20T%C3%BCrbesi","alt":"Lala Kasım Bey Türbesi","caption":"Lala Kasım Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Lala Kasım Bey Türbesi","caption":"Lala Kasım Bey Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lala%20Kas%C4%B1m%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391730","tip":"genel"}]
 description: "Diyarbakır'ın Sur ilçesinde bulunan Lala Kasım Bey Türbesi, tarihi ve kültürel öneme sahip bir mekân"
 keywords: ["Lala Kasım Bey Türbesi","Diyarbakır","Sur","Türbe","Tarih","Kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCrzedin%20Tepesi","alt":"Gürzedin Tepesi","caption":"Gürzedin Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Gürzedin Tepesi","caption":"Gürzedin Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrzedin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873484","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide mekanlarından biri olan Gürzedin Tepesi, Batman'ın büyüleyici doğal güzelliklerini sunuyor."
 keywords: ["Gürzedin Tepesi","Batman","Güneydoğu Anadolu Bölgesi","Doğal güzellik","Tepeler","Coğrafya","Flora","Fauna","Ziyaret"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ta%C5%9Fkuyu%20ma%C4%9Faras%C4%B1","alt":"Taşkuyu mağarası","caption":"Taşkuyu mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Taşkuyu mağarası","caption":"Taşkuyu mağarası","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fkuyu%20ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20471828","tip":"genel"}]
 description: "Mersin Tarsus'ta bulunan Taşkuyu mağarası, 1200 hektarlık bir jeopark alanı sunar."
 keywords: ["Taşkuyu mağarası","Mersin","Tarsus","Jeopark","Mağara","Doğa","Turizm","Mersin turistik yerler","Tarsus gezilecek yerler"]

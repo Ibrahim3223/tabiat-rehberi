@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğrafçılık"," Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Baykoca%20Bey%20T%C3%BCrbesi","alt":"Baykoca Bey Türbesi","caption":"Baykoca Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf/page1-960px-The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf.jpg","alt":"Baykoca Bey Türbesi","caption":"Baykoca Bey Türbesi","credit":"The Enterprise 1923-06-07 (IA cssf 001428).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Baykoca%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391363","tip":"genel"}]
 description: "İnegöl'ün tarihi ve doğal güzelliklerinin bir arada bulunduğu özel bir yer"
 keywords: ["Baykoca Bey Türbesi","İnegöl","Bursa","Marmara Bölgesi","tarih","doğa","gezi","türkü","yaban hayatı"]

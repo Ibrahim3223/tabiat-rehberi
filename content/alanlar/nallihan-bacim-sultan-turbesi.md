@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotografçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nall%C4%B1han%20Bac%C4%B1m%20Sultan%20T%C3%BCrbesi","alt":"Nallıhan Bacım Sultan Türbesi","caption":"Nallıhan Bacım Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Commanders_Digest_1967-09-27-_Vol_3_Iss_77_%28IA_sim_commanders-digest_1967-09-27_3_77%29.pdf/page1-960px-Commanders_Digest_1967-09-27-_Vol_3_Iss_77_%28IA_sim_commanders-digest_1967-09-27_3_77%29.pdf.jpg","alt":"Nallıhan Bacım Sultan Türbesi","caption":"Nallıhan Bacım Sultan Türbesi","credit":"Commanders Digest 1967-09-27- Vol 3 Iss 77 (IA sim commanders-digest 1967-09-27 3 77).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nall%C4%B1han%20Bac%C4%B1m%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391214","tip":"genel"}]
 description: "Ankara'nın Nallıhan ilçesinde bulunan tarihi türbe ve çevresindeki doğal güzellikler"
 keywords: ["Nallıhan","Bacım Sultan Türbesi","Ankara","İç Anadolu Bölgesi","tarih","doğa","turizm"]

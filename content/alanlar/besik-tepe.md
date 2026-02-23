@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Be%C5%9Fik%20Tepe","alt":"Beşik Tepe","caption":"Beşik Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Beşik Tepe","caption":"Beşik Tepe","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390917","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerinden biri olan Beşik Tepe, tarihi geçmişi ve coğrafi konumu ile dikkat çekiyor."
 keywords: ["Beşik Tepe","Kayseri","İç Anadolu Bölgesi","doğa","coğrafya","tarihçe"]

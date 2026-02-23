@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Rumi%20H%C3%A2ce%20Dede%20Sultan%20T%C3%BCrbesi","alt":"Rumi Hâce Dede Sultan Türbesi","caption":"Rumi Hâce Dede Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Rumi Hâce Dede Sultan Türbesi","caption":"Rumi Hâce Dede Sultan Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rumi%20H%C3%A2ce%20Dede%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582710","tip":"genel"}]
 description: "Merzifon'un tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Merzifon","Rumi Hâce Dede Sultan Türbesi","tarih","doğa","gezi","türbe","İç Anadolu Bölgesi","Merzifon İlçesi"]

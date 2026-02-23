@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günün herhangi bir zamanı"
 aktiviteler: ["plajda güneşlenme","denizde yüzme","doğa yürüyüşü","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ifte%20Hamam%2C%20Soma","alt":"Çifte Hamam, Soma","caption":"Çifte Hamam, Soma"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Çifte Hamam, Soma","caption":"Çifte Hamam, Soma","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ifte%20Hamam%2C%20Soma","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245824","tip":"genel"}]
 description: "Ege Bölgesi'nin güzel plajlarından biri olan Çifte Hamam, Soma'da yer alır."
 keywords: ["Çifte Hamam","Soma","Manisa","Ege Bölgesi","plaj","deniz","tatil","gezi","turizm"]

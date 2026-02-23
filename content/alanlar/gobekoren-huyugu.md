@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["höyük gezisi","coğrafi keşif","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6bek%C3%B6ren%20H%C3%BCy%C3%BC%C4%9F%C3%BC","alt":"Göbekören Hüyüğü","caption":"Göbekören Hüyüğü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Göbekören Hüyüğü","caption":"Göbekören Hüyüğü","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6bek%C3%B6ren%20H%C3%BCy%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32223290","tip":"genel"}]
 description: "Sivas'ta bulunan tarihi höyüğün zengin geçmişi ve coğrafyası"
 keywords: ["Sivas","İç Anadolu Bölgesi","tarih","coğrafya","höyük","gezi","keşif"]

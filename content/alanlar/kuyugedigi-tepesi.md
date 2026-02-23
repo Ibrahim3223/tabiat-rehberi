@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekkingDoing","doğa yürüyüşü","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuyugedi%C4%9Fi%20Tepesi","alt":"Kuyugediği Tepesi","caption":"Kuyugediği Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf/page1-960px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf.jpg","alt":"Kuyugediği Tepesi","caption":"Kuyugediği Tepesi","credit":"Explorations in Bible lands during the 19th century (IA gri 33125007229756).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyugedi%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389283","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide illerinden Malatya'da yer alan Kuyugediği Tepesi, ziyaretçilerini büyüleyen bir doğa harikasıdır."
 keywords: ["Kuyugediği Tepesi","Malatya","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

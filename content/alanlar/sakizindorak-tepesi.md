@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","manzara izleme","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sak%C4%B1z%C4%B1ndorak%20Tepesi","alt":"Sakızındorak Tepesi","caption":"Sakızındorak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg","alt":"Sakızındorak Tepesi","caption":"Sakızındorak Tepesi","credit":"The Landscape of Çorum Sıklık.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sak%C4%B1z%C4%B1ndorak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581064","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin. Sakızındorak Tepesi, Karadeniz Bölgesi'nde yer alan bir tepe"
 keywords: ["Sakızındorak Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","bitki ve hayvan gözlemi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Amasya-Vezirkopru-Akcay%20Karacam","alt":"Amasya-Vezirkopru-Akcay Karacam","caption":"Amasya-Vezirkopru-Akcay Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Amasya-Vezirkopru-Akcay Karacam","caption":"Amasya-Vezirkopru-Akcay Karacam","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Vezirkopru-Akcay%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227926","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Amasya","Vezirkopru","Akcay Karacam","Milli Park","Karadeniz Bölgesi","doğa","gezi","turizm","çevre"]

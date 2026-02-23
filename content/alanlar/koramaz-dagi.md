@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koramaz%20Da%C4%9F%C4%B1","alt":"Koramaz Dağı","caption":"Koramaz Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wild_horses1.jpg/960px-Wild_horses1.jpg","alt":"Koramaz Dağı","caption":"Koramaz Dağı","credit":"Wild horses1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koramaz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6018887","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin, 1400 metre yükseklikte yer alan Koramaz Dağı'nda doğa yürüyüşü ve panorama manzaraları"
 keywords: ["Koramaz Dağı","Kayseri","Dağ","Doğa Yürüyüşü","Panorama Manzaraları","Kayseri Turizm","Koramaz Dağı Gezi","Doğal Güzellikler","Kayseri Doğal Alanlar"]

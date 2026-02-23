@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Do%C4%9Fanbey%20Adas%C4%B1","alt":"Doğanbey Adası","caption":"Doğanbey Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/View_to_chios_island_-_panoramio.jpg/960px-View_to_chios_island_-_panoramio.jpg","alt":"Doğanbey Adası","caption":"Doğanbey Adası","credit":"View to chios island - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fanbey%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49636929","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Doğanbey Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Doğanbey Adası","İzmir Adaları","Doğal Alanlar","Tarihi Yerler","İzmir Gezilecek Yerler","Ada Turu","İzmir Turizm","Doğanbey","Adalar"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%96%C4%9F%C3%BCtmen%20Tepe","alt":"Öğütmen Tepe","caption":"Öğütmen Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Öğütmen Tepe","caption":"Öğütmen Tepe","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96%C4%9F%C3%BCtmen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829903","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin. Öğütmen Tepe, Ege Bölgesi'nin en önemli noktalarından biri"
 keywords: ["Öğütmen Tepe","Muğla","Ege Bölgesi","doğa","gezi","tepe","manzara"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87engellida%C4%9F","alt":"Çengellidağ","caption":"Çengellidağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_land_of_the_Hittites%3B_an_account_of_recent_explorations_and_discoveries_in_Asia_Minor%2C_with_descriptions_of_the_Hittite_monuments_%28IA_cu31924028539736%29.pdf/page1-716px-The_land_of_the_Hittites%3B_an_account_of_recent_explorations_and_discoveries_in_Asia_Minor%2C_with_descriptions_of_the_Hittite_monuments_%28IA_cu31924028539736%29.pdf.jpg","alt":"Çengellidağ","caption":"Çengellidağ","credit":"The land of the Hittites; an account of recent explorations and discoveries in Asia Minor, with descriptions of the Hittite monuments (IA cu31924028539736).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87engellida%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818826","tip":"genel"}]
 description: "Sivas'ta yer alan Çengellidağ, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Çengellidağ","Sivas","Dağ","Doğal Alan","Tarih","Turizm","Gezi","Sivas Gezilecek Yerler","Doğa"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tanerli%20Da%C4%9F%C4%B1","alt":"Tanerli Dağı","caption":"Tanerli Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Tanerli Dağı","caption":"Tanerli Dağı","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tanerli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505413","tip":"genel"}]
 description: "Erzincan'da yer alan Tanerli Dağı, 1200 hektarlık bir alanı kaplıyor ve şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Tanerli Dağı","Erzincan","Dağ","Doğa","Turizm","Gezi","Seyahat","Yürüyüş","Doğal Alanlar"]

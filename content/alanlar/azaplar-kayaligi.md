@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Azaplar%20Kayal%C4%B1%C4%9F%C4%B1","alt":"Azaplar Kayalığı","caption":"Azaplar Kayalığı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/View_to_chios_island_2_-_panoramio.jpg/960px-View_to_chios_island_2_-_panoramio.jpg","alt":"Azaplar Kayalığı","caption":"Azaplar Kayalığı","credit":"View to chios island 2 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Azaplar%20Kayal%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49295530","tip":"genel"}]
 description: "İzmir Foça'da bulunan Azaplar Kayalığı, Ege Denizi'nin güzide noktalarından biri. Doğal güzelliği ile dikkat çeker."
 keywords: ["Azaplar Kayalığı","İzmir","Foça","Ege Denizi","Ada","Doğal güzellik","Turistik yerler","İzmir turizm","Foça gezilecek yerler"]

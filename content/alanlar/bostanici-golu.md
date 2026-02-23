@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bostani%C3%A7i%20G%C3%B6l%C3%BC","alt":"Bostaniçi Gölü","caption":"Bostaniçi Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Akhtamar_Island_on_Lake_Van_with_the_Armenian_Cathedral_of_the_Holy_Cross.jpg/960px-Akhtamar_Island_on_Lake_Van_with_the_Armenian_Cathedral_of_the_Holy_Cross.jpg","alt":"Bostaniçi Gölü","caption":"Bostaniçi Gölü","credit":"Akhtamar Island on Lake Van with the Armenian Cathedral of the Holy Cross.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bostani%C3%A7i%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34801507","tip":"genel"}]
 description: "Van'da bulunan Bostaniçi Gölü, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor."
 keywords: ["Bostaniçi Gölü","Van gölleri","Doğal alanlar","Göller","Van turizm","Türkiye gölleri","Bostaniçi","Göl turizmi","Van doğal güzellikleri"]

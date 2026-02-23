@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarihî yapıları keşfetmek","doğa yürüyüşü","yöresel lezzetler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaunos%20Cami%20ve%20T%C3%BCrbe%20Yap%C4%B1lar%C4%B1","alt":"Kaunos Cami ve Türbe Yapıları","caption":"Kaunos Cami ve Türbe Yapıları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Kaunos Cami ve Türbe Yapıları","caption":"Kaunos Cami ve Türbe Yapıları","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaunos%20Cami%20ve%20T%C3%BCrbe%20Yap%C4%B1lar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132134572","tip":"genel"}]
 description: "Köyceğiz'in tarihi ve doğal güzellikleri ile çevrili Kaunos Cami ve Türbe Yapıları"
 keywords: ["Kaunos","Köyceğiz","Muğla","Ege Bölgesi","tarihi yapılar","türbe","cami","doğal güzellikler"]

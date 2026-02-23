@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî ve kültürel geziler","doğa yürüyüşleri","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yeni%20Hamam%2C%20Karaman","alt":"Yeni Hamam, Karaman","caption":"Yeni Hamam, Karaman"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Yeni Hamam, Karaman","caption":"Yeni Hamam, Karaman","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam%2C%20Karaman","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245695","tip":"genel"}]
 description: "Karaman'ın merkezinde yer alan Yeni Hamam, şehrin en önemli tarihi ve kültürel varlıklarından birisidir. 140 hektarlık bir alan üzerinde kurulmuştur."
 keywords: ["Karaman","Yeni Hamam","tarih","kültür","gezi","turizm","iç anadolu","doğa","flora","fauna"]

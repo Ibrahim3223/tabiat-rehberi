@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Fotografcılık","Tarihi yapıları gezi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mecidiye%20Kasr%C4%B1%20Hamam%C4%B1","alt":"Mecidiye Kasrı Hamamı","caption":"Mecidiye Kasrı Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Mecidiye Kasrı Hamamı","caption":"Mecidiye Kasrı Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mecidiye%20Kasr%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135429074","tip":"genel"}]
 description: "İstanbul'un gizli cenneti, Marmara Bölgesi'nde yer alan Mecidiye Kasrı Hamamı"
 keywords: ["Mecidiye Kasrı Hamamı","Beykoz","İstanbul","Marmara Bölgesi","Plaj","Doğal Alan","Tarihçe","Coğrafya"]

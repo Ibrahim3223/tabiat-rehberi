@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Yeşil alan gezintisi","Plaj aktiviteleri","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tezveren%20Sultan%20T%C3%BCrbesi","alt":"Tezveren Sultan Türbesi","caption":"Tezveren Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Commanders_Digest_1967-09-27-_Vol_3_Iss_77_%28IA_sim_commanders-digest_1967-09-27_3_77%29.pdf/page1-960px-Commanders_Digest_1967-09-27-_Vol_3_Iss_77_%28IA_sim_commanders-digest_1967-09-27_3_77%29.pdf.jpg","alt":"Tezveren Sultan Türbesi","caption":"Tezveren Sultan Türbesi","credit":"Commanders Digest 1967-09-27- Vol 3 Iss 77 (IA sim commanders-digest 1967-09-27 3 77).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tezveren%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391677","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzellikleri arasında yer alan Tezveren Sultan Türbesi, ziyaretçiler için önemli bir destinasyon"
 keywords: ["Ankara","Türbe","Tarih","Doğa","Gezi","Türkiye","Anıtlar","Kültür"]

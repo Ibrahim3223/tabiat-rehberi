@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kalosmta","alt":"Kalosmta","caption":"Kalosmta"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Kalosmta","caption":"Kalosmta","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalosmta","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q16370882","tip":"genel"}]
 description: "Ardahan'da yer alan Kalosmta Dağı, 1200 hektarlık yeşil cenneti ile doğa severleri bekliyor."
 keywords: ["Kalosmta","Ardahan","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Turizm"]

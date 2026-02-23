@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Mimari keşif","Kültürel etkinlikler","Yerel lezzetler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tacettin%20Sultan%20T%C3%BCrbesi","alt":"Tacettin Sultan Türbesi","caption":"Tacettin Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf/page1-960px-Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf.jpg","alt":"Tacettin Sultan Türbesi","caption":"Tacettin Sultan Türbesi","credit":"Peter and Nancy in Asia, (IA peternancyinasia00comf).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tacettin%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391694","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Tacettin Sultan Türbesi","Ankara","tarih","doğa","gezi","türbe","mimari","kültür"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara gezi","şelale izleme","yeraltı nehri gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0nsuyu%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","alt":"İnsuyu Mağarası Sit Alanı","caption":"İnsuyu Mağarası Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"İnsuyu Mağarası Sit Alanı","caption":"İnsuyu Mağarası Sit Alanı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0nsuyu%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226664","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan İnsuyu Mağarası Sit Alanı, ziyaretçilerini büyüleyen bir doğa harikasıdır."
 keywords: ["İnsuyu Mağarası","Sit Alanı","İç Anadolu Bölgesi","doğa harikası","mağara","gezi","turizm"]

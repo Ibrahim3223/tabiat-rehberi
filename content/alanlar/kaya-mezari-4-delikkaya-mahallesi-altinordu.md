@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denize girme","Tarih gezisi","Doğa yürüyüşü","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaya%20Mezar%C4%B1%204%20(Delikkaya%20Mahallesi)%2C%20Alt%C4%B1nordu","alt":"Kaya Mezarı 4 (Delikkaya Mahallesi), Altınordu","caption":"Kaya Mezarı 4 (Delikkaya Mahallesi), Altınordu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Kaya Mezarı 4 (Delikkaya Mahallesi), Altınordu","caption":"Kaya Mezarı 4 (Delikkaya Mahallesi), Altınordu","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%204%20(Delikkaya%20Mahallesi)%2C%20Alt%C4%B1nordu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728217","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Kaya Mezarı 4, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Kaya Mezarı 4","Delikkaya Mahallesi","Altınordu","Karadeniz Bölgesi","tarih","doğa","gezi","turizm"]

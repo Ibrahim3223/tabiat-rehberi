@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet turu","doğa fotoğraf çekimi","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCrleyik%20%C3%87a%C4%9Flayan%C4%B1","alt":"Gürleyik Çağlayanı","caption":"Gürleyik Çağlayanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kursunlu_Waterfall_Nature_Park.jpg/960px-Kursunlu_Waterfall_Nature_Park.jpg","alt":"Gürleyik Çağlayanı","caption":"Gürleyik Çağlayanı","credit":"Kursunlu Waterfall Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrleyik%20%C3%87a%C4%9Flayan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q65934613","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti Gürleyik Çağlayanı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Gürleyik Çağlayanı","İç Anadolu Bölgesi","doğal alanlar","yeşil alan","çevre","gezi","turizm","doğa","çağlayan"]

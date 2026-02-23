@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Al%C4%B1re%C4%B1s%20S%C4%B1%C4%9Fl%C4%B1%C4%9F%C4%B1","alt":"Alıreıs Sığlığı","caption":"Alıreıs Sığlığı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Piri_Reis_-_Map_of_the_Northeastern_Tip_of_Rhodes_Island_Facing_the_Anatolian_Coast_with_the_Island_of_Syme_-_Walters_W658100B_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Northeastern_Tip_of_Rhodes_Island_Facing_the_Anatolian_Coast_with_the_Island_of_Syme_-_Walters_W658100B_-_Full_Page.jpg","alt":"Alıreısığlığı","caption":"Alıreısığlığı","credit":"Piri Reis - Map of the Northeastern Tip of Rhodes Island Facing the Anatolian Coast with the Island of Syme - Walters W658100B - Full Page.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Al%C4%B1re%C4%B1s%20S%C4%B1%C4%9Fl%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34790003","tip":"genel"}]
 description: "Balıkesir'de bulunan Alıreısığlığı, 1200 hektarlık bir ada ve doğal yaşam alanıdır. Doğal güzelliği ve zengin ekosistemiyle dikkat çeker."
 keywords: ["Alıreısığlığı","Balıkesir","Ada","Doğal Alan","Ekosistem","Turizm","Doğa","Sığlık","Balıkesir Turizm","Doğal Güzellik"]

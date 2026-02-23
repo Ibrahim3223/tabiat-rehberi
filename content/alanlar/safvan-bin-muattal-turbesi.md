@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihı ve dini önemi hakkında bilgi edinmek","çevresindeki doğal güzellikleri keşfetmek","rehberli turlara katılmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Safvan%20Bin%20Muattal%20T%C3%BCrbesi","alt":"Safvan Bin Muattal Türbesi","caption":"Safvan Bin Muattal Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Samsat_district_Turkey_%282%29.jpg/960px-Samsat_district_Turkey_%282%29.jpg","alt":"Safvan Bin Muattal Türbesi","caption":"Safvan Bin Muattal Türbesi","credit":"Samsat district Turkey (2).jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Safvan%20Bin%20Muattal%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390541","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde bulunan Safvan Bin Muattal Türbesi, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Safvan Bin Muattal Türbesi","Adıyaman","Samsat","Güneydoğu Anadolu Bölgesi","tarih","doğa","turizm"]

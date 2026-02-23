@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültürel gezi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arykanda%20B%C3%BCy%C3%BCk%20Hamam%20Gymnasium%20Yap%C4%B1s%C4%B1","alt":"Arykanda Büyük Hamam Gymnasium Yapısı","caption":"Arykanda Büyük Hamam Gymnasium Yapısı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"Arykanda Büyük Hamam Gymnasium Yapısı","caption":"Arykanda Büyük Hamam Gymnasium Yapısı","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arykanda%20B%C3%BCy%C3%BCk%20Hamam%20Gymnasium%20Yap%C4%B1s%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738870","tip":"genel"}]
 description: "Finike'de tarihi bir hamam ve spor kompleksi"
 keywords: ["Arykanda","Büyük Hamam","Gymnasium","Finike","Antalya","tarih","arkeoloji","turizm","kültür","doğa"]

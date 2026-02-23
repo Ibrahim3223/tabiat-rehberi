@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mezarlık gezisi","tarih keşfi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kesrika%20Nazuk%C3%AA%20Nekropol%20Alan%C4%B1%20An%C4%B1tsal%20Mezar","alt":"Kesrika Nazukê Nekropol Alanı Anıtsal Mezar","caption":"Kesrika Nazukê Nekropol Alanı Anıtsal Mezar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf/page1-960px-Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf.jpg","alt":"Kesrika Nazukê Nekropol Alanı Anıtsal Mezar","caption":"Kesrika Nazukê Nekropol Alanı Anıtsal Mezar","credit":"Jewish - Zionist terrorism and the establishment of Israel. (IA jewishzionistter00peek).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kesrika%20Nazuk%C3%AA%20Nekropol%20Alan%C4%B1%20An%C4%B1tsal%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728081","tip":"genel"}]
 description: "Mardin'in tarih kokan topraklarında yer alan Kesrika Nazukê Nekropol Alanı Anıtsal Mezar, Savur ilçesinde ziyaretçilerini bekliyor."
 keywords: ["Kesrika Nazukê Nekropol Alanı Anıtsal Mezar","Savur","Mardin","tarih","mezar","anıtsal","Nekropol","Güneydoğu Anadolu Bölgesi"]

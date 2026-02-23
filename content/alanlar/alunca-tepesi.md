@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Fotografcılık","Yerel kültürü tanımak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alunca%20Tepesi","alt":"Alunca Tepesi","caption":"Alunca Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Alunca Tepesi","caption":"Alunca Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alunca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387940","tip":"genel"}]
 description: "Gümüşhane'nin güzide noktalarından biri olan Alunca Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Alunca Tepesi","Gümüşhane","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

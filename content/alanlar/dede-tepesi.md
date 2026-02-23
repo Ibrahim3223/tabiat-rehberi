@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dede%20Tepesi","alt":"Dede Tepesi","caption":"Dede Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Dede Tepesi","caption":"Dede Tepesi","credit":"A Geological Wonder in Nallıhan.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559343","tip":"genel"}]
 description: "Ankara'nın en yüksek noktalarından biri olan Dede Tepesi, 1200 metrelik yüksekliğiyle şehre hakim bir konumda bulunuyor."
 keywords: ["Dede Tepesi","Ankara","Dağ","Turizm","Doğa","Gezi","Trekking","Manzara","Ankara'nın yüksek noktaları"]

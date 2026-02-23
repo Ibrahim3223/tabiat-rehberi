@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları gezmek","doğal güzellikleri keşfetmek","kültürel etkinliklere katılmak","yöresel yemekleri denemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Halvet%20Baba%20T%C3%BCrbesi","alt":"Halvet Baba Türbesi","caption":"Halvet Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Halvet Baba Türbesi","caption":"Halvet Baba Türbesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halvet%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391494","tip":"genel"}]
 description: "Sur/Diyarbakır'da bulunan tarihi Halvet Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve kültürel merkezlerinden biri."
 keywords: ["Halvet Baba Türbesi","Sur/Diyarbakır","Güneydoğu Anadolu Bölgesi","tarihi mekanlar","dini merkezler","kültürel miras","gezi noktaları","tarihçe","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["plajda denize girmek","tarihsel yapıyı gezmek","doğal güzellikleri keşfetmek","fotografi yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nure%20Sofi%20T%C3%BCrbesi","alt":"Nure Sofi Türbesi","caption":"Nure Sofi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Nure Sofi Türbesi","caption":"Nure Sofi Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nure%20Sofi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390495","tip":"genel"}]
 description: "Mut'un tarihi ve doğal güzelliklerini keşfedin. Nure Sofi Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alan bir plaj ve tarihsel mekan."
 keywords: ["Nure Sofi Türbesi","Mut","Mersin","Akdeniz Bölgesi","plaj","tarihsel mekan","doğa","turizm"]

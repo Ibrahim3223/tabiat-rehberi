@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurre%20Tepesi","alt":"Kurre Tepesi","caption":"Kurre Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Travels_in_Kurdistan%2C_with_Notices_of_the_Sources_of_the_Eastern_and_Western_Tigris%2C_and_Ancient_Ruins_in_Their_Neighbourhood_%28IA_jstor-3698077%29.pdf/page1-787px-Travels_in_Kurdistan%2C_with_Notices_of_the_Sources_of_the_Eastern_and_Western_Tigris%2C_and_Ancient_Ruins_in_Their_Neighbourhood_%28IA_jstor-3698077%29.pdf.jpg","alt":"Kurre Tepesi","caption":"Kurre Tepesi","credit":"Travels in Kurdistan, with Notices of the Sources of the Eastern and Western Tigris, and Ancient Ruins in Their Neighbourhood (IA jstor-3698077).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurre%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555107","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Kurre Tepesi, Batman'ın sınırları içinde yer alır."
 keywords: ["Kurre Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya"]

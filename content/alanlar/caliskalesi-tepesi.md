@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğal yürüyüş","manzara izleme","fotoğraf çekme","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87al%C4%B1%C5%9Fkalesi%20Tepesi","alt":"Çalışkalesi Tepesi","caption":"Çalışkalesi Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf/page1-960px-From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf.jpg","alt":"Çalışkalesi Tepesi","caption":"Çalışkalesi Tepesi","credit":"From denial to participation- Turkey's evolving discourse on Kurdish nationalism (IA fromdenialtopart1094537734).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87al%C4%B1%C5%9Fkalesi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823682","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Çalışkalesi Tepesi, ziyaretçilerini tarihi ve doğal güzelliklerle karşılar."
 keywords: ["Ankara","İç Anadolu Bölgesi","Çalışkalesi Tepesi","doğal güzellik","tarih","gezi","turizm","tepe","manzara"]

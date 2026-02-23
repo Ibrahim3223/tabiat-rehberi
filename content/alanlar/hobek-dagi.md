@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C3%B6bek%20Da%C4%9F%C4%B1","alt":"Höbek Dağı","caption":"Höbek Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Höbek Dağı","caption":"Höbek Dağı","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%B6bek%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34875101","tip":"genel"}]
 description: "Erzincan'da bulunan Höbek Dağı, 1200 hektarlık yeşil alanı ve zengin florasıyla dikkat çekiyor. Doğa severler için ideal bir destinasyon."
 keywords: ["Höbek Dağı","Erzincan","Dağ","Doğa","Yeşil Alan","Flora","Türkiye","Seyahat","Gezi"]

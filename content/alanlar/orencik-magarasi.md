@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%96rencik%20Ma%C4%9Faras%C4%B1","alt":"Örencik Mağarası","caption":"Örencik Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg","alt":"Örencik Mağarası","caption":"Örencik Mağarası","credit":"The Landscape of Çorum Sıklık.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96rencik%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319917","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin. Örencik Mağarası, jeopark türünde bir destinasyon."
 keywords: ["Örencik Mağarası","Çorum","Jeopark","Doğa","Turizm","Mağara","Gezi","Çorum Turistik Yerler","Jeolojik Alanlar"]

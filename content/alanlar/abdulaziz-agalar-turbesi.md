@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih hakkında bilgi edinme","doğayı seyretme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abd%C3%BClaziz%20A%C4%9Falar%20T%C3%BCrbesi","alt":"Abdülaziz Ağalar Türbesi","caption":"Abdülaziz Ağalar Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Abdülaziz Ağalar Türbesi","caption":"Abdülaziz Ağalar Türbesi","credit":"Muğla - Dalyan - İztuzu Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abd%C3%BClaziz%20A%C4%9Falar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735185","tip":"genel"}]
 description: "Muğla'nın Milas ilçesinde yer alan Abdülaziz Ağalar Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor"
 keywords: ["Abdülaziz Ağalar Türbesi","Milas","Muğla","tarih","doğa","türbe","gezi"]

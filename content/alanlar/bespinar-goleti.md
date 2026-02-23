@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Be%C5%9Fp%C4%B1nar%20G%C3%B6leti","alt":"Beşpınar Göleti","caption":"Beşpınar Göleti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Boyajian_-_Armenian_legends_and_poems.djvu/page1-800px-Boyajian_-_Armenian_legends_and_poems.djvu.jpg","alt":"Beşpınar Göleti","caption":"Beşpınar Göleti","credit":"Boyajian - Armenian legends and poems.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fp%C4%B1nar%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877709","tip":"genel"}]
 description: "Diyarbakır'da bulunan Beşpınar Göleti, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Beşpınar Göleti","Diyarbakır","gölet","doğa","turizm","gezi","Diyarbakır gölleri","Beşpınar","göl"]

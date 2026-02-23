@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kepel%20Tepesi","alt":"Kepel Tepesi","caption":"Kepel Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Across_Asia_on_a_Bicycle_-_The_Journey_of_Two_American_Students_from_Constantinople_to_Peking_by_Thomas_Gaskell_Allen_%26_William_Lewis_Sachtleben.pdf/page1-872px-Across_Asia_on_a_Bicycle_-_The_Journey_of_Two_American_Students_from_Constantinople_to_Peking_by_Thomas_Gaskell_Allen_%26_William_Lewis_Sachtleben.pdf.jpg","alt":"Kepel Tepesi","caption":"Kepel Tepesi","credit":"Across Asia on a Bicycle - The Journey of Two American Students from Constantinople to Peking by Thomas Gaskell Allen & William Lewis Sachtleben.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kepel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515735","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde Sivas'ta bulunan Kepel Tepesi, 140 hektarlık geniş alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kepel Tepesi","Sivas","İç Anadolu Bölgesi","tepe","coğrafya","doğa","gezi"]

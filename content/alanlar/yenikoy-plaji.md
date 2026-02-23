@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Su sporları","Güneşlenme","Yürüyüş","Deniz kenarı aktiviteleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yenik%C3%B6y%20Plaj%C4%B1","alt":"Yeniköy Plajı","caption":"Yeniköy Plajı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf/page1-854px-Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf.jpg","alt":"Yeniköy Plajı","caption":"Yeniköy Plajı","credit":"Animal disease thesaurus (IA CAT80734093005).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yenik%C3%B6y%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49325368","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide plajlarından biri olan Yeniköy Plajı, Bursa'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Yeniköy Plajı","Bursa","Marmara Bölgesi","plaj","deniz","doğa","tatil","gezi"]

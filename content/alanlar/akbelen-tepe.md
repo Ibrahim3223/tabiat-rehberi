@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akbelen%20Tepe","alt":"Akbelen Tepe","caption":"Akbelen Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Akbelen Tepe","caption":"Akbelen Tepe","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akbelen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390146","tip":"genel"}]
 description: "Antalya'nın tarihi ve doğal güzelliklerini bir arada sunan Akbelen Tepe, ziyaretçilerini bekliyor."
 keywords: ["Akbelen Tepe","Antalya","tarih","doğa","gezi","turizm","tepe","manzara","ekoloji"]

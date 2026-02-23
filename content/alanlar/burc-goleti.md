@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bur%C3%A7%20G%C3%B6leti","alt":"Burç Göleti","caption":"Burç Göleti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lake_in_Fevizpa%C5%9Fa_2020-03-07_02.jpg/960px-Lake_in_Fevizpa%C5%9Fa_2020-03-07_02.jpg","alt":"Burç Göleti","caption":"Burç Göleti","credit":"Lake in Fevizpaşa 2020-03-07 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bur%C3%A7%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878898","tip":"genel"}]
 description: "Gaziantep'te bulunan Burç Göleti, şehrin doğal güzelliklerini keşfetmek için ideal bir yer."
 keywords: ["Burç Göleti","Gaziantep","gölet","doğa","gezi","turizm","Gaziantep gölleri","doğal alanlar","şehir içi gezi"]

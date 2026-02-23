@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Doğa keşfi","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCll%C3%BCk%C3%A7al%C4%B1%20Tepesi","alt":"Güllükçalı Tepesi","caption":"Güllükçalı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Güllükçalı Tepesi","caption":"Güllükçalı Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCll%C3%BCk%C3%A7al%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873083","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, Güllükçalı Tepesi'nin tarihi ve coğrafyası"
 keywords: ["Güllükçalı Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","tarihçe","coğrafya","flora","fauna","ziyaret"]

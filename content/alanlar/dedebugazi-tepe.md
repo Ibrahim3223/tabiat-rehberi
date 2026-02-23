@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","manzara izleme","fotografcılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dedebu%C4%9Faz%C4%B1%20Tepe","alt":"Dedebuğazı Tepe","caption":"Dedebuğazı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Letters_on_the_American_republic_-_or%2C_Common_fallacies_and_monstrous_errors_refuted_and_exposed_%28IA_lettersonamerica00balm%29.pdf/page1-620px-Letters_on_the_American_republic_-_or%2C_Common_fallacies_and_monstrous_errors_refuted_and_exposed_%28IA_lettersonamerica00balm%29.pdf.jpg","alt":"Dedebuğazı Tepe","caption":"Dedebuğazı Tepe","credit":"Letters on the American republic - or, Common fallacies and monstrous errors refuted and exposed (IA lettersonamerica00balm).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedebu%C4%9Faz%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387351","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun şehrinde yer alan Dedebuğazı Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar."
 keywords: ["Dedebuğazı Tepe","Samsun","Karadeniz Bölgesi","tarih","doğa","gezi","tepe","manzara"]

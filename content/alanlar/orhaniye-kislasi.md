@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Deniz keyfi","Piknik","Doğa yürüyüşü","Tarih turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Orhaniye%20K%C4%B1%C5%9Flas%C4%B1","alt":"Orhaniye Kışlası","caption":"Orhaniye Kışlası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Orhaniye Kışlası","caption":"Orhaniye Kışlası","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Orhaniye%20K%C4%B1%C5%9Flas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6040231","tip":"genel"}]
 description: "İstanbul'un tarihi plajlarından biri olan Orhaniye Kışlası, 140 hektarlık yeşil alanda yer alır."
 keywords: ["Orhaniye Kışlası","İstanbul plajları","tarihçe","coğrafya","flora","fauna","ziyaret","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","dağcılık","kış sporları","çevre gezisi","tarih turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0riba%C5%9F%20Tepesi","alt":"İribaş Tepesi","caption":"İribaş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"İribaş Tepesi","caption":"İribaş Tepesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0riba%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388360","tip":"genel"}]
 description: "Erzurum'un doğusunda yer alan İribaş Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["İribaş Tepesi","Erzurum","Doğu Anadolu Bölgesi","dağcılık","doğa yürüyüşü","kış sporları","çevre","iklim","bitki türleri","hayvan çeşitliliği"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kenek%20Tepesi","alt":"Kenek Tepesi","caption":"Kenek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Kenek Tepesi","caption":"Kenek Tepesi","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kenek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388048","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzel köşelerinden biri olan Kenek Tepesi, tarihi ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kenek Tepesi","Doğu Anadolu Bölgesi","Bingöl","tepe","doğa","tarih","gezi"]

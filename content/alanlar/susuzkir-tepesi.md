@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tepeye tırmanmak","doğal güzellikleri izlemek","tarihi kalıntıları ziyaret etmek","köylerde konaklamak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Susuzk%C4%B1r%20Tepesi","alt":"Susuzkır Tepesi","caption":"Susuzkır Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Across_Asia_on_a_Bicycle_-_The_Journey_of_Two_American_Students_from_Constantinople_to_Peking_by_Thomas_Gaskell_Allen_%26_William_Lewis_Sachtleben.pdf/page1-872px-Across_Asia_on_a_Bicycle_-_The_Journey_of_Two_American_Students_from_Constantinople_to_Peking_by_Thomas_Gaskell_Allen_%26_William_Lewis_Sachtleben.pdf.jpg","alt":"Susuzkır Tepesi","caption":"Susuzkır Tepesi","credit":"Across Asia on a Bicycle - The Journey of Two American Students from Constantinople to Peking by Thomas Gaskell Allen & William Lewis Sachtleben.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Susuzk%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31561129","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Susuzkır Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Sivas","İç Anadolu Bölgesi","Susuzkır Tepesi","doğal güzellik","tarihi geçmişi","gezi","turizm","coğrafya","flora","fauna"]

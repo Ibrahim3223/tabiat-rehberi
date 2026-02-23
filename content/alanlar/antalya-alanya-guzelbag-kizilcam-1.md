@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğal yürüyüş","Gözlem","Fotografcılık","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Alanya-Guzelbag%20K%C4%B1z%C4%B1l%C3%A7am%201","alt":"Antalya-Alanya-Guzelbag Kızılçam 1","caption":"Antalya-Alanya-Guzelbag Kızılçam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Antalya-Alanya-Guzelbag Kızılçam 1","caption":"Antalya-Alanya-Guzelbag Kızılçam 1","credit":"Turkish nature reserve.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Alanya-Guzelbag%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227298","tip":"genel"}]
 description: "Akdeniz Bölgesi'nde yer alan Antalya-Alanya-Guzelbag Kızılçam 1, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Antalya","Alanya","Guzelbag","Kızılçam","Milli Park","Akdeniz Bölgesi","Doğa","Yeşil Alan"]

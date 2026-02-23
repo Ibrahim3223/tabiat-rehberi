@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşleri","Çocuklar için oyun alanları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hasan%20Bey%20Hamam%C4%B1","alt":"Hasan Bey Hamamı","caption":"Hasan Bey Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Hasan Bey Hamamı","caption":"Hasan Bey Hamamı","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasan%20Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738648","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Bursa'nın Mudanya ilçesinde yer alan Hasan Bey Hamamı, Marmara Denizi'nin serin sularına ve yeşilin her tonuna sahip doğasıyla ziyaretçilerini bekliyor."
 keywords: ["Mudanya","Bursa","Marmara Bölgesi","Marmara Denizi","doğa","plaj","deniz","yeşil","gezi","turizm","tatil"]

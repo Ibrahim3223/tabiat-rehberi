@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna","Tarihî önemi hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eflatunp%C4%B1nar%20Sit%20Alan%C4%B1","alt":"Eflatunpınar Sit Alanı","caption":"Eflatunpınar Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Eflatunpınar Sit Alanı","caption":"Eflatunpınar Sit Alanı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eflatunp%C4%B1nar%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226400","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Eflatunpınar Sit Alanı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Eflatunpınar","Sit Alanı","İç Anadolu Bölgesi","Doğa","Tarih","Çevre","Flora","Fauna","Ziyaret","Gezi"]

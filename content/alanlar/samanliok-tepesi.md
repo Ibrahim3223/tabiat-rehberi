@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Samanl%C4%B1ok%20Tepesi","alt":"Samanlıok Tepesi","caption":"Samanlıok Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_family_instructor%3B_or%2C_Digest_of_general_knowledge%3B_comprising_a_complete_circle_of_useful_and_entertaining_information%2C_designed_for_family_reading_..._Ed._by_Robert_Sears_%28IA_familyinstructor00sear%29.pdf/page1-847px-thumbnail.pdf.jpg","alt":"Samanlıok Tepesi","caption":"Samanlıok Tepesi","credit":"The family instructor; or, Digest of general knowledge; comprising a complete circle of useful and entertaining information, designed for family reading ... Ed. by Robert Sears (IA familyinstructor00sear).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samanl%C4%B1ok%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391164","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Samanlıok Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Samanlıok Tepesi","Sivas","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","tepe","coğrafya","flora","fauna"]

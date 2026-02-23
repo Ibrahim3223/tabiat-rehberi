@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kad%C4%B1e%C4%9Fle%C4%9Fi%20Tepesi","alt":"Kadıeğleği Tepesi","caption":"Kadıeğleği Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Kadıeğleği Tepesi","caption":"Kadıeğleği Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kad%C4%B1e%C4%9Fle%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387812","tip":"genel"}]
 description: "Artvin'in güzide noktalarından biri olan Kadıeğleği Tepesi, 1400 metrelik yüksekliğiyle dikkat çekiyor."
 keywords: ["Kadıeğleği Tepesi","Artvin","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

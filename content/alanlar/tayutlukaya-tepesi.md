@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarih gezisi"," Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tayutlukaya%20Tepesi","alt":"Tayutlukaya Tepesi","caption":"Tayutlukaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf/page1-960px-A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf.jpg","alt":"Tayutlukaya Tepesi","caption":"Tayutlukaya Tepesi","credit":"A novel environmental restoration method for an abandoned limestone quarry with a deep open pit and steep palisades - a case study.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tayutlukaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535256","tip":"genel"}]
 description: "Hatay'ın doğa harikaları arasında yer alan Tayutlukaya Tepesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Tayutlukaya Tepesi","Hatay","Akdeniz Bölgesi","doğa","turizm","gezi","tepe","manzara","çevre"]

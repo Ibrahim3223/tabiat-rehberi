@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mi%C5%9Favan%20Tepesi","alt":"Mişavan Tepesi","caption":"Mişavan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg/960px-Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg","alt":"Mişavan Tepesi","caption":"Mişavan Tepesi","credit":"Konya Akyokuş Nature Park Konya Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mi%C5%9Favan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390482","tip":"genel"}]
 description: "Konya'nın İç Anadolu Bölgesi'nde yer alan Mişavan Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alandır."
 keywords: ["Mişavan Tepesi","Konya","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

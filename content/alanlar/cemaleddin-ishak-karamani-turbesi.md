@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Tarihi yapıları keşfetme","İstanbul Boğazı'nı izleme","Yakındaki restoran ve kafelerde dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cemaleddin%20%C4%B0shak%20Karamani%20T%C3%BCrbesi","alt":"Cemaleddin İshak Karamani Türbesi","caption":"Cemaleddin İshak Karamani Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Cemaleddin İshak Karamani Türbesi","caption":"Cemaleddin İshak Karamani Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cemaleddin%20%C4%B0shak%20Karamani%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390965","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel zenginliklerini keşfedin, Cemaleddin İshak Karamani Türbesi'ni ziyaret edin."
 keywords: ["Cemaleddin İshak Karamani Türbesi","İstanbul","Beyoğlu","tarih","kültür","türbe","gezi","turizm"]

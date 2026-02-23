@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kars-Sarikamis-Dr.A.T.%20Arastirma%20Ormani%20Saricam","alt":"Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam","caption":"Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Irish_national_invincibles_and_their_times%3B_%28IA_irishnationalinv01tyna%29.pdf/page1-850px-The_Irish_national_invincibles_and_their_times%3B_%28IA_irishnationalinv01tyna%29.pdf.jpg","alt":"Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam","caption":"Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam","credit":"The Irish national invincibles and their times; (IA irishnationalinv01tyna).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kars-Sarikamis-Dr.A.T.%20Arastirma%20Ormani%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227694","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Kars ilinde yer alan Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası"
 keywords: ["Kars","Sarikamis","Dr.A.T. Arastirma Ormani","Saricam","Doğu Anadolu Bölgesi","orman","doğa","çevre","gezi","turizm"]

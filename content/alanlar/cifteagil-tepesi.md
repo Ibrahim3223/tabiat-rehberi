@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Piknik yapmak","Doğa yürüyüşü","Fotograf çekmek","Tarihçe keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87iftea%C4%9F%C4%B1l%20Tepesi","alt":"Çifteağıl Tepesi","caption":"Çifteağıl Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Çifteağıl Tepesi","caption":"Çifteağıl Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iftea%C4%9F%C4%B1l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818940","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Çifteağıl Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
 keywords: ["Ankara","Çifteağıl Tepesi","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","coğrafya","tarihçe"]

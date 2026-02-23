@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","keşif","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCkdikmen%20Tepesi","alt":"Küçükdikmen Tepesi","caption":"Küçükdikmen Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Küçükdikmen Tepesi","caption":"Küçükdikmen Tepesi","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkdikmen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210948","tip":"genel"}]
 description: "Kayseri'nin İç Anadolu Bölgesi'ndeki doğal güzellikleri arasında yer alan Küçükdikmen Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar."
 keywords: ["Küçükdikmen Tepesi","Kayseri","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","tepe"]

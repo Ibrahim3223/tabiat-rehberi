@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCk%C3%A7ekirge%20Tepesi","alt":"Küçükçekirge Tepesi","caption":"Küçükçekirge Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Küçükçekirge Tepesi","caption":"Küçükçekirge Tepesi","credit":"A Geological Wonder in Nallıhan.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%C3%A7ekirge%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042865","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Küçükçekirge Tepesi, şehrin panoramik manzarasını sunar."
 keywords: ["Küçükçekirge Tepesi","Ankara","Dağ","Doğa","Turizm","Gezi","Manzara","Panorama","Ankara Turistik Yerler"]

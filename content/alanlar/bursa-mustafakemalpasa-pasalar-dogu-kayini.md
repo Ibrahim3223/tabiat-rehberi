@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Bitki ve Hayvan İzleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Mustafakemalpa%C5%9Fa-Pa%C5%9Falar%20Dogu%20Kayini","alt":"Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini","caption":"Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Uluda%C4%9F_National_Park_888.jpg/960px-Uluda%C4%9F_National_Park_888.jpg","alt":"Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini","caption":"Bursa-Mustafakemalpaşa-Paşalar Dogu Kayini","credit":"Uludağ National Park 888.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Pa%C5%9Falar%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227781","tip":"genel"}]
 description: "Marmara Bölgesi'nin yeşil cenneti, 140 hektarlık alanıyla doğa severleri bekliyor"
 keywords: ["Bursa","Mustafakemalpaşa","Paşalar Doğu Kayını","Marmara Bölgesi","Doğa","Milli Park","Yeşil Alan"]

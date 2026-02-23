@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Kiz%C4%B1ldag%20MP%20Sedir%202","alt":"Isparta-Kizıldag MP Sedir 2","caption":"Isparta-Kizıldag MP Sedir 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/P_20180323_150213-01.jpg/960px-P_20180323_150213-01.jpg","alt":"Isparta-Kizıldag MP Sedir 2","caption":"Isparta-Kizıldag MP Sedir 2","credit":"P 20180323 150213-01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Kiz%C4%B1ldag%20MP%20Sedir%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227604","tip":"genel"}]
 description: "Isparta'da yer alan Isparta-Kizıldag MP Sedir 2, doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["Isparta","Kizıldag","Sedir","Milli Park","Doğa","Tarih","Gezi","Turizm"]

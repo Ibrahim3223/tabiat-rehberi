@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü","rehberli turlar"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Daday-Camlibel-Karacam","alt":"Kastamonu-Daday-Camlibel-Karacam","caption":"Kastamonu-Daday-Camlibel-Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Kastamonu-Daday-Camlibel-Karacam","caption":"Kastamonu-Daday-Camlibel-Karacam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Daday-Camlibel-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227681","tip":"genel"}]
 description: "Kastamonu'nun doğal güzellikleri arasında yer alan milli park, 140 hektarlık alanı ile ziyaretçilerini büyülüyor."
 keywords: ["Kastamonu","milli park","doğa","gezi","turizm","Karadeniz","Kastamonu-Daday-Camlibel-Karacam","çevre","ekosistem"]

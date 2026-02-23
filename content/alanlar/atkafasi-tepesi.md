@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","manzara izleme","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Atkafas%C4%B1%20Tepesi","alt":"Atkafası Tepesi","caption":"Atkafası Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Fields_of_Kirsehir_-_panoramio.jpg/960px-The_Fields_of_Kirsehir_-_panoramio.jpg","alt":"Atkafası Tepesi","caption":"Atkafası Tepesi","credit":"The Fields of Kirsehir - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atkafas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390643","tip":"genel"}]
 description: "Kırşehir'in tarihi ve doğal güzelliklerinin birleştiği nokta, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
 keywords: ["Kırşehir","Atkafası Tepesi","doğa","tarih","gezi","turizm","tepe","manzara","çevre"]

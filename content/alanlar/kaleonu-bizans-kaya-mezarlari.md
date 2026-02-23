@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî kaya mezarlarını ziyaret","Doğal güzellikleri keşfet","Çevre gezintisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kale%C3%B6n%C3%BC%20Bizans%20Kaya%20Mezarlar%C4%B1","alt":"Kaleönü Bizans Kaya Mezarları","caption":"Kaleönü Bizans Kaya Mezarları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Kaleönü Bizans Kaya Mezarları","caption":"Kaleönü Bizans Kaya Mezarları","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kale%C3%B6n%C3%BC%20Bizans%20Kaya%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728190","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinelerinden biri olan Kaleönü Bizans Kaya Mezarları, ziyaretçilerini tarihi bir yolculuğa davet ediyor."
 keywords: ["Kaleönü","Bizans Kaya Mezarları","Ayrancı","Karaman","İç Anadolu Bölgesi","tarih","kaya mezarları","gezi","turizm"]

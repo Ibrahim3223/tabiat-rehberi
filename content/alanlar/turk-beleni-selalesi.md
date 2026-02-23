@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=T%C3%BCrk%20Beleni%20%C5%9Eelalesi","alt":"Türk Beleni Şelalesi","caption":"Türk Beleni Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Türk Beleni Şelalesi","caption":"Türk Beleni Şelalesi","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrk%20Beleni%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34681772","tip":"genel"}]
 description: "Antalya'nın doğal güzellikleri arasında yer alan Türk Beleni Şelalesi, ziyaretçilerini büyüleyen bir doğa harikasıdır."
 keywords: ["Türk Beleni Şelalesi","Antalya","doğa","şelale","gezi","turizm","Akdeniz Bölgesi","yeşil alan","çevre"]

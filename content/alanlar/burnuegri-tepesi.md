@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","tarihi eserleri ziyaret","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Burnue%C4%9Fri%20Tepesi","alt":"Burnueğri Tepesi","caption":"Burnueğri Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Burnueğri Tepesi","caption":"Burnueğri Tepesi","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burnue%C4%9Fri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31529073","tip":"genel"}]
 description: "Konya'nın İç Anadolu Bölgesi'nde yer alan Burnueğri Tepesi, tarihi geçmişi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Burnueğri Tepesi","Konya","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","coğrafya","flora","fauna","ziyaret","gezgin"]

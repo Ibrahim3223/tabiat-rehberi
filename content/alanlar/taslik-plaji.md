@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Dağ yürüyüşü","Bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ta%C5%9Fl%C4%B1k%20Plaj%C4%B1","alt":"Taşlık Plajı","caption":"Taşlık Plajı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Proceedings_of_the_Symposium_on_the_Environmental_Consequences_of_Fire_and_Fuel_Management_in_Mediterranean_Ecosystems_-_August_1-5%2C_1977%2C_Palo_Alto%2C_California._-_%28IA_CAT78696401%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Taşlık Plajı","caption":"Taşlık Plajı","credit":"Proceedings of the Symposium on the Environmental Consequences of Fire and Fuel Management in Mediterranean Ecosystems - August 1-5, 1977, Palo Alto, California. - (IA CAT78696401).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fl%C4%B1k%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49324963","tip":"genel"}]
 description: "Muğla'nın en güzel plajlarından biri olan Taşlık Plajı, Ege Bölgesi'nin sakin ve güzel bir köşesi."
 keywords: ["Taşlık Plajı","Muğla","Ege Bölgesi","plaj","deniz","kum","güneş"]

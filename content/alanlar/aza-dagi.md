@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aza%20Da%C4%9F%C4%B1","alt":"Aza Dağı","caption":"Aza Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wild_horses1_%28cropped%29.jpg/960px-Wild_horses1_%28cropped%29.jpg","alt":"Aza Dağı","caption":"Aza Dağı","credit":"Wild horses1 (cropped).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aza%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531161","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin, Aza Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Aza Dağı","Kayseri","Dağ","Doğa","Turizm","Gezi","Manzara","Kayseri Turistik Yerler","Dağ Turizmi"]

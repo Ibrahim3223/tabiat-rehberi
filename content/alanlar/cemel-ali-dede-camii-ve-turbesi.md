@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yapı ve çevresini gezmek","dini ve tarihi önemi hakkında bilgi edinmek","bölgenin flora ve faunasınılemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cemel%20Ali%20Dede%20Camii%20ve%20T%C3%BCrbesi","alt":"Cemel Ali Dede Camii ve Türbesi","caption":"Cemel Ali Dede Camii ve Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Cemel Ali Dede Camii ve Türbesi","caption":"Cemel Ali Dede Camii ve Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cemel%20Ali%20Dede%20Camii%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132134437","tip":"genel"}]
 description: "Meram, Konya'da tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Cemel Ali Dede Camii","Meram","Konya","tarih","doğa","türbe","camii"]

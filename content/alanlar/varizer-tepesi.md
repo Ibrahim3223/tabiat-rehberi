@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","manzara izleme","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Varizer%20Tepesi","alt":"Varizer Tepesi","caption":"Varizer Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Travels_in_the_Trans-caucasian_Provinces_of_Russia_-_Along_the_Southern_Shore_of_the_Lakes_of_Van_and_Urumiah%2C_in_the_Autumn_and_Winter_of_1837_%28IA_dli.granth.36634%29.pdf/page1-750px-thumbnail.pdf.jpg","alt":"Varizer Tepesi","caption":"Varizer Tepesi","credit":"Travels in the Trans-caucasian Provinces of Russia - Along the Southern Shore of the Lakes of Van and Urumiah, in the Autumn and Winter of 1837 (IA dli.granth.36634).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Varizer%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387432","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Van şehrinde bulunan Varizer Tepesi, coğrafyası ve tarihi geçmişi ile dikkat çekiyor."
 keywords: ["Varizer Tepesi","Van","Doğu Anadolu Bölgesi","coğrafya","tarihçe","flora","fauna","ziyaret","gezilebilecek yerler"]

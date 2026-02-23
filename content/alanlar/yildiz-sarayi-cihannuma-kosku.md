@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe keşfetmek","doğa yürüyüşü","fotograf çekmek","mimari güzelliği incelemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Cihann%C3%BCma%20K%C3%B6%C5%9Fk%C3%BC","alt":"Yıldız Sarayı Cihannüma Köşkü","caption":"Yıldız Sarayı Cihannüma Köşkü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Yıldız Sarayı Cihannüma Köşkü","caption":"Yıldız Sarayı Cihannüma Köşkü","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Cihann%C3%BCma%20K%C3%B6%C5%9Fk%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132681990","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini bir arada sunan özel bir mekan"
 keywords: ["Yıldız Sarayı","Cihannüma Köşkü","İstanbul","Marmara Bölgesi","tarih","doğa","gezi"]

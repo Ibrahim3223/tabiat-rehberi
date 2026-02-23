@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Palazl%C4%B1%20Tepe","alt":"Palazlı Tepe","caption":"Palazlı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_war_in_eastern_Europe_%28IA_warineasterneuro00reed%29.pdf/page1-766px-The_war_in_eastern_Europe_%28IA_warineasterneuro00reed%29.pdf.jpg","alt":"Palazlı Tepe","caption":"Palazlı Tepe","credit":"The war in eastern Europe (IA warineasterneuro00reed).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Palazl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536594","tip":"genel"}]
 description: "Kilis'in görkemli dağlarından biri olan Palazlı Tepe, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Palazlı Tepe","Kilis","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Kilis Gezilecek Yerler"]

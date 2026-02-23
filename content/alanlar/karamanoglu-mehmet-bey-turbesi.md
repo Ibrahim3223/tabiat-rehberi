@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Plaj aktiviteleri","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karamano%C4%9Flu%20Mehmet%20Bey%20T%C3%BCrbesi","alt":"Karamanoğlu Mehmet Bey Türbesi","caption":"Karamanoğlu Mehmet Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Karamanoğlu Mehmet Bey Türbesi","caption":"Karamanoğlu Mehmet Bey Türbesi","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karamano%C4%9Flu%20Mehmet%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391371","tip":"genel"}]
 description: "Karamanoğlu Mehmet Bey Türbesi, Ermenek ilçesi sınırları içerisinde yer alan tarihi bir türbe ve plaj alanıdır."
 keywords: ["Karamanoğlu Mehmet Bey","Ermenek","Karaman","İç Anadolu Bölgesi","Türbe","Plaj","Tarih"]

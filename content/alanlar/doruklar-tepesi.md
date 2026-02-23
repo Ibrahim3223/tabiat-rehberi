@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Doruklar%20Tepesi","alt":"Doruklar Tepesi","caption":"Doruklar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Doruklar Tepesi","caption":"Doruklar Tepesi","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Doruklar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568601","tip":"genel"}]
 description: "Türkiye'de yer alan Doruklar Tepesi, doğa severlerin keşfetmek için heyecanla beklediği bir dağ"
 keywords: ["Doruklar Tepesi","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezi","Doğa Harikaları","Tepeler","Yürüyüş Rotaları","Dağ Keşfi"]

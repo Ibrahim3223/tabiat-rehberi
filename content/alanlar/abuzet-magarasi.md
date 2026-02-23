@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abuzet%20Ma%C4%9Faras%C4%B1","alt":"Abuzet Mağarası","caption":"Abuzet Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Abuzet Mağarası","caption":"Abuzet Mağarası","credit":"Tessellated Pavement Sunrise Landscape.jpg","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abuzet%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319025","tip":"genel"}]
 description: "Van'da yer alan Abuzet Mağarası, 1200 hektarlık bir jeopark alanı sunar. Doğal güzellikleri keşfedin!"
 keywords: ["Abuzet Mağarası","Van Jeopark","Doğal Alanlar","Mağara Gezileri","Van Turizm","Jeoparklar","Doğa Sporları","Türkiye'nin Gizli Cennetleri","Van'ın Gizemli Yerleri"]

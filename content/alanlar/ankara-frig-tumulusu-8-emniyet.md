@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%208%2C%20Emniyet","alt":"Ankara Frig Tümülüsü 8, Emniyet","caption":"Ankara Frig Tümülüsü 8, Emniyet"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Catalog_of_Copyright_Entries_1941_Music_New_Series_Vol_36_Pt_3_%28IA_catalogofcopyrig363libr%29.pdf/page1-810px-Catalog_of_Copyright_Entries_1941_Music_New_Series_Vol_36_Pt_3_%28IA_catalogofcopyrig363libr%29.pdf.jpg","alt":"Ankara Frig Tümülüsü 8, Emniyet","caption":"Ankara Frig Tümülüsü 8, Emniyet","credit":"Catalog of Copyright Entries 1941 Music New Series Vol 36 Pt 3 (IA catalogofcopyrig363libr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%208%2C%20Emniyet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728291","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. Yenimahalle'de yer alan Ankara Frig Tümülüsü 8, Emniyet, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Frig Tümülüsü","Emniyet","Yenimahalle","tarih","doğa","gezi","turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Denizli%20%C3%87ardak%20Beylerli%20G%C3%B6l%C3%BC%20YHGS","alt":"Denizli Çardak Beylerli Gölü YHGS","caption":"Denizli Çardak Beylerli Gölü YHGS"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Denizli Çardak Beylerli Gölü YHGS","caption":"Denizli Çardak Beylerli Gölü YHGS","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli%20%C3%87ardak%20Beylerli%20G%C3%B6l%C3%BC%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228373","tip":"genel"}]
 description: "Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeken bir milli park"
 keywords: ["Denizli","Çardak Beylerli Gölü","YHGS","milli park","doğa","flora","fauna","gezi","turizm"]

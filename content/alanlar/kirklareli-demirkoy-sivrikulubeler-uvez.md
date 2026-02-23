@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rklareli-Demirkoy-Sivrikulubeler-Uvez","alt":"Kırklareli-Demirkoy-Sivrikulubeler-Uvez","caption":"Kırklareli-Demirkoy-Sivrikulubeler-Uvez"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/%C4%B0%C4%9FneadaFloodplainForestsNP_%287%29.JPG/960px-%C4%B0%C4%9FneadaFloodplainForestsNP_%287%29.JPG","alt":"Kırklareli-Demirkoy-Sivrikulubeler-Uvez","caption":"Kırklareli-Demirkoy-Sivrikulubeler-Uvez","credit":"İğneadaFloodplainForestsNP (7).JPG","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rklareli-Demirkoy-Sivrikulubeler-Uvez","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228221","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, 140 hektarlık doğa harikası"
 keywords: ["Kırklareli","Demirköy","Sivrikulubeler","Uvez","Marmara Bölgesi","milli park","doğa","gezi","turizm"]

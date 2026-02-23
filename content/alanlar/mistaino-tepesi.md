@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["doğa yürüyüşü","gözlem","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mistaino%20Tepesi","alt":"Mistaino Tepesi","caption":"Mistaino Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg/960px-N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg","alt":"Mistaino Tepesi","caption":"Mistaino Tepesi","credit":"Nêzîkî Qilwanê 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mistaino%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552665","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Mistaino Tepesi, Mardin ilinin doğal güzelliklerini sunar."
 keywords: ["Mistaino Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

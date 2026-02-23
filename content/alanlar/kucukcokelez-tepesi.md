@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCk%C3%A7%C3%B6kelez%20Tepesi","alt":"Küçükçökelez Tepesi","caption":"Küçükçökelez Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Küçükçökelez Tepesi","caption":"Küçükçökelez Tepesi","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%C3%A7%C3%B6kelez%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042869","tip":"genel"}]
 description: "Denizli'nin en önemli doğal güzelliklerinden biri olan Küçükçökelez Tepesi, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Küçükçökelez Tepesi","Denizli","doğa","tepe","gezi","turizm","yeşil alan","denizli gezilecek yerler","doğal güzellik"]

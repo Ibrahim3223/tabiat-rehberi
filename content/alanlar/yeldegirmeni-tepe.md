@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yelde%C4%9Firmeni%20Tepe","alt":"Yeldeğirmeni Tepe","caption":"Yeldeğirmeni Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf/page1-883px-Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf.jpg","alt":"Yeldeğirmeni Tepe","caption":"Yeldeğirmeni Tepe","credit":"Sport & travel, East and West (IA sporttraveleastw00selorich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelde%C4%9Firmeni%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502749","tip":"genel"}]
 description: "Denizli'de yer alan Yeldeğirmeni Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri"
 keywords: ["Yeldeğirmeni Tepe","Denizli","Dağ","Doğa","Trekking","Turizm","Gezi","Yerel","Coğrafya"]

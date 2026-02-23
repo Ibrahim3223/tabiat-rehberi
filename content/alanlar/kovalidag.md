@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koval%C4%B1da%C4%9F","alt":"Kovalıdağ","caption":"Kovalıdağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Kovalıdağ","caption":"Kovalıdağ","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koval%C4%B1da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31512680","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Kovalıdağ, doğa severler için bir cennet. 1200 hektarlık bu yeşil alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kovalıdağ","Türkiye Dağları","Doğa Turizmi","Yeşil Alanlar","İstanbul","Dağcılık","Trekking","Doğa Yürüyüşleri","Turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hatun%20Ma%C4%9Faras%C4%B1","alt":"Hatun Mağarası","caption":"Hatun Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Memoir_of_Rev._Levi_Parsons_%28microform%29_-_first_missionary_to_Palestine_from_the_United_States_-_containing_sketches_of_his_early_life_and_education%2C_his_missionary_labors_in_this_country_%28IA_MN41579ucmf_4%29.pdf/page1-925px-thumbnail.pdf.jpg","alt":"Hatun Mağarası","caption":"Hatun Mağarası","credit":"Memoir of Rev. Levi Parsons (microform) - first missionary to Palestine from the United States - containing sketches of his early life and education, his missionary labors in this country (IA MN41579ucmf 4).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatun%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319241","tip":"genel"}]
 description: "Mardin'de yer alan Hatun Mağarası, jeopark özellikleri ile dikkat çeker. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini bekliyor."
 keywords: ["Hatun Mağarası","Mardin","Jeopark","Doğal Alan","Tarihi Yerler","Mardin Gezilecek Yerler","Mağara","Turizm","Doğa"]

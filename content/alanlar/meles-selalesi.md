@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Meles%20%C5%9Eelalesi","alt":"Meles Şelalesi","caption":"Meles Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_ve_Etraf%C4%B1ndaki_Ya%C5%9Fl%C4%B1_A%C4%9Fa%C3%A7lar.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_ve_Etraf%C4%B1ndaki_Ya%C5%9Fl%C4%B1_A%C4%9Fa%C3%A7lar.jpg","alt":"Meles Şelalesi","caption":"Meles Şelalesi","credit":"Kurşunlu Şelalesi Tabiat Parkı ve Etrafındaki Yaşlı Ağaçlar.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Meles%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130366835","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Meles Şelalesi, doğa severlerin ziyaret ettiği bir noktadır."
 keywords: ["Meles Şelalesi","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","yerel","ekosistem","çevre"]

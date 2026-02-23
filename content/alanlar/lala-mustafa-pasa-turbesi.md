@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Tarihi araştırma","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Lala%20Mustafa%20Pa%C5%9Fa%20T%C3%BCrbesi","alt":"Lala Mustafa Paşa Türbesi","caption":"Lala Mustafa Paşa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Lala Mustafa Paşa Türbesi","caption":"Lala Mustafa Paşa Türbesi","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lala%20Mustafa%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391019","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından Lala Mustafa Paşa Türbesi, Eyüpsultan'da yer alır."
 keywords: ["Lala Mustafa Paşa","Türbe","Eyüpsultan","İstanbul","Tarih","Mimari","Sanat","Kültür"]

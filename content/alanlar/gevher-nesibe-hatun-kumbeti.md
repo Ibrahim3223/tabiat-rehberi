@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültür turu","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gevher%20Nesibe%20Hatun%20K%C3%BCmbeti","alt":"Gevher Nesibe Hatun Kümbeti","caption":"Gevher Nesibe Hatun Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Gevher Nesibe Hatun Kümbeti","caption":"Gevher Nesibe Hatun Kümbeti","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gevher%20Nesibe%20Hatun%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582396","tip":"genel"}]
 description: "Kayseri'nin Kocasinan ilçesinde bulunan tarihi Gevher Nesibe Hatun Kümbeti, 120 hektarlık yeşil alan üzerine kurulu"
 keywords: ["Gevher Nesibe Hatun Kümbeti","Kayseri","Kocasinan","tarih","mimari","kültür","gezi","turizm"]

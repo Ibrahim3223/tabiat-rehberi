@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Çiçek izleme","Kuş gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bent%20Hamam%C4%B1","alt":"Bent Hamamı","caption":"Bent Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Bent Hamamı","caption":"Bent Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bent%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738709","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde, Bayburt'un sınırları içinde yer alan Bent Hamamı, 140 hektarlık bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor."
 keywords: ["Bent Hamamı","Bayburt","Karadeniz Bölgesi","doğa","yeşil alan","gezi","tarihçe","coğrafya"]

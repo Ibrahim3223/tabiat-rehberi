@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["gezi","tarih gezisi","coğrafya gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tombul%20Tepe","alt":"Tombul Tepe","caption":"Tombul Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Tombul Tepe","caption":"Tombul Tepe","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tombul%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388234","tip":"genel"}]
 description: "Kars'ta yer alan tarihi ve coğrafi açıdan önemli bir tepe"
 keywords: ["Kars","Tombul Tepe","Doğu Anadolu Bölgesi","coğrafya","tarih","gezi"]

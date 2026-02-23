@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alayl%C4%B1%20Da%C4%9F","alt":"Alaylı Dağ","caption":"Alaylı Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wild_horses1.jpg/960px-Wild_horses1.jpg","alt":"Alaylı Dağ","caption":"Alaylı Dağ","credit":"Wild horses1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alayl%C4%B1%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31532344","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin. Alaylı Dağ, şehir merkezine yakın bir konumda yer alır."
 keywords: ["Alaylı Dağ","Kayseri","Doğa","Dağ","Türkiye","Gezi","Seyahat","Kayseri Turizm","Doğa Sporları"]

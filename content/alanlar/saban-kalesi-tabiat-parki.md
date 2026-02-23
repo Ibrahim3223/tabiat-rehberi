@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eaban%20Kalesi%20Tabiat%20Park%C4%B1","alt":"Şaban Kalesi Tabiat Parkı","caption":"Şaban Kalesi Tabiat Parkı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Şaban Kalesi Tabiat Parkı","caption":"Şaban Kalesi Tabiat Parkı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eaban%20Kalesi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228998","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Şaban Kalesi Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet."
 keywords: ["Şaban Kalesi","Tabiat Parkı","İç Anadolu Bölgesi","yeşil alan","doğa","gezi","turizm","çevre","ekosistem"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî geziler","doğa yürüyüşleri","fotografcılık","kültürel keşifler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sultan%20Hamza%20T%C3%BCrbesi","alt":"Sultan Hamza Türbesi","caption":"Sultan Hamza Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Life_and_light_for_woman_%28IA_lifelightforwoma19woma%29.pdf/page1-835px-Life_and_light_for_woman_%28IA_lifelightforwoma19woma%29.pdf.jpg","alt":"Sultan Hamza Türbesi","caption":"Sultan Hamza Türbesi","credit":"Life and light for woman (IA lifelightforwoma19woma).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sultan%20Hamza%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391384","tip":"genel"}]
 description: "Mardin'in Artuklu ilçesinde bulunan Sultan Hamza Türbesi, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Mardin","Artuklu","Sultan Hamza Türbesi","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","kültür"]

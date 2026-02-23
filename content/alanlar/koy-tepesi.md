@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6y%20Tepesi","alt":"Köy Tepesi","caption":"Köy Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Avanos_16_09_1973_Mittleres_K%C4%B1z%C4%B1l%C4%B1rmak-Tal.jpg/960px-Avanos_16_09_1973_Mittleres_K%C4%B1z%C4%B1l%C4%B1rmak-Tal.jpg","alt":"Köy Tepesi","caption":"Köy Tepesi","credit":"Avanos 16 09 1973 Mittleres Kızılırmak-Tal.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6y%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210405","tip":"genel"}]
 description: "Nevşehir'in tarihi ve doğal güzelliklerinin birleştiği yer"
 keywords: ["Köy Tepesi","Nevşehir","İç Anadolu Bölgesi","tepe","doğa","tarih","gezilecek yerler","turizm"]

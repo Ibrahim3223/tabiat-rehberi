@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=E%C5%9Feng%C3%B6l%20Da%C4%9F%C4%B1","alt":"Eşengöl Dağı","caption":"Eşengöl Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Eşengöl Dağı","caption":"Eşengöl Dağı","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Feng%C3%B6l%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34868011","tip":"genel"}]
 description: "Van'da bulunan Eşengöl Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi. Eşengöl Dağı'nı keşfedin!"
 keywords: ["Eşengöl Dağı","Van","Dağ","Doğa","Turizm","Gezi","Trekking","Doğa Yürüyüşü","Van Turistik Yerler"]

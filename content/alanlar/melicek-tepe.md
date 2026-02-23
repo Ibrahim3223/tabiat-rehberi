@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Melicek%20Tepe","alt":"Melicek Tepe","caption":"Melicek Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Explorations_in_Bible_lands_during_the_19th_century_%28IA_explorationsinbi00hilp%29.pdf/page1-918px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_explorationsinbi00hilp%29.pdf.jpg","alt":"Melicek Tepe","caption":"Melicek Tepe","credit":"Explorations in Bible lands during the 19th century (IA explorationsinbi00hilp).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melicek%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391051","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide şehri Malatya'da yer alan Melicek Tepe, doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["Melicek Tepe","Malatya","Doğu Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","turizm","gezi","keşif","coğrafya"]

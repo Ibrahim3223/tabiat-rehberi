@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sahabe-i%20Kiram%20T%C3%BCrbesi","alt":"Sahabe-i Kiram Türbesi","caption":"Sahabe-i Kiram Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Sahabe-i Kiram Türbesi","caption":"Sahabe-i Kiram Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sahabe-i%20Kiram%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391183","tip":"genel"}]
 description: "Merzifon'un tarihi ve doğal güzellikleri arasında yer alan Sahabe-i Kiram Türbesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Merzifon","Sahabe-i Kiram Türbesi","tarih","doğa","turizm","gezi","kültür","çevre","İç Anadolu Bölgesi"]

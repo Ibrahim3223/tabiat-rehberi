@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık","çevre gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kocapinar%20Toros%20Sediri","alt":"Kocapinar Toros Sediri","caption":"Kocapinar Toros Sediri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Kocapinar Toros Sediri","caption":"Kocapinar Toros Sediri","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocapinar%20Toros%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227351","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kocapinar Toros Sediri, zengin flora ve fauna çeşitliliğine sahip bir milli park."
 keywords: ["Kocapinar Toros Sediri","milli park","İç Anadolu Bölgesi","flora","fauna","doğa","çevre","ekoloji"]

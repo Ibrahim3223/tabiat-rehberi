@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Euromos%20An%C4%B1t%20Mezar","alt":"Euromos Anıt Mezar","caption":"Euromos Anıt Mezar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Euromos Anıt Mezar","caption":"Euromos Anıt Mezar","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Euromos%20An%C4%B1t%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728238","tip":"genel"}]
 description: "Muğla'nın Milas ilçesinde bulunan tarihiEuromos Anıt Mezar, zengin geçmişi ve doğal güzelliği ile dikkat çekiyor"
 keywords: ["Euromos Anıt Mezar","Milas","Muğla","tarih","doğa","gezi","turizm","Ege Bölgesi","kültür"]

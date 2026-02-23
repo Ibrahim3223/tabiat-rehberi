@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hirfanl%C4%B1%20Baraj%20G%C3%B6l%C3%BC","alt":"Hirfanlı Baraj Gölü","caption":"Hirfanlı Baraj Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The_influence_of_Islam_in_Turkey._%28IA_influenceofislam00rutl%29.pdf/page1-960px-The_influence_of_Islam_in_Turkey._%28IA_influenceofislam00rutl%29.pdf.jpg","alt":"Hirfanlı Baraj Gölü","caption":"Hirfanlı Baraj Gölü","credit":"The influence of Islam in Turkey. (IA influenceofislam00rutl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hirfanl%C4%B1%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34890163","tip":"genel"}]
 description: "Ankara'da yer alan Hirfanlı Baraj Gölü, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon"
 keywords: ["Hirfanlı Baraj Gölü","Ankara gölleri","baraj gölleri","doğa turizmi","Ankara turizmi","göl gezileri","su sporları","Ankara doğal güzellikleri","Hirfanlı Barajı"]

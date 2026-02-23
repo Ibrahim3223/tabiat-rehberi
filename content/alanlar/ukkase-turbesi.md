@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ukka%C5%9Fe%20T%C3%BCrbesi","alt":"Ukkaşe Türbesi","caption":"Ukkaşe Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ukkaşe Türbesi","caption":"Ukkaşe Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ukka%C5%9Fe%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q117192585","tip":"genel"}]
 description: "Gaziantep'in tarihi ve doğal güzelliklerini keşfedin. Güneydoğu Anadolu Bölgesi'nin önemli mekanlarından biri olan Ukkaşe Türbesi hakkında bilgi edinin."
 keywords: ["Ukkaşe Türbesi","Gaziantep","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","tarihçe","coğrafya"]

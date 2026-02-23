@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","yürüyüş","doğa gezisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kutulgahan%C4%B1m%C4%B1%20Tepesi","alt":"Kutulgahanımı Tepesi","caption":"Kutulgahanımı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Kutulgahanımı Tepesi","caption":"Kutulgahanımı Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutulgahan%C4%B1m%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547462","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal alanlarından biri olan Kutulgahanımı Tepesi, Batman'ın güzide noktalarından biri"
 keywords: ["Kutulgahanımı Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal alan","tepe","gezi","turizm"]

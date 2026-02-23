@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yaylakavak%20Baraj%20G%C3%B6l%C3%BC","alt":"Yaylakavak Baraj Gölü","caption":"Yaylakavak Baraj Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bafa_lake1.JPG/960px-Bafa_lake1.JPG","alt":"Yaylakavak Baraj Gölü","caption":"Yaylakavak Baraj Gölü","credit":"Bafa lake1.JPG","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yaylakavak%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34936460","tip":"genel"}]
 description: "Aydın'da bulunan Yaylakavak Baraj Gölü, doğal güzelliği ve su sporları imkanları ile ziyaretçilerini bekliyor."
 keywords: ["Yaylakavak Baraj Gölü","Aydın","göl","baraj","doğa","su sporları","turizm","gezi","Aydın gezilecek yerler"]

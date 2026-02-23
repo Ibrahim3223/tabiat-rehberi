@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%B6l%C3%BCcek%20Tepesi","alt":"Bölücek Tepesi","caption":"Bölücek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg","alt":"Bölücek Tepesi","caption":"Bölücek Tepesi","credit":"The Landscape of Sıklık Gate.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%B6l%C3%BCcek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731174","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerinin başlıcalarından biri olan Bölücek Tepesi, ziyaretçilerini büyüleyen bir noktaya sahiptir."
 keywords: ["Bölücek Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

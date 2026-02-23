@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara seyretme","fotoğraf çekme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=T%C3%BCl%C3%BC%20Tepesi","alt":"Tülü Tepesi","caption":"Tülü Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf/page1-727px-Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf.jpg","alt":"Tülü Tepesi","caption":"Tülü Tepesi","credit":"Medical Heritage Library (IA 57721120R.nlm.nih.gov).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCl%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34816158","tip":"genel"}]
 description: "Çorum'un doğal güzellikleri arasında yer alan Tülü Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri"
 keywords: ["Çorum","Karadeniz Bölgesi","Tülü Tepesi","doğa","gezi","turizm","tepe","manzara","çevre"]

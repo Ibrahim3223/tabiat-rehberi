@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki ve hayvan türleri gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yoncal%C4%B1%C3%A7ukur%20Tepesi","alt":"Yoncalıçukur Tepesi","caption":"Yoncalıçukur Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen01gaid%29.pdf/page1-887px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen01gaid%29.pdf.jpg","alt":"Yoncalıçukur Tepesi","caption":"Yoncalıçukur Tepesi","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen01gaid).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yoncal%C4%B1%C3%A7ukur%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32195262","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin. Yoncalıçukur Tepesi, Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Yoncalıçukur Tepesi","Adana","Akdeniz Bölgesi","doğa","tepe","gezi","turizm"]

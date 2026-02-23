@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Balık avı","Çevre gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zamanti%20Irmagi%20Kaynagi%20Dogal%20Sir%20Alani","alt":"Zamanti Irmagi Kaynagi Dogal Sir Alani","caption":"Zamanti Irmagi Kaynagi Dogal Sir Alani"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Zamanti Irmagi Kaynagi Dogal Sir Alani","caption":"Zamanti Irmagi Kaynagi Dogal Sir Alani","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zamanti%20Irmagi%20Kaynagi%20Dogal%20Sir%20Alani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227003","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Zamanti Irmagi Kaynagi Dogal Sir Alani"
 keywords: ["Zamanti Irmagi","Dogal Sir Alani","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğrafçılık","tarihçe araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alt%C4%B1n%20Tepesi","alt":"Altın Tepesi","caption":"Altın Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Altın Tepesi","caption":"Altın Tepesi","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1n%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559424","tip":"genel"}]
 description: "Konya'nın İç Anadolu Bölgesi'nde yer alan Altın Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar."
 keywords: ["Altın Tepesi","Konya","İç Anadolu Bölgesi","tarihçe","coğrafya","flora","fauna","ziyaret"]

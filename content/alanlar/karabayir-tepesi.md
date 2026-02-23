@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara seyir","flora ve fauna gözlem"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karabay%C4%B1r%20Tepesi","alt":"Karabayır Tepesi","caption":"Karabayır Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Karabayır Tepesi","caption":"Karabayır Tepesi","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karabay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385721","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Karabayır Tepesi, Kayseri'nin eşsiz manzarasına ev sahipliği yapar."
 keywords: ["Karabayır Tepesi","Kayseri","İç Anadolu Bölgesi","doğal güzellik","tepe","manzara"]

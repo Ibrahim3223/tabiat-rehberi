@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87amard%C4%B1%20Demirkaz%C4%B1k%20Yaban%20Hayat%C4%B1%20Geli%C5%9Ftirme%20Sahas%C4%B1","alt":"Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası","caption":"Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası","caption":"Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amard%C4%B1%20Demirkaz%C4%B1k%20Yaban%20Hayat%C4%B1%20Geli%C5%9Ftirme%20Sahas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q119442755","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Çamardı Demirkazık Yaban Hayatı Geliştirme Sahası, zengin fauna ve flora çeşitliliğiyle dikkat çekiyor."
 keywords: ["Çamardı","Demirkazık","Yaban Hayatı Geliştirme Sahası","İç Anadolu Bölgesi","doğa","flora","fauna","yaban hayatı"]

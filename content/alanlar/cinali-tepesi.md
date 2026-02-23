@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Manzara İzleme","Fotoğrafçılık","Tarih Araştırması"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cinali%20Tepesi","alt":"Cinali Tepesi","caption":"Cinali Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Colors_of_nature_in_Goreme_Valley.jpg/960px-Colors_of_nature_in_Goreme_Valley.jpg","alt":"Cinali Tepesi","caption":"Cinali Tepesi","credit":"Colors of nature in Goreme Valley.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cinali%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390580","tip":"genel"}]
 description: "Nevşehir'in görkemli doğal güzelliği, Cinali Tepesi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Cinali Tepesi","Nevşehir","Doğa","Tepeler","Coğrafya","Flora","Fauna","Gezi","Tarihçe"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9C%C3%A7%20Ayak%20Mezar%20An%C4%B1t%C4%B1","alt":"Üç Ayak Mezar Anıtı","caption":"Üç Ayak Mezar Anıtı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf/page1-960px-Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf.jpg","alt":"Üç Ayak Mezar Anıtı","caption":"Üç Ayak Mezar Anıtı","credit":"Jewish - Zionist terrorism and the establishment of Israel. (IA jewishzionistter00peek).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7%20Ayak%20Mezar%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728082","tip":"genel"}]
 description: "Mersin'in Erdemli ilçesinde bulunan Üç Ayak Mezar Anıtı, doğal güzelliği ve tarihi önemiyle dikkat çeker."
 keywords: ["Üç Ayak Mezar Anıtı","Erdemli","Mersin","Akdeniz Bölgesi","doğa","tarih","mezar anıtı"]

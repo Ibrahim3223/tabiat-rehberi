@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "en az bir gün"
 aktiviteler: ["yüzme","güneşlenme","doğa yürüyüşü","photography"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCd%C3%BCk%20Minare%20Hamam%C4%B1","alt":"Güdük Minare Hamamı","caption":"Güdük Minare Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/S%C3%BCzer_Sun_Dreams_Beach_22_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_22_-_panoramio.jpg","alt":"Güdük Minare Hamamı","caption":"Güdük Minare Hamamı","credit":"Süzer Sun Dreams Beach 22 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCk%20Minare%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738982","tip":"genel"}]
 description: "İzmir'in Seferihisar ilçesinde yer alan Güdük Minare Hamamı, Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Güdük Minare Hamamı","Seferihisar","İzmir","Ege Bölgesi","doğal güzellikler","plaj","gezi","tatil"]

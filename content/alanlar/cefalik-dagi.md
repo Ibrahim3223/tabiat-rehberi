@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cefal%C4%B1k%20Da%C4%9F%C4%B1","alt":"Cefalık Dağı","caption":"Cefalık Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Avanos_16_09_1973_Mittleres_K%C4%B1z%C4%B1l%C4%B1rmak-Tal.jpg/960px-Avanos_16_09_1973_Mittleres_K%C4%B1z%C4%B1l%C4%B1rmak-Tal.jpg","alt":"Cefalık Dağı","caption":"Cefalık Dağı","credit":"Avanos 16 09 1973 Mittleres Kızılırmak-Tal.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cefal%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385909","tip":"genel"}]
 description: "Kırşehir'in güzide noktalarından biri olan Cefalık Dağı, doğa severlerin ziyaret etmesi gereken bir yer"
 keywords: ["Kırşehir","Cefalık Dağı","doğa","gezi","turizm","coğrafya","flora","fauna","tarihçe"]

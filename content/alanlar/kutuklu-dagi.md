@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCt%C3%BCkl%C3%BC%20Da%C4%9F%C4%B1","alt":"Kütüklü Dağı","caption":"Kütüklü Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Kütüklü Dağı","caption":"Kütüklü Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCt%C3%BCkl%C3%BC%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042842","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin, Kütüklü Dağı'nın büyüleyici manzaraları ve zengin florası ile tanışın."
 keywords: ["Kütüklü Dağı","Türkiye Dağları","Doğa Gezileri","Dağ Trekking","Türkiye Turizm","Kütüklü Dağı Manzaraları","Dağcılık","Türkiye'nin Doğal Alanları","Kütüklü Dağı Ziyaret"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yal%C4%B1nta%C5%9Fda%C4%9F%C4%B1%20Tepesi","alt":"Yalıntaşdağı Tepesi","caption":"Yalıntaşdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Yalıntaşdağı Tepesi","caption":"Yalıntaşdağı Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yal%C4%B1nta%C5%9Fda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31503301","tip":"genel"}]
 description: "Ağrı'da bulunan Yalıntaşdağı Tepesi, doğa severler için bir cennet. 1400 metre yüksekliğiyle bölgenin en önemli dağlarından biri."
 keywords: ["Yalıntaşdağı Tepesi","Ağrı","Dağ","Doğa","Trekking","Yürüyüş","Doğa Seyahati","Türkiye'nin Dağları","Ağrı Turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Milas-Mumcular%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mugla-Milas-Mumcular Kızılçam","caption":"Mugla-Milas-Mumcular Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rio_sobre_la_carretera_Marmaris_Datca._Hisaronu_Marmaris_Turquia.jpg/960px-Rio_sobre_la_carretera_Marmaris_Datca._Hisaronu_Marmaris_Turquia.jpg","alt":"Mugla-Milas-Mumcular Kızılçam","caption":"Mugla-Milas-Mumcular Kızılçam","credit":"Rio sobre la carretera Marmaris Datca. Hisaronu Marmaris Turquia.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Milas-Mumcular%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227460","tip":"genel"}]
 description: "Muğla'nın doğal güzellikleri arasında yer alan Mumcular Kızılçam Milli Parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Mugla-Milas-Mumcular Kızılçam","Milli Park","Muğla","Doğa","Kızılçam","Ege Bölgesi"]

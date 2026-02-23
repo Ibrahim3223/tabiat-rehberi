@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Yaban hayatı gözlemleme","Bitki türleri keşfetme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Ula-Kizilyaka%20K%C4%B1z%C4%B1l%C3%A7am%201","alt":"Mugla-Ula-Kizilyaka Kızılçam 1","caption":"Mugla-Ula-Kizilyaka Kızılçam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rio_sobre_la_carretera_Marmaris_Datca._Hisaronu_Marmaris_Turquia.jpg/960px-Rio_sobre_la_carretera_Marmaris_Datca._Hisaronu_Marmaris_Turquia.jpg","alt":"Mugla-Ula-Kizilyaka Kızılçam 1","caption":"Mugla-Ula-Kizilyaka Kızılçam 1","credit":"Rio sobre la carretera Marmaris Datca. Hisaronu Marmaris Turquia.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Ula-Kizilyaka%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227463","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin. 140 hektarlık yeşil alan, Ege Bölgesi'nin önemli noktalarından biri."
 keywords: ["Muğla","Ege Bölgesi","Kızılçam","Milli Park","Doğal Alan","Yeşil Alan","Turizm","Doğa"]

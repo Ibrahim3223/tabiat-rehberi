@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6pek%20G%C3%B6l%C3%BC","alt":"Köpek Gölü","caption":"Köpek Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Salt_flats_formation_in_Lake_Meke_04.jpg/960px-Salt_flats_formation_in_Lake_Meke_04.jpg","alt":"Köpek Gölü","caption":"Köpek Gölü","credit":"Salt flats formation in Lake Meke 04.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6pek%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35720717","tip":"genel"}]
 description: "Konya'da bulunan Köpek Gölü, 1200 hektarlık bir alanı kaplıyor ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Köpek Gölü","Konya","göl","doğa","turizm","gezi","Konya gölleri","Köpek Gölü nerede","Köpek Gölü özellikleri"]

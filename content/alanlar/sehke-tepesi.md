@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","manzara izleme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eehke%20Tepesi","alt":"Şehke Tepesi","caption":"Şehke Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Şehke Tepesi","caption":"Şehke Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehke%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547612","tip":"genel"}]
 description: "Siirt'in doğal güzelliklerinin başında gelen Şehke Tepesi, ziyaretçilerini büyülemektedir."
 keywords: ["Şehke Tepesi","Siirt","doğal güzellik","tepe","Güneydoğu Anadolu Bölgesi","turizm","gezi","doğa"]

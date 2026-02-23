@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa keşfi","tarih hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karakesme%20Tepe","alt":"Karakesme Tepe","caption":"Karakesme Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chambers%27s_concise_gazetteer_of_the_world_-_topographical%2C_statistical%2C_historical%2C_pronouncing_%28IA_chamberssconcise00patrrich%29.pdf/page1-850px-Chambers%27s_concise_gazetteer_of_the_world_-_topographical%2C_statistical%2C_historical%2C_pronouncing_%28IA_chamberssconcise00patrrich%29.pdf.jpg","alt":"Karakesme Tepe","caption":"Karakesme Tepe","credit":"Chambers's concise gazetteer of the world - topographical, statistical, historical, pronouncing (IA chamberssconcise00patrrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakesme%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385700","tip":"genel"}]
 description: "Adana'da yer alan Karakesme Tepe, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir. Zengin fauna ve flora çeşitliliği ile dikkat çekmektedir."
 keywords: ["Karakesme Tepe","Adana","Akdeniz Bölgesi","doğa","flora","fauna"]

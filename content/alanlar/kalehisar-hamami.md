@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","güneşlenme","deniz keyfi","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kalehisar%20Hamam%C4%B1","alt":"Kalehisar Hamamı","caption":"Kalehisar Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Glendale_Daily_Press_1921-06-28_%28IA_cgl_001548%29.pdf/page1-960px-Glendale_Daily_Press_1921-06-28_%28IA_cgl_001548%29.pdf.jpg","alt":"Kalehisar Hamamı","caption":"Kalehisar Hamamı","credit":"Glendale Daily Press 1921-06-28 (IA cgl 001548).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalehisar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739196","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Kalehisar Hamamı, Alaca/Çorum'da bulunan bir plajdır."
 keywords: ["Kalehisar Hamamı","Alaca","Çorum","Karadeniz Bölgesi","plaj","deniz","kum"]

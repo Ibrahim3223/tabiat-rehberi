@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0zmir-Bayindir-Selcuk%20Defne","alt":"İzmir-Bayindir-Selcuk Defne","caption":"İzmir-Bayindir-Selcuk Defne"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MOKFC13.jpg/960px-MOKFC13.jpg","alt":"İzmir-Bayindir-Selcuk Defne","caption":"İzmir-Bayindir-Selcuk Defne","credit":"MOKFC13.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0zmir-Bayindir-Selcuk%20Defne","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228483","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, 140 hektarlık Defne milli parkı"
 keywords: ["İzmir","milli park","doğa","Defne","Bayındır","Selçuk"]

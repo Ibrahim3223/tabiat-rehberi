@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","su sporları","tarih gezisi","yeme içme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Konya-Alanya-S%C3%B6%C4%9F%C3%BCt-Karacam","alt":"Konya-Alanya-Söğüt-Karacam","caption":"Konya-Alanya-Söğüt-Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/WMF-AR_2011%E2%80%9312_EN_SHIP2_17dec12_300dpi_hi-res.pdf/page1-960px-WMF-AR_2011%E2%80%9312_EN_SHIP2_17dec12_300dpi_hi-res.pdf.jpg","alt":"Konya-Alanya-Söğüt-Karacam","caption":"Konya-Alanya-Söğüt-Karacam","credit":"WMF-AR 2011–12 EN SHIP2 17dec12 300dpi hi-res.pdf","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Alanya-S%C3%B6%C4%9F%C3%BCt-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228222","tip":"genel"}]
 description: "Konya'nın doğal güzellikleri ve tarihi geçmişiyle dikkat çeken milli parkı"
 keywords: ["Konya","Alanya","Söğüt","Karacam","milli park","doğa","gezi","tarih"]

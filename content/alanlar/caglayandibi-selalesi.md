@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["şelaleyi gezmek","yürüyüş yapmak","piknik yapmak","fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87a%C4%9Flayandibi%20%C5%9Eelalesi","alt":"Çağlayandibi Şelalesi","caption":"Çağlayandibi Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Natural_Beauty_Tomara.jpg/960px-Natural_Beauty_Tomara.jpg","alt":"Çağlayandibi Şelalesi","caption":"Çağlayandibi Şelalesi","credit":"Natural Beauty Tomara.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87a%C4%9Flayandibi%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97209363","tip":"genel"}]
 description: "Gümüşhane'nin doğal güzelliklerinden biri olan Çağlayandibi Şelalesi, ziyaretçiler için bir doğa harikasıdır."
 keywords: ["Gümüşhane","Çağlayandibi Şelalesi","doğa harikası","Karadeniz Bölgesi","turizm","gezi","şelale","doğal güzellik"]

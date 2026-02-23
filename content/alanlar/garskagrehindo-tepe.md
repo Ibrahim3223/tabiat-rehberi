@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Garskagrehindo%20Tepe","alt":"Garskagrehindo Tepe","caption":"Garskagrehindo Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Garskagrehindo Tepe","caption":"Garskagrehindo Tepe","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Garskagrehindo%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556095","tip":"genel"}]
 description: "Şırnak'ta bulunan Garskagrehindo Tepe, doğa severler için önemli bir dağ"
 keywords: ["Garskagrehindo Tepe","Şırnak","Dağ","Doğa","Türkiye","Şırnak Dağları","Dağcılık","Doğa Turizmi","Coğrafya"]

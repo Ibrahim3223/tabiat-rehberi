@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1r%C4%B1nba%C5%9F%C4%B1%20Tepesi","alt":"Kırınbaşı Tepesi","caption":"Kırınbaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf/page1-860px-Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf.jpg","alt":"Kırınbaşı Tepesi","caption":"Kırınbaşı Tepesi","credit":"Across Asia on a bicycle; (IA acrossasiaonbicy00alle).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1nba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389163","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Kırınbaşı Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kırınbaşı Tepesi","Sivas","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","yerel","coğrafya","flora","fauna"]

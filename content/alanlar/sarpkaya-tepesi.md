@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sarpkaya%20Tepesi","alt":"Sarpkaya Tepesi","caption":"Sarpkaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Sarpkaya Tepesi","caption":"Sarpkaya Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sarpkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387684","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Artvin ilinde yer alan Sarpkaya Tepesi, 1400 metre yüksekliğiyle dikkat çekiyor. Doğal güzelliği ve tarihi geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["Sarpkaya Tepesi","Artvin","Karadeniz Bölgesi","doğa","tarih","gezi","tepe","yayla"]

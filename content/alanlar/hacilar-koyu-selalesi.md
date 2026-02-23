@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","picnic","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1lar%20k%C3%B6y%C3%BC%20%C5%9Felalesi","alt":"Hacılar köyü şelalesi","caption":"Hacılar köyü şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/State_1995-01-_Iss_384_%28IA_sim_state-magazine_1995-01_384%29.pdf/page1-960px-State_1995-01-_Iss_384_%28IA_sim_state-magazine_1995-01_384%29.pdf.jpg","alt":"Hacılar Köyü Şelalesi","caption":"Hacılar Köyü Şelalesi","credit":"State 1995-01- Iss 384 (IA sim state-magazine 1995-01 384).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1lar%20k%C3%B6y%C3%BC%20%C5%9Felalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q19611391","tip":"genel"}]
 description: "Ankara'nın güzide köylerinden Hacılar'da bulunan şelale, 140 hektarlık yeşil alanın içinde yer alır."
 keywords: ["Hacılar Köyü Şelalesi","Ankara","İç Anadolu Bölgesi","şelale","yeşil alan","doğa","gezi","turizm"]

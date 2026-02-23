@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşleri","Şifalı Suların Keyfi","Bölgeye Tarihsel Geziler","Ormanlık Alanlarda Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCk%C3%BCrt%20Kapl%C4%B1cas%C4%B1","alt":"Kükürt Kaplıcası","caption":"Kükürt Kaplıcası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_earliest_recorded_discovery_of_thermal_springs_%28electronic_resource%29_%28IA_b21456719%29.pdf/page1-960px-The_earliest_recorded_discovery_of_thermal_springs_%28electronic_resource%29_%28IA_b21456719%29.pdf.jpg","alt":"Kükürt Kaplıcası","caption":"Kükürt Kaplıcası","credit":"The earliest recorded discovery of thermal springs (electronic resource) (IA b21456719).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741952","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli bir hazine olan Kükürt Kaplıcası, şifalı sularının yanı sıra eşsiz doğası ile ziyaretçilerini bekliyor."
 keywords: ["Kükürt Kaplıcası","Çankırı","İç Anadolu Bölgesi","termal kaynak","şifalı su","doğa","turizm","gezi","kaplıca"]

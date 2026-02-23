@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaret","Kültürel deneyim","Flora ve fauna gözlemi","Manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Elti%20Hatun%20T%C3%BCrbesi%2C%20Mazgirt","alt":"Elti Hatun Türbesi, Mazgirt","caption":"Elti Hatun Türbesi, Mazgirt"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Elti Hatun Türbesi, Mazgirt","caption":"Elti Hatun Türbesi, Mazgirt","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elti%20Hatun%20T%C3%BCrbesi%2C%20Mazgirt","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582803","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi hazinesi, Mazgirt'te bulunan Elti Hatun Türbesi."
 keywords: ["Elti Hatun Türbesi","Mazgirt","Tunceli","Doğu Anadolu Bölgesi","Tarih","Türbe","Kültür","Gezi"]

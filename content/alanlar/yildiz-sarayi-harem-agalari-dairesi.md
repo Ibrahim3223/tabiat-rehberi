@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","mimari inceleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Harem%20A%C4%9Falar%C4%B1%20Dairesi","alt":"Yıldız Sarayı Harem Ağaları Dairesi","caption":"Yıldız Sarayı Harem Ağaları Dairesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Yıldız Sarayı Harem Ağaları Dairesi","caption":"Yıldız Sarayı Harem Ağaları Dairesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Harem%20A%C4%9Falar%C4%B1%20Dairesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133684810","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini barındıran Yıldız Sarayı Harem Ağaları Dairesi"
 keywords: ["Yıldız Sarayı","Harem Ağaları Dairesi","İstanbul","tarih","doğa","gezi","turizm","Marmara Bölgesi","Beşiktaş","saray"]

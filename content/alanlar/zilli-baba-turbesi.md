@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezi","Plaj keyfi","Doğa yürüyüşü","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zilli%20Baba%20T%C3%BCrbesi","alt":"Zilli Baba Türbesi","caption":"Zilli Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Zilli Baba Türbesi","caption":"Zilli Baba Türbesi","credit":"Harbiş Sahili, Karataş - Adana 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zilli%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391823","tip":"genel"}]
 description: "Seyhan/Adana'da bulunan tarihi bir türbe ve plaj"
 keywords: ["Zilli Baba Türbesi","Seyhan","Adana","Akdeniz Bölgesi","Türbe","Plaj","Tarih","Doğa"]

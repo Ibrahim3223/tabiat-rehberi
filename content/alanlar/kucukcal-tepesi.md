@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCk%C3%A7al%20Tepesi","alt":"Küçükçal Tepesi","caption":"Küçükçal Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Küçükçal Tepesi","caption":"Küçükçal Tepesi","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042691","tip":"genel"}]
 description: "Ankara'nın önemli doğal güzelliklerinden biri olan Küçükçal Tepesi, şehrin panoramik manzarasını sunar."
 keywords: ["Küçükçal Tepesi","Ankara","Dağ","Doğa","Turizm","Gezi","Manzara","Panorama","Ankara gezilecek yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Sergi gezisi","Etkinliklere katılma","Oyun oynama","Bahçe gezisi","Sanat çalışması"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Da%20Vinci%20%C3%87ocuk%20M%C3%BCzesi","alt":"Da Vinci Çocuk Müzesi","caption":"Da Vinci Çocuk Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Da Vinci Çocuk Müzesi","caption":"Da Vinci Çocuk Müzesi","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Da%20Vinci%20%C3%87ocuk%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950164","tip":"genel"}]
 description: "Ankara'da çocukların bilim ve sanatla buluştuğu 140 hektarlık yeşil alan"
 keywords: ["Da Vinci Çocuk Müzesi","Ankara","İç Anadolu Bölgesi","çocuk müzesi","bilim","sanat","eğitim","eğlence","aile","çocuk"]

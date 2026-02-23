@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","göl gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1%201%2C%20%C4%B0znik","alt":"Hamam Kalıntısı 1, İznik","caption":"Hamam Kalıntısı 1, İznik"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf/page1-854px-Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf.jpg","alt":"Hamam Kalıntısı 1, İznik","caption":"Hamam Kalıntısı 1, İznik","credit":"Animal disease thesaurus (IA CAT80734093005).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1%201%2C%20%C4%B0znik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739175","tip":"genel"}]
 description: "İznik'in tarihi dokusu içinde yer alan Hamam Kalıntısı 1, Marmara Bölgesi'nin güzelliklerini keşfedin"
 keywords: ["İznik","Marmara Bölgesi","tarih","doğa","gezi","turizm","Bursa","plaj","hamam kalıntısı","kültür"]

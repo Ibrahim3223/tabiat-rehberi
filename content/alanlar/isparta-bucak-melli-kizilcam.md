@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Bucak-Melli%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Isparta-Bucak-Melli Kızılçam","caption":"Isparta-Bucak-Melli Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Isparta-Bucak-Melli Kızılçam","caption":"Isparta-Bucak-Melli Kızılçam","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Bucak-Melli%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227418","tip":"genel"}]
 description: "Isparta'nın doğal güzellikleriyle dolu milli parkı"
 keywords: ["Isparta","Bucak","Melli Kızılçam","Milli Park","Doğa","Yeşil Alan","Çevre","Ekoloji"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaman%20Kaz%C4%B1mkarabekir%20Hamam","alt":"Karaman Kazımkarabekir Hamam","caption":"Karaman Kazımkarabekir Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Karaman Kazımkarabekir Hamam","caption":"Karaman Kazımkarabekir Hamam","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaman%20Kaz%C4%B1mkarabekir%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738742","tip":"genel"}]
 description: "Karaman'ın Kazımkarabekir ilçesinde bulunan natural bir plaj"
 keywords: ["Kazımkarabekir","Karaman","İç Anadolu Bölgesi","plaj","doğa","gezi","turizm","Karaman Kazımkarabekir Hamam","Kazımkarabekir plajı"]

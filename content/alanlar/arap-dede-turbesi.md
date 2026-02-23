@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","tarihi keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arap%20Dede%20T%C3%BCrbesi","alt":"Arap Dede Türbesi","caption":"Arap Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Arap Dede Türbesi","caption":"Arap Dede Türbesi","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arap%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391511","tip":"genel"}]
 description: "Ege Bölgesi'nin nazlı ilçesi Nazilli'de bulunan Arap Dede Türbesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar."
 keywords: ["Arap Dede Türbesi","Nazilli","Aydın","Ege Bölgesi","tarih","doğa","gezi","türbe"]

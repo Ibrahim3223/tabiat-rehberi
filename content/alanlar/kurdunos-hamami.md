@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["plaj","doğa yürüyüşleri","güneşlenme","tarih turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurdunos%20Hamam%C4%B1","alt":"Kurdunos Hamamı","caption":"Kurdunos Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yelatan_Alada%C4%9Flar_Lake.jpg/960px-Yelatan_Alada%C4%9Flar_Lake.jpg","alt":"Kurdunos Hamamı","caption":"Kurdunos Hamamı","credit":"Yelatan Aladağlar Lake.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurdunos%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739198","tip":"genel"}]
 description: "Niğde'nin güzide plajlarından biri olan Kurdunos Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Niğde plajları","Kurdunos Hamamı","İç Anadolu Bölgesi","yeşil alan","futbol sahası","plaj","doğa"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaa%C4%9Fa%C3%A7%20K%C3%B6y%C3%BC%20Hamam%C4%B1","alt":"Karaağaç Köyü Hamamı","caption":"Karaağaç Köyü Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Karaağaç Köyü Hamamı","caption":"Karaağaç Köyü Hamamı","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaa%C4%9Fa%C3%A7%20K%C3%B6y%C3%BC%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738790","tip":"genel"}]
 description: "Marmara Bölgesi'nin saklı cenneti, Gölpazarı'nda bulunan Karaağaç Köyü Hamamı."
 keywords: ["Karaağaç Köyü Hamamı","Gölpazarı","Bilecik","Marmara Bölgesi","plaj","doğa","gezi"]

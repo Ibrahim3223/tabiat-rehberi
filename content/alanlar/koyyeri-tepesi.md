@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","tarih investigación","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6yyeri%20Tepesi","alt":"Köyyeri Tepesi","caption":"Köyyeri Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaid%29.pdf/page1-931px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaid%29.pdf.jpg","alt":"Köyyeri Tepesi","caption":"Köyyeri Tepesi","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen00gaid).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6yyeri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210416","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin, Köyyeri Tepesi'ni ziyaret edin ve bölgenin tarihi geçmişi ile zengin flora ve faunasını keşfedin."
 keywords: ["Köyyeri Tepesi","Adana","Akdeniz Bölgesi","doğa","tarih","flora","fauna","gezi","turizm","tepe"]

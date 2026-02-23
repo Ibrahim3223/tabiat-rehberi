@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","manzara seyri","fotoğrafçılık","kültür gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cici%20Da%C4%9F","alt":"Cici Dağ","caption":"Cici Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg","alt":"Cici Dağ","caption":"Cici Dağ","credit":"Kayaözü Creek Valley, Kahramanmaraş 05.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cici%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385900","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Cici Dağ, doğa severlerin keyif alacağı bir destinasyon"
 keywords: ["Kahramanmaraş","Cici Dağ","doğa","gezi","tepe","Akdeniz Bölgesi"]

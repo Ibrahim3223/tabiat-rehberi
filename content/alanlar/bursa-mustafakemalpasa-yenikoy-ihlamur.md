@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet turu","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Mustafakemalpa%C5%9Fa-Yenikoy-Ihlamur","alt":"Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur","caption":"Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf/page1-960px-The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf.jpg","alt":"Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur","caption":"Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur","credit":"The Enterprise 1923-06-07 (IA cssf 001428).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Yenikoy-Ihlamur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227745","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin. Bursa'da yer alan bu milli park, ziyaretçilerini bekliyor."
 keywords: ["Bursa","Marmara Bölgesi","milli park","doğa","gezi","turizm","Bursa-Mustafakemalpaşa-Yenikoy-Ihlamur","Ihlamur","Yenikoy","Mustafakemalpaşa"]

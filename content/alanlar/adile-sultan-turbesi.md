@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî yapıları gezmek","İstanbul'un kültürel mirasını keşfetmek","fotografi yapmak","mimari yapıları incelemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adile%20Sultan%20T%C3%BCrbesi","alt":"Adile Sultan Türbesi","caption":"Adile Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Adile Sultan Türbesi","caption":"Adile Sultan Türbesi","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adile%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q110629469","tip":"genel"}]
 description: "İstanbul'un tarihi mekânlarından biri olan Adile Sultan Türbesi, Marmara Bölgesi'nde yer alıyor."
 keywords: ["Adile Sultan Türbesi","İstanbul","Marmara Bölgesi","tarih","mimari","kültür","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ke%C5%9Fap%C3%A7al%20Da%C4%9F%C4%B1","alt":"Keşapçal Dağı","caption":"Keşapçal Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Karadeniz_Da%C4%9Flar%C4%B1_-_panoramio.jpg/960px-Karadeniz_Da%C4%9Flar%C4%B1_-_panoramio.jpg","alt":"Keşapçal Dağı","caption":"Keşapçal Dağı","credit":"Karadeniz Dağları - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C5%9Fap%C3%A7al%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041424","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerini keşfedin, Keşapçal Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Keşapçal Dağı","Giresun","Dağ","Doğa","Turizm","Giresun Turistik Yerler","Keşapçal Dağı Manzaraları","Giresun Doğal Alanlar","Turistik Destinasyonlar"]

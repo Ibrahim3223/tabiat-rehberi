@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karap%C4%B1nar%20Tepesi","alt":"Karapınar Tepesi","caption":"Karapınar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Karapınar Tepesi","caption":"Karapınar Tepesi","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karap%C4%B1nar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388099","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerini keşfedin. Karapınar Tepesi, Ege Bölgesi'nin önemli noktalarından biri."
 keywords: ["Karapınar Tepesi","Denizli","Ege Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

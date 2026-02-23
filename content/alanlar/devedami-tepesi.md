@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet turu","doğa gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Devedam%C4%B1%20Tepesi","alt":"Devedamı Tepesi","caption":"Devedamı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/U%C3%A7hisar_09_1983_Kitlik_Deresi_Tuffkegelbildung_2_Rinnenerosion.jpg/960px-U%C3%A7hisar_09_1983_Kitlik_Deresi_Tuffkegelbildung_2_Rinnenerosion.jpg","alt":"Devedamı Tepesi","caption":"Devedamı Tepesi","credit":"Uçhisar 09 1983 Kitlik Deresi Tuffkegelbildung 2 Rinnenerosion.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Devedam%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390603","tip":"genel"}]
 description: "Nevşehir'in doğal güzelliklerinden biri olan Devedamı Tepesi, tarihi ve coğrafi açıdan önemli bir nokta"
 keywords: ["Devedamı Tepesi","Nevşehir","İç Anadolu Bölgesi","doğal güzellik","tarih","coğrafya"]

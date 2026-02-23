@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kocako%C3%A7%20Tepesi","alt":"Kocakoç Tepesi","caption":"Kocakoç Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Kocakoç Tepesi","caption":"Kocakoç Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocako%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042257","tip":"genel"}]
 description: "Batman'da yer alan Kocakoç Tepesi, 1200 metre yüksekliğiyle bölgenin önemli doğal güzelliklerinden biri. Doğa severler için ideal bir destinasyon."
 keywords: ["Kocakoç Tepesi","Batman","Dağ","Doğa","Türkiye","Gezi","Seyahat","Yürüyüş","Doğal Alanlar","Batman Turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük ziyaret"
 aktiviteler: ["Denize girme","Güneşlenme","Yürüyüş","Doğa gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karata%C5%9Fl%C4%B1%20Hamam%C4%B1","alt":"Karataşlı Hamamı","caption":"Karataşlı Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Into_all_the_world_%28IA_intoallworl00well%29.pdf/page1-741px-Into_all_the_world_%28IA_intoallworl00well%29.pdf.jpg","alt":"Karataşlı Hamamı","caption":"Karataşlı Hamamı","credit":"Into all the world (IA intoallworl00well).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karata%C5%9Fl%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738446","tip":"genel"}]
 description: "Turhal'da Karadeniz'in güzelliğini keşfedin, Karataşlı Hamamı'nı ziyaret edin."
 keywords: ["Karadeniz","Turhal","Karataşlı Hamamı","plaj","deniz","turizm","gezi","yaz","kumsal"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik yapmak","balık avı","yürüyüş yapmak","fotograf çekebilir"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Burdur%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","alt":"Burdur Gölü Sit Alanı","caption":"Burdur Gölü Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Burdur Gölü Sit Alanı","caption":"Burdur Gölü Sit Alanı","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226680","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Burdur Gölü Sit Alanı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Burdur Gölü","Sit Alanı","İç Anadolu Bölgesi","doğal güzellik","korunan alan","flora","fauna"]

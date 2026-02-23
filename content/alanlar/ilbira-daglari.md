@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ilb%C4%B1ra%20Da%C4%9Flar%C4%B1","alt":"Ilbıra Dağları","caption":"Ilbıra Dağları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Ilbıra Dağları","caption":"Ilbıra Dağları","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ilb%C4%B1ra%20Da%C4%9Flar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q60792859","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Ilbıra Dağları, doğa severler için bir cennet"
 keywords: ["Ilbıra Dağları","Türkiye dağları","doğa turizmi","dağcılık","Türkiye'nin doğal güzellikleri","gezi rehberi","turizm","dağ keşişleri","doğa yürüyüşü"]

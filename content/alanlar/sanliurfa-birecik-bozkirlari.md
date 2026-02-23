@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9EANLIURFA%20B%C4%B0REC%C4%B0K%20BOZKIRLARI","alt":"ŞANLIURFA BİRECİK BOZKIRLARI","caption":"ŞANLIURFA BİRECİK BOZKIRLARI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"ŞANLIURFA BİRECİK BOZKIRLARI","caption":"ŞANLIURFA BİRECİK BOZKIRLARI","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9EANLIURFA%20B%C4%B0REC%C4%B0K%20BOZKIRLARI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229021","tip":"genel"}]
 description: "Şanlıurfa'nın doğal güzelliklerini keşfedin. Bozkırın genişliği ve zengin fauna."
 keywords: ["Şanlıurfa","Birecik Bozkırları","doğa","bozkır","flora","fauna","gezi","turizm"]

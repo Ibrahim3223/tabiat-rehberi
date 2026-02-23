@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","bitki gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adana-Feke-Bahcecik%20Toros%20Kizilagaci","alt":"Adana-Feke-Bahcecik Toros Kizilagaci","caption":"Adana-Feke-Bahcecik Toros Kizilagaci"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/The_New-York_Evangelist_1888-06-14-_Vol_59_Iss_24_%28IA_sim_evangelist-and-religious-review_1888-06-14_59_24%29.pdf/page1-960px-The_New-York_Evangelist_1888-06-14-_Vol_59_Iss_24_%28IA_sim_evangelist-and-religious-review_1888-06-14_59_24%29.pdf.jpg","alt":"Adana-Feke-Bahcecik Toros Kizilagaci","caption":"Adana-Feke-Bahcecik Toros Kizilagaci","credit":"The New-York Evangelist 1888-06-14- Vol 59 Iss 24 (IA sim evangelist-and-religious-review 1888-06-14 59 24).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Feke-Bahcecik%20Toros%20Kizilagaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228459","tip":"genel"}]
 description: "Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken Adana-Feke-Bahcecik Toros Kizilagaci milli parkı"
 keywords: ["Adana","milli park","Toros Kizilagaci","doğal güzellik","tarihi geçmişi","Akdeniz Bölgesi","çevre","ekoloji"]

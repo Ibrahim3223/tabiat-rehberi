@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","mağara gezi","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bo%C4%9Fazc%C4%B1k%20Koyu%20Ma%C4%9Fara%20Sit%20Alan%C4%B1","alt":"Boğazcık Koyu Mağara Sit Alanı","caption":"Boğazcık Koyu Mağara Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Boğazcık Koyu Mağara Sit Alanı","caption":"Boğazcık Koyu Mağara Sit Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bo%C4%9Fazc%C4%B1k%20Koyu%20Ma%C4%9Fara%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226187","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Boğazcık Koyu Mağara Sit Alanı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
 keywords: ["Boğazcık Koyu","Mağara Sit Alanı","İç Anadolu Bölgesi","doğa","flora","fauna","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","balık avı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gen%C3%A7%20K%C3%BCmbeti","alt":"Genç Kümbeti","caption":"Genç Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Genç Kümbeti","caption":"Genç Kümbeti","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gen%C3%A7%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582826","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Genç Kümbeti, ziyaretçilerini büyülüyor"
 keywords: ["Genç Kümbeti","Doğu Anadolu Bölgesi","doğal güzellik","gezi","turizm","Bingöl","Genç","plaj"]

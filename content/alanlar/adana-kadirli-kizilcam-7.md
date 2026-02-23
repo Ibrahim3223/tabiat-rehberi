@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Piknik","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%207","alt":"Adana-Kadirli Kızılçam 7","caption":"Adana-Kadirli Kızılçam 7"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Glendale_Evening_News_1920-02-20_%28IA_cgl_004005%29.pdf/page1-960px-The_Glendale_Evening_News_1920-02-20_%28IA_cgl_004005%29.pdf.jpg","alt":"Adana-Kadirli Kızılçam 7","caption":"Adana-Kadirli Kızılçam 7","credit":"The Glendale Evening News 1920-02-20 (IA cgl 004005).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%207","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227834","tip":"genel"}]
 description: "140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde, Akdeniz Bölgesi'nin önemli doğal alanlarından biri."
 keywords: ["Adana","Kadirli","Kızılçam","Milli Park","Doğal Alan","Akdeniz Bölgesi","Yeşil Alan","Fiziksel Veriler","Tarihçe"]

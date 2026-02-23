@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["manzara izleme","tarihî kalıntıları incelemek","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ber%C3%A7ene%20Tepesi","alt":"Berçene Tepesi","caption":"Berçene Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nature_of_Cappadocia.jpg/960px-Nature_of_Cappadocia.jpg","alt":"Berçene Tepesi","caption":"Berçene Tepesi","credit":"Nature of Cappadocia.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ber%C3%A7ene%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139426","tip":"genel"}]
 description: "Nevşehir'in tarihi ve doğal güzellikleri arasında yer alan Berçene Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Berçene Tepesi","Nevşehir","İç Anadolu Bölgesi","doğa","tarih","gezi","tepe","manzara","çevre"]

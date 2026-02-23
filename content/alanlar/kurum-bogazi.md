@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurum%20Bo%C4%9Faz%C4%B1","alt":"Kurum Boğazı","caption":"Kurum Boğazı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Kurum Boğazı","caption":"Kurum Boğazı","credit":"VallesMarinerisHuge.jpg","license":"Attribution"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurum%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49343003","tip":"genel"}]
 description: "Hatay'da yer alan doğal güzellik, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Kurum Boğazı","Hatay","kanyon","doğal güzellik","yeşil alan","turizm","gezi","seyahat","Hatay gezilecek yerler"]

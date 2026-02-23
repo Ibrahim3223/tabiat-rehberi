@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Hamam gezisi","Yürüyüş","Restoranlarda yemek yeme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=F%C4%B1nd%C4%B1kl%C4%B1%20Hamam%C4%B1","alt":"Fındıklı Hamamı","caption":"Fındıklı Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Fındıklı Hamamı","caption":"Fındıklı Hamamı","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/F%C4%B1nd%C4%B1kl%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738543","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Fındıklı Hamamı, Beyoğlu'nda yer alan bir plaj"
 keywords: ["Fındıklı Hamamı","Beyoğlu","İstanbul","Marmara Bölgesi","plaj","tarihi hamam","deniz","turizm","gezi","yatırlar"]

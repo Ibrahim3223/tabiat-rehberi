@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Panoramik manzara izleme","Tarihi kalıntıları ziyaret etmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Domuzlu%20Tepe","alt":"Domuzlu Tepe","caption":"Domuzlu Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Constantinople_%28IA_constantinople01grosiala%29.pdf/page1-947px-Constantinople_%28IA_constantinople01grosiala%29.pdf.jpg","alt":"Domuzlu Tepe","caption":"Domuzlu Tepe","credit":"Constantinople (IA constantinople01grosiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Domuzlu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389219","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini keşfedin. Marmara Bölgesi'nde bulunan Domuzlu Tepe, ziyaretçilerine benzersiz bir deneyim sunuyor."
 keywords: ["Domuzlu Tepe","İstanbul","Marmara Bölgesi","tarihi mekanlar","doğa yürüyüşü","gezi rehberi","turistik yerler","coğrafya","flora","fauna"]

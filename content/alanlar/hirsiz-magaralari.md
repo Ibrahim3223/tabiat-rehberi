@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C4%B1rs%C4%B1z%20Ma%C4%9Faralar%C4%B1","alt":"Hırsız Mağaraları","caption":"Hırsız Mağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Hırsız Mağaraları","caption":"Hırsız Mağaraları","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1rs%C4%B1z%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319258","tip":"genel"}]
 description: "Diyarbakır'da yer alan Hırsız Mağaraları, jeopark olarak bilinen doğal bir alan. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Hırsız Mağaraları","Diyarbakır","Jeopark","Doğal Alan","Turizm","Gezi","Diyarbakır Gezilecek Yerler","Jeolojik Oluşum","Doğa Harikaları"]

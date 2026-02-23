@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","tarihî kalıntıları ziyaret","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaincir%20Tepesi","alt":"Karaincir Tepesi","caption":"Karaincir Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/G%C3%B6lba%C5%9F%C4%B1%2Cbursa_-_panoramio.jpg/960px-G%C3%B6lba%C5%9F%C4%B1%2Cbursa_-_panoramio.jpg","alt":"Karaincir Tepesi","caption":"Karaincir Tepesi","credit":"Gölbaşı,bursa - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaincir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389129","tip":"genel"}]
 description: "Bursa'da yer alan Karaincir Tepesi, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Karaincir Tepesi","Bursa","Marmara Bölgesi","doğal güzellik","tepe","coğrafya","tarihçe"]

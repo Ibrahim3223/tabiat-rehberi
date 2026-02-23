@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşü","Piknik","Balık Avı","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=YAZIR%20G%C3%96LET%C4%B0","alt":"YAZIR GÖLETİ","caption":"YAZIR GÖLETİ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"YAZIR GÖLETİ","caption":"YAZIR GÖLETİ","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/YAZIR%20G%C3%96LET%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228760","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Yazır Göleti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor."
 keywords: ["Yazır Göleti","İç Anadolu Bölgesi","Doğal Alan","Gölet","Yeşil Cennet"]

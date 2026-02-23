@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6serlik%20Tepesi","alt":"Köserlik Tepesi","caption":"Köserlik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Köserlik Tepesi","caption":"Köserlik Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6serlik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210394","tip":"genel"}]
 description: "Hatay'da bulunan Köserlik Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Köserlik Tepesi","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm"]

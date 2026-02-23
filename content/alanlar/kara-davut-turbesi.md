@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["tarihi mekanları gezmek","plajda dinlenmek","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kara%20Davut%20T%C3%BCrbesi","alt":"Kara Davut Türbesi","caption":"Kara Davut Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Commanders_Digest_1967-09-27-_Vol_3_Iss_77_%28IA_sim_commanders-digest_1967-09-27_3_77%29.pdf/page1-960px-Commanders_Digest_1967-09-27-_Vol_3_Iss_77_%28IA_sim_commanders-digest_1967-09-27_3_77%29.pdf.jpg","alt":"Kara Davut Türbesi","caption":"Kara Davut Türbesi","credit":"Commanders Digest 1967-09-27- Vol 3 Iss 77 (IA sim commanders-digest 1967-09-27 3 77).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Davut%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391612","tip":"genel"}]
 description: "Ankara'nın Beypazarı ilçesinde bulunan Kara Davut Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Kara Davut Türbesi","Beypazarı","Ankara","tarih","doğa","türbe","plaj"]

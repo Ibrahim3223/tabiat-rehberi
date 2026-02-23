@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","deniz suyu etkinlikleri","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9E%C4%B1h%20Muhammed%20Abbari%20T%C3%BCrbesi","alt":"Şıh Muhammed Abbari Türbesi","caption":"Şıh Muhammed Abbari Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Travels_in_Nubia_%28IA_b22017343%29.pdf/page1-912px-Travels_in_Nubia_%28IA_b22017343%29.pdf.jpg","alt":"Şıh Muhammed Abbari Türbesi","caption":"Şıh Muhammed Abbari Türbesi","credit":"Travels in Nubia (IA b22017343).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9E%C4%B1h%20Muhammed%20Abbari%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391720","tip":"genel"}]
 description: "Mersin'de tarihi ve doğal güzelliğin birleştiği bir nokta"
 keywords: ["Şıh Muhammed Abbari Türbesi","Mersin","tarih","doğa","turizm","gezi","plaj","Akdeniz","kültür"]

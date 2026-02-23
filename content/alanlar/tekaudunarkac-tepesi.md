@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["yürüyüş","manzara izleme","doğa fotoğrafçılığı","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Teka%C3%BCd%C3%BCnarkac%20Tepesi","alt":"Tekaüdünarkac Tepesi","caption":"Tekaüdünarkac Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Tekaüdünarkac Tepesi","caption":"Tekaüdünarkac Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Teka%C3%BCd%C3%BCnarkac%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811884","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Tekaüdünarkac Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Tekaüdünarkac Tepesi","İç Anadolu Bölgesi","doğa","tepe","gezi","yürüyüş","manzara","turizm"]

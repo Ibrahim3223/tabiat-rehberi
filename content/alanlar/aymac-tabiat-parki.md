@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","doğa"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ayma%C3%A7%20Tabiat%20Park%C4%B1","alt":"Aymaç Tabiat Parkı","caption":"Aymaç Tabiat Parkı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Suharg%C4%B1_-_panoramio.jpg/960px-Suharg%C4%B1_-_panoramio.jpg","alt":"Aymaç Tabiat Parkı","caption":"Aymaç Tabiat Parkı","credit":"Suhargı - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayma%C3%A7%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Giresun'da yer alan Aymaç Tabiat Parkı, Karadeniz Bölgesi'nin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Aymaç Tabiat Parkı","Giresun","Karadeniz Bölgesi","tabiat parkı","doğa","gezi","turizm"]

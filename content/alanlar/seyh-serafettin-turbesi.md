@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları gezmek","Doğal güzellikleri keşfetmek","Plajları ziyaret etmek","Marmara Denizi'nin güzelliklerini keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20%C5%9Eerafettin%20T%C3%BCrbesi","alt":"Şeyh Şerafettin Türbesi","caption":"Şeyh Şerafettin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"Şeyh Şerafettin Türbesi","caption":"Şeyh Şerafettin Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C5%9Eerafettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391649","tip":"genel"}]
 description: "Yalova'nın en önemli turistik noktalarından biri olan Şeyh Şerafettin Türbesi, Marmara Bölgesi'nde yer alıyor."
 keywords: ["Şeyh Şerafettin Türbesi","Yalova","Marmara Bölgesi","tarihi mekan","turistik nokta","doğal güzellik","plaj","tarih","gezi"]

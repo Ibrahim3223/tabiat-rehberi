@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["denize girmek","doğa yürüyüşü","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eski%20Hamam%2C%20Yenifo%C3%A7a","alt":"Eski Hamam, Yenifoça","caption":"Eski Hamam, Yenifoça"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg","alt":"Eski Hamam, Yenifoça","caption":"Eski Hamam, Yenifoça","credit":"Süzer Sun Dreams Beach 12 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%20Hamam%2C%20Yenifo%C3%A7a","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245830","tip":"genel"}]
 description: "İzmir'in Foça ilçesindeki Yenifoça mahallesinde yer alan Eski Hamam, tarihi ve doğal güzellikleriyle dikkat çeken bir plajdır."
 keywords: ["Foça","Yenifoça","Eski Hamam","İzmir","Ege Bölgesi","plaj","tarih","doğa"]

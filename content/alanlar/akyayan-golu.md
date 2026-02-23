@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akyayan%20G%C3%B6l%C3%BC","alt":"Akyayan Gölü","caption":"Akyayan Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pancratium_maritimum_-_Sea_daffodils_02-1.jpg/960px-Pancratium_maritimum_-_Sea_daffodils_02-1.jpg","alt":"Akyayan Gölü","caption":"Akyayan Gölü","credit":"Pancratium maritimum - Sea daffodils 02-1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akyayan%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30622293","tip":"genel"}]
 description: "Adana'nın Karataş ilçesinde bulunan Akyayan Gölü, doğal güzelliği ve zengin fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Akyayan Gölü","Adana","Karataş","göl","doğa","turizm","gezi","Adana gölleri","Karataş gölleri"]

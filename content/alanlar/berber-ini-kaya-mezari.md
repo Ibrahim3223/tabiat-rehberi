@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotograf çekimi","Yaban hayatı izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Berber%20%C4%B0ni%20Kaya%20Mezar%C4%B1","alt":"Berber İni Kaya Mezarı","caption":"Berber İni Kaya Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Berber İni Kaya Mezarı","caption":"Berber İni Kaya Mezarı","credit":"Muğla - Dalyan - İztuzu Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Berber%20%C4%B0ni%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728174","tip":"genel"}]
 description: "Muğla'nın Milas ilçesinde yer alan Berber İni Kaya Mezarı, tarihi ve doğal güzelliklerinin birleştiği bir destinasyon."
 keywords: ["Berber İni Kaya Mezarı","Milas","Muğla","Ege Bölgesi","kaya mezarı","tarih","doğa"]

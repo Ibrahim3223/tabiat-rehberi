@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa izleme","su sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tirebolu%20Hamam%C4%B1","alt":"Tirebolu Hamamı","caption":"Tirebolu Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Tirebolu Hamamı","caption":"Tirebolu Hamamı","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tirebolu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130640532","tip":"genel"}]
 description: "Tirebolu Hamamı, Giresun'un Tirebolu ilçesinde bulunan bir plaj. 140 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Tirebolu","Giresun","Karadeniz","plaj","yeşil alan","doğa","gezi"]

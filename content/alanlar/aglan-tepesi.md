@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarih gezileri","fotoğrafçılık","yöresel lezzetler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C4%9Flan%20Tepesi","alt":"Ağlan Tepesi","caption":"Ağlan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Erikli.jpg/960px-Erikli.jpg","alt":"Ağlan Tepesi","caption":"Ağlan Tepesi","credit":"Erikli.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Flan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389780","tip":"genel"}]
 description: "Marmara Bölgesi'nde bulunan Ağlan Tepesi, Bilecik'in önemli doğa alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Ağlan Tepesi","Bilecik","Marmara Bölgesi","doğa alanı","yeşil alan","fiziksel veriler","coğrafya"]

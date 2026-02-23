@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara izleme","Tarih öğrenme","Doğa yürüyüşü","Etkinliklere katılma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Genek%20Tepe","alt":"Genek Tepe","caption":"Genek Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Genek Tepe","caption":"Genek Tepe","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Genek%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390456","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerini keşfedin, Genek Tepe'nin mistik atmosferini hissedin"
 keywords: ["Konya","Genek Tepe","Tarih","Doğa","Kültür","Gezi","Turizm","İç Anadolu Bölgesi","Tepe"]

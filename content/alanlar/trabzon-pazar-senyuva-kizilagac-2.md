@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["doğa yürüyüşleri","bitki gözlemi","hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trabzon-Pazar-Senyuva%20Kizilagac%202","alt":"Trabzon-Pazar-Senyuva Kizilagac 2","caption":"Trabzon-Pazar-Senyuva Kizilagac 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sis_da%C4%9F%C4%B1_%287%29.jpg/960px-Sis_da%C4%9F%C4%B1_%287%29.jpg","alt":"Trabzon-Pazar-Senyuva Kizilagac 2","caption":"Trabzon-Pazar-Senyuva Kizilagac 2","credit":"Sis dağı (7).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Pazar-Senyuva%20Kizilagac%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227753","tip":"genel"}]
 description: "Trabzon'un güzide milli parklarından biri olan Trabzon-Pazar-Senyuva Kizilagac 2, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Trabzon","milli park","doğa","gezi","yaban hayatı","flora","fauna","ekoloji","çevre","koruma"]

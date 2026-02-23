@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C3%BCr%C3%BCkg%C3%B6l%20Tepesi","alt":"Çürükgöl Tepesi","caption":"Çürükgöl Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Çürükgöl Tepesi","caption":"Çürükgöl Tepesi","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C3%BCr%C3%BCkg%C3%B6l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819942","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerinden biri olan Çürükgöl Tepesi, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un önemli noktalarından."
 keywords: ["Çürükgöl Tepesi","Doğa","Türkiye","Dağ","Yeşil Alan","İstanbul","Doğa Turizmi","Gezi","Tepeler"]

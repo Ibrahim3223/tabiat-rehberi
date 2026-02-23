@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bezokar","alt":"Bezokar","caption":"Bezokar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Literature_on_wildlife_research_in_the_Madrean_Archipelago%2C_1800s-1994_%28IA_CAT10832892%29.pdf/page1-960px-Literature_on_wildlife_research_in_the_Madrean_Archipelago%2C_1800s-1994_%28IA_CAT10832892%29.pdf.jpg","alt":"Bezokar","caption":"Bezokar","credit":"Literature on wildlife research in the Madrean Archipelago, 1800s-1994 (IA CAT10832892).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bezokar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21210227","tip":"genel"}]
 description: "Muş'ta yer alan Bezokar Dağı, doğal güzelliği ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Bezokar","Muş","Dağ","Doğa","Yeşil","Güzellik","Turizm","Gezi","Seyahat"]

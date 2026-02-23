@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Trekking","Kamp","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adana-Karaisali-Kizildag-Kizilcam","alt":"Adana-Karaisali-Kizildag-Kizilcam","caption":"Adana-Karaisali-Kizildag-Kizilcam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Victoria_Daily_Times_%281920-07-29%29_%28IA_victoriadailytimes19200729%29.pdf/page1-960px-Victoria_Daily_Times_%281920-07-29%29_%28IA_victoriadailytimes19200729%29.pdf.jpg","alt":"Adana-Karaisali-Kizildag-Kizilcam","caption":"Adana-Karaisali-Kizildag-Kizilcam","credit":"Victoria Daily Times (1920-07-29) (IA victoriadailytimes19200729).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Karaisali-Kizildag-Kizilcam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228544","tip":"genel"}]
 description: "Adana'nın Karaisali ilçesinde bulunan Kizildag Milli Parkı, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Adana","Karaisali","Kizildag","Milli Park","Doğa","Turizm","Gezi","Aktivite"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Çevre gezileri","Tarih araştırmaları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahramanmaras-Antakya-Hassa%20Sedir","alt":"Kahramanmaras-Antakya-Hassa Sedir","caption":"Kahramanmaras-Antakya-Hassa Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Kahramanmaras-Antakya-Hassa Sedir","caption":"Kahramanmaras-Antakya-Hassa Sedir","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Antakya-Hassa%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227213","tip":"genel"}]
 description: "Kahramanmaras-Antakya-Hassa Sedir milli parkı, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kahramanmaras","Antakya","Hassa Sedir","milli park","doğal güzellik","tarihi geçmişi"]

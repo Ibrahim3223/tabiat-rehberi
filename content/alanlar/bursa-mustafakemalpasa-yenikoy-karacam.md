@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Mustafakemalpa%C5%9Fa-Yenikoy%20Karacam","alt":"Bursa-Mustafakemalpaşa-Yenikoy Karacam","caption":"Bursa-Mustafakemalpaşa-Yenikoy Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Victoria_Daily_Times_%281923-08-04%29_%28IA_victoriadailytimes19230804%29.pdf/page1-960px-Victoria_Daily_Times_%281923-08-04%29_%28IA_victoriadailytimes19230804%29.pdf.jpg","alt":"Bursa-Mustafakemalpaşa-Yenikoy Karacam","caption":"Bursa-Mustafakemalpaşa-Yenikoy Karacam","credit":"Victoria Daily Times (1923-08-04) (IA victoriadailytimes19230804).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Yenikoy%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227934","tip":"genel"}]
 description: "Marmara Bölgesi'nin gözde milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Bursa","Marmara Bölgesi","milli park","doğa","yeşil alan","turizm","gezi","çevre","ekosistem"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyretme","yaban hayatı izleme","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ha%C3%A7beli%20Tepesi","alt":"Haçbeli Tepesi","caption":"Haçbeli Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Haçbeli Tepesi","caption":"Haçbeli Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ha%C3%A7beli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34921219","tip":"genel"}]
 description: "Osmaniye'nin doğal güzellikleri arasında yer alan Haçbeli Tepesi, Akdeniz Bölgesi'nde ziyaretçilerini bekliyor."
 keywords: ["Haçbeli Tepesi","Osmaniye","Akdeniz Bölgesi","doğa","gezi","turizm","tepe","manzara","yaban hayatı"]

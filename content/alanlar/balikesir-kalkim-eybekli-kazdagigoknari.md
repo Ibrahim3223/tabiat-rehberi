@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bal%C4%B1kesir-%20Kalkim%20Eybekli-Kazdagigoknari","alt":"Balıkesir- Kalkim Eybekli-Kazdagigoknari","caption":"Balıkesir- Kalkim Eybekli-Kazdagigoknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sunset_on_Old_Stone_Bridge.jpg/960px-Sunset_on_Old_Stone_Bridge.jpg","alt":"Balıkesir- Kalkim Eybekli-Kazdagigoknari","caption":"Balıkesir- Kalkim Eybekli-Kazdagigoknari","credit":"Sunset on Old Stone Bridge.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kesir-%20Kalkim%20Eybekli-Kazdagigoknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228097","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severleri bekliyor"
 keywords: ["Balıkesir","Kalkim Eybekli-Kazdagigoknari","Marmara Bölgesi","doğa","milli park","gezi"]

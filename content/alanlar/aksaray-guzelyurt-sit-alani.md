@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aksaray%20G%C3%BCzelyurt%20Sit%20Alan%C4%B1","alt":"Aksaray Güzelyurt Sit Alanı","caption":"Aksaray Güzelyurt Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Aksaray Güzelyurt Sit Alanı","caption":"Aksaray Güzelyurt Sit Alanı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aksaray%20G%C3%BCzelyurt%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226238","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olan Aksaray Güzelyurt Sit Alanı, ziyaretçilerini bekliyor."
 keywords: ["Aksaray","Güzelyurt","Sit Alanı","İç Anadolu Bölgesi","doğal alan","gezi","turizm"]

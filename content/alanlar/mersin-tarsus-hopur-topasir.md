@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Çevre keşifleri","Kuş gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Tarsus%20Hopur%20Topasir","alt":"Mersin-Tarsus Hopur Topasir","caption":"Mersin-Tarsus Hopur Topasir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kad%C4%B1nc%C4%B1k_Valley_23.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_23.jpg","alt":"Mersin-Tarsus Hopur Topasir","caption":"Mersin-Tarsus Hopur Topasir","credit":"Kadıncık Valley 23.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Tarsus%20Hopur%20Topasir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227398","tip":"genel"}]
 description: "Mersin'in Tarsus ilçesinde yer alan Hopur Topasir Milli Parkı, 140 hektarlık geniş bir yeşil alana sahiptir."
 keywords: ["Mersin","Tarsus","Hopur Topasir","Milli Park","Doğa","Yeşil Alan","Ekosistem","Çevre","Turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eevket%20Dingilo%C4%9Flu%20Park%C4%B1","alt":"Şevket Dingiloğlu Parkı","caption":"Şevket Dingiloğlu Parkı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Guide_to_the_nature_treasures_of_New_York_city%3B_American_museum_of_natural_history%2C_New_York_aquarium%2C_New_York_zo%C3%B6logicl_park_and_Botanical_garden%2C_Brooklyn_museum%2C_Botanic_garden_and_Children%27s_%2814800673983%29.jpg/960px-thumbnail.jpg","alt":"Şevket Dingiloğlu Parkı","caption":"Şevket Dingiloğlu Parkı","credit":"Guide to the nature treasures of New York city; American museum of natural history, New York aquarium, New York zoölogicl park and Botanical garden, Brooklyn museum, Botanic garden and Children's (14800673983).jpg","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eevket%20Dingilo%C4%9Flu%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135319513","tip":"genel"}]
 description: "Kırklareli'nin yeşil cenneti, 1200 hektarlık botanik bahçesi"
 keywords: ["Şevket Dingiloğlu Parkı","Kırklareli","botanik bahçesi","yeşil alan","park","doğa","gezi","turizm","Kırklareli ilçesi"]

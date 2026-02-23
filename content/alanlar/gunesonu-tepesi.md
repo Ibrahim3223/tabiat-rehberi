@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik manzara izleme","flora ve fauna gözlemleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCne%C5%9F%C3%B6n%C3%BC%20Tepesi","alt":"Güneşönü Tepesi","caption":"Güneşönü Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Palms_and_pearls_-_or_Scenes_in_Ceylon_%28IA_palmspearlsorsce00waltrich%29.pdf/page1-818px-Palms_and_pearls_-_or_Scenes_in_Ceylon_%28IA_palmspearlsorsce00waltrich%29.pdf.jpg","alt":"Güneşönü Tepesi","caption":"Güneşönü Tepesi","credit":"Palms and pearls - or Scenes in Ceylon (IA palmspearlsorsce00waltrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9F%C3%B6n%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139503","tip":"genel"}]
 description: "Sivas'ın güzide doğa harikası, İç Anadolu Bölgesi'nin önemli tepe noktalarından biri"
 keywords: ["Güneşönü Tepesi","Sivas","İç Anadolu Bölgesi","doğa harikası","tepe","gezi","turizm","coğrafya","flora","fauna"]

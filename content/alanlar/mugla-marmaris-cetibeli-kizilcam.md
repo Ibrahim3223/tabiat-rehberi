@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Bitki ve hayvan gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Marmaris-Cetibeli%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mugla-Marmaris-Cetibeli Kızılçam","caption":"Mugla-Marmaris-Cetibeli Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Marmaris_Cennet_Adas%C4%B1.jpg/960px-Marmaris_Cennet_Adas%C4%B1.jpg","alt":"Mugla-Marmaris-Cetibeli Kızılçam","caption":"Mugla-Marmaris-Cetibeli Kızılçam","credit":"Marmaris Cennet Adası.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Marmaris-Cetibeli%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227444","tip":"genel"}]
 description: "Marmaris'te yer alan Cetibeli Kızılçam Milli Parkı, 140 hektarlık yeşil alanı ve zengin flora faunasıyla dikkat çekiyor."
 keywords: ["Marmaris","Cetibeli Kızılçam","Milli Park","Ege Bölgesi","Muğla","Doğa","Kızılçam"]

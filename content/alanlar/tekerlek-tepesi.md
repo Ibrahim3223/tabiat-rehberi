@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tekerlek%20Tepesi","alt":"Tekerlek Tepesi","caption":"Tekerlek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Tekerlek Tepesi","caption":"Tekerlek Tepesi","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekerlek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390935","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin. Tekerlek Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biridir."
 keywords: ["Kayseri","İç Anadolu Bölgesi","Tekerlek Tepesi","doğa","gezi","turizm","tepe","manzara"]

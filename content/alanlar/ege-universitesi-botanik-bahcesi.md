@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ege%20%C3%9Cniversitesi%20botanik%20bah%C3%A7esi","alt":"Ege Üniversitesi botanik bahçesi","caption":"Ege Üniversitesi botanik bahçesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Guide_to_the_nature_treasures_of_New_York_city%3B_American_museum_of_natural_history%2C_New_York_aquarium%2C_New_York_zo%C3%B6logicl_park_and_Botanical_garden%2C_Brooklyn_museum%2C_Botanic_garden_and_Children%27s_%2814800673983%29.jpg/960px-thumbnail.jpg","alt":"Ege Üniversitesi botanik bahçesi","caption":"Ege Üniversitesi botanik bahçesi","credit":"Guide to the nature treasures of New York city; American museum of natural history, New York aquarium, New York zoölogicl park and Botanical garden, Brooklyn museum, Botanic garden and Children's (14800673983).jpg","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ege%20%C3%9Cniversitesi%20botanik%20bah%C3%A7esi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q5926654","tip":"genel"}]
 description: "Ege Bölgesi'nin en büyük botanik bahçesi, 1200 hektarlık yeşil alanıyla 2500'den fazla bitki türünü barındırıyor"
 keywords: ["Ege Üniversitesi botanik bahçesi","botanik bahçesi","Ege Bölgesi","bitki türleri","yeşil alan","doğa","çevre","turizm","İzmir"]

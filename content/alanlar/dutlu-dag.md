@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "7-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dutlu%20Da%C4%9F","alt":"Dutlu Dağ","caption":"Dutlu Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Dutlu Dağ","caption":"Dutlu Dağ","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dutlu%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568569","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin, Dutlu Dağ'ın heybetli manzaraları ve zengin florası sizi bekliyor."
 keywords: ["Dutlu Dağ","Erzurum","Dağ","Doğa","Turizm","Gezi","Manzara","Flora","Fauna","Trekking"]

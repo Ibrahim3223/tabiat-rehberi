@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Anıt mezarı ziyaret etmek","Niksar'ın tarihi ve kültürel mekanlarını keşfetmek","Doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cahit%20K%C3%BClebi%20An%C4%B1t%20Mezar%C4%B1%2C%20Niksar","alt":"Cahit Külebi Anıt Mezarı, Niksar","caption":"Cahit Külebi Anıt Mezarı, Niksar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Cahit Külebi Anıt Mezarı, Niksar","caption":"Cahit Külebi Anıt Mezarı, Niksar","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cahit%20K%C3%BClebi%20An%C4%B1t%20Mezar%C4%B1%2C%20Niksar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728093","tip":"genel"}]
 description: "Niksar'da bulunan Cahit Külebi Anıt Mezarı, Türk edebiyatının önemli isimlerinden Cahit Külebi'nin anısına dngülmüştür."
 keywords: ["Cahit Külebi","Niksar","Tokat","Karadeniz Bölgesi","Anıt Mezar","Türk Edebiyatı","Şairler","Türk Kültür Mirası"]

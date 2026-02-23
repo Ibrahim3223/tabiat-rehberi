@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçi olmak","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erguvan%20%C3%87elebi%20T%C3%BCrbesi","alt":"Erguvan Çelebi Türbesi","caption":"Erguvan Çelebi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Erguvan Çelebi Türbesi","caption":"Erguvan Çelebi Türbesi","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erguvan%20%C3%87elebi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390897","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerinin buluştuğu nokta"
 keywords: ["Kütahya","Erguvan Çelebi Türbesi","tarih","doğa","gezi","tarihçe","coğrafya","flora","fauna"]

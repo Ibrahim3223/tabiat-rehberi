@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotoğrafçılık","Bisiklet sürme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Bayindir-Golcuk-Karacam","alt":"Izmir-Bayindir-Golcuk-Karacam","caption":"Izmir-Bayindir-Golcuk-Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MOKFC08.jpg/960px-MOKFC08.jpg","alt":"Izmir-Bayindir-Golcuk-Karacam","caption":"Izmir-Bayindir-Golcuk-Karacam","credit":"MOKFC08.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Bayindir-Golcuk-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228809","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. Bayındır, Gölcük, Karacam milli parkı"
 keywords: ["İzmir","Bayındır","Gölcük","Karacam","Milli Park","Doğa","Turizm","Ege Bölgesi","Yeşillik"]

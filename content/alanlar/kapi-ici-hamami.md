@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["denize girme","güneşlenme","piknik yapma","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kap%C4%B1%20%C4%B0%C3%A7i%20Hamam%C4%B1","alt":"Kapı İçi Hamamı","caption":"Kapı İçi Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Kapı İçi Hamamı","caption":"Kapı İçi Hamamı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kap%C4%B1%20%C4%B0%C3%A7i%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739192","tip":"genel"}]
 description: "İstanbula bağlı Beyoğlu ilçesinde bulunan tarihi plaj"
 keywords: ["Kapı İçi Hamamı","Beyoğlu","İstanbul","Marmara Bölgesi","tarihi plaj","deniz","kumsal"]

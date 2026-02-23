@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bahri%20G%C3%B6l%C3%BC","alt":"Bahri Gölü","caption":"Bahri Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lake_Limni_Nature_Park_04.jpg/960px-Lake_Limni_Nature_Park_04.jpg","alt":"Bahri Gölü","caption":"Bahri Gölü","credit":"Lake Limni Nature Park 04.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bahri%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123310246","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerinden biri olan Bahri Gölü, ziyaretçilerini bekliyor. Gölün çevresindeki manzaralar ve doğa harikaları görülmeye değer."
 keywords: ["Bahri Gölü","Türkiye gölleri","doğal alanlar","gezi noktaları","göl gezisi","Türkiye turizmi","doğa harikaları","göl manzaraları","yerel turizm"]

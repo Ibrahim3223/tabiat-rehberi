@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe keşfi","doğa yürüyüşü","fotografcılık","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hafsa%20Hatun%20Hamam%C4%B1","alt":"Hafsa Hatun Hamamı","caption":"Hafsa Hatun Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg/960px-Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg","alt":"Hafsa Hatun Hamamı","caption":"Hafsa Hatun Hamamı","credit":"Wind direction has changed, now wind is coming from the sea - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hafsa%20Hatun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738922","tip":"genel"}]
 description: "İzmir'in Tire ilçesinde yer alan Hafsa Hatun Hamamı, tarihin derinliklerinden gelen bir güzelliği sunar."
 keywords: ["Hafsa Hatun Hamamı","Tire","İzmir","Ege Bölgesi","tarih","doğa","gezi","turizm","kültür"]

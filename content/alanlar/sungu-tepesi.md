@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Yürüyüş","Kampçılık","Dağcılık","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCng%C3%BC%20Tepesi","alt":"Süngü Tepesi","caption":"Süngü Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Süngü Tepesi","caption":"Süngü Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCng%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811309","tip":"genel"}]
 description: "Hakkari'nin doğal güzellikleri arasında yer alan Süngü Tepesi, doğa severlerin ilgi odağı"
 keywords: ["Süngü Tepesi","Hakkari","Doğu Anadolu Bölgesi","Doğa","Tepeler","Dağcılık","Kampçılık","Yürüyüş"]

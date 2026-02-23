@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1%C3%A7anl%C4%B1%20Da%C4%9F","alt":"Sıçanlı Dağ","caption":"Sıçanlı Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/James_Lane_Allen_And_The_Gentell_Tradition_%28IA_jameslaneallenan027851mbp%29.djvu/page1-800px-James_Lane_Allen_And_The_Gentell_Tradition_%28IA_jameslaneallenan027851mbp%29.djvu.jpg","alt":"Sıçanlı Dağ","caption":"Sıçanlı Dağ","credit":"James Lane Allen And The Gentell Tradition (IA jameslaneallenan027851mbp).djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1%C3%A7anl%C4%B1%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34906290","tip":"genel"}]
 description: "Ağrı'da yer alan Sıçanlı Dağ, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Sıçanlı Dağ","Ağrı","Dağ","Trekking","Doğa","Turizm","Ağrı Turistik Yerler","Dağcılık","Doğal Güzellikler"]

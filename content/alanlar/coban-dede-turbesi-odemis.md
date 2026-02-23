@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Yerel yemekleri tatmak","Köyleri gezmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87oban%20Dede%20T%C3%BCrbesi%2C%20%C3%96demi%C5%9F","alt":"Çoban Dede Türbesi, Ödemiş","caption":"Çoban Dede Türbesi, Ödemiş"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg","alt":"Çoban Dede Türbesi, Ödemiş","caption":"Çoban Dede Türbesi, Ödemiş","credit":"Süzer Sun Dreams Beach 12 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87oban%20Dede%20T%C3%BCrbesi%2C%20%C3%96demi%C5%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582192","tip":"genel"}]
 description: "İzmir'in Ödemiş ilçesinde bulunan Çoban Dede Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor. Ege Bölgesi'nin önemli ziyaret noktalarından biri olan bu mekan, hem dinamik bir geçmişe hem de zengin bir ekosisteme sahiptir."
 keywords: ["Çoban Dede Türbesi","Ödemiş","İzmir","Ege Bölgesi","tarih","doğa","turizm","gezi","ziyaret"]

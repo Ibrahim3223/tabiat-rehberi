@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Keşifler","Manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Selima%C4%9F%C4%B1l%C4%B1%20Tepesi","alt":"Selimağılı Tepesi","caption":"Selimağılı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Selimağılı Tepesi","caption":"Selimağılı Tepesi","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Selima%C4%9F%C4%B1l%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390499","tip":"genel"}]
 description: "Konya'nın İç Anadolu Bölgesi'nde yer alanSelimağılı Tepesi, 140 hektarlık yeşil alanı yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Selimağılı Tepesi","Konya","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya"]

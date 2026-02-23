@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1raca%20Da%C4%9F%C4%B1","alt":"Sıraca Dağı","caption":"Sıraca Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Sıraca Dağı","caption":"Sıraca Dağı","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1raca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506436","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, Sıraca Dağı'nın büyüleyici manzaralarını görün."
 keywords: ["Sıraca Dağı","Mersin","Dağ","Doğa","Turizm","Mersin Turistik Yerler","Sıraca Dağı Manzaraları","Mersin Gezi Rehberi","Dağ Trekking"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6ftegedi%C4%9Fi%20Tepesi","alt":"Köftegediği Tepesi","caption":"Köftegediği Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Köftegediği Tepesi","caption":"Köftegediği Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6ftegedi%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210134","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Köftegediği Tepesi, Gaziantep'in doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Köftegediği Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","doğa","gezi","tepe","manzara","tarihçe","coğrafya"]

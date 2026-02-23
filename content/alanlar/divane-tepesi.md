@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin etrafındaki tarihi eserleri keşfetmek","Doğal güzellikleri keşfetmek","Fauna ve flora çeşitliliğini keşfetmek","Şehrin panoramik manzarasını izlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Divane%20Tepesi","alt":"Divane Tepesi","caption":"Divane Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Divane Tepesi","caption":"Divane Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Divane%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388561","tip":"genel"}]
 description: "Erzurum'un doğusunda yer alan Divane Tepesi, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir."
 keywords: ["Doğu Anadolu Bölgesi","Erzurum","Divane Tepesi","coğrafya","tarihçe","flora","fauna","ziyaret"]

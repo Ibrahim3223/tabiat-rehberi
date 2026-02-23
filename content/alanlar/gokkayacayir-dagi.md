@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6kkaya%C3%A7ay%C4%B1r%20Da%C4%9F%C4%B1","alt":"Gökkayaçayır Dağı","caption":"Gökkayaçayır Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HEARING_TO_REVIEW_THE_NATIONAL_FOREST_SYSTEM_AND_ACTIVE_FOREST_MANAGEMENT_%28IA_gov.gpo.fdsys.CHRG-114hhrg94655%29.pdf/page1-960px-HEARING_TO_REVIEW_THE_NATIONAL_FOREST_SYSTEM_AND_ACTIVE_FOREST_MANAGEMENT_%28IA_gov.gpo.fdsys.CHRG-114hhrg94655%29.pdf.jpg","alt":"Gökkayaçayır Dağı","caption":"Gökkayaçayır Dağı","credit":"HEARING TO REVIEW THE NATIONAL FOREST SYSTEM AND ACTIVE FOREST MANAGEMENT (IA gov.gpo.fdsys.CHRG-114hhrg94655).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kkaya%C3%A7ay%C4%B1r%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872138","tip":"genel"}]
 description: "Konya'da yer alan Gökkayaçayır Dağı, doğa severler için önemli bir destinasyon. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Gökkayaçayır Dağı","Konya","Dağ","Doğa","Turizm","Gezi","Konya Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kamp","fotografcılık","bitki gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Faso%20%C5%9Eelalesi","alt":"Faso Şelalesi","caption":"Faso Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kursunlu_Waterfall_Nature_Park_in_city_of_Antalya.jpg/960px-Kursunlu_Waterfall_Nature_Park_in_city_of_Antalya.jpg","alt":"Faso Şelalesi","caption":"Faso Şelalesi","credit":"Kursunlu Waterfall Nature Park in city of Antalya.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Faso%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q112748145","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Faso Şelalesi. 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Faso Şelalesi","İç Anadolu Bölgesi","şelale","doğa","gezi","turizm","yeşil alan","futbol sahası"]

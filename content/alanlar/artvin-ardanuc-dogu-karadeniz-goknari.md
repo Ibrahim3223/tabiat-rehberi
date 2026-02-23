@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","doğa"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artvin-Ardanuc-Dogu%20Karadeniz%20Goknari","alt":"Artvin-Ardanuc-Dogu Karadeniz Goknari","caption":"Artvin-Ardanuc-Dogu Karadeniz Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg/960px-City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg","alt":"Artvin-Ardanuc-Dogu Karadeniz Goknari","caption":"Artvin-Ardanuc-Dogu Karadeniz Goknari","credit":"City of Artvin, Borçka Karagöl.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Ardanuc-Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227583","tip":"genel"}]
 description: "Doğu Karadeniz'in gizli cenneti, Artvin'in doğal güzellikleri ve tarihi zenginlikleriyle dolu bir milli park."
 keywords: ["Artvin","Ardanuc","Doğu Karadeniz","Gökneri","milli park","doğa","tarih","gezi"]

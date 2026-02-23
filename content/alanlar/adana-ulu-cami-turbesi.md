@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî mekanları keşfetmek","Doğa yürüyüşü","Fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adana%20Ulu%20Cami%20T%C3%BCrbesi","alt":"Adana Ulu Cami Türbesi","caption":"Adana Ulu Cami Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Adana Ulu Cami Türbesi","caption":"Adana Ulu Cami Türbesi","credit":"Harbiş Sahili, Karataş - Adana 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana%20Ulu%20Cami%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582628","tip":"genel"}]
 description: "Adana'nın tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Adana","Ulu Cami","Türbe","Seyhan","Akdeniz Bölgesi","Tarih","Kültür","Mimari"]

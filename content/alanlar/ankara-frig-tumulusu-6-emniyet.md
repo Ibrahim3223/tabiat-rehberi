@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları keşfetmek","Doğal güzellikleri görmek","Bitki ve hayvan gözlemciliği yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%206%2C%20Emniyet","alt":"Ankara Frig Tümülüsü 6, Emniyet","caption":"Ankara Frig Tümülüsü 6, Emniyet"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf/page1-960px-State_August-September_1981-_Iss_281_%28IA_sim_state-magazine_august-september-1981_281%29.pdf.jpg","alt":"Ankara Frig Tümülüsü 6, Emniyet","caption":"Ankara Frig Tümülüsü 6, Emniyet","credit":"State August-September 1981- Iss 281 (IA sim state-magazine august-september-1981 281).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%206%2C%20Emniyet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728286","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. 140 hektarlık bir alan üzerinde kurulmuş bu önemli tümülüs, ziyaretçilerine zengin bir tarih ve doğa deneyimi sunuyor."
 keywords: ["Ankara","Frig","Tümülüs","Emniyet","Tarih","Doğa","Yenimahalle","İç Anadolu Bölgesi"]

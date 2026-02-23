@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin etrafında yürüyüş yapmak","Mardin'in panoramik görünümünü izlemek","Tarihi değerleri keşfetmek","Doğal güzellikleri fotoğraflamak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ke%C5%9Fa%20Tepe","alt":"Keşa Tepe","caption":"Keşa Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Medical_Heritage_Library_%28IA_b22027300%29.pdf/page1-733px-Medical_Heritage_Library_%28IA_b22027300%29.pdf.jpg","alt":"Keşa Tepe","caption":"Keşa Tepe","credit":"Medical Heritage Library (IA b22027300).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C5%9Fa%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386865","tip":"genel"}]
 description: "Mardin'in tarihi değerleri arasında yer alan Keşa Tepe, ziyaretçilerini geçmişe götürüyor."
 keywords: ["Keşa Tepe","Mardin","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","doğa","ziyaret","etkinlikler"]

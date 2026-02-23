@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları incelemek","Doğa güzelliklerini keşfetmek","Tokat'ın kültürel mirasını deneyimlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Murat%20Sevd%C3%A2k%C3%A2r%20T%C3%BCrbesi","alt":"Murat Sevdâkâr Türbesi","caption":"Murat Sevdâkâr Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/New_England_Spectator_%28IA_1d9e19f8-014d-42a1-8f57-29a8de969664%29.pdf/page1-960px-New_England_Spectator_%28IA_1d9e19f8-014d-42a1-8f57-29a8de969664%29.pdf.jpg","alt":"Murat Sevdâkâr Türbesi","caption":"Murat Sevdâkâr Türbesi","credit":"New England Spectator (IA 1d9e19f8-014d-42a1-8f57-29a8de969664).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Murat%20Sevd%C3%A2k%C3%A2r%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391508","tip":"genel"}]
 description: "Tokat'ta tarihi ve doğal güzelliklerin buluştuğu Murat Sevdâkâr Türbesi'ni keşfedin"
 keywords: ["Murat Sevdâkâr Türbesi","Tokat","Karadeniz Bölgesi","tarihi mekanlar","doğa güzellikleri","gezi rehberi","türk kültürü","tarihçe","coğrafya"]

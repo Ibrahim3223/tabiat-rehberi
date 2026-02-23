@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","picnic","fotografçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCk%20Hamam%2C%20%C3%96demi%C5%9F","alt":"Büyük Hamam, Ödemiş","caption":"Büyük Hamam, Ödemiş"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg/960px-Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg","alt":"Büyük Hamam, Ödemiş","caption":"Büyük Hamam, Ödemiş","credit":"Wind direction has changed, now wind is coming from the sea - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Hamam%2C%20%C3%96demi%C5%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245842","tip":"genel"}]
 description: "İzmir'in Ödemiş ilçesinde yer alan Büyük Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Ödemiş","İzmir","Ege Bölgesi","doğal alanlar","yeşil alanlar","turizm","gezi"]

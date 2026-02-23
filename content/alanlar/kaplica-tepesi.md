@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["ormanlık alanda yürüyüş","tepeye tırmanmak","manzara seyretmek","geleneksel köy yaşamını deneyimlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kapl%C4%B1ca%20Tepesi","alt":"Kaplıca Tepesi","caption":"Kaplıca Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Paolo_Monti_-_Serie_fotografica_%28T%C3%BCrkiye%2C_1962%29_-_BEIC_6333361.jpg/960px-Paolo_Monti_-_Serie_fotografica_%28T%C3%BCrkiye%2C_1962%29_-_BEIC_6333361.jpg","alt":"Kaplıca Tepesi","caption":"Kaplıca Tepesi","credit":"Paolo Monti - Serie fotografica (Türkiye, 1962) - BEIC 6333361.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kapl%C4%B1ca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31565988","tip":"genel"}]
 description: "İstanbul'un Marmara Bölgesi'nde yer alan Kaplıca Tepesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini cezbediyor."
 keywords: ["Kaplıca Tepesi","İstanbul","Marmara Bölgesi","yeşil alan","turistik yerler","coğrafya","flora","fauna","ziyaret"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarih gezisi","Bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kafda%C4%9F%C4%B1%20Tepesi","alt":"Kafdağı Tepesi","caption":"Kafdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_land_of_the_Hittites%3B_an_account_of_recent_explorations_and_discoveries_in_Asia_Minor%2C_with_descriptions_of_the_Hittite_monuments_%28IA_cu31924028539736%29.pdf/page1-716px-The_land_of_the_Hittites%3B_an_account_of_recent_explorations_and_discoveries_in_Asia_Minor%2C_with_descriptions_of_the_Hittite_monuments_%28IA_cu31924028539736%29.pdf.jpg","alt":"Kafdağı Tepesi","caption":"Kafdağı Tepesi","credit":"The land of the Hittites; an account of recent explorations and discoveries in Asia Minor, with descriptions of the Hittite monuments (IA cu31924028539736).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kafda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391122","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin Sivas şehrinde yer alan Kafdağı Tepesi, bölge’nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Kafdağı Tepesi","Sivas","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Tarihi mekanları gezme","Doğayı seyretme","Fotograf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuyucu%20Murat%20Pa%C5%9Fa%20T%C3%BCrbesi","alt":"Kuyucu Murat Paşa Türbesi","caption":"Kuyucu Murat Paşa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Kuyucu Murat Paşa Türbesi","caption":"Kuyucu Murat Paşa Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyucu%20Murat%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391155","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Kuyucu Murat Paşa Türbesi, Fatih ilçesinde bulunur. Bu mekan, İstanbul'un zengin tarihinin bir parçasıdır."
 keywords: ["Kuyucu Murat Paşa","Türbe","Fatih","İstanbul","Tarih","Mimarlık","Kültür","Gezi","Türkiye"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı"," piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kudavas%20%C5%9Eelalesi","alt":"Kudavas Şelalesi","caption":"Kudavas Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%C3%87al_Ma%C4%9Faras%C4%B18.jpg/960px-%C3%87al_Ma%C4%9Faras%C4%B18.jpg","alt":"Kudavas Şelalesi","caption":"Kudavas Şelalesi","credit":"Çal Mağarası8.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kudavas%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130367228","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde Trabzon'da yer alan Kudavas Şelalesi, doğa severlerin ziyaret ettiği bir destinasyon."
 keywords: ["Kudavas Şelalesi","Trabzon","Karadeniz Bölgesi","doğa","şelale","gezi","turizm"]

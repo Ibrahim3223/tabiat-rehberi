@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9C%C3%A7h%C3%B6y%C3%BCkler%20Tepesi","alt":"Üçhöyükler Tepesi","caption":"Üçhöyükler Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Üçhöyükler Tepesi","caption":"Üçhöyükler Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7h%C3%B6y%C3%BCkler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810115","tip":"genel"}]
 description: "Yozgat'ın İç Anadolu Bölgesi'nde yer alan doğal güzellik"
 keywords: ["Üçhöyükler Tepesi","Yozgat","İç Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","tarihçe","flora","fauna"]

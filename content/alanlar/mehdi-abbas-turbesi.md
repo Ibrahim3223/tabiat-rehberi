@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotograf çekimi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mehdi%20Abbas%20T%C3%BCrbesi","alt":"Mehdi Abbas Türbesi","caption":"Mehdi Abbas Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Mehdi Abbas Türbesi","caption":"Mehdi Abbas Türbesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehdi%20Abbas%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582831","tip":"genel"}]
 description: "Erzurum'un Yakutiye ilçesinde bulunan tarihi ve doğal güzellikleri bir arada sunan Mehdi Abbas Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Mehdi Abbas Türbesi","Erzurum","Yakutiye","tarih","doğa","yeşil alan","turizm","gezi","türbe"]

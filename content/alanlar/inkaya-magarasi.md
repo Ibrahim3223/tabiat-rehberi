@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0nkaya%20Ma%C4%9Faras%C4%B1","alt":"İnkaya Mağarası","caption":"İnkaya Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf/page1-629px-Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf.jpg","alt":"İnkaya Mağarası","caption":"İnkaya Mağarası","credit":"Letters from the Aegean (IA lettersfromaegea01tenn).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0nkaya%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q18165020","tip":"genel"}]
 description: "İzmir'in Güzelbahçe ilçesinde bulunan İnkaya Mağarası, 1200 hektarlık yeşil alan içinde yer alır ve doğa severler için önemli bir destinasyondur."
 keywords: ["İnkaya Mağarası","İzmir","Güzelbahçe","mağara","doğa","gezi","turizm","İzmir turistik yerler","Güzelbahçe gezilecek yerler"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","kamp","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Unye-Kumru%20Dogu%20Kayini","alt":"Giresun-Unye-Kumru Dogu Kayini","caption":"Giresun-Unye-Kumru Dogu Kayini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sis_da%C4%9F%C4%B1_%285%29.jpg/960px-Sis_da%C4%9F%C4%B1_%285%29.jpg","alt":"Giresun-Unye-Kumru Dogu Kayini","caption":"Giresun-Unye-Kumru Dogu Kayini","credit":"Sis dağı (5).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Unye-Kumru%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227791","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan bu milli park, 140 hektarlık bir alana yayılmaktadır."
 keywords: ["Giresun","Unye","Kumru","Dogu Kayini","milli park","Karadeniz Bölgesi","doğa","çevre","ekosistem"]

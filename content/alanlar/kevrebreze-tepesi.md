@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa Yürüyüşü","Fotoğraf Çekme","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kevrebreze%20Tepesi","alt":"Kevrebreze Tepesi","caption":"Kevrebreze Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Kevrebreze Tepesi","caption":"Kevrebreze Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kevrebreze%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31543295","tip":"genel"}]
 description: "Diyarbakır'da bulunan Kevrebreze Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon"
 keywords: ["Kevrebreze Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

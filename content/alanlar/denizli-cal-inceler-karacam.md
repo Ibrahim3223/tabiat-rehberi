@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Denizli-Cal-Inceler%20Karacam","alt":"Denizli-Cal-Inceler Karacam","caption":"Denizli-Cal-Inceler Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/California_Digital_Library_%28IA_smyrnafigathomea00roedrich%29.pdf/page1-939px-California_Digital_Library_%28IA_smyrnafigathomea00roedrich%29.pdf.jpg","alt":"Denizli-Cal-Inceler Karacam","caption":"Denizli-Cal-Inceler Karacam","credit":"California Digital Library (IA smyrnafigathomea00roedrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cal-Inceler%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227498","tip":"genel"}]
 description: "Denizli'de yer alan milli park, Ege Bölgesi'nin doğal güzelliklerini sunar"
 keywords: ["Denizli","Cal","Inceler Karacam","milli park","Ege Bölgesi","doğal alan","çevre","ekosistem","flora","fauna"]

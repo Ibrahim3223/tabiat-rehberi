@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kar%C5%9F%C4%B1k%C4%B1ran%20Tepesi","alt":"Karşıkıran Tepesi","caption":"Karşıkıran Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf/page1-960px-FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf.jpg","alt":"Karşıkıran Tepesi","caption":"Karşıkıran Tepesi","credit":"FEDLINK - United States Federal Collection (IA keepingcurrentnd109453799).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kar%C5%9F%C4%B1k%C4%B1ran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516924","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerinden biri olan Karşıkıran Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Karşıkıran Tepesi","Konya","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCntepe","alt":"Güntepe","caption":"Güntepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rocky_Mountain_adventures_%28IA_rockymountainadv00shel%29.pdf/page1-618px-Rocky_Mountain_adventures_%28IA_rockymountainadv00shel%29.pdf.jpg","alt":"Güntepe","caption":"Güntepe","credit":"Rocky Mountain adventures (IA rockymountainadv00shel).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCntepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873356","tip":"genel"}]
 description: "Van'da bulunan Güntepe, doğal güzelliği ve trekking rotalarıyla dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Güntepe","Van","Dağ","Doğa","Trekking","Yeşil Alan","Turizm","Gezi","Doğal Güzellik"]

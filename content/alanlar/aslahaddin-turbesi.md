@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["tarihçi olmak","doğa yürüyüşü","fotografcılık","mimari incelemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aslahaddin%20T%C3%BCrbesi","alt":"Aslahaddin Türbesi","caption":"Aslahaddin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Aslahaddin Türbesi","caption":"Aslahaddin Türbesi","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aslahaddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390712","tip":"genel"}]
 description: "Bolu ilinin merkezinde bulunan tarihi bir mekan"
 keywords: ["Bolu","tarih","türbe","Aslahaddin","Karadeniz Bölgesi","Bolu il merkezi","tarihi mekanlar","gezi noktaları","kültür varlıkları"]

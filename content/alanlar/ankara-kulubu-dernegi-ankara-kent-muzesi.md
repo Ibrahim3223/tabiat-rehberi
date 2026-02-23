@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Bahçe turu","Rehberli tur","Eğitim programları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara%20Kul%C3%BCb%C3%BC%20Derne%C4%9Fi%20Ankara%20Kent%20M%C3%BCzesi","alt":"Ankara Kulübü Derneği Ankara Kent Müzesi","caption":"Ankara Kulübü Derneği Ankara Kent Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Ankara Kulübü Derneği Ankara Kent Müzesi","caption":"Ankara Kulübü Derneği Ankara Kent Müzesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Kul%C3%BCb%C3%BC%20Derne%C4%9Fi%20Ankara%20Kent%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950098","tip":"genel"}]
 description: "Ankara'nın kalbinde, tarihi ve kültürel zenginliklerini keşfedin. Ankara Kulübü Derneği Ankara Kent Müzesi'ni ziyaret edin."
 keywords: ["Ankara","Kent Müzesi","Tarih","Kültür","Müze","Ankara Kulübü Derneği","Ankara Kent Müzesi","Ziyaret","Gezi"]

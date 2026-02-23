@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%BCr%C3%BCkemin%20Tepesi","alt":"Yürükemin Tepesi","caption":"Yürükemin Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg","alt":"Yürükemin Tepesi","caption":"Yürükemin Tepesi","credit":"The Landscape of Çorum Sıklık.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCkemin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196210","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Çorum'un doğa harikası"
 keywords: ["Yürükemin Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","çevre","ekoloji"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bal%C4%B1kesir-Bigadic-Aktuzla-Karacam","alt":"Balıkesir-Bigadic-Aktuzla-Karacam","caption":"Balıkesir-Bigadic-Aktuzla-Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kartalcimen.jpg/960px-Kartalcimen.jpg","alt":"Balıkesir-Bigadic-Aktuzla-Karacam","caption":"Balıkesir-Bigadic-Aktuzla-Karacam","credit":"Kartalcimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kesir-Bigadic-Aktuzla-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228286","tip":"genel"}]
 description: "Balıkesir-Bigadic-Aktuzla-Karacam milli parkı, Marmara Bölgesi'nin doğal güzelliklerini sunar."
 keywords: ["Balıkesir","milli park","Marmara Bölgesi","doğa","gezi","turizm","çevre","ekosistem"]

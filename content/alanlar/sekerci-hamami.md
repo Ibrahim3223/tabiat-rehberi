@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denizin keyfini çıkarmak","Güneşin tadını çıkarmak","Doğanın güzelliğini izlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eekerci%20Hamam%C4%B1","alt":"Şekerci Hamamı","caption":"Şekerci Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg","alt":"Şekerci Hamamı","caption":"Şekerci Hamamı","credit":"Süzer Sun Dreams Beach 8 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eekerci%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738980","tip":"genel"}]
 description: "İzmir'in Çeşme ilçesinde yer alan Şekerci Hamamı, doğal güzelliği ve tarihi geçmişi ile dikkat çekiyor."
 keywords: ["Şekerci Hamamı","Çeşme","İzmir","doğa","tarih","gezi","plaj","Ege Bölgesi"]

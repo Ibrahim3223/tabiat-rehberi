@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=ED%C4%B0RNE%20KENT%20ORMANI%20(S%C3%96%C4%9E%C3%9CTL%C3%9CK)","alt":"EDİRNE KENT ORMANI (SÖĞÜTLÜK)","caption":"EDİRNE KENT ORMANI (SÖĞÜTLÜK)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"EDİRNE KENT ORMANI (SÖĞÜTLÜK)","caption":"EDİRNE KENT ORMANI (SÖĞÜTLÜK)","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ED%C4%B0RNE%20KENT%20ORMANI%20(S%C3%96%C4%9E%C3%9CTL%C3%9CK)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228901","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Edirne Kent Ormanı, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Edirne Kent Ormanı","Söğütlük","İç Anadolu Bölgesi","doğa","orman","gezi","turizm","çevre","ekoloji"]

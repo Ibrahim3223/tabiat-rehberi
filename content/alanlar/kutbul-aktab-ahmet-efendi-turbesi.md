@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğal güzellikleri keşfetmek","Tarihi eserleri incelemek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kutbul%20Aktab%20Ahmet%20Efendi%20T%C3%BCrbesi","alt":"Kutbul Aktab Ahmet Efendi Türbesi","caption":"Kutbul Aktab Ahmet Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Kutbul Aktab Ahmet Efendi Türbesi","caption":"Kutbul Aktab Ahmet Efendi Türbesi","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutbul%20Aktab%20Ahmet%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390494","tip":"genel"}]
 description: "Karaman'ın Başyayla ilçesinde yer alan Kutbul Aktab Ahmet Efendi Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Kutbul Aktab Ahmet Efendi Türbesi","Başyayla","Karaman","tarih","doğa","türbe","gezi","seyahat","İç Anadolu Bölgesi"]

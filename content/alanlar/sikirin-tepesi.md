@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kuş gözlemciliği","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9E%C4%B1k%C4%B1r%C4%B1n%20Tepesi","alt":"Şıkırın Tepesi","caption":"Şıkırın Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_historicalsketch00step%29.pdf/page1-654px-Historical_sketch_of_Armenia_and_the_Armenians_in_ancient_and_modern_times_%28IA_historicalsketch00step%29.pdf.jpg","alt":"Şıkırın Tepesi","caption":"Şıkırın Tepesi","credit":"Historical sketch of Armenia and the Armenians in ancient and modern times (IA historicalsketch00step).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9E%C4%B1k%C4%B1r%C4%B1n%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389243","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Şıkırın Tepesi'ni keşfedin!"
 keywords: ["Şıkırın Tepesi","Bitlis","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

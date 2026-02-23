@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî ve kültürel deneyim","Doğa yürüyüşü","Manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sinan-%C4%B1%20%C3%9Cmmi%20T%C3%BCrbesi","alt":"Sinan-ı Ümmi Türbesi","caption":"Sinan-ı Ümmi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Sinan-ı Ümmi Türbesi","caption":"Sinan-ı Ümmi Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinan-%C4%B1%20%C3%9Cmmi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390682","tip":"genel"}]
 description: "Elmalı, Antalya'da bulunan Sinan-ı Ümmi Türbesi, tarihsel ve kültürel öneme sahip bir mekân."
 keywords: ["Sinan-ı Ümmi","Türbe","Elmalı","Antalya","Tarih","Kültür","Mekân","Gezi"]

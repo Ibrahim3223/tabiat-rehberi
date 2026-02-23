@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Geriziyaret%20Tepesi","alt":"Geriziyaret Tepesi","caption":"Geriziyaret Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Geriziyaret Tepesi","caption":"Geriziyaret Tepesi","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geriziyaret%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387651","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin en güzel tepe noktalarından biri"
 keywords: ["Van","Doğu Anadolu Bölgesi","tepe","doğa","gezi","tarih","coğrafya","flora","fauna"]

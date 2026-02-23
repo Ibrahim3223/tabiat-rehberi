@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mollasadi%20Da%C4%9F%C4%B1","alt":"Mollasadi Dağı","caption":"Mollasadi Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf/page1-960px-Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf.jpg","alt":"Mollasadi Dağı","caption":"Mollasadi Dağı","credit":"Diary of H. M. Van Deusen January 29, 1953 to November 17, 1953 (IA diaryhmvandeuse00vanda).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mollasadi%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510241","tip":"genel"}]
 description: "Van'da yer alan Mollasadi Dağı, doğal güzellikleri ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Mollasadi Dağı","Van","Dağ","Doğa","Yeşil Alan","İstanbul","Turizm","Seyahat","Gezi","Doğal Güzellik"]

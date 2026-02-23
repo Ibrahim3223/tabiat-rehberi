@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografcılık","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hasanbargut%20Tepesi","alt":"Hasanbargut Tepesi","caption":"Hasanbargut Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New-Dark_Evangelist_1871-04-13-_Vol_42_Iss_15_%28IA_sim_evangelist-and-religious-review_1871-04-13_42_15%29.pdf/page1-960px-New-Dark_Evangelist_1871-04-13-_Vol_42_Iss_15_%28IA_sim_evangelist-and-religious-review_1871-04-13_42_15%29.pdf.jpg","alt":"Hasanbargut Tepesi","caption":"Hasanbargut Tepesi","credit":"New-Dark Evangelist 1871-04-13- Vol 42 Iss 15 (IA sim evangelist-and-religious-review 1871-04-13 42 15).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasanbargut%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551235","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini bir araya getiren Hasanbargut Tepesi"
 keywords: ["Mardin","Hasanbargut Tepesi","Güneydoğu Anadolu Bölgesi","doğa","tarih","coğrafya","flora","fauna","ziyaret"]

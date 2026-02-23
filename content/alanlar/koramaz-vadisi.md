@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koramaz%20Vadisi","alt":"Koramaz Vadisi","caption":"Koramaz Vadisi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Koramaz Vadisi","caption":"Koramaz Vadisi","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koramaz%20Vadisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6005258","tip":"genel"}]
 description: "Kayseri'nin Melikgazi ilçesinde bulunan Koramaz Vadisi, 1200 hektarlık yeşil cenneti ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Koramaz Vadisi","Kayseri","Melikgazi","kanyon","doğa","turizm","gezi","yürüyüş","kaya tırmanışı","doğal güzellik"]

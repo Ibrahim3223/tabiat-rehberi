@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","trekking","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kusba%20Tepesi","alt":"Kusba Tepesi","caption":"Kusba Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Trabzon_Sultan_Murat_Yaylas%C4%B1_Yolu.jpg/960px-Trabzon_Sultan_Murat_Yaylas%C4%B1_Yolu.jpg","alt":"Kusba Tepesi","caption":"Kusba Tepesi","credit":"Trabzon Sultan Murat Yaylası Yolu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kusba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31562807","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerinden biri olan Kusba Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kusba Tepesi","Trabzon","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

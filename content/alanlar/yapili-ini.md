@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yap%C4%B1l%C4%B1%20%C4%B0ni","alt":"Yapılı İni","caption":"Yapılı İni"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Yapılı İni","caption":"Yapılı İni","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yap%C4%B1l%C4%B1%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319879","tip":"genel"}]
 description: "Mersin'de yer alan Yapılı İni, 1200 hektarlık bir jeopark alanıdır. Doğal güzellikleri ve jeolojik oluşumlarıyla dikkat çeker."
 keywords: ["Yapılı İni","Mersin","Jeopark","Doğal Alan","Turizm","Gezi","Mersin Gezilecek Yerler","Jeolojik Oluşumlar","Doğa"]

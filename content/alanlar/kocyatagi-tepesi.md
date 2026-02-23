@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Tarihi Yerleri Ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ko%C3%A7yata%C4%9F%C4%B1%20Tepesi","alt":"Koçyatağı Tepesi","caption":"Koçyatağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Armenians%2C_or_The_people_of_Ararat_%28IA_armeniansorpeopl00gabr%29.pdf/page1-675px-The_Armenians%2C_or_The_people_of_Ararat_%28IA_armeniansorpeopl00gabr%29.pdf.jpg","alt":"Koçyatağı Tepesi","caption":"Koçyatağı Tepesi","credit":"The Armenians, or The people of Ararat (IA armeniansorpeopl00gabr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7yata%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32200912","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Koçyatağı Tepesi, Bitlis'in doğal güzelliklerini sunuyor."
 keywords: ["Koçyatağı Tepesi","Bitlis","Doğu Anadolu Bölgesi","Doğal Alan","Tepeler","Coğrafya","Flora","Fauna","Ziyaret"]

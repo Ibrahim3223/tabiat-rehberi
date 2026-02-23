@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Yigilca-Bogabeli%20Dogu%20Kayini%201","alt":"Bolu-Yigilca-Bogabeli Dogu Kayini 1","caption":"Bolu-Yigilca-Bogabeli Dogu Kayini 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Abant_Lake_Nature_Park.jpg/960px-Abant_Lake_Nature_Park.jpg","alt":"Bolu-Yigilca-Bogabeli Dogu Kayini 1","caption":"Bolu-Yigilca-Bogabeli Dogu Kayini 1","credit":"Abant Lake Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Yigilca-Bogabeli%20Dogu%20Kayini%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227779","tip":"genel"}]
 description: "Bolu'nun doğa harikası milli parkı, yaban hayatı ve yeşilin buluşma noktası"
 keywords: ["Bolu","milli park","yaban hayatı","doğa","yeşil","gezi","turizm","Karadeniz Bölgesi","Bogabeli"]

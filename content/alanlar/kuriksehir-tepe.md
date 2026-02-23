@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCrik%C5%9Fehir%20Tepe","alt":"Kürikşehir Tepe","caption":"Kürikşehir Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Kürikşehir Tepe","caption":"Kürikşehir Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCrik%C5%9Fehir%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042832","tip":"genel"}]
 description: "Şırnak'ta bulunan Kürikşehir Tepe, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Kürikşehir Tepe","Şırnak","Dağ","Doğa","Türkiye","Gezi","Seyahat","Şırnak gezilecek yerler","Doğa yürüyüşü"]

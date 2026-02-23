@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Badir%20Ini","alt":"Badir Ini","caption":"Badir Ini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Badir Ini","caption":"Badir Ini","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Badir%20Ini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319052","tip":"genel"}]
 description: "Mersin'de yer alan Badir Ini jeopark, 1200 hektarlık yeşil alanı ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Badir Ini","Mersin","Jeopark","Doğal Alan","Yeşil Alan","Turizm","Mersin Turistik Yerler","Jeolojik Özellikler","Doğa"]

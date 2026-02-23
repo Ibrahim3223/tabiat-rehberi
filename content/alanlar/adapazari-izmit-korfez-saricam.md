@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adapazari-Izmit-Korfez%20Saricam","alt":"Adapazari-Izmit-Korfez Saricam","caption":"Adapazari-Izmit-Korfez Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Adapazari-Izmit-Korfez Saricam","caption":"Adapazari-Izmit-Korfez Saricam","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Izmit-Korfez%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227973","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan doğa harikası milli park"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa harikası","turizm","gezi","yaban hayatı","ekosistem","çevre","koruma"]

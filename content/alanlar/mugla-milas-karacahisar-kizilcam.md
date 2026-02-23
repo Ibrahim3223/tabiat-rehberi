@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Bitki ve hayvan gözlemi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Milas-Karacahisar%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mugla-Milas-Karacahisar Kızılçam","caption":"Mugla-Milas-Karacahisar Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Mugla-Milas-Karacahisar Kızılçam","caption":"Mugla-Milas-Karacahisar Kızılçam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Milas-Karacahisar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227669","tip":"genel"}]
 description: "Mugla-Milas-Karacahisar Kızılçam, 140 hektarlık yeşil alanı ve zengin fauna ile dikkat çekiyor."
 keywords: ["Mugla","Milas","Karacahisar","Kızılçam","Milli Park","Doğa","Flora","Fauna","Turizm"]

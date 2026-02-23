@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zerrruyum","alt":"Zerrruyum","caption":"Zerrruyum"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Zerrruyum","caption":"Zerrruyum","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zerrruyum","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21697236","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerinden biri olan Zerrruyum Kanyonu, 1200 hektarlık alanı ile ziyaretçilerini bekliyor."
 keywords: ["Zerrruyum","Gaziantep","Kanyon","Doğa","Turizm","Gezi","Gaziantep gezilecek yerler","Kanyonlar","Zerrruyum Kanyonu"]

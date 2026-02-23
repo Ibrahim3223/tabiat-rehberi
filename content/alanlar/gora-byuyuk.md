@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora gözlemi","fauna gözlemi","manzara seyretme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gora%20Byuyuk","alt":"Gora Byuyuk","caption":"Gora Byuyuk"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_gri_westernworld00king%29.pdf/page1-647px-The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_gri_westernworld00king%29.pdf.jpg","alt":"Gora Byuyuk","caption":"Gora Byuyuk","credit":"The western world. Picturesque sketches of nature and natural history in North and South America (IA gri westernworld00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Byuyuk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386478","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinelerinden biri olan Gora Byuyuk, doğa severler için bir cennet."
 keywords: ["Gora Byuyuk","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

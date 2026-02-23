@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarih gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alabanda%20Do%C4%9Fu%20Hamam%C4%B1","alt":"Alabanda Doğu Hamamı","caption":"Alabanda Doğu Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Alabanda Doğu Hamamı","caption":"Alabanda Doğu Hamamı","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alabanda%20Do%C4%9Fu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245713","tip":"genel"}]
 description: "Çine, Aydın'da bulunan Alabanda Doğu Hamamı, tarihi ve doğal güzellikleri bir araya getiren özel bir alan"
 keywords: ["Alabanda Doğu Hamamı","Çine","Aydın","Ege Bölgesi","doğal güzellik","tarihi mekan","gezi","turizm"]

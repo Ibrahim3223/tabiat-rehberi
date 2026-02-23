@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Troya%20TMP","alt":"Troya TMP","caption":"Troya TMP"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Troya TMP","caption":"Troya TMP","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Troya%20TMP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227194","tip":"genel"}]
 description: "Troya TMP, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri, 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna"
 keywords: ["Troya TMP","İç Anadolu Bölgesi","doğal alan","yeşil alan","çeşitli bitki türleri","zengin fauna"]

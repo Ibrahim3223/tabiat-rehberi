@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dikenli%20Da%C4%9F","alt":"Dikenli Dağ","caption":"Dikenli Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Dikenli Dağ","caption":"Dikenli Dağ","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikenli%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31589384","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin, Dikenli Dağ'ın büyüleyici manzaralarına hayran kalın."
 keywords: ["Dikenli Dağ","Konya","Dağ","Doğa","Turizm","Gezi","Konya Turistik Yerler","Dikenli Dağ Manzaraları","Konya Doğal Alanlar"]

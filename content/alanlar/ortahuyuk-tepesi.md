@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ortah%C3%BCy%C3%BCk%20Tepesi","alt":"Ortahüyük Tepesi","caption":"Ortahüyük Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Ortahüyük Tepesi","caption":"Ortahüyük Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ortah%C3%BCy%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34887844","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzellikleri arasında yer alan Ortahüyük Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Ortahüyük Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","tarih","coğrafya","flora","fauna","ziyaret"]

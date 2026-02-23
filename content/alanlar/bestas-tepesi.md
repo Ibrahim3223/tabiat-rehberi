@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Be%C5%9Fta%C5%9F%20Tepesi","alt":"Beştaş Tepesi","caption":"Beştaş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Asagi_Cagirankaya_Yaylasi.jpg/960px-Asagi_Cagirankaya_Yaylasi.jpg","alt":"Beştaş Tepesi","caption":"Beştaş Tepesi","credit":"Asagi Cagirankaya Yaylasi.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388559","tip":"genel"}]
 description: "Rize'nin görkemli dağlarından Beştaş Tepesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri"
 keywords: ["Rize","Karadeniz Bölgesi","Beştaş Tepesi","doğal güzellik","dağ","tepe"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Hamamın tarihi öneminin keşfi","Plajın kullanımı","Çevre gezileri","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hasbey%20Hamam%C4%B1","alt":"Hasbey Hamamı","caption":"Hasbey Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Hasbey Hamamı","caption":"Hasbey Hamamı","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasbey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738525","tip":"genel"}]
 description: "Meram, Konya'da yer alan tarihi hamam ve plaj alanı"
 keywords: ["Hasbey Hamamı","Meram","Konya","tarihi hamam","plaj","İç Anadolu Bölgesi"]

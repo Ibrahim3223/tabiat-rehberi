@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","gezi","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Havlanl%C4%B1%20Hill","alt":"Havlanlı Hill","caption":"Havlanlı Hill"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaid%29.pdf/page1-931px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaid%29.pdf.jpg","alt":"Havlanlı Hill","caption":"Havlanlı Hill","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen00gaid).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Havlanl%C4%B1%20Hill","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390244","tip":"genel"}]
 description: "Adana'da yer alan Havlanlı Hill, Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biridir."
 keywords: ["Havlanlı Hill","Adana","Akdeniz Bölgesi","coğrafi oluşum","tepe","doğa","gezi"]

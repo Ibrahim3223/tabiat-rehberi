@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karakeri%C5%9F%20Tepesi","alt":"Karakeriş Tepesi","caption":"Karakeriş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Karakeriş Tepesi","caption":"Karakeriş Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakeri%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31518122","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Karakeriş Tepesi, doğa severler için bir çekim merkezi"
 keywords: ["Karakeriş Tepesi","Türkiye Dağları","Doğa Turizmi","Türkiye Gezi","Dağcılık","Doğa Yürüyüşü","Tepeler","Coğrafya","Türkiye'nin Dağları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğraf çekimi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Deveyolu%20Tepesi","alt":"Deveyolu Tepesi","caption":"Deveyolu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf/page1-727px-Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf.jpg","alt":"Deveyolu Tepesi","caption":"Deveyolu Tepesi","credit":"Medical Heritage Library (IA 57721120R.nlm.nih.gov).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deveyolu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581288","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin. Deveyolu Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri"
 keywords: ["Deveyolu Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","tarih","coğrafya"]

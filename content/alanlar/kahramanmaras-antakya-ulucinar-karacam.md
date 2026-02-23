@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahramanmaras-Antakya-Ulucinar%20Karacam","alt":"Kahramanmaras-Antakya-Ulucinar Karacam","caption":"Kahramanmaras-Antakya-Ulucinar Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Kahramanmaras-Antakya-Ulucinar Karacam","caption":"Kahramanmaras-Antakya-Ulucinar Karacam","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Antakya-Ulucinar%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227517","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan doğal güzellik"
 keywords: ["Kahramanmaras","Antakya","Ulucinar","Karacam","milli park","doğa","gezi","turizm"]

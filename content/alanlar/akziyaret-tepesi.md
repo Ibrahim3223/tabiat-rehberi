@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akziyaret%20Tepesi","alt":"Akziyaret Tepesi","caption":"Akziyaret Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg","alt":"Akziyaret Tepesi","caption":"Akziyaret Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 04.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akziyaret%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391002","tip":"genel"}]
 description: "Kahramanmaraş'ın doğal güzelliklerinden biri olan Akziyaret Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kahramanmaraş","Akziyaret Tepesi","doğa","tepe","gezi","turizm","Akdeniz Bölgesi","çevre","ekoloji"]

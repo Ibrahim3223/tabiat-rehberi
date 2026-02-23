@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi hamam gezisi","Mimari keşif","Kültürel deneyim","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zeyrek%20%C3%87inili%20Hamam%20M%C3%BCzesi","alt":"Zeyrek Çinili Hamam Müzesi","caption":"Zeyrek Çinili Hamam Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WHERE_IS_TURKEY_HEADED%3F_GEZI_PARK%2C_TAKSIM_SQUARE%2C_AND_THE_FUTURE_OF_THE_TURKISH_MODEL_%28IA_gov.gpo.fdsys.CHRG-113shrg86350%29.pdf/page1-960px-WHERE_IS_TURKEY_HEADED%3F_GEZI_PARK%2C_TAKSIM_SQUARE%2C_AND_THE_FUTURE_OF_THE_TURKISH_MODEL_%28IA_gov.gpo.fdsys.CHRG-113shrg86350%29.pdf.jpg","alt":"Zeyrek Çinili Hamam Müzesi","caption":"Zeyrek Çinili Hamam Müzesi","credit":"WHERE IS TURKEY HEADED? GEZI PARK, TAKSIM SQUARE, AND THE FUTURE OF THE TURKISH MODEL (IA gov.gpo.fdsys.CHRG-113shrg86350).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeyrek%20%C3%87inili%20Hamam%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949560","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Zeyrek Çinili Hamam Müzesi, ziyaretçiler için önemli bir kültürel destinasyon."
 keywords: ["Zeyrek Çinili Hamam Müzesi","İstanbul","Marmara Bölgesi","tarihi hamam","müze","kültürel destinasyon","gezi","tarih","mimari"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları gezmek","doğa yürüyüşü","fotoğraf çekmek","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ko%C3%A7gazi%20T%C3%BCrbesi","alt":"Koçgazi Türbesi","caption":"Koçgazi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Koçgazi Türbesi","caption":"Koçgazi Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7gazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390637","tip":"genel"}]
 description: "Ege Bölgesi'nin Afyonkarahisar iline bağlı Sandıklı ilçesinde bulunan Koçgazi Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir destinasyon."
 keywords: ["Koçgazi Türbesi","Sandıklı","Afyonkarahisar","Ege Bölgesi","tarihi mekanlar","doğa alanları","turizm"]

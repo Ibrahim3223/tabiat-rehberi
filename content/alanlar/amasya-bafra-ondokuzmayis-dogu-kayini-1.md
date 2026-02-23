@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fauna gözlemi","flora gözlemi","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Amasya-Bafra-Ondokuzmayis%20Dogu%20Kayini%201","alt":"Amasya-Bafra-Ondokuzmayis Dogu Kayini 1","caption":"Amasya-Bafra-Ondokuzmayis Dogu Kayini 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Amasya-Bafra-Ondokuzmayis Dogu Kayini 1","caption":"Amasya-Bafra-Ondokuzmayis Dogu Kayini 1","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Bafra-Ondokuzmayis%20Dogu%20Kayini%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227772","tip":"genel"}]
 description: "Amasya'da yer alan milli park, 140 hektarlık yeşil alanı ve zengin faunası ile dikkat çekiyor"
 keywords: ["Amasya","milli park","doğa","yeşil alan","fauna","Karadeniz Bölgesi","turizm","gezi","yaban hayatı"]

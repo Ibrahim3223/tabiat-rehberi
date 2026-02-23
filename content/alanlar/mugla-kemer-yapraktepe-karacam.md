@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Kamp","Doğa fotoğrafçılığı","Yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Kemer-Yapraktepe%20Karacam","alt":"Mugla-Kemer-Yapraktepe Karacam","caption":"Mugla-Kemer-Yapraktepe Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chameleon_in_Turkish_forest_%281%29.jpg/960px-Chameleon_in_Turkish_forest_%281%29.jpg","alt":"Mugla-Kemer-Yapraktepe Karacam","caption":"Mugla-Kemer-Yapraktepe Karacam","credit":"Chameleon in Turkish forest (1).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Kemer-Yapraktepe%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228811","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, 140 hektarlık milli parkın büyüleyici manzaralarını görün."
 keywords: ["Mugla-Kemer-Yapraktepe Karacam","Milli Park","Muğla","Ege Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı","Flora","Fauna"]

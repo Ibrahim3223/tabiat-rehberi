@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","manzara seyretme","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Balikesir-Dursunbey-Durabeyler%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Balikesir-Dursunbey-Durabeyler Kızılçam","caption":"Balikesir-Dursunbey-Durabeyler Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Balikesir-Dursunbey-Durabeyler Kızılçam","caption":"Balikesir-Dursunbey-Durabeyler Kızılçam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Dursunbey-Durabeyler%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227636","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 1200 hektarlık bir yeşil alan"
 keywords: ["Balikesir","Dursunbey","Durabeyler Kızılçam","milli park","İç Anadolu Bölgesi","doğa","gezi","kızılçam","orman"]

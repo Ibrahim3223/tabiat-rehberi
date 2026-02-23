@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Esen%20Tepe","alt":"Esen Tepe","caption":"Esen Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf/page1-960px-Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf.jpg","alt":"Esen Tepe","caption":"Esen Tepe","credit":"Diary of H. M. Van Deusen January 29, 1953 to November 17, 1953 (IA diaryhmvandeuse00vanda).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31524053","tip":"genel"}]
 description: "Van'da yer alan Esen Tepe, doğa severler için önemli bir destinasyon"
 keywords: ["Esen Tepe","Van","Dağ","Doğa","Türkiye","Seyahat","Gezi","Van Gezilecek Yerler","Dağcılık"]

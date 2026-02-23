@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","piknik","bitki gözlemi","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Ta%C5%9Fk%C3%B6r%C3%BC-%C3%87atal%C3%A7am%20Kara%C3%A7am","alt":"Kastamonu-Taşkörü-Çatalçam Karaçam","caption":"Kastamonu-Taşkörü-Çatalçam Karaçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Kastamonu-Taşkörü-Çatalçam Karaçam","caption":"Kastamonu-Taşkörü-Çatalçam Karaçam","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Ta%C5%9Fk%C3%B6r%C3%BC-%C3%87atal%C3%A7am%20Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227951","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin. 140 hektarlık milli park, yeşilin ve doğanın tadını çıkarın."
 keywords: ["Kastamonu","milli park","doğa","yeşil","Karaçam","çevre","ekoloji","gezi","turizm","Karadeniz Bölgesi","çevre duyarlılığı"]

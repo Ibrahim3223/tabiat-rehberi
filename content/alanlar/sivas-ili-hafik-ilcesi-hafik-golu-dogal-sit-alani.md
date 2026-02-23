@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Doğa fotoğrafçılığı","Su kuşları izleme","Balık avı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=SIVAS%20ILI%20HAFIK%20IL%C3%87ESI%20HAFIK%20G%C3%96L%C3%9C%20DOGAL%20SIT%20ALANI","alt":"SIVAS ILI HAFIK ILÇESI HAFIK GÖLÜ DOGAL SIT ALANI","caption":"SIVAS ILI HAFIK ILÇESI HAFIK GÖLÜ DOGAL SIT ALANI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"SIVAS ILI HAFIK ILÇESI HAFIK GÖLÜ DOGAL SIT ALANI","caption":"SIVAS ILI HAFIK ILÇESI HAFIK GÖLÜ DOGAL SIT ALANI","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/SIVAS%20ILI%20HAFIK%20IL%C3%87ESI%20HAFIK%20G%C3%96L%C3%9C%20DOGAL%20SIT%20ALANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228954","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Sivas ili Hafik ilçesi Hafik Gölü Doğal Sit Alanı, 140 hektarlık bir alanı kapsar."
 keywords: ["Sivas","Hafik","Hafik Gölü","Doğal Sit Alanı","İç Anadolu Bölgesi","Doğal Güzellik","Turizm","Doğa"]

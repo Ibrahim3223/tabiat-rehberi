@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1zg%C4%B1da%C4%9F%C4%B1%20Tepesi","alt":"Sızgıdağı Tepesi","caption":"Sızgıdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Sızgıdağı Tepesi","caption":"Sızgıdağı Tepesi","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1zg%C4%B1da%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390947","tip":"genel"}]
 description: "Kayseri'nin görece yüksek noktalarından biri olan Sızgıdağı Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar."
 keywords: ["Sızgıdağı Tepesi","Kayseri","İç Anadolu Bölgesi","tepe","doğa","gezi","manzara"]

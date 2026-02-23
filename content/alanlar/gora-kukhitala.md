@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gora%20Kukhitala","alt":"Gora Kukhitala","caption":"Gora Kukhitala"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg/960px-Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg","alt":"Gora Kukhitala","caption":"Gora Kukhitala","credit":"Landschap met ruïnes en het aquaduct naar Efeze, RP-F-F00998-AV.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Kukhitala","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31541064","tip":"genel"}]
 description: "Van'da bulunan Gora Kukhitala, doğa severler için bir cennet. 1200 hektarlık bu yeşil alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Gora Kukhitala","Van","Dağ","Doğa","Yeşil Alan","İstanbul","Turizm","Seyahat","Gezi"]

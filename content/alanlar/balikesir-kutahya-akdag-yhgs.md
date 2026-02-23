@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kuş izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bal%C4%B1kesir-K%C3%BCtahya-Akda%C4%9F%20YHGS","alt":"Balıkesir-Kütahya-Akdağ YHGS","caption":"Balıkesir-Kütahya-Akdağ YHGS"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sunset_on_Old_Stone_Bridge.jpg/960px-Sunset_on_Old_Stone_Bridge.jpg","alt":"Balıkesir-Kütahya-Akdağ YHGS","caption":"Balıkesir-Kütahya-Akdağ YHGS","credit":"Sunset on Old Stone Bridge.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kesir-K%C3%BCtahya-Akda%C4%9F%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228040","tip":"genel"}]
 description: "Marmara Bölgesi'nde yer alan doğal güzellik"
 keywords: ["Balıkesir","Kütahya","Akdağ","Yaban Hayatı Geliştirme Sahası","Marmara Bölgesi","doğa","yaban hayatı","çevre"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarihçi gezisi","doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yahyal%C4%B1%20Yahya%20Gazi%20T%C3%BCrbesi","alt":"Yahyalı Yahya Gazi Türbesi","caption":"Yahyalı Yahya Gazi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Yahyalı Yahya Gazi Türbesi","caption":"Yahyalı Yahya Gazi Türbesi","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yahyal%C4%B1%20Yahya%20Gazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582340","tip":"genel"}]
 description: "Yahyalı'da yer alan tarihi türbe ve plaj hakkında bilgi"
 keywords: ["Yahyalı","Yahya Gazi Türbesi","tarih","plaj","Kayseri","İç Anadolu Bölgesi","tarihçe","coğrafya","flora","fauna"]

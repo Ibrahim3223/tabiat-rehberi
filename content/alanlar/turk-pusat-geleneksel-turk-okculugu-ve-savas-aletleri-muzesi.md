@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Türk okçuluğu gösterisi","Savaş aletleri sergisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=T%C3%BCrk%20Pusat%20Geleneksel%20T%C3%BCrk%20Ok%C3%A7ulu%C4%9Fu%20ve%20Sava%C5%9F%20Aletleri%20M%C3%BCzesi","alt":"Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi","caption":"Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi","caption":"Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrk%20Pusat%20Geleneksel%20T%C3%BCrk%20Ok%C3%A7ulu%C4%9Fu%20ve%20Sava%C5%9F%20Aletleri%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949909","tip":"genel"}]
 description: "Türk Pusat Müzesi, geleneksel Türk okçuluğu ve savaş aletleri hakkında bilgi edinmek isteyenler için ideal bir destinasyon."
 keywords: ["Türk Pusat","Geleneksel Türk Okçuluğu","Savaş Aletleri Müzesi","Ankara","İç Anadolu Bölgesi","Türk Tarihi","Okçuluk"]

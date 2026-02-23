@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCrlevik%20Da%C4%9F%C4%B1","alt":"Gürlevik Dağı","caption":"Gürlevik Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_land_of_the_Hittites%3B_an_account_of_recent_explorations_and_discoveries_in_Asia_Minor%2C_with_descriptions_of_the_Hittite_monuments_%28IA_cu31924028539736%29.pdf/page1-716px-The_land_of_the_Hittites%3B_an_account_of_recent_explorations_and_discoveries_in_Asia_Minor%2C_with_descriptions_of_the_Hittite_monuments_%28IA_cu31924028539736%29.pdf.jpg","alt":"Gürlevik Dağı","caption":"Gürlevik Dağı","credit":"The land of the Hittites; an account of recent explorations and discoveries in Asia Minor, with descriptions of the Hittite monuments (IA cu31924028539736).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrlevik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873447","tip":"genel"}]
 description: "Sivas'ta yer alan Gürlevik Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Gürlevik Dağı","Sivas","Dağ","Doğa","Yeşil Alan","Turizm","Sivas Turistik Yerler","Dağ Turizmi","Doğa Sporları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","eko-turizm"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ya%C4%9Fmurdede%20Tepe","alt":"Yağmurdede Tepe","caption":"Yağmurdede Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Through_the_heart_of_Asia-_over_the_Pamir_to_India_%28IA_throughheartofas01bonv%29.pdf/page1-920px-Through_the_heart_of_Asia-_over_the_Pamir_to_India_%28IA_throughheartofas01bonv%29.pdf.jpg","alt":"Yağmurdede Tepe","caption":"Yağmurdede Tepe","credit":"Through the heart of Asia- over the Pamir to India (IA throughheartofas01bonv).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ya%C4%9Fmurdede%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387370","tip":"genel"}]
 description: "Samsun'un gizli cenneti, Karadeniz Bölgesi'nde yer alan Yağmurdede Tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Yağmurdede Tepe","Samsun","Karadeniz Bölgesi","yeşil alan","fiziksel veriler","coğrafya","flora","fauna","ziyaret","gezi rehberi"]

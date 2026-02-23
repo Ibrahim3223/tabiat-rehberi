@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tokluyatak%20Tepesi","alt":"Tokluyatak Tepesi","caption":"Tokluyatak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf/page1-954px-The_Entomologist%27s_record_and_journal_of_variation_%28IA_entomologistsrec601948tutt%29.pdf.jpg","alt":"Tokluyatak Tepesi","caption":"Tokluyatak Tepesi","credit":"The Entomologist's record and journal of variation (IA entomologistsrec601948tutt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tokluyatak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388112","tip":"genel"}]
 description: "Denizli'nin güzide tepelerinden biri olan Tokluyatak Tepesi, Ege Bölgesi'nin en güzel manzaralarını sunuyor."
 keywords: ["Tokluyatak Tepesi","Denizli","Ege Bölgesi","tepe","manzara","gezi","doğa","yaban hayatı"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Atolu%C4%9Fu%20Da%C4%9F%C4%B1","alt":"Atoluğu Dağı","caption":"Atoluğu Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf/page1-960px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_gri_33125007229756%29.pdf.jpg","alt":"Atoluğu Dağı","caption":"Atoluğu Dağı","credit":"Explorations in Bible lands during the 19th century (IA gri 33125007229756).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atolu%C4%9Fu%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531583","tip":"genel"}]
 description: "Malatya'da yer alan Atoluğu Dağı, doğa severler için önemli bir destinasyon. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Atoluğu Dağı","Malatya","Dağ","Doğa","Turizm","Yeşil Alan","Gezi","Seyahat","Türkiye"]

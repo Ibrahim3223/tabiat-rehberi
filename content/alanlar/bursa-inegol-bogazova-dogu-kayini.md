@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Inegol-Bogazova%20Dogu%20Kayini","alt":"Bursa-Inegol-Bogazova Dogu Kayini","caption":"Bursa-Inegol-Bogazova Dogu Kayini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/British_medical_journal_%28IA_1877britishmedic02brit%29.pdf/page1-960px-British_medical_journal_%28IA_1877britishmedic02brit%29.pdf.jpg","alt":"Bursa-Inegol-Bogazova Dogu Kayini","caption":"Bursa-Inegol-Bogazova Dogu Kayini","credit":"British medical journal (IA 1877britishmedic02brit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Inegol-Bogazova%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228595","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Bursa'da yer alan Bursa-Inegol-Bogazova Dogu Kayini, 140 hektarlık yeşil alanıyla doğa severlerin gözdesi"
 keywords: ["Bursa","Inegol","Bogazova Dogu Kayini","Marmara Bölgesi","Doğa","Yeşil Alan","Milli Park"]

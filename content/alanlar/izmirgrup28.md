@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=izmirgrup28","alt":"izmirgrup28","caption":"izmirgrup28"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"izmirgrup28","caption":"izmirgrup28","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/izmirgrup28","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227006","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["İç Anadolu Bölgesi","doğa","yeşil alan","gizli cennet","gezi","turizm","çevre","ekoloji"]

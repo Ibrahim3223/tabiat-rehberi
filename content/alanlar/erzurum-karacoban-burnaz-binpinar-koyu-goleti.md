@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","balık avı","doğa yürüyüşü","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=ERZURUM%20KARA%C3%87OBAN%20BURNAZ%20B%C4%B0NPINAR%20K%C3%96Y%C3%9C%20G%C3%96LET%C4%B0","alt":"ERZURUM KARAÇOBAN BURNAZ BİNPINAR KÖYÜ GÖLETİ","caption":"ERZURUM KARAÇOBAN BURNAZ BİNPINAR KÖYÜ GÖLETİ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"ERZURUM KARAÇOBAN BURNAZ BİNPINAR KÖYÜ GÖLETİ","caption":"ERZURUM KARAÇOBAN BURNAZ BİNPINAR KÖYÜ GÖLETİ","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ERZURUM%20KARA%C3%87OBAN%20BURNAZ%20B%C4%B0NPINAR%20K%C3%96Y%C3%9C%20G%C3%96LET%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228938","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleriyle dolu bir alanı"
 keywords: ["Erzurum","Karaçoban","Burnaz","Bınpınar","Köyü Göleti","İç Anadolu Bölgesi","doğal alan","gölet","gezi","yaban hayatı"]

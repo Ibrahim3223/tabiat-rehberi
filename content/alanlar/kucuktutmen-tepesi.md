@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCktutmen%20Tepesi","alt":"Küçüktutmen Tepesi","caption":"Küçüktutmen Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Through_the_heart_of_Asia-_over_the_Pamir_to_India_%28IA_throughheartofas01bonv%29.pdf/page1-920px-Through_the_heart_of_Asia-_over_the_Pamir_to_India_%28IA_throughheartofas01bonv%29.pdf.jpg","alt":"Küçüktutmen Tepesi","caption":"Küçüktutmen Tepesi","credit":"Through the heart of Asia- over the Pamir to India (IA throughheartofas01bonv).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCktutmen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211055","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan Küçüktutmen Tepesi, Samsun ilinin merkezine uzun bir mesafe uzaklıkta yer alıyor."
 keywords: ["Samsun","Karadeniz Bölgesi","Küçüktutmen Tepesi","doğal güzellik","tepe","turizm"]

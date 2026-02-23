@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi"," piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tuzlakaya%20Tepesi","alt":"Tuzlakaya Tepesi","caption":"Tuzlakaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Tuzlakaya Tepesi","caption":"Tuzlakaya Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tuzlakaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560715","tip":"genel"}]
 description: "Kırklareli ilinin doğal güzelliklerinden biri olan Tuzlakaya Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Tuzlakaya Tepesi","Kırklareli","Marmara Bölgesi","doğa","gezi","tepe"]

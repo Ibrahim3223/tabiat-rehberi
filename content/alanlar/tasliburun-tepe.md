@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ta%C5%9Fl%C4%B1burun%20Tepe","alt":"Taşlıburun Tepe","caption":"Taşlıburun Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aflatoxin_Elimination_Workshop_-_%28proceedings%29_%28IA_CAT11083246006%29.pdf/page1-960px-Aflatoxin_Elimination_Workshop_-_%28proceedings%29_%28IA_CAT11083246006%29.pdf.jpg","alt":"Taşlıburun Tepe","caption":"Taşlıburun Tepe","credit":"Aflatoxin Elimination Workshop - (proceedings) (IA CAT11083246006).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fl%C4%B1burun%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386121","tip":"genel"}]
 description: "İzmir'in gizli köşesi, Taşlıburun Tepe'de doğa ve tarih bir arada"
 keywords: ["Taşlıburun Tepe","İzmir","Ege Bölgesi","doğa","tarih","gezi","turizm","köy","tepe"]

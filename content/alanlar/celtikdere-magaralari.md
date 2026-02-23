@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87eltikdere%20Ma%C4%9Faralar%C4%B1","alt":"Çeltikdere Mağaraları","caption":"Çeltikdere Mağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/At_The_Peak_%2889020351%29.jpeg/960px-At_The_Peak_%2889020351%29.jpeg","alt":"Çeltikdere Mağaraları","caption":"Çeltikdere Mağaraları","credit":"At The Peak (89020351).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87eltikdere%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319911","tip":"genel"}]
 description: "Bolu'da yer alan Çeltikdere Mağaraları, jeolojik oluşumlarıyla dikkat çeken bir jeopark alanıdır. Doğal güzelliği ve zengin jeolojik yapısıyla ziyaretçilerini bekliyor."
 keywords: ["Çeltikdere Mağaraları","Bolu","Jeopark","Doğal Alan","Mağara","Jeolojik Oluşum","Turizm","Bolu Turistik Yerler","Jeolojik Miras"]

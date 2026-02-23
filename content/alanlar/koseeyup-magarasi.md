@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6seey%C3%BCp%20Ma%C4%9Faras%C4%B1","alt":"Köseeyüp Mağarası","caption":"Köseeyüp Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg","alt":"Köseeyüp Mağarası","caption":"Köseeyüp Mağarası","credit":"The Landscape of Sıklık Gate.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6seey%C3%BCp%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319396","tip":"genel"}]
 description: "Çorum'da yer alan Köseeyüp Mağarası, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği keşfedin."
 keywords: ["Köseeyüp Mağarası","Çorum","Jeopark","Doğa","Mağara","Turizm","Çorum Turistik Yerler","Jeolojik Özellikler","Doğal Güzellik"]

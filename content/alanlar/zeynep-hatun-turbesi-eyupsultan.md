@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Tarihi yapılar gezisi","Doğa yürüyüşü","Kültürel miras keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zeynep%20Hatun%20T%C3%BCrbesi%2C%20Ey%C3%BCpsultan","alt":"Zeynep Hatun Türbesi, Eyüpsultan","caption":"Zeynep Hatun Türbesi, Eyüpsultan"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Zeynep Hatun Türbesi, Eyüpsultan","caption":"Zeynep Hatun Türbesi, Eyüpsultan","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeynep%20Hatun%20T%C3%BCrbesi%2C%20Ey%C3%BCpsultan","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135430358","tip":"genel"}]
 description: "Eyüpsultan'da yer alan Zeynep Hatun Türbesi, tarihi ve kültürel öneme sahip bir yapıdır."
 keywords: ["Zeynep Hatun Türbesi","Eyüpsultan","İstanbul","Marmara Bölgesi","tarihi yapı","kültürel miras","gezi","tarih"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Kültür turu","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCmb%C3%BCl%20Efendi%20T%C3%BCrbesi","alt":"Sümbül Efendi Türbesi","caption":"Sümbül Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Sümbül Efendi Türbesi","caption":"Sümbül Efendi Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCmb%C3%BCl%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391154","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan Sümbül Efendi Türbesi, Marmara Bölgesi'nin önemli tarihi mekanlarından biridir."
 keywords: ["Sümbül Efendi","Türbe","Fatih","İstanbul","Marmara Bölgesi","Tarih","Mekan","Gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ay%C4%B1r%20Tepesi","alt":"Çayır Tepesi","caption":"Çayır Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Glimpses_of_the_Louisiana_purchase_exposition_and_city_of_St._Louis_in_colors_..._%28IA_glimpsesoflouisi00unse%29.pdf/page1-960px-Glimpses_of_the_Louisiana_purchase_exposition_and_city_of_St._Louis_in_colors_..._%28IA_glimpsesoflouisi00unse%29.pdf.jpg","alt":"Çayır Tepesi","caption":"Çayır Tepesi","credit":"Glimpses of the Louisiana purchase exposition and city of St. Louis in colors ... (IA glimpsesoflouisi00unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828758","tip":"genel"}]
 description: "Muş'un doğal güzellikleri arasında yer alan Çayır Tepesi, ziyaretçiler için çekici bir destinasyon"
 keywords: ["Çayır Tepesi","Muş","Doğu Anadolu Bölgesi","doğal güzellik","turizm","gezi","tepe","manzara","doğa"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî eserleri görmek","kültürel etkinlikler","eğitim programları","gezi ve tur"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=ASB%C3%9C%20Hazine%20M%C3%BCzesi","alt":"ASBÜ Hazine Müzesi","caption":"ASBÜ Hazine Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf/page1-960px-Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf.jpg","alt":"ASBÜ Hazine Müzesi","caption":"ASBÜ Hazine Müzesi","credit":"Orienting our sights on the future - opportunities and challenges of the Arab revolts (IA orientingoursigh00amin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ASB%C3%9C%20Hazine%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132681833","tip":"genel"}]
 description: "Ankara'nın kalbinde, tarihin derinliklerine yolculuk"
 keywords: ["ASBÜ Hazine Müzesi","Ankara","müze","tarih","kültür","sanat","eğitim","gezi","turizm"]

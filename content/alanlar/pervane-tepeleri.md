@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî alan gezisi","yaban hayatı gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pervane%20Tepeleri","alt":"Pervane Tepeleri","caption":"Pervane Tepeleri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Pervane Tepeleri","caption":"Pervane Tepeleri","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pervane%20Tepeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386658","tip":"genel"}]
 description: "Şanlıurfa'nın doğal güzellikleri arasında yer alan Pervane Tepeleri, históri ve coğrafik açıdan önemli bir bölge"
 keywords: ["Pervane Tepeleri","Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa","coğrafya","tarih","gezi","turizm","yaban hayatı"]

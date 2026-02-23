@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Cide-Kizilcasu%20Dogu%20Kayini","alt":"Kastamonu-Cide-Kizilcasu Dogu Kayini","caption":"Kastamonu-Cide-Kizilcasu Dogu Kayini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Kastamonu-Cide-Kizilcasu Dogu Kayini","caption":"Kastamonu-Cide-Kizilcasu Dogu Kayini","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Cide-Kizilcasu%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227793","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzellikleriyle dolu milli parkı"
 keywords: ["Kastamonu","Cide","Kizilcasu","Dogu Kayini","milli park","Karadeniz Bölgesi","doğa","gezi"]

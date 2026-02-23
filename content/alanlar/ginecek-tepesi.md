@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","bitki gözlemi","fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ginecek%20Tepesi","alt":"Ginecek Tepesi","caption":"Ginecek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/ACI_SU_%28HOT_WATER_WATERFALL%29_-_panoramio.jpg/960px-ACI_SU_%28HOT_WATER_WATERFALL%29_-_panoramio.jpg","alt":"Ginecek Tepesi","caption":"Ginecek Tepesi","credit":"ACI SU (HOT WATER WATERFALL) - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ginecek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387930","tip":"genel"}]
 description: "Giresun'un doğal güzellikleri arasında yer alan Ginecek Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Ginecek Tepesi","Giresun","Karadeniz Bölgesi","doğal güzellik","tepe","manzara","gezi","turizm","coğrafya"]

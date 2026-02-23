@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi","ekoloji turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kumlu%C4%9Funba%C5%9F%C4%B1%20Tepesi","alt":"Kumluğunbaşı Tepesi","caption":"Kumluğunbaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beyaz_Ev_-_The_White_House_-_panoramio.jpg/960px-Beyaz_Ev_-_The_White_House_-_panoramio.jpg","alt":"Kumluğunbaşı Tepesi","caption":"Kumluğunbaşı Tepesi","credit":"Beyaz Ev - The White House - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumlu%C4%9Funba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390654","tip":"genel"}]
 description: "Kırşehir'in İç Anadolu Bölgesi'nde yer alan Kumluğunbaşı Tepesi, coğrafi güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kumluğunbaşı Tepesi","Kırşehir","İç Anadolu Bölgesi","coğrafi güzellik","tarihi geçmişi","doğal alan","turizm","gezi","kültür"]

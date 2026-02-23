@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki ve hayvan gözlemi","fotoğrafçılık","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eehitg%C3%B6l%C3%BC%20Tepesi","alt":"Şehitgölü Tepesi","caption":"Şehitgölü Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Şehitgölü Tepesi","caption":"Şehitgölü Tepesi","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehitg%C3%B6l%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810535","tip":"genel"}]
 description: "Doğu Anadolu'nun gizli köşelerinden biri olan Şehitgölü Tepesi, Bingöl'ün doğal güzelliklerini keşfetmek için ideal bir nokta."
 keywords: ["Şehitgölü Tepesi","Bingöl","Doğu Anadolu","doğal güzellikler","tepe","gezi","turizm","coğrafya","flora","fauna"]

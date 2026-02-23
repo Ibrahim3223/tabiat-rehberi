@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları incelemek","yeşil alanlarda dolaşmak","çevreyi keşfetmek","fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sefer%20%C5%9Eah%20T%C3%BCrbesi","alt":"Sefer Şah Türbesi","caption":"Sefer Şah Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Sefer Şah Türbesi","caption":"Sefer Şah Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sefer%20%C5%9Eah%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391500","tip":"genel"}]
 description: "Edirne ilinin merkezinde yer alan tarihi Sefer Şah Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlıyor."
 keywords: ["Sefer Şah Türbesi","Edirne","tarihi mekan","yeşil alan","türk tarihi","tarihi yapı","mimarlık","turizm"]

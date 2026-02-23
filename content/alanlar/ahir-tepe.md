@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ah%C4%B1r%20Tepe","alt":"Ahır Tepe","caption":"Ahır Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kartaltepe_Landscape.jpg/960px-Kartaltepe_Landscape.jpg","alt":"Ahır Tepe","caption":"Ahır Tepe","credit":"Kartaltepe Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ah%C4%B1r%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388812","tip":"genel"}]
 description: "Tekirdağ'ın tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Tekirdağ","Marmara Bölgesi","Ahır Tepe","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]

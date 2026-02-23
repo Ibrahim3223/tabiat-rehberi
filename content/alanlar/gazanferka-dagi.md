@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gazanferka%20Da%C4%9F%C4%B1","alt":"Gazanferka Dağı","caption":"Gazanferka Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Gazanferka Dağı","caption":"Gazanferka Dağı","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazanferka%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31567979","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Gazanferka Dağı, Türkiye'nin önemli dağlarından biri"
 keywords: ["Gazanferka Dağı","Türkiye Dağları","Doğal Alanlar","Turizm","Dağcılık","Türkiye Gezi","Doğa","Macera","Seyahat"]

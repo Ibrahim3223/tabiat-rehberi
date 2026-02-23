@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","plaj","yeme içme","yürüyüş"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0brahim%20Ethem%20Pa%C5%9Fa%20T%C3%BCrbesi","alt":"İbrahim Ethem Paşa Türbesi","caption":"İbrahim Ethem Paşa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"İbrahim Ethem Paşa Türbesi","caption":"İbrahim Ethem Paşa Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0brahim%20Ethem%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391117","tip":"genel"}]
 description: "İbrahim Ethem Paşa Türbesi, Üsküdar'da bulunan tarihi bir türbe ve plaj alanıdır. İstanbul'un Marmara Bölgesi'nde yer alan bu bölge, tarihi ve doğal güzellikleri ile dikkat çekmektedir."
 keywords: ["İbrahim Ethem Paşa Türbesi","Üsküdar","Marmara Bölgesi","İstanbul","tarih","doğa","plaj"]

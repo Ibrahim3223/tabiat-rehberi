@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi gezinti","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaanl%C4%B1%20Tepe","alt":"Karaanlı Tepe","caption":"Karaanlı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Karaanlı Tepe","caption":"Karaanlı Tepe","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaanl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386107","tip":"genel"}]
 description: "Mersin'in gizli cenneti, Akdeniz Bölgesi'nin önemli doğal alanlarından biri"
 keywords: ["Mersin","Karaanlı Tepe","Akdeniz Bölgesi","doğal alan","tepe","coğrafya","flora","fauna","ziyaret","gezi"]

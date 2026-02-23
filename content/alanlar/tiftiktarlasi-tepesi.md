@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tiftiktarlas%C4%B1%20Tepesi","alt":"Tiftiktarlası Tepesi","caption":"Tiftiktarlası Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf/page1-960px-Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf.jpg","alt":"Tiftiktarlası Tepesi","caption":"Tiftiktarlası Tepesi","credit":"Orienting our sights on the future - opportunities and challenges of the Arab revolts (IA orientingoursigh00amin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tiftiktarlas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390045","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Tiftiktarlası Tepesi, doğal güzellikleri ve tarihi geçmişi ile dikkat çekicidir."
 keywords: ["Tiftiktarlası Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","tepe","gezi","turizm","çevre","ekosistem"]

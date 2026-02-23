@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","fotografcılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eehin%C5%9Fah%20Kaya%20Mezar%C4%B1","alt":"Şehinşah Kaya Mezarı","caption":"Şehinşah Kaya Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Şehinşah Kaya Mezarı","caption":"Şehinşah Kaya Mezarı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehin%C5%9Fah%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728178","tip":"genel"}]
 description: "Kastamonu'da tarihi ve doğal güzelliğin birleştiği bir mekan"
 keywords: ["Kastamonu","Şehinşah Kaya Mezarı","tarihi mekan","doğal güzellik","Karadeniz Bölgesi","gezi","turizm","kaya mezarı"]

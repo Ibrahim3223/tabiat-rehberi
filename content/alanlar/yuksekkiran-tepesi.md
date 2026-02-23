@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara seyretme","bitki türleri incelemesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%BCksekk%C4%B1ran%20Tepesi","alt":"Yüksekkıran Tepesi","caption":"Yüksekkıran Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Yüksekkıran Tepesi","caption":"Yüksekkıran Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCksekk%C4%B1ran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196143","tip":"genel"}]
 description: "Eskişehir'in İç Anadolu Bölgesi'nde yer alan Yüksekkıran Tepesi, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Tepenin etrafında çeşitli bitki türleri bulunur."
 keywords: ["Yüksekkıran Tepesi","Eskişehir","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

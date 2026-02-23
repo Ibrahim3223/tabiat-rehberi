@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCkh%C3%BCy%C3%BCk%20Tepesi","alt":"Büyükhüyük Tepesi","caption":"Büyükhüyük Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf/page1-960px-THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf.jpg","alt":"Büyükhüyük Tepesi","caption":"Büyükhüyük Tepesi","credit":"THE IDEAL OF HANDICRAFTS AND THE MODERN DESIGN FORMATION COINCIDENCES AND FAILURES.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkh%C3%BCy%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731366","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Büyükhüyük Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe"
 keywords: ["Ankara","İç Anadolu Bölgesi","Büyükhüyük Tepesi","tepe","doğa","gezi","turizm"]

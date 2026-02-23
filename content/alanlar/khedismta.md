@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Khedismta","alt":"Khedismta","caption":"Khedismta"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Khedismta","caption":"Khedismta","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Khedismta","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q12871398","tip":"genel"}]
 description: "Gürcistan'ın Acara bölgesinde bulunan Khedismta dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Khedismta","Gürcistan","Acara","Dağ","Doğa","Yeşil Cennet","Gürcistan Turizm","Acara Bölgesi","Khedismta Dağı"]

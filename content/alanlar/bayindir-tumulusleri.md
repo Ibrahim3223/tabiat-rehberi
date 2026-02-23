@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi rehberli turlar","doğa yürüyüşleri","fotografçılık","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bay%C4%B1nd%C4%B1r%20T%C3%BCm%C3%BCl%C3%BCsleri","alt":"Bayındır Tümülüsleri","caption":"Bayındır Tümülüsleri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Bayındır Tümülüsleri","caption":"Bayındır Tümülüsleri","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bay%C4%B1nd%C4%B1r%20T%C3%BCm%C3%BCl%C3%BCsleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728385","tip":"genel"}]
 description: "Antalya'nın Elmalı ilçesinde yer alan Bayındır Tümülüsleri, tarihi ve doğal güzellikleri ile dikkat çekiyor. Akdeniz Bölgesi'nin önemli kültür varlıklarından biri olarak kabul ediliyor."
 keywords: ["Bayındır Tümülüsleri","Elmalı","Antalya","tarihi yerler","doğal güzellikler","Akdeniz Bölgesi","kültür varlıkları","tarihçe","coğrafya"]

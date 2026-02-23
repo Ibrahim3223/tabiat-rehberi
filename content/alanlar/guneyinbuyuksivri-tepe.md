@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Tarih Gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCneyinb%C3%BCy%C3%BCksivri%20Tepe","alt":"Güneyinbüyüksivri Tepe","caption":"Güneyinbüyüksivri Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Across_Asia_on_a_bicycle%3B_the_journey_of_two_American_students_from_Constantinople_to_Peking_%28IA_cu31924023209491%29.pdf/page1-687px-Across_Asia_on_a_bicycle%3B_the_journey_of_two_American_students_from_Constantinople_to_Peking_%28IA_cu31924023209491%29.pdf.jpg","alt":"Güneyinbüyüksivri Tepe","caption":"Güneyinbüyüksivri Tepe","credit":"Across Asia on a bicycle; the journey of two American students from Constantinople to Peking (IA cu31924023209491).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCneyinb%C3%BCy%C3%BCksivri%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139413","tip":"genel"}]
 description: "Sivas'ta bulunan Güneyinbüyüksivri Tepe, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri."
 keywords: ["Sivas","İç Anadolu Bölgesi","Coğrafi Oluşumlar","Tarihçe","Doğa","Flora","Fauna","Ziyaret","Gezi"]

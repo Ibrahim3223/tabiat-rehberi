@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ile%20Ma%C4%9Faralar%C4%B1","alt":"Çile Mağaraları","caption":"Çile Mağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Armenian_bondage_and_carnage%3B_being_the_story_of_Christian_martyrdom_in_modern_times_%28IA_armenianbondagec00beheiala%29.pdf/page1-820px-Armenian_bondage_and_carnage%3B_being_the_story_of_Christian_martyrdom_in_modern_times_%28IA_armenianbondagec00beheiala%29.pdf.jpg","alt":"Çile Mağaraları","caption":"Çile Mağaraları","credit":"Armenian bondage and carnage; being the story of Christian martyrdom in modern times (IA armenianbondagec00beheiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ile%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319914","tip":"genel"}]
 description: "Mardin'de bulunan Çile Mağaraları, jeolojik oluşumlarıyla dikkat çeken bir jeopark alanıdır."
 keywords: ["Çile Mağaraları","Mardin","Jeopark","Doğal Alanlar","Turizm","Mardin Turistik Yerler","Jeolojik Oluşumlar","Mağara Gezileri","Doğa Turizmi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["hamamın tarihi odalarını gezmek","hamamın çevresini keşfetmek","doğal güzellikleri izlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Keth%C3%BCda%20Canfeda%20Hatun%20Hamam%C4%B1","alt":"Kethüda Canfeda Hatun Hamamı","caption":"Kethüda Canfeda Hatun Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Kethüda Canfeda Hatun Hamamı","caption":"Kethüda Canfeda Hatun Hamamı","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keth%C3%BCda%20Canfeda%20Hatun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739136","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Kethüda Canfeda Hatun Hamamı, Beykoz'da bulunmaktadır."
 keywords: ["Kethüda Canfeda Hatun Hamamı","Beykoz","İstanbul","Marmara Bölgesi","tarihi hamam","turistik yer","gezi","seyahat","tarih"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa Yürüyüşleri","Termal Su Deneyimi","Dinlenme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kestanbol%20Kapl%C4%B1cas%C4%B1","alt":"Kestanbol Kaplıcası","caption":"Kestanbol Kaplıcası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf/page1-960px-Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf.jpg","alt":"Kestanbol Kaplıcası","caption":"Kestanbol Kaplıcası","credit":"Effects of forest fire on physical, chemical and biological soil properties.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kestanbol%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741945","tip":"genel"}]
 description: "Çanakkale'de termal kaynak deneyimi"
 keywords: ["Kestanbol Kaplıcası","Çanakkale","Termal Kaynak","Kaplıca","Marmara Bölgesi","Doğal Kaynak","Sağlık Turizmi","Termal Turizm","Çanakkale Turizmi"]

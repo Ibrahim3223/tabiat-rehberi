@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezmek","yeşil alanlarda yürüyüş yapmak","piknik yapmak","fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Davutpa%C5%9Fa%20K%C4%B1%C5%9Flas%C4%B1%20Hamam%C4%B1","alt":"Davutpaşa Kışlası Hamamı","caption":"Davutpaşa Kışlası Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Davutpaşa Kışlası Hamamı","caption":"Davutpaşa Kışlası Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davutpa%C5%9Fa%20K%C4%B1%C5%9Flas%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738969","tip":"genel"}]
 description: "İstanbul'un gizli köşelerinden biri olan Davutpaşa Kışlası Hamamı, Esenler'de tarihi ve doğal güzelliklerin birleştiği bir nokta."
 keywords: ["Davutpaşa Kışlası Hamamı","Esenler","İstanbul","tarihi mekanlar","doğal güzellikler","gezi noktaları","kışla","hamam","eski yapılar"]

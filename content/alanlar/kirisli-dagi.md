@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kiri%C5%9Fli%20Da%C4%9F%C4%B1","alt":"Kirişli Dağı","caption":"Kirişli Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/G%C3%BCver_Cliff_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Scenery_%28Antalya%29.jpg","alt":"Kirişli Dağı","caption":"Kirişli Dağı","credit":"Güver Cliff Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kiri%C5%9Fli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31587973","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin, Kirişli Dağı'nda doğa yürüyüşü ve panorama manzaraları"
 keywords: ["Kirişli Dağı","Antalya","Dağ","Doğa Yürüyüşü","Panorama Manzaraları","Turizm","Gezi","Yürüyüş Rotaları","Antalya Turistik Yerler","Dağcılık"]

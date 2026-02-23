@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9Cre%20Da%C4%9F%C4%B1","alt":"Üre Dağı","caption":"Üre Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg/960px-Stamp_of_Indonesia_-_2018_-_Colnect_800738_-_Environmental_Protection_-_Bamboo_Forest.jpeg","alt":"Üre Dağı","caption":"Üre Dağı","credit":"Stamp of Indonesia - 2018 - Colnect 800738 - Environmental Protection - Bamboo Forest.jpeg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cre%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820422","tip":"genel"}]
 description: "Çanakkale'de yer alan Üre Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile keşfedilmeyi bekliyor."
 keywords: ["Üre Dağı","Çanakkale","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Çevre","Doğal Güzellik"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğrafçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yurt%20Tepesi","alt":"Yurt Tepesi","caption":"Yurt Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Yurt Tepesi","caption":"Yurt Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yurt%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32195999","tip":"genel"}]
 description: "Gümüşhane'nin güzide tepe noktası, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Yurt Tepesi","Gümüşhane","Karadeniz Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret","gezgin"]

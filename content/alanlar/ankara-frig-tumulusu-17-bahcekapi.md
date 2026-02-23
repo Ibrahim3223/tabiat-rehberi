@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezinti","kültürel keşif","fotografi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2017%2C%20Bah%C3%A7ekap%C4%B1","alt":"Ankara Frig Tümülüsü 17, Bahçekapı","caption":"Ankara Frig Tümülüsü 17, Bahçekapı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Ankara Frig Tümülüsü 17, Bahçekapı","caption":"Ankara Frig Tümülüsü 17, Bahçekapı","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2017%2C%20Bah%C3%A7ekap%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728287","tip":"genel"}]
 description: "Ankara'nın gizli hazinelerinden biri olan Ankara Frig Tümülüsü 17, Bahçekapı, şehrin merkezinde tarihi bir yolculuğa davet ediyor."
 keywords: ["Ankara","Frig Tümülüsü","Bahçekapı","tarih","kültür","gezi","seyahat","Ankara gezilecek yerler","tarihçe","coğrafya"]

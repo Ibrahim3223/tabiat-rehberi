@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alev%20Adas%C4%B1","alt":"Alev Adası","caption":"Alev Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/View_to_chios_island_-_panoramio.jpg/960px-View_to_chios_island_-_panoramio.jpg","alt":"Alev Adası","caption":"Alev Adası","credit":"View to chios island - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alev%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49631583","tip":"genel"}]
 description: "İzmir'in kıyılarında bulunan Alev Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Alev Adası","İzmir Adaları","Doğal Alanlar","Yeşil Cennetler","İzmir Turizm","Ada Gezileri","Doğa Yürüyüşleri","İzmir'in Gizli Cennetleri","Turistik Yerler"]

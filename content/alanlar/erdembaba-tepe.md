@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erdembaba%20Tepe","alt":"Erdembaba Tepe","caption":"Erdembaba Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Erdembaba Tepe","caption":"Erdembaba Tepe","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erdembaba%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568207","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Erdembaba Tepe, Türkiye'de yer alan bir dağdır."
 keywords: ["Erdembaba Tepe","Türkiye","Dağ","Doğa","Seyahat","Gezi","Türkiye'nin dağları","Doğal güzellikler","Turizm"]

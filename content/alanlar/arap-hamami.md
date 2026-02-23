@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denizde serinlemek","Güneşlemek","Yürüyüş yapmak","Doğayı keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arap%20Hamam%C4%B1","alt":"Arap Hamamı","caption":"Arap Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/The_oist_%28IA_oist31albi%29.pdf/page1-847px-The_oist_%28IA_oist31albi%29.pdf.jpg","alt":"Arap Hamamı","caption":"Arap Hamamı","credit":"The oist (IA oist31albi).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arap%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738908","tip":"genel"}]
 description: "Marmara Bölgesi'nin en güzel plajlarından biri, Bursa'nın Gemlik ilçesinde bulunan Arap Hamamı"
 keywords: ["Marmara Bölgesi","Bursa","Gemlik","Arap Hamamı","plaj","deniz","turizm","gezi","doğa"]

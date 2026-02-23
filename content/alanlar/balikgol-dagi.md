@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bal%C4%B1kg%C3%B6l%20Da%C4%9F%C4%B1","alt":"Balıkgöl Dağı","caption":"Balıkgöl Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Agricultural_marketing_%28IA_SER71900025117%29.pdf/page1-960px-Agricultural_marketing_%28IA_SER71900025117%29.pdf.jpg","alt":"Balıkgöl Dağı","caption":"Balıkgöl Dağı","credit":"Agricultural marketing (IA SER71900025117).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kg%C3%B6l%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34834309","tip":"genel"}]
 description: "Ağrı'da yer alan Balıkgöl Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çeker."
 keywords: ["Balıkgöl Dağı","Ağrı","Dağ","Trekking","Doğa","Turizm","Ağrı Turistik Yerler","Dağcılık","Doğa Sporları"]

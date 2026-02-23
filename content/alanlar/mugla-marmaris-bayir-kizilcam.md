@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Marmaris-Bayir-Kizilcam","alt":"Mugla-Marmaris-Bayir-Kizilcam","caption":"Mugla-Marmaris-Bayir-Kizilcam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marmaris_Mili_Park%C4%B1.jpg/960px-Marmaris_Mili_Park%C4%B1.jpg","alt":"Mugla-Marmaris-Bayir-Kizilcam","caption":"Mugla-Marmaris-Bayir-Kizilcam","credit":"Marmaris Mili Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Marmaris-Bayir-Kizilcam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228558","tip":"genel"}]
 description: "Marmaris'te yer alan Bayır Köyü ve Kızılcâm Ormanı'nın birleşmesiyle oluşan milli park"
 keywords: ["Marmaris","Bayır Köyü","Kızılcâm Ormanı","milli park","Muğla","Ege Bölgesi","doğa","turizm"]

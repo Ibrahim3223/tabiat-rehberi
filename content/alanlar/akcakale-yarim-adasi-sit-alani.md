@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ak%C3%A7akale%20Yar%C4%B1m%20Adas%C4%B1%20Sit%20Alan%C4%B1","alt":"Akçakale Yarım Adası Sit Alanı","caption":"Akçakale Yarım Adası Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Akçakale Yarım Adası Sit Alanı","caption":"Akçakale Yarım Adası Sit Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7akale%20Yar%C4%B1m%20Adas%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226268","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olan Akçakale Yarım Adası Sit Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["doğa","sit alanı","yarım ada","İç Anadolu Bölgesi","turizm","gezi","ekosistem","çevre","koruma"]

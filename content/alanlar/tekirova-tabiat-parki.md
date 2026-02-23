@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "en az 2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tekirova%20Tabiat%20Park%C4%B1","alt":"Tekirova Tabiat Parkı","caption":"Tekirova Tabiat Parkı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Tekirova Tabiat Parkı","caption":"Tekirova Tabiat Parkı","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekirova%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin önemli güzelliklerinden biri olan Tekirova Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Tekirova","Tabiat Parkı","Antalya","Akdeniz Bölgesi","doğa","gezi","turizm"]

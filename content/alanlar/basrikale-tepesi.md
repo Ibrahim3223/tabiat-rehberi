@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Basr%C4%B1kale%20Tepesi","alt":"Basrıkale Tepesi","caption":"Basrıkale Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Basrıkale Tepesi","caption":"Basrıkale Tepesi","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Basr%C4%B1kale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31530609","tip":"genel"}]
 description: "Ankara'nın güzide tepeleri arasında yer alan Basrıkale Tepesi, doğaseverlerin gözdesi."
 keywords: ["Basrıkale Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

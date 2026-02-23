@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1ran%C3%A7atma%20Tepesi","alt":"Kırançatma Tepesi","caption":"Kırançatma Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Anlamayana%2C_g%C3%B6z%C3%BCn_g%C3%B6rd%C3%BC%C4%9F%C3%BCd%C3%BCr%2C_bu_d%C3%BCnya._-_panoramio.jpg/960px-Anlamayana%2C_g%C3%B6z%C3%BCn_g%C3%B6rd%C3%BC%C4%9F%C3%BCd%C3%BCr%2C_bu_d%C3%BCnya._-_panoramio.jpg","alt":"Kırançatma Tepesi","caption":"Kırançatma Tepesi","credit":"Anlamayana, gözün gördüğüdür, bu dünya. - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1ran%C3%A7atma%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041858","tip":"genel"}]
 description: "Giresun'un en yüksek noktalarından biri olan Kırançatma Tepesi, 1200 metre rakımla doğa severleri bekliyor."
 keywords: ["Kırançatma Tepesi","Giresun","Dağ","Doğa","Trekking","Turizm","Giresun Gezi","Kırançatma","Tepeler"]

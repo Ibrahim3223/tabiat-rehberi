@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî yapıları gezmek","kültürel mirası keşfetmek","fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Piri%20Mustafa%20Pa%C5%9Fa%20Hamam%C4%B1","alt":"Piri Mustafa Paşa Hamamı","caption":"Piri Mustafa Paşa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Piri Mustafa Paşa Hamamı","caption":"Piri Mustafa Paşa Hamamı","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Piri%20Mustafa%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738618","tip":"genel"}]
 description: "Fatih'in tarihi hamamlarından biri olan Piri Mustafa Paşa Hamamı, İstanbul'un kalbinde yer alır."
 keywords: ["Piri Mustafa Paşa Hamamı","Fatih","İstanbul","tarihi hamam","Marmara Bölgesi","gezi","tarih"]

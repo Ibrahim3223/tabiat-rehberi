@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87avu%C5%9F%20Adas%C4%B1","alt":"Çavuş Adası","caption":"Çavuş Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf/page1-960px-Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf.jpg","alt":"Çavuş Adası","caption":"Çavuş Adası","credit":"Victoria Daily Times (1897-03-18) (IA victoriadailytimes18970318).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avu%C5%9F%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34789902","tip":"genel"}]
 description: "Muğla'da bulunan Çavuş Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Çavuş Adası","Muğla","ada","doğa","tarih","gezi","seyahat","turizm","Muğla adaları"]

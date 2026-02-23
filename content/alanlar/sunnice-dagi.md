@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCnnice%20Da%C4%9F%C4%B1","alt":"Sünnice Dağı","caption":"Sünnice Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf/page1-960px-Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf.jpg","alt":"Sünnice Dağı","caption":"Sünnice Dağı","credit":"Diary of H. M. Van Deusen January 29, 1953 to November 17, 1953 (IA diaryhmvandeuse00vanda).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCnnice%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811318","tip":"genel"}]
 description: "Bolu'nun doğal güzelliklerini keşfedin, Sünnice Dağı'nda doğa yürüyüşü ve panorama manzaraları"
 keywords: ["Sünnice Dağı","Bolu","Dağ","Doğa Yürüyüşü","Panorama Manzaraları","Turizm","Gezi","Doğa","Bolu Turistik Yerler"]

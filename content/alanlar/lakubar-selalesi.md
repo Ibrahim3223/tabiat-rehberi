@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Lakubar%20%C5%9Eelalesi","alt":"Lakubar Şelalesi","caption":"Lakubar Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chambers%27s_encyclopaedia%3B_a_dictionary_of_universal_knowledge_%28IA_chambersencyclop10lond%29.pdf/page1-877px-Chambers%27s_encyclopaedia%3B_a_dictionary_of_universal_knowledge_%28IA_chambersencyclop10lond%29.pdf.jpg","alt":"Lakubar Şelalesi","caption":"Lakubar Şelalesi","credit":"Chambers's encyclopaedia; a dictionary of universal knowledge (IA chambersencyclop10lond).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lakubar%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320229","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin en güzel şelalelerinden biri olan Lakubar Şelalesi, Rize'de bulunmaktadır."
 keywords: ["Lakubar Şelalesi","Rize","Karadeniz Bölgesi","şelale","doğa","turizm","gezi","yapı","coğrafya"]

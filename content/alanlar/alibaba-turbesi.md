@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","su sporları","kumsal aktiviteleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alibaba%20T%C3%BCrbesi","alt":"Alibaba Türbesi","caption":"Alibaba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Alibaba Türbesi","caption":"Alibaba Türbesi","credit":"Sunset in Erdek.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alibaba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391678","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli kumsallarından biri olan Alibaba Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Marmara Bölgesi","Balıkesir","kumsal","yeşil alan","doğa","gezi","turizm"]

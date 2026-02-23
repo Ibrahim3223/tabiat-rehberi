@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Tarihi yapıları incelemek","Doğal güzellikleri izlemek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87oban%20Bey%20T%C3%BCrbesi","alt":"Çoban Bey Türbesi","caption":"Çoban Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/British_medical_journal_%28IA_1877britishmedic02brit%29.pdf/page1-960px-British_medical_journal_%28IA_1877britishmedic02brit%29.pdf.jpg","alt":"Çoban Bey Türbesi","caption":"Çoban Bey Türbesi","credit":"British medical journal (IA 1877britishmedic02brit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87oban%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20476815","tip":"genel"}]
 description: "Bursa'nın Yıldırım ilçesinde bulunan tarihi bir mekan"
 keywords: ["Çoban Bey Türbesi","Yıldırım","Bursa","tarih","mimarlık","kültür","gezi","turizm","Marmara Bölgesi"]

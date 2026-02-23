@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","rehberli turlar"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaseki%20Tepesi","alt":"Karaseki Tepesi","caption":"Karaseki Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Science-gossip_%28IA_sciencegossip0670lond%29.pdf/page1-960px-Science-gossip_%28IA_sciencegossip0670lond%29.pdf.jpg","alt":"Karaseki Tepesi","caption":"Karaseki Tepesi","credit":"Science-gossip (IA sciencegossip0670lond).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaseki%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388121","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerini keşfedin, Karaseki Tepesi'ni ziyaret edin"
 keywords: ["Karaseki Tepesi","Denizli","Ege Bölgesi","doğa","tepe","gezi","turizm","yaban hayatı","ekosistem"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","fotoğraf çekimi","tarih ve kültür turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ozan%20An%C4%B1t%C4%B1","alt":"Ozan Anıtı","caption":"Ozan Anıtı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Explorations_in_Bible_lands_during_the_19th_century_%28IA_cu31924019176217%29.pdf/page1-629px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_cu31924019176217%29.pdf.jpg","alt":"Ozan Anıtı","caption":"Ozan Anıtı","credit":"Explorations in Bible lands during the 19th century (IA cu31924019176217).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ozan%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728131","tip":"genel"}]
 description: "Darende'nin tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Ozan Anıtı","Darende","Malatya","Doğu Anadolu Bölgesi","tarih","doğa","gezi"]

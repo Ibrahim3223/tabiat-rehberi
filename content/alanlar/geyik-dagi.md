@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Geyik%20Da%C4%9F%C4%B1","alt":"Geyik Dağı","caption":"Geyik Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MOKG05.jpg/960px-MOKG05.jpg","alt":"Geyik Dağı","caption":"Geyik Dağı","credit":"MOKG05.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geyik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31523292","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Geyik Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Geyik Dağı","İzmir","Dağ","Doğa","Trekking","Manzara","Gezi","İzmir Turizm","Dağcılık"]

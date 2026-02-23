@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","çevre keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Mu%C4%9Fla-Gocek%20F%C4%B1st%C4%B1k%C3%A7am%C4%B1","alt":"Mugla-Muğla-Gocek Fıstıkçamı","caption":"Mugla-Muğla-Gocek Fıstıkçamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NATIONAL_PARK_TRIP_WITH_JEEP.jpg/960px-NATIONAL_PARK_TRIP_WITH_JEEP.jpg","alt":"Mugla-Muğla-Gocek Fıstıkçamı","caption":"Mugla-Muğla-Gocek Fıstıkçamı","credit":"NATIONAL PARK TRIP WITH JEEP.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Mu%C4%9Fla-Gocek%20F%C4%B1st%C4%B1k%C3%A7am%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228439","tip":"genel"}]
 description: "Muğla'nın doğal güzellikleri arasında yer alan Gocek Fıstıkçamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Muğla","Gocek Fıstıkçamı","milli park","doğa","yeşil alan","Ege Bölgesi"]

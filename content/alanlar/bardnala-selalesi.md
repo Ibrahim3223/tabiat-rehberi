@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","bitki ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bardnala%20%C5%9Eelalesi","alt":"Bardnala Şelalesi","caption":"Bardnala Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wle-jury-report-2024-lores.pdf/page1-960px-Wle-jury-report-2024-lores.pdf.jpg","alt":"Bardnala Şelalesi","caption":"Bardnala Şelalesi","credit":"Wle-jury-report-2024-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bardnala%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q124363439","tip":"genel"}]
 description: "Artvin'in doğal güzelliklerini keşfedin. Bardnala Şelalesi, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri."
 keywords: ["Bardnala Şelalesi","Artvin","Karadeniz Bölgesi","doğal güzellik","turizm","şelale","gezi","yaban hayatı","ekosistem"]

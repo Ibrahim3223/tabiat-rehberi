@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara seyri","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BClebakan%20Tepesi","alt":"Gülebakan Tepesi","caption":"Gülebakan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Travels_in_the_Trans-caucasian_Provinces_of_Russia_-_Along_the_Southern_Shore_of_the_Lakes_of_Van_and_Urumiah%2C_in_the_Autumn_and_Winter_of_1837_%28IA_dli.granth.36634%29.pdf/page1-750px-thumbnail.pdf.jpg","alt":"Gülebakan Tepesi","caption":"Gülebakan Tepesi","credit":"Travels in the Trans-caucasian Provinces of Russia - Along the Southern Shore of the Lakes of Van and Urumiah, in the Autumn and Winter of 1837 (IA dli.granth.36634).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BClebakan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139058","tip":"genel"}]
 description: "Van'da yer alan doğal güzellik, tarihi geçmişe sahip, Doğu Anadolu Bölgesi'nin önemli noktalarından biri"
 keywords: ["Gülebakan Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tarihi geçmiş","turizm","gezi","yürüyüş","manzara"]

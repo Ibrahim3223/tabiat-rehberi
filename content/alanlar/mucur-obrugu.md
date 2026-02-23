@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mucur%20Obru%C4%9Fu","alt":"Mucur Obruğu","caption":"Mucur Obruğu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Reflections_on_Lake_Seyfe_-_panoramio.jpg/960px-Reflections_on_Lake_Seyfe_-_panoramio.jpg","alt":"Mucur Obruğu","caption":"Mucur Obruğu","credit":"Reflections on Lake Seyfe - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mucur%20Obru%C4%9Fu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Kırşehir'de yer alan Mucur Obruğu, doğal güzelliği ile dikkat çeken bir gol"
 keywords: ["Mucur Obruğu","Kırşehir","gol","doğal güzellik","turizm","gezi","seyahat","yerel turizm","Kırşehir turizm"]

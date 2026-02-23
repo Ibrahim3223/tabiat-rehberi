@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ebu%20Derda%C4%9F%20T%C3%BCrbesi","alt":"Ebu Derdağ Türbesi","caption":"Ebu Derdağ Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Ebu Derdağ Türbesi","caption":"Ebu Derdağ Türbesi","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ebu%20Derda%C4%9F%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391476","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini keşfedin. Ebu Derdağ Türbesi ve çevresi"
 keywords: ["Ebu Derdağ Türbesi","Eyüpsultan","İstanbul","Marmara Bölgesi","tarihi mekanlar","doğal alanlar","gezi rehberi"]

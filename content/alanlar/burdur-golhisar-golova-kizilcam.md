@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Picnic","Fotoğrafçılık","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Burdur-Golhisar-Golova%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Burdur-Golhisar-Golova Kızılçam","caption":"Burdur-Golhisar-Golova Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Burdur-Golhisar-Golova Kızılçam","caption":"Burdur-Golhisar-Golova Kızılçam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Golhisar-Golova%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227651","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Burdur-Golhisar-Golova Kızılçam, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Burdur","Golhisar","Golova","Kızılçam","Milli Park","İç Anadolu","Doğa","Turizm"]

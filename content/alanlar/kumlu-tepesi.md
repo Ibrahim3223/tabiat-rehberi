@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kumlu%20Tepesi","alt":"Kumlu Tepesi","caption":"Kumlu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG/960px-Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG","alt":"Kumlu Tepesi","caption":"Kumlu Tepesi","credit":"Fairy Chimneys 2, Nevşehir Province, Turkey.JPG","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumlu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390582","tip":"genel"}]
 description: "Nevşehir'in doğal güzelliklerinden biri olan Kumlu Tepesi, ziyaretçilerini büyüleyen bir destinasyon"
 keywords: ["Kumlu Tepesi","Nevşehir","doğa","tepe","gezi","turizm","İç Anadolu Bölgesi","coğrafya","flora","fauna"]

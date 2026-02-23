@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe araştırma","doğa yürüyüşü","fotograf çekme","ekosistem gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Manisa%20Saray%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1%20(2)","alt":"Manisa Saray Hamamı Kalıntısı (2)","caption":"Manisa Saray Hamamı Kalıntısı (2)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf/page1-960px-The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf.jpg","alt":"Manisa Saray Hamamı Kalıntısı (2)","caption":"Manisa Saray Hamamı Kalıntısı (2)","credit":"The new international encyclopaedia ... (Vol. 15, MANI-MISSI) (IA newinternational15unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manisa%20Saray%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1%20(2)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738745","tip":"genel"}]
 description: "Manisa'da histórik bir yer olan Saray Hamamı Kalıntısı, 140 hektarlık bir alana yayılmaktadır."
 keywords: ["Manisa","Saray Hamamı","tarih","kültür","gezi","Ege Bölgesi","Şehzadeler","historik yerler","turizm","doğa"]

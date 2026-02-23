@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["türbe gezisi","doğa yürüyüşü","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ai%C5%9Fe%20Hatun%20T%C3%BCrbesi","alt":"Aişe Hatun Türbesi","caption":"Aişe Hatun Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Aişe Hatun Türbesi","caption":"Aişe Hatun Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ai%C5%9Fe%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390662","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzellikleri arasında yer alan Aişe Hatun Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Amasya","tarih","doğa","türbe","gezi","Karadeniz Bölgesi","kültür","miras"]

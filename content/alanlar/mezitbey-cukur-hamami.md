@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mezitbey%20%C3%87ukur%20Hamam%C4%B1","alt":"Mezitbey Çukur Hamamı","caption":"Mezitbey Çukur Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Mezitbey Çukur Hamamı","caption":"Mezitbey Çukur Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mezitbey%20%C3%87ukur%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738503","tip":"genel"}]
 description: "Marmara Bölgesi'nde yer alan Mezitbey Çukur Hamamı, Edirne'nin tarihi ve doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Mezitbey Çukur Hamamı","Edirne","Marmara Bölgesi","tarihi yerler","doğa","gezi","turizm","kültür","tarih"]

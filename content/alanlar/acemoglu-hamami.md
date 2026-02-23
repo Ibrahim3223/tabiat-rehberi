@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["denizde yüzme","güneşlenme","tarihi hamam ziyaretleri","doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Acemo%C4%9Flu%20Hamam%C4%B1","alt":"Acemoğlu Hamamı","caption":"Acemoğlu Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Acemoğlu Hamamı","caption":"Acemoğlu Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Acemo%C4%9Flu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738576","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan Acemoğlu Hamamı, tarihi bir hamam ve plaj alanıdır."
 keywords: ["Acemoğlu Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarihi hamam","plaj alanı"]

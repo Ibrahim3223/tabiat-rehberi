@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","gözlem","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karn%C4%B1yar%C4%B1k%20Tepesi","alt":"Karnıyarık Tepesi","caption":"Karnıyarık Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Armenians%2C_or_The_people_of_Ararat_%28IA_armeniansorpeopl00gabr%29.pdf/page1-675px-The_Armenians%2C_or_The_people_of_Ararat_%28IA_armeniansorpeopl00gabr%29.pdf.jpg","alt":"Karnıyarık Tepesi","caption":"Karnıyarık Tepesi","credit":"The Armenians, or The people of Ararat (IA armeniansorpeopl00gabr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karn%C4%B1yar%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387020","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri olan Karnıyarık Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Karnıyarık Tepesi","Kars","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]

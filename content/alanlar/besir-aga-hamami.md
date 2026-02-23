@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezmek","kültürel merkezleri ziyaret etmek","hamamın tarihi geçmişi hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Be%C5%9Fir%20A%C4%9Fa%20Hamam%C4%B1","alt":"Beşir Ağa Hamamı","caption":"Beşir Ağa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Beşir Ağa Hamamı","caption":"Beşir Ağa Hamamı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fir%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738955","tip":"genel"}]
 description: "Fatih'in tarihi hamamlarından biri olan Beşir Ağa Hamamı, Marmara Bölgesi'nde yer alan İstanbul'un önemli kültürel miraslarından biridir."
 keywords: ["Beşir Ağa Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarihi hamam","kültürel miras"]

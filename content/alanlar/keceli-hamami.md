@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","su sporları","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ke%C3%A7eli%20Hamam%C4%B1","alt":"Keçeli Hamamı","caption":"Keçeli Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Animal_disease_thesaurus_%28IA_CAT80734093003%29.pdf/page1-900px-Animal_disease_thesaurus_%28IA_CAT80734093003%29.pdf.jpg","alt":"Keçeli Hamamı","caption":"Keçeli Hamamı","credit":"Animal disease thesaurus (IA CAT80734093003).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C3%A7eli%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738651","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde yer alan Keçeli Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bursa","Osmangazi","Keçeli Hamamı","yeşil alan","plaj","Marmara Bölgesi","doğal alanlar","turizm"]

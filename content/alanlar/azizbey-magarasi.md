@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Azizbey%20Ma%C4%9Faras%C4%B1","alt":"Azizbey Mağarası","caption":"Azizbey Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Turkish_influence_in_the_South_Caucasus_and_Levant-_the_consequences_for_NATO_and_the_EU_%28IA_turkishinfluence1094537733%29.pdf/page1-960px-Turkish_influence_in_the_South_Caucasus_and_Levant-_the_consequences_for_NATO_and_the_EU_%28IA_turkishinfluence1094537733%29.pdf.jpg","alt":"Azizbey Mağarası","caption":"Azizbey Mağarası","credit":"Turkish influence in the South Caucasus and Levant- the consequences for NATO and the EU (IA turkishinfluence1094537733).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Azizbey%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319046","tip":"genel"}]
 description: "Kars'ta bulunan Azizbey Mağarası, 1200 hektarlık bir jeopark alanı sunar. Doğal güzelliği ve jeolojik oluşumlarıyla dikkat çeker."
 keywords: ["Azizbey Mağarası","Kars","Jeopark","Doğal Alan","Mağara","Turizm","Kars Turistik Yerler","Jeolojik Oluşumlar","Doğa"]

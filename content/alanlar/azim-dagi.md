@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Az%C4%B1m%20Da%C4%9F%C4%B1","alt":"Azım Dağı","caption":"Azım Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/In_the_land_of_Ararat%2C_a_sketch_of_the_life_of_Mrs._Elizabeth_Freeman_Barrows_Ussher%2C_missionary_to_Turkey_and_a_martyr_of_the_great_war_%28IA_inlandofararatsk00barr%29.pdf/page1-762px-thumbnail.pdf.jpg","alt":"Azım Dağı","caption":"Azım Dağı","credit":"In the land of Ararat, a sketch of the life of Mrs. Elizabeth Freeman Barrows Ussher, missionary to Turkey and a martyr of the great war (IA inlandofararatsk00barr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Az%C4%B1m%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531134","tip":"genel"}]
 description: "Manisa'nın önemli dağlarından biri olan Azım Dağı, 1200 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["Azım Dağı","Manisa","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Manisa Gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Kültür turları","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Seyit%20Vakkas%20T%C3%BCrbesi","alt":"Seyit Vakkas Türbesi","caption":"Seyit Vakkas Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Seyit Vakkas Türbesi","caption":"Seyit Vakkas Türbesi","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyit%20Vakkas%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391322","tip":"genel"}]
 description: "Giresun'un tarihi ve doğal güzelliklerini keşfedin. Seyit Vakkas Türbesi ve plajı, Karadeniz Bölgesi'nin en önemli turizm noktalarından biri."
 keywords: ["Seyit Vakkas Türbesi","Giresun","Karadeniz Bölgesi","tarihi mekanlar","plajlar","turizm","gezi rehberi","doğa","kültür"]

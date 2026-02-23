@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zonguldak-Yenice-Citdere%20Mese","alt":"Zonguldak-Yenice-Citdere Mese","caption":"Zonguldak-Yenice-Citdere Mese"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Zonguldak-Yenice-Citdere Mese","caption":"Zonguldak-Yenice-Citdere Mese","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Yenice-Citdere%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227768","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Zonguldak-Yenice-Citdere Mese, doğal güzellikleri ve zengin faunaıyla dikkat çekiyor."
 keywords: ["Zonguldak","Yenice","Citdere","Mese","Karadeniz Bölgesi","doğal güzellik","zengin fauna"]

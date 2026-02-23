@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["doğada yürüyüş","tarih keşfi","doğal güzellikleri izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaya%20Mezar%C4%B1%207%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","alt":"Kaya Mezarı 7 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 7 (Tikenlice Mahallesi) Gürgentepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Kaya Mezarı 7 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 7 (Tikenlice Mahallesi) Gürgentepe","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%207%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728208","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerinden biri olan Kaya Mezarı 7, Gürgentepe'de yer alan tarihi ve coğrafi özellikleri ile dikkat çekiyor."
 keywords: ["Kaya Mezarı 7","Tikenlice Mahallesi","Gürgentepe","Ordu","Karadeniz Bölgesi","doğal güzellik","tarih","coğrafya"]

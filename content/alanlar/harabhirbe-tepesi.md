@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Harabh%C4%B1rbe%20Tepesi","alt":"Harabhırbe Tepesi","caption":"Harabhırbe Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf/page1-635px-In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf.jpg","alt":"Harabhırbe Tepesi","caption":"Harabhırbe Tepesi","credit":"In gold and silver .. (IA ingoldandsilver00ellwiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harabh%C4%B1rbe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551184","tip":"genel"}]
 description: "Mardin'in tarihi ve coğrafi güzelliklerini bir araya getiren Harabhırbe Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mardin","Harabhırbe Tepesi","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","doğa","gezi"]

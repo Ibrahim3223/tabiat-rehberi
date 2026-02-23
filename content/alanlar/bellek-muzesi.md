@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bellek%20M%C3%BCzesi","alt":"Bellek Müzesi","caption":"Bellek Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf/page1-960px-State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf.jpg","alt":"Bellek Müzesi","caption":"Bellek Müzesi","credit":"State 2009-01- Iss 530 (IA sim state-magazine 2009-01 530).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bellek%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950184","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, Bellek Müzesi'ni ziyaret edin. Doğa, tarih ve kültür bir arada."
 keywords: ["Ankara","doğa","tarih","kültür","müze","yayla","gezi","turizm","iç anadolu"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=D%C3%B6kmetepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Vezirk%C3%B6pr%C3%BC","alt":"Dökmetepe Tümülüsü, Vezirköprü","caption":"Dökmetepe Tümülüsü, Vezirköprü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Dökmetepe Tümülüsü, Vezirköprü","caption":"Dökmetepe Tümülüsü, Vezirköprü","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%B6kmetepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Vezirk%C3%B6pr%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728405","tip":"genel"}]
 description: "Samsun'un Vezirköprü ilçesinde yer alan Dökmetepe Tümülüsü, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Dökmetepe Tümülüsü","Vezirköprü","Samsun","Karadeniz Bölgesi","tarihi yerler","doğa turizmi","tümülüsler","Samsun gezilecek yerler"]

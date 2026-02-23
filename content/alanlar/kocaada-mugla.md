@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kocaada%2C%20Mu%C4%9Fla","alt":"Kocaada, Muğla","caption":"Kocaada, Muğla"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Kocaada","caption":"Kocaada","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocaada%2C%20Mu%C4%9Fla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6031817","tip":"genel"}]
 description: "Muğla'nın güzide adalarından biri olan Kocaada, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kocaada","Muğla","ada","doğa","yeşil","gezi","turizm","Muğla adaları","Kocaada gezilecek yerler"]

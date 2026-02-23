@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Da%C5%9Fburun%20(A%C4%9Fr%C4%B1%20Da%C4%9F%C4%B1)","alt":"Daşburun (Ağrı Dağı)","caption":"Daşburun (Ağrı Dağı)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Daşburun (Ağrı Dağı)","caption":"Daşburun (Ağrı Dağı)","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Da%C5%9Fburun%20(A%C4%9Fr%C4%B1%20Da%C4%9F%C4%B1)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21211209","tip":"genel"}]
 description: "Iğdır'da bulunan Daşburun (Ağrı Dağı), doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Daşburun","Ağrı Dağı","Iğdır","Dağ","Doğa","Türkiye","Gezi","Seyahat","Turizm"]

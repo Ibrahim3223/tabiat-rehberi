@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Laletepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Tire","alt":"Laletepe Tümülüsü, Tire","caption":"Laletepe Tümülüsü, Tire"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg","alt":"Laletepe Tümülüsü, Tire","caption":"Laletepe Tümülüsü, Tire","credit":"Süzer Sun Dreams Beach 10 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Laletepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Tire","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728293","tip":"genel"}]
 description: "Tire'nin tarihi ve doğal güzelliklerini keşfedin. Laletepe Tümülüsü, Ege Bölgesi'nin önemli tarihi noktalarından biri."
 keywords: ["Tire","Laletepe Tümülüsü","Ege Bölgesi","tarih","doğa","gezi","tümülüs","İzmir"]

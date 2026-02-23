@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Trekking","Piknik","Gözlem"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Afyonkarahisar-Cay%20Mese","alt":"Afyonkarahisar-Cay Mese","caption":"Afyonkarahisar-Cay Mese"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Psyche_%28IA_psyche2010camb%29.pdf/page1-960px-Psyche_%28IA_psyche2010camb%29.pdf.jpg","alt":"Afyonkarahisar-Cay Mese","caption":"Afyonkarahisar-Cay Mese","credit":"Psyche (IA psyche2010camb).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Afyonkarahisar-Cay%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227705","tip":"genel"}]
 description: "Afyonkarahisar'da yer alan Cay Mese Milli Parkı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekmektedir."
 keywords: ["Afyonkarahisar","Cay Mese","Milli Park","Doğa","Flora","Fauna","Ege Bölgesi","Turizm"]

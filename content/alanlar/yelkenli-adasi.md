@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yelkenli%20Adas%C4%B1","alt":"Yelkenli Adası","caption":"Yelkenli Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla01burt_0%29.pdf/page1-841px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla01burt_0%29.pdf.jpg","alt":"Yelkenli Adası","caption":"Yelkenli Adası","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla01burt 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelkenli%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30632350","tip":"genel"}]
 description: "Türkiye'nin güzel ada destinasyonlarından biri olan Yelkenli Adası, doğa severler için bir cennet."
 keywords: ["Yelkenli Adası","Türkiye Adaları","Doğa Turizmi","Ada Gezileri","Deniz Turizmi","Yelkenli Adası Gezi","Türkiye'nin Adaları","Turizm Destinasyonları","Doğa ve Deniz"]

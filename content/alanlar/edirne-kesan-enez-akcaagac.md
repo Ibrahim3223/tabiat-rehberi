@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Edirne-Kesan%20Enez-Akcaagac","alt":"Edirne-Kesan Enez-Akcaagac","caption":"Edirne-Kesan Enez-Akcaagac"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flamingo_dans%C4%B1.jpg/960px-Flamingo_dans%C4%B1.jpg","alt":"Edirne-Kesan Enez-Akcaagac","caption":"Edirne-Kesan Enez-Akcaagac","credit":"Flamingo dansı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Edirne-Kesan%20Enez-Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228098","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğal güzellikleri arasında yer alan Edirne-Kesan Enez-Akcaagac, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunuyor."
 keywords: ["Edirne","Kesan","Enez","Akcaagac","Marmara Bölgesi","doğal alan","yeşil alan","fiziksel veriler","coğrafya"]

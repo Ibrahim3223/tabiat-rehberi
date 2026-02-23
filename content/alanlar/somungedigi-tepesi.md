@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Somungedi%C4%9Fi%20Tepesi","alt":"Somungediği Tepesi","caption":"Somungediği Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf/page1-804px-David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf.jpg","alt":"Somungediği Tepesi","caption":"Somungediği Tepesi","credit":"David George Hogarth. Accidents of an antiquary's life. 1910.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Somungedi%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391133","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Somungediği Tepesi, ziyaretçilerini natuurun güzelliği ile baş başa bırakıyor"
 keywords: ["Somungediği Tepesi","Sivas","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]

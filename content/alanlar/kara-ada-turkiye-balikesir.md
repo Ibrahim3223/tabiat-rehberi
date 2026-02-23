@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kara%20Ada%20(T%C3%BCrkiye%2C%20Bal%C4%B1kesir)","alt":"Kara Ada (Türkiye, Balıkesir)","caption":"Kara Ada (Türkiye, Balıkesir)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg","alt":"Kara Ada","caption":"Kara Ada","credit":"Piri Reis - Map of the Island of Cos Off the Anatolian Coast - Walters W65895A - Full Page.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Ada%20(T%C3%BCrkiye%2C%20Bal%C4%B1kesir)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49645362","tip":"genel"}]
 description: "Balıkesir'in güzide adalarından biri olan Kara Ada, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kara Ada","Balıkesir","ada","doğa","yeşil","gezi","turizm","Türkiye","Marmara"]

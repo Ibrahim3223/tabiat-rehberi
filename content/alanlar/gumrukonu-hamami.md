@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Güneşlenmek","Denizde yıkanmak","Plaj sporları","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCmr%C3%BCk%C3%B6n%C3%BC%20Hamam%C4%B1","alt":"Gümrükönü Hamamı","caption":"Gümrükönü Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Gümrükönü Hamamı","caption":"Gümrükönü Hamamı","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCmr%C3%BCk%C3%B6n%C3%BC%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738894","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide tatil noktalarından biri olan Gümrükönü Hamamı, Efeler ilçesinde yer alır ve ziyaretçilerini güneşin ve denizin keyfini çıkarmaya davet eder."
 keywords: ["Gümrükönü Hamamı","Efeler","Aydın","Ege Bölgesi","plaj","deniz","tatil"]

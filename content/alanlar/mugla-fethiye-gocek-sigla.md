@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["yürüyüş","trekking","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Fethiye-Gocek%20Sigla","alt":"Mugla-Fethiye-Gocek Sigla","caption":"Mugla-Fethiye-Gocek Sigla"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Marmaris_National_Park.jpg/960px-Marmaris_National_Park.jpg","alt":"Mugla-Fethiye-Gocek Sigla","caption":"Mugla-Fethiye-Gocek Sigla","credit":"Marmaris National Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Fethiye-Gocek%20Sigla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227755","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, 140 hektarlık yeşil alanın içinde yer alan Sigla milli parkı"
 keywords: ["Mugla","Fethiye","Gocek","Sigla","milli park","doğa","yeşil alan","gezi","turizm"]

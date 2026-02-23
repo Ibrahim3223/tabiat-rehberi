@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Burunkaya%20Tepe","alt":"Burunkaya Tepe","caption":"Burunkaya Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Burunkaya Tepe","caption":"Burunkaya Tepe","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burunkaya%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31570404","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerini keşfedin, Burunkaya Tepe'de doğa ile baş başa kalın."
 keywords: ["Burunkaya Tepe","Samsun","Dağ","Doğa","Turizm","Samsun Gezi","Dağcılık","Doğa Yürüyüşü","Samsun Turistik Yerler"]

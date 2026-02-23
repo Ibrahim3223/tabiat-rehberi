@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tekke%20Da%C4%9F%C4%B1","alt":"Tekke Dağı","caption":"Tekke Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Colors_of_nature_in_Goreme_Valley.jpg/960px-Colors_of_nature_in_Goreme_Valley.jpg","alt":"Tekke Dağı","caption":"Tekke Dağı","credit":"Colors of nature in Goreme Valley.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekke%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504955","tip":"genel"}]
 description: "Nevşehir'de yer alan Tekke Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Tekke Dağı","Nevşehir","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Nevşehir Turistik Yerler","Doğa Yürüyüşü"]

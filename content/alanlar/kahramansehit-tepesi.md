@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","yürüyüş","manzara izleme","tarih öğrenme","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahraman%C5%9Fehit%20Tepesi","alt":"Kahramanşehit Tepesi","caption":"Kahramanşehit Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Kahramanşehit Tepesi","caption":"Kahramanşehit Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahraman%C5%9Fehit%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559247","tip":"genel"}]
 description: "Ankara'nın önemli tarihi noktalarından biri olan Kahramanşehit Tepesi, şehrin merkezinde yer alır."
 keywords: ["Kahramanşehit Tepesi","Ankara","tarih","coğrafya","doğa","ziyaret","gezi","turizm","Ankara'nın tarihi","Ankara'nın coğrafyası"]

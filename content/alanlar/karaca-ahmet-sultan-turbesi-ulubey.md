@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaca%20Ahmet%20Sultan%20T%C3%BCrbesi%2C%20Ulubey","alt":"Karaca Ahmet Sultan Türbesi, Ulubey","caption":"Karaca Ahmet Sultan Türbesi, Ulubey"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Karaca Ahmet Sultan Türbesi, Ulubey","caption":"Karaca Ahmet Sultan Türbesi, Ulubey","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaca%20Ahmet%20Sultan%20T%C3%BCrbesi%2C%20Ulubey","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582175","tip":"genel"}]
 description: "Ulubey'de tarihi ve doğal güzelliği bir arada sunan Karaca Ahmet Sultan Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Karaca Ahmet Sultan Türbesi","Ulubey","Uşak","Ege Bölgesi","tarih","doğa","gezi","turizm","türkçe","tarihi mekanlar"]

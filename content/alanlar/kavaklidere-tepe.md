@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kavakl%C4%B1dere%20Tepe","alt":"Kavaklıdere Tepe","caption":"Kavaklıdere Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Kavaklıdere Tepe","caption":"Kavaklıdere Tepe","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavakl%C4%B1dere%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564751","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin, Kavaklıdere Tepe'de dağların büyüsüne kapılmaya hazır olun!"
 keywords: ["Kavaklıdere Tepe","Erzurum","Dağ","Doğa","Turizm","Gezi","Seyahat","Erzurum Gezilecek Yerler","Dağ Turizmi"]

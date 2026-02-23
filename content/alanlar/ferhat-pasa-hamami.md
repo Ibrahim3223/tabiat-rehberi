@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi gezisi","doğa yürüyüşü","kültürel etkinlikler","mimari incelemesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ferhat%20Pa%C5%9Fa%20Hamam%C4%B1","alt":"Ferhat Paşa Hamamı","caption":"Ferhat Paşa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ferhat Paşa Hamamı","caption":"Ferhat Paşa Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ferhat%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738817","tip":"genel"}]
 description: "Kastamonu'nun tarihi ve doğal güzelliklerinin birleştiği nokta: Ferhat Paşa Hamamı"
 keywords: ["Kastamonu","Ferhat Paşa Hamamı","tarih","doğa","gezi","karadeniz","kültür","mimari","turizm"]

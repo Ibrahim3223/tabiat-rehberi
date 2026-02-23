@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kepirda%C4%9F%C4%B1%20Tepe","alt":"Kepirdağı Tepe","caption":"Kepirdağı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Skyland%2C_situated_on_high_plateau_in_the_Blue_Ridge_near_grand_old_Stony_Man_Peak_%28IA_skylandsituatedo01roan%29.pdf/page1-864px-Skyland%2C_situated_on_high_plateau_in_the_Blue_Ridge_near_grand_old_Stony_Man_Peak_%28IA_skylandsituatedo01roan%29.pdf.jpg","alt":"Kepirdağı Tepe","caption":"Kepirdağı Tepe","credit":"Skyland, situated on high plateau in the Blue Ridge near grand old Stony Man Peak (IA skylandsituatedo01roan).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kepirda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515638","tip":"genel"}]
 description: "Van'da bulunan Kepirdağı Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri. Doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Kepirdağı Tepe","Van","Dağ","Trekking","Doğa","Turizm","Van Gezi","Kepirdağı","Tepe"]

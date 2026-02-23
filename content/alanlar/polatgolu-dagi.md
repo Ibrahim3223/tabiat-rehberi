@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Polatg%C3%B6l%C3%BC%20Da%C4%9F%C4%B1","alt":"Polatgölü Dağı","caption":"Polatgölü Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Polatgölü Dağı","caption":"Polatgölü Dağı","credit":"Erzincan Refahiye.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Polatg%C3%B6l%C3%BC%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34896668","tip":"genel"}]
 description: "Erzincan'da yer alan Polatgölü Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Polatgölü Dağı","Erzincan","Dağ","Doğa","Trekking","Turizm","Erzincan Turistik Yerler","Dağcılık","Doğa Sporları"]

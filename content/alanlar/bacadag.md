@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bacada%C4%9F","alt":"Bacadağ","caption":"Bacadağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Bacadağ","caption":"Bacadağ","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bacada%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531023","tip":"genel"}]
 description: "Siirt'te bulunan Bacadağ, doğa severlerin ziyaret ettiği bir dağdır. 1200 hektarlık yeşil alanı ile dikkat çeker."
 keywords: ["Bacadağ","Siirt","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Türkiye"]

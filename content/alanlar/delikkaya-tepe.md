@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi geçmişi keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Delikkaya%20Tepe","alt":"Delikkaya Tepe","caption":"Delikkaya Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/G%C3%BCver_Cliff_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Scenery_%28Antalya%29.jpg","alt":"Delikkaya Tepe","caption":"Delikkaya Tepe","credit":"Güver Cliff Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Delikkaya%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390141","tip":"genel"}]
 description: "Antalya'da bulunan Delikkaya Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Delikkaya Tepe","Antalya","doğal güzellik","tarihi geçmişi","Akdeniz Bölgesi","tepe","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa fotoğrafçılığı","manzara izleme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C4%B1plakyurt%20Tepesi","alt":"Çıplakyurt Tepesi","caption":"Çıplakyurt Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dar-ul-Islam%3B_a_record_of_a_journey_through_ten_of_the_Asiatic_provinces_of_Turkey_%28IA_darulislamrecord00syke%29.pdf/page1-866px-Dar-ul-Islam%3B_a_record_of_a_journey_through_ten_of_the_Asiatic_provinces_of_Turkey_%28IA_darulislamrecord00syke%29.pdf.jpg","alt":"Çıplakyurt Tepesi","caption":"Çıplakyurt Tepesi","credit":"Dar-ul-Islam; a record of a journey through ten of the Asiatic provinces of Turkey (IA darulislamrecord00syke).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1plakyurt%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21702986","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Çıplakyurt Tepesi, Iğdır'ın güzelliklerini keşfetmek için ideal bir nokta."
 keywords: ["Iğdır","Doğu Anadolu Bölgesi","Çıplakyurt Tepesi","doğa","gezi","tepe","manzara"]

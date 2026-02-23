@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğayı keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Balikesir-Alacam-Degirmenegrek%20Karacam%201","alt":"Balikesir-Alacam-Degirmenegrek Karacam 1","caption":"Balikesir-Alacam-Degirmenegrek Karacam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Balikesir-Alacam-Degirmenegrek Karacam 1","caption":"Balikesir-Alacam-Degirmenegrek Karacam 1","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Alacam-Degirmenegrek%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227482","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Balikesir-Alacam-Degirmenegrek Karacam 1 milli parkı, ziyaretçilerini doğal güzellikleriyle bekliyor."
 keywords: ["Balikesir-Alacam-Degirmenegrek Karacam 1","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem"]

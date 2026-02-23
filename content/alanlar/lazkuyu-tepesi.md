@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Lazkuyu%20Tepesi","alt":"Lazkuyu Tepesi","caption":"Lazkuyu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf/page1-960px-FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf.jpg","alt":"Lazkuyu Tepesi","caption":"Lazkuyu Tepesi","credit":"FEDLINK - United States Federal Collection (IA keepingcurrentnd109453799).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lazkuyu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390507","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerinden biri olan Lazkuyu Tepesi, yaklaşık 140 hektarlık alanıyla ziyaretçilerini büyülüyor."
 keywords: ["Lazkuyu Tepesi","Konya","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

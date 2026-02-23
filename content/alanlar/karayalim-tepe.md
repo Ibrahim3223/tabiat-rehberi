@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karayal%C4%B1m%20Tepe","alt":"Karayalım Tepe","caption":"Karayalım Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Karayalım Tepe","caption":"Karayalım Tepe","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karayal%C4%B1m%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390404","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerini keşfedin. İç Anadolu Bölgesi'nin çekici noktalarından biri olan Karayalım Tepe, ziyaretçilerini bekliyor."
 keywords: ["Karayalım Tepe","Konya","İç Anadolu Bölgesi","doğal güzellik","tarih","gezi","turizm","coğrafya","flora","fauna"]

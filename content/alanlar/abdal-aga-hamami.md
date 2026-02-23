@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik yapmak","doğayı seyretmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abdal%20A%C4%9Fa%20Hamam%C4%B1","alt":"Abdal Ağa Hamamı","caption":"Abdal Ağa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Siverek.jpg/960px-Siverek.jpg","alt":"Abdal Ağa Hamamı","caption":"Abdal Ağa Hamamı","credit":"Siverek.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdal%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739205","tip":"genel"}]
 description: "Şanlıurfa'nın Siverek ilçesinde yer alan Abdal Ağa Hamamı, doğa severler için bir cennet. 140 hektarlık yeşil alan, çeşitli flora ve fauna türleriyle ziyaretçilerini bekliyor."
 keywords: ["Abdal Ağa Hamamı","Siverek","Şanlıurfa","doğa","flora","fauna","yeşil alan","gezi"]

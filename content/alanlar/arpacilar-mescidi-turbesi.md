@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi mekanları gezmek","çevre düzenlemelerini incelemek","fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arpac%C4%B1lar%20Mescidi%20T%C3%BCrbesi","alt":"Arpacılar Mescidi Türbesi","caption":"Arpacılar Mescidi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Arpacılar Mescidi Türbesi","caption":"Arpacılar Mescidi Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arpac%C4%B1lar%20Mescidi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390999","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi bir mekan"
 keywords: ["Arpacılar Mescidi Türbesi","Fatih","İstanbul","tarihi mekan","Marmara Bölgesi","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğraf çekimi","Bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ifte%20H%C3%BCy%C3%BCk","alt":"Çifte Hüyük","caption":"Çifte Hüyük"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Çifte Hüyük","caption":"Çifte Hüyük","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ifte%20H%C3%BCy%C3%BCk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829083","tip":"genel"}]
 description: "Hatay ilinde yer alan tarihi ve doğal güzellikleri ile dikkat çeken Çifte Hüyük, ziyaretçilerini bekliyor."
 keywords: ["Çifte Hüyük","Hatay","Akdeniz Bölgesi","Tarih","Doğa","Gezi","Türkiye","Kültür"]

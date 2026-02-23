@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","orman gezi","nehir kenarı gezintisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Mengen-Daren%20Karacam%202","alt":"Bolu-Mengen-Daren Karacam 2","caption":"Bolu-Mengen-Daren Karacam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/G%C3%B6lc%C3%BCk2.jpg/960px-G%C3%B6lc%C3%BCk2.jpg","alt":"Bolu-Mengen-Daren Karacam 2","caption":"Bolu-Mengen-Daren Karacam 2","credit":"Gölcük2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Mengen-Daren%20Karacam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227486","tip":"genel"}]
 description: "Bolu ilinde yer alan Bolu-Mengen-Daren Karacam 2 milli parkı"
 keywords: ["Bolu","Mengen","Daren Karacam 2","milli park","Karadeniz Bölgesi","doğa","turizm"]

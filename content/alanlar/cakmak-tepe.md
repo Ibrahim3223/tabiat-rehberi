@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87akmak%20Tepe","alt":"Çakmak Tepe","caption":"Çakmak Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%B6bekli_Tepe_-_landscape.jpg/960px-G%C3%B6bekli_Tepe_-_landscape.jpg","alt":"Çakmak Tepe","caption":"Çakmak Tepe","credit":"Göbekli Tepe - landscape.jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87akmak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823190","tip":"genel"}]
 description: "Şanlıurfa'da bulunan Çakmak Tepe, tarihi ve doğal güzellikleriyle dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Çakmak Tepe","Şanlıurfa","Dağ","Doğa","Tarih","Turizm","Gezi","Şanlıurfa gezilecek yerler","Doğal güzellikler"]

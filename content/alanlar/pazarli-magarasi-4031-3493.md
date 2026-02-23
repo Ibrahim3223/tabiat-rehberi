@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pazarl%C4%B1%20Ma%C4%9Faras%C4%B1%20(40.31%2C%2034.93)","alt":"Pazarlı Mağarası (40.31, 34.93)","caption":"Pazarlı Mağarası (40.31, 34.93)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg","alt":"Pazarlı Mağarası","caption":"Pazarlı Mağarası","credit":"The Landscape of Sıklık Gates.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pazarl%C4%B1%20Ma%C4%9Faras%C4%B1%20(40.31%2C%2034.93)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319647","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin. 40.31, 34.93 koordinatlarında yer alan Pazarlı Mağarası, jeopark türünde bir destinasyon."
 keywords: ["Pazarlı Mağarası","Çorum","Jeopark","Doğal Alan","Mağara","Turizm","Çorum Turistik Yerler","Jeolojik Oluşum","Doğa Harikaları"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","vahşi yaşam gözlemi","trekking"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adana-Kadirli-Kara%C3%A7am","alt":"Adana-Kadirli-Karaçam","caption":"Adana-Kadirli-Karaçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Victoria_Daily_Times_%281920-07-29%29_%28IA_victoriadailytimes19200729%29.pdf/page1-960px-Victoria_Daily_Times_%281920-07-29%29_%28IA_victoriadailytimes19200729%29.pdf.jpg","alt":"Adana-Kadirli-Karaçam","caption":"Adana-Kadirli-Karaçam","credit":"Victoria Daily Times (1920-07-29) (IA victoriadailytimes19200729).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli-Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228447","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin gizli cenneti, doğa severler için bir tutku"
 keywords: ["Adana","Kadirli","Karaçam","milli park","doğa","gezi","yaban hayatı","çevre","ekoloji"]

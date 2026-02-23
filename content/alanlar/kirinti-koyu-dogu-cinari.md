@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kirinti%20Koyu%20Dogu%20Cinari","alt":"Kirinti Koyu Dogu Cinari","caption":"Kirinti Koyu Dogu Cinari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kirinti Koyu Dogu Cinari","caption":"Kirinti Koyu Dogu Cinari","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirinti%20Koyu%20Dogu%20Cinari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227368","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kirinti Koyu Dogu Cinari, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Doğal güzelliği ve zengin fauna yapısıyla dikkat çeker."
 keywords: ["Kirinti Koyu Dogu Cinari","İç Anadolu Bölgesi","doğa alanı","flora","fauna","milli park","turizm","gezi","doğal güzellik"]

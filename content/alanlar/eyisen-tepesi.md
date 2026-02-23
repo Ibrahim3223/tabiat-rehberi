@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","tarihi eserleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eyisen%20Tepesi","alt":"Eyisen Tepesi","caption":"Eyisen Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ordu_Cenneti.jpg/960px-Ordu_Cenneti.jpg","alt":"Eyisen Tepesi","caption":"Eyisen Tepesi","credit":"Ordu Cenneti.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eyisen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387167","tip":"genel"}]
 description: "Ordu ilinin güzide tepelerinden biri olan Eyisen Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Eyisen Tepesi","Ordu","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]

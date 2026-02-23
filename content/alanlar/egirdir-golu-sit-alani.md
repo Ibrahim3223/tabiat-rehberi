@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Yürüyüş","Piknik","Balık tutma","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=E%C4%9Firdir%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","alt":"Eğirdir Gölü Sit Alanı","caption":"Eğirdir Gölü Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Eğirdir Gölü Sit Alanı","caption":"Eğirdir Gölü Sit Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Firdir%20G%C3%B6l%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226686","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Eğirdir Gölü Sit Alanı, doğa severler için önemli bir destinasyon."
 keywords: ["Eğirdir Gölü","Sit Alanı","İç Anadolu Bölgesi","doğa","göl","turizm","çevre","koruma"]

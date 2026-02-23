@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Tarih araştırması","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alt%C4%B1nkaya%20Tepesi","alt":"Altınkaya Tepesi","caption":"Altınkaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Armenians%2C_or_The_people_of_Ararat_%28IA_armeniansorpeopl00gabr%29.pdf/page1-675px-The_Armenians%2C_or_The_people_of_Ararat_%28IA_armeniansorpeopl00gabr%29.pdf.jpg","alt":"Altınkaya Tepesi","caption":"Altınkaya Tepesi","credit":"The Armenians, or The people of Ararat (IA armeniansorpeopl00gabr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1nkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387901","tip":"genel"}]
 description: "Kars'ta yer alan doğal güzelli ve tarihi geçmişe sahip bir tepe"
 keywords: ["Kars","Doğu Anadolu Bölgesi","Altınkaya Tepesi","Doğal güzellik","Tarihi geçmiş","Tepeler","Coğrafya"]

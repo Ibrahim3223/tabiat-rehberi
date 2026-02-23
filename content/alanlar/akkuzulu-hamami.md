@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["dinlenmek","güneşlenmek","yüzme","doğa yürüyüşü","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akkuzulu%20Hamam%C4%B1","alt":"Akkuzulu Hamamı","caption":"Akkuzulu Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf/page1-960px-Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf.jpg","alt":"Akkuzulu Hamamı","caption":"Akkuzulu Hamamı","credit":"Peter and Nancy in Asia, (IA peternancyinasia00comf).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akkuzulu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245716","tip":"genel"}]
 description: "Çubuk/Ankara'da yer alan Akkuzulu Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Akkuzulu Hamamı","Çubuk","Ankara","İç Anadolu Bölgesi","yeşil alan","plaj"]

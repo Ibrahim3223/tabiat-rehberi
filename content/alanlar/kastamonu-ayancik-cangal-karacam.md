@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["yürüyüş","doğa fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Ayancik-Cangal%20Karacam","alt":"Kastamonu-Ayancik-Cangal Karacam","caption":"Kastamonu-Ayancik-Cangal Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Kastamonu-Ayancik-Cangal Karacam","caption":"Kastamonu-Ayancik-Cangal Karacam","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Ayancik-Cangal%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227537","tip":"genel"}]
 description: "Kastamonu'nun güzelliklerini keşfedin, Ayancık-Cangal Karacam milli parkı"
 keywords: ["Kastamonu","Ayancık","Cangal Karacam","milli park","Karadeniz Bölgesi","doğa","turizm"]

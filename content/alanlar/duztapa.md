@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Duztapa","alt":"Duztapa","caption":"Duztapa"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Duztapa","caption":"Duztapa","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Duztapa","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21211371","tip":"genel"}]
 description: "Kars'ta bulunan Duztapa, doğal güzellikleri ile dikkat çeken bir dağdır. 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Duztapa","Kars","Dağ","Doğal güzellik","Yeşil alan","Turizm","Gezi","Seyahat","Kars gezilecek yerler"]

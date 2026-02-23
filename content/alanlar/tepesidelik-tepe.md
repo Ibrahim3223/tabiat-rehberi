@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğraf çekimi"," Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tepesidelik%20Tepe","alt":"Tepesidelik Tepe","caption":"Tepesidelik Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Proceedings_of_the_Symposium_on_the_Environmental_Consequences_of_Fire_and_Fuel_Management_in_Mediterranean_Ecosystems_-_August_1-5%2C_1977%2C_Palo_Alto%2C_California._-_%28IA_CAT78696401%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Tepesidelik Tepe","caption":"Tepesidelik Tepe","credit":"Proceedings of the Symposium on the Environmental Consequences of Fire and Fuel Management in Mediterranean Ecosystems - August 1-5, 1977, Palo Alto, California. - (IA CAT78696401).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepesidelik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388649","tip":"genel"}]
 description: "Muğla'nın Ege Bölgesi'nde yer alan Tepesidelik Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Tepesidelik Tepe","Muğla","Ege Bölgesi","Doğa","Tarih","Gezi","Turizm","Kültür"]

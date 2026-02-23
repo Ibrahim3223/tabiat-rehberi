@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akniyet%20Da%C4%9F%C4%B1","alt":"Akniyet Dağı","caption":"Akniyet Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Akniyet Dağı","caption":"Akniyet Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akniyet%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571853","tip":"genel"}]
 description: "Bayburt'un görkemli dağlarından biri olan Akniyet Dağı, doğal güzelliği ile dikkat çekiyor."
 keywords: ["Akniyet Dağı","Bayburt","Dağ","Doğa","Turizm","Gezi","Trekking","Doğal Güzellik","Bayburt Turistik Yerler"]

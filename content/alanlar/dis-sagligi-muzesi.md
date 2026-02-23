@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["müze gezisi","diş sağlığı tarihi hakkında bilgi edinme","tarihi araç ve eserleri inceleme","müze bahçesi gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Di%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20M%C3%BCzesi","alt":"Diş Sağlığı Müzesi","caption":"Diş Sağlığı Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Landscape_from_B%C3%BCy%C3%BCkada.jpg/960px-Landscape_from_B%C3%BCy%C3%BCkada.jpg","alt":"Diş Sağlığı Müzesi","caption":"Diş Sağlığı Müzesi","credit":"Landscape from Büyükada.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Di%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949541","tip":"genel"}]
 description: "İstanbul'un merkezinde, diş sağlığı hakkında geniş bilgi sunan bir müze"
 keywords: ["Diş Sağlığı Müzesi","İstanbul","Marmara Bölgesi","sağlık müzesi","diş sağlığı","tıp tarihi","müze","İstanbul gezilecek yerler","sağlık turizmi"]

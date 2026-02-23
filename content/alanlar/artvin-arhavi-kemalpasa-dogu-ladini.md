@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artvin-Arhavi-Kemalpa%C5%9Fa%20Dogu%20Ladini","alt":"Artvin-Arhavi-Kemalpaşa Dogu Ladini","caption":"Artvin-Arhavi-Kemalpaşa Dogu Ladini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg/960px-City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg","alt":"Artvin-Arhavi-Kemalpaşa Dogu Ladini","caption":"Artvin-Arhavi-Kemalpaşa Dogu Ladini","credit":"City of Artvin, Borçka Karagöl.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Arhavi-Kemalpa%C5%9Fa%20Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227986","tip":"genel"}]
 description: "Artvin'in doğal güzellikleri arasında yer alan milli park"
 keywords: ["Artvin","milli park","Karadeniz Bölgesi","doğa","gezi","turizm","çevre","ekosistem","koruma"]

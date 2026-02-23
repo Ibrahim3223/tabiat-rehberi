@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","trekking","manzara izleme","yerel kültürü tanıma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hodulca%20Tepesi","alt":"Hodulca Tepesi","caption":"Hodulca Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/From_Southampton_to_Calcutta_%28IA_dli.granth.40161%29.pdf/page1-650px-From_Southampton_to_Calcutta_%28IA_dli.granth.40161%29.pdf.jpg","alt":"Hodulca Tepesi","caption":"Hodulca Tepesi","credit":"From Southampton to Calcutta (IA dli.granth.40161).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hodulca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389801","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Bolu'nun yükselen tepeleri"
 keywords: ["Bolu","Karadeniz Bölgesi","Hodulca Tepesi","tepe","doğa","gezi","turizm"]

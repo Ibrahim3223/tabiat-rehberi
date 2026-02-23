@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C4%9Flayan%C3%A7al%20Tepe","alt":"Ağlayançal Tepe","caption":"Ağlayançal Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Ağlayançal Tepe","caption":"Ağlayançal Tepe","credit":"Lake Meke (217872347).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Flayan%C3%A7al%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32131431","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerinden biri olan Ağlayançal Tepe, históri ve coğrafi açıdan dikkat çekici bir konumda yer alır."
 keywords: ["Ağlayançal Tepe","Konya","İç Anadolu Bölgesi","doğa","tarih","coğrafya"]

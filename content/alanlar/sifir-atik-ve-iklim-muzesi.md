@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Sergi gezileri","Eğitim programları","Doğa yürüyüşleri","Açık hava etkinlikleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1f%C4%B1r%20At%C4%B1k%20ve%20%C4%B0klim%20M%C3%BCzesi","alt":"Sıfır Atık ve İklim Müzesi","caption":"Sıfır Atık ve İklim Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Sıfır Atık ve İklim Müzesi","caption":"Sıfır Atık ve İklim Müzesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1f%C4%B1r%20At%C4%B1k%20ve%20%C4%B0klim%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950283","tip":"genel"}]
 description: "Ankara'da bulunan Sıfır Atık ve İklim Müzesi, çevre bilinci ve iklim değişikliği hakkında bilgi edinmek için ideal bir destinasyon."
 keywords: ["Sıfır Atık","İklim Müzesi","Ankara","Çevre Bilinci","İklim Değişikliği","Sürdürülebilirlik","Müze","Eğitim","Çevre"]

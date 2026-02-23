@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","bitki türleri keşfetme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Darl%C4%B1k%20Tepe","alt":"Darlık Tepe","caption":"Darlık Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Transcaucasia_and_Ararat-_being_notes_of_a_vacation_tour_in_the_autumn_of_1876_%28IA_transcaucasiaara00bryciala%29.pdf/page1-689px-Transcaucasia_and_Ararat-_being_notes_of_a_vacation_tour_in_the_autumn_of_1876_%28IA_transcaucasiaara00bryciala%29.pdf.jpg","alt":"Darlık Tepe","caption":"Darlık Tepe","credit":"Transcaucasia and Ararat- being notes of a vacation tour in the autumn of 1876 (IA transcaucasiaara00bryciala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Darl%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387355","tip":"genel"}]
 description: "Samsun'un güzel manzaralı tepesi, Karadeniz Bölgesi'nde bulunmaktadır. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Darlık Tepe","Samsun","Karadeniz Bölgesi","tepe","doğa","gezi","turizm","manzara","alan"]

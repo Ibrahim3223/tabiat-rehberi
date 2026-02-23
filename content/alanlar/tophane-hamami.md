@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Plaj voleybolu","Deniz suyu sporları","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tophane%20Hamam%C4%B1","alt":"Tophane Hamamı","caption":"Tophane Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Tophane Hamamı","caption":"Tophane Hamamı","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tophane%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738825","tip":"genel"}]
 description: "Trabzon'un Ortahisar ilçesinde yer alan Tophane Hamamı, Karadeniz Bölgesi'nin önemli ziyaret noktalarından biri"
 keywords: ["Tophane Hamamı","Ortahisar","Trabzon","Karadeniz Bölgesi","Plaj","Deniz","Tarih"]

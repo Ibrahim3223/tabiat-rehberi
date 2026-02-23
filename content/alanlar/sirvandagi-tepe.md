@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eirvanda%C4%9F%C4%B1%20Tepe","alt":"Şirvandağı Tepe","caption":"Şirvandağı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Şirvandağı Tepe","caption":"Şirvandağı Tepe","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eirvanda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506352","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerinden biri olan Şirvandağı Tepe, ziyaretçilerini bekliyor."
 keywords: ["Şirvandağı Tepe","Kayseri","Dağ","Doğa","Turizm","Gezi","Kayseri Turistik Yerler","Şirvandağı Tepe Nerede","Kayseri Doğal Alanlar"]

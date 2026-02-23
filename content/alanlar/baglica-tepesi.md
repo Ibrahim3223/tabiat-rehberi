@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Yeme ve içmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ba%C4%9Fl%C4%B1ca%20Tepesi","alt":"Bağlıca Tepesi","caption":"Bağlıca Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Bağlıca Tepesi","caption":"Bağlıca Tepesi","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C4%9Fl%C4%B1ca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388712","tip":"genel"}]
 description: "Muğla'nın gizli köşelerinden biri olan Bağlıca Tepesi, Ege Bölgesi'nin eşsiz manzarasına ev sahipliği yapıyor."
 keywords: ["Bağlıca Tepesi","Muğla","Ege Bölgesi","tepe","doğa","gezi","manzara","turizm"]

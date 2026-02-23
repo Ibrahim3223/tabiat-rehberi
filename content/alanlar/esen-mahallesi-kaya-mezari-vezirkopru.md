@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihleme","Doğa yürüyüşü","Flora ve fauna gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Esen%20Mahallesi%20Kaya%20Mezar%C4%B1%2C%20Vezirk%C3%B6pr%C3%BC","alt":"Esen Mahallesi Kaya Mezarı, Vezirköprü","caption":"Esen Mahallesi Kaya Mezarı, Vezirköprü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Esen Mahallesi Kaya Mezarı, Vezirköprü","caption":"Esen Mahallesi Kaya Mezarı, Vezirköprü","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esen%20Mahallesi%20Kaya%20Mezar%C4%B1%2C%20Vezirk%C3%B6pr%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728201","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun iline bağlı Vezirköprü'de yer alan Esen Mahallesi Kaya Mezarı, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Esen Mahallesi Kaya Mezarı","Vezirköprü","Samsun","Karadeniz Bölgesi","tarihi mekanlar","doğa güzelliği","kaya mezarları","Samsun gezilecek yerler","Vezirköprü turizm"]

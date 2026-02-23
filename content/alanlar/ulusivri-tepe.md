@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ulusivri%20Tepe","alt":"Ulusivri Tepe","caption":"Ulusivri Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Ulusivri Tepe","caption":"Ulusivri Tepe","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulusivri%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385386","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzellikleri arasında yer alan Ulusivri Tepe, ziyaretçilerini bekliyor."
 keywords: ["Ulusivri Tepe","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","coğrafya"]

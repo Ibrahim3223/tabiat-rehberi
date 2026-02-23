@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-D%C3%B6%C5%9Femealt%C4%B1%20K%C4%B1z%C4%B1l%C3%A7am%203","alt":"Antalya-Döşemealtı Kızılçam 3","caption":"Antalya-Döşemealtı Kızılçam 3"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/14/Saklikent_Rocks_and_Sky.jpg","alt":"Antalya-Döşemealtı Kızılçam 3","caption":"Antalya-Döşemealtı Kızılçam 3","credit":"Saklikent Rocks and Sky.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-D%C3%B6%C5%9Femealt%C4%B1%20K%C4%B1z%C4%B1l%C3%A7am%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227848","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile büyüleyici bir deneyimi sunar."
 keywords: ["Antalya","Döşemealtı","Kızılçam","milli park","doğal güzellik","bitki türleri","fauna"]

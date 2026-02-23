@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "iki gün"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","vahşi yaşamleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahramanmaras-Dortyol-Ufacik-Dogu%20Kayini","alt":"Kahramanmaras-Dortyol-Ufacik-Dogu Kayini","caption":"Kahramanmaras-Dortyol-Ufacik-Dogu Kayini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Kahramanmaras-Dortyol-Ufacik-Dogu Kayini","caption":"Kahramanmaras-Dortyol-Ufacik-Dogu Kayini","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Dortyol-Ufacik-Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228491","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Kahramanmaras","Dortyol","Ufacik","Dogu Kayini","milli park","doğa","gezi","turizm"]

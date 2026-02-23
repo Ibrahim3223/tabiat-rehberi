@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karake%C3%A7i%20Tepe","alt":"Karakeçi Tepe","caption":"Karakeçi Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Siverek.jpg/960px-Siverek.jpg","alt":"Karakeçi Tepe","caption":"Karakeçi Tepe","credit":"Siverek.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karake%C3%A7i%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877980","tip":"genel"}]
 description: "Şanlıurfa'da bulunan Karakeçi Tepe, 1200 metre yüksekliğiyle dikkat çeker. Doğal güzellikleri ve tarihi önemiyle ziyaretçilerini bekliyor."
 keywords: ["Karakeçi Tepe","Şanlıurfa","Dağ","Doğa","Tarih","Turizm","Gezi","Şanlıurfa gezilecek yerler","Doğal güzellikler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mahmutsivrisi","alt":"Mahmutsivrisi","caption":"Mahmutsivrisi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Mahmutsivrisi","caption":"Mahmutsivrisi","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahmutsivrisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385552","tip":"genel"}]
 description: "Konya'da yer alan Mahmutsivrisi, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor"
 keywords: ["Mahmutsivrisi","Konya","Dağ","Doğa","Turizm","Gezi","Konya Gezilecek Yerler","Mahmutsivrisi Dağı","Konya Turizm"]

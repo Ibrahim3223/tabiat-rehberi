@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyareti","Plajda denize girme","Yakındaki tarihi yapıları ziyaret","Doğal güzellikleri keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kemanke%C5%9F%20Kara%20Mustafa%20Pa%C5%9Fa%20T%C3%BCrbesi","alt":"Kemankeş Kara Mustafa Paşa Türbesi","caption":"Kemankeş Kara Mustafa Paşa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Kemankeş Kara Mustafa Paşa Türbesi","caption":"Kemankeş Kara Mustafa Paşa Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kemanke%C5%9F%20Kara%20Mustafa%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391743","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi türbe ve plaj"
 keywords: ["Kemankeş Kara Mustafa Paşa","Türbe","Plaj","Fatih","İstanbul","Marmara Bölgesi","Tarih","Doğa"]

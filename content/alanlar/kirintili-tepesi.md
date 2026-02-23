@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Trekking","Fotoğrafçılık","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1r%C4%B1nt%C4%B1l%C4%B1%20Tepesi","alt":"Kırıntılı Tepesi","caption":"Kırıntılı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Kırıntılı Tepesi","caption":"Kırıntılı Tepesi","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1nt%C4%B1l%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390967","tip":"genel"}]
 description: "Kayseri'nin güzel doğası, Kırıntılı Tepesi ile buluşuyor. İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kırıntılı Tepesi","Kayseri","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Piknik","Seyir terası"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1ble%20Tepesi","alt":"Kıble Tepesi","caption":"Kıble Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/The_Glendale_Evening_News_1918-01-14_%28IA_cgl_003362%29.pdf/page1-960px-The_Glendale_Evening_News_1918-01-14_%28IA_cgl_003362%29.pdf.jpg","alt":"Kıble Tepesi","caption":"Kıble Tepesi","credit":"The Glendale Evening News 1918-01-14 (IA cgl 003362).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1ble%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388456","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin. Kıble Tepesi, Karadeniz Bölgesi'nde yer alan bir doğa harikasıdır."
 keywords: ["Kıble Tepesi","Rize","Karadeniz Bölgesi","doğa","gezi","turizm","tepe","manzara","çevre"]

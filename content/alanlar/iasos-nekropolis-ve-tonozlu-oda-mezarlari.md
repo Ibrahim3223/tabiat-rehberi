@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Arkeolojik site gezisi","Tarihî mekân keşfi","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Iasos%20Nekropolis%20ve%20Tonozlu%20Oda%20Mezarlar%C4%B1","alt":"Iasos Nekropolis ve Tonozlu Oda Mezarları","caption":"Iasos Nekropolis ve Tonozlu Oda Mezarları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Iasos Nekropolis ve Tonozlu Oda Mezarları","caption":"Iasos Nekropolis ve Tonozlu Oda Mezarları","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Iasos%20Nekropolis%20ve%20Tonozlu%20Oda%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728226","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Milas'ta keşfedilmeyi bekliyor. Iasos Nekropolis ve Tonozlu Oda Mezarları, antik dönemlerin gizemini taşıyor."
 keywords: ["Iasos","Nekropolis","Tonozlu Oda Mezarları","Milas","Muğla","Ege Bölgesi","antik dönem","tarih","arkeoloji"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pirin%C3%A7%20Tepe","alt":"Pirinç Tepe","caption":"Pirinç Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf/page1-960px-Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf.jpg","alt":"Pirinç Tepe","caption":"Pirinç Tepe","credit":"Harper's New Monthly Magazine, Volume 46.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pirin%C3%A7%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34895557","tip":"genel"}]
 description: "Mardin'de yer alan Pirinç Tepe, tarihi ve doğal güzellikleriyle dikkat çeker. 1400 metre yükseklikte bulunan tepe, şehir manzarasını sunar."
 keywords: ["Pirinç Tepe","Mardin","Dağ","Tarih","Doğa","Turizm","Gezi","Mardin Gezilecek Yerler","Pirinç Tepe Mardin"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Canakkale-Yenice-Asar%20Karacam%201","alt":"Canakkale-Yenice-Asar Karacam 1","caption":"Canakkale-Yenice-Asar Karacam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gallipoli_Peninsula_Historical_National_Park_%285%29.jpg/960px-Gallipoli_Peninsula_Historical_National_Park_%285%29.jpg","alt":"Canakkale-Yenice-Asar Karacam 1","caption":"Canakkale-Yenice-Asar Karacam 1","credit":"Gallipoli Peninsula Historical National Park (5).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Yenice-Asar%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227497","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan Canakkale-Yenice-Asar Karacam 1 milli parkı, 140 hektarlık geniş bir alana sahiptir."
 keywords: ["Çanakkale","Marmara Bölgesi","Asar Karacam","milli park","doğa","çevre","ekosistem"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karag%C3%B6l%20(Giresun)","alt":"Karagöl (Giresun)","caption":"Karagöl (Giresun)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lake_Limni_Nature_Park_08.jpg/960px-Lake_Limni_Nature_Park_08.jpg","alt":"Karagöl (Giresun)","caption":"Karagöl (Giresun)","credit":"Lake Limni Nature Park 08.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karag%C3%B6l%20(Giresun)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6367919","tip":"genel"}]
 description: "Giresun'da bulunan Karagöl, 1200 hektarlık yeşil cennet, doğa severler için ideal bir destinasyon"
 keywords: ["Karagöl","Giresun","Doğa","Göl","Türkiye","Seyahat","Gezi","Turizm","Doğa Harikaları"]

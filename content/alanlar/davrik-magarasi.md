@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Davrik%20Ma%C4%9Faras%C4%B1","alt":"Davrik Mağarası","caption":"Davrik Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf/page1-635px-In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf.jpg","alt":"Davrik Mağarası","caption":"Davrik Mağarası","credit":"In gold and silver .. (IA ingoldandsilver00ellwiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davrik%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319118","tip":"genel"}]
 description: "Mardin'de yer alan Davrik Mağarası, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini bekliyor."
 keywords: ["Davrik Mağarası","Mardin","Jeopark","Doğal Alan","Tarih","Turizm","Mağara","Gezi","Mardin Turistik Yerler"]

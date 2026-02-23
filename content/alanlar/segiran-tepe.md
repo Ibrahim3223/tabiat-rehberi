@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Se%C4%9Firan%20Tepe","alt":"Seğiran Tepe","caption":"Seğiran Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Seğiran Tepe","caption":"Seğiran Tepe","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Se%C4%9Firan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573573","tip":"genel"}]
 description: "Diyarbakır'da bulunan Seğiran Tepe, 1200 metre yüksekliğiyle bölgenin önemli coğrafi oluşumlarından biri."
 keywords: ["Seğiran Tepe","Diyarbakır","Dağ","Coğrafi oluşum","Türkiye'nin dağları","Diyarbakır gezilecek yerler","Doğal alanlar","Türkiye coğrafyası","Seğiran Tepe hakkında"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["plajda dinlenme","denizde yüzme","doğa yürüyüşü","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Per%C5%9Fembe%20Hamam%C4%B1","alt":"Perşembe Hamamı","caption":"Perşembe Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf/page1-960px-The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf.jpg","alt":"Perşembe Hamamı","caption":"Perşembe Hamamı","credit":"The Enterprise 1923-06-07 (IA cssf 001428).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Per%C5%9Fembe%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738812","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde yer alan, Marmara Bölgesi'nin önemli plajlarından biri olan Perşembe Hamamı, doğal güzelliği ve tarihi değerleri ile ziyaretçilerini bekliyor."
 keywords: ["Perşembe Hamamı","Bursa","Osmangazi","Marmara Bölgesi","plaj","doğal güzellik","tarih"]

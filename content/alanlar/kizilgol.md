@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","orman gezi","fotoğrafçılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lg%C3%B6l","alt":"Kızılgöl","caption":"Kızılgöl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Letters_on_the_American_republic_-_or%2C_Common_fallacies_and_monstrous_errors_refuted_and_exposed_%28IA_lettersonamerica00balm%29.pdf/page1-620px-Letters_on_the_American_republic_-_or%2C_Common_fallacies_and_monstrous_errors_refuted_and_exposed_%28IA_lettersonamerica00balm%29.pdf.jpg","alt":"Kızılgöl","caption":"Kızılgöl","credit":"Letters on the American republic - or, Common fallacies and monstrous errors refuted and exposed (IA lettersonamerica00balm).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lg%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211272","tip":"genel"}]
 description: "Samsun'un doğa harikası Kızılgöl, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri olan Kızılgöl, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kızılgöl","Samsun","Karadeniz Bölgesi","doğa harikası","yeşil alan","gezi","turizm"]

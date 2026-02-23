@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dumluca%20Baraj%20G%C3%B6l%C3%BC","alt":"Dumluca Baraj Gölü","caption":"Dumluca Baraj Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Turkey_and_the_Armenian_atrocities._A_reign_of_terror_%28IA_turkeyarmenianat00blis%29.pdf/page1-831px-Turkey_and_the_Armenian_atrocities._A_reign_of_terror_%28IA_turkeyarmenianat00blis%29.pdf.jpg","alt":"Dumluca Baraj Gölü","caption":"Dumluca Baraj Gölü","credit":"Turkey and the Armenian atrocities. A reign of terror (IA turkeyarmenianat00blis).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dumluca%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34884233","tip":"genel"}]
 description: "Mardin'de yer alan Dumluca Baraj Gölü, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Dumluca Baraj Gölü","Mardin","göl","baraj","doğa","gezi","turizm","Mardin gezilecek yerler","göl gezi"]

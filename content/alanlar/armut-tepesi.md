@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kamp","fotoğraf çekimi","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Armut%20Tepesi","alt":"Armut Tepesi","caption":"Armut Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Armut Tepesi","caption":"Armut Tepesi","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Armut%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389005","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli güzelliği Armut Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor"
 keywords: ["Armut Tepesi","Bingöl","Doğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "iki gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=DO%C4%9EANLI_TP","alt":"DOĞANLI_TP","caption":"DOĞANLI_TP"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"DOĞANLI_TP","caption":"DOĞANLI_TP","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DO%C4%9EANLI_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228801","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini barındıran DOĞANLI_TP, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["İç Anadolu Bölgesi","DOĞANLI_TP","doğa","yeşil alan","futbol sahası","gezi","turizm","çevre","ekoloji"]

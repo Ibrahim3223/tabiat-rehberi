@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ku%C5%9Fta%C5%9F%C4%B1%20Tepe","alt":"Kuştaşı Tepe","caption":"Kuştaşı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Kuştaşı Tepe","caption":"Kuştaşı Tepe","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fta%C5%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511524","tip":"genel"}]
 description: "Diyarbakır'da yer alan Kuştaşı Tepe, bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Kuştaşı Tepe","Diyarbakır","Dağ","Doğa","Turizm","Gezi","Seyahat","Diyarbakır gezilecek yerler","Kuştaşı Tepe hakkında"]

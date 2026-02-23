@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["kaplıca ziyaret","doğa yürüyüşü","picnic","tarihî yerleri gezme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6s%20Kapl%C4%B1cas%C4%B1","alt":"Kös Kaplıcası","caption":"Kös Kaplıcası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Balikli_Kaplica_Thermal_spring_-_panoramio.jpg/960px-Balikli_Kaplica_Thermal_spring_-_panoramio.jpg","alt":"Kös Kaplıcası","caption":"Kös Kaplıcası","credit":"Balikli Kaplica Thermal spring - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6s%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741951","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli bir hazine olan Kös Kaplıcası, şifalı sularıyla ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kös Kaplıcası","Çankırı","İç Anadolu Bölgesi","termal kaynak","şifalı su","doğa","gezi","seyahat"]

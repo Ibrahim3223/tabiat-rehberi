@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Bahçe gezintisi","Fotoğraf çekimi","Manevi deneyim"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mehmed%20%C5%9Eemseddin%20Efendi%20T%C3%BCrbesi","alt":"Mehmed Şemseddin Efendi Türbesi","caption":"Mehmed Şemseddin Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Mehmed Şemseddin Efendi Türbesi","caption":"Mehmed Şemseddin Efendi Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehmed%20%C5%9Eemseddin%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390996","tip":"genel"}]
 description: "Fatih'in tarihi mekanlarından biri olan Mehmed Şemseddin Efendi Türbesi, İstanbul'un kalbinde yer alır."
 keywords: ["Mehmed Şemseddin Efendi","Türbe","Fatih","İstanbul","Tarih","Mimari","Dini mekan","Gezi"]

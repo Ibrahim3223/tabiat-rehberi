@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 Saat"
 aktiviteler: ["Doğa Yürüyüşü","Yaban Hayatı İzleme","Fotoğrafçılık","Doğa Gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hatay%20Da%C4%9F%20Ceylan%C4%B1%20YHGS","alt":"Hatay Dağ Ceylanı YHGS","caption":"Hatay Dağ Ceylanı YHGS"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Hatay Dağ Ceylanı YHGS","caption":"Hatay Dağ Ceylanı YHGS","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatay%20Da%C4%9F%20Ceylan%C4%B1%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229019","tip":"genel"}]
 description: "Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeken Hatay Dağ Ceylanı YHGS, ziyaretçilerini büyüleyici bir doğa deneyimi sunuyor."
 keywords: ["Hatay","Dağ Ceylanı","Yaban Hayatı Geliştirme Sahası","Doğa","Fauna","Flora","YHGS","Milli Park"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","piknik","kış sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lmar%20Tepesi","alt":"Kızılmar Tepesi","caption":"Kızılmar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf/page1-960px-Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf.jpg","alt":"Kızılmar Tepesi","caption":"Kızılmar Tepesi","credit":"Orienting our sights on the future - opportunities and challenges of the Arab revolts (IA orientingoursigh00amin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lmar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558964","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde bulunan, 140 hektarlık geniş bir yeşil alan sunan bir tepe"
 keywords: ["Ankara","İç Anadolu Bölgesi","Kızılmar Tepesi","tepe","yeşil alan","doğa","gezi"]

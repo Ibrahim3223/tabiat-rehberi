@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ke%C3%A7iyata%C4%9F%C4%B1%20Donmu%C5%9F%20%C5%9Eelalesi","alt":"Keçiyatağı Donmuş Şelalesi","caption":"Keçiyatağı Donmuş Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_2.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_2.jpg","alt":"Keçiyatağı Donmuş Şelalesi","caption":"Keçiyatağı Donmuş Şelalesi","credit":"Kurşunlu Şelalesi - Şelalesi Bölgesi - Manzara Fotoğrafı 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C3%A7iyata%C4%9F%C4%B1%20Donmu%C5%9F%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118929939","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği Keçiyatağı Donmuş Şelalesi, doğa severleri bekliyor."
 keywords: ["Keçiyatağı Donmuş Şelalesi","İç Anadolu Bölgesi","doğa","gizli güzelliği","şelale","donmuş şelale"]

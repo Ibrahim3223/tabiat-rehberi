@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezmek","doğal güzellikleri keşfetmek","fotograf çekmek","piknik yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0mam%20Kurtubi%20T%C3%BCrbesi","alt":"İmam Kurtubi Türbesi","caption":"İmam Kurtubi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf/page1-960px-Diary_of_H._M._Van_Deusen_January_29%2C_1953_to_November_17%2C_1953_%28IA_diaryhmvandeuse00vanda%29.pdf.jpg","alt":"İmam Kurtubi Türbesi","caption":"İmam Kurtubi Türbesi","credit":"Diary of H. M. Van Deusen January 29, 1953 to November 17, 1953 (IA diaryhmvandeuse00vanda).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mam%20Kurtubi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390713","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Bolu şehrinde bulunan İmam Kurtubi Türbesi, tarihi ve doğal güzellikleri bir araya getiren bir destinasyondur."
 keywords: ["İmam Kurtubi Türbesi","Bolu","Karadeniz Bölgesi","tarihi mekan","doğa","gezi"]

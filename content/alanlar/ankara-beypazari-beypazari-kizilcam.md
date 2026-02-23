@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara-Beypazar%C4%B1-Beypazar%C4%B1-K%C4%B1z%C4%B1l%C3%A7am","alt":"Ankara-Beypazarı-Beypazarı-Kızılçam","caption":"Ankara-Beypazarı-Beypazarı-Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Survey_on_the_implementation_of_ISO-IEC_guide_25_by_National_Laboratory_Accreditation_Programs_%28IA_surveyonimplemen5473brei%29.pdf/page1-960px-Survey_on_the_implementation_of_ISO-IEC_guide_25_by_National_Laboratory_Accreditation_Programs_%28IA_surveyonimplemen5473brei%29.pdf.jpg","alt":"Ankara-Beypazarı-Beypazarı-Kızılçam","caption":"Ankara-Beypazarı-Beypazarı-Kızılçam","credit":"Survey on the implementation of ISO-IEC guide 25 by National Laboratory Accreditation Programs (IA surveyonimplemen5473brei).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Beypazar%C4%B1-Beypazar%C4%B1-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228259","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Ankara-Beypazarı-Beypazarı-Kızılçam, 140 hektarlık yeşil alanı ile ziyaretçilerini ağırlıyor."
 keywords: ["Ankara","Beypazarı","Kızılçam","milli park","İç Anadolu Bölgesi","doğal alan","yeşil alan","gezi","turizm"]

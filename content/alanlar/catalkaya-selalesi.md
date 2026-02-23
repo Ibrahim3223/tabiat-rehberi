@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","yürüyüş"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87atalkaya%20%C5%9Eelalesi","alt":"Çatalkaya Şelalesi","caption":"Çatalkaya Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Natural_Beauty_from_Tomara.jpg/960px-Natural_Beauty_from_Tomara.jpg","alt":"Çatalkaya Şelalesi","caption":"Çatalkaya Şelalesi","credit":"Natural Beauty from Tomara.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atalkaya%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130366936","tip":"genel"}]
 description: "Gümüşhane'nin doğal güzelliklerinden biri olan Çatalkaya Şelalesi, ziyaretçilerini büyülüyor."
 keywords: ["Çatalkaya Şelalesi","Gümüşhane","Karadeniz Bölgesi","şelale","doğa","gezi","turizm","yeşil","su"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi gezisi","doğa yürüyüşü","fotoğraf çekimi","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arslan%20Dede%20T%C3%BCrbesi","alt":"Arslan Dede Türbesi","caption":"Arslan Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Arslan Dede Türbesi","caption":"Arslan Dede Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arslan%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390762","tip":"genel"}]
 description: "Çanakkale'nin gizli cenneti Arslan Dede Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Arslan Dede Türbesi","Çanakkale","tarihi mekanlar","doğal güzellikler","tarihçe","coğrafya","flora","fauna","ziyaret"]

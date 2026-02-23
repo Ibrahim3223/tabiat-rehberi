@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersinli%20Tepe","alt":"Mersinli Tepe","caption":"Mersinli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Mersinli Tepe","caption":"Mersinli Tepe","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersinli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388724","tip":"genel"}]
 description: "Muğla'da yer alan Mersinli Tepe, Ege Bölgesi'nin önemli coğrafi noktalarından biridir."
 keywords: ["Mersinli Tepe","Muğla","Ege Bölgesi","coğrafi nokta","turizm","doğa","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","trekking","kuş gözlemciliği","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kokali%20Tepesi","alt":"Kokali Tepesi","caption":"Kokali Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf/page1-812px-On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf.jpg","alt":"Kokali Tepesi","caption":"Kokali Tepesi","credit":"On the fringe of the great fight (IA onfringeofgreatf00nasmrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kokali%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555937","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Batman'ın doğal güzellikleriyle dikkat çeken bir noktası olan Kokali Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kokali Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre","iklim"]

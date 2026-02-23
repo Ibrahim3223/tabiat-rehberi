@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Canik%20Tepesi","alt":"Canik Tepesi","caption":"Canik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/DSC_3140_-_panoramio.jpg/960px-DSC_3140_-_panoramio.jpg","alt":"Canik Tepesi","caption":"Canik Tepesi","credit":"DSC 3140 - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389175","tip":"genel"}]
 description: "Giresun'un en yüksek noktası, Karadeniz'in eşsiz manzarası"
 keywords: ["Canik Tepesi","Giresun","Karadeniz Bölgesi","tepe","doğa","gezi","turizm","manzara"]

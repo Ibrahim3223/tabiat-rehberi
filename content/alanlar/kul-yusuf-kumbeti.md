@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarihî eserleri gezmek","doğa yürüyüşü","fotoğraf çekmek","yerel yemekleri denemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kul%20Yusuf%20K%C3%BCmbeti","alt":"Kul Yusuf Kümbeti","caption":"Kul Yusuf Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Kul Yusuf Kümbeti","caption":"Kul Yusuf Kümbeti","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kul%20Yusuf%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582819","tip":"genel"}]
 description: "Iğdır'ın Sürmeli uyezdi'nde bulunanhistorik bir kümbet"
 keywords: ["Kul Yusuf Kümbeti","Iğdır","Sürmeli","tarih","coğrafya","doğa","gezi","ziyaret"]

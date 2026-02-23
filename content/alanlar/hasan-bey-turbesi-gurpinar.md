@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","kültürel keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hasan%20Bey%20T%C3%BCrbesi%2C%20G%C3%BCrp%C4%B1nar","alt":"Hasan Bey Türbesi, Gürpınar","caption":"Hasan Bey Türbesi, Gürpınar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Huntington_Beach_News_-_1918-02-08_%28IA_castaoca_000341%29.pdf/page1-960px-Huntington_Beach_News_-_1918-02-08_%28IA_castaoca_000341%29.pdf.jpg","alt":"Hasan Bey Türbesi, Gürpınar","caption":"Hasan Bey Türbesi, Gürpınar","credit":"Huntington Beach News - 1918-02-08 (IA castaoca 000341).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasan%20Bey%20T%C3%BCrbesi%2C%20G%C3%BCrp%C4%B1nar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582817","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Van iline bağlı Gürpınar ilçesinde bulunan Hasan Bey Türbesi, tarihi ve kültürel zenginliğiyle dikkat çekiyor."
 keywords: ["Hasan Bey Türbesi","Gürpınar","Van","Doğu Anadolu Bölgesi","tarih","kültür","türbe","gezi"]

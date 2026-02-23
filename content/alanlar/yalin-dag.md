@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yal%C4%B1n%20Da%C4%9F","alt":"Yalın Dağ","caption":"Yalın Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Skyland%2C_situated_on_high_plateau_in_the_Blue_Ridge_near_grand_old_Stony_Man_Peak_%28IA_skylandsituatedo01roan%29.pdf/page1-864px-Skyland%2C_situated_on_high_plateau_in_the_Blue_Ridge_near_grand_old_Stony_Man_Peak_%28IA_skylandsituatedo01roan%29.pdf.jpg","alt":"Yalın Dağ","caption":"Yalın Dağ","credit":"Skyland, situated on high plateau in the Blue Ridge near grand old Stony Man Peak (IA skylandsituatedo01roan).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yal%C4%B1n%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31575969","tip":"genel"}]
 description: "Van'da bulunan Yalın Dağ, doğa severlerin keşfetmek için bekleyen bir hazine. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Yalın Dağ","Van","Dağ","Doğa","Trekking","Kamp","Van Gezilecek Yerler","Doğa Harikaları","Türkiye Dağları"]

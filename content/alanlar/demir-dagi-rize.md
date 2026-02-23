@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Demir%20Da%C4%9F%C4%B1%20(Rize)","alt":"Demir Dağı (Rize)","caption":"Demir Dağı (Rize)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Scientific_American_-_Series_1_-_Volume_003_-_Issue_24.pdf/page1-960px-Scientific_American_-_Series_1_-_Volume_003_-_Issue_24.pdf.jpg","alt":"Demir Dağı","caption":"Demir Dağı","credit":"Scientific American - Series 1 - Volume 003 - Issue 24.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demir%20Da%C4%9F%C4%B1%20(Rize)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31569126","tip":"genel"}]
 description: "Rize'de yer alan Demir Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Demir Dağı","Rize","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Rize Turistik Yerler","Demir Dağı Rize"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih investigación","coğrafya keşfi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6zecik%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Divri%C4%9Fi","alt":"Gözecik Tümülüsü, Divriği","caption":"Gözecik Tümülüsü, Divriği"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu/page1-800px-The_Modern_Review_Vol_37_%28Jan.-June_1925%29.djvu.jpg","alt":"Gözecik Tümülüsü, Divriği","caption":"Gözecik Tümülüsü, Divriği","credit":"The Modern Review Vol 37 (Jan.-June 1925).djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6zecik%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Divri%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728425","tip":"genel"}]
 description: "Sivas'ın Divriği ilçesinde bulunan Gözecik Tümülüsü, tarihi geçmişi ve coğrafi konumu ile dikkat çekiyor."
 keywords: ["Gözecik Tümülüsü","Divriği","Sivas","tarih","coğrafya","tümülüs","iç Anadolu Bölgesi"]

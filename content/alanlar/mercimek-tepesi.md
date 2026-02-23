@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Trekking","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mercimek%20Tepesi","alt":"Mercimek Tepesi","caption":"Mercimek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Mercimek Tepesi","caption":"Mercimek Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mercimek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386586","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde bulunan Mercimek Tepesi, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplar."
 keywords: ["Mercimek Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","tepe","doğa","coğrafya"]

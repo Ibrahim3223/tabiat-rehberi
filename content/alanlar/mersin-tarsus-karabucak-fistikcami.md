@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Tarsus-Karabucak%20Fistikcami","alt":"Mersin-Tarsus-Karabucak Fistikcami","caption":"Mersin-Tarsus-Karabucak Fistikcami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Mersin-Tarsus-Karabucak Fistikcami","caption":"Mersin-Tarsus-Karabucak Fistikcami","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Tarsus-Karabucak%20Fistikcami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227622","tip":"genel"}]
 description: "Mersin-Tarsus-Karabucak Fistikcami milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Mersin","Tarsus","Karabucak","Fistikcami","milli park","doğal güzellik","iç Anadolu Bölgesi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mezge%20Da%C4%9F%C4%B1","alt":"Mezge Dağı","caption":"Mezge Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Mezge Dağı","caption":"Mezge Dağı","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mezge%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31578038","tip":"genel"}]
 description: "Bayburt'un görkemli dağlarından biri olan Mezge Dağı, 1200 hektarlık yeşil cenneti ve zengin florasıyla dikkat çekiyor."
 keywords: ["Mezge Dağı","Bayburt","Dağ","Doğa","Turizm","Yeşil Alan","Flora","Gezi","Seyahat"]

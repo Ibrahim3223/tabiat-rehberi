@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Girbe%C5%9Fik%20Tepe","alt":"Girbeşik Tepe","caption":"Girbeşik Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Girbeşik Tepe","caption":"Girbeşik Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Girbe%C5%9Fik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574098","tip":"genel"}]
 description: "Diyarbakır'da yer alan Girbeşik Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri. Doğal güzelliği ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Girbeşik Tepe","Diyarbakır","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Coğrafya"]

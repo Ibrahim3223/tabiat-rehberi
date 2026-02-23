@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Kuş gözlemciliği","Çevre gezileri","Ekolojik eğitim programları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Urla%20Halepcami","alt":"Izmir-Urla Halepcami","caption":"Izmir-Urla Halepcami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Izmir-Urla Halepcami","caption":"Izmir-Urla Halepcami","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Urla%20Halepcami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227623","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzelliklerini keşfedin. İzmir-Urla Halepcami milli parkı, 1200 hektarlık yeşil cenneti keşfet"
 keywords: ["İzmir","Urla","Halepcami","milli park","İç Anadolu Bölgesi","doğa","gezi","tatil","yerel kültür"]

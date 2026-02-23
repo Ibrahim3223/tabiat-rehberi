@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Akseki-Ibradi-Fransiz%20Akcaagac","alt":"Antalya-Akseki-Ibradi-Fransiz Akcaagac","caption":"Antalya-Akseki-Ibradi-Fransiz Akcaagac"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Solitariness_-_panoramio.jpg/960px-Solitariness_-_panoramio.jpg","alt":"Antalya-Akseki-Ibradi-Fransiz Akcaagac","caption":"Antalya-Akseki-Ibradi-Fransiz Akcaagac","credit":"Solitariness - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Akseki-Ibradi-Fransiz%20Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228545","tip":"genel"}]
 description: "Antalya'nın Akseki ilçesinde yer alan milli park, zengin doğası ve tarihi geçmişiyle ziyaretçilerini çekiyor."
 keywords: ["Antalya","Akseki","Ibradi","Fransız Akçağaç","milli park","doğa","tarih","gezi","turizm","çevre"]

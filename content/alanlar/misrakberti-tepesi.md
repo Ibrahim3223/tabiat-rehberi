@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzaralı noktalara gitmek","tarihi kalıntıları gezmek","yerel halkın yaşam tarzını tanımak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=M%C4%B1srakberti%20Tepesi","alt":"Mısrakberti Tepesi","caption":"Mısrakberti Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Mısrakberti Tepesi","caption":"Mısrakberti Tepesi","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C4%B1srakberti%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554451","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin birleştiği Mısrakberti Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mardin","Mısrakberti Tepesi","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarihi yerler","tepe","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ha%C5%9F%C4%B1r%20Adas%C4%B1","alt":"Haşır Adası","caption":"Haşır Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg/960px-Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg","alt":"Haşır Adası","caption":"Haşır Adası","credit":"Panoramic view from hotel room in Rhodes island, Trianta, Greece.jpeg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ha%C5%9F%C4%B1r%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49640610","tip":"genel"}]
 description: "Balıkesir'de bulunan Haşır Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Haşır Adası","Balıkesir","Ada","Doğa","Yeşil Cennet","Turizm","Seyahat","Gezi","Türkiye"]

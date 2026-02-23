@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1%C4%9F%C4%B1rc%C4%B1%20G%C3%B6l%C3%BC","alt":"Sığırcı Gölü","caption":"Sığırcı Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_International_-_Volume_3.djvu/page1-800px-The_International_-_Volume_3.djvu.jpg","alt":"Sığırcı Gölü","caption":"Sığırcı Gölü","credit":"The International - Volume 3.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1%C4%9F%C4%B1rc%C4%B1%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49310647","tip":"genel"}]
 description: "Edirne'nin doğal güzelliklerinden biri olan Sığırcı Gölü, 1200 hektarlık alanı ile önemli bir sulak alan"
 keywords: ["Sığırcı Gölü","Edirne","göl","doğal güzellik","sulak alan","turizm","gezi","edinirne gölleri","doğa"]

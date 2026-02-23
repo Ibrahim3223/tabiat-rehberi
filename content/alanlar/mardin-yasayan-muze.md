@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Trekking","Fotoğrafçılık","Tarihi eserleri keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mardin%20Ya%C5%9Fayan%20M%C3%BCze","alt":"Mardin Yaşayan Müze","caption":"Mardin Yaşayan Müze"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/America_liberata_%28IA_americaliberata01vick%29.pdf/page1-614px-America_liberata_%28IA_americaliberata01vick%29.pdf.jpg","alt":"Mardin Yaşayan Müze","caption":"Mardin Yaşayan Müze","credit":"America liberata (IA americaliberata01vick).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mardin%20Ya%C5%9Fayan%20M%C3%BCze","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q125536786","tip":"genel"}]
 description: "Mardin'in tarihi ve kültürel zenginliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Mardin","Yaşayan Müze","Tarih","Kültür","Doğa","Turizm","Gezi","Müze"]

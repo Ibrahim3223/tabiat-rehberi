@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6se%20S%C3%BCleyman%20Ziyaret%20Tepesi","alt":"Köse Süleyman Ziyaret Tepesi","caption":"Köse Süleyman Ziyaret Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Turkey_Greece_and_Malta_%28In_Two_Volumes%2C_Vol.II%29_%28IA_dli.granth.35053%29.pdf/page1-672px-Turkey_Greece_and_Malta_%28In_Two_Volumes%2C_Vol.II%29_%28IA_dli.granth.35053%29.pdf.jpg","alt":"Köse Süleyman Ziyaret Tepesi","caption":"Köse Süleyman Ziyaret Tepesi","credit":"Turkey Greece and Malta (In Two Volumes, Vol.II) (IA dli.granth.35053).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6se%20S%C3%BCleyman%20Ziyaret%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391765","tip":"genel"}]
 description: "Sivas'ın Suşehri ilçesinde bulunan Köse Süleyman Ziyaret Tepesi, doğa severlerin uğrak noktası."
 keywords: ["Köse Süleyman Ziyaret Tepesi","Suşehri","Sivas","doğa","turizm","gezi","ziyaret","tepe"]

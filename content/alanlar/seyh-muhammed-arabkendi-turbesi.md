@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Muhammed%20Arabkendi%20T%C3%BCrbesi","alt":"Şeyh Muhammed Arabkendi Türbesi","caption":"Şeyh Muhammed Arabkendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Şeyh Muhammed Arabkendi Türbesi","caption":"Şeyh Muhammed Arabkendi Türbesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhammed%20Arabkendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391230","tip":"genel"}]
 description: "Diyarbakır'ın Bismil ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Şeyh Muhammed Arabkendi Türbesi","Bismil","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","kültür","doğa"]

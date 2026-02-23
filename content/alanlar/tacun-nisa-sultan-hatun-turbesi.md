@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe hakkında bilgi edinmek","Çevredeki flora ve fauna çeşitliliğini keşfetmek","İnegöl'ün tarihi ve kültürel zenginliklerini öğrenmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tac%C3%BC%E2%80%99n-Nisa%20Sultan%20Hatun%20T%C3%BCrbesi","alt":"Tacü’n-Nisa Sultan Hatun Türbesi","caption":"Tacü’n-Nisa Sultan Hatun Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Tacü’n-Nisa Sultan Hatun Türbesi","caption":"Tacü’n-Nisa Sultan Hatun Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tac%C3%BC%E2%80%99n-Nisa%20Sultan%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391361","tip":"genel"}]
 description: "İnegöl'de tarihi ve doğal güzelliğin birleştiği yer"
 keywords: ["Tacü’n-Nisa Sultan Hatun Türbesi","İnegöl","Bursa","Marmara Bölgesi","tarihi mekan","doğa","tarihçe","coğrafya","flora","fauna"]

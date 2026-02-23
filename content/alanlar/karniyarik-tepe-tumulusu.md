@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karn%C4%B1yar%C4%B1k%20Tepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","alt":"Karnıyarık Tepe Tümülüsü","caption":"Karnıyarık Tepe Tümülüsü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf/page1-960px-The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf.jpg","alt":"Karnıyarık Tepe Tümülüsü","caption":"Karnıyarık Tepe Tümülüsü","credit":"The new international encyclopaedia ... (Vol. 15, MANI-MISSI) (IA newinternational15unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karn%C4%B1yar%C4%B1k%20Tepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728383","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Manisa'nın Salihli ilçesinde yer alan Karnıyarık Tepe Tümülüsü"
 keywords: ["Karnıyarık Tepe Tümülüsü","Salihli","Manisa","Ege Bölgesi","tarih","tümülüs","arkeoloji"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCneyt%C3%BCrbe%20Tepesi","alt":"Güneytürbe Tepesi","caption":"Güneytürbe Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg","alt":"Güneytürbe Tepesi","caption":"Güneytürbe Tepesi","credit":"The Landscape of Çorum Sıklık.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCneyt%C3%BCrbe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873312","tip":"genel"}]
 description: "Çorum'un yükselen tepesi, Güneytürbe Tepesi, Karadeniz Bölgesi'nin gizli hazinelerinden biri. 140 hektarlık yeşil alan, misafirlerini bekliyor."
 keywords: ["Güneytürbe Tepesi","Çorum","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]

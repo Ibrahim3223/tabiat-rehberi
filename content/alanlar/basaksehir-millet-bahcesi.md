@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ba%C5%9Fak%C5%9Fehir%20Millet%20Bah%C3%A7esi","alt":"Başakşehir Millet Bahçesi","caption":"Başakşehir Millet Bahçesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Supplement_to_list_of_periodicals_currently_received_in_the_library_of_the_United_States_Department_of_Agriculture_-_June_1%2C_1936_%28IA_secondsupplement245hopp_0%29.pdf/page1-643px-thumbnail.pdf.jpg","alt":"Başakşehir Millet Bahçesi","caption":"Başakşehir Millet Bahçesi","credit":"Supplement to list of periodicals currently received in the library of the United States Department of Agriculture - June 1, 1936 (IA secondsupplement245hopp 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C5%9Fak%C5%9Fehir%20Millet%20Bah%C3%A7esi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q60562109","tip":"genel"}]
 description: "İstanbul'un yeşillendirilmiş 1200 hektarlık alanı, botanik çeşitlili ve doğal güzellik sunar."
 keywords: ["Başakşehir Millet Bahçesi","İstanbul parkları","botanik bahçesi","doğal alanlar","yeşil alanlar","İstanbul gezi noktaları","millet bahçesi","İstanbul Millet Bahçesi","botanik çeşitlilik"]

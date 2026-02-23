@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sar%C4%B1%C3%A7%C4%B1nar%20Da%C4%9F%C4%B1","alt":"Sarıçınar Dağı","caption":"Sarıçınar Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg","alt":"Sarıçınar Dağı","caption":"Sarıçınar Dağı","credit":"Güver Canyon Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1%C3%A7%C4%B1nar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34903648","tip":"genel"}]
 description: "Antalya'da bulunan Sarıçınar Dağı, 1200 hektarlık yeşil alanıyla İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Sarıçınar Dağı","Antalya","Dağ","Doğa","Trekking","Yeşil Alan","İstanbul","Turizm","Gezi"]

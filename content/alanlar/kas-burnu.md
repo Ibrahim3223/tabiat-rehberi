@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ka%C5%9F%20Burnu","alt":"Kaş Burnu","caption":"Kaş Burnu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Gull_%28IA_v47n3gullv47ngold%29.pdf/page1-939px-The_Gull_%28IA_v47n3gullv47ngold%29.pdf.jpg","alt":"Kaş Burnu","caption":"Kaş Burnu","credit":"The Gull (IA v47n3gullv47ngold).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C5%9F%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34960402","tip":"genel"}]
 description: "Van'da yer alan Kaş Burnu, 1200 hektarlık bir alan üzerinde kurulu, 200'den fazla kuş türüne ev sahipliği yapan önemli bir kuş cenneti."
 keywords: ["Kaş Burnu","Van","Kuş Cenneti","Doğa Alanı","Kuş Türleri","Turizm","Van Turistik Yerler","Doğa Harikaları","Kuş Gözlemi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Su sporları","Yürüyüş","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Alaaddin%20Hamam%C4%B1","alt":"Alaaddin Hamamı","caption":"Alaaddin Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Alaaddin Hamamı","caption":"Alaaddin Hamamı","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alaaddin%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738927","tip":"genel"}]
 description: "Sinop'ta yer alan Alaaddin Hamamı, Karadeniz'in en çekici plajlarından biridir."
 keywords: ["Alaaddin Hamamı","Sinop","Karadeniz","plaj","deniz","kumsal","turizm","gezi","tatil"]

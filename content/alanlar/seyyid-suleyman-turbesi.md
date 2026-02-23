@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyareti","Doğa yürüyüşü","Fotoğraf çekimi","Tarihi araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Seyyid%20S%C3%BCleyman%20T%C3%BCrbesi","alt":"Seyyid Süleyman Türbesi","caption":"Seyyid Süleyman Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf/page1-960px-War_diary_-_German_Naval_Staff_Operations_Division_%28IA_wardiarygermann301942germ%29.pdf.jpg","alt":"Seyyid Süleyman Türbesi","caption":"Seyyid Süleyman Türbesi","credit":"War diary - German Naval Staff Operations Division (IA wardiarygermann301942germ).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20S%C3%BCleyman%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390746","tip":"genel"}]
 description: "Ayvacık'ta tarihi ve doğal güzelliğin birleştiği bir nokta olan Seyyid Süleyman Türbesi, Çanakkale'nin önemli ziyaret noktalarından biridir."
 keywords: ["Seyyid Süleyman Türbesi","Ayvacık","Çanakkale","tarih","doğa","türbe","Marmara Bölgesi"]

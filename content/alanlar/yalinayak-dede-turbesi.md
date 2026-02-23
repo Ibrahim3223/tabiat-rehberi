@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda dinlenmek","denize girmek","doğa yürüyüşü","tarihi yerleri gezmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yal%C4%B1nayak%20Dede%20T%C3%BCrbesi","alt":"Yalınayak Dede Türbesi","caption":"Yalınayak Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg/960px-Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg","alt":"Yalınayak Dede Türbesi","caption":"Yalınayak Dede Türbesi","credit":"Wind direction has changed, now wind is coming from the sea - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yal%C4%B1nayak%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390596","tip":"genel"}]
 description: "Ege Bölgesi'nin en güzel plajlarından biri"
 keywords: ["Dikili","İzmir","Ege Bölgesi","plaj","doğa","gezi","turizm","tatil","deniz"]

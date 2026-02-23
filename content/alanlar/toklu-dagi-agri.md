@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Toklu%20Da%C4%9F%C4%B1%20(A%C4%9Fr%C4%B1)","alt":"Toklu Dağı (Ağrı)","caption":"Toklu Dağı (Ağrı)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Agricultural_marketing_%28IA_SER71900025117%29.pdf/page1-960px-Agricultural_marketing_%28IA_SER71900025117%29.pdf.jpg","alt":"Toklu Dağı (Ağrı)","caption":"Toklu Dağı (Ağrı)","credit":"Agricultural marketing (IA SER71900025117).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toklu%20Da%C4%9F%C4%B1%20(A%C4%9Fr%C4%B1)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504559","tip":"genel"}]
 description: "Ağrı'da bulunan Toklu Dağı, doğa severlerin ziyaret ettiği önemli bir dağdır. 1400 metre yüksekliğiyle dikkat çeker."
 keywords: ["Toklu Dağı","Ağrı","Dağ","Doğa","Trekking","Ağrı Dağları","Turizm","Gezi","Doğa Sporları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=D%C3%BCmen%20Da%C4%9F%C4%B1","alt":"Dümen Dağı","caption":"Dümen Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/View_from_Dagyenice.jpg/960px-View_from_Dagyenice.jpg","alt":"Dümen Dağı","caption":"Dümen Dağı","credit":"View from Dagyenice.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCmen%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34914037","tip":"genel"}]
 description: "Bursa'nın doğal güzelliklerini keşfedin, 1200 hektarlık yeşil cennet"
 keywords: ["Dümen Dağı","Bursa","dağ","doğa","yeşil alan","turizm","gezi","Bursa gezilecek yerler","doğal güzellikler"]

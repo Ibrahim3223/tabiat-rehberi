@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Denize girme","Güneşlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mimar%20Ahmet%20O%C4%9Flu%20Mehmet%20T%C3%BCrbesi","alt":"Mimar Ahmet Oğlu Mehmet Türbesi","caption":"Mimar Ahmet Oğlu Mehmet Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/S%C3%BCzer_Sun_Dreams_Beach_24_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_24_-_panoramio.jpg","alt":"Mimar Ahmet Oğlu Mehmet Türbesi","caption":"Mimar Ahmet Oğlu Mehmet Türbesi","credit":"Süzer Sun Dreams Beach 24 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mimar%20Ahmet%20O%C4%9Flu%20Mehmet%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391566","tip":"genel"}]
 description: "Çeşme'nin tarihi ve doğal güzelliklerini keşfedin. İzmir'in en önemli turizm merkezlerinden biri olan Çeşme, Mimar Ahmet Oğlu Mehmet Türbesi ile dikkat çekiyor."
 keywords: ["Çeşme","İzmir","Mimar Ahmet Oğlu Mehmet Türbesi","tarih","doğa","turizm","gezi","seyahat"]

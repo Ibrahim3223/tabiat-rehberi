@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa keşfi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=KIR%C5%9EEH%C4%B0R%20KENT%20ORMANI","alt":"KIRŞEHİR KENT ORMANI","caption":"KIRŞEHİR KENT ORMANI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"KIRŞEHİR KENT ORMANI","caption":"KIRŞEHİR KENT ORMANI","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KIR%C5%9EEH%C4%B0R%20KENT%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228610","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşil cenneti, 140 hektarlık alanıyla doğa severlerin gözdesi"
 keywords: ["Kırşehir Kent Ormanı","İç Anadolu Bölgesi","doğa","orman","gezi","turizm","yeşil alan","çevre","ekosistem"]

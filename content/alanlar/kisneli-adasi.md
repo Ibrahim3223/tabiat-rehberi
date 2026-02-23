@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ki%C5%9Fneli%20Adas%C4%B1","alt":"Kişneli Adası","caption":"Kişneli Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Library_of_Congress_Classification_Subclasses_DS-DX.pdf/page1-960px-Library_of_Congress_Classification_Subclasses_DS-DX.pdf.jpg","alt":"Kişneli Adası","caption":"Kişneli Adası","credit":"Library of Congress Classification Subclasses DS-DX.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ki%C5%9Fneli%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49646176","tip":"genel"}]
 description: "Antalya'da yer alan Kişneli Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kişneli Adası","Antalya Adaları","Türkiye Adaları","Doğa Turizmi","Yeşil Alanlar","Turistik Yerler","Antalya Gezilecek Yerler","Ada Tatili","Doğal Güzellikler"]

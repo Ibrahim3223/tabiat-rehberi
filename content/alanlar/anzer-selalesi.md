@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","kamp","balık avı","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Anzer%20%C5%9Eelalesi","alt":"Anzer Şelalesi","caption":"Anzer Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kursunlu_Waterfall_Nature_Park.jpg/960px-Kursunlu_Waterfall_Nature_Park.jpg","alt":"Anzer Şelalesi","caption":"Anzer Şelalesi","credit":"Kursunlu Waterfall Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anzer%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130366770","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Anzer Şelalesi'ni keşfedin."
 keywords: ["Anzer Şelalesi","İç Anadolu Bölgesi","şelale","doğa","turizm","gezi","seyahat","macera","yaban hayatı"]

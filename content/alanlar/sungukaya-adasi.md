@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCng%C3%BCkaya%20Adas%C4%B1","alt":"Süngükaya Adası","caption":"Süngükaya Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/View_to_chios_island_2_-_panoramio.jpg/960px-View_to_chios_island_2_-_panoramio.jpg","alt":"Süngükaya Adası","caption":"Süngükaya Adası","credit":"View to chios island 2 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCng%C3%BCkaya%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q116923531","tip":"genel"}]
 description: "İzmir'in güzide adalarından Süngükaya Adası, doğa severler için bir cennet. İzmir'in kıyılarında yer alan ada, 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Süngükaya Adası","İzmir Adaları","Doğa Turizmi","İzmir Gezi Rehberi","Ada Turu","Yeşil Alan","İzmir Kıyıları","Turizm Noktaları","İzmir Turu"]

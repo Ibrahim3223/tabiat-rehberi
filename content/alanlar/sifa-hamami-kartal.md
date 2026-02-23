@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hamamın etrafındaki yeşil alanları keşfetmek","Şifalı suyun faydalarını görmek","Tarihi hamamın gezilmesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eifa%20Hamam%C4%B1%20Kartal","alt":"Şifa Hamamı Kartal","caption":"Şifa Hamamı Kartal"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Şifa Hamamı Kartal","caption":"Şifa Hamamı Kartal","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eifa%20Hamam%C4%B1%20Kartal","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738603","tip":"genel"}]
 description: "Kartal'ın şifalı suları ve tarihi hamamı"
 keywords: ["Kartal","Şifa Hamamı","İstanbul","Marmara Bölgesi","tarihi hamam","şifalı su"]

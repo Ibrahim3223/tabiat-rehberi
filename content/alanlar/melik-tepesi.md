@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara izleme","Doğa yürüyüşü","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Melik%20Tepesi","alt":"Melik Tepesi","caption":"Melik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/An_expedition_of_discovery_into_the_interior_of_Africa%2C_through_the_hitherto_undescribed_countries_of_the_Great_Namaquas%2C_Boschmans%2C_and_Hill_Damaras_%28IA_b29350979_0001%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Melik Tepesi","caption":"Melik Tepesi","credit":"An expedition of discovery into the interior of Africa, through the hitherto undescribed countries of the Great Namaquas, Boschmans, and Hill Damaras (IA b29350979 0001).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510751","tip":"genel"}]
 description: "Van'ın doğal güzellikleri arasında yer alan Melik Tepesi, ziyaretçiler için önemli bir çekim merkezi."
 keywords: ["Melik Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm"]

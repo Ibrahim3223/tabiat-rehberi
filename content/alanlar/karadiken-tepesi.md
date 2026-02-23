@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karadiken%20Tepesi","alt":"Karadiken Tepesi","caption":"Karadiken Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_westernworldpict00kingrich%29.pdf/page1-654px-The_western_world._Picturesque_sketches_of_nature_and_natural_history_in_North_and_South_America_%28IA_westernworldpict00kingrich%29.pdf.jpg","alt":"Karadiken Tepesi","caption":"Karadiken Tepesi","credit":"The western world. Picturesque sketches of nature and natural history in North and South America (IA westernworldpict00kingrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karadiken%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385706","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Karadiken Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Karadiken Tepesi","İç Anadolu Bölgesi","doğa","tepe","gezi","manzara","turizm","yerel","coğrafya"]

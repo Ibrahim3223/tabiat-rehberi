@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Orman gezisi","Kuş gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Akhisar-Kirkagac%20K%C4%B1z%C4%B1l%C3%A7am%202","alt":"Izmir-Akhisar-Kirkagac Kızılçam 2","caption":"Izmir-Akhisar-Kirkagac Kızılçam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Izmir-Akhisar-Kirkagac Kızılçam 2","caption":"Izmir-Akhisar-Kirkagac Kızılçam 2","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Akhisar-Kirkagac%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227904","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Akhisar ve Kirkagac'ın kızılçam ormanlarını ziyaret edin."
 keywords: ["İzmir","Akhisar","Kirkagac","Kızılçam","Doğa","Orman","Milli Park","Turizm","Gezi"]

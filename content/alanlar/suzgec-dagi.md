@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCzge%C3%A7%20Da%C4%9F%C4%B1","alt":"Süzgeç Dağı","caption":"Süzgeç Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen01gaid%29.pdf/page1-887px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen01gaid%29.pdf.jpg","alt":"Süzgeç Dağı","caption":"Süzgeç Dağı","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen01gaid).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCzge%C3%A7%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811387","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Süzgeç Dağı","Adana","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Doğal Güzellik"]

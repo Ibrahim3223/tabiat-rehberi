@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Panoramik manzara izleme","Flora ve fauna gözlemleme","Tarihî değerleri keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%BCceziyaret%20Tepe","alt":"Yüceziyaret Tepe","caption":"Yüceziyaret Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg","alt":"Yüceziyaret Tepe","caption":"Yüceziyaret Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 07.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCceziyaret%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196116","tip":"genel"}]
 description: "Kahramanmaraş'ın doğal güzelliklerinin başında gelen Yüceziyaret Tepe, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle karşılar."
 keywords: ["Yüceziyaret Tepe","Kahramanmaraş","Akdeniz Bölgesi","doğa","gezi","tarih","coğrafya","flora","fauna"]

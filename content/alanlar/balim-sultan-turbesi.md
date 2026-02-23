@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 Saat"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Tarihi mekan gezisi","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bal%C4%B1m%20Sultan%20T%C3%BCrbesi","alt":"Balım Sultan Türbesi","caption":"Balım Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg","alt":"Balım Sultan Türbesi","caption":"Balım Sultan Türbesi","credit":"Süzer Sun Dreams Beach 12 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1m%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390561","tip":"genel"}]
 description: "İzmir'in Tire ilçesinde yer alan Balım Sultan Türbesi, tarihi ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Tire","İzmir","Balım Sultan Türbesi","tarihi mekanlar","doğa","plaj"]

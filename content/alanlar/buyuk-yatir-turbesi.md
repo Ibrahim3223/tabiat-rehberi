@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","tarihi mekanları ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCk%20Yat%C4%B1r%20T%C3%BCrbesi","alt":"Büyük Yatır Türbesi","caption":"Büyük Yatır Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Robinson_Crusoe%27s_money%3B_or%2C_The_remarkable_financial_fortunes_and_misfortunes_of_a_remote_island_community_%28IA_robinsoncrusoesm00well%29.pdf/page1-764px-Robinson_Crusoe%27s_money%3B_or%2C_The_remarkable_financial_fortunes_and_misfortunes_of_a_remote_island_community_%28IA_robinsoncrusoesm00well%29.pdf.jpg","alt":"Büyük Yatır Türbesi","caption":"Büyük Yatır Türbesi","credit":"Robinson Crusoe's money; or, The remarkable financial fortunes and misfortunes of a remote island community (IA robinsoncrusoesm00well).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Yat%C4%B1r%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390709","tip":"genel"}]
 description: "Bolu'nun tarihi ve doğal güzelliklerini keşfedin. Büyük Yatır Türbesi, Karadeniz Bölgesi'nin önemli mekanlarından biri"
 keywords: ["Büyük Yatır Türbesi","Bolu","Karadeniz Bölgesi","tarihi mekanlar","doğal güzellikler","gezi noktaları","turizm","kültür"]

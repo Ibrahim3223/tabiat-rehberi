@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihsel mekanları gezmek","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Halil%20T%C3%BCrbesi","alt":"Şeyh Halil Türbesi","caption":"Şeyh Halil Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Şeyh Halil Türbesi","caption":"Şeyh Halil Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Halil%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735194","tip":"genel"}]
 description: "Diyarbakır'ın Silvan ilçesinde bulunan tarihi bir mekan."
 keywords: ["Şeyh Halil Türbesi","Diyarbakır","Silvan","tarihi mekan","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","flora","fauna"]

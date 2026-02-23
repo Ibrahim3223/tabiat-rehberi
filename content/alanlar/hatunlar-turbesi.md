@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["denize girme","plajda güneşlenme","doğa yürüyüşü","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hatunlar%20T%C3%BCrbesi","alt":"Hatunlar Türbesi","caption":"Hatunlar Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Commanders_Digest_1966-02-02-_Vol_2_Iss_10_%28IA_sim_commanders-digest_1966-02-02_2_10%29.pdf/page1-960px-Commanders_Digest_1966-02-02-_Vol_2_Iss_10_%28IA_sim_commanders-digest_1966-02-02_2_10%29.pdf.jpg","alt":"Hatunlar Türbesi","caption":"Hatunlar Türbesi","credit":"Commanders Digest 1966-02-02- Vol 2 Iss 10 (IA sim commanders-digest 1966-02-02 2 10).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatunlar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391652","tip":"genel"}]
 description: "Sinop'un tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Sinop","Karadeniz Bölgesi","plaj","tarih","doğa","gezi","turizm"]

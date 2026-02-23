@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotoğrafçılık","Bisiklet turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ek%C5%9Fisu%20Sazl%C4%B1%C4%9F%C4%B1%20Sulak%20Alan%C4%B1","alt":"Ekşisu Sazlığı Sulak Alanı","caption":"Ekşisu Sazlığı Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Ekşisu Sazlığı Sulak Alanı","caption":"Ekşisu Sazlığı Sulak Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ek%C5%9Fisu%20Sazl%C4%B1%C4%9F%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228865","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Ekşisu Sazlığı Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Ekşisu Sazlığı","Sulak Alan","İç Anadolu Bölgesi","doğal güzellik","çevre","flora","fauna","turizm","gezi"]

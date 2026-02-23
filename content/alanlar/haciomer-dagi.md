@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1%C3%B6mer%20Da%C4%9F%C4%B1","alt":"Hacıömer Dağı","caption":"Hacıömer Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf/page1-960px-FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf.jpg","alt":"Hacıömer Dağı","caption":"Hacıömer Dağı","credit":"FEDLINK - United States Federal Collection (IA keepingcurrentnd109453799).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%C3%B6mer%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873704","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin. Hacıömer Dağı, şehrin merkezine yakın bir konumda yer alır."
 keywords: ["Hacıömer Dağı","Konya","Dağ","Doğa","Turizm","Konya Turistik Yerler","Dağ Turizmi","Konya Gezi Rehberi","Hacıömer Dağı Hakkında"]

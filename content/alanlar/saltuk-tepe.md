@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Saltuk%20Tepe","alt":"Saltuk Tepe","caption":"Saltuk Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Armenia%2C_travels_and_studies_%28IA_armeniatravelsst01lync%29.pdf/page1-835px-Armenia%2C_travels_and_studies_%28IA_armeniatravelsst01lync%29.pdf.jpg","alt":"Saltuk Tepe","caption":"Saltuk Tepe","credit":"Armenia, travels and studies (IA armeniatravelsst01lync).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saltuk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386970","tip":"genel"}]
 description: "Samsun'un tarihi ve doğal güzellikleri ile dikkat çeken Saltuk Tepe, ziyaretçilerini büyülüyor."
 keywords: ["Saltuk Tepe","Samsun","Karadeniz Bölgesi","tarih","doğa","gezi","turizm"]

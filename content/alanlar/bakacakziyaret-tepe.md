@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","coğrafi yapı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bakacakziyaret%20Tepe","alt":"Bakacakziyaret Tepe","caption":"Bakacakziyaret Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg","alt":"Bakacakziyaret Tepe","caption":"Bakacakziyaret Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 06.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bakacakziyaret%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389473","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Bakacakziyaret Tepe, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Bakacakziyaret Tepe","Kahramanmaraş","Akdeniz Bölgesi","doğal alan","tepe","coğrafya","flora","fauna"]

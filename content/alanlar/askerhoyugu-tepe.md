@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Askerh%C3%B6y%C3%BC%C4%9F%C3%BC%20Tepe","alt":"Askerhöyüğü Tepe","caption":"Askerhöyüğü Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Askerhöyüğü Tepe","caption":"Askerhöyüğü Tepe","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Askerh%C3%B6y%C3%BC%C4%9F%C3%BC%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34833475","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin, Askerhöyüğü Tepe'de dağların büyüsüne kapılmaya hazır olun!"
 keywords: ["Askerhöyüğü Tepe","Gaziantep","Dağ","Doğa","Turizm","Gezi","Seyahat","Gaziantep Turistik Yerler","Askerhöyüğü Tepe Gaziantep"]

@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yemi%C5%9F%C3%A7i%20%C3%87%C4%B1nar%C4%B1%20An%C4%B1t%20A%C4%9Fac%C4%B1","alt":"Yemişçi Çınarı Anıt Ağacı","caption":"Yemişçi Çınarı Anıt Ağacı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MOKFC08.jpg/960px-MOKFC08.jpg","alt":"Yemişçi Çınarı Anıt Ağacı","caption":"Yemişçi Çınarı Anıt Ağacı","credit":"MOKFC08.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yemi%C5%9F%C3%A7i%20%C3%87%C4%B1nar%C4%B1%20An%C4%B1t%20A%C4%9Fac%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227181","tip":"genel"}]
 description: "Ege Bölgesi'nin görülmesi gereken doğal güzelliklerinden biri"
 keywords: ["Yemişçi Çınarı","Anıt Ağacı","Güzelbahçe","İzmir","Ege Bölgesi","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğal güzellikleri keşfetmek","tarihî yerleri ziyaret etmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamam%2C%20Uzunk%C3%B6pr%C3%BC","alt":"Hamam, Uzunköprü","caption":"Hamam, Uzunköprü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Hamam, Uzunköprü","caption":"Hamam, Uzunköprü","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20Uzunk%C3%B6pr%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245789","tip":"genel"}]
 description: "Edirne'nin Uzunköprü ilçesinde yer alan Hamam, Marmara Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Uzunköprü","Edirne","Marmara Bölgesi","Hamam","doğal alanlar","plaj","turizm"]

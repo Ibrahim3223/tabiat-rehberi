@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87amg%C3%B6l%C3%BC","alt":"Çamgölü","caption":"Çamgölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Çamgölü","caption":"Çamgölü","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amg%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227798","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde olan Çamgölü, ziyaretçilerini doğal güzelliği ile bekliyor."
 keywords: ["Çamgölü","İç Anadolu Bölgesi","doğa","göl","orman","flora","fauna","milli park"]

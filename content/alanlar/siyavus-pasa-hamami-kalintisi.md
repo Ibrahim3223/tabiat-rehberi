@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["fotografçılık","tarih gezisi","doğa yürüyüşü","mimarlık incelemesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Siyavu%C5%9F%20Pa%C5%9Fa%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1","alt":"Siyavuş Paşa Hamamı Kalıntısı","caption":"Siyavuş Paşa Hamamı Kalıntısı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Siyavuş Paşa Hamamı Kalıntısı","caption":"Siyavuş Paşa Hamamı Kalıntısı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Siyavu%C5%9F%20Pa%C5%9Fa%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738890","tip":"genel"}]
 description: "İstanbul'un Bahçelievler ilçesinde bulunan tarihi bir yapı kalıntısı olan Siyavuş Paşa Hamamı Kalıntısı, ziyaretçilerini tarihin sayfalarına götürüyor."
 keywords: ["Siyavuş Paşa Hamamı","Bahçelievler","İstanbul","tarihi yapı","mimarlık","gezi","tarih"]

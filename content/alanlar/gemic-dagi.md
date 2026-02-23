@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gemi%C3%A7%20Da%C4%9F%C4%B1","alt":"Gemiç Dağı","caption":"Gemiç Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf/page1-877px-Newsletter_-_International_Working_Group_on_Fire_Blight_Research%2C_Plant_Protection_Commission_%28IA_CAT89899594012%29.pdf.jpg","alt":"Gemiç Dağı","caption":"Gemiç Dağı","credit":"Newsletter - International Working Group on Fire Blight Research, Plant Protection Commission (IA CAT89899594012).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gemi%C3%A7%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34916035","tip":"genel"}]
 description: "Burdur'un doğal güzelliklerini keşfedin, Gemiç Dağı'nın büyüleyici manzaraları ve trekking rotaları seni bekliyor."
 keywords: ["Gemiç Dağı","Burdur","Dağ","Trekking","Doğa","Manzara","Turizm","Gezi","Macera"]

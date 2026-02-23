@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekme","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Is%C4%B1rl%C4%B1k%20Tabiat%20Park%C4%B1","alt":"Isırlık Tabiat Parkı","caption":"Isırlık Tabiat Parkı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dahlias_%28IA_dahlias1914henr%29.pdf/page1-960px-Dahlias_%28IA_dahlias1914henr%29.pdf.jpg","alt":"Isırlık Tabiat Parkı","caption":"Isırlık Tabiat Parkı","credit":"Dahlias (IA dahlias1914henr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Is%C4%B1rl%C4%B1k%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Rize'de bulunan Isırlık Tabiat Parkı, Karadeniz Bölgesi'nin gözde mekanlarından biri"
 keywords: ["Isırlık Tabiat Parkı","Rize","Karadeniz Bölgesi","tabiat parkı","doğa","gezi","turizm"]

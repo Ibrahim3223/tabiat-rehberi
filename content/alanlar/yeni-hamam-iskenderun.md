@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Plaj yürüyüşü","Su sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yeni%20Hamam%2C%20%C4%B0skenderun","alt":"Yeni Hamam, İskenderun","caption":"Yeni Hamam, İskenderun"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Yeni Hamam, İskenderun","caption":"Yeni Hamam, İskenderun","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam%2C%20%C4%B0skenderun","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245812","tip":"genel"}]
 description: "İskenderun'un güneşli kıyılarında yer alan Yeni Hamam Plajı, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["İskenderun","Yeni Hamam","plaj","Akdeniz","Hatay","deniz","kum","güneş"]

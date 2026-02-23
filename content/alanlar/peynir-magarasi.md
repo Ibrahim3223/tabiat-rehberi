@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Peynir%20Ma%C4%9Faras%C4%B1","alt":"Peynir Mağarası","caption":"Peynir Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Peynir Mağarası","caption":"Peynir Mağarası","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Peynir%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319685","tip":"genel"}]
 description: "Konya'da bulunan doğal bir jeopark olan Peynir Mağarası, 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Peynir Mağarası","Konya","Jeopark","Doğal Alan","Turizm","Konya Turistik Yerler","Mağara","Jeolojik Oluşum","Konya Gezilecek Yerler"]

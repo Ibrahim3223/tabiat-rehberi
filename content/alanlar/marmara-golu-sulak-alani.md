@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Marmara%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Marmara Gölü Sulak Alanı","caption":"Marmara Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Marmara Gölü Sulak Alanı","caption":"Marmara Gölü Sulak Alanı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Marmara%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228866","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Marmara Gölü Sulak Alanı"
 keywords: ["Marmara Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğal Alan","Sulak Alanlar","Marmara Gölü Sulak Alanı","Doğa","Çevre"]

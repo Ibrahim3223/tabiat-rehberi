@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Tarih gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0tkiranh%C3%B6y%C3%BC%C4%9F%C3%BC%20Tepesi","alt":"İtkiranhöyüğü Tepesi","caption":"İtkiranhöyüğü Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg","alt":"İtkiranhöyüğü Tepesi","caption":"İtkiranhöyüğü Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 04.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0tkiranh%C3%B6y%C3%BC%C4%9F%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810527","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan İtkiranhöyüğü Tepesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["İtkiranhöyüğü Tepesi","Kahramanmaraş","Akdeniz Bölgesi","tarih","doğa","gezi","turizm","tepe","kültür"]

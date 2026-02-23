@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ak%C3%A7a%20Tepe","alt":"Akça Tepe","caption":"Akça Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Akça Tepe","caption":"Akça Tepe","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7a%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35723725","tip":"genel"}]
 description: "Bingöl'de yer alan Akça Tepe, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor"
 keywords: ["Akça Tepe","Bingöl","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Bingöl Gezilecek Yerler","Doğal Güzellikler"]

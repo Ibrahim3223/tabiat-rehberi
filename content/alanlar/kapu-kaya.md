@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kapu%20Kaya","alt":"Kapu Kaya","caption":"Kapu Kaya"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Kapu Kaya","caption":"Kapu Kaya","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kapu%20Kaya","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31565971","tip":"genel"}]
 description: "Sinop'ta bulunan Kapu Kaya, Türkiye'nin önemli dağlarından biri. 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Kapu Kaya","Sinop","Dağ","Türkiye","Doğa","Yeşil Alan","Gezi","Seyahat","Turizm"]

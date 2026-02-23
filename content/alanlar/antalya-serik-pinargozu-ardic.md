@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Serik-Pinargozu%20Ardic","alt":"Antalya-Serik-Pinargozu Ardic","caption":"Antalya-Serik-Pinargozu Ardic"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Antalya-Serik-Pinargozu Ardic","caption":"Antalya-Serik-Pinargozu Ardic","credit":"Turkish nature reserve.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Serik-Pinargozu%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227220","tip":"genel"}]
 description: "Akdeniz Bölgesi'nde yer alan Antalya-Serik-Pinargozu Ardic, doğa severlerin ziyaret etmesi gereken bir destinasyon."
 keywords: ["Antalya","Serik","Pinargozu Ardic","Milli Park","Doğa","Turizm","Akdeniz Bölgesi","Gezi","Seyahat"]

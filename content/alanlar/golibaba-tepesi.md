@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Golibaba%20Tepesi","alt":"Golibaba Tepesi","caption":"Golibaba Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Our_next-door_neighbor-_a_winter_in_Mexico_%28IA_ournextdoorneigh00have%29.pdf/page1-756px-Our_next-door_neighbor-_a_winter_in_Mexico_%28IA_ournextdoorneigh00have%29.pdf.jpg","alt":"Golibaba Tepesi","caption":"Golibaba Tepesi","credit":"Our next-door neighbor- a winter in Mexico (IA ournextdoorneigh00have).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Golibaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31522583","tip":"genel"}]
 description: "Muş'un güzide noktalarından biri olan Golibaba Tepesi, yüksek bir konumdate ziyaretçilerini bekliyor."
 keywords: ["Golibaba Tepesi","Muş","Doğu Anadolu Bölgesi","tepe","doğal alan","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["tarihi yapıları incelemek","doğa yürüyüşleri yapmak","yerel kültürü keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Be%C5%9Fe%20Dede%20T%C3%BCrbesi","alt":"Beşe Dede Türbesi","caption":"Beşe Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/S%C3%BCzer_Sun_Dreams_Beach_24_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_24_-_panoramio.jpg","alt":"Beşe Dede Türbesi","caption":"Beşe Dede Türbesi","credit":"Süzer Sun Dreams Beach 24 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fe%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391695","tip":"genel"}]
 description: "İzmir'in Bergama ilçesinde yer alan Beşe Dede Türbesi, tarihi geçmişi ve etkileyici coğrafyası ile dikkat çekiyor."
 keywords: ["Beşe Dede Türbesi","Bergama","İzmir","tarihi mekan","doğa","gezi","turizm","Ege Bölgesi","tarihçe","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçi olmak","doğa yürüyüşü","fotografçılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Fevzi%20Baba%20T%C3%BCrbesi","alt":"Fevzi Baba Türbesi","caption":"Fevzi Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Fevzi Baba Türbesi","caption":"Fevzi Baba Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fevzi%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390530","tip":"genel"}]
 description: "Merzifon'da tarihi ve doğal güzelliğin birleştiği bir nokta"
 keywords: ["Merzifon","Fevzi Baba Türbesi","tarih","doğa","gezi","türbe","İç Anadolu Bölgesi","Merzifon İlçesi"]

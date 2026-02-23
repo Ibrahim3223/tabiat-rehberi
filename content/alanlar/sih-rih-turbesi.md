@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe research","Doğa yürüyüşü","Fotografçılık","Deniz manzarası izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9E%C4%B1h%20Rih%20T%C3%BCrbesi","alt":"Şıh Rih Türbesi","caption":"Şıh Rih Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Casualty_Returns_1937.pdf/page1-960px-Casualty_Returns_1937.pdf.jpg","alt":"Şıh Rih Türbesi","caption":"Şıh Rih Türbesi","credit":"Casualty Returns 1937.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9E%C4%B1h%20Rih%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391762","tip":"genel"}]
 description: "Mersin'in tarihi ve doğal güzelliklerinin buluştuğu noktada bulunan Şıh Rih Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Şıh Rih Türbesi","Mersin","Türbe","Tarih","Doğa","Gezi","Turizm","Akdeniz"]

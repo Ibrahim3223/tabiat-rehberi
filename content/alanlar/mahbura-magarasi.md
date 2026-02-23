@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mahbura%20Ma%C4%9Faras%C4%B1","alt":"Mahbura Mağarası","caption":"Mahbura Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%B6bekli_Tepe_-_landscape.jpg/960px-G%C3%B6bekli_Tepe_-_landscape.jpg","alt":"Mahbura Mağarası","caption":"Mahbura Mağarası","credit":"Göbekli Tepe - landscape.jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahbura%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319525","tip":"genel"}]
 description: "Şanlıurfa'da yer alan Mahbura Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Mahbura Mağarası","Şanlıurfa","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Şanlıurfa Turistik Yerler","Jeolojik Özellikler"]

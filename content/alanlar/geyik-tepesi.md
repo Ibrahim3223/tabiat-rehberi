@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Geyik%20Tepesi","alt":"Geyik Tepesi","caption":"Geyik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf/page1-860px-Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf.jpg","alt":"Geyik Tepesi","caption":"Geyik Tepesi","credit":"Across Asia on a bicycle; (IA acrossasiaonbicy00alle).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geyik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385819","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Geyik Tepesi, 140 hektarlık geniş yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Geyik Tepesi","Sivas","İç Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "en az 2 saat"
 aktiviteler: ["doğa yürüyüşü","bitki türleri gözlemi","vahşi yaşam gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Dirgine-Kozdere-Karacam","alt":"Bolu-Dirgine-Kozdere-Karacam","caption":"Bolu-Dirgine-Kozdere-Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/G%C3%B6lc%C3%BCk2.jpg/960px-G%C3%B6lc%C3%BCk2.jpg","alt":"Bolu-Dirgine-Kozdere-Karacam","caption":"Bolu-Dirgine-Kozdere-Karacam","credit":"Gölcük2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Dirgine-Kozdere-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228253","tip":"genel"}]
 description: "Bolu'nun doğal güzelliklerini keşfedin. Karadeniz Bölgesi'nin en önemli milli parklarından biri olan Bolu-Dirgine-Kozdere-Karacam, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle ziyaretçilerini bekliyor."
 keywords: ["Bolu","Karadeniz Bölgesi","milli park","doğa","yeşil alan","bitki türleri"]

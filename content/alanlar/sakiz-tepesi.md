@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara seyretme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sak%C4%B1z%20Tepesi","alt":"Sakız Tepesi","caption":"Sakız Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_life_of_Paul_of_Tarsus_%28IA_lifeofpauloftars00larr%29.pdf/page1-960px-The_life_of_Paul_of_Tarsus_%28IA_lifeofpauloftars00larr%29.pdf.jpg","alt":"Sakız Tepesi","caption":"Sakız Tepesi","credit":"The life of Paul of Tarsus (IA lifeofpauloftars00larr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sak%C4%B1z%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390285","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerinden biri olan Sakız Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Sakız Tepesi","Adana","Akdeniz Bölgesi","doğa","gezi","tepe"]

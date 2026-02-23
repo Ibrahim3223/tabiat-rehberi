@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Termal suya girmek","Doğa yürüyüşü","Flora ve fauna gözlemi","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayac%C4%B1k%20Il%C4%B1cas%C4%B1","alt":"Kayacık Ilıcası","caption":"Kayacık Ilıcası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf/page1-614px-Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf.jpg","alt":"Kayacık Ilıcası","caption":"Kayacık Ilıcası","credit":"Journal of a tour in Asia Minor - with comparative remarks on the ancient and modern geography of that country (IA gri 000033125011216732).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayac%C4%B1k%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741943","tip":"genel"}]
 description: "Burdur'un doğal güzellikleri arasında yer alan Kayacık Ilıcası, termal kaynakları ve zengin flora ile dikkat çekiyor."
 keywords: ["Kayacık Ilıcası","Burdur","termal kaynak","doğa","gezi","turizm","Akdeniz Bölgesi","ilaç suyu","kaynak suyu"]

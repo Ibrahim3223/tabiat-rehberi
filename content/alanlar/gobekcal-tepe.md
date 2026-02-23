@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","keşif","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6bek%C3%A7al%20Tepe","alt":"Göbekçal Tepe","caption":"Göbekçal Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg","alt":"Göbekçal Tepe","caption":"Göbekçal Tepe","credit":"Güver Canyon Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6bek%C3%A7al%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32223281","tip":"genel"}]
 description: "Antalya'nın tarihi ve doğal güzellikleri arasında yer alan Göbekçal Tepe, ziyaretçilerini bekliyor."
 keywords: ["Göbekçal Tepe","Antalya","tarih","doğa","gezi","turizm","Akdeniz Bölgesi","kültür","coğrafya"]

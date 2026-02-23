@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık"," piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adana-Pos-Karsanti%20K%C4%B1z%C4%B1l%C3%A7am%202","alt":"Adana-Pos-Karsanti Kızılçam 2","caption":"Adana-Pos-Karsanti Kızılçam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/The_Glendale_Evening_News_1924-09-15_%28IA_cgl_005414%29.pdf/page1-960px-The_Glendale_Evening_News_1924-09-15_%28IA_cgl_005414%29.pdf.jpg","alt":"Adana-Pos-Karsanti Kızılçam 2","caption":"Adana-Pos-Karsanti Kızılçam 2","credit":"The Glendale Evening News 1924-09-15 (IA cgl 005414).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pos-Karsanti%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227408","tip":"genel"}]
 description: "Adana'nın yeşilliğiyle çevrili milli parkı, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
 keywords: ["Adana","milli park","Karsanti","Kızılçam","yeşillik","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa Yürüyüşü","Manzara İzleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Onba%C5%9F%C4%B1%20Tepesi","alt":"Onbaşı Tepesi","caption":"Onbaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Geological_literature_added_to_the_Geological_Society%27s_Library_%28IA_geologicallit19021903geol%29.pdf/page1-833px-Geological_literature_added_to_the_Geological_Society%27s_Library_%28IA_geologicallit19021903geol%29.pdf.jpg","alt":"Onbaşı Tepesi","caption":"Onbaşı Tepesi","credit":"Geological literature added to the Geological Society's Library (IA geologicallit19021903geol).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Onba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389065","tip":"genel"}]
 description: "Muş'un güzide noktalarından biri olan Onbaşı Tepesi, doğa severlerin ziyaret noktalarından."
 keywords: ["Onbaşı Tepesi","Muş","Doğu Anadolu Bölgesi","Doğa","Tepeler","Turizm","Gezi","Seyahat"]

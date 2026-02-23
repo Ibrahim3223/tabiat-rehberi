@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Lalapa%C5%9Fa%20Hamam%C4%B1","alt":"Lalapaşa Hamamı","caption":"Lalapaşa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Lalapaşa Hamamı","caption":"Lalapaşa Hamamı","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lalapa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738427","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Erzurum'un Yakutiye ilçesinde yer alan Lalapaşa Hamamı"
 keywords: ["Lalapaşa Hamamı","Erzurum","Yakutiye","Doğu Anadolu Bölgesi","doğal güzellik","turizm","gezi","seyahat"]

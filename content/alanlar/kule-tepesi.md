@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih keşfi","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kule%20Tepesi","alt":"Kule Tepesi","caption":"Kule Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/The_principles_of_vegetable-gardening_%28IA_principlesofvege00bail%29.pdf/page1-845px-The_principles_of_vegetable-gardening_%28IA_principlesofvege00bail%29.pdf.jpg","alt":"Kule Tepesi","caption":"Kule Tepesi","credit":"The principles of vegetable-gardening (IA principlesofvege00bail).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kule%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389210","tip":"genel"}]
 description: "Bursa'nın güzide noktalarından biri olan Kule Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kule Tepesi","Bursa","Marmara Bölgesi","doğa","tarih","gezi","turizm","çevre"]

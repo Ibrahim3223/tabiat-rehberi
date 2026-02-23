@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCkyelecik%20Da%C4%9F%C4%B1","alt":"Küçükyelecik Dağı","caption":"Küçükyelecik Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Suharg%C4%B1_-_panoramio.jpg/960px-Suharg%C4%B1_-_panoramio.jpg","alt":"Küçükyelecik Dağı","caption":"Küçükyelecik Dağı","credit":"Suhargı - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkyelecik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042864","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerini keşfedin, Küçükyelecik Dağı'nı ziyaret edin!"
 keywords: ["Küçükyelecik Dağı","Giresun","Dağ","Doğa","Turizm","Gezi","Trekking","Doğa Yürüyüşü","Giresun Gezilecek Yerler"]

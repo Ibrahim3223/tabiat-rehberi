@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dabatsvril","alt":"Dabatsvril","caption":"Dabatsvril"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Relaxing_lake_view.jpg/960px-Relaxing_lake_view.jpg","alt":"Dabatsvril","caption":"Dabatsvril","credit":"Relaxing lake view.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dabatsvril","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21211122","tip":"genel"}]
 description: "Artvin'de bulunan Dabatsvril, 1200 hektarlık bir alanı kaplayan 120 metre derinliğe sahip bir gol"
 keywords: ["Dabatsvril","Artvin","gol","doğa","turizm","gezi","yerel","çevre","ekosistem"]

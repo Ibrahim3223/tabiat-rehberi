@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","flora ve fauna gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erimez%20Tepesi","alt":"Erimez Tepesi","caption":"Erimez Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Karadeniz_Da%C4%9Flar%C4%B1_-_panoramio.jpg/960px-Karadeniz_Da%C4%9Flar%C4%B1_-_panoramio.jpg","alt":"Erimez Tepesi","caption":"Erimez Tepesi","credit":"Karadeniz Dağları - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erimez%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568142","tip":"genel"}]
 description: "Giresun'un yeşil doğası ve tarihi geçmişiyle dikkat çeken Erimez Tepesi, ziyaretçilerini bekliyor"
 keywords: ["Giresun","Karadeniz Bölgesi","Erimez Tepesi","doğa","tarih","gezi","turizm","coğrafya","flora","fauna"]

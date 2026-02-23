@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","piknik","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karab%C3%BCk-Devrek-Purenkaya%20Mese","alt":"Karabük-Devrek-Purenkaya Mese","caption":"Karabük-Devrek-Purenkaya Mese"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Karabük-Devrek-Purenkaya Mese","caption":"Karabük-Devrek-Purenkaya Mese","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karab%C3%BCk-Devrek-Purenkaya%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227708","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
 keywords: ["Karabük","Devrek","Purenkaya Mese","milli park","Karadeniz Bölgesi","yeşil alan","doğa","flora","fauna"]

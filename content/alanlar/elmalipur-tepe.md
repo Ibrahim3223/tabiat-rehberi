@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçi gezisi","Coğrafi keşif","Flora ve fauna gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Elmal%C4%B1pur%20Tepe","alt":"Elmalıpur Tepe","caption":"Elmalıpur Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf/page1-804px-David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf.jpg","alt":"Elmalıpur Tepe","caption":"Elmalıpur Tepe","credit":"David George Hogarth. Accidents of an antiquary's life. 1910.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elmal%C4%B1pur%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391112","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Elmalıpur Tepe, tarihi ve coğrafi özellikleri ile dikkat çekiyor."
 keywords: ["Elmalıpur Tepe","Sivas","İç Anadolu Bölgesi","Tarihçe","Coğrafya","Flora","Fauna","Ziyaret"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda dinlenmek","doğa yürüyüşü","tarihçe keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tarihi%20Meydan%20Hamam%C4%B1","alt":"Tarihi Meydan Hamamı","caption":"Tarihi Meydan Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/South_Sea_letters_%28IA_southsealetters00wool%29.pdf/page1-960px-South_Sea_letters_%28IA_southsealetters00wool%29.pdf.jpg","alt":"Tarihi Meydan Hamamı","caption":"Tarihi Meydan Hamamı","credit":"South Sea letters (IA southsealetters00wool).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarihi%20Meydan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738441","tip":"genel"}]
 description: "Sivas'ın tarihi ve doğal güzelliklerini keşfedin. Tarihi Meydan Hamamı, Sivas'ın merkezinde yer alan bir plajdır."
 keywords: ["Sivas","Tarihi Meydan Hamamı","plaj","İç Anadolu Bölgesi","doğa","tarih","gezi"]

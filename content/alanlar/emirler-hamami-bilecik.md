@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi","ekoloji araştırması"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Emirler%20Hamam%C4%B1%2C%20Bilecik","alt":"Emirler Hamamı, Bilecik","caption":"Emirler Hamamı, Bilecik"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Emirler Hamamı, Bilecik","caption":"Emirler Hamamı, Bilecik","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emirler%20Hamam%C4%B1%2C%20Bilecik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245761","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Bilecik","Marmara Bölgesi","doğa","gezi","tarih","ekoloji","çevre","turizm","gezilecek yerler","Emirler Hamamı"]

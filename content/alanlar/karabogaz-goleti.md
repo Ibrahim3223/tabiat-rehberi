@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Tekne turu","Balıkçılık","Kuş gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karabo%C4%9Faz%20G%C3%B6leti","alt":"Karaboğaz Göleti","caption":"Karaboğaz Göleti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Perspective_of_Lake_Seyfe_-_panoramio.jpg/960px-Perspective_of_Lake_Seyfe_-_panoramio.jpg","alt":"Karaboğaz Göleti","caption":"Karaboğaz Göleti","credit":"Perspective of Lake Seyfe - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karabo%C4%9Faz%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34893984","tip":"genel"}]
 description: "Kırşehir'de bulunan Karaboğaz Göleti, 1200 hektarlık yeşil cennet, doğa severler için ideal bir destinasyon"
 keywords: ["Karaboğaz Göleti","Kırşehir","gölet","doğa","turizm","gezi","yaban hayatı","su sporları","çevre turizmi"]

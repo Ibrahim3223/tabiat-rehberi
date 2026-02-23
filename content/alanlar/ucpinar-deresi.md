@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Balık avı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9C%C3%A7p%C4%B1nar%20Deresi","alt":"Üçpınar Deresi","caption":"Üçpınar Deresi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/The_Armenians%2Cor_the_people_of_Ararat_-_a_brief_historical_sketch_of_the_past_and_the_present_condition_of_Armenia%2C_the_Armenians%2C_their_religion%2C_and_missions_among_them_%28IA_b24886403%29.pdf/page1-872px-thumbnail.pdf.jpg","alt":"Üçpınar Deresi","caption":"Üçpınar Deresi","credit":"The Armenians,or the people of Ararat - a brief historical sketch of the past and the present condition of Armenia, the Armenians, their religion, and missions among them (IA b24886403).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7p%C4%B1nar%20Deresi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810154","tip":"genel"}]
 description: "Kars'ta bulunan Üçpınar Deresi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Üçpınar Deresi","Kars","Doğu Anadolu Bölgesi","Doğal güzellik","Tarihi geçmişi","Turizm","Gezi","Doğa"]

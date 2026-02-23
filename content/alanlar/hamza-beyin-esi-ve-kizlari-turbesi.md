@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Tarihi eserleri incelemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamza%20Bey%E2%80%99in%20E%C5%9Fi%20ve%20K%C4%B1zlar%C4%B1%20T%C3%BCrbesi","alt":"Hamza Bey’in Eşi ve Kızları Türbesi","caption":"Hamza Bey’in Eşi ve Kızları Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/British_medical_journal_%28IA_1877britishmedic02brit%29.pdf/page1-960px-British_medical_journal_%28IA_1877britishmedic02brit%29.pdf.jpg","alt":"Hamza Bey’in Eşi ve Kızları Türbesi","caption":"Hamza Bey’in Eşi ve Kızları Türbesi","credit":"British medical journal (IA 1877britishmedic02brit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamza%20Bey%E2%80%99in%20E%C5%9Fi%20ve%20K%C4%B1zlar%C4%B1%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391703","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide şehri Bursa'da yer alan Hamza Bey’in Eşi ve Kızları Türbesi, Osmangazi ilçesinde bulunmaktadır."
 keywords: ["Hamza Bey’in Eşi ve Kızları Türbesi","Osmangazi","Bursa","Marmara Bölgesi","tarih","coğrafya","flora","fauna","ziyaret"]

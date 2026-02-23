@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","fotoğrafçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%B6%C4%9F%C3%BCt%20Koyu%20Cinari","alt":"Söğüt Koyu Cinari","caption":"Söğüt Koyu Cinari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Söğüt Koyu Cinari","caption":"Söğüt Koyu Cinari","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%B6%C4%9F%C3%BCt%20Koyu%20Cinari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227156","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri"
 keywords: ["Söğüt Koyu Cinari","İç Anadolu Bölgesi","doğal güzellik","milli park","turizm","gezi","yaban hayatı"]

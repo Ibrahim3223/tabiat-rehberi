@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ah%C4%B1r%20G%C3%B6l%C3%BC","alt":"Ahır Gölü","caption":"Ahır Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lake_Limni_Nature_Park_02.jpg/960px-Lake_Limni_Nature_Park_02.jpg","alt":"Ahır Gölü","caption":"Ahır Gölü","credit":"Lake Limni Nature Park 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ah%C4%B1r%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123310255","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerinden biri olan Ahır Gölü, ziyaretçilerini bekliyor. Doğal yaşamın zenginliklerini keşfedin."
 keywords: ["Ahır Gölü","göl","Türkiye","doğa","turizm","gezi","yolculuk","göl gezisi","doğal yaşam"]

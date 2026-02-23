@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tepetarla%20Tepesi","alt":"Tepetarla Tepesi","caption":"Tepetarla Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf/page1-960px-From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf.jpg","alt":"Tepetarla Tepesi","caption":"Tepetarla Tepesi","credit":"From denial to participation- Turkey's evolving discourse on Kurdish nationalism (IA fromdenialtopart1094537734).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepetarla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556861","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide şehirlerinden Ankara'da yer alan Tepetarla Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Tepetarla Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","manzara","gezi","turizm","coğrafya"]

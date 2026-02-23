@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Lifma%C4%9Faralar%C4%B1","alt":"Lifmağaraları","caption":"Lifmağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Lifmağaraları","caption":"Lifmağaraları","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lifma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319416","tip":"genel"}]
 description: "Siirt'te yer alan Lifmağaraları, 1200 hektarlık bir jeopark alanıdır. Doğal güzellikleri ve tarihi önemiyle dikkat çeker."
 keywords: ["Lifmağaraları","Siirt","Jeopark","Doğal Alanlar","Tarih","Turizm","Gezi","Mağaralar","Doğa"]

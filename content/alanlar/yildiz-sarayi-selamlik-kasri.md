@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Bisiklet sürüşü","Doğa yürüyüşü","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Selaml%C4%B1k%20Kasr%C4%B1","alt":"Yıldız Sarayı Selamlık Kasrı","caption":"Yıldız Sarayı Selamlık Kasrı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Yıldız Sarayı Selamlık Kasrı","caption":"Yıldız Sarayı Selamlık Kasrı","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Selaml%C4%B1k%20Kasr%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133683982","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından Yıldız Sarayı Selamlık Kasrı, Marmara Bölgesi'nde yer alır."
 keywords: ["Yıldız Sarayı","Selamlık Kasrı","Marmara Bölgesi","İstanbul","Beşiktaş","tarihi mekanlar","saraylar","kasırlar"]

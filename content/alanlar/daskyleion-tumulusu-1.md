@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","arkeoloji turu","kültür gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Daskyleion%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%201","alt":"Daskyleion Tümülüsü 1","caption":"Daskyleion Tümülüsü 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Daskyleion Tümülüsü 1","caption":"Daskyleion Tümülüsü 1","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Daskyleion%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728312","tip":"genel"}]
 description: "Marmara Bölgesi'nin tarihi hazinesi, Bandırma'da keşfedilmeyi bekliyor"
 keywords: ["Daskyleion","Tümülüs","Bandırma","Marmara Bölgesi","tarih","arkeoloji","gezi","turizm","kültür","miras"]

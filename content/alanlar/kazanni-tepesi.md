@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","doğa fotoğrafçılığı","köy gezi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kazann%C4%B1%20Tepesi","alt":"Kazannı Tepesi","caption":"Kazannı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00sing%29.pdf/page1-770px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00sing%29.pdf.jpg","alt":"Kazannı Tepesi","caption":"Kazannı Tepesi","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00sing).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazann%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391265","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Kazannı Tepesi, doğa severlerin keşfetmesi gereken bir nokta."
 keywords: ["Kazannı Tepesi","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara","yürüyüş","keşif"]

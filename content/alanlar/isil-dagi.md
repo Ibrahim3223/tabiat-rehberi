@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=I%C5%9Fil%20Da%C4%9F%C4%B1","alt":"Işil Dağı","caption":"Işil Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Işil Dağı","caption":"Işil Dağı","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/I%C5%9Fil%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520126","tip":"genel"}]
 description: "Kayseri'nin görkemli dağlarından biri olan Işil Dağı, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Işil Dağı","Kayseri","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Kayseri Turistik Yerler","Dağcılık"]

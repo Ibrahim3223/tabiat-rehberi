@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1bay%C4%B1r%20Tepesi","alt":"Hacıbayır Tepesi","caption":"Hacıbayır Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf/page1-960px-FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf.jpg","alt":"Hacıbayır Tepesi","caption":"Hacıbayır Tepesi","credit":"FEDLINK - United States Federal Collection (IA keepingcurrentnd109453799).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1bay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390490","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerini bir araya getiren Hacıbayır Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Konya","Hacıbayır Tepesi","tarihçe","coğrafya","flora","fauna","ziyaret","gezi"]

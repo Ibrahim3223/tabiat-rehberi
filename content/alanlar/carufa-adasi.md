@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87arufa%20Adas%C4%B1","alt":"Çarufa Adası","caption":"Çarufa Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/View_to_chios_island_9view_to_chios_island_-_panoramio.jpg/960px-View_to_chios_island_9view_to_chios_island_-_panoramio.jpg","alt":"Çarufa Adası","caption":"Çarufa Adası","credit":"View to chios island 9view to chios island - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87arufa%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34789890","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Çarufa Adası, doğa severler için bir cennet. İzmir'in kıyılarında bulunan bu ada, ziyaretçilerini bekliyor."
 keywords: ["Çarufa Adası","İzmir Adaları","İzmir Turizm","Doğa Turizmi","Ada Gezileri","İzmir Gezi Rehberi","Türkiye Adaları","Ege Denizi Adaları","İzmir Kıyıları"]

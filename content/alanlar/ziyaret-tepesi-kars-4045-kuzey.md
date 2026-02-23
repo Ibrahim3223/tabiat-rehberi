@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi yapıları ziyaret etmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ziyaret%20Tepesi%20(Kars%2C%2040.45%20Kuzey)","alt":"Ziyaret Tepesi (Kars, 40.45 Kuzey)","caption":"Ziyaret Tepesi (Kars, 40.45 Kuzey)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Ziyaret Tepesi (Kars, 40.45 Kuzey)","caption":"Ziyaret Tepesi (Kars, 40.45 Kuzey)","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20Tepesi%20(Kars%2C%2040.45%20Kuzey)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388249","tip":"genel"}]
 description: "Kars'ta bulunan Ziyaret Tepesi, 40.45 kuzey enleminde yer alan bir tepe. Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Kars","Doğu Anadolu Bölgesi","Ziyaret Tepesi","tepe","doğal güzellik","gezi","turizm","coğrafya"]

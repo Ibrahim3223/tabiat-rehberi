@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları gezmek","doğal güzellikleri keşfetmek","kültürel etkinliklere katılmak","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=D%C3%BCmb%C3%BCldek%20Dede%20T%C3%BCrbesi","alt":"Dümbüldek Dede Türbesi","caption":"Dümbüldek Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Dümbüldek Dede Türbesi","caption":"Dümbüldek Dede Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCmb%C3%BCldek%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391827","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli turizm noktalarından biri olan Derince'de yer alan tarihi ve doğal güzellik."
 keywords: ["Dümbüldek Dede Türbesi","Derince","Kocaeli","Marmara Bölgesi","tarihi mekanlar","doğal güzellikler","turizm","gezi"]

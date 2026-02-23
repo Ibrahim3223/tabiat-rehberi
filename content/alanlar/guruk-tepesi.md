@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Fotoğraf çekme","Doğa","Tarihî eserleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCr%C3%BCk%20Tepesi","alt":"Gürük Tepesi","caption":"Gürük Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf/page1-812px-On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf.jpg","alt":"Gürük Tepesi","caption":"Gürük Tepesi","credit":"On the fringe of the great fight (IA onfringeofgreatf00nasmrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCr%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873495","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en güzel tepe noktalarından biri olan Gürük Tepesi, Batman'da doğayı ve tarihi bir arada keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Gürük Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tarih","tepe","gezi","keşif"]

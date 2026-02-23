@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih keşfi","doğa yürüyüşü","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9E%C4%B1h%20Kas%C4%B1m%20T%C3%BCrbesi","alt":"Şıh Kasım Türbesi","caption":"Şıh Kasım Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Şıh Kasım Türbesi","caption":"Şıh Kasım Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9E%C4%B1h%20Kas%C4%B1m%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391220","tip":"genel"}]
 description: "Çankırı'nın tarihi ve doğal güzelliklerinin birleştiği önemli bir nokta, Şıh Kasım Türbesi. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Şıh Kasım Türbesi","Çankırı","tarih","doğa","türbe","gezi","iç Anadolu Bölgesi"]

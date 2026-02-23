@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Tarihî geçmişi keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rkg%C3%B6z%20Su%20Kayna%C4%9F%C4%B1%20Karain%20Sit%20Alan%C4%B1","alt":"Kırkgöz Su Kaynağı Karain Sit Alanı","caption":"Kırkgöz Su Kaynağı Karain Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Kırkgöz Su Kaynağı Karain Sit Alanı","caption":"Kırkgöz Su Kaynağı Karain Sit Alanı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rkg%C3%B6z%20Su%20Kayna%C4%9F%C4%B1%20Karain%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226658","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kırkgöz Su Kaynağı Karain Sit Alanı, 140 hektarlık geniş alanıyla dikkat çekiyor."
 keywords: ["Kırkgöz Su Kaynağı","Karain Sit Alanı","İç Anadolu Bölgesi","doğal alan","su kaynağı","sit alanı"]

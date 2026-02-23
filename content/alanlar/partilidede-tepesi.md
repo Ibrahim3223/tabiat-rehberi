@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarihî kalıntıları keşfetmek","Bitki ve hayvan türlerini gözlemlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Part%C4%B1l%C4%B1dede%20Tepesi","alt":"Partılıdede Tepesi","caption":"Partılıdede Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Partılıdede Tepesi","caption":"Partılıdede Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Part%C4%B1l%C4%B1dede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390495","tip":"genel"}]
 description: "Konya'nın eşsiz doğal güzelliklerinden biri olan Partılıdede Tepesi, ziyaretçilerini büyülemektedir."
 keywords: ["Partılıdede Tepesi","Konya","Doğa","Tepeler","Gezi","İç Anadolu Bölgesi","Turizm","Yeşil Alanlar"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğrafçılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aydo%C4%9Fmu%C5%9F%20Tepesi","alt":"Aydoğmuş Tepesi","caption":"Aydoğmuş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Aydoğmuş Tepesi","caption":"Aydoğmuş Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aydo%C4%9Fmu%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571239","tip":"genel"}]
 description: "Tokat'ın gizli cenneti, Aydoğmuş Tepesi'ni keşfedin!"
 keywords: ["Aydoğmuş Tepesi","Tokat","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]

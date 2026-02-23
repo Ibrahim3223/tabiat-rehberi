@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denize girme","Hamamın tarihi güzelliğini keşfetme","Yeşil alanlarda yürüyüş yapma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kad%C4%B1rga%20Hamam%C4%B1","alt":"Kadırga Hamamı","caption":"Kadırga Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Kadırga Hamamı","caption":"Kadırga Hamamı","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kad%C4%B1rga%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738573","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan Kadırga Hamamı, Marmara Bölgesi'nin önemli noktalarından biri"
 keywords: ["Kadırga Hamamı","Fatih","İstanbul","Marmara Bölgesi","plaj","denize girme","gezi noktaları"]

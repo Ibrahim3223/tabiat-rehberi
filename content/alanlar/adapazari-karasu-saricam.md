@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotosafari","doğa gözlemi","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adapazari-Karasu%20Saricam","alt":"Adapazari-Karasu Saricam","caption":"Adapazari-Karasu Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Adapazari-Karasu Saricam","caption":"Adapazari-Karasu Saricam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Karasu%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227974","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Adapazari-Karasu Saricam milli parkı, doğal güzellikleri ve zengin fauna ile dikkat çekiyor"
 keywords: ["Adapazari-Karasu Saricam","milli park","İç Anadolu Bölgesi","doğal güzellik","fauna","flora","turizm","gezi","yaban hayatı"]

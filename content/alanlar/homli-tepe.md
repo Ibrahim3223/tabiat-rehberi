@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik manzara izleme","tarihi yapılar gezme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Homl%C4%B1%20Tepe","alt":"Homlı Tepe","caption":"Homlı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Homlı Tepe","caption":"Homlı Tepe","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Homl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386282","tip":"genel"}]
 description: "Gaziantep'in tarihi ve doğal güzellikleri arasında yer alan Homlı Tepe, ziyaretçilerini bekliyor."
 keywords: ["Gaziantep","Homlı Tepe","tarih","doğa","turizm","gezi","çevre","ekoloji"]

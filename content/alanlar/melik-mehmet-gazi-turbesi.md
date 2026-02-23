@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları gezmek","Doğa yürüyüşleri yapmak","Flora ve faunayı gözlemlemek","Rehberlik hizmetlerinden yararlanmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Melik%20Mehmet%20Gazi%20T%C3%BCrbesi","alt":"Melik Mehmet Gazi Türbesi","caption":"Melik Mehmet Gazi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Melik Mehmet Gazi Türbesi","caption":"Melik Mehmet Gazi Türbesi","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melik%20Mehmet%20Gazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390861","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir arada sunan Melik Mehmet Gazi Türbesi, Kayseri'nin Melikgazi ilçesinde bulunmaktadır."
 keywords: ["Melik Mehmet Gazi Türbesi","Kayseri","Melikgazi","İç Anadolu Bölgesi","tarihi mekanlar","doğa güzellikleri","türk kültürü","tarihçe","coğrafya"]

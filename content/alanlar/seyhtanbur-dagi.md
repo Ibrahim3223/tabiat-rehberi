@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyhtanbur%20Da%C4%9F%C4%B1","alt":"Şeyhtanbur Dağı","caption":"Şeyhtanbur Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Şeyhtanbur Dağı","caption":"Şeyhtanbur Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhtanbur%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506806","tip":"genel"}]
 description: "Diyarbakır'da yer alan Şeyhtanbur Dağı, 1200 hektarlık yeşil cenneti ile dikkat çekiyor. Doğal güzellikleri keşfedin!"
 keywords: ["Şeyhtanbur Dağı","Diyarbakır","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Diyarbakır Turistik Yerler","Şeyhtanbur"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotografcilik","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kocaarka%C3%A7%20Tepesi","alt":"Kocaarkaç Tepesi","caption":"Kocaarkaç Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Kocaarkaç Tepesi","caption":"Kocaarkaç Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocaarka%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042249","tip":"genel"}]
 description: "Ankara'nın önemli dağlarından biri olan Kocaarkaç Tepesi, doğal güzellikleri ve yürüyüş rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Kocaarkaç Tepesi","Ankara Dağları","Doğa Yürüyüşü","Türkiye Coğrafyası","Ankara Turizm","Dağcılık","Yürüyüş Rotaları","Ankara Gezi","Doğal Alanlar"]

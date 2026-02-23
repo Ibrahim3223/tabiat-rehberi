@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî araştırma","fotografcılık","dinî ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20%C3%BCl%20%C3%9Cmran%20T%C3%BCrbesi","alt":"Şeyh ül Ümran Türbesi","caption":"Şeyh ül Ümran Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Robinson_Crusoe%27s_money%3B_or%2C_The_remarkable_financial_fortunes_and_misfortunes_of_a_remote_island_community_%28IA_robinsoncrusoesm00well%29.pdf/page1-764px-Robinson_Crusoe%27s_money%3B_or%2C_The_remarkable_financial_fortunes_and_misfortunes_of_a_remote_island_community_%28IA_robinsoncrusoesm00well%29.pdf.jpg","alt":"Şeyh ül Ümran Türbesi","caption":"Şeyh ül Ümran Türbesi","credit":"Robinson Crusoe's money; or, The remarkable financial fortunes and misfortunes of a remote island community (IA robinsoncrusoesm00well).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C3%BCl%20%C3%9Cmran%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390720","tip":"genel"}]
 description: "Mudurnu'nun tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Mudurnu","Bolu","Karadeniz Bölgesi","tarihi mekanlar","doğa turizmi","türk kültürü","şeyh ül ümran","tarihçe","coğrafya"]

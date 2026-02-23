@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Be%C5%9Fg%C3%B6ze%20Tepesi","alt":"Beşgöze Tepesi","caption":"Beşgöze Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Beşgöze Tepesi","caption":"Beşgöze Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fg%C3%B6ze%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139612","tip":"genel"}]
 description: "Siirt'in doğal güzelliklerinden Beşgöze Tepesi'ni keşfedin."
 keywords: ["Beşgöze Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","Doğa","Tepeler","Coğrafya","Flora","Fauna","Ziyaret"]

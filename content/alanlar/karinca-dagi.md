@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kar%C4%B1nca%20Da%C4%9F%C4%B1","alt":"Karınca Dağı","caption":"Karınca Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/William_Hepworth_Dixon_-_British_Cyprus_%281879%29.pdf/page1-833px-William_Hepworth_Dixon_-_British_Cyprus_%281879%29.pdf.jpg","alt":"Karınca Dağı","caption":"Karınca Dağı","credit":"William Hepworth Dixon - British Cyprus (1879).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kar%C4%B1nca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517177","tip":"genel"}]
 description: "Adana'nın önemli doğal güzelliklerinden biri olan Karınca Dağı, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Karınca Dağı","Adana","doğal güzellik","turizm","gezi","dağ","yeşil alan","çevre","ekosistem","Adana turistik yerler"]

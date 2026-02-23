@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik görüş","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eahmeran%20Tepesi","alt":"Şahmeran Tepesi","caption":"Şahmeran Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Şahmeran Tepesi","caption":"Şahmeran Tepesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eahmeran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388502","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Şahmeran Tepesi, Erzurum'un güzide mekanlarından biridir."
 keywords: ["Şahmeran Tepesi","Erzurum","Doğu Anadolu Bölgesi","tepe","doğa","coğrafya","flora","fauna","ziyaret"]

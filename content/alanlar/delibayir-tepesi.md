@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Doğa gözlemciliği","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Delibay%C4%B1r%20Tepesi","alt":"Delibayır Tepesi","caption":"Delibayır Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_beauties_of_nature_-_and_how_far_they_transcend_those_of_art_in_landscape_gardening_-_a_poem_%28IA_beautiesofnature00sinc%29.pdf/page1-791px-The_beauties_of_nature_-_and_how_far_they_transcend_those_of_art_in_landscape_gardening_-_a_poem_%28IA_beautiesofnature00sinc%29.pdf.jpg","alt":"Delibayır Tepesi","caption":"Delibayır Tepesi","credit":"The beauties of nature - and how far they transcend those of art in landscape gardening - a poem (IA beautiesofnature00sinc).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Delibay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390785","tip":"genel"}]
 description: "Yozgat'ın doğal güzelliklerini keşfedin. İç Anadolu Bölgesi'nin önemli noktalarından biri"
 keywords: ["Delibayır Tepesi","Yozgat","İç Anadolu Bölgesi","Doğal güzellik","Tepeler","Coğrafya","Tarihçe","Flora","Fauna","Ziyaret"]

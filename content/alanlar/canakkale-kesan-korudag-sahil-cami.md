@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","ibadet","çevre gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Canakkale-Kesan-Korudag%20Sahil%20Cami","alt":"Canakkale-Kesan-Korudag Sahil Cami","caption":"Canakkale-Kesan-Korudag Sahil Cami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf/page1-960px-Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf.jpg","alt":"Canakkale-Kesan-Korudag Sahil Cami","caption":"Canakkale-Kesan-Korudag Sahil Cami","credit":"Effects of forest fire on physical, chemical and biological soil properties.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Kesan-Korudag%20Sahil%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227279","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan milli park"
 keywords: ["milli park","Çanakkale","Marmara Bölgesi","sahil cami","doğa","turizm","gezi","çevre","ekosistem"]

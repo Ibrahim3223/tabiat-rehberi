@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCmb%C3%BCll%C3%BC%20Da%C4%9F%C4%B1","alt":"Sümbüllü Dağı","caption":"Sümbüllü Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Narrative_of_a_Mission_to_Central_Africa%2C_performed_in_the_years_1850-51%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.52984%29.pdf/page1-622px-Narrative_of_a_Mission_to_Central_Africa%2C_performed_in_the_years_1850-51%2C_in_Two_Volumes%2C_Vol._I_%28IA_dli.granth.52984%29.pdf.jpg","alt":"Sümbüllü Dağı","caption":"Sümbüllü Dağı","credit":"Narrative of a Mission to Central Africa, performed in the years 1850-51, in Two Volumes, Vol. I (IA dli.granth.52984).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCmb%C3%BCll%C3%BC%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811250","tip":"genel"}]
 description: "Karaman'da yer alan Sümbüllü Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin uğrak noktası"
 keywords: ["Sümbüllü Dağı","Karaman","Dağ","Doğa","Yeşil Alan","Turizm","Karaman Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

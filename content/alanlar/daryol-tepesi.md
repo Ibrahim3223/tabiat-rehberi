@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Daryol%20Tepesi","alt":"Daryol Tepesi","caption":"Daryol Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Daryol Tepesi","caption":"Daryol Tepesi","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Daryol%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388289","tip":"genel"}]
 description: "Kars'ta bulunan Daryol Tepesi, Doğuu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biridir."
 keywords: ["Daryol Tepesi","Kars","Doğu Anadolu Bölgesi","doğal güzellikler","tepe","coğrafya","tarihçe"]

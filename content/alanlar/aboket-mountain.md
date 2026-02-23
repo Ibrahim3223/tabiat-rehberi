@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aboket%20Mountain","alt":"Aboket Mountain","caption":"Aboket Mountain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Aboket Mountain","caption":"Aboket Mountain","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aboket%20Mountain","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21199168","tip":"genel"}]
 description: "Artvin'de yer alan Aboket Mountain, doğa severlerin keşfetmek için bekleyen bir dağ"
 keywords: ["Aboket Mountain","Artvin","Dağ","Doğa","Trekking","Turizm","Gezi","Macera","Doğa Sporları"]

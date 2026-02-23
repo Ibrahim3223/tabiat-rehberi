@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=T%C3%BCrkda%C4%9F%C4%B1%20Tepe","alt":"Türkdağı Tepe","caption":"Türkdağı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Türkdağı Tepe","caption":"Türkdağı Tepe","credit":"Malatya turgut ozal nature park view.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrkda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32176734","tip":"genel"}]
 description: "Malatya'da bulunan Türkdağı Tepe, 1400 metre yüksekliğiyle bölgenin önemli dağlarından biri"
 keywords: ["Türkdağı Tepe","Malatya","Dağ","Doğa","Trekking","Turizm","Gezi","Yürüyüş","Manzara"]

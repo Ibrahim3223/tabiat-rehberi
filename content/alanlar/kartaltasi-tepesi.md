@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Fotoğraf çekimi","Tarih ve kültür turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kartalta%C5%9F%C4%B1%20Tepesi","alt":"Kartaltaşı Tepesi","caption":"Kartaltaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf/page1-635px-In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf.jpg","alt":"Kartaltaşı Tepesi","caption":"Kartaltaşı Tepesi","credit":"In gold and silver .. (IA ingoldandsilver00ellwiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartalta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516830","tip":"genel"}]
 description: "Mardin'in doğal güzellikleri arasında yer alan Kartaltaşı Tepesi, ziyaretçiler için eşsiz bir deneyim sunuyor."
 keywords: ["Kartaltaşı Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","doğa","tepe","turizm","gezi","yolculuk"]

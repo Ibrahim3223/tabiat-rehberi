@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kocakayran%20Da%C4%9F%C4%B1","alt":"Kocakayran Dağı","caption":"Kocakayran Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Kocakayran Dağı","caption":"Kocakayran Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocakayran%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31585857","tip":"genel"}]
 description: "Balıkesir'de yer alan Kocakayran Dağı, 1200 metre yüksekliğiyle bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Kocakayran Dağı","Balıkesir","Dağ","Doğa","Turizm","Gezi","Trekking","Doğal Güzellik","Yayla"]

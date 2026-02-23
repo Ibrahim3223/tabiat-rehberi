@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Han%C5%9Feref%20Da%C4%9F%C4%B1","alt":"Hanşeref Dağı","caption":"Hanşeref Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/The_prophet_of_the_Great_Smoky_Mountains_%28IA_prophetofgreat00murfrich%29.pdf/page1-691px-The_prophet_of_the_Great_Smoky_Mountains_%28IA_prophetofgreat00murfrich%29.pdf.jpg","alt":"Hanşeref Dağı","caption":"Hanşeref Dağı","credit":"The prophet of the Great Smoky Mountains (IA prophetofgreat00murfrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Han%C5%9Feref%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31579078","tip":"genel"}]
 description: "Muş'un doğal güzelliklerini keşfedin. 1400 metre yüksekliğiyle Hanşeref Dağı, trekking ve doğa severler için ideal bir destinasyon."
 keywords: ["Hanşeref Dağı","Muş","Dağ","Trekking","Doğa","Turizm","Gezi","Muş Turistik Yerler","Doğa Sporları"]

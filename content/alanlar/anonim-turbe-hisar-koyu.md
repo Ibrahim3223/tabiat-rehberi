@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihi mekanları ziyaret","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Anonim%20T%C3%BCrbe%2C%20Hisar%20K%C3%B6y%C3%BC","alt":"Anonim Türbe, Hisar Köyü","caption":"Anonim Türbe, Hisar Köyü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf/page1-883px-Sport_%26_travel%2C_East_and_West_%28IA_sporttraveleastw00selorich%29.pdf.jpg","alt":"Anonim Türbe, Hisar Köyü","caption":"Anonim Türbe, Hisar Köyü","credit":"Sport & travel, East and West (IA sporttraveleastw00selorich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20T%C3%BCrbe%2C%20Hisar%20K%C3%B6y%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582176","tip":"genel"}]
 description: "Denizli'nin Merkezefendi ilçesinde yer alan Anonim Türbe, Hisar Köyü, doğal güzelliği ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Anonim Türbe","Hisar Köyü","Merkezefendi","Denizli","Ege Bölgesi","tarihi mekanlar","doğal güzellikler"]

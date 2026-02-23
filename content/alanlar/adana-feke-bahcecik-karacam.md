@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adana-Feke-Bahcecik%20Karacam","alt":"Adana-Feke-Bahcecik Karacam","caption":"Adana-Feke-Bahcecik Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_danger_zone_of_Europe_-_changes_and_problems_in_the_Near_East_%28IA_dangerzoneofeuro00woodrich%29.pdf/page1-729px-The_danger_zone_of_Europe_-_changes_and_problems_in_the_Near_East_%28IA_dangerzoneofeuro00woodrich%29.pdf.jpg","alt":"Adana-Feke-Bahcecik Karacam","caption":"Adana-Feke-Bahcecik Karacam","credit":"The danger zone of Europe - changes and problems in the Near East (IA dangerzoneofeuro00woodrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Feke-Bahcecik%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227468","tip":"genel"}]
 description: "Adana-Feke-Bahcecik Karacam milli parkı, Akdeniz Bölgesi'nin en önemli doğal alanlarından biri"
 keywords: ["Adana","Feke","Bahcecik Karacam","milli park","Akdeniz Bölgesi","doğal alan","çevre","ekoloji"]

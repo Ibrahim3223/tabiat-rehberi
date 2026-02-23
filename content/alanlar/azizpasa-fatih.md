@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Azizpa%C5%9Fa-Fatih","alt":"Azizpaşa-Fatih","caption":"Azizpaşa-Fatih"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Azizpaşa-Fatih","caption":"Azizpaşa-Fatih","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Azizpa%C5%9Fa-Fatih","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227885","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık milli park"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","gezi","yaban hayatı","ekosistem","çevre","koruma"]

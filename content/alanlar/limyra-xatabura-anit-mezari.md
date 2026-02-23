@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih","doğa"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Limyra%20Xatabura%C2%A0An%C4%B1t%20Mezar%C4%B1","alt":"Limyra Xatabura Anıt Mezarı","caption":"Limyra Xatabura Anıt Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Limyra Xatabura Anıt Mezarı","caption":"Limyra Xatabura Anıt Mezarı","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Limyra%20Xatabura%C2%A0An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728088","tip":"genel"}]
 description: "Finike/Antalya'da bulunan tarihi bir anıt mezarıdır. Akdeniz Bölgesi'nin önemli turistik noktalarından biridir."
 keywords: ["Limyra","Xatabura Anıt Mezarı","Finike","Antalya","tarih","antik","türbe","mezar","gezi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zamp%20Mountain","alt":"Zamp Mountain","caption":"Zamp Mountain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Zamp Mountain","caption":"Zamp Mountain","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zamp%20Mountain","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21697193","tip":"genel"}]
 description: "Artvin'de yer alan Zamp Mountain, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Zamp Mountain","Artvin","Dağ","Doğa","Yeşil Alan","Trekking","Doğa Yürüyüşü","Turizm","Gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lali%20Da%C4%9F%C4%B1","alt":"Kızılali Dağı","caption":"Kızılali Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Kızılali Dağı","caption":"Kızılali Dağı","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lali%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31584852","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, Kızılali Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Kızılali Dağı","Mersin","Dağ","Doğa","Turizm","Gezi","Mersin Gezi","Dağ Turu","Kızılali Dağı Manzaraları"]

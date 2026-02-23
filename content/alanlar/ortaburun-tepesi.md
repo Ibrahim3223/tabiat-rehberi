@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ortaburun%20Tepesi","alt":"Ortaburun Tepesi","caption":"Ortaburun Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/The_wilds_of_Patagonia%3B_a_narrative_of_the_Swedish_expedition_to_Patagonia%2C_Tierra_del_Fuego_and_the_Falkland_Islands_in_1907-1909_%28IA_ofpatagonia00skotwildsrich%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Ortaburun Tepesi","caption":"Ortaburun Tepesi","credit":"The wilds of Patagonia; a narrative of the Swedish expedition to Patagonia, Tierra del Fuego and the Falkland Islands in 1907-1909 (IA ofpatagonia00skotwildsrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ortaburun%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386990","tip":"genel"}]
 description: "Bolu'nun doğal güzelliklerini keşfedin. Ortaburun Tepesi, Karadeniz Bölgesi'nde yer alan bir tepe"
 keywords: ["Ortaburun Tepesi","Bolu","Karadeniz Bölgesi","doğa","tepe","gezi","keşif","turizm"]

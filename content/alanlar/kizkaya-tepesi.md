@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Trekking","Piknik","Doğa fotoğrafçılığı","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1zkaya%20Tepesi","alt":"Kızkaya Tepesi","caption":"Kızkaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ulug%C3%B6l_Nature_Park.jpg/960px-Ulug%C3%B6l_Nature_Park.jpg","alt":"Kızkaya Tepesi","caption":"Kızkaya Tepesi","credit":"Ulugöl Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1zkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31563796","tip":"genel"}]
 description: "Ordu'nun doğal güzelliklerinin başında gelen Kızkaya Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Kızkaya Tepesi","Ordu","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","yayla"]

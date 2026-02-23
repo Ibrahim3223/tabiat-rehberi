@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarihi gezi","Bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dikhoroz%20Tepesi","alt":"Dikhoroz Tepesi","caption":"Dikhoroz Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf/page1-960px-FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf.jpg","alt":"Dikhoroz Tepesi","caption":"Dikhoroz Tepesi","credit":"FEDLINK - United States Federal Collection (IA keepingcurrentnd109453799).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikhoroz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390477","tip":"genel"}]
 description: "Konya'da bulunan Dikhoroz Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor. Bu tepe, yaklaşık 140 hektarlık alanı kaplıyor ve 200 futbol sahası büyüklüğünde."
 keywords: ["Konya","Dikhoroz Tepesi","Doğal güzellik","Tarihi geçmişi","Turizm","Gezi","Doğa"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","kamp yapma","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BClderen%20%C5%9Eelalesi","alt":"Gülderen Şelalesi","caption":"Gülderen Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/-ayder_-turkey_-trabzon_-waterfalls_-nature_%2814251987354%29.jpg","alt":"Gülderen Şelalesi","caption":"Gülderen Şelalesi","credit":"-ayder -turkey -trabzon -waterfalls -nature (14251987354).jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BClderen%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130367210","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerini keşfedin, Gülderen Şelalesi'ni ziyaret edin."
 keywords: ["Gülderen Şelalesi","Trabzon","Karadeniz Bölgesi","doğal güzellikler","şelale","gezi","turizm","Trabzon gezilecek yerler"]

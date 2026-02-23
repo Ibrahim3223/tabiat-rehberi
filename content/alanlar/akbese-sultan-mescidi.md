@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mescidi gezmek","çevresindeki tarihi mekanları ziyaret etmek","doğayı seyretmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akbe%C5%9Fe%20Sultan%20Mescidi","alt":"Akbeşe Sultan Mescidi","caption":"Akbeşe Sultan Mescidi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Akbeşe Sultan Mescidi","caption":"Akbeşe Sultan Mescidi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akbe%C5%9Fe%20Sultan%20Mescidi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6033830","tip":"genel"}]
 description: "Antalya'nın Alanya ilçesinde yer alan tarihi Akbeşe Sultan Mescidi, ziyaretçilerini bekliyor."
 keywords: ["Alanya","Antalya","tarih","mescit","gezi","turizm","Akdeniz Bölgesi","kültür","mimari"]

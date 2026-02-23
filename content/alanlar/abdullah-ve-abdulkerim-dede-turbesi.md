@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaret","Doğa yürüyüşü","Fotograf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abdullah%20ve%20Abd%C3%BClkerim%20Dede%20T%C3%BCrbesi","alt":"Abdullah ve Abdülkerim Dede Türbesi","caption":"Abdullah ve Abdülkerim Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Abdullah ve Abdülkerim Dede Türbesi","caption":"Abdullah ve Abdülkerim Dede Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdullah%20ve%20Abd%C3%BClkerim%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582366","tip":"genel"}]
 description: "Ankara'nın Mamak ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Abdullah ve Abdülkerim Dede Türbesi","Mamak","Ankara","İç Anadolu Bölgesi","tarih","turizm","doğa"]

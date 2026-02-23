@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yap%C4%B1lcan%20Tepe","alt":"Yapılcan Tepe","caption":"Yapılcan Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Yapılcan Tepe","caption":"Yapılcan Tepe","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yap%C4%B1lcan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390400","tip":"genel"}]
 description: "Konya'da bulunan Yapılcan Tepe, tarihi ve doğal güzellikleri bir araya getiren bir destinasyon."
 keywords: ["Yapılcan Tepe","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür"]

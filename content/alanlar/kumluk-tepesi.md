@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlem","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kumluk%20Tepesi","alt":"Kumluk Tepesi","caption":"Kumluk Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Kumluk Tepesi","caption":"Kumluk Tepesi","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumluk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388263","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Kumluk Tepesi, Kars'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Kumluk Tepesi","Kars","Doğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","tarihçe","flora","fauna"]

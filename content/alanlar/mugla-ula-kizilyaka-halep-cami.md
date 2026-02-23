@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Cami içi gezisi","Cami çevresinde doğa yürüyüşü","Fotograf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Ula-Kizilyaka%20Halep%20Cami","alt":"Mugla-Ula-Kizilyaka Halep Cami","caption":"Mugla-Ula-Kizilyaka Halep Cami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chameleon_in_Turkish_forest_%281%29.jpg/960px-Chameleon_in_Turkish_forest_%281%29.jpg","alt":"Mugla-Ula-Kizilyaka Halep Cami","caption":"Mugla-Ula-Kizilyaka Halep Cami","credit":"Chameleon in Turkish forest (1).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Ula-Kizilyaka%20Halep%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228008","tip":"genel"}]
 description: "Muğla'nın Ula ilçesinde yer alan Kizilyaka Halep Cami, tarihi ve kültürel değerleriyle dikkat çekiyor."
 keywords: ["Kizilyaka Halep Cami","Muğla","Ula","tarihi cami","kültürel değer","gezi","turizm","Ege Bölgesi"]

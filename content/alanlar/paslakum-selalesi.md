@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotograf çekme","doğa izleme","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Paslakum%20%C5%9Eelalesi","alt":"Paslakum Şelalesi","caption":"Paslakum Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kursunlu_Waterfall_Nature_Park.jpg/960px-Kursunlu_Waterfall_Nature_Park.jpg","alt":"Paslakum Şelalesi","caption":"Paslakum Şelalesi","credit":"Kursunlu Waterfall Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Paslakum%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320234","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti Paslakum Şelalesi, doğa severlerin ziyaret etmesi gereken bir destinasyon."
 keywords: ["Paslakum Şelalesi","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","çevre","ekosistem","flora","fauna"]

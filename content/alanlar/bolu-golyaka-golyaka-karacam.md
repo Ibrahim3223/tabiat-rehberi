@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","çevre keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-G%C3%B6lyaka-G%C3%B6lyaka%20Kara%C3%A7am","alt":"Bolu-Gölyaka-Gölyaka Karaçam","caption":"Bolu-Gölyaka-Gölyaka Karaçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bolu_G%C3%B6lc%C3%BCk_Tabiat_02.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Tabiat_02.jpg","alt":"Bolu-Gölyaka-Gölyaka Karaçam","caption":"Bolu-Gölyaka-Gölyaka Karaçam","credit":"Bolu Gölcük Tabiat 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-G%C3%B6lyaka-G%C3%B6lyaka%20Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228435","tip":"genel"}]
 description: "Bolu'nun doğal güzellikleri arasında yer alan Gölyaka Karaçam, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğündedir."
 keywords: ["Bolu","Gölyaka","Karaçam","milli park","doğa","gezi","turizm"]

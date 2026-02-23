@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","çevreyi keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Sebinkarahisar%20Dogu%20Karadeniz%20Goknari%201","alt":"Giresun-Sebinkarahisar Dogu Karadeniz Goknari 1","caption":"Giresun-Sebinkarahisar Dogu Karadeniz Goknari 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sis_da%C4%9F%C4%B1_%287%29.jpg/960px-Sis_da%C4%9F%C4%B1_%287%29.jpg","alt":"Giresun-Sebinkarahisar Dogu Karadeniz Goknari 1","caption":"Giresun-Sebinkarahisar Dogu Karadeniz Goknari 1","credit":"Sis dağı (7).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Sebinkarahisar%20Dogu%20Karadeniz%20Goknari%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227589","tip":"genel"}]
 description: "Giresun'un doğusunda yer alan milli park, doğa severlerin görmesi gereken bir yer."
 keywords: ["Giresun","milli park","doğa","gezi","yerel","turizm","Karadeniz","Sebinkarahisar","Goknari"]

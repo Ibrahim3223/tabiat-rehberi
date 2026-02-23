@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî değerleri keşfetmek","flora ve fauna değerleri hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Demir%C5%9Feyh%20T%C3%BCrbesi","alt":"Demirşeyh Türbesi","caption":"Demirşeyh Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Animal_disease_thesaurus_%28IA_CAT80734093008%29.pdf/page1-900px-Animal_disease_thesaurus_%28IA_CAT80734093008%29.pdf.jpg","alt":"Demirşeyh Türbesi","caption":"Demirşeyh Türbesi","credit":"Animal disease thesaurus (IA CAT80734093008).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demir%C5%9Feyh%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391301","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Demirşeyh Türbesi'nin doğal güzellikleri"
 keywords: ["Demirşeyh Türbesi","Sungurlu","Çorum","Karadeniz Bölgesi","doğal güzellik","tarih","coğrafya","flora","fauna","ziyaret"]

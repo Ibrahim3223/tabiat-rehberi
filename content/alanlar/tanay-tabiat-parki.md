@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tanay%20Tabiat%20Park%C4%B1","alt":"Tanay Tabiat Parkı","caption":"Tanay Tabiat Parkı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/MOKFC10.jpg/960px-MOKFC10.jpg","alt":"Tanay Tabiat Parkı","caption":"Tanay Tabiat Parkı","credit":"MOKFC10.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tanay%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228347","tip":"genel"}]
 description: "Çeşme, İzmir'de yer alan 140 hektarlık Tabiat Parkı, zengin fauna ve flora çeşitliliğiyle dikkat çekiyor."
 keywords: ["Tanay Tabiat Parkı","Çeşme","İzmir","Tabiat Parkı","doğa","flora","fauna","çevre","gezi"]

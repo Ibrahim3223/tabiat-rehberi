@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6recek%20Adas%C4%B1","alt":"Görecek Adası","caption":"Görecek Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf/page1-960px-Victoria_Daily_Times_%281897-03-18%29_%28IA_victoriadailytimes18970318%29.pdf.jpg","alt":"Görecek Adası","caption":"Görecek Adası","credit":"Victoria Daily Times (1897-03-18) (IA victoriadailytimes18970318).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6recek%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49640080","tip":"genel"}]
 description: "Muğla'da bulunan Görecek Adası, doğa severlerin ziyaret ettiği bir ada. 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Görecek Adası","Muğla","ada","doğa","yeşil alan","gezi","turizm","Muğla adaları","deniz"]

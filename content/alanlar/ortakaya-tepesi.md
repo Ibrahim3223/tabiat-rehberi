@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ortakaya%20Tepesi","alt":"Ortakaya Tepesi","caption":"Ortakaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_land_of_the_Hittites%3B_an_account_of_recent_explorations_and_discoveries_in_Asia_Minor%2C_with_descriptions_of_the_Hittite_monuments_%28IA_cu31924028539736%29.pdf/page1-716px-The_land_of_the_Hittites%3B_an_account_of_recent_explorations_and_discoveries_in_Asia_Minor%2C_with_descriptions_of_the_Hittite_monuments_%28IA_cu31924028539736%29.pdf.jpg","alt":"Ortakaya Tepesi","caption":"Ortakaya Tepesi","credit":"The land of the Hittites; an account of recent explorations and discoveries in Asia Minor, with descriptions of the Hittite monuments (IA cu31924028539736).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ortakaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391144","tip":"genel"}]
 description: "Sivas'ın doğal güzellikleri arasında yer alan Ortakaya Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve ziyaretçilerini büyüleyici manzaralarıyla karşılar"
 keywords: ["Sivas","İç Anadolu Bölgesi","Ortakaya Tepesi","doğal güzellik","tepe","gezi"]

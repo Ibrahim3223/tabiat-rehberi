@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Kültürel keşif","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zonguldak-Devrek-Sarigol%20Dogu%20Kayini","alt":"Zonguldak-Devrek-Sarigol Dogu Kayini","caption":"Zonguldak-Devrek-Sarigol Dogu Kayini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Zonguldak-Devrek-Sarigol Dogu Kayini","caption":"Zonguldak-Devrek-Sarigol Dogu Kayini","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Devrek-Sarigol%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227739","tip":"genel"}]
 description: "Zonguldak'ta yer alan Zonguldak-Devrek-Sarigol Dogu Kayini milli parkı, 140 hektarlık alanı ile doğaseverler için önemli bir destinasyon. Karadeniz Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir yer."
 keywords: ["Zonguldak","Devrek","Sarigol Dogu Kayini","milli park","Karadeniz Bölgesi","doğa","turizm","gezi","yerel kültür"]

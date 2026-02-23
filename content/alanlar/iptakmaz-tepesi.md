@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Çevre keşfi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0ptakmaz%20Tepesi","alt":"İptakmaz Tepesi","caption":"İptakmaz Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Award_ceremony_for_the_Wiki_Loves_Earth_2024_19.12.24.pdf/page1-960px-Award_ceremony_for_the_Wiki_Loves_Earth_2024_19.12.24.pdf.jpg","alt":"İptakmaz Tepesi","caption":"İptakmaz Tepesi","credit":"Award ceremony for the Wiki Loves Earth 2024 19.12.24.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ptakmaz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390219","tip":"genel"}]
 description: "Burdur'un güzide doğal alanlarından biri olan İptakmaz Tepesi, Akdeniz Bölgesi'nin coğrafi zenginliklerini sunuyor."
 keywords: ["İptakmaz Tepesi","Burdur","Akdeniz Bölgesi","doğa","tepe","coğrafya","flora","fauna","ziyaret"]

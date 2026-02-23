@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1bey%20Da%C4%9F%C4%B1","alt":"Hacıbey Dağı","caption":"Hacıbey Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Hacıbey Dağı","caption":"Hacıbey Dağı","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1bey%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31567122","tip":"genel"}]
 description: "Sinop'un en önemli doğal güzelliklerinden biri olan Hacıbey Dağı, 1200 metre yüksekliğiyle bölgenin panoramik manzarasını sunar."
 keywords: ["Hacıbey Dağı","Sinop","Dağ","Doğa","Turizm","Gezi","Manzara","Panorama","Sinop Gezilecek Yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yusufeli%20Baraj%20G%C3%B6l%C3%BC","alt":"Yusufeli Baraj Gölü","caption":"Yusufeli Baraj Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mineral_resources_of_Georgia_and_Caucasia_-_manganese_industry_of_Georgia_%28IA_mineralresources00ghamiala%29.pdf/page1-633px-Mineral_resources_of_Georgia_and_Caucasia_-_manganese_industry_of_Georgia_%28IA_mineralresources00ghamiala%29.pdf.jpg","alt":"Yusufeli Baraj Gölü","caption":"Yusufeli Baraj Gölü","credit":"Mineral resources of Georgia and Caucasia - manganese industry of Georgia (IA mineralresources00ghamiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yusufeli%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q117716851","tip":"genel"}]
 description: "Artvin'de yer alan Yusufeli Baraj Gölü, bölgenin en önemli su kaynaklarından biri."
 keywords: ["Yusufeli Baraj Gölü","Artvin","Baraj Gölü","Doğu Karadeniz","Su Kaynakları","Turizm","Doğa","Göl","Baraj"]

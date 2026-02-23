@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa Yürüyüşü","Kuş Gözlemi","Fotoğrafçılık","Bilim Araştırmaları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nazik%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Nazik Gölü Sulak Alanı","caption":"Nazik Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Nazik Gölü Sulak Alanı","caption":"Nazik Gölü Sulak Alanı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nazik%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228880","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Nazik Gölü Sulak Alanı, 140 hektarlık bir alanı kapsar ve bölgenin önemli ekolojik değerlerinden biridir."
 keywords: ["Nazik Gölü","Sulak Alan","İç Anadolu Bölgesi","Ekolojik Değer","Doğa Koruma","Sulak Alan Ekosistemi"]

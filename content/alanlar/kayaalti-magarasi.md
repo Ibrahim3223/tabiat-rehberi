@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayaalt%C4%B1%20Ma%C4%9Faras%C4%B1","alt":"Kayaaltı Mağarası","caption":"Kayaaltı Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Boyajian_-_Armenian_legends_and_poems.djvu/page1-800px-Boyajian_-_Armenian_legends_and_poems.djvu.jpg","alt":"Kayaaltı Mağarası","caption":"Kayaaltı Mağarası","credit":"Boyajian - Armenian legends and poems.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayaalt%C4%B1%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q85964494","tip":"genel"}]
 description: "Diyarbakır Çermik'te bulunan Kayaaltı Mağarası, doğal güzelliği ile dikkat çekiyor. 1200 hektarlık yeşil alan içinde yer alan mağara, ziyaretçilerini bekliyor."
 keywords: ["Kayaaltı Mağarası","Diyarbakır","Çermik","Mağara","Doğa","Turizm","Gezi","Diyarbakır Turistik Yerler","Çermik Mağaraları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kitap koleksiyonunu gezme","etkinliklere katılma","müzenin bahçesinde dinlenme","İstanbul'un kültürel ve tarihi zenginliklerini keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0mzal%C4%B1%20ve%20Birinci%20Bask%C4%B1%20Kitaplar%20M%C3%BCzesi","alt":"İmzalı ve Birinci Baskı Kitaplar Müzesi","caption":"İmzalı ve Birinci Baskı Kitaplar Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WHERE_IS_TURKEY_HEADED%3F_GEZI_PARK%2C_TAKSIM_SQUARE%2C_AND_THE_FUTURE_OF_THE_TURKISH_MODEL_%28IA_gov.gpo.fdsys.CHRG-113shrg86350%29.pdf/page1-960px-WHERE_IS_TURKEY_HEADED%3F_GEZI_PARK%2C_TAKSIM_SQUARE%2C_AND_THE_FUTURE_OF_THE_TURKISH_MODEL_%28IA_gov.gpo.fdsys.CHRG-113shrg86350%29.pdf.jpg","alt":"İmzalı ve Birinci Baskı Kitaplar Müzesi","caption":"İmzalı ve Birinci Baskı Kitaplar Müzesi","credit":"WHERE IS TURKEY HEADED? GEZI PARK, TAKSIM SQUARE, AND THE FUTURE OF THE TURKISH MODEL (IA gov.gpo.fdsys.CHRG-113shrg86350).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mzal%C4%B1%20ve%20Birinci%20Bask%C4%B1%20Kitaplar%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949575","tip":"genel"}]
 description: "İstanbul'un kalbinde, kitap severlerin buluşma noktası"
 keywords: ["kitap","müze","İstanbul","kitap severler","imzalı kitaplar","birinci baskı kitaplar","edebiyat","sanat"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","flora ve fauna keşfi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kabasivri%20Tepe","alt":"Kabasivri Tepe","caption":"Kabasivri Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Kabasivri Tepe","caption":"Kabasivri Tepe","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabasivri%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390427","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzellikleri arasında yer alan Kabasivri Tepe, ziyaretçiler için önemli bir destinasyon"
 keywords: ["Kabasivri Tepe","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","coğrafya"]

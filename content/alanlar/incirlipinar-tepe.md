@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi yerleri gezmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0ncirlip%C4%B1nar%20Tepe","alt":"İncirlipınar Tepe","caption":"İncirlipınar Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg","alt":"İncirlipınar Tepe","caption":"İncirlipınar Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 03.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncirlip%C4%B1nar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389491","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan İncirlipınar Tepe, Akdeniz Bölgesi'nin önemli doğal alanlarından biri"
 keywords: ["İncirlipınar Tepe","Kahramanmaraş","Akdeniz Bölgesi","doğal alan","tepe","coğrafya"]

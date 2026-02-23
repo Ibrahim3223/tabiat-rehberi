@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Müze ziyaretleri","Doğa yürüyüşleri","Piknik","Eğlence etkinlikleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Demokrasi%20ve%20%C3%96zg%C3%BCrl%C3%BCkler%20Adas%C4%B1%20M%C3%BCze%20Kompleksi","alt":"Demokrasi ve Özgürlükler Adası Müze Kompleksi","caption":"Demokrasi ve Özgürlükler Adası Müze Kompleksi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Demokrasi ve Özgürlükler Adası Müze Kompleksi","caption":"Demokrasi ve Özgürlükler Adası Müze Kompleksi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demokrasi%20ve%20%C3%96zg%C3%BCrl%C3%BCkler%20Adas%C4%B1%20M%C3%BCze%20Kompleksi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949127","tip":"genel"}]
 description: "İstanbul'un kalbinde, Marmara Bölgesi'nde bulunan Demokrasi ve Özgürlükler Adası Müze Kompleksi"
 keywords: ["Demokrasi ve Özgürlükler Adası","Müze Kompleksi","İstanbul","Marmara Bölgesi","tarih","müze","doğa","gezi","eğlence"]

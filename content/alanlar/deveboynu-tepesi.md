@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotograf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Deveboynu%20Tepesi","alt":"Deveboynu Tepesi","caption":"Deveboynu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Deveboynu Tepesi","caption":"Deveboynu Tepesi","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deveboynu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388202","tip":"genel"}]
 description: "Aydın'da bulunan Deveboynu Tepesi, Ege Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Deveboynu Tepesi","Aydın","Ege Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre"]

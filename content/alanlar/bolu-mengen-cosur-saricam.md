@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","gözlem"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Mengen-Cosur%20Saricam","alt":"Bolu-Mengen-Cosur Saricam","caption":"Bolu-Mengen-Cosur Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bolu_Yedig%C3%B6ller_panoramik_B%C3%BCy%C3%BCk_G%C3%B6l_ve_Sonbahar_renklerine_b%C3%BCr%C3%BCnm%C3%BC%C5%9F_tabiat_harikas%C4%B1_orman%C4%B1.jpg/960px-Bolu_Yedig%C3%B6ller_panoramik_B%C3%BCy%C3%BCk_G%C3%B6l_ve_Sonbahar_renklerine_b%C3%BCr%C3%BCnm%C3%BC%C5%9F_tabiat_harikas%C4%B1_orman%C4%B1.jpg","alt":"Bolu-Mengen-Cosur Saricam","caption":"Bolu-Mengen-Cosur Saricam","credit":"Bolu Yedigöller panoramik Büyük Göl ve Sonbahar renklerine bürünmüş tabiat harikası ormanı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Mengen-Cosur%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227975","tip":"genel"}]
 description: "Bolu-Mengen-Cosur Saricam, Karadeniz Bölgesi'nde bulunan bir milli park"
 keywords: ["Bolu","Mengen","Cosur Saricam","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

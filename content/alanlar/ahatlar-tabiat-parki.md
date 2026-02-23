@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Flora Gözlemi","Fauna İzleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ahatlar%20Tabiat%20Park%C4%B1","alt":"Ahatlar Tabiat Parkı","caption":"Ahatlar Tabiat Parkı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Ahatlar Tabiat Parkı","caption":"Ahatlar Tabiat Parkı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahatlar%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228211","tip":"genel"}]
 description: "Amasra'da yer alan 140 hektarlık Tabiat Parkı, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Ahatlar Tabiat Parkı","Amasra","Tabiat Parkı","Doğa","Yeşil Alan","Flora","Fauna","Gezi","Turizm"]

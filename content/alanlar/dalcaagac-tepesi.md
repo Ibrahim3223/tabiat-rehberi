@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dalcaa%C4%9Fa%C3%A7%20Tepesi","alt":"Dalcaağaç Tepesi","caption":"Dalcaağaç Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Dalcaağaç Tepesi","caption":"Dalcaağaç Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dalcaa%C4%9Fa%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34867477","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin, Dalcaağaç Tepesi'ne çıkın ve büyüleyici manzaraları görün."
 keywords: ["Dalcaağaç Tepesi","Türkiye dağları","doğa turizmi","tepe","manzara","gezi","seyahat","dağcılık","turizm"]

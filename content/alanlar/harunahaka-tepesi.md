@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Harunahaka%20Tepesi","alt":"Harunahaka Tepesi","caption":"Harunahaka Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Harunahaka Tepesi","caption":"Harunahaka Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harunahaka%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539924","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde bulunan Harunahaka Tepesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Harunahaka Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarih","tepe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aboket%20Da%C4%9F%C4%B1","alt":"Aboket Dağı","caption":"Aboket Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wle-jury-report-2024-lores.pdf/page1-960px-Wle-jury-report-2024-lores.pdf.jpg","alt":"Aboket Dağı","caption":"Aboket Dağı","credit":"Wle-jury-report-2024-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aboket%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21199211","tip":"genel"}]
 description: "Artvin'de yer alan Aboket Dağı, doğa severler için önemli bir destinasyon. 1400 metre rakımlı zirvesi ile dikkat çeker."
 keywords: ["Aboket Dağı","Artvin","Dağ","Doğa","Trekking","Kamp","Turizm","Gezi","Rakım","Zirve"]

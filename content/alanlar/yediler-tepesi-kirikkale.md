@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"," Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yediler%20Tepesi%20(K%C4%B1r%C4%B1kkale)","alt":"Yediler Tepesi (Kırıkkale)","caption":"Yediler Tepesi (Kırıkkale)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Yediler Tepesi (Kırıkkale)","caption":"Yediler Tepesi (Kırıkkale)","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yediler%20Tepesi%20(K%C4%B1r%C4%B1kkale)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502854","tip":"genel"}]
 description: "Kırıkkale'nin doğa harikası Yediler Tepesi, yaklaşık 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin doğal güzelliklerini keşfetmek için ideal bir nokta."
 keywords: ["Yediler Tepesi","Kırıkkale","doğa","gezi","turizm","tepe","manzara","iç anadolu","coğrafya"]

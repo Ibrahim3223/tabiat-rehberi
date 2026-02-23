@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","coğrafi keşif","bitki ve hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=D%C3%BCbekli%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","alt":"Dübekli Tümülüsü","caption":"Dübekli Tümülüsü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Dübekli Tümülüsü","caption":"Dübekli Tümülüsü","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCbekli%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728390","tip":"genel"}]
 description: "Marmara Bölgesi'nde tarihi bir mekan olarak bilinen Düzbel Tümülüsü hakkında detaylı bilgi"
 keywords: ["Dübekli Tümülüsü","Bozüyük","Bilecik","Marmara Bölgesi","tarihi mekan","tümülüs","gezi","turizm"]

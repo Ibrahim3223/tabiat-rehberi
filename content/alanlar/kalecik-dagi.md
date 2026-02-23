@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kalecik%20Da%C4%9F%C4%B1","alt":"Kalecik Dağı","caption":"Kalecik Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Kalecik Dağı","caption":"Kalecik Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalecik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31576770","tip":"genel"}]
 description: "Şanlıurfa'da yer alan Kalecik Dağı, 1200 hektarlık yeşil cenneti ve zengin tarihi ile ziyaretçilerini bekliyor."
 keywords: ["Kalecik Dağı","Şanlıurfa","Dağ","Doğa","Tarih","Turizm","Gezi","Şanlıurfa Turistik Yerler","Kalecik Dağı Şanlıurfa"]

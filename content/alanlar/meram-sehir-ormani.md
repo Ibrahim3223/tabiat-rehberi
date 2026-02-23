@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Bisiklet sürme","Doğa gözlemi","Fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=MERAM%20%C5%9EEH%C4%B0R%20ORMANI","alt":"MERAM ŞEHİR ORMANI","caption":"MERAM ŞEHİR ORMANI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"MERAM ŞEHİR ORMANI","caption":"MERAM ŞEHİR ORMANI","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/MERAM%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228694","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşillikleri arasında yer alan MERAM ŞEHİR ORMANI, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve şehrin kalbinde huzuru bulmak için ideal bir nokta."
 keywords: ["MERAM ŞEHİR ORMANI","İç Anadolu Bölgesi","şehir ormanları","doğal alanlar","yeşillikler","huzurlu mekanlar","gezi noktaları","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1l%C4%B1n%C3%A7%20Da%C4%9F%C4%B1%20(Sivas)","alt":"Kılınç Dağı (Sivas)","caption":"Kılınç Dağı (Sivas)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf/page1-860px-Across_Asia_on_a_bicycle%3B_%28IA_acrossasiaonbicy00alle%29.pdf.jpg","alt":"Kılınç Dağı","caption":"Kılınç Dağı","credit":"Across Asia on a bicycle; (IA acrossasiaonbicy00alle).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1n%C3%A7%20Da%C4%9F%C4%B1%20(Sivas)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041560","tip":"genel"}]
 description: "Sivas'ta bulunan Kılınç Dağı, doğa severlerin ziyaret ettiği önemli bir dağdır. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Kılınç Dağı","Sivas","Dağ","Doğa","Yeşil Alan","Turizm","Sivas Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

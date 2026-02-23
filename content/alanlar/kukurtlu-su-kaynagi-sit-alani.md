@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","piknik yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCk%C3%BCrtl%C3%BC%20Su%20Kayna%C4%9F%C4%B1%20Sit%20Alan%C4%B1","alt":"Kükürtlü Su Kaynağı Sit Alanı","caption":"Kükürtlü Su Kaynağı Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Kükürtlü Su Kaynağı Sit Alanı","caption":"Kükürtlü Su Kaynağı Sit Alanı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrtl%C3%BC%20Su%20Kayna%C4%9F%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226405","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kükürtlü Su Kaynağı Sit Alanı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Kükürtlü Su Kaynağı Sit Alanı","İç Anadolu Bölgesi","doğal alan","flora","fauna","ziyaret","gezilecek yerler"]

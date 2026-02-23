@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotografçılık","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Istanbul-Demirkoy-Kadinkule%20Dogu%20Kayini","alt":"Istanbul-Demirkoy-Kadinkule Dogu Kayini","caption":"Istanbul-Demirkoy-Kadinkule Dogu Kayini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cumhuriyet_1937_mart_6.pdf/page1-960px-Cumhuriyet_1937_mart_6.pdf.jpg","alt":"Istanbul-Demirkoy-Kadinkule Dogu Kayini","caption":"Istanbul-Demirkoy-Kadinkule Dogu Kayini","credit":"Cumhuriyet 1937 mart 6.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Demirkoy-Kadinkule%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227792","tip":"genel"}]
 description: "İstanbul'un doğal güzelliklerini keşfedin. Marmara Bölgesi'nde yer alan bu milli park, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["Marmara Bölgesi","İstanbul","milli park","doğa","yeşil alan","gezi","turizm","çevre","ekosistem"]

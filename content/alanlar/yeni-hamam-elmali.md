@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denize girmek","Güneşlenmek","Doğa yürüyüşü","Yaban hayatı izlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yeni%20Hamam%2C%20Elmal%C4%B1","alt":"Yeni Hamam, Elmalı","caption":"Yeni Hamam, Elmalı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"Yeni Hamam, Elmalı","caption":"Yeni Hamam, Elmalı","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam%2C%20Elmal%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245822","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin en güzel plajlarından biri olan Yeni Hamam, Elmalı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Elmalı","Antalya","Akdeniz Bölgesi","plaj","yeşil alan","deniz","kumsal"]

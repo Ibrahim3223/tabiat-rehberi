@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Golhisar-Golova%20Karacam","alt":"Isparta-Golhisar-Golova Karacam","caption":"Isparta-Golhisar-Golova Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dipoyraz%2C_auch_Dedeg%C3%B6l_genannt%2C_2980_m.jpg/960px-Dipoyraz%2C_auch_Dedeg%C3%B6l_genannt%2C_2980_m.jpg","alt":"Isparta-Golhisar-Golova Karacam","caption":"Isparta-Golhisar-Golova Karacam","credit":"Dipoyraz, auch Dedegöl genannt, 2980 m.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Golhisar-Golova%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227943","tip":"genel"}]
 description: "Isparta ilinin Golhisar ilçesinde bulunan milli park, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Isparta","Golhisar","Golova Karacam","milli park","yeşil alan","fauna","Isparta milli parkları","Akdeniz Bölgesi","doğa","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotografçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gurbet%20Da%C4%9F%C4%B1","alt":"Gurbet Dağı","caption":"Gurbet Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Gurbet Dağı","caption":"Gurbet Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gurbet%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31521875","tip":"genel"}]
 description: "Afyonkarahisar'da yer alan Gurbet Dağı, doğa severlerin ziyaret ettiği önemli bir dağ"
 keywords: ["Gurbet Dağı","Afyonkarahisar","Dağ","Doğa","Türkiye","Gezi","Seyahat","Dağcılık","Afyonkarahisar Turizm"]

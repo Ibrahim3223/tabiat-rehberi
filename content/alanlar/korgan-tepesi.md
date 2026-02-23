@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarihçe öğrenme","Flora ve fauna keşfi","Manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Korgan%20Tepesi","alt":"Korgan Tepesi","caption":"Korgan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Korgan Tepesi","caption":"Korgan Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Korgan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388517","tip":"genel"}]
 description: "Erzurum'un doğal güzellikleri arasında yer alan Korgan Tepesi, 140 hektarlık bir alanı kapsıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Korgan Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğal güzellikler","Tepeler","Coğrafya","Tarihçe","Flora","Fauna","Ziyaret"]

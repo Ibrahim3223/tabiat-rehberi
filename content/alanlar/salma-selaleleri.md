@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","şelaleleri görmek","ormanlık alanda gezmek","bölgenin fauna ve florasını keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Salma%20%C5%9Eelaleleri","alt":"Salma Şelaleleri","caption":"Salma Şelaleleri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Travels_of_a_naturalist_in_Japan_and_Manchuria_%28IA_Travelsnaturali00Adam%29.pdf/page1-879px-Travels_of_a_naturalist_in_Japan_and_Manchuria_%28IA_Travelsnaturali00Adam%29.pdf.jpg","alt":"Salma Şelaleleri","caption":"Salma Şelaleleri","credit":"Travels of a naturalist in Japan and Manchuria (IA Travelsnaturali00Adam).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Salma%20%C5%9Eelaleleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97212552","tip":"genel"}]
 description: "Rize'nin doğal güzellikleri arasında yer alan Salma Şelaleleri, ziyaretçilerini etkileyen bir doğa harikası"
 keywords: ["Salma Şelaleleri","Rize","Karadeniz Bölgesi","doğa harikaları","turistik yerler","şelaleler","gezi noktaları","Rize'nin güzellikleri"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Termal su tedavisi","Doğa gezileri","Yürüyüş","Binicilik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6bel%20Kapl%C4%B1calar%C4%B1","alt":"Göbel Kaplıcaları","caption":"Göbel Kaplıcaları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Balikli_Kaplica_Thermal_spring_-_panoramio.jpg/960px-Balikli_Kaplica_Thermal_spring_-_panoramio.jpg","alt":"Göbel Kaplıcaları","caption":"Göbel Kaplıcaları","credit":"Balikli Kaplica Thermal spring - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6bel%20Kapl%C4%B1calar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741917","tip":"genel"}]
 description: "Kütahya'da yer alan Göbel Kaplıcaları, termal kaynak suyuyla ünlü bir destinasyon. Doğal güzellikleri ve sağlık turizmi için ideal bir yer."
 keywords: ["Kütahya","Göbel Kaplıcaları","Termal Kaynak","Sağlık Turizmi","Doğal Güzellikler","Kaplıca","Turizm","Ege Bölgesi"]

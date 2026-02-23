@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarih hakkında bilgi edinme","Anıt mezarı gezmek","Çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6k%C3%A7en%20H%C3%BCseyin%20Efe%20An%C4%B1t%20Mezar%C4%B1","alt":"Gökçen Hüseyin Efe Anıt Mezarı","caption":"Gökçen Hüseyin Efe Anıt Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/S%C3%BCzer_Sun_Dreams_Beach_24_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_24_-_panoramio.jpg","alt":"Gökçen Hüseyin Efe Anıt Mezarı","caption":"Gökçen Hüseyin Efe Anıt Mezarı","credit":"Süzer Sun Dreams Beach 24 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7en%20H%C3%BCseyin%20Efe%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728122","tip":"genel"}]
 description: "İzmir'in Ödemiş ilçesinde yer alan Gökçen Hüseyin Efe Anıt Mezarı, tarihin izlerini taşıyor. Ege Bölgesi'nin önemli tarihi noktalarından biri."
 keywords: ["Gökçen Hüseyin Efe","Ödemiş","İzmir","Ege Bölgesi","Tarih","Anıt Mezar"]

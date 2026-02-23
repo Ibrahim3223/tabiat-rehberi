@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Tarih turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Amasya-Koyulhisar-Igdirdag%20Saricam","alt":"Amasya-Koyulhisar-Igdirdag Saricam","caption":"Amasya-Koyulhisar-Igdirdag Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Amasya-Koyulhisar-Igdirdag Saricam","caption":"Amasya-Koyulhisar-Igdirdag Saricam","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Koyulhisar-Igdirdag%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227544","tip":"genel"}]
 description: "Amasya'da yer alan milli park, tarihi ve doğal güzellikleri içerir"
 keywords: ["Amasya","Koyulhisar","Igdirdag","Saricam","Milli Park","Doğa","Tarih"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Plajda dinlenmek","Tarihi kalıntıları keşfetmek","Denizde yüzmek","Doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Phaselis%20K%C3%BC%C3%A7%C3%BCk%20Hamam","alt":"Phaselis Küçük Hamam","caption":"Phaselis Küçük Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cost_benefit_analysis_for_Turkish_Navy._%28IA_costbenefitanaly00eman%29.pdf/page1-960px-Cost_benefit_analysis_for_Turkish_Navy._%28IA_costbenefitanaly00eman%29.pdf.jpg","alt":"Phaselis Küçük Hamam","caption":"Phaselis Küçük Hamam","credit":"Cost benefit analysis for Turkish Navy. (IA costbenefitanaly00eman).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Phaselis%20K%C3%BC%C3%A7%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739211","tip":"genel"}]
 description: "Antalya'nın Kemer ilçesinde bulunan Phaselis Küçük Hamam, tarihi ve doğal güzellikleri bir araya getiren bir plaj"
 keywords: ["Phaselis","Küçük Hamam","Kemer","Antalya","plaj","tarih","doğa","gezi","turizm"]

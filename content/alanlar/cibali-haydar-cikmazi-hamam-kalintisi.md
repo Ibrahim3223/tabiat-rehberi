@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihçe öğrenme","Doğa yürüyüşü","Fotografcılık","Kültürel keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cibali%20Haydar%20%C3%87%C4%B1kmaz%C4%B1%20Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1","alt":"Cibali Haydar Çıkmazı Hamam Kalıntısı","caption":"Cibali Haydar Çıkmazı Hamam Kalıntısı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Cibali Haydar Çıkmazı Hamam Kalıntısı","caption":"Cibali Haydar Çıkmazı Hamam Kalıntısı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cibali%20Haydar%20%C3%87%C4%B1kmaz%C4%B1%20Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738943","tip":"genel"}]
 description: "İstanbul'un tarihi hamam kalıntılarından biri olan Cibali Haydar Çıkmazı Hamam Kalıntısı, Marmara Bölgesi'nde bulunan Fatih ilçesinde yer alıyor."
 keywords: ["Cibali","Haydar Çıkmazı","Hamam Kalıntısı","Fatih","İstanbul","Marmara Bölgesi","Tarihi Hamam"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"," Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Sutculer-Candir%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Isparta-Sutculer-Candir Kızılçam","caption":"Isparta-Sutculer-Candir Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Isparta-Sutculer-Candir Kızılçam","caption":"Isparta-Sutculer-Candir Kızılçam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Sutculer-Candir%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227652","tip":"genel"}]
 description: "Isparta'nın doğal zenginliklerini keşfedin, Sutculer ve Candir'de kızılçamların güzelliği"
 keywords: ["Isparta","Sutculer","Candir","Kızılçam","Milli Park","Doğa","Turizm","İç Anadolu Bölgesi","Yeşil Alan"]

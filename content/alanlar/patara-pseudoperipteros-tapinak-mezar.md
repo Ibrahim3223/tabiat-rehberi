@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["Tarih keşfi","Doğa yürüyüşü","Plaj gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Patara%20Pseudoperipteros%20Tap%C4%B1nak%20Mezar","alt":"Patara Pseudoperipteros Tapınak Mezar","caption":"Patara Pseudoperipteros Tapınak Mezar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Patara Pseudoperipteros Tapınak Mezar","caption":"Patara Pseudoperipteros Tapınak Mezar","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Patara%20Pseudoperipteros%20Tap%C4%B1nak%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728266","tip":"genel"}]
 description: "Akdeniz'in gizli cevheri, Patara Pseudoperipteros Tapınak Mezar"
 keywords: ["Patara","Pseudoperipteros","Tapınak Mezar","Kaş","Antalya","Akdeniz Bölgesi","Arkeolojik Alan","Tarih","Doğa"]

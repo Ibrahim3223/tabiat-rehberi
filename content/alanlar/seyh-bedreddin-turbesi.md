@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Tarihi yapıları incelemek","Doğa yürüyüşü","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Bedreddin%20T%C3%BCrbesi","alt":"Şeyh Bedreddin Türbesi","caption":"Şeyh Bedreddin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Şeyh Bedreddin Türbesi","caption":"Şeyh Bedreddin Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Bedreddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582375","tip":"genel"}]
 description: "Ilgın, Konya'da yer alan Şeyh Bedreddin Türbesi, tarihsel ve kültürel değerleri ile dikkat çekmektedir."
 keywords: ["Şeyh Bedreddin","Türbe","Ilgın","Konya","Tarih","Kültür","Gezi","Turizm"]

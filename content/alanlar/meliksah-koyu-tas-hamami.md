@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","tarım alanı gezisi","köy turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Melik%C5%9Fah%20K%C3%B6y%C3%BC%20Ta%C5%9F%20Hamam%C4%B1","alt":"Melikşah Köyü Taş Hamamı","caption":"Melikşah Köyü Taş Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Melikşah Köyü Taş Hamamı","caption":"Melikşah Köyü Taş Hamamı","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melik%C5%9Fah%20K%C3%B6y%C3%BC%20Ta%C5%9F%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20472124","tip":"genel"}]
 description: "Ankara'nın Çubuk ilçesindeki Melikşah Köyü Taş Hamamı, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Melikşah Köyü","Taş Hamamı","Ankara","Çubuk","tarih","doğa","gezi","turizm"]

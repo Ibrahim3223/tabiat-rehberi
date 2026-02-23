@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenme","doğa yürüyüşü","fotografi","yöresel yemekler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ferruh%20%C5%9Ead%20Bey%20T%C3%BCrbesi","alt":"Ferruh Şad Bey Türbesi","caption":"Ferruh Şad Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Ferruh Şad Bey Türbesi","caption":"Ferruh Şad Bey Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ferruh%20%C5%9Ead%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390487","tip":"genel"}]
 description: "Tunceli'nin Çemişgezek ilçesinde bulunan tarihi Ferruh Şad Bey Türbesi, Doğu Anadolu Bölgesi'nin önemli kültürel miraslarından biri."
 keywords: ["Ferruh Şad Bey Türbesi","Tunceli","Çemişgezek","Doğu Anadolu Bölgesi","tarihi mekan","kültürel miras","tarihçe","coğrafya","doğa"]

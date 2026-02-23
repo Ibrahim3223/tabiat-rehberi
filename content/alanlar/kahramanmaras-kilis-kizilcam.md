@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahramanmaras-Kilis%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Kahramanmaras-Kilis Kızılçam","caption":"Kahramanmaras-Kilis Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Kahramanmaras-Kilis Kızılçam","caption":"Kahramanmaras-Kilis Kızılçam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Kilis%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227907","tip":"genel"}]
 description: "Kahramanmaras-Kilis Kızılçam milli parkı, İç Anadolu Bölgesi'nin güzide doğal alanlarından biridir."
 keywords: ["Kahramanmaras-Kilis Kızılçam","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","çevre","ekosistem"]

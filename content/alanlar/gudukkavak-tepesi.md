@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara izleme","yerel lezzetler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCd%C3%BCkkavak%20Tepesi","alt":"Güdükkavak Tepesi","caption":"Güdükkavak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Güdükkavak Tepesi","caption":"Güdükkavak Tepesi","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCkkavak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138995","tip":"genel"}]
 description: "Mersin'in Akdeniz Bölgesi'nde yer alan Güdükkavak Tepesi, 140 hektarlık geniş bir alanı kapsar. Doğal güzellikleri ve tarihi zenginlikleriyle dikkat çeker."
 keywords: ["Güdükkavak Tepesi","Mersin","Akdeniz Bölgesi","doğa","tarih","gezi","tepe","manzara"]

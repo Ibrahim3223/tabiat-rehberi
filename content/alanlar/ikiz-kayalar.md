@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ik%C4%B1z%20Kayalar","alt":"Ikız Kayalar","caption":"Ikız Kayalar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg/960px-Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg","alt":"Ikız Kayalar","caption":"Ikız Kayalar","credit":"Water surface of Mediterrenean sea near Kameriye island, Marmaris, Turkey.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ik%C4%B1z%20Kayalar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35708121","tip":"genel"}]
 description: "Balıkesir'de bulunan Ikız Kayalar, doğal güzelliği ile dikkat çeken bir ada. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Ikız Kayalar","Balıkesir","ada","doğal güzellik","yeşil cennet","gezi","seyahat","turizm","deniz"]

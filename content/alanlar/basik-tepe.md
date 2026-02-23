@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panorama izleme","flora ve fauna gözlemleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bas%C4%B1k%20Tepe","alt":"Basık Tepe","caption":"Basık Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Basık Tepe","caption":"Basık Tepe","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bas%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386253","tip":"genel"}]
 description: "Hatay'da yer alan Basık Tepe, Akdeniz Bölgesi'nin önemli coğrafi oluşumlarından biri"
 keywords: ["Basık Tepe","Hatay","Akdeniz Bölgesi","coğrafi oluşumlar","doğa","gezi","turizm","tepe","dağ"]

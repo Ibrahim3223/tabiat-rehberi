@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçi olmak","Doğa yürüyüşü","Fotoğraf çekmek","Şehri keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyhbekir%20Tepesi","alt":"Şeyhbekir Tepesi","caption":"Şeyhbekir Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Şeyhbekir Tepesi","caption":"Şeyhbekir Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhbekir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385465","tip":"genel"}]
 description: "Şanlıurfa'nın tarihi ve doğal güzelliklerini bir arada sunan Şeyhbekir Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Şeyhbekir Tepesi","Şanlıurfa","Güneydoğu Anadolu Bölgesi","tarihi mekanlar","doğa güzellikleri","tepe","gezi"]

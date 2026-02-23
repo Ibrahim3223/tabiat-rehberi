@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["hamamın tarihi ve kültürel değerlerini öğrenmek","hamamın bulunduğu alanı keşfetmek","doğal güzellikleri keşfetmek","tarihi yapıları ziyaret etmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dil%C5%9Fikar%20Hatun%20Hamam%C4%B1","alt":"Dilşikar Hatun Hamamı","caption":"Dilşikar Hatun Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf/page1-835px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf.jpg","alt":"Dilşikar Hatun Hamamı","caption":"Dilşikar Hatun Hamamı","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla02burt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dil%C5%9Fikar%20Hatun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738740","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan Dilşikar Hatun Hamamı, tarihi geçmişi ve doğası ile dikkat çekiyor."
 keywords: ["Manisa","Şehzadeler","Dilşikar Hatun Hamamı","tarihi hamam","doğa","gezi","turizm"]

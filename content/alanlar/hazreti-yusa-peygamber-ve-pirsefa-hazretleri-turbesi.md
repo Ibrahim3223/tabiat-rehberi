@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","din ve kültür gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hazreti%20Yu%C5%9Fa%20Peygamber%20ve%20Pirsefa%20Hazretleri%20T%C3%BCrbesi","alt":"Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi","caption":"Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi","caption":"Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hazreti%20Yu%C5%9Fa%20Peygamber%20ve%20Pirsefa%20Hazretleri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390527","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan tarihi bir mekan. Ziyaretçilerini bekliyor."
 keywords: ["Hazreti Yuşa Peygamber","Pirsefa Hazretleri","Türbe","Gaziantep","Güneydoğu Anadolu Bölgesi","tarih","din","kültür","gezi","ziyaret"]

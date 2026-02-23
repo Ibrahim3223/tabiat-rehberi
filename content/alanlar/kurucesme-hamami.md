@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["denize girme","hamam ziyaret","yeşil alanda dinlenmek","çevredeki restoranlarda yemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuru%C3%A7e%C5%9Fme%20Hamam%C4%B1","alt":"Kuruçeşme Hamamı","caption":"Kuruçeşme Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Kuruçeşme Hamamı","caption":"Kuruçeşme Hamamı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuru%C3%A7e%C5%9Fme%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739111","tip":"genel"}]
 description: "Beşiktaş'ın kalbinde yer alan Kuruçeşme Hamamı, Marmara Bölgesi'nin gözde mekanlarından biri."
 keywords: ["Kuruçeşme Hamamı","Beşiktaş","Marmara Bölgesi","İstanbul","plaj","doğa","gezi","tatil"]

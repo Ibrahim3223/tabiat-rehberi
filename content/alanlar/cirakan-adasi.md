@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C4%B1rakan%20Adas%C4%B1","alt":"Çırakan Adası","caption":"Çırakan Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/The_Greek-Turkish_dispute_in_the_Aegean_Sea-_its_ramifications_for_NATO_and_the_prospects_for_resolution_%28IA_thegreekturkishd109459725%29.pdf/page1-960px-The_Greek-Turkish_dispute_in_the_Aegean_Sea-_its_ramifications_for_NATO_and_the_prospects_for_resolution_%28IA_thegreekturkishd109459725%29.pdf.jpg","alt":"Çırakan Adası","caption":"Çırakan Adası","credit":"The Greek-Turkish dispute in the Aegean Sea- its ramifications for NATO and the prospects for resolution (IA thegreekturkishd109459725).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1rakan%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34789941","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Çırakan Adası, doğa severlerin ziyaret ettiği bir yer."
 keywords: ["Çırakan Adası","İzmir Adaları","İzmir Turizm","Ada Gezileri","Doğa Turizmi","İzmir Doğal Alanlar","Ege Adaları","Türkiye Adaları","İzmir Gezi Rehberi"]

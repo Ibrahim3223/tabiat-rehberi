@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gremea%20Burnu","alt":"Gremea Burnu","caption":"Gremea Burnu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/U.S._Army_Corps_of_Engineers_%28Corps%29_Regulatory_Program_reissuance_and_issuance_of_nationwide_permits_with_Ohio_EPA_401_water_quality_certification_and_Ohio_Department_of_Natural_Resources_consis_..._-_USACE-p16021coll15-4567.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Gremea Burnu","caption":"Gremea Burnu","credit":"U.S. Army Corps of Engineers (Corps) Regulatory Program reissuance and issuance of nationwide permits with Ohio EPA 401 water quality certification and Ohio Department of Natural Resources consis ... - USACE-p16021coll15-4567.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gremea%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34830646","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Gremea Burnu, çeşitli kuş türlerini barındırır ve doğal güzelliği ile dikkat çeker."
 keywords: ["Gremea Burnu","kuş cenneti","Türkiye","doğa","kuş türleri","turizm","gezi","yaban hayatı","korunan alanlar"]

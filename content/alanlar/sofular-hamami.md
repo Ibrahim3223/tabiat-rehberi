@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","picnic","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sofular%20Hamam%C4%B1","alt":"Sofular Hamamı","caption":"Sofular Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Sofular Hamamı","caption":"Sofular Hamamı","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sofular%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738554","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel zenginliklerini keşfedin. Sofular Hamamı, Marmara Bölgesi'nde yer alan özel bir mekan."
 keywords: ["Sofular Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarihi mekan","kültürel zenginlik","gezi","turizm","doğa"]

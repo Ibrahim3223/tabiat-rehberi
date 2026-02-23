@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî kalıntıları gezmek","Doğa yürüyüşü yapmak","Manzara noktalarından fotoğraf çekmek","Yerel yemekleri tatmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ay%C4%B1mek%C3%A2n%C4%B1%20Tepesi","alt":"Ayımekânı Tepesi","caption":"Ayımekânı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg","alt":"Ayımekânı Tepesi","caption":"Ayımekânı Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 07.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ay%C4%B1mek%C3%A2n%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32131395","tip":"genel"}]
 description: "Kahramanmaraş'ın tarihi ve doğal güzelliklerini bir araya getiren Ayımekânı Tepesi, yaklaşık 140 hektarlık alanıyla ziyaretçilerini bekliyor."
 keywords: ["Ayımekânı Tepesi","Kahramanmaraş","Akdeniz Bölgesi","Tarih","Doğa","Turizm","Gezi","Kahramanmaraş'ta gezilecek yerler","Ayımekânı Tepesi hakkında"]

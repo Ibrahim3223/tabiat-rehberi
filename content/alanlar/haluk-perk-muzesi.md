@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["sergi gezisi","doğa yürüyüşü","rehberli turlar","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Haluk%20Perk%20M%C3%BCzesi","alt":"Haluk Perk Müzesi","caption":"Haluk Perk Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Research_natural_areas_in_New_Mexico_%28IA_CAT87881126%29.pdf/page1-960px-Research_natural_areas_in_New_Mexico_%28IA_CAT87881126%29.pdf.jpg","alt":"Haluk Perk Müzesi","caption":"Haluk Perk Müzesi","credit":"Research natural areas in New Mexico (IA CAT87881126).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haluk%20Perk%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949083","tip":"genel"}]
 description: "Gümüşpala/Avcılar'da yer alan müze, İç Anadolu Bölgesi'nin zengin tarihini ve kültürünü sergiliyor."
 keywords: ["müze","Gümüşpala","Avcılar","İç Anadolu Bölgesi","tarih","kültür","yayla","doğa"]

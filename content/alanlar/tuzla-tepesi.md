@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tuzla%20Tepesi","alt":"Tuzla Tepesi","caption":"Tuzla Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Tuzla Tepesi","caption":"Tuzla Tepesi","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tuzla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388297","tip":"genel"}]
 description: "Kars'ın doğal güzellikleri arasında yer alan Tuzla Tepesi, ziyaretçilerini büyüleyen bir doğa harikasıdır."
 keywords: ["Tuzla Tepesi","Kars","Doğu Anadolu Bölgesi","doğa","gezi","tepe"]

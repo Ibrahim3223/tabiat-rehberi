@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarihi yapıları gezme","bitki türlerini inceleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karakam%C4%B1%C5%9F%20T%C3%BCrbesi","alt":"Karakamış Türbesi","caption":"Karakamış Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Karakamış Türbesi","caption":"Karakamış Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakam%C4%B1%C5%9F%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391605","tip":"genel"}]
 description: "Marmara Bölgesi'nin Sakarya iline bağlı Adapazarı'nda bulunan Karakamış Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Karakamış Türbesi","Adapazarı","Sakarya","Marmara Bölgesi","tarihi mekanlar","doğal güzellikler","gezi noktaları","Sakarya gezisi","Adapazarı turu","Marmara Bölgesi turizmi"]

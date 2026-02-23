@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Polot%20Tepesi","alt":"Polot Tepesi","caption":"Polot Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TRABZON-UZUNGOL.jpg/960px-TRABZON-UZUNGOL.jpg","alt":"Polot Tepesi","caption":"Polot Tepesi","credit":"TRABZON-UZUNGOL.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Polot%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386981","tip":"genel"}]
 description: "Trabzon'un doğa harikası Polot Tepesi, yeşilin her tonunu sunuyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Polot Tepesi","Trabzon","Karadeniz Bölgesi","doğa harikası","yeşil alan","fiziksel veriler"]

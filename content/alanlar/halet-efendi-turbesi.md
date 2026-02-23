@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Mimari yapı incelemesi","Tarihi önemini öğrenme","Kültürel faaliyetler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Halet%20Efendi%20T%C3%BCrbesi","alt":"Halet Efendi Türbesi","caption":"Halet Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Halet Efendi Türbesi","caption":"Halet Efendi Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halet%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135430368","tip":"genel"}]
 description: "İstanbul'unhistorik semtlerinden Beyoğlu'nda bulunan Halet Efendi Türbesi, tarihi ve kültürel önemi ile dikkat çekiyor."
 keywords: ["Halet Efendi Türbesi","Beyoğlu","İstanbul","tarih","kültür","gezi","türbe","mimari","Marmara Bölgesi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6ro%C4%9Flu%20Da%C4%9F%C4%B1%20(Sivas)","alt":"Köroğlu Dağı (Sivas)","caption":"Köroğlu Dağı (Sivas)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/India%2C_pictorial_and_descriptive_%28IA_indiapictorialde00adamrich%29.pdf/page1-960px-India%2C_pictorial_and_descriptive_%28IA_indiapictorialde00adamrich%29.pdf.jpg","alt":"Köroğlu Dağı","caption":"Köroğlu Dağı","credit":"India, pictorial and descriptive (IA indiapictorialde00adamrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6ro%C4%9Flu%20Da%C4%9F%C4%B1%20(Sivas)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042770","tip":"genel"}]
 description: "Sivas'ta bulunan Köroğlu Dağı, 2400 metre yüksekliğiyle dikkat çekiyor. Doğal güzellikleri ve yürüyüş rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Köroğlu Dağı","Sivas","Dağ","Doğa","Yürüyüş Rotaları","Turizm","Sivas Turistik Yerler","Köroğlu Dağı Zirvesi","Doğal Güzellikler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arkut%20Da%C4%9F%C4%B1","alt":"Arkut Dağı","caption":"Arkut Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Arkut Dağı","caption":"Arkut Dağı","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arkut%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571481","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, 1200 hektarlık yeşil alanıyla Arkut Dağı'nı ziyaret edin."
 keywords: ["Arkut Dağı","Ankara","Dağ","Doğa","Yeşil Alan","Gezi","Türkiye","Seyahat","Ankara Turizmi"]

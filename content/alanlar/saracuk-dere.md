@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Saracuk%20Dere","alt":"Saracuk Dere","caption":"Saracuk Dere"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Saracuk Dere","caption":"Saracuk Dere","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saracuk%20Dere","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227799","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Saracuk Dere, 140 hektarlık yeşil alanı ve zengin fauna ile dikkat çekiyor."
 keywords: ["Saracuk Dere","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","turizm","gezi","yaban hayatı"]

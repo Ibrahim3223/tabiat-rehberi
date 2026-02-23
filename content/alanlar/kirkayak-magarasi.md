@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rkayak%20Ma%C4%9Faras%C4%B1","alt":"Kırkayak Mağarası","caption":"Kırkayak Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Kırkayak Mağarası","caption":"Kırkayak Mağarası","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rkayak%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319363","tip":"genel"}]
 description: "Konya'da yer alan jeopark, 1200 hektarlık yeşil cennet ve doğal güzellikler sunuyor."
 keywords: ["Kırkayak Mağarası","Konya","Jeopark","Doğal Alan","Turizm","Konya Turistik Yerler","Mağara","Gezi","Konya Gezilecek Yerler"]

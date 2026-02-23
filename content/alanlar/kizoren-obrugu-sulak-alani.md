@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotoğraf çekimi","Çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C3%B6ren%20Obru%C4%9Fu%20Sulak%20Alan%C4%B1","alt":"Kızören Obruğu Sulak Alanı","caption":"Kızören Obruğu Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Kızören Obruğu Sulak Alanı","caption":"Kızören Obruğu Sulak Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C3%B6ren%20Obru%C4%9Fu%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228827","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
 keywords: ["Kızören Obruğu","Sulak Alan","İç Anadolu Bölgesi","Doğal Alan","Çevre","Ekosistem","Turizm","Gezi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Piknik","Kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Balikesir-Edremit%20Fistikcami","alt":"Balikesir-Edremit Fistikcami","caption":"Balikesir-Edremit Fistikcami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Balikesir-Edremit Fistikcami","caption":"Balikesir-Edremit Fistikcami","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Edremit%20Fistikcami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227617","tip":"genel"}]
 description: "Balikesir-Edremit Fistikcami milli parkı, İç Anadolu Bölgesi'nde yer alan doğal bir cennet. 1400'lerde kurulan bu bölge, zengin tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Balikesir-Edremit Fistikcami","milli park","İç Anadolu Bölgesi","doğal cennet","zengin tarih","orman ekosistemi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","trekking","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tatilya","alt":"Tatilya","caption":"Tatilya"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Tatilya","caption":"Tatilya","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tatilya","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6037020","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti Tatilya, 140 hektarlık yeşil alanıyla doğaseverleri bekliyor."
 keywords: ["Tatilya","İç Anadolu Bölgesi","doğa","yeşil alan","plaj","gezi","turizm","tatil"]

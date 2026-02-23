@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9C%C3%A7%C3%B6z%20Tepesi","alt":"Üçöz Tepesi","caption":"Üçöz Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Üçöz Tepesi","caption":"Üçöz Tepesi","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7%C3%B6z%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810178","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerinden biri olan Üçöz Tepesi, İç Anadolu Bölgesi'nin en yüksek noktalarından biridir."
 keywords: ["Üçöz Tepesi","Kayseri","İç Anadolu Bölgesi","doğa","tepe","gezi"]

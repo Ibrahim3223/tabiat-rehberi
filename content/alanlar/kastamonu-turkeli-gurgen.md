@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","yaban hayatı gözlemleme","çevre gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Turkeli-Gurgen","alt":"Kastamonu-Turkeli-Gurgen","caption":"Kastamonu-Turkeli-Gurgen"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kastamonu-Turkeli-Gurgen","caption":"Kastamonu-Turkeli-Gurgen","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Turkeli-Gurgen","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228542","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin. Turkeli, Gurgen milli parkı"
 keywords: ["Kastamonu","Turkeli","Gurgen","milli park","doğa","turizm","gezi","karadeniz"]

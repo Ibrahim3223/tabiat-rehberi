@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Me%C5%9Fe%20Da%C4%9F%C4%B1%20(%C3%87orum)","alt":"Meşe Dağı (Çorum)","caption":"Meşe Dağı (Çorum)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Examiner_1846-08-29-_Iss_2013_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-29_2013%29.pdf/page1-960px-The_Examiner_1846-08-29-_Iss_2013_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-29_2013%29.pdf.jpg","alt":"Meşe Dağı (Çorum)","caption":"Meşe Dağı (Çorum)","credit":"The Examiner 1846-08-29- Iss 2013 (IA sim examiner-a-weekly-paper-on-politics-literature-music 1846-08-29 2013).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Me%C5%9Fe%20Da%C4%9F%C4%B1%20(%C3%87orum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49049720","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin. Meşe Dağı, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Meşe Dağı","Çorum","Doğa","Turizm","Dağ","Yeşil Alan","Çorum Turistik Yerler","Meşe Dağı Çorum","Çorum Gezi Rehberi"]

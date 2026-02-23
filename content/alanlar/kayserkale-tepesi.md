@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayserkale%20Tepesi","alt":"Kayserkale Tepesi","caption":"Kayserkale Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Kayserkale Tepesi","caption":"Kayserkale Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayserkale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388017","tip":"genel"}]
 description: "Kütahya'nın tarihi ve doğal güzelliklerinin birleştiği kayalık tepe"
 keywords: ["Kayserkale Tepesi","Kütahya","Ege Bölgesi","doğa","tarih","gezi","turizm","tepe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gevare%C5%9Fki%20Tepe","alt":"Gevareşki Tepe","caption":"Gevareşki Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Gevareşki Tepe","caption":"Gevareşki Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gevare%C5%9Fki%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556127","tip":"genel"}]
 description: "Şırnak'ta bulunan Gevareşki Tepe, doğa severlerin keşfetmek için bekleyen bir dağ"
 keywords: ["Gevareşki Tepe","Şırnak","Dağ","Doğa","Keşif","Türkiye","Coğrafya","Seyahat","Gezi"]

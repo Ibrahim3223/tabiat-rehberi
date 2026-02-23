@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kabak%20Tepeler","alt":"Kabak Tepeler","caption":"Kabak Tepeler"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf/page1-960px-A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf.jpg","alt":"Kabak Tepeler","caption":"Kabak Tepeler","credit":"A novel environmental restoration method for an abandoned limestone quarry with a deep open pit and steep palisades - a case study.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabak%20Tepeler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386243","tip":"genel"}]
 description: "Hatay ilinin doğal güzelliklerini keşfedin. Kabak Tepeler, 140 hektarlık geniş alanı ve zengin fauna ile dikkat çekiyor."
 keywords: ["Kabak Tepeler","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]

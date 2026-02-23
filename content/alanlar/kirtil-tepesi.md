@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Yürüyüş","Manzara izleme","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kirtil%20Tepesi","alt":"Kirtil Tepesi","caption":"Kirtil Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Glendale_Evening_News_1922-10-12_%28IA_cgl_004813%29.pdf/page1-960px-The_Glendale_Evening_News_1922-10-12_%28IA_cgl_004813%29.pdf.jpg","alt":"Kirtil Tepesi","caption":"Kirtil Tepesi","credit":"The Glendale Evening News 1922-10-12 (IA cgl 004813).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirtil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388473","tip":"genel"}]
 description: "Rize'nin yüksek dağlık bölgesinde yer alan Kirtil Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Rize","Karadeniz Bölgesi","Dağcılık","Doğa","Trekking","Yürüyüş","Manzara","Yeşil Alan"]

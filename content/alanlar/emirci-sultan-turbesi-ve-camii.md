@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve camii ziyaretleri","Doğa yürüyüşleri","Fotograf çekimi","Kültürel etkinliklere katılım"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Emirci%20Sultan%20T%C3%BCrbesi%20Ve%20Camii","alt":"Emirci Sultan Türbesi Ve Camii","caption":"Emirci Sultan Türbesi Ve Camii"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Emirci Sultan Türbesi Ve Camii","caption":"Emirci Sultan Türbesi Ve Camii","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emirci%20Sultan%20T%C3%BCrbesi%20Ve%20Camii","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391396","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin tarihi ve kültürel değerlerini keşfedin. Emirci Sultan Türbesi Ve Camii, Yozgat'ın önemli dini ve turistik mekanlarından biri."
 keywords: ["Emirci Sultan","Türbe","Camii","Yozgat","İç Anadolu Bölgesi","Tarih","Kültür","Dini mekanlar","Turizm"]

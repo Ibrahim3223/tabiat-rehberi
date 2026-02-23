@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","flora ve fauna gözlemi","coğrafi keşif","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ember%20Tepe","alt":"Çember Tepe","caption":"Çember Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Çember Tepe","caption":"Çember Tepe","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ember%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828918","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin görkemli tepe oluşumlarından biri olan Çember Tepe, Bitlis'in doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon."
 keywords: ["Doğu Anadolu Bölgesi","Bitlis","Çember Tepe","doğal güzellikler","tepe oluşumları","gezi noktaları","coğrafi özellikler","flora","fauna"]

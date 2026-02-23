@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Yeşil alan yürüyüşü","Piknik","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1%20Rahmi%20Sultan%20T%C3%BCrbesi","alt":"Hacı Rahmi Sultan Türbesi","caption":"Hacı Rahmi Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf/page1-614px-Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf.jpg","alt":"Hacı Rahmi Sultan Türbesi","caption":"Hacı Rahmi Sultan Türbesi","credit":"Journal of a tour in Asia Minor - with comparative remarks on the ancient and modern geography of that country (IA gri 000033125011216732).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Rahmi%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390721","tip":"genel"}]
 description: "Burdur'un tarihi ve doğal güzellikleri arasında yer alan Hacı Rahmi Sultan Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Hacı Rahmi Sultan Türbesi","Burdur","tarih","doğa","türbe","gezi","turizm","kültür","miras"]

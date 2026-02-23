@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayabo%C4%9Faz%C4%B1%20Baraj%20G%C3%B6l%C3%BC","alt":"Kayaboğazı Baraj Gölü","caption":"Kayaboğazı Baraj Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lake_Limni_Nature_Park_09.jpg/960px-Lake_Limni_Nature_Park_09.jpg","alt":"Kayaboğazı Baraj Gölü","caption":"Kayaboğazı Baraj Gölü","credit":"Lake Limni Nature Park 09.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayabo%C4%9Faz%C4%B1%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34894273","tip":"genel"}]
 description: "Türkiye'nin önemli su kaynaklarından biri olan Kayaboğazı Baraj Gölü, 1200 hektarlık yeşil cenneti ile dikkat çekiyor."
 keywords: ["Kayaboğazı Baraj Gölü","Türkiye gölleri","baraj gölleri","su kaynakları","doğa alanları","turistik yerler","gezi noktaları","su sporları","ekosistem"]

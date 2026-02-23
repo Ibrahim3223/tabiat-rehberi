@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tahtal%C4%B1%20G%C3%B6leti","alt":"Tahtalı Göleti","caption":"Tahtalı Göleti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Yuvac%C4%B1k_G%C3%B6l%C3%BC_Kocaeli_T%C3%BCrkiye_2.jpg","alt":"Tahtalı Göleti","caption":"Tahtalı Göleti","credit":"Yuvacık Gölü Kocaeli Türkiye 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahtal%C4%B1%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34929634","tip":"genel"}]
 description: "Kocaeli'nin doğal güzelliklerinden biri olan Tahtalı Göleti, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Tahtalı Göleti","Kocaeli","gölet","doğa","yeşil alan","turizm","gezi","Kocaeli gezilecek yerler","göletler"]

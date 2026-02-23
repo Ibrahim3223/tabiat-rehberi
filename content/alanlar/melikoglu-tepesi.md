@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Kuş gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Meliko%C4%9Flu%20Tepesi","alt":"Melikoğlu Tepesi","caption":"Melikoğlu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Melikoğlu Tepesi","caption":"Melikoğlu Tepesi","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Meliko%C4%9Flu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388992","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde, Bingöl'de yer alan Melikoğlu Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Melikoğlu Tepesi","Bingöl","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

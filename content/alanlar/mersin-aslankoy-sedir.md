@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-3 gün"
 aktiviteler: ["Doga yürüyüşü","Bisiklet sürüşü","Fotoğrafçılık","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Aslankoy%20Sedir","alt":"Mersin-Aslankoy Sedir","caption":"Mersin-Aslankoy Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Mersin-Aslankoy Sedir","caption":"Mersin-Aslankoy Sedir","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Aslankoy%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227615","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, Aslankoy Sedir milli parkı,\n      140 hektarlık geniş alanı ve zengin florası ile ziyaretçilerini bekliyor"
 keywords: ["Mersin","Aslankoy Sedir","milli park","doğal güzellik","flora","fauna","ekoloji","turizm","gezi","doğa"]

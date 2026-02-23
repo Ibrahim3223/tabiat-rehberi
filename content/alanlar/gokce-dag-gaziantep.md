@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6k%C3%A7e%20Da%C4%9F%20(Gaziantep)","alt":"Gökçe Dağ (Gaziantep)","caption":"Gökçe Dağ (Gaziantep)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Gökçe Dağ","caption":"Gökçe Dağ","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7e%20Da%C4%9F%20(Gaziantep)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872207","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin. Gökçe Dağ, şehrin merkezine 30 km uzaklıkta, 1200 hektarlık yeşil alanıyla doğa severlerin gözdesi."
 keywords: ["Gökçe Dağ","Gaziantep","doğa","gezi","turizm","dağ","yeşil alan","gaziantep gezilecek yerler","gökçe dağ gaziantep"]

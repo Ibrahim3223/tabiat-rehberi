@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kitap koleksiyonlarını keşfetmek","sanat eserlerini incelemek","müze rehberli turlara katılmak","kitap ve sanatla ilgili etkinliklere katılmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ekslibris%20M%C3%BCzesi","alt":"Ekslibris Müzesi","caption":"Ekslibris Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/View_of_Istanbul_Scape_from_the_ship.jpg/960px-View_of_Istanbul_Scape_from_the_ship.jpg","alt":"Ekslibris Müzesi","caption":"Ekslibris Müzesi","credit":"View of Istanbul Scape from the ship.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ekslibris%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949509","tip":"genel"}]
 description: "İstanbul'un merkezinde, kitap ve sanat severlerin buluşma noktası"
 keywords: ["Ekslibris Müzesi","İstanbul","Marmara Bölgesi","kitap","sanat","müze","kültür","tarih"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa gezisi","fotografcılık","tarihi araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Be%C5%9Fikta%C5%9F%20Tepe","alt":"Beşiktaş Tepe","caption":"Beşiktaş Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Beşiktaş Tepe","caption":"Beşiktaş Tepe","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fikta%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387283","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli güzelliği, Ardahan'da bulunan Beşiktaş Tepe hakkında bilgi"
 keywords: ["Beşiktaş Tepe","Ardahan","Doğu Anadolu Bölgesi","tepe","coğrafya","tarihçe","flora","fauna","ziyaret"]

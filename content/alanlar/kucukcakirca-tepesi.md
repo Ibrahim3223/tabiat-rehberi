@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tepeye çıkmak","manzara izlemek","çevreyi gezmek","tarihi önemi hakkında bilgi almak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCk%C3%A7ak%C4%B1rca%20Tepesi","alt":"Küçükçakırca Tepesi","caption":"Küçükçakırca Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Küçükçakırca Tepesi","caption":"Küçükçakırca Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%C3%A7ak%C4%B1rca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211087","tip":"genel"}]
 description: "Eskişehir'in İç Anadolu Bölgesi'nde yer alan Küçükçakırca Tepesi, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Doğal güzellikleri ve tarihi önemi ile dikkat çeker."
 keywords: ["Eskişehir","İç Anadolu Bölgesi","Küçükçakırca Tepesi","doğa","tarih","gezi","turizm"]

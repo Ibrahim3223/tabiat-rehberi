@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotograf çekme","piknik yapma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Asarl%C4%B1k%20Tepesi","alt":"Asarlık Tepesi","caption":"Asarlık Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_wilds_of_Patagonia%3B_a_narrative_of_the_Swedish_expedition_to_Patagonia%2C_Tierra_del_Fuego_and_the_Falkland_Islands_in_1907-1909_%28IA_wildsofpatagonia00skotrich%29.pdf/page1-720px-thumbnail.pdf.jpg","alt":"Asarlık Tepesi","caption":"Asarlık Tepesi","credit":"The wilds of Patagonia; a narrative of the Swedish expedition to Patagonia, Tierra del Fuego and the Falkland Islands in 1907-1909 (IA wildsofpatagonia00skotrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asarl%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389792","tip":"genel"}]
 description: "Bolu'nun gizli cenneti, Karadeniz Bölgesi'nin yeşilliği"
 keywords: ["Asarlık Tepesi","Bolu","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","yeşil","orman"]

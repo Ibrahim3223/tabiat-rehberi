@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Samsam%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Samsam Gölü Sulak Alanı","caption":"Samsam Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Samsam Gölü Sulak Alanı","caption":"Samsam Gölü Sulak Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samsam%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228871","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık sulak alan, çeşitli bitki ve hayvan türleriyle dikkat çekiyor."
 keywords: ["Samsam Gölü","Sulak Alan","İç Anadolu Bölgesi","doğal güzellik","bitki türleri","hayvan türleri","ekosistem","korunan alan"]

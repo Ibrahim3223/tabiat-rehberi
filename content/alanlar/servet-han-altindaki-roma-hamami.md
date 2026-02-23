@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi araştırma","Kültürel gezi","Fotoğraf çekimi","Rehberli tur"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Servet%20Han%20Alt%C4%B1ndaki%20Roma%20Hamam%C4%B1","alt":"Servet Han Altındaki Roma Hamamı","caption":"Servet Han Altındaki Roma Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Servet Han Altındaki Roma Hamamı","caption":"Servet Han Altındaki Roma Hamamı","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Servet%20Han%20Alt%C4%B1ndaki%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739094","tip":"genel"}]
 description: "Fatih/İstanbul'da bulunan tarihi Roma Hamamı, Marmara Bölgesi'nin önemli turistik noktalarından biri."
 keywords: ["Roma Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarih","turizm","gezi","kültür"]

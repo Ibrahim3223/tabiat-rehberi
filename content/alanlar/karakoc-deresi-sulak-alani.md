@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotografcılık","Bilimsel araştırma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karako%C3%A7%20Deresi%20Sulak%20Alan%C4%B1","alt":"Karakoç Deresi Sulak Alanı","caption":"Karakoç Deresi Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Karakoç Deresi Sulak Alanı","caption":"Karakoç Deresi Sulak Alanı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karako%C3%A7%20Deresi%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228873","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
 keywords: ["Karakoç Deresi","Sulak Alan","İç Anadolu Bölgesi","Doğa","Çevre","Flora","Fauna"]

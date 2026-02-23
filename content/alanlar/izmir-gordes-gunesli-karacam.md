@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Gordes-Gunesli%20Karacam","alt":"Izmir-Gordes-Gunesli Karacam","caption":"Izmir-Gordes-Gunesli Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MOKFC08.jpg/960px-MOKFC08.jpg","alt":"Izmir-Gordes-Gunesli Karacam","caption":"Izmir-Gordes-Gunesli Karacam","credit":"MOKFC08.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Gordes-Gunesli%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227515","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Gordes-Gunesli Karacam milli parkı"
 keywords: ["İzmir","Gordes","Gunesli Karacam","milli park","doğa","gezi","turizm"]

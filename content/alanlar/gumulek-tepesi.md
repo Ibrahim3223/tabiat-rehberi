@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCm%C3%BClek%20Tepesi","alt":"Gümülek Tepesi","caption":"Gümülek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaidrich%29.pdf/page1-720px-Illustrated_Armenia_and_the_Armenians_%28IA_illustratedarmen00gaidrich%29.pdf.jpg","alt":"Gümülek Tepesi","caption":"Gümülek Tepesi","credit":"Illustrated Armenia and the Armenians (IA illustratedarmen00gaidrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BClek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139190","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerinden biri olan Gümülek Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Gümülek Tepesi","Adana","Akdeniz Bölgesi","doğa","gezi","tepe"]

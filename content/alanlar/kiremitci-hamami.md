@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kiremit%C3%A7i%20Hamam%C4%B1","alt":"Kiremitçi Hamamı","caption":"Kiremitçi Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf/page1-854px-Animal_disease_thesaurus_%28IA_CAT80734093005%29.pdf.jpg","alt":"Kiremitçi Hamamı","caption":"Kiremitçi Hamamı","credit":"Animal disease thesaurus (IA CAT80734093005).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kiremit%C3%A7i%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738877","tip":"genel"}]
 description: "Marmara Bölgesi'nin en güzel plajlarından biri olan Kiremitçi Hamamı, Osmangazi/Bursa'da yer alıyor."
 keywords: ["Kiremitçi Hamamı","Osmangazi","Bursa","Marmara Bölgesi","Plaj","Deniz","Kum"]

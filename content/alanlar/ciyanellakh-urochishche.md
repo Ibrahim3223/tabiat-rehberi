@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87iyanellakh%20Urochishche","alt":"Çiyanellakh Urochishche","caption":"Çiyanellakh Urochishche"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Çiyanellakh Urochishche","caption":"Çiyanellakh Urochishche","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iyanellakh%20Urochishche","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31540168","tip":"genel"}]
 description: "Türkiye'de bulunan Çiyanellakh Urochishche, doğa severler için bir cennet. Dağ manzaraları ve doğal güzellikleri keşfedin."
 keywords: ["Çiyanellakh Urochishche","Türkiye dağları","doğa turizmi","dağ manzaraları","Türkiye'nin doğal güzellikleri","gezi rehberi","turistik yerler","doğa severler","Türkiye'de gezilecek yerler"]

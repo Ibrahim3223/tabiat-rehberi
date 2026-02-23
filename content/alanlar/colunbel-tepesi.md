@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C3%B6l%C3%BCnbel%20Tepesi","alt":"Çölünbel Tepesi","caption":"Çölünbel Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Fields_of_Kirsehir_-_panoramio.jpg/960px-The_Fields_of_Kirsehir_-_panoramio.jpg","alt":"Çölünbel Tepesi","caption":"Çölünbel Tepesi","credit":"The Fields of Kirsehir - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C3%B6l%C3%BCnbel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829629","tip":"genel"}]
 description: "Kırşehir'in doğal güzelliklerinden biri olan Çölünbel Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kırşehir","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","ekoloji","flora","fauna"]

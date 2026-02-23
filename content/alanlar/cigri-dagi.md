@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C4%B1%C4%9Fr%C4%B1%20Da%C4%9F%C4%B1","alt":"Çığrı Dağı","caption":"Çığrı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf/page1-960px-Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf.jpg","alt":"Çığrı Dağı","caption":"Çığrı Dağı","credit":"Effects of forest fire on physical, chemical and biological soil properties.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1%C4%9Fr%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819436","tip":"genel"}]
 description: "Çanakkale'nin önemli dağlarından biri olan Çığrı Dağı, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Çığrı Dağı","Çanakkale","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Çanakkale Dağları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları keşfetmek","Doğal güzellikleri ziyaret etmek","Flora ve faunayı keşfetmek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=El%20Hac%20H%C3%BCseyin%20Y%C4%B1ld%C4%B1z%20Efendi%20T%C3%BCrbesi","alt":"El Hac Hüseyin Yıldız Efendi Türbesi","caption":"El Hac Hüseyin Yıldız Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"El Hac Hüseyin Yıldız Efendi Türbesi","caption":"El Hac Hüseyin Yıldız Efendi Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/El%20Hac%20H%C3%BCseyin%20Y%C4%B1ld%C4%B1z%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391615","tip":"genel"}]
 description: "Düzce'de tarihi ve doğal güzelliklerin bir araya geldiği özel bir yer"
 keywords: ["El Hac Hüseyin Yıldız Efendi Türbesi","Düzce","Karadeniz Bölgesi","tarihi mekanlar","doğal güzellikler","türk kültürü","tarih","coğrafya","flora","fauna"]

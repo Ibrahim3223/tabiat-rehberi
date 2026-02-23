@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Civcan%20Da%C4%9F%C4%B1","alt":"Civcan Dağı","caption":"Civcan Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Exploration_of_the_Red_river_of_Louisiana%2C_in_the_year_1852_%28IA_b24858766%29.pdf/page1-960px-Exploration_of_the_Red_river_of_Louisiana%2C_in_the_year_1852_%28IA_b24858766%29.pdf.jpg","alt":"Civcan Dağı","caption":"Civcan Dağı","credit":"Exploration of the Red river of Louisiana, in the year 1852 (IA b24858766).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Civcan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31569352","tip":"genel"}]
 description: "Bolu'nun doğal güzelliklerini keşfedin, Civcan Dağı'nda doğa yürüyüşü ve kayak keyfi yaşayın."
 keywords: ["Civcan Dağı","Bolu","Dağ","Doğa Yürüyüşü","Kayak","Turizm","Gezi","Türkiye","Bolu Turistik Yerler"]

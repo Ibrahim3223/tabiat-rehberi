@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları gezmek","Doğal güzelliklerine tanık olmak","Çevre gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Harabat%20Sultan%20T%C3%BCrbesi","alt":"Harabat Sultan Türbesi","caption":"Harabat Sultan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Harabat Sultan Türbesi","caption":"Harabat Sultan Türbesi","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harabat%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390914","tip":"genel"}]
 description: "Şehzadeler, Manisa'da bulunan tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Harabat Sultan Türbesi","Şehzadeler","Manisa","Ege Bölgesi","tarihi mekanlar","doğa alanları","turistik yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Baltal%C4%B1%20Tepesi","alt":"Baltalı Tepesi","caption":"Baltalı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Baltalı Tepesi","caption":"Baltalı Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Baltal%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390821","tip":"genel"}]
 description: "Yozgat'ın doğal güzelliklerinden biri olan Baltalı Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan ve çeşitli bitki türleriyle zengin fauna yapısına sahip bir bölge."
 keywords: ["Baltalı Tepesi","Yozgat","doğa","tepe","flora","fauna","coğrafya","tarihçe","ziyaret"]

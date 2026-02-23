@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6%C5%9Fk%20Tepe","alt":"Köşk Tepe","caption":"Köşk Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Köşk Tepe","caption":"Köşk Tepe","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6%C5%9Fk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042800","tip":"genel"}]
 description: "Siirt'in doğal güzelliklerini keşfedin, Köşk Tepe'de doğa ile baş başa kalın."
 keywords: ["Köşk Tepe","Siirt","Dağ","Doğa","Turizm","Gezi","Seyahat","Siirt Gezilecek Yerler","Köşk Tepe Dağı"]

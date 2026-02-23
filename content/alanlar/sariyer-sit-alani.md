@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki türleri keşfi","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sar%C4%B1yer%20Sit%20Alan%C4%B1","alt":"Sarıyer Sit Alanı","caption":"Sarıyer Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Sarıyer Sit Alanı","caption":"Sarıyer Sit Alanı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1yer%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108225594","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide doğal alanlarından biri olan Sarıyer Sit Alanı, yaklaşık 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor."
 keywords: ["Sarıyer Sit Alanı","İç Anadolu Bölgesi","doğal alan","yeşil alan","turizm","gezi"]

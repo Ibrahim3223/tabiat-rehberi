@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Çevre keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Fethiye-Fethiye-%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mugla-Fethiye-Fethiye- Kızılçam","caption":"Mugla-Fethiye-Fethiye- Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chameleon_in_Turkish_forest_%281%29.jpg/960px-Chameleon_in_Turkish_forest_%281%29.jpg","alt":"Mugla-Fethiye-Fethiye- Kızılçam","caption":"Mugla-Fethiye-Fethiye- Kızılçam","credit":"Chameleon in Turkish forest (1).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Fethiye-Fethiye-%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228429","tip":"genel"}]
 description: "Muğla'nın doğal güzellikleri arasında yer alan Kızılçam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kızılçam Milli Parkı","Muğla","Doğa","Milli Park","Kızılçam","Turizm","Ege Bölgesi","Fethiye"]

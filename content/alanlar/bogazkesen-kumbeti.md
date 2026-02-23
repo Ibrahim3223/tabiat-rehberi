@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bo%C4%9Fazkesen%20K%C3%BCmbeti","alt":"Boğazkesen Kümbeti","caption":"Boğazkesen Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Catalog_of_Copyright_Entries_1941_Music_New_Series_Vol_36_Pt_3_%28IA_catalogofcopyrig363libr%29.pdf/page1-810px-Catalog_of_Copyright_Entries_1941_Music_New_Series_Vol_36_Pt_3_%28IA_catalogofcopyrig363libr%29.pdf.jpg","alt":"Boğazkesen Kümbeti","caption":"Boğazkesen Kümbeti","credit":"Catalog of Copyright Entries 1941 Music New Series Vol 36 Pt 3 (IA catalogofcopyrig363libr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bo%C4%9Fazkesen%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582403","tip":"genel"}]
 description: "Ankara'nın Beypazarı ilçesinde yer alan Boğazkesen Kümbeti, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Boğazkesen Kümbeti","Beypazarı","Ankara","İç Anadolu Bölgesi","yeşil alan","kültür","tarih"]

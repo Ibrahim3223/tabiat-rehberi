@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Amasya-Vezirkopru-Golkoy%20Saricam","alt":"Amasya-Vezirkopru-Golkoy Saricam","caption":"Amasya-Vezirkopru-Golkoy Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Amasya-Vezirkopru-Golkoy Saricam","caption":"Amasya-Vezirkopru-Golkoy Saricam","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Vezirkopru-Golkoy%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227546","tip":"genel"}]
 description: "Amasya'da yer alan milli park, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Amasya","milli park","doğa","tarih","Karadeniz Bölgesi","gezi","turizm","çevre"]

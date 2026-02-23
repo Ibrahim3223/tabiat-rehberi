@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","anma töreni","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karay%C3%B6r%C3%BCk%20Deresi%20%C5%9Eehitli%C4%9Fi","alt":"Karayörük Deresi Şehitliği","caption":"Karayörük Deresi Şehitliği"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Karayörük Deresi Şehitliği","caption":"Karayörük Deresi Şehitliği","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karay%C3%B6r%C3%BCk%20Deresi%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728265","tip":"genel"}]
 description: "Eceabat'ta bulunan Karayörük Deresi Şehitliği, Çanakkale Savaşı'nın önemli noktalarından biri"
 keywords: ["Karayörük Deresi Şehitliği","Eceabat","Çanakkale Savaşı","şehitlik","tarih","anıtkabir"]

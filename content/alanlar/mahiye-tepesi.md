@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mahiye%20Tepesi","alt":"Mahiye Tepesi","caption":"Mahiye Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Mahiye Tepesi","caption":"Mahiye Tepesi","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahiye%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31562697","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Mahiye Tepesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Mahiye Tepesi","Ankara","İç Anadolu Bölgesi","yeşil alan","doğa","gezi","turizm","tepe","manzara"]

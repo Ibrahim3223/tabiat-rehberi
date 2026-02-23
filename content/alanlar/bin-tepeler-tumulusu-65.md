@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","kültürel keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2065","alt":"Bin Tepeler Tümülüsü 65","caption":"Bin Tepeler Tümülüsü 65"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf/page1-960px-The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 65","caption":"Bin Tepeler Tümülüsü 65","credit":"The new international encyclopaedia ... (Vol. 15, MANI-MISSI) (IA newinternational15unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2065","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728299","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cevheri, Ahmetli'de bulunan Bin Tepeler Tümülüsü 65, tarihin derinliklerine ışık tutuyor."
 keywords: ["Bin Tepeler","Tümülüsü","Ahmetli","Manisa","Ege Bölgesi","tarih","gezi","doğa","kültür"]

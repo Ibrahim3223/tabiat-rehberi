@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCrkl%C3%BCda%C4%9F%C4%B1%20Tepesi","alt":"Kürklüdağı Tepesi","caption":"Kürklüdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Kürklüdağı Tepesi","caption":"Kürklüdağı Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCrkl%C3%BCda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042833","tip":"genel"}]
 description: "Ankara'nın önemli doğal güzelliklerinden biri olan Kürklüdağı Tepesi, şehrin panoramik manzarasını sunar."
 keywords: ["Kürklüdağı Tepesi","Ankara","Dağ","Doğa","Turizm","Gezi","Manzara","Panorama","Ankara Turistik Yerler"]

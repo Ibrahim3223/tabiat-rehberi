@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa Yürüyüşü","Fotoğrafçılık","Tarihi Alanları Keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Diyargove%20Tepesi","alt":"Diyargove Tepesi","caption":"Diyargove Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf/page1-635px-In_gold_and_silver_.._%28IA_ingoldandsilver00ellwiala%29.pdf.jpg","alt":"Diyargove Tepesi","caption":"Diyargove Tepesi","credit":"In gold and silver .. (IA ingoldandsilver00ellwiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diyargove%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550915","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin. Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Diyargove Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mardin","Diyargove Tepesi","Güneydoğu Anadolu Bölgesi","Tarihi Alanlar","Doğa Turizmi","Tepeler","Coğrafya","Flora","Fauna"]

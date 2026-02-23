@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","kamp","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kemikli%20Tepesi","alt":"Kemikli Tepesi","caption":"Kemikli Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Kemikli Tepesi","caption":"Kemikli Tepesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kemikli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558232","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri, Kemikli Tepesi'ni keşfedin"
 keywords: ["Kemikli Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","ekoloji"]

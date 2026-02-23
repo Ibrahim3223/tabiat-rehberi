@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî kalıntıları gezme","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ulubaba%20Tepe","alt":"Ulubaba Tepe","caption":"Ulubaba Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/K%C3%A2hta_district_landscape.jpg/960px-K%C3%A2hta_district_landscape.jpg","alt":"Ulubaba Tepe","caption":"Ulubaba Tepe","credit":"Kâhta district landscape.jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulubaba%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385390","tip":"genel"}]
 description: "Adıyaman'da bulunan tarihi ve doğal güzelliklerle dolu bir bölge"
 keywords: ["Adıyaman","Güneydoğu Anadolu Bölgesi","tarih","doğa","tepe","gezi","ziyaret"]

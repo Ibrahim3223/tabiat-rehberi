@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","flora ve fauna"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Divdi%C4%9Fin%20Tepe","alt":"Divdiğin Tepe","caption":"Divdiğin Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf/page1-800px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf.jpg","alt":"Divdiğin Tepe","caption":"Divdiğin Tepe","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00singiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Divdi%C4%9Fin%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387185","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Divdiğin Tepe, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Divdiğin Tepe","İç Anadolu Bölgesi","tarihi geçmişi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret","gezgin"]

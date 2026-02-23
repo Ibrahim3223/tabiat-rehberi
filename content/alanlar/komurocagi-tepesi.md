@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["yürüyüş","kuş gözlemciliği","çiçek izleme","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6m%C3%BCroca%C4%9F%C4%B1%20Tepesi","alt":"Kömürocağı Tepesi","caption":"Kömürocağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Kömürocağı Tepesi","caption":"Kömürocağı Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6m%C3%BCroca%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210237","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin. Kömürocağı Tepesi, Karadeniz Bölgesi'nin en ilgi çekici noktalarından biri."
 keywords: ["Kastamonu","Karadeniz Bölgesi","Kömürocağı Tepesi","doğa","gezi","tepe","manzara"]

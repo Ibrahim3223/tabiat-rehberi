@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["gezi","tarih öğrenimi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Anonim%20T%C3%BCrbe-3%2C%20Alt%C4%B1nda%C4%9F","alt":"Anonim Türbe-3, Altındağ","caption":"Anonim Türbe-3, Altındağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf/page1-960px-Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf.jpg","alt":"Anonim Türbe-3, Altındağ","caption":"Anonim Türbe-3, Altındağ","credit":"Peter and Nancy in Asia, (IA peternancyinasia00comf).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20T%C3%BCrbe-3%2C%20Alt%C4%B1nda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582362","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Ankara","Altındağ","Anonim Türbe-3","tarih","doğa","gezi","turizm","kültür","miras"]

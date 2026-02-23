@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî mekanları gezmek","Doğal güzellikleri keşfetmek","Kültürel etkinliklere katılmak","Yerel lezzetleri tatmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6zc%C3%BC%20Baba%20T%C3%BCrbesi%2C%20Kemah","alt":"Gözcü Baba Türbesi, Kemah","caption":"Gözcü Baba Türbesi, Kemah"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Gözcü Baba Türbesi, Kemah","caption":"Gözcü Baba Türbesi, Kemah","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6zc%C3%BC%20Baba%20T%C3%BCrbesi%2C%20Kemah","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582810","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin. Gözcü Baba Türbesi, Kemah'ta ziyaret edilecek önemli bir nokta."
 keywords: ["Gözcü Baba Türbesi","Kemah","Erzincan","Doğu Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","gezi rehberi"]

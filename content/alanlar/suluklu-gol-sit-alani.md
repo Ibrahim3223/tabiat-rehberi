@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa keşfi","fotografcılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCl%C3%BCkl%C3%BC%20G%C3%B6l%20Sit%20Alan%C4%B1","alt":"Sülüklü Göl Sit Alanı","caption":"Sülüklü Göl Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Sülüklü Göl Sit Alanı","caption":"Sülüklü Göl Sit Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCl%C3%BCkl%C3%BC%20G%C3%B6l%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226226","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Sülüklü Göl Sit Alanı, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir doğal alan sunar."
 keywords: ["Sülüklü Göl","Sit Alanı","İç Anadolu Bölgesi","doğal alan","göl","flora","fauna","turizm","gezi","doğa"]

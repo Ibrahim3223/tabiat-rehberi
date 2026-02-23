@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografçılık","picnic","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCk%20T%C3%BCm%C3%BCl%C3%BCs%2C%20Be%C5%9Ftepe","alt":"Büyük Tümülüs, Beştepe","caption":"Büyük Tümülüs, Beştepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Büyük Tümülüs, Beştepe","caption":"Büyük Tümülüs, Beştepe","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20T%C3%BCm%C3%BCl%C3%BCs%2C%20Be%C5%9Ftepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728317","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Büyük Tümülüs, Beştepe, ziyaretçilerini bekliyor."
 keywords: ["Büyük Tümülüs","Beştepe","Ankara","tarih","doğa","gezi","türkiye","kültür","yaban hayatı"]

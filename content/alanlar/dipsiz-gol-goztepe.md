@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dipsiz%20G%C3%B6l%20(G%C3%B6ztepe)","alt":"Dipsiz Göl (Göztepe)","caption":"Dipsiz Göl (Göztepe)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lake_Limni_Nature_Park_05.jpg/960px-Lake_Limni_Nature_Park_05.jpg","alt":"Dipsiz Göl (Göztepe)","caption":"Dipsiz Göl (Göztepe)","credit":"Lake Limni Nature Park 05.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dipsiz%20G%C3%B6l%20(G%C3%B6ztepe)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q115111041","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerinden biri olan Dipsiz Göl, Göztepe'de yer alıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Dipsiz Göl","Göztepe","Türkiye","Doğal Alanlar","Göl","İstanbul","Yeşil Alanlar","Turizm","Gezi"]

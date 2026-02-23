@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarihî türbe gezi","plaj aktiviteleri","doğa yürüyüşü","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nizameddin%20Ya%C4%9F%C4%B1basan%20T%C3%BCrbesi","alt":"Nizameddin Yağıbasan Türbesi","caption":"Nizameddin Yağıbasan Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Into_all_the_world_%28IA_intoallworl00well%29.pdf/page1-741px-Into_all_the_world_%28IA_intoallworl00well%29.pdf.jpg","alt":"Nizameddin Yağıbasan Türbesi","caption":"Nizameddin Yağıbasan Türbesi","credit":"Into all the world (IA intoallworl00well).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nizameddin%20Ya%C4%9F%C4%B1basan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390460","tip":"genel"}]
 description: "Tokat'ın Niksar ilçesinde yer alan tarihi türbe ve plaj"
 keywords: ["Nizameddin Yağıbasan Türbesi","Tokat","Niksar","Karadeniz Bölgesi","tarih","coğrafya","flora","fauna","ziyaret","gezi"]

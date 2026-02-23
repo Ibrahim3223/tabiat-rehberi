@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","gözlem"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastanbera%20%C5%9Eelalesi","alt":"Kastanbera Şelalesi","caption":"Kastanbera Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/-uzongol_-turkey_-trabzon_-waterfalls_-nature_%2814250146852%29.jpg","alt":"Kastanbera Şelalesi","caption":"Kastanbera Şelalesi","credit":"-uzongol -turkey -trabzon -waterfalls -nature (14250146852).jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastanbera%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130367214","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerini keşfedin. Kastanbera Şelalesi, Karadeniz Bölgesi'nin en güzel yerlerinden biri."
 keywords: ["Kastanbera Şelalesi","Trabzon","Karadeniz Bölgesi","doğal güzellik","şelale","gezi","turizm"]

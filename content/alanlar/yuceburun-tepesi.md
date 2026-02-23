@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Fotoğraf çekimi","Doğa yürüyüşü","Manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%BCceburun%20Tepesi","alt":"Yüceburun Tepesi","caption":"Yüceburun Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Yüceburun Tepesi","caption":"Yüceburun Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCceburun%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822477","tip":"genel"}]
 description: "Gaziantep'in doğal güzellikleri arasında yer alan Yüceburun Tepesi, şehrin panoramik manzarasını sunar."
 keywords: ["Yüceburun Tepesi","Gaziantep","Doğal Alan","Tepeler","Güneydoğu Anadolu Bölgesi","Manzara","Doğa","Turizm"]

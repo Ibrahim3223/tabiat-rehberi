@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","doğa yürüyüşleri","yerel yemekleri denemek","kültürel etkinliklere katılmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tacettin%20T%C3%BCrbesi","alt":"Tacettin Türbesi","caption":"Tacettin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Tacettin Türbesi","caption":"Tacettin Türbesi","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tacettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582338","tip":"genel"}]
 description: "Kayseri'nin Melikgazi ilçesinde bulunan Tacettin Türbesi, tarihi ve doğal güzelliklerin birleştiği özel bir yerdir."
 keywords: ["Tacettin Türbesi","Kayseri","Melikgazi","tarih","doğa","gezi","turizm","türbe","kültür"]

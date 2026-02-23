@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doga_yuruyusu","fotografcilik","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rkhakl%C4%B1k%20Bo%C4%9Faz%C4%B1","alt":"Kırkhaklık Boğazı","caption":"Kırkhaklık Boğazı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Kırkhaklık Boğazı","caption":"Kırkhaklık Boğazı","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rkhakl%C4%B1k%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34711365","tip":"genel"}]
 description: "Antalya'da bulunan Kırkhaklık Boğazı, 1200 hektarlık yeşil alanıyla doğaseverlerin gözdesi"
 keywords: ["Kırkhaklık Boğazı","Antalya","kanyon","doğa","turizm","gezi","Antalya gezilecek yerler","kanyonlar","doğa harikaları"]

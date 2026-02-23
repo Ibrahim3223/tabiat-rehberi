@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahramanmaras-Andirin-Yesilova%20Andiz","alt":"Kahramanmaras-Andirin-Yesilova Andiz","caption":"Kahramanmaras-Andirin-Yesilova Andiz"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Kahramanmaras-Andirin-Yesilova Andiz","caption":"Kahramanmaras-Andirin-Yesilova Andiz","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Andirin-Yesilova%20Andiz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228488","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olan Kahramanmaras-Andirin-Yesilova Andiz, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["doğal alan","milli park","İç Anadolu Bölgesi","yeşil alan","flora","fauna","gezi","ziyaret"]

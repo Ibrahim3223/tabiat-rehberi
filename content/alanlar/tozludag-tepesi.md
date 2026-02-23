@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tozluda%C4%9F%20Tepesi","alt":"Tozludağ Tepesi","caption":"Tozludağ Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chambers%27s_concise_gazetteer_of_the_world_-_topographical%2C_statistical%2C_historical%2C_pronouncing_%28IA_chamberssconcise00patrrich%29.pdf/page1-850px-Chambers%27s_concise_gazetteer_of_the_world_-_topographical%2C_statistical%2C_historical%2C_pronouncing_%28IA_chamberssconcise00patrrich%29.pdf.jpg","alt":"Tozludağ Tepesi","caption":"Tozludağ Tepesi","credit":"Chambers's concise gazetteer of the world - topographical, statistical, historical, pronouncing (IA chamberssconcise00patrrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tozluda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390249","tip":"genel"}]
 description: "Adana'nın görkemli tepelerinden biri olan Tozludağ Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle büyülüyor."
 keywords: ["Tozludağ Tepesi","Adana","Akdeniz Bölgesi","doğa","tarih","gezi","tepe","manzara","çevre"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Kuş gözlemciliği","Doğa yürüyüşü","Fotografcılık"," Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaz%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Kaz Gölü Sulak Alanı","caption":"Kaz Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kaz Gölü Sulak Alanı","caption":"Kaz Gölü Sulak Alanı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaz%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229025","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir sulak alan"
 keywords: ["Kaz Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğal Alan","Çevre","Ekosistem","Flora","Fauna","Ziyaret"]

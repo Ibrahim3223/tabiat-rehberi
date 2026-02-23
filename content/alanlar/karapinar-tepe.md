@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Kamp","Fotoğraf çekimi","Tarihçe gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karap%C4%B1nar%20Tepe","alt":"Karapınar Tepe","caption":"Karapınar Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Karapınar Tepe","caption":"Karapınar Tepe","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karap%C4%B1nar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389097","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli köşesi Karapınar Tepe, Erzurum'un doğal güzelliklerini keşfedin."
 keywords: ["Karapınar Tepe","Erzurum","Doğu Anadolu Bölgesi","Doğal güzellikler","Tarihçe","Coğrafya","Flora","Fauna","Ziyaret"]

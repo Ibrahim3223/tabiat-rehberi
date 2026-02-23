@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Teknesikuru%20Da%C4%9F%C4%B1","alt":"Teknesikuru Dağı","caption":"Teknesikuru Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Teknesikuru Dağı","caption":"Teknesikuru Dağı","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Teknesikuru%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504915","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Teknesikuru Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Teknesikuru Dağı","Türkiye Dağları","Doğa Yürüyüşü","Trekking","Dağcılık","Türkiye Turizm","Doğal Güzellikler","Gezi Rehberi","Dağ Trekking"]

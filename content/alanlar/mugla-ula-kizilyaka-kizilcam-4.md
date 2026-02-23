@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Ula-Kizilyaka%20K%C4%B1z%C4%B1l%C3%A7am%204","alt":"Mugla-Ula-Kizilyaka Kızılçam 4","caption":"Mugla-Ula-Kizilyaka Kızılçam 4"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Mugla-Ula-Kizilyaka Kızılçam 4","caption":"Mugla-Ula-Kizilyaka Kızılçam 4","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Ula-Kizilyaka%20K%C4%B1z%C4%B1l%C3%A7am%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227918","tip":"genel"}]
 description: "Mugla-Ula-Kizilyaka Kızılçam 4 milli parkı, doğal güzellikleri ve zengin ekosistemi ile dikkat çekiyor."
 keywords: ["Mugla-Ula-Kizilyaka Kızılçam 4","milli park","doğa","ekosistem","çevre","turizm","gezi","yaban hayatı","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ar%C5%9F%C4%B1l%C4%B1boyun%20Tepesi","alt":"Çarşılıboyun Tepesi","caption":"Çarşılıboyun Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Çarşılıboyun Tepesi","caption":"Çarşılıboyun Tepesi","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ar%C5%9F%C4%B1l%C4%B1boyun%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828437","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin. Çarşılıboyun Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kayseri","Çarşılıboyun Tepesi","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

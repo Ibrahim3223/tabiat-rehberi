@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","tarih investigación"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yar%C4%B1mkale%20Tepesi","alt":"Yarımkale Tepesi","caption":"Yarımkale Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Avanos_16_09_1973_Mittleres_K%C4%B1z%C4%B1l%C4%B1rmak-Tal.jpg/960px-Avanos_16_09_1973_Mittleres_K%C4%B1z%C4%B1l%C4%B1rmak-Tal.jpg","alt":"Yarımkale Tepesi","caption":"Yarımkale Tepesi","credit":"Avanos 16 09 1973 Mittleres Kızılırmak-Tal.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yar%C4%B1mkale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390631","tip":"genel"}]
 description: "Kırşehir'in tarihi ve doğal güzelliklerini keşfedin. Yarımkale Tepesi'nin tarihi geçmişi, coğrafi özellikleri ve ziyaret bilgileri"
 keywords: ["Yarımkale Tepesi","Kırşehir","İç Anadolu Bölgesi","tarihi mekanlar","doğa turizmi","tepe","coğrafya","flora","fauna"]

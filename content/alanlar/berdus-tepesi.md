@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğraf çekimi"," Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Berdu%C5%9F%20Tepesi","alt":"Berduş Tepesi","caption":"Berduş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Geological_literature_added_to_the_Geological_Society%27s_Library_%28IA_geologicallit19021903geol%29.pdf/page1-833px-Geological_literature_added_to_the_Geological_Society%27s_Library_%28IA_geologicallit19021903geol%29.pdf.jpg","alt":"Berduş Tepesi","caption":"Berduş Tepesi","credit":"Geological literature added to the Geological Society's Library (IA geologicallit19021903geol).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Berdu%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388397","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli köşelerinden biri olan Berduş Tepesi, doğa severlerin keşfetmeyi bekleyen bir hazine."
 keywords: ["Berduş Tepesi","Muş","Doğu Anadolu Bölgesi","Doğa","Tepeler","Coğrafya","Tarihçe","Flora","Fauna"]

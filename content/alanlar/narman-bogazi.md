@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Narman%20bo%C4%9Faz%C4%B1","alt":"Narman boğazı","caption":"Narman boğazı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Narman boğazı","caption":"Narman boğazı","credit":"VallesMarinerisHuge.jpg","license":"Attribution"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Narman%20bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49343036","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerinden biri olan Narman boğazı, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Narman boğazı","Erzurum","kanyon","doğal güzellik","yeşil alan","gezi","turizm","Erzurum turistik yerler","Narman boğazı hakkında"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yarta%C5%9F%C4%B1%20Tepesi","alt":"Yartaşı Tepesi","caption":"Yartaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Yartaşı Tepesi","caption":"Yartaşı Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yarta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388380","tip":"genel"}]
 description: "Muş'un doğal güzellikleri arasında yer alan Yartaşı Tepesi, ziyaretçilerini kendine çağıran bir destinasyon."
 keywords: ["Yartaşı Tepesi","Muş","Doğu Anadolu Bölgesi","doğa","gezi","tepe","manzara","gezilecek yerler"]

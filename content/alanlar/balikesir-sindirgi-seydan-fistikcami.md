@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa gezintisi","orman yürüyüşü","çiçek izleme","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bal%C4%B1kesir-S%C4%B1nd%C4%B1rg%C4%B1-Seydan-F%C4%B1st%C4%B1kcam%C4%B1","alt":"Balıkesir-Sındırgı-Seydan-Fıstıkcamı","caption":"Balıkesir-Sındırgı-Seydan-Fıstıkcamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kartalcimen.jpg/960px-Kartalcimen.jpg","alt":"Balıkesir-Sındırgı-Seydan-Fıstıkcamı","caption":"Balıkesir-Sındırgı-Seydan-Fıstıkcamı","credit":"Kartalcimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kesir-S%C4%B1nd%C4%B1rg%C4%B1-Seydan-F%C4%B1st%C4%B1kcam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228287","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğa harikalarından biri olan Balıkesir-Sındırgı-Seydan-Fıstıkcamı, ziyaretçilerini büyüleyen bir milli park"
 keywords: ["Balıkesir","Marmara Bölgesi","milli park","doğa","gezi","seyahat","turizm","çevre","ekoloji"]

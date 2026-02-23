@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Balikesir-Bandirma-Susurluk%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Balikesir-Bandirma-Susurluk Kızılçam","caption":"Balikesir-Bandirma-Susurluk Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Balikesir-Bandirma-Susurluk Kızılçam","caption":"Balikesir-Bandirma-Susurluk Kızılçam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Bandirma-Susurluk%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227859","tip":"genel"}]
 description: "Doğal güzellikleri ve tarihi geçmişi ile dikkat çeken milli park"
 keywords: ["milli park","doğa","gezi","turizm","Balikesir","Bandirma","Susurluk","Kızılçam"]

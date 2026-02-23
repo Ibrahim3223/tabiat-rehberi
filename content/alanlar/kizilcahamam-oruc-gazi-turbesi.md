@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1z%C4%B1lcahamam%20Oru%C3%A7%20Gazi%20T%C3%BCrbesi","alt":"Kızılcahamam Oruç Gazi Türbesi","caption":"Kızılcahamam Oruç Gazi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/EIE_express_-_USACE-p16021coll8-511.pdf/page1-960px-EIE_express_-_USACE-p16021coll8-511.pdf.jpg","alt":"Kızılcahamam Oruç Gazi Türbesi","caption":"Kızılcahamam Oruç Gazi Türbesi","credit":"EIE express - USACE-p16021coll8-511.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcahamam%20Oru%C3%A7%20Gazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390676","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon"
 keywords: ["Kızılcahamam","Oruç Gazi Türbesi","Ankara","İç Anadolu Bölgesi","Türbe","Tarih","Doğa"]

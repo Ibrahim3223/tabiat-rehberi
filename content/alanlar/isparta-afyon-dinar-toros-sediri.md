@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Afyon-Dinar%20Toros%20Sediri","alt":"Isparta-Afyon-Dinar Toros Sediri","caption":"Isparta-Afyon-Dinar Toros Sediri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dipoyraz%2C_auch_Dedeg%C3%B6l_genannt%2C_2980_m.jpg/960px-Dipoyraz%2C_auch_Dedeg%C3%B6l_genannt%2C_2980_m.jpg","alt":"Isparta-Afyon-Dinar Toros Sediri","caption":"Isparta-Afyon-Dinar Toros Sediri","credit":"Dipoyraz, auch Dedegöl genannt, 2980 m.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Afyon-Dinar%20Toros%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227999","tip":"genel"}]
 description: "Isparta'da yer alan milli park, Toros sedirlerinin güzelliğini sunar."
 keywords: ["Isparta","Afyon","Dinar","Toros Sediri","milli park","doğa","çevre","gezi"]

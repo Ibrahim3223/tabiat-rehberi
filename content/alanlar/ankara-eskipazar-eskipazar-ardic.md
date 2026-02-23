@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","doğayla iç içe olmak","yerel kültürü deneyimlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara-Eskipazar-Eskipazar-Ard%C4%B1c","alt":"Ankara-Eskipazar-Eskipazar-Ardıc","caption":"Ankara-Eskipazar-Eskipazar-Ardıc"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/MOKFC10.jpg/960px-MOKFC10.jpg","alt":"Ankara-Eskipazar-Eskipazar-Ardıc","caption":"Ankara-Eskipazar-Eskipazar-Ardıc","credit":"MOKFC10.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Eskipazar-Eskipazar-Ard%C4%B1c","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228295","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Ankara-Eskipazar-Eskipazar-Ardıc"
 keywords: ["Ankara","Eskipazar","Ardıc","milli park","doğa","gezi","yaban hayatı","çevre","ekoloji"]

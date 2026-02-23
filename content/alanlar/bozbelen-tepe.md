@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bozbelen%20Tepe","alt":"Bozbelen Tepe","caption":"Bozbelen Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf/page1-960px-Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf.jpg","alt":"Bozbelen Tepe","caption":"Bozbelen Tepe","credit":"Report of the Forest Service (IA CAT82764216021).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozbelen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390129","tip":"genel"}]
 description: "Antalya'nın gizli güzelliği, 140 hektarlık doğal alan"
 keywords: ["Bozbelen Tepe","Antalya","doğal alan","tepe","Akdeniz Bölgesi","gezi","doğa","turizm","çevre"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dan%C4%B1%C5%9Fmen%20Da%C4%9F%C4%B1","alt":"Danışmen Dağı","caption":"Danışmen Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/MOKG02.jpg/960px-MOKG02.jpg","alt":"Danışmen Dağı","caption":"Danışmen Dağı","credit":"MOKG02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dan%C4%B1%C5%9Fmen%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526418","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. Danışmen Dağı, şehir merkezine yakın bir konumda yer alır."
 keywords: ["Danışmen Dağı","İzmir","doğa","dağ","turizm","gezi","İzmir dağları","doğal güzellikler","şehir merkezine yakın"]

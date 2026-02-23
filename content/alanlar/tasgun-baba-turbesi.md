@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaret","Tarihi eserleri incelemek","Doğa yürüyüşü","Fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ta%C5%9Fgun%20Baba%20T%C3%BCrbesi","alt":"Taşgun Baba Türbesi","caption":"Taşgun Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Taşgun Baba Türbesi","caption":"Taşgun Baba Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fgun%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391832","tip":"genel"}]
 description: "Konya'nın Altınekin ilçesinde bulunan tarihi bir türbe. 140 hektarlık yeşil alanı yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Taşgun Baba Türbesi","Altınekin","Konya","İç Anadolu Bölgesi","tarihi mekan","türbe","yeşil alan","kültür"]

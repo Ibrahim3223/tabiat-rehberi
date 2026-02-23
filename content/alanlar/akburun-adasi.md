@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akburun%20Adas%C4%B1","alt":"Akburun Adası","caption":"Akburun Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_agriculture_of_West_Asia_%28IA_agricultureofwes143tege%29.pdf/page1-960px-The_agriculture_of_West_Asia_%28IA_agricultureofwes143tege%29.pdf.jpg","alt":"Akburun Adası","caption":"Akburun Adası","credit":"The agriculture of West Asia (IA agricultureofwes143tege).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akburun%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49631503","tip":"genel"}]
 description: "Konya'da bulunan Akburun Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Akburun Adası","Konya","Ada","Doğal Alan","Yeşil Cennet","Turizm","Gezi","Seyahat","Konya Turistik Yerler"]

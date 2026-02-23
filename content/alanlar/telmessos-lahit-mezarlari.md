@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Telmessos%20Lahit%20Mezarlar%C4%B1","alt":"Telmessos Lahit Mezarları","caption":"Telmessos Lahit Mezarları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Telmessos Lahit Mezarları","caption":"Telmessos Lahit Mezarları","credit":"Muğla - Dalyan - İztuzu Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Telmessos%20Lahit%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728239","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerinin bir araya geldiği Telmessos Lahit Mezarları, Muğla'nın önemli turistik noktalarından biri"
 keywords: ["Telmessos Lahit Mezarları","Muğla","Ege Bölgesi","lahit mezarlar","tarihi yerler","turistik noktalar"]

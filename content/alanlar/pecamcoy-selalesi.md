@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pe%C3%A7am%C3%A7oy%20%C5%9Eelalesi","alt":"Peçamçoy Şelalesi","caption":"Peçamçoy Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/-ayder_-turkey_-trabzon_-waterfalls_-nature_%2814251987354%29.jpg","alt":"Peçamçoy Şelalesi","caption":"Peçamçoy Şelalesi","credit":"-ayder -turkey -trabzon -waterfalls -nature (14251987354).jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pe%C3%A7am%C3%A7oy%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130366633","tip":"genel"}]
 description: "Rize'de bulunan Peçamçoy Şelalesi, Karadeniz Bölgesi'nin doğal güzelliklerinden biridir. Şelalenin etrafındaki orman ve flora, ziyaretçilere unutulmaz bir deneyim sunar."
 keywords: ["Peçamçoy Şelalesi","Rize","Karadeniz Bölgesi","doğal güzellik","orman","flora","şelale"]

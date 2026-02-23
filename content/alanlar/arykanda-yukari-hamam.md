@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["denizde yüzme","doğa yürüyüşü","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arykanda%20Yukar%C4%B1%20Hamam","alt":"Arykanda Yukarı Hamam","caption":"Arykanda Yukarı Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Arykanda Yukarı Hamam","caption":"Arykanda Yukarı Hamam","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arykanda%20Yukar%C4%B1%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739043","tip":"genel"}]
 description: "Finike'de bulunan Arykanda Yukarı Hamam, tarihi ve doğal güzelliklerinin birleştiği bir noktada yer alır."
 keywords: ["Arykanda","Yukarı Hamam","Finike","Antalya","tarih","doğa","gezi","turizm"]

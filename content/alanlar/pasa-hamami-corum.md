@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","picnic","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pa%C5%9Fa%20Hamam%C4%B1%20(%C3%87orum)","alt":"Paşa Hamamı (Çorum)","caption":"Paşa Hamamı (Çorum)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_saltboxhouseeigh00shel%29.pdf/page1-895px-The_salt-box_house%3B_eighteenth_century_life_in_a_New_England_hill_town_%28IA_saltboxhouseeigh00shel%29.pdf.jpg","alt":"Paşa Hamamı (Çorum)","caption":"Paşa Hamamı (Çorum)","credit":"The salt-box house; eighteenth century life in a New England hill town (IA saltboxhouseeigh00shel).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pa%C5%9Fa%20Hamam%C4%B1%20(%C3%87orum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118395884","tip":"genel"}]
 description: "Çorum'un tarihi ve doğal güzelliklerini keşfedin. Paşa Hamamı, Karadeniz Bölgesi'nde yer alan bir doğal alan."
 keywords: ["Paşa Hamamı","Çorum","Karadeniz Bölgesi","doğal alan","tarih","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tepenin etrafındaki köyleri gezmek","Tarihi kalıntıları gezme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Daz%20Tepesi","alt":"Daz Tepesi","caption":"Daz Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Daz Tepesi","caption":"Daz Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Daz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526301","tip":"genel"}]
 description: "Hatay'ın güzide noktalarından biri olan Daz Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Daz Tepesi","Hatay","Akdeniz Bölgesi","doğa","gezi","tepe","manzara","çevre","ekoloji"]

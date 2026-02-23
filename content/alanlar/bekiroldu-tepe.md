@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bekir%C3%B6ld%C3%BC%20Tepe","alt":"Bekiröldü Tepe","caption":"Bekiröldü Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Bekiröldü Tepe","caption":"Bekiröldü Tepe","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bekir%C3%B6ld%C3%BC%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32133505","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin başında gelen Bekiröldü Tepe, ziyaretçilerini etkileyen bir doğa harikası."
 keywords: ["Bekiröldü Tepe","İç Anadolu Bölgesi","doğa","gezi","turizm","tepe","manzara","çevre","eko-turizm"]

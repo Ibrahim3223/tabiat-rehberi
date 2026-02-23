@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi araştırma","Doğa yürüyüşü","Fotografcılık","Kültürel keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aksaray%20K%C4%B1l%C4%B1%C3%A7%20Arslan%20K%C3%BCmbeti","alt":"Aksaray Kılıç Arslan Kümbeti","caption":"Aksaray Kılıç Arslan Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Aksaray Kılıç Arslan Kümbeti","caption":"Aksaray Kılıç Arslan Kümbeti","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aksaray%20K%C4%B1l%C4%B1%C3%A7%20Arslan%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582383","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin tarihi hazinesi Aksaray Kılıç Arslan Kümbeti, önemli bir kültür mirası."
 keywords: ["Aksaray","Kılıç Arslan Kümbeti","İç Anadolu Bölgesi","tarih","kültür mirası","gezi","turizm","anıtlar","mimari"]

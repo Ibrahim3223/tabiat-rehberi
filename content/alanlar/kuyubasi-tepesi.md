@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuyuba%C5%9F%C4%B1%20Tepesi","alt":"Kuyubaşı Tepesi","caption":"Kuyubaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf/page1-960px-State_2009-01-_Iss_530_%28IA_sim_state-magazine_2009-01_530%29.pdf.jpg","alt":"Kuyubaşı Tepesi","caption":"Kuyubaşı Tepesi","credit":"State 2009-01- Iss 530 (IA sim state-magazine 2009-01 530).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyuba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558483","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Kuyubaşı Tepesi, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu tepe, doğa severlerin ilgisini çeken bir destinasyon olarak bilinir."
 keywords: ["Kuyubaşı Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","ekoloji"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCp%20Da%C4%9F%C4%B1%20(Hakkari)","alt":"Küp Dağı (Hakkari)","caption":"Küp Dağı (Hakkari)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Küp Dağı","caption":"Küp Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCp%20Da%C4%9F%C4%B1%20(Hakkari)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042815","tip":"genel"}]
 description: "Hakkari'nin önemli dağlarından biri olan Küp Dağı, doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Küp Dağı","Hakkari","Dağ","Trekking","Doğa","Gezi","Seyahat","Turizm","Hakkari Turistik Yerler"]

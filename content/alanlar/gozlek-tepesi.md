@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6zlek%20Tepesi","alt":"Gözlek Tepesi","caption":"Gözlek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf/page1-960px-A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf.jpg","alt":"Gözlek Tepesi","caption":"Gözlek Tepesi","credit":"A novel environmental restoration method for an abandoned limestone quarry with a deep open pit and steep palisades - a case study.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6zlek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138684","tip":"genel"}]
 description: "Hatay'da yer alan Gözlek Tepesi, 140 hektarlık geniş arazisiyle yaklaşık 200 futbol sahası büyüklüğünde bir alan sunar."
 keywords: ["Gözlek Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","gezi","tarihçe","coğrafya"]

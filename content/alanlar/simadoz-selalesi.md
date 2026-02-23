@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eimadoz%20%C5%9Eelalesi","alt":"Şimadoz Şelalesi","caption":"Şimadoz Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Chambers%27s_encyclopaedia%3B_a_dictionary_of_universal_knowledge_%28IA_chambersencyclop10lond%29.pdf/page1-877px-Chambers%27s_encyclopaedia%3B_a_dictionary_of_universal_knowledge_%28IA_chambersencyclop10lond%29.pdf.jpg","alt":"Şimadoz Şelalesi","caption":"Şimadoz Şelalesi","credit":"Chambers's encyclopaedia; a dictionary of universal knowledge (IA chambersencyclop10lond).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eimadoz%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130366621","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin, Şimadoz Şelalesi'ni ziyaret edin ve muhteşem manzaraları görün"
 keywords: ["Şimadoz Şelalesi","Rize","Karadeniz Bölgesi","doğal güzellikler","şelale","turizm","gezi"]

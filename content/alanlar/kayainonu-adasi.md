@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kayain%C3%B6n%C3%BC%20Adas%C4%B1","alt":"Kayainönü Adası","caption":"Kayainönü Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%D0%AD%D0%B3%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5-05.JPG/960px-%D0%AD%D0%B3%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5-05.JPG","alt":"Kayainönü Adası","caption":"Kayainönü Adası","credit":"Эгейское море-05.JPG","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayain%C3%B6n%C3%BC%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49645620","tip":"genel"}]
 description: "Balıkesir'de bulunan Kayainönü Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kayainönü Adası","Balıkesir","ada","doğal alan","yeşil cennet","turizm","gezi","seyahat","Balıkesir adaları"]

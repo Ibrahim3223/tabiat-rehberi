@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C4%9F%C4%B1lg%C3%BCney%20Tepesi","alt":"Ağılgüney Tepesi","caption":"Ağılgüney Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf/page1-804px-David_George_Hogarth._Accidents_of_an_antiquary%27s_life._1910.pdf.jpg","alt":"Ağılgüney Tepesi","caption":"Ağılgüney Tepesi","credit":"David George Hogarth. Accidents of an antiquary's life. 1910.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9F%C4%B1lg%C3%BCney%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32131444","tip":"genel"}]
 description: "Sivas'ta bulunan Ağılgüney Tepesi, doğa severlerin ilgi odağı"
 keywords: ["Ağılgüney Tepesi","Sivas","İç Anadolu Bölgesi","doğa","tepe","gezilecek yerler","turizm","coğrafya"]

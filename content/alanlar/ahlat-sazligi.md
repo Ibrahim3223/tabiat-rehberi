@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ahlat%20Sazl%C4%B1%C4%9F%C4%B1","alt":"Ahlat Sazlığı","caption":"Ahlat Sazlığı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Ahlat Sazlığı","caption":"Ahlat Sazlığı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahlat%20Sazl%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228831","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan natuur alanı"
 keywords: ["Ahlat Sazlığı","İç Anadolu Bölgesi","doğa","sazlık","korunan alan"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Bölgenin flora ve faunasını keşfetmek","Çevredeki tepeler ve vadileri keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaygusuz%20Abdal%20T%C3%BCrbesi","alt":"Kaygusuz Abdal Türbesi","caption":"Kaygusuz Abdal Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/State_1986-03-_Iss_287_%28IA_sim_state-magazine_1986-03_287%29.pdf/page1-960px-State_1986-03-_Iss_287_%28IA_sim_state-magazine_1986-03_287%29.pdf.jpg","alt":"Kaygusuz Abdal Türbesi","caption":"Kaygusuz Abdal Türbesi","credit":"State 1986-03- Iss 287 (IA sim state-magazine 1986-03 287).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaygusuz%20Abdal%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391614","tip":"genel"}]
 description: "Ankara'nın Beypazarı ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Kaygusuz Abdal","Türbe","Beypazarı","Ankara","Doğal güzellik","Tarihi mekan","İç Anadolu Bölgesi","Turizm"]

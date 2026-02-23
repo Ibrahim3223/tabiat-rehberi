@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0ncirli%20Adas%C4%B1%20(%C3%87anakkale)","alt":"İncirli Adası (Çanakkale)","caption":"İncirli Adası (Çanakkale)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"İncirli Adası","caption":"İncirli Adası","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncirli%20Adas%C4%B1%20(%C3%87anakkale)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34795613","tip":"genel"}]
 description: "Çanakkale'nin güzide adalarından biri olan İncirli Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["İncirli Adası","Çanakkale","ada","doğa","tarih","gezi","seyahat","turizm","Çanakkale adaları"]

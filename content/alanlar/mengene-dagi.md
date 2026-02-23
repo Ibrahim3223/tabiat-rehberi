@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mengene%20Da%C4%9F%C4%B1","alt":"Mengene Dağı","caption":"Mengene Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rocky_Mountain_adventures_%28IA_rockymountainadv00shelrich%29.pdf/page1-804px-Rocky_Mountain_adventures_%28IA_rockymountainadv00shelrich%29.pdf.jpg","alt":"Mengene Dağı","caption":"Mengene Dağı","credit":"Rocky Mountain adventures (IA rockymountainadv00shelrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mengene%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510703","tip":"genel"}]
 description: "Van'da yer alan Mengene Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin uğrak noktası"
 keywords: ["Mengene Dağı","Van","Doğa","Dağ","Trekking","Kamp","Doğa Yürüyüşü","Van Gezilecek Yerler","Mengene Dağı Trekking"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Daztepe","alt":"Daztepe","caption":"Daztepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Daztepe","caption":"Daztepe","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Daztepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385881","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden Siirt'te bulunan Daztepe, coğrafi güzelliği ve tarihi önemi ile dikkat çekmektedir."
 keywords: ["Daztepe","Siirt","Güneydoğu Anadolu Bölgesi","coğrafya","tarih","doğa","gezi","turizm"]

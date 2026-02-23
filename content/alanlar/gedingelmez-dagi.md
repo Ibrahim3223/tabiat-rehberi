@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gedingelmez%20Da%C4%9F%C4%B1","alt":"Gedingelmez Dağı","caption":"Gedingelmez Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Gedingelmez Dağı","caption":"Gedingelmez Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gedingelmez%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31584425","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, Gedingelmez Dağı'nın eşsiz manzaralarına hayran kalın."
 keywords: ["Gedingelmez Dağı","Mersin","Dağ","Doğa","Turizm","Gezi","Mersin Gezilecek Yerler","Dağ Turizmi","Mersin Doğal Alanlar"]

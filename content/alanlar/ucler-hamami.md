@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşleri","tarihî eserleri gezme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9C%C3%A7ler%20Hamam%C4%B1","alt":"Üçler Hamamı","caption":"Üçler Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Üçler Hamamı","caption":"Üçler Hamamı","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7ler%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739218","tip":"genel"}]
 description: "Fatih'in tarihi plajı, İstanbul'un Marmara Bölgesi'nde yer alır."
 keywords: ["Üçler Hamamı","Fatih","İstanbul","Marmara Bölgesi","plaj","tarih","coğrafya","doğa"]

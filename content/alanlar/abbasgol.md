@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Abbasg%C3%B6l","alt":"Abbasgöl","caption":"Abbasgöl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_National_geographic_magazine_%28IA_nationalgeograp361919nati%29.pdf/page1-960px-The_National_geographic_magazine_%28IA_nationalgeograp361919nati%29.pdf.jpg","alt":"Abbasgöl","caption":"Abbasgöl","credit":"The National geographic magazine (IA nationalgeograp361919nati).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abbasg%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20514762","tip":"genel"}]
 description: "Iğdır'ın Tuzluca ilçesinde yer alan Abbasgöl, doğal güzellikleri ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Abbasgöl","Iğdır","Tuzluca","göl","doğal alan","yeşil cennet","turizm","gezi","Iğdır gezilecek yerler","Tuzluca turizm"]

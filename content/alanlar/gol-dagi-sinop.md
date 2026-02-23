@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6l%20Da%C4%9F%C4%B1%20(Sinop)","alt":"Göl Dağı (Sinop)","caption":"Göl Dağı (Sinop)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Göl Dağı (Sinop)","caption":"Göl Dağı (Sinop)","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6l%20Da%C4%9F%C4%B1%20(Sinop)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872360","tip":"genel"}]
 description: "Sinop'ta yer alan Göl Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Göl Dağı","Sinop","Dağ","Doğa","Trekking","Yeşil Alan","Sinop Turizm","Göl Dağı Trekking","Sinop Doğal Güzellikler"]

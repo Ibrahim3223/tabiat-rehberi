@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hazine%20Da%C4%9F%C4%B1","alt":"Hazine Dağı","caption":"Hazine Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Hazine Dağı","caption":"Hazine Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hazine%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520855","tip":"genel"}]
 description: "Diyarbakır'da yer alan Hazine Dağı, 1200 hektarlık yeşil alanı ile şehrin önemli doğal güzelliklerinden biri"
 keywords: ["Hazine Dağı","Diyarbakır","doğal güzellikler","dağ","yeşil alan","turizm","gezi","Diyarbakır gezilecek yerler","Hazine Dağı hakkında"]

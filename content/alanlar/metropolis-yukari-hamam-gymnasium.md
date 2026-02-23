@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Photografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Metropolis%20Yukar%C4%B1%20Hamam%20Gymnasium","alt":"Metropolis Yukarı Hamam Gymnasium","caption":"Metropolis Yukarı Hamam Gymnasium"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg","alt":"Metropolis Yukarı Hamam Gymnasium","caption":"Metropolis Yukarı Hamam Gymnasium","credit":"Süzer Sun Dreams Beach 13 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Metropolis%20Yukar%C4%B1%20Hamam%20Gymnasium","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738911","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide şehri İzmir'in Torbalı ilçesinde yer alan Metropolis Yukarı Hamam Gymnasium, ziyaretçiler için keyifli bir atmosfer sunuyor."
 keywords: ["Metropolis Yukarı Hamam Gymnasium","İzmir","Torbalı","Ege Bölgesi","plaj","deniz","kumsal"]

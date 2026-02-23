@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Balık avı","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=BITLIS%20ILI%20AHLAT%20IL%C3%87ESI%20NAZIK%20G%C3%96L%C3%9C%20DOGAL%20SIT%20ALANI","alt":"BITLIS ILI AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI","caption":"BITLIS ILI AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"BITLIS ILI AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI","caption":"BITLIS ILI AHLAT ILÇESI NAZIK GÖLÜ DOGAL SIT ALANI","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BITLIS%20ILI%20AHLAT%20IL%C3%87ESI%20NAZIK%20G%C3%96L%C3%9C%20DOGAL%20SIT%20ALANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228967","tip":"genel"}]
 description: "Bitlis ili Ahlat ilçesinde yer alan Nazik Gölü Doğal Sit Alanı, yaklaşık 140 hektarlık bir alanı kaplar. Bu alan, aynı zamanda yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Nazik Gölü","Doğal Sit Alanı","Bitlis","Ahlat","Doğa","Turizm","Göl","Doğal Alan"]

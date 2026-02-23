@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Anamur-Abanoz%20Sedir%202","alt":"Mersin-Anamur-Abanoz Sedir 2","caption":"Mersin-Anamur-Abanoz Sedir 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kad%C4%B1nc%C4%B1k_Valley_4.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_4.jpg","alt":"Mersin-Anamur-Abanoz Sedir 2","caption":"Mersin-Anamur-Abanoz Sedir 2","credit":"Kadıncık Valley 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Anamur-Abanoz%20Sedir%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227215","tip":"genel"}]
 description: "Mersin-Anamur-Abanoz Sedir 2 milli parkı, Akdeniz Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Mersin","Anamur","Abanoz Sedir 2","milli park","Akdeniz Bölgesi","doğa","gezi","turizm"]

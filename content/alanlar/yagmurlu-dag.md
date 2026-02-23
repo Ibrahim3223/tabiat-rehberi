@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ya%C4%9Fmurlu%20Da%C4%9F","alt":"Yağmurlu Dağ","caption":"Yağmurlu Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf/page1-820px-Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf.jpg","alt":"Yağmurlu Dağ","caption":"Yağmurlu Dağ","credit":"Travels In The Trans-Caucasian Provinces Of Russia (IA TravelsInTheTransCaucasianProvincesOfRussia).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ya%C4%9Fmurlu%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560308","tip":"genel"}]
 description: "Kars'ta yer alan Yağmurlu Dağ, 1200 hektarlık yeşil cenneti ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Yağmurlu Dağ","Kars","Doğa","Dağ","Yeşil Alan","Turizm","Gezi","Kars Turistik Yerler","Doğal Güzellik"]

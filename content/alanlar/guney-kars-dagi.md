@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCney%20(Kars%20Da%C4%9F%C4%B1)","alt":"Güney (Kars Dağı)","caption":"Güney (Kars Dağı)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf/page1-820px-Travels_In_The_Trans-Caucasian_Provinces_Of_Russia_%28IA_TravelsInTheTransCaucasianProvincesOfRussia%29.pdf.jpg","alt":"Güney (Kars Dağı)","caption":"Güney (Kars Dağı)","credit":"Travels In The Trans-Caucasian Provinces Of Russia (IA TravelsInTheTransCaucasianProvincesOfRussia).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCney%20(Kars%20Da%C4%9F%C4%B1)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21210913","tip":"genel"}]
 description: "Kars'ın görkemli dağlarından biri olan Güney (Kars Dağı), 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kars Dağı","Güney","Dağ","Kars","Doğa","Turizm","Gezi","Yürüyüş","Kars'ın Görkemli Dağları"]

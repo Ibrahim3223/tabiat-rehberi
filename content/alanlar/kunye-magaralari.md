@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCnye%20Ma%C4%9Faralar%C4%B1","alt":"Künye Mağaraları","caption":"Künye Mağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Künye Mağaraları","caption":"Künye Mağaraları","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCnye%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319406","tip":"genel"}]
 description: "Kayseri'de yer alan Künye Mağaraları, 1200 hektarlık yeşil cennet ve jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Künye Mağaraları","Kayseri","Jeopark","Doğa","Mağara","Turizm","Gezi","Kayseri Turistik Yerler","Jeolojik Oluşumlar"]

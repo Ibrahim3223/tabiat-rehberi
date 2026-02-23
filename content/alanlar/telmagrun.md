@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Tarihî kalıntıları keşfetme","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Telma%C4%9Frun","alt":"Telmağrun","caption":"Telmağrun"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Siverek.jpg/960px-Siverek.jpg","alt":"Telmağrun","caption":"Telmağrun","credit":"Siverek.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Telma%C4%9Frun","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386623","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Şanlıurfa'nın gizli güzelliği"
 keywords: ["Şanlıurfa","Güneydoğu Anadolu Bölgesi","Telmağrun","tepe","doğa","gezi","tarih"]

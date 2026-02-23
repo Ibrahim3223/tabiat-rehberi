@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Yüzme","Güneşlenme","Dalış","Yürüyüş","Tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Anonim%20T%C3%BCrbe%203","alt":"Anonim Türbe 3","caption":"Anonim Türbe 3"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Anonim Türbe 3","caption":"Anonim Türbe 3","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20T%C3%BCrbe%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391535","tip":"genel"}]
 description: "Muğla'nın Milas ilçesinde yer alan Anonim Türbe 3, Ege Bölgesi'nin en güzel plajlarından biri"
 keywords: ["Anonim Türbe 3","Milas","Muğla","Ege Bölgesi","plaj","deniz","turizm"]

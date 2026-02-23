@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihi kalıntıları gezme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Devebeli%20Tepe","alt":"Devebeli Tepe","caption":"Devebeli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Devebeli Tepe","caption":"Devebeli Tepe","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Devebeli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390433","tip":"genel"}]
 description: "Konya'nın tarihi ve coğrafi olarak önemli bir bölgesi olan Devebeli Tepe, ziyaretçilerini bekliyor."
 keywords: ["Devebeli Tepe","Konya","İç Anadolu Bölgesi","tarih","coğrafya","doğa","gezi"]

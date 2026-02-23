@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","plaj aktivitelerı","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hepkebirler%20T%C3%BCrbesi","alt":"Hepkebirler Türbesi","caption":"Hepkebirler Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Hepkebirler Türbesi","caption":"Hepkebirler Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hepkebirler%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390534","tip":"genel"}]
 description: "Kastamonu ilinin merkezinde bulunan tarihi bir türbe ve plaj alanı"
 keywords: ["Kastamonu","tarih","türbe","plaj","Karadeniz","gezi","turizm"]

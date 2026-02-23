@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşleri","Kuş Gözlemciliği","Vahşi Yaşamın İzlenmesi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karkam%C4%B1%C5%9F%20Ta%C5%9Fk%C4%B1n%20Ovas%C4%B1%20Sulak%20Alan%C4%B1","alt":"Karkamış Taşkın Ovası Sulak Alanı","caption":"Karkamış Taşkın Ovası Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Karkamış Taşkın Ovası Sulak Alanı","caption":"Karkamış Taşkın Ovası Sulak Alanı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karkam%C4%B1%C5%9F%20Ta%C5%9Fk%C4%B1n%20Ovas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q107136461","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Karkamış Taşkın Ovası Sulak Alanı, 1200 hektarlık bir alanı kaplar."
 keywords: ["Karkamış Taşkın Ovası Sulak Alanı","Gaziantep","Güneydoğu Anadolu Bölgesi","Sulak Alan","Doğal Güzellik","Korunan Alan","Vahşi Yaşam","Turizm","Doğa"]

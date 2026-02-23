@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","kış sporları","doğa yürüyüşü","panoramik view"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Baz%C4%B1da%C4%9F%C4%B1%20Tepesi","alt":"Bazıdağı Tepesi","caption":"Bazıdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rattler_%281913%29_%28IA_rattler191305rale%29.pdf/page1-960px-Rattler_%281913%29_%28IA_rattler191305rale%29.pdf.jpg","alt":"Bazıdağı Tepesi","caption":"Bazıdağı Tepesi","credit":"Rattler (1913) (IA rattler191305rale).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Baz%C4%B1da%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386012","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide mekanlarından biri olan Bazıdağı Tepesi, Van'ın doğal güzelliklerini sunar."
 keywords: ["Doğu Anadolu Bölgesi","Van","Bazıdağı Tepesi","doğal güzellik","tepe","gezi","tarihçe","coğrafya"]

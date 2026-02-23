@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","doğa yürüyüşü yapmak","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zeytinlik%20Camii","alt":"Zeytinlik Camii","caption":"Zeytinlik Camii"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/The_thrones_and_palaces_of_Babylon_and_Ninevah_from_sea_to_sea%3B_a_thousand_miles_on_horseback_.._%28IA_thronespalacesof00newm%29.pdf/page1-822px-The_thrones_and_palaces_of_Babylon_and_Ninevah_from_sea_to_sea%3B_a_thousand_miles_on_horseback_.._%28IA_thronespalacesof00newm%29.pdf.jpg","alt":"Zeytinlik Camii","caption":"Zeytinlik Camii","credit":"The thrones and palaces of Babylon and Ninevah from sea to sea; a thousand miles on horseback .. (IA thronespalacesof00newm).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeytinlik%20Camii","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135512221","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, Zeytinlik Camii"
 keywords: ["İç Anadolu Bölgesi","Zeytinlik Camii","doğal güzellik","tarih","coğrafya","flora","fauna","ziyaret"]

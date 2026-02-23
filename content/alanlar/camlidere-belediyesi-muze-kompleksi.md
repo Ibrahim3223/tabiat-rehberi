@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe keşfi","Doğa yürüyüşü","Müze gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87aml%C4%B1dere%20Belediyesi%20M%C3%BCze%20Kompleksi","alt":"Çamlıdere Belediyesi Müze Kompleksi","caption":"Çamlıdere Belediyesi Müze Kompleksi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WHERE_IS_TURKEY_HEADED%3F_GEZI_PARK%2C_TAKSIM_SQUARE%2C_AND_THE_FUTURE_OF_THE_TURKISH_MODEL_%28IA_gov.gpo.fdsys.CHRG-113shrg86350%29.pdf/page1-960px-WHERE_IS_TURKEY_HEADED%3F_GEZI_PARK%2C_TAKSIM_SQUARE%2C_AND_THE_FUTURE_OF_THE_TURKISH_MODEL_%28IA_gov.gpo.fdsys.CHRG-113shrg86350%29.pdf.jpg","alt":"Çamlıdere Belediyesi Müze Kompleksi","caption":"Çamlıdere Belediyesi Müze Kompleksi","credit":"WHERE IS TURKEY HEADED? GEZI PARK, TAKSIM SQUARE, AND THE FUTURE OF THE TURKISH MODEL (IA gov.gpo.fdsys.CHRG-113shrg86350).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1dere%20Belediyesi%20M%C3%BCze%20Kompleksi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950133","tip":"genel"}]
 description: "İstanbul'un doğal güzellikleri içinde yer alan Çamlıdere Belediyesi Müze Kompleksi, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle karşılar."
 keywords: ["İstanbul","Marmara Bölgesi","Çamlıdere","Müze","Kompleks","Doğa","Tarih","Kültür"]

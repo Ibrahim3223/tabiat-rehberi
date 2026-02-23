@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Konya-Bey%C5%9Fehir-Kurucuova%20Karacam","alt":"Konya-Beyşehir-Kurucuova Karacam","caption":"Konya-Beyşehir-Kurucuova Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wle-jury-report-2020-lores.pdf/page1-960px-Wle-jury-report-2020-lores.pdf.jpg","alt":"Konya-Beyşehir-Kurucuova Karacam","caption":"Konya-Beyşehir-Kurucuova Karacam","credit":"Wle-jury-report-2020-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Bey%C5%9Fehir-Kurucuova%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227524","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin. Beyşehir ve Kurucuova arasındaki milli park."
 keywords: ["Konya","Beyşehir","Kurucuova","milli park","doğa","gezi","turizm","Konya-Beyşehir-Kurucuova Karacam"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurudere%20Tepesi","alt":"Kurudere Tepesi","caption":"Kurudere Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Kurudere Tepesi","caption":"Kurudere Tepesi","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurudere%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385570","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Niğde'de yer alan Kurudere Tepesi"
 keywords: ["Kurudere Tepesi","Niğde","İç Anadolu Bölgesi","tepe","doğa","gezi","tarihçe","coğrafya"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","vadi geçişi","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artvin-Borcka-Borcka-Saricam","alt":"Artvin-Borcka-Borcka-Saricam","caption":"Artvin-Borcka-Borcka-Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bentley%27s_Miscellany_1856-01-_Vol_39_%28IA_sim_bentleys-miscellany_1856-01_39%29.pdf/page1-812px-Bentley%27s_Miscellany_1856-01-_Vol_39_%28IA_sim_bentleys-miscellany_1856-01_39%29.pdf.jpg","alt":"Artvin-Borcka-Borcka-Saricam","caption":"Artvin-Borcka-Borcka-Saricam","credit":"Bentley's Miscellany 1856-01- Vol 39 (IA sim bentleys-miscellany 1856-01 39).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Borcka-Borcka-Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228554","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Artvin'in Borcka ilçesinde yer alan milli park."
 keywords: ["Artvin","Borcka","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","hayvan izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara-Ankara-Bala-Kara%C3%A7am","alt":"Ankara-Ankara-Bala-Karaçam","caption":"Ankara-Ankara-Bala-Karaçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TURKEY-_POLITICAL_TRENDS_IN_2016_%28IA_gov.gpo.fdsys.CHRG-114hhrg98485%29.pdf/page1-960px-TURKEY-_POLITICAL_TRENDS_IN_2016_%28IA_gov.gpo.fdsys.CHRG-114hhrg98485%29.pdf.jpg","alt":"Ankara-Ankara-Bala-Karaçam","caption":"Ankara-Ankara-Bala-Karaçam","credit":"TURKEY- POLITICAL TRENDS IN 2016 (IA gov.gpo.fdsys.CHRG-114hhrg98485).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Ankara-Bala-Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228255","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Ankara'nın doğal güzellikleri"
 keywords: ["Ankara","milli park","doğa","gezi","turizm","çevre","ekosistem","flora","fauna","gezgin"]

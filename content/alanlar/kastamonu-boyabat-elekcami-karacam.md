@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Boyabat-Elekcami%20Karacam","alt":"Kastamonu-Boyabat-Elekcami Karacam","caption":"Kastamonu-Boyabat-Elekcami Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kastamonu-Boyabat-Elekcami Karacam","caption":"Kastamonu-Boyabat-Elekcami Karacam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Boyabat-Elekcami%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227826","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin, 140 hektarlık milli parkta yürüyüş ve doğa gözlemi yapın."
 keywords: ["Kastamonu","milli park","doğa","yürüyüş","gözlem","Karadeniz Bölgesi","boyabat","elekcami","karacam"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6zmen%20K%C3%B6y%C3%BC%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Sivas","alt":"Gözmen Köyü Tümülüsü, Sivas","caption":"Gözmen Köyü Tümülüsü, Sivas"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Turkey%2C_Greece_and_Malta_%28IA_b29325146_0002%29.pdf/page1-960px-Turkey%2C_Greece_and_Malta_%28IA_b29325146_0002%29.pdf.jpg","alt":"Gözmen Köyü Tümülüsü, Sivas","caption":"Gözmen Köyü Tümülüsü, Sivas","credit":"Turkey, Greece and Malta (IA b29325146 0002).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6zmen%20K%C3%B6y%C3%BC%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Sivas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728409","tip":"genel"}]
 description: "Sivas'ın tarih dolu topraklarında yer alan Gözmen Köyü Tümülüsü, ziyaretçiler için önemli bir kültürel merkez"
 keywords: ["Gözmen Köyü","Sivas","tarih","kültür","tümülüs","Sivas tarihi","arkeoloji","turizm","gezi"]

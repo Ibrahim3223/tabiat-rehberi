@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş Gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kavakl%C4%B1koz%20Da%C4%9F%C4%B1","alt":"Kavaklıkoz Dağı","caption":"Kavaklıkoz Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Kavaklıkoz Dağı","caption":"Kavaklıkoz Dağı","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavakl%C4%B1koz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516474","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin, Kavaklıkoz Dağı'nın büyüleyici manzaralarına hayran kalın"
 keywords: ["Kavaklıkoz Dağı","Konya","Dağ","Doğa","Turizm","Gezi","Konya gezilecek yerler","Dağ turizmi","Kavaklıkoz"]

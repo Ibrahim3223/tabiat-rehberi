@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Plaj aktiviteleri","Doğa yürüyüşleri","Göl gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Muslihittin%20T%C3%BCrbesi","alt":"Şeyh Muslihittin Türbesi","caption":"Şeyh Muslihittin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Şeyh Muslihittin Türbesi","caption":"Şeyh Muslihittin Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muslihittin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582631","tip":"genel"}]
 description: "Eğirdir'de bulunan tarihi türbe ve plaj, Akdeniz Bölgesi'nin önemli noktalarından biri"
 keywords: ["Eğirdir","Isparta","Akdeniz Bölgesi","Türbe","Plaj","Tarih","Kültür"]

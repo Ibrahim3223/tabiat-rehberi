@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6z%20Adas%C4%B1","alt":"Göz Adası","caption":"Göz Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Kianida_Island_or_Cianeis_Insula.png","alt":"Göz Adası","caption":"Göz Adası","credit":"Kianida Island or Cianeis Insula.png","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6z%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49640081","tip":"genel"}]
 description: "Balıkesir'de yer alan Göz Adası, 1200 hektarlık yeşil cenneti ile doğa severlerin gözdesi."
 keywords: ["Göz Adası","Balıkesir","ada","doğa","yeşil alan","turizm","gezi","seyahat","deniz"]

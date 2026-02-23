@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gora%20Sinek","alt":"Gora Sinek","caption":"Gora Sinek"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Gora Sinek","caption":"Gora Sinek","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Sinek","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386556","tip":"genel"}]
 description: "Türkiye'de bulunan Gora Sinek dağı, doğa severler için keyifli bir destinasyon"
 keywords: ["Gora Sinek","Dağ","Türkiye","Doğa","Seyahat","Gezi","Türkiye'nin dağları","Dağcılık","Doğa yürüyüşü"]

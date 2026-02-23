@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","doğa gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Filibeli%20Tevfik%20Mehmet%20T%C3%BCrbesi","alt":"Filibeli Tevfik Mehmet Türbesi","caption":"Filibeli Tevfik Mehmet Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/IA_Query_%22sponsor-%28Sloan%29_date-%281000_TO_1925%29_publisher-%28%28New_York%29_OR_Chicago_OR_Jersey_OR_Illan%29%22_%28IA_firstsettlersofv00davi%29.pdf/page1-683px-IA_Query_%22sponsor-%28Sloan%29_date-%281000_TO_1925%29_publisher-%28%28New_York%29_OR_Chicago_OR_Jersey_OR_Illan%29%22_%28IA_firstsettlersofv00davi%29.pdf.jpg","alt":"Filibeli Tevfik Mehmet Türbesi","caption":"Filibeli Tevfik Mehmet Türbesi","credit":"IA Query \"sponsor-(Sloan) date-(1000 TO 1925) publisher-((New York) OR Chicago OR Jersey OR Illan)\" (IA firstsettlersofv00davi).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Filibeli%20Tevfik%20Mehmet%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390719","tip":"genel"}]
 description: "Bolu'nun Mudurnu ilçesinde yer alan Filibeli Tevfik Mehmet Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor. Karadeniz Bölgesi'nin önemli dini ziyaret noktalarından biri."
 keywords: ["Filibeli Tevfik Mehmet Türbesi","Mudurnu","Bolu","Karadeniz Bölgesi","tarihi mekanlar","dinî ziyaret noktaları"]

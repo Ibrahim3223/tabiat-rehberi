@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","plaj","deniz sporları","yürüyüş","doğa gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nedime%20Han%C4%B1m%20T%C3%BCrbesi","alt":"Nedime Hanım Türbesi","caption":"Nedime Hanım Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Nedime Hanım Türbesi","caption":"Nedime Hanım Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nedime%20Han%C4%B1m%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391608","tip":"genel"}]
 description: "Çanakkale'de bulunan tarihi türbe ve plaj alanı"
 keywords: ["Nedime Hanım Türbesi","Çanakkale","tarih","plaj","turizm","gezi","tarihçe","coğrafya","flora","fauna"]

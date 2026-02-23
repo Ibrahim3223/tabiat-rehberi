@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gedelme%20%C3%87%C4%B1nar%C4%B1","alt":"Gedelme Çınarı","caption":"Gedelme Çınarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf/page1-960px-Report_of_the_Forest_Service_%28IA_CAT82764216021%29.pdf.jpg","alt":"Gedelme Çınarı","caption":"Gedelme Çınarı","credit":"Report of the Forest Service (IA CAT82764216021).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gedelme%20%C3%87%C4%B1nar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Antalya'nın doğal güzelliğini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Antalya","doğal güzellik","Gedelme Çınarı","tabiat anıtı","çınar ağacı","Akdeniz Bölgesi","turizm","gezi"]

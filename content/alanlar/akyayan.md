@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akyayan","alt":"Akyayan","caption":"Akyayan"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lake_Limni_Nature_Park_entrance.jpg/960px-Lake_Limni_Nature_Park_entrance.jpg","alt":"Akyayan","caption":"Akyayan","credit":"Lake Limni Nature Park entrance.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akyayan","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135121406","tip":"genel"}]
 description: "Türkiye'de bulunan Akyayan Gölü, 1200 hektarlık yeşil cenneti ile dikkat çekiyor."
 keywords: ["Akyayan Gölü","Türkiye gölleri","doğal alanlar","gol","Akyayan","Türkiye turizmi","göl gezi","doğa yürüyüşü","Türkiye'nin güzide yerleri"]

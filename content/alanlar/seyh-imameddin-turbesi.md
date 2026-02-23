@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih keşfi","Doğa yürüyüşü","Fotoğraf çekimi","Kültürel gözlem"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20%C4%B0mameddin%20T%C3%BCrbesi","alt":"Şeyh İmameddin Türbesi","caption":"Şeyh İmameddin Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_Auk_%28IA_auk1898amer%29.pdf/page1-847px-The_Auk_%28IA_auk1898amer%29.pdf.jpg","alt":"Şeyh İmameddin Türbesi","caption":"Şeyh İmameddin Türbesi","credit":"The Auk (IA auk1898amer).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C4%B0mameddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582875","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan tarihi bir mekan"
 keywords: ["Mardin","Artuklu","Türbe","Tarih","Coğrafya","Doğa","Gezi","Kültür"]

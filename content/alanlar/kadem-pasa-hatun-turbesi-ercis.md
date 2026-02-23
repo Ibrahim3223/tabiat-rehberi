@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe hakkında bilgi edinme","mimari özellikleri inceleme","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kadem%20Pa%C5%9Fa%20Hatun%20T%C3%BCrbesi%2C%20Erci%C5%9F","alt":"Kadem Paşa Hatun Türbesi, Erciş","caption":"Kadem Paşa Hatun Türbesi, Erciş"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Huntington_Beach_News_-_1918-01-04_%28IA_castaoca_000336%29.pdf/page1-960px-Huntington_Beach_News_-_1918-01-04_%28IA_castaoca_000336%29.pdf.jpg","alt":"Kadem Paşa Hatun Türbesi, Erciş","caption":"Kadem Paşa Hatun Türbesi, Erciş","credit":"Huntington Beach News - 1918-01-04 (IA castaoca 000336).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kadem%20Pa%C5%9Fa%20Hatun%20T%C3%BCrbesi%2C%20Erci%C5%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582809","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde tarihi bir değer olan Kadem Paşa Hatun Türbesi, Erciş'in önemli turistik noktalarından biri."
 keywords: ["Kadem Paşa Hatun Türbesi","Erciş","Van","Doğu Anadolu Bölgesi","tarihi mekanlar","turbeler","kültürel miras"]

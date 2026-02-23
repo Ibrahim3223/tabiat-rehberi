@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Canakkale-Umurbey%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Canakkale-Umurbey Kızılçam","caption":"Canakkale-Umurbey Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Canakkale-Umurbey Kızılçam","caption":"Canakkale-Umurbey Kızılçam","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Umurbey%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227643","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşillendirilmiş cenneti, 200 futbol sahası büyüklüğünde"
 keywords: ["Canakkale","Umurbey","Kızılçam","milli park","İç Anadolu Bölgesi","yeşil alan","fiziksel yapı","iklim","çevre"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["deniz kenarında yürüyüş","bitki ve ağaçları incelemek","müze gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kamera%20M%C3%BCzesi%2C%20%C4%B0stanbul","alt":"Kamera Müzesi, İstanbul","caption":"Kamera Müzesi, İstanbul"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Kamera Müzesi, İstanbul","caption":"Kamera Müzesi, İstanbul","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kamera%20M%C3%BCzesi%2C%20%C4%B0stanbul","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61852762","tip":"genel"}]
 description: "İstanbul'un en büyük plajlarından biri olan Kamera Müzesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Kamera Müzesi","İstanbul","plaj","Marmara Bölgesi","Bakırköy","yeşil alan","deniz"]

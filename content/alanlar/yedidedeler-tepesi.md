@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yedidedeler%20Tepesi","alt":"Yedidedeler Tepesi","caption":"Yedidedeler Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/From_Southampton_to_Calcutta_%28IA_dli.granth.40161%29.pdf/page1-650px-From_Southampton_to_Calcutta_%28IA_dli.granth.40161%29.pdf.jpg","alt":"Yedidedeler Tepesi","caption":"Yedidedeler Tepesi","credit":"From Southampton to Calcutta (IA dli.granth.40161).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yedidedeler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389796","tip":"genel"}]
 description: "Bolu'nun doğal güzelliklerini keşfedin. Yedidedeler Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri."
 keywords: ["Yedidedeler Tepesi","Bolu","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

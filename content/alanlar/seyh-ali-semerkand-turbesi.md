@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa yürüyüşü","Tarihçe araştırması","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Ali%20Semerkand%C3%AE%20T%C3%BCrbesi","alt":"Şeyh Ali Semerkandî Türbesi","caption":"Şeyh Ali Semerkandî Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Catalog_of_Copyright_Entries_1941_Music_New_Series_Vol_36_Pt_3_%28IA_catalogofcopyrig363libr%29.pdf/page1-810px-Catalog_of_Copyright_Entries_1941_Music_New_Series_Vol_36_Pt_3_%28IA_catalogofcopyrig363libr%29.pdf.jpg","alt":"Şeyh Ali Semerkandî Türbesi","caption":"Şeyh Ali Semerkandî Türbesi","credit":"Catalog of Copyright Entries 1941 Music New Series Vol 36 Pt 3 (IA catalogofcopyrig363libr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Ali%20Semerkand%C3%AE%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390671","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli bir incisi, Ankara'nın Çamlıdere ilçesinde bulunan Şeyh Ali Semerkandî Türbesi"
 keywords: ["Şeyh Ali Semerkandî","Türbe","Çamlıdere","Ankara","İç Anadolu Bölgesi","Tarih","Doğa","Türkiye"]

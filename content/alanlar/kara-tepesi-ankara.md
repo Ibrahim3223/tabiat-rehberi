@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezmek","Doğa yürüyüşü yapmak","Manzara noktalarını ziyaret etmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kara%20Tepesi%20(Ankara)","alt":"Kara Tepesi (Ankara)","caption":"Kara Tepesi (Ankara)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf/page1-960px-Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf.jpg","alt":"Kara Tepesi (Ankara)","caption":"Kara Tepesi (Ankara)","credit":"Orienting our sights on the future - opportunities and challenges of the Arab revolts (IA orientingoursigh00amin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Tepesi%20(Ankara)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558124","tip":"genel"}]
 description: "Ankara'nın históri ve coğrafi açıdan önemli bir noktası olan Kara Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kara Tepesi","Ankara","İç Anadolu Bölgesi","tepe","coğrafya","tarih","flora","fauna","ziyaret"]

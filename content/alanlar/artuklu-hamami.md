@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi hamam gezisi","kültürel deneyim","fotograf çekimi","yerel yemekler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artuklu%20Hamam%C4%B1","alt":"Artuklu Hamamı","caption":"Artuklu Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Old_Melbourne_Memories.djvu/page1-800px-Old_Melbourne_Memories.djvu.jpg","alt":"Artuklu Hamamı","caption":"Artuklu Hamamı","credit":"Old Melbourne Memories.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artuklu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738455","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan tarihi Artuklu Hamamı, Hasankeyf'in önemli turistik noktalarından biri."
 keywords: ["Hasankeyf","Artuklu Hamamı","tarihi hamam","Güneydoğu Anadolu Bölgesi","turistik nokta","kültür varlığı","tarih","mimari"]

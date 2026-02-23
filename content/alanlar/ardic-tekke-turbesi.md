@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["doğa yürüyüşü","tarihî yerleri ziyaret","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ard%C4%B1%C3%A7%20Tekke%20T%C3%BCrbesi","alt":"Ardıç Tekke Türbesi","caption":"Ardıç Tekke Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf/page1-633px-Letters_from_the_Aegean_%28in_Two_Volumes%2C_Vol.I%29_%28IA_dli.granth.36180%29.pdf.jpg","alt":"Ardıç Tekke Türbesi","caption":"Ardıç Tekke Türbesi","credit":"Letters from the Aegean (in Two Volumes, Vol.I) (IA dli.granth.36180).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ard%C4%B1%C3%A7%20Tekke%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391578","tip":"genel"}]
 description: "Honaz'da yer alan Ardıç Tekke Türbesi, Denizli'nin tarihi ve doğal güzelliklerinin birleştiği bir nokta."
 keywords: ["Ardıç Tekke Türbesi","Honaz","Denizli","tarih","doğa","gezi","türbe","Ege Bölgesi"]

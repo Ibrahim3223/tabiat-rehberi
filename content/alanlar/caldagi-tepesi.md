@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik manzara izleme","tarihî kalıntıları keşfetme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87alda%C4%9F%C4%B1%20Tepesi","alt":"Çaldağı Tepesi","caption":"Çaldağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beyaz_Ev_-_The_White_House_-_panoramio.jpg/960px-Beyaz_Ev_-_The_White_House_-_panoramio.jpg","alt":"Çaldağı Tepesi","caption":"Çaldağı Tepesi","credit":"Beyaz Ev - The White House - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87alda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828039","tip":"genel"}]
 description: "Kırşehir'in doğal güzelliklerinin başında gelen Çaldağı Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor"
 keywords: ["Çaldağı Tepesi","Kırşehir","İç Anadolu Bölgesi","doğa","yeşil alan","tepe","coğrafya","flora","fauna"]

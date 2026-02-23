@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Bir gün"
 aktiviteler: ["Türbe ve plaj gezisi","Denizde yüzme","Güneşlenme","Yerel lezzetler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Vucudizade%20T%C3%BCrbesi","alt":"Vucudizade Türbesi","caption":"Vucudizade Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Vucudizade Türbesi","caption":"Vucudizade Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vucudizade%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391005","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi türbe ve plaj"
 keywords: ["Vucudizade Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarih","plaj","turizm","gezi","yapı"]

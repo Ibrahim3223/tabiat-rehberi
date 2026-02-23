@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0ncirli%C3%A7al%20Tepesi","alt":"İncirliçal Tepesi","caption":"İncirliçal Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"İncirliçal Tepesi","caption":"İncirliçal Tepesi","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncirli%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820802","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan İncirliçal Tepesi, şehrin merkezine yakın konumuyla dikkat çekiyor."
 keywords: ["İncirliçal Tepesi","Ankara","doğa","tepe","gezi","turizm","çevre","iklim","flora","fauna"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Tarihî Araştırma","Doğa İzleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%B6r%C3%BCk%20Ali%20Efe%20An%C4%B1t%20Mezar%C4%B1","alt":"Yörük Ali Efe Anıt Mezarı","caption":"Yörük Ali Efe Anıt Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Yörük Ali Efe Anıt Mezarı","caption":"Yörük Ali Efe Anıt Mezarı","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%B6r%C3%BCk%20Ali%20Efe%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728123","tip":"genel"}]
 description: "Ege Bölgesi'nde yer alan Yörük Ali Efe Anıt Mezarı, tarihi ve coğrafi özellikleriyle dikkat çekmektedir."
 keywords: ["Yörük Ali Efe","Aydın","Ege Bölgesi","Anıt Mezar","Tarih","Coğrafya","Doğa","Turizm"]

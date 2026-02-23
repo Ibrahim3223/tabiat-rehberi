@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Köy gezisi","Bitki gözlemi","Hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Do%C4%9Fyada%C4%9F%C4%B1%20Tepesi","alt":"Doğyadağı Tepesi","caption":"Doğyadağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Getty_Research_Institute_%28IA_gri_narrativeofa00joll%29.pdf/page1-600px-Getty_Research_Institute_%28IA_gri_narrativeofa00joll%29.pdf.jpg","alt":"Doğyadağı Tepesi","caption":"Doğyadağı Tepesi","credit":"Getty Research Institute (IA gri narrativeofa00joll).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fyada%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581193","tip":"genel"}]
 description: "Çorum'un güzide noktalarından biri olan Doğyadağı Tepesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini büyülüyor."
 keywords: ["Doğyadağı Tepesi","Çorum","Karadeniz Bölgesi","doğa","tarih","gezi","tepe","manzara","çevre","ekoloji"]

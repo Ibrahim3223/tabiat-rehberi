@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Denize girme","Güneşlenme","Doğanın güzelliğini keşfetme","Tarihin izlerini takip etme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Hasan%20ve%20Musa%20T%C3%BCrbesi","alt":"Şeyh Hasan ve Musa Türbesi","caption":"Şeyh Hasan ve Musa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf/page1-960px-Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf.jpg","alt":"Şeyh Hasan ve Musa Türbesi","caption":"Şeyh Hasan ve Musa Türbesi","credit":"Jewish - Zionist terrorism and the establishment of Israel. (IA jewishzionistter00peek).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Hasan%20ve%20Musa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391724","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin güzellikleriyle dolu bir köşesi, Şeyh Hasan ve Musa Türbesi."
 keywords: ["Şeyh Hasan ve Musa Türbesi","Akdeniz Bölgesi","Mersin","tarih","coğrafya","doğa","turizm","gezi","ziyaret"]

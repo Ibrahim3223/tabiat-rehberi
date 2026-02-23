@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","denizde yüzme","tarihî yapıları gezme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kumkale%20Kalesi%20Hamam%C4%B1","alt":"Kumkale Kalesi Hamamı","caption":"Kumkale Kalesi Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Kumkale Kalesi Hamamı","caption":"Kumkale Kalesi Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumkale%20Kalesi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245856","tip":"genel"}]
 description: "Çanakkale'de tarihi ve doğal güzelliklerin buluştuğu Kumkale Kalesi Hamamı"
 keywords: ["Kumkale Kalesi Hamamı","Çanakkale","tarih","doğa","gezi","turizm","plaj","hamam","kale"]

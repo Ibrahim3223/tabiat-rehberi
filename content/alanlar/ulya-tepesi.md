@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotografcılık","Çevre keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ulya%20Tepesi","alt":"Ulya Tepesi","caption":"Ulya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Ulya Tepesi","caption":"Ulya Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31503698","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide şehirlerinden Erzurum'da yer alan Ulya Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılamaktadır."
 keywords: ["Ulya Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğal güzellikler","Tarihi mekanlar","Ziyaret noktaları","Turizm","Gezi","Seyahat"]

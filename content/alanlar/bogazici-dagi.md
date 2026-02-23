@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bo%C4%9Fazi%C3%A7i%20Da%C4%9F%C4%B1","alt":"Boğaziçi Dağı","caption":"Boğaziçi Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf/page1-614px-Journal_of_a_tour_in_Asia_Minor_-_with_comparative_remarks_on_the_ancient_and_modern_geography_of_that_country_%28IA_gri_000033125011216732%29.pdf.jpg","alt":"Boğaziçi Dağı","caption":"Boğaziçi Dağı","credit":"Journal of a tour in Asia Minor - with comparative remarks on the ancient and modern geography of that country (IA gri 000033125011216732).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bo%C4%9Fazi%C3%A7i%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35729089","tip":"genel"}]
 description: "Burdur'un doğal güzelliklerini keşfedin, 1200 hektarlık Boğaziçi Dağı'nda doğa yürüyüşü ve kamp yapın."
 keywords: ["Boğaziçi Dağı","Burdur","doğa yürüyüşü","kamp","dağcılık","turizm","gezi","Burdur gezilecek yerler","doğal güzellikler"]

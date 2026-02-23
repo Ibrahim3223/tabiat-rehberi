@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Plaj activities","Doğa yürüyüşleri","Çevre keşfi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Deveci%20Hamam%C4%B1","alt":"Deveci Hamamı","caption":"Deveci Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Deveci Hamamı","caption":"Deveci Hamamı","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deveci%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738880","tip":"genel"}]
 description: "Kayseri'nin Melikgazi ilçesinde bulunan doğal plaj alanı"
 keywords: ["Deveci Hamamı","Kayseri","Melikgazi","doğal plaj","iç anadolu bölgesi","gezi","turizm","doğa"]

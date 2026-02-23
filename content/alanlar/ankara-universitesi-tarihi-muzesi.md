@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Bahçe turu","Sergi ziyaretleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara%20%C3%9Cniversitesi%20Tarihi%20M%C3%BCzesi","alt":"Ankara Üniversitesi Tarihi Müzesi","caption":"Ankara Üniversitesi Tarihi Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf/page1-960px-From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf.jpg","alt":"Ankara Üniversitesi Tarihi Müzesi","caption":"Ankara Üniversitesi Tarihi Müzesi","credit":"From denial to participation- Turkey's evolving discourse on Kurdish nationalism (IA fromdenialtopart1094537734).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20%C3%9Cniversitesi%20Tarihi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949983","tip":"genel"}]
 description: "Ankara Üniversitesi Tarihi Müzesi, Ankara'nın merkezinde yer alan tarihi bir müze"
 keywords: ["Ankara Üniversitesi","Tarihi Müzesi","Ankara","Müze","Tarih","Üniversite","Anıtlar","Kültür"]

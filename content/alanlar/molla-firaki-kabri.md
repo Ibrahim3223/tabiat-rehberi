@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Molla%20Firaki%20Kabri","alt":"Molla Firaki Kabri","caption":"Molla Firaki Kabri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Molla Firaki Kabri","caption":"Molla Firaki Kabri","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Molla%20Firaki%20Kabri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390896","tip":"genel"}]
 description: "Ege Bölgesi'nin Kütahya şehrinde yer alan Molla Firaki Kabri, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Molla Firaki Kabri","Kütahya","Ege Bölgesi","yeşil alan","futbol sahası"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["rehberli turlar","doğa yürüyüşleri","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sekikale%20Tepe","alt":"Sekikale Tepe","caption":"Sekikale Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf/page1-960px-FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf.jpg","alt":"Sekikale Tepe","caption":"Sekikale Tepe","credit":"FEDLINK - United States Federal Collection (IA keepingcurrentnd109453799).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sekikale%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390408","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerini keşfedin. Sekikale Tepe, İç Anadolu Bölgesi'nin wichtığı bir noktası."
 keywords: ["Konya","İç Anadolu Bölgesi","Sekikale Tepe","tarih","doğa","gezi","turizm","kültür","coğrafya"]

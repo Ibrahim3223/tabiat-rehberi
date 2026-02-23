@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6v%C3%BCk%20Tepe","alt":"Gövük Tepe","caption":"Gövük Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_agricultural_situation._A_brief_summary_of_economic_conditions_%28IA_CAT11088157437%29.pdf/page1-789px-The_agricultural_situation._A_brief_summary_of_economic_conditions_%28IA_CAT11088157437%29.pdf.jpg","alt":"Gövük Tepe","caption":"Gövük Tepe","credit":"The agricultural situation. A brief summary of economic conditions (IA CAT11088157437).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6v%C3%BCk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872634","tip":"genel"}]
 description: "Ağrı'da bulunan Gövük Tepe, doğa severlerin keşfetmek için bekleyen bir dağ"
 keywords: ["Gövük Tepe","Ağrı","Dağ","Doğa","Türkiye","Seyahat","Gezi","Keşif","Macera"]

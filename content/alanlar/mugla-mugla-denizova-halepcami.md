@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Mu%C4%9Fla-Denizova%20Halep%C3%A7am%C4%B1","alt":"Mugla-Muğla-Denizova Halepçamı","caption":"Mugla-Muğla-Denizova Halepçamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Marmaris_milli_park.jpg/960px-Marmaris_milli_park.jpg","alt":"Mugla-Muğla-Denizova Halepçamı","caption":"Mugla-Muğla-Denizova Halepçamı","credit":"Marmaris milli park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Mu%C4%9Fla-Denizova%20Halep%C3%A7am%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228810","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, Denizova Halepçamı milli parkı"
 keywords: ["Milli Park","Muğla","Denizova Halepçamı","Doğa","Turizm","Ege Bölgesi","Yeşil Alan"]

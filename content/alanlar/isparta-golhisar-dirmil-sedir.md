@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Isparta-Golhisar-Dirmil%20Sedir","alt":"Isparta-Golhisar-Dirmil Sedir","caption":"Isparta-Golhisar-Dirmil Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/P_20180323_133309-01.jpg/960px-P_20180323_133309-01.jpg","alt":"Isparta-Golhisar-Dirmil Sedir","caption":"Isparta-Golhisar-Dirmil Sedir","credit":"P 20180323 133309-01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Golhisar-Dirmil%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227607","tip":"genel"}]
 description: "Isparta'nın Golhisar ilçesinde bulunan Dirmil Sedir, doğal güzellikleri ve tarihi geçmişi ile dikkat çekiyor."
 keywords: ["Isparta","Golhisar","Dirmil Sedir","milli park","doğa","tarih","gezi"]

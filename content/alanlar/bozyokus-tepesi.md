@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","tarih gezisi","yöresel yemekler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bozyoku%C5%9F%20Tepesi","alt":"Bozyokuş Tepesi","caption":"Bozyokuş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/India%2C_pictorial_and_descriptive_%28IA_indiapictorialde00adamrich%29.pdf/page1-960px-India%2C_pictorial_and_descriptive_%28IA_indiapictorialde00adamrich%29.pdf.jpg","alt":"Bozyokuş Tepesi","caption":"Bozyokuş Tepesi","credit":"India, pictorial and descriptive (IA indiapictorialde00adamrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozyoku%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391108","tip":"genel"}]
 description: "Sivas'ta yer alan Bozyokuş Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri"
 keywords: ["Bozyokuş Tepesi","Sivas","İç Anadolu Bölgesi","coğrafi nokta","tepe","doğa","gezi"]

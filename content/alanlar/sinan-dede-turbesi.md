@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Plajda dinlenmek","Türbe ve çevresini gezmek","Doğa yürüyüşleri","Photography"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sinan%20Dede%20T%C3%BCrbesi","alt":"Sinan Dede Türbesi","caption":"Sinan Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Sinan Dede Türbesi","caption":"Sinan Dede Türbesi","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinan%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391512","tip":"genel"}]
 description: "Aydın'ın Nazilli ilçesinde bulunan Sinan Dede Türbesi, tarih ve doğanın iç içe geçtiği bir mekan."
 keywords: ["Sinan Dede Türbesi","Nazilli","Aydın","Türbe","Doğa","Tarih","Gezi","Türkiye"]

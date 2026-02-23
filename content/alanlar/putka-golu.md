@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Putka%20G%C3%B6l%C3%BC","alt":"Putka Gölü","caption":"Putka Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lake_Limni_Nature_Park_10.jpg/960px-Lake_Limni_Nature_Park_10.jpg","alt":"Putka Gölü","caption":"Putka Gölü","credit":"Lake Limni Nature Park 10.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Putka%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20474833","tip":"genel"}]
 description: "Türkiye'de bulunan doğal bir göl olan Putka Gölü, 1200 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["Putka Gölü","Türkiye gölleri","doğal alanlar","göl","Türkiye turizmi","yeşil alanlar","su kaynakları","ekosistem","çevre"]

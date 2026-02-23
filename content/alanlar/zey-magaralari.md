@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zey%20Ma%C4%9Faralar%C4%B1","alt":"Zey Mağaraları","caption":"Zey Mağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/K%C3%A2hta_district_landscape.jpg/960px-K%C3%A2hta_district_landscape.jpg","alt":"Zey Mağaraları","caption":"Zey Mağaraları","credit":"Kâhta district landscape.jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zey%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319887","tip":"genel"}]
 description: "Adıyaman'da yer alan Zey Mağaraları, jeopark olarak bilinen doğal güzellik alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Zey Mağaraları","Adıyaman","Jeopark","Doğal Alan","Turizm","Gezi","Mağara","Yeşil Cennet","Doğal Güzellik"]

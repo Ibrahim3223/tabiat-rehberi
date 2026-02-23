@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hazine%20Tepesi","alt":"Hazine Tepesi","caption":"Hazine Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf/page1-960px-From_denial_to_participation-_Turkey%27s_evolving_discourse_on_Kurdish_nationalism_%28IA_fromdenialtopart1094537734%29.pdf.jpg","alt":"Hazine Tepesi","caption":"Hazine Tepesi","credit":"From denial to participation- Turkey's evolving discourse on Kurdish nationalism (IA fromdenialtopart1094537734).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hazine%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558844","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Hazine Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve 200 futbol sahası büyüklüğünde bir yeşil alandır."
 keywords: ["Hazine Tepesi","Ankara","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","tarihçe","coğrafya","flora","fauna","ziyaret"]

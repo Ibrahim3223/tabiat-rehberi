@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kocada%C4%9F%C4%B1%20Tepesi","alt":"Kocadağı Tepesi","caption":"Kocadağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Kocadağı Tepesi","caption":"Kocadağı Tepesi","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocada%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388698","tip":"genel"}]
 description: "Muğla'da yer alan Kocadağı Tepesi, Ege Bölgesi'nde bulunan doğal güzelliklerimizden biridir."
 keywords: ["Kocadağı Tepesi","Muğla","Ege Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Şehri izlemek","Doğa yürüyüşü","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCt%C3%BCkl%C3%BC%20Tepe","alt":"Kütüklü Tepe","caption":"Kütüklü Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Kütüklü Tepe","caption":"Kütüklü Tepe","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCt%C3%BCkl%C3%BC%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210860","tip":"genel"}]
 description: "Erzurum'un tarihi ve doğal güzelliklerini bir araya getiren Kütüklü Tepe, ziyaretçilerini bekliyor."
 keywords: ["Kütüklü Tepe","Erzurum","Doğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","köy","tepe"]

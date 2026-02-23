@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","yerel yemekler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=T%C4%B1rt%C4%B1m%20Tepesi","alt":"Tırtım Tepesi","caption":"Tırtım Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%B6bekli_Tepe_-_landscape.jpg/960px-G%C3%B6bekli_Tepe_-_landscape.jpg","alt":"Tırtım Tepesi","caption":"Tırtım Tepesi","credit":"Göbekli Tepe - landscape.jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C4%B1rt%C4%B1m%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387416","tip":"genel"}]
 description: "Şanlıurfa'nın gizli güzelliği Tırtım Tepesi'ni keşfedin!"
 keywords: ["Tırtım Tepesi","Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa","gezi","tepe","manzara","tarih"]

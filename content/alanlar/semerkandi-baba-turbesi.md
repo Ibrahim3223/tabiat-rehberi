@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Semerkandi%20Baba%20T%C3%BCrbesi","alt":"Semerkandi Baba Türbesi","caption":"Semerkandi Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf/page1-629px-Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf.jpg","alt":"Semerkandi Baba Türbesi","caption":"Semerkandi Baba Türbesi","credit":"Letters from the Aegean (IA lettersfromaegea01tenn).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Semerkandi%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391803","tip":"genel"}]
 description: "Denizli'nin Acıpayam ilçesinde bulunan tarihi bir mekan"
 keywords: ["Semerkandi Baba","Denizli","Acıpayam","Türbe","Tarih","Coğrafya","Doğa","Gezi"]

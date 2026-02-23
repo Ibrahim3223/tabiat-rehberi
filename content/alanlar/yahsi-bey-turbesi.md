@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yah%C5%9Fi%20Bey%20T%C3%BCrbesi","alt":"Yahşi Bey Türbesi","caption":"Yahşi Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Yahşi Bey Türbesi","caption":"Yahşi Bey Türbesi","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yah%C5%9Fi%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390747","tip":"genel"}]
 description: "Çanakkale'nin Bayramiç ilçesinde bulunan tarihi ve doğal güzellikleriyle dikkat çeken bir mekan"
 keywords: ["Yahşi Bey Türbesi","Bayramiç","Çanakkale","tarih","doğa","türbe","plaj","Marmara Bölgesi"]

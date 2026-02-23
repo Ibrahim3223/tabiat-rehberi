@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","trekking","picnic","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Marmaris-Hisaronu%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mugla-Marmaris-Hisaronu Kızılçam","caption":"Mugla-Marmaris-Hisaronu Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Mugla-Marmaris-Hisaronu Kızılçam","caption":"Mugla-Marmaris-Hisaronu Kızılçam","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Marmaris-Hisaronu%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227668","tip":"genel"}]
 description: "Marmaris'in doğa harikası milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Marmaris","Hisaronu","Kızılçam","milli park","doğa","yeşil alan","gezi","turizm"]

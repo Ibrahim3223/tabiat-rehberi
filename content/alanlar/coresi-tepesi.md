@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C3%B6re%C5%9Fi%20Tepesi","alt":"Çöreşi Tepesi","caption":"Çöreşi Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Çöreşi Tepesi","caption":"Çöreşi Tepesi","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C3%B6re%C5%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819930","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Çöreşi Tepesi, Bingöl'ün doğal güzelliklerini keşfetmek için ideal bir mekan."
 keywords: ["Bingöl","Doğu Anadolu Bölgesi","Çöreşi Tepesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

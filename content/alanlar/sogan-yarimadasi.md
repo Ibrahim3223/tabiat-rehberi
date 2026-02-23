@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=So%C4%9Fan%20Yar%C4%B1madas%C4%B1","alt":"Soğan Yarımadası","caption":"Soğan Yarımadası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Atmospheric_effects_on_communications_and_electronic_warfare_systems_within_Turkey_and_surrounding_areas_%28IA_atmosphericeffec109455228%29.pdf/page1-960px-Atmospheric_effects_on_communications_and_electronic_warfare_systems_within_Turkey_and_surrounding_areas_%28IA_atmosphericeffec109455228%29.pdf.jpg","alt":"Soğan Yarımadası","caption":"Soğan Yarımadası","credit":"Atmospheric effects on communications and electronic warfare systems within Turkey and surrounding areas (IA atmosphericeffec109455228).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fan%20Yar%C4%B1madas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49333934","tip":"genel"}]
 description: "İstanbul'un doğal güzelliklerini keşfedin. Soğan Yarımadası, 1200 hektarlık yeşil cennet."
 keywords: ["Soğan Yarımadası","İstanbul","doğal alan","yeşil cennet","turistik yerler","gezi rehberi","İstanbul'un güzellikleri","doğa yürüyüşü","İstanbul turizm"]

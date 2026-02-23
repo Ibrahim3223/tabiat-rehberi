@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Tarih gezisi","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aspendos%20K%C3%BC%C3%A7%C3%BCk%20Hamam","alt":"Aspendos Küçük Hamam","caption":"Aspendos Küçük Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ant%C3%A1lia_-_panoramio_%2811%29.jpg/960px-Ant%C3%A1lia_-_panoramio_%2811%29.jpg","alt":"Aspendos Küçük Hamam","caption":"Aspendos Küçük Hamam","credit":"Antália - panoramio (11).jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aspendos%20K%C3%BC%C3%A7%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739047","tip":"genel"}]
 description: "Antalya'nın güzelliklerini keşfedin, Aspendos Küçük Hamam'ın tarihi ve doğal zenginliklerini görün"
 keywords: ["Aspendos","Küçük Hamam","Antalya","Serik","Akdeniz Bölgesi","tarih","doğa","gezi","tatil"]

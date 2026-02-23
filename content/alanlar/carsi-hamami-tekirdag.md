@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denize girme","Güneşlenme","Yürüyüş","Alışveriş","Yeme içme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ar%C5%9F%C4%B1%20Hamam%C4%B1%2C%20Tekirda%C4%9F","alt":"Çarşı Hamamı, Tekirdağ","caption":"Çarşı Hamamı, Tekirdağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Çarşı Hamamı, Tekirdağ","caption":"Çarşı Hamamı, Tekirdağ","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ar%C5%9F%C4%B1%20Hamam%C4%B1%2C%20Tekirda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245779","tip":"genel"}]
 description: "Tekirdağ'ın güzide plajlarından biri olan Çarşı Hamamı, Marmara Bölgesi'nin en çok ziyaret edilen yerlerinden."
 keywords: ["Tekirdağ","Marmara Bölgesi","plaj","deniz","kum","çarşı","hamam","turizm","gezi"]

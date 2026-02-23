@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kültür turu","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pertev%20Pa%C5%9Fa%20Hamam%C4%B1","alt":"Pertev Paşa Hamamı","caption":"Pertev Paşa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Pertev Paşa Hamamı","caption":"Pertev Paşa Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pertev%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739121","tip":"genel"}]
 description: "İzmit'te tarihi bir hamam, 140 hektarlık yeşil alan, doğa ve kültür"
 keywords: ["Pertev Paşa Hamamı","İzmit","Aydın Vilayeti","İç Anadolu Bölgesi","tarihi hamam","doğa","kültür"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCm%C3%BC%C5%9Fhane-%C5%9Eiran%20Kuluca%20YHGS","alt":"Gümüşhane-Şiran Kuluca YHGS","caption":"Gümüşhane-Şiran Kuluca YHGS"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Gümüşhane-Şiran Kuluca YHGS","caption":"Gümüşhane-Şiran Kuluca YHGS","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fhane-%C5%9Eiran%20Kuluca%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227094","tip":"genel"}]
 description: "Gümüşhane'nin doğal güzellikleri ile çevrili bir bölge: Şiran Kuluca Yaban Hayatı Geliştirme Sahası"
 keywords: ["Gümüşhane","Şiran","Kuluca","Yaban Hayatı Geliştirme Sahası","Doğa","Gümüşhane doğal güzellikleri","Karadeniz Bölgesi","Turizm","Doğa turizmi"]

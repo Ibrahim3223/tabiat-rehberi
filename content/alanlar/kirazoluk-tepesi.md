@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","tarihî yerleri gezme","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kirazoluk%20Tepesi","alt":"Kirazoluk Tepesi","caption":"Kirazoluk Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Kirazoluk Tepesi","caption":"Kirazoluk Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirazoluk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514997","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden Kütahya'da bulunan Kirazoluk Tepesi, doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Kirazoluk Tepesi","Kütahya","Ege Bölgesi","doğa","tepe","gezi","turizm","yerel"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa Gezisi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Buzluk%20Tabiat%20Park%C4%B1","alt":"Buzluk Tabiat Parkı","caption":"Buzluk Tabiat Parkı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Buzluk Tabiat Parkı","caption":"Buzluk Tabiat Parkı","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buzluk%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Ankara'nın yeşillendirilmiş doğal alanlarından biri olan Buzluk Tabiat Parkı, yaklaşık 140 hektarlık alanı ile ziyaretçilerini ağırlıyor."
 keywords: ["Buzluk Tabiat Parkı","Ankara","Doğal Alan","Yeşil Alan","Tabiat Parkı","Ankara Turizmi","İç Anadolu Bölgesi","Doğa","Yeşillendirme"]

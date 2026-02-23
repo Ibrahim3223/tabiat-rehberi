@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rm%C4%B1z%C4%B1ger%20Tepesi","alt":"Kırmızıger Tepesi","caption":"Kırmızıger Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Kırmızıger Tepesi","caption":"Kırmızıger Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1ger%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386308","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin en güzel doğal alanlarından biri olan Kırmızıger Tepesi, Hatay ili sınırları içerisinde yer alır. Doğal güzellikleri ve tarihi geçmişi ile dikkat çeker."
 keywords: ["Kırmızıger Tepesi","Hatay","Akdeniz Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]

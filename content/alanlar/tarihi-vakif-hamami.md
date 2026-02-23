@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları keşfetmek","doğa yürüyüşü yapmak","kültürel etkinliklere katılmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tarihi%20Vak%C4%B1f%20Hamam%C4%B1","alt":"Tarihi Vakıf Hamamı","caption":"Tarihi Vakıf Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%C3%9Clkeler_Co%C4%9Frafyas%C4%B1_Perspektifinden_Filipinler_Cumhuriyeti.pdf/page1-960px-%C3%9Clkeler_Co%C4%9Frafyas%C4%B1_Perspektifinden_Filipinler_Cumhuriyeti.pdf.jpg","alt":"Tarihi Vakıf Hamamı","caption":"Tarihi Vakıf Hamamı","credit":"Ülkeler Coğrafyası Perspektifinden Filipinler Cumhuriyeti.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarihi%20Vak%C4%B1f%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738497","tip":"genel"}]
 description: "Kastamonu'nun tarihi ve doğal güzelliklerini keşfedin. Tarihi Vakıf Hamamı, şehrin merkezinde yer alan önemli bir tarihi mekandır."
 keywords: ["Tarihi Vakıf Hamamı","Kastamonu","Karadeniz Bölgesi","tarih","doğa","kültür"]

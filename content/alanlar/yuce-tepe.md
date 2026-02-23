@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî yapıları gezmek","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%BCce%20Tepe","alt":"Yüce Tepe","caption":"Yüce Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00sing%29.pdf/page1-770px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00sing%29.pdf.jpg","alt":"Yüce Tepe","caption":"Yüce Tepe","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00sing).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCce%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196053","tip":"genel"}]
 description: "İç Anadolu'nun gizli köşesi, Yüce Tepe. Doğa ve tarih bir arada."
 keywords: ["Yüce Tepe","İç Anadolu","doğa","tarih","gezi","turizm","çevre","ekoloji","kültür"]

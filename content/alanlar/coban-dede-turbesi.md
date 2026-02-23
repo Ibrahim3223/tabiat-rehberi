@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Piknik","Tarih Araştırması","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87oban%20Dede%20T%C3%BCrbesi","alt":"Çoban Dede Türbesi","caption":"Çoban Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Çoban Dede Türbesi","caption":"Çoban Dede Türbesi","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87oban%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391585","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Tunceli'nin Mazgirt ilçesinde yer alan Çoban Dede Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir nokta."
 keywords: ["Çoban Dede Türbesi","Mazgirt","Tunceli","Doğu Anadolu Bölgesi","tarih","doğa","türbe","gezi","seyahat"]

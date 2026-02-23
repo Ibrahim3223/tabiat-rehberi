@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotograf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mehmet%20%C5%9Eah%20Dede%20T%C3%BCrbesi","alt":"Mehmet Şah Dede Türbesi","caption":"Mehmet Şah Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Mehmet Şah Dede Türbesi","caption":"Mehmet Şah Dede Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehmet%20%C5%9Eah%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390764","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, Çankırı'nın Kurşunlu ilçesinde yer alan Mehmet Şah Dede Türbesi"
 keywords: ["Mehmet Şah Dede Türbesi","Çankırı","Kurşunlu","İç Anadolu Bölgesi","tarih","coğrafya","doğa","turizm"]

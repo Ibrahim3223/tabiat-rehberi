@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sebastopolis%20Roma%20Hamam%C4%B1","alt":"Sebastopolis Roma Hamamı","caption":"Sebastopolis Roma Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Sebastopolis Roma Hamamı","caption":"Sebastopolis Roma Hamamı","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sebastopolis%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739108","tip":"genel"}]
 description: "Tokat'ın Sulusaray ilçesinde bulunan Sebastopolis Roma Hamamı, tarihi ve doğal güzelliklerin birleştiği özel bir noktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve ziyaretçilerine zengin bir tarihi geçmişi sunar."
 keywords: ["Sebastopolis Roma Hamamı","Sulusaray","Tokat","Roma Hamamı","tarihi yerler","doğa","gezi noktaları"]

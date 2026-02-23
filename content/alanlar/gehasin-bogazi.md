@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Geha%C5%9Fin%20Bo%C4%9Faz%C4%B1","alt":"Gehaşin Boğazı","caption":"Gehaşin Boğazı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Gehaşin Boğazı","caption":"Gehaşin Boğazı","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geha%C5%9Fin%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49342882","tip":"genel"}]
 description: "Siirt'te yer alan Gehaşin Boğazı, 1200 hektarlık yeşil cennet, kanyon ve doğa harikası"
 keywords: ["Gehaşin Boğazı","Siirt","kanyon","doğa harikası","yeşil cennet","turistik yerler","gezi rehberi","doğa yürüyüşü","kanyon gezi"]

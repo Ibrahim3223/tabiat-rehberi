@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara seyretme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ekmek%20Tepesi","alt":"Ekmek Tepesi","caption":"Ekmek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Ekmek Tepesi","caption":"Ekmek Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ekmek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387181","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin, Ekmek Tepesi'ni ziyaret edin"
 keywords: ["Kastamonu","Ekmek Tepesi","Karadeniz Bölgesi","doğa","turizm","gezi","tepe","manzara","kaynak"]

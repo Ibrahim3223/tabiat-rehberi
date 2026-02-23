@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Adaca%20Tepesi","alt":"Adaca Tepesi","caption":"Adaca Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Adaca Tepesi","caption":"Adaca Tepesi","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adaca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390932","tip":"genel"}]
 description: "Kayseri'nin görkemli tepesi, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Adaca Tepesi","Kayseri","İç Anadolu Bölgesi","tepe","doğa","gezi","tarih"]

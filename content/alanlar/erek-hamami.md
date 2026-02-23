@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","deniz sporları","orman gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erek%20Hamam%C4%B1","alt":"Erek Hamamı","caption":"Erek Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/New_England_Spectator_%28IA_1d9e19f8-014d-42a1-8f57-29a8de969664%29.pdf/page1-960px-New_England_Spectator_%28IA_1d9e19f8-014d-42a1-8f57-29a8de969664%29.pdf.jpg","alt":"Erek Hamamı","caption":"Erek Hamamı","credit":"New England Spectator (IA 1d9e19f8-014d-42a1-8f57-29a8de969664).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erek%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245763","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti Erek Hamamı, Tokat'ın Erbaa ilçesinde found bir doğa harikasıdır."
 keywords: ["Erek Hamamı","Erbaa","Tokat","Karadeniz Bölgesi","doğa harikası","plaj","gezi"]

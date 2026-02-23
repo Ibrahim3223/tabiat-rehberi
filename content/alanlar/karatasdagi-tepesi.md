@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Tarih İnceleme","Panoramik İzleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karata%C5%9Fda%C4%9F%C4%B1%20Tepesi","alt":"Karataşdağı Tepesi","caption":"Karataşdağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Karataşdağı Tepesi","caption":"Karataşdağı Tepesi","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karata%C5%9Fda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387787","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin görkemli doğası, Karataşdağı Tepesi'nde yaşanır. Kars'ta yer alan bu tepe, ziyaretçilerine benzersiz bir deneyim sunar."
 keywords: ["Karataşdağı Tepesi","Kars","Doğu Anadolu Bölgesi","Doğa","Tepeler","Gezi","Seyahat","Doğal Alanlar","Coğrafya"]

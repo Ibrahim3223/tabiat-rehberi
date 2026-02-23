@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Plaj","Hamam","Restoran","Kafeler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20Dede%20Hamam%C4%B1","alt":"Yıldız Dede Hamamı","caption":"Yıldız Dede Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Yıldız Dede Hamamı","caption":"Yıldız Dede Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Dede%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738878","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi bir hamam ve plaj"
 keywords: ["Yıldız Dede Hamamı","Fatih","İstanbul","tarihi hamam","plaj","Marmara Bölgesi","gezi","turizm"]

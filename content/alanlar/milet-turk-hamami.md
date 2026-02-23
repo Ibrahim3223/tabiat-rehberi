@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Güneşlenmek","Denizde yüzme","Su sporları","Çevre gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Milet%20T%C3%BCrk%20Hamam%C4%B1","alt":"Milet Türk Hamamı","caption":"Milet Türk Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Milet Türk Hamamı","caption":"Milet Türk Hamamı","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Milet%20T%C3%BCrk%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739081","tip":"genel"}]
 description: "Didim'de yer alan Milet Türk Hamamı, Ege Bölgesi'nin önemli ziyaret noktalarından biri"
 keywords: ["Milet Türk Hamamı","Didim","Aydın","Ege Bölgesi","plaj","deniz","tatil","gezi","turizm"]

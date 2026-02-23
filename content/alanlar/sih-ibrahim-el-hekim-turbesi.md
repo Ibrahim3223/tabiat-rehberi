@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî mekanları ziyaret","doğa yürüyüşü","fotografi","dinî ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9E%C4%B1h%20%C4%B0brahim%20El%20Hekim%20T%C3%BCrbesi","alt":"Şıh İbrahim El Hekim Türbesi","caption":"Şıh İbrahim El Hekim Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf/page1-960px-Jewish_-_Zionist_terrorism_and_the_establishment_of_Israel._%28IA_jewishzionistter00peek%29.pdf.jpg","alt":"Şıh İbrahim El Hekim Türbesi","caption":"Şıh İbrahim El Hekim Türbesi","credit":"Jewish - Zionist terrorism and the establishment of Israel. (IA jewishzionistter00peek).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9E%C4%B1h%20%C4%B0brahim%20El%20Hekim%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391780","tip":"genel"}]
 description: "Mersin'in tarihi ve doğal güzelliklerini keşfedin. Şıh İbrahim El Hekim Türbesi, Akdeniz Bölgesi'nin önemli dini ve turistik merkezlerinden biri."
 keywords: ["Mersin","Şıh İbrahim El Hekim Türbesi","tarih","doğa","turizm","dini merkez","Akdeniz Bölgesi"]

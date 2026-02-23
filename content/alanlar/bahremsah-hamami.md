@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bahrem%C5%9Fah%20Hamam%C4%B1","alt":"Bahremşah Hamamı","caption":"Bahremşah Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Bahremşah Hamamı","caption":"Bahremşah Hamamı","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bahrem%C5%9Fah%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738708","tip":"genel"}]
 description: "Divriği'nin tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Bahremşah Hamamı","Divriği","Sivas","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

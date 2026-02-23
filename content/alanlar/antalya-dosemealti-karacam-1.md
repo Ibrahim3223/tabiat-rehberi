@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-D%C3%B6%C5%9Femealt%C4%B1%20Kara%C3%A7am%201","alt":"Antalya-Döşemealtı Karaçam 1","caption":"Antalya-Döşemealtı Karaçam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Solitariness_-_panoramio.jpg/960px-Solitariness_-_panoramio.jpg","alt":"Antalya-Döşemealtı Karaçam 1","caption":"Antalya-Döşemealtı Karaçam 1","credit":"Solitariness - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-D%C3%B6%C5%9Femealt%C4%B1%20Kara%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227847","tip":"genel"}]
 description: "Antalya'nın doğal güzellikleri arasında yer alan Döşemealtı Karaçam 1 milli parkı, ziyaretçilerine doğanın tüm renklerini sunuyor."
 keywords: ["milli park","Antalya","doğa","gezi","yaban hayatı","orman"]

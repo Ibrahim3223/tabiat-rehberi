@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kandilli%20Kayak%20Merkezi","alt":"Kandilli Kayak Merkezi","caption":"Kandilli Kayak Merkezi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ski_resort_under_clouds.jpg/960px-Ski_resort_under_clouds.jpg","alt":"Kandilli Kayak Merkezi","caption":"Kandilli Kayak Merkezi","credit":"Ski resort under clouds.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kandilli%20Kayak%20Merkezi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q29831291","tip":"genel"}]
 description: "Türkiye'nin en güzel kayak merkezlerinden biri olan Kandilli Kayak Merkezi, 1200 hektarlık yeşil alanıyla kış sporlarına ev sahipliği yapıyor."
 keywords: ["Kandilli Kayak Merkezi","kayak merkezi","Türkiye kayak","kış sporları","kayak merkezleri","Kandilli","kayak","Türkiye'de kayak","kayak tesisleri","kış turizmi"]

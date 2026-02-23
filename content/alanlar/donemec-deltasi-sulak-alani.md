@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa Yürüyüşü","Kuş İzleme","Fotografcılık","Çevre Gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=D%C3%B6neme%C3%A7%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","alt":"Dönemeç Deltası Sulak Alanı","caption":"Dönemeç Deltası Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Dönemeç Deltası Sulak Alanı","caption":"Dönemeç Deltası Sulak Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%B6neme%C3%A7%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228844","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
 keywords: ["Dönemeç Deltası","Sulak Alan","İç Anadolu Bölgesi","Doğa","Turizm","Sulak Alan Ekosistemi","Korunan Alan","Çevre"]

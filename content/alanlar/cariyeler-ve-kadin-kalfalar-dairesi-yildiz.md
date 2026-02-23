@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Kültür turu","Doğa yürüyüşü","Fotografi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cariyeler%20ve%20Kad%C4%B1n%20Kalfalar%20Dairesi%2C%20Y%C4%B1ld%C4%B1z","alt":"Cariyeler ve Kadın Kalfalar Dairesi, Yıldız","caption":"Cariyeler ve Kadın Kalfalar Dairesi, Yıldız"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Cariyeler ve Kadın Kalfalar Dairesi, Yıldız","caption":"Cariyeler ve Kadın Kalfalar Dairesi, Yıldız","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cariyeler%20ve%20Kad%C4%B1n%20Kalfalar%20Dairesi%2C%20Y%C4%B1ld%C4%B1z","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133684788","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel değerlerinden biri olan Cariyeler ve Kadın Kalfalar Dairesi, Yıldız'da yer alır."
 keywords: ["Cariyeler ve Kadın Kalfalar Dairesi","Yıldız","İstanbul","Marmara Bölgesi","tarih","kültür","mimari","gezi"]

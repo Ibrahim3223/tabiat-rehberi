@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşü","Yaban Hayatı İzleme","Çevre Gezisi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kutahya-Merkez%20Turkmenbaba","alt":"Kutahya-Merkez Turkmenbaba","caption":"Kutahya-Merkez Turkmenbaba"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kutahya-Merkez Turkmenbaba","caption":"Kutahya-Merkez Turkmenbaba","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Merkez%20Turkmenbaba","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227403","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Turkmenbaba Milli Parkı"
 keywords: ["Kutahya","Turkmenbaba","Milli Park","İç Anadolu Bölgesi","Doğal Alan","Turizm","Gezi","Yaban Hayatı","Flora","Fauna"]

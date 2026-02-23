@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["tarih gezisi","kültürel gezi","mimari gezi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Murat%20Bey%20K%C3%BCmbeti%2C%20E%C4%9Fil","alt":"Murat Bey Kümbeti, Eğil","caption":"Murat Bey Kümbeti, Eğil"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Murat Bey Kümbeti, Eğil","caption":"Murat Bey Kümbeti, Eğil","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Murat%20Bey%20K%C3%BCmbeti%2C%20E%C4%9Fil","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582878","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi zenginliklerini keşfedin. Eğil'de bulunan Murat Bey Kümbeti, tarihi geçmişi ve mimari yapısı ile dikkat çekiyor."
 keywords: ["Eğil","Diyarbakır","Murat Bey Kümbeti","tarihi mekanlar","Güneydoğu Anadolu Bölgesi","mimari yapılar","kültürel miras","gezi noktaları"]

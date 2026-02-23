@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["doğa yürüyüşü","picnic","fotografçılık","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Amasya-Kargi-Erenlerkos%20Saricam","alt":"Amasya-Kargi-Erenlerkos Saricam","caption":"Amasya-Kargi-Erenlerkos Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Amasya-Kargi-Erenlerkos Saricam","caption":"Amasya-Kargi-Erenlerkos Saricam","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Kargi-Erenlerkos%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227543","tip":"genel"}]
 description: "Amasya'da yer alan milli park, yeşil alanlarıyla dikkat çekiyor. Doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["Amasya","Kargi","Erenlerkos","Saricam","milli park","yeşil alan","doğal güzellik","tarihi geçmişi"]

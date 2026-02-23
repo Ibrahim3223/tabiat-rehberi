@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","picnic","keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C4%B1ld%C4%B1z%C4%B1r%C4%B1%20Tepesi","alt":"Gıldızırı Tepesi","caption":"Gıldızırı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf/page1-800px-Wonders_of_nature%2C_as_seen_and_described_by_famous_writers_%28IA_wondersofnaturea00singiala%29.pdf.jpg","alt":"Gıldızırı Tepesi","caption":"Gıldızırı Tepesi","credit":"Wonders of nature, as seen and described by famous writers (IA wondersofnaturea00singiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C4%B1ld%C4%B1z%C4%B1r%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391236","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği Gıldızırı Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Gıldızırı Tepesi","İç Anadolu Bölgesi","doğa","tarih","gezi","tepe","manzara","doğal güzellik","tarihi geçmişi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","doğa"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kelez%20Tepesi","alt":"Kelez Tepesi","caption":"Kelez Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf/page1-616px-Armenia_and_its_sorrows_%28IA_armeniaitssorrow00wint%29.pdf.jpg","alt":"Kelez Tepesi","caption":"Kelez Tepesi","credit":"Armenia and its sorrows (IA armeniaitssorrow00wint).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelez%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387903","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cevheri, Kars'ta bulunan Kelez Tepesi"
 keywords: ["Kelez Tepesi","Kars","Doğu Anadolu Bölgesi","tepe","gezi","doğa","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yumurta%20Tepe","alt":"Yumurta Tepe","caption":"Yumurta Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Yumurta Tepe","caption":"Yumurta Tepe","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumurta%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573334","tip":"genel"}]
 description: "Bingöl'de yer alan Yumurta Tepe, 1200 hektarlık yeşil cenneti ve doğal güzellikleri keşfedin"
 keywords: ["Yumurta Tepe","Bingöl","Dağ","Doğa","Turizm","Gezi","Türkiye","Doğal Alanlar","Yerel Turizm"]

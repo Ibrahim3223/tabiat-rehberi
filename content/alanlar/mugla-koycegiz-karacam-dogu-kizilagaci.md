@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa keşfi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Koycegiz-Karacam-Dogu%20Kizilagaci","alt":"Mugla-Koycegiz-Karacam-Dogu Kizilagaci","caption":"Mugla-Koycegiz-Karacam-Dogu Kizilagaci"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Marmaris_Macera_Park.jpg/960px-Marmaris_Macera_Park.jpg","alt":"Mugla-Koycegiz-Karacam-Dogu Kizilagaci","caption":"Mugla-Koycegiz-Karacam-Dogu Kizilagaci","credit":"Marmaris Macera Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Koycegiz-Karacam-Dogu%20Kizilagaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228541","tip":"genel"}]
 description: "Muğla'nın Koycegiz ilçesinde yer alan milli park, 140 hektarlık alanı ile ziyaretçilerini ağırlıyor."
 keywords: ["Mugla-Koycegiz-Karacam-Dogu Kizilagaci","milli park","Muğla","Koycegiz","doğa","gezi"]

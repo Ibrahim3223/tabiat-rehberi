@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî mekanları gezme","dini törenlere katılma","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tavus%20Baba%20T%C3%BCrbesi","alt":"Tavus Baba Türbesi","caption":"Tavus Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Tavus Baba Türbesi","caption":"Tavus Baba Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tavus%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390888","tip":"genel"}]
 description: "Meram'da tarihi bir dini mekan"
 keywords: ["Tavus Baba Türbesi","Meram","Konya","İç Anadolu Bölgesi","tarihi mekan","dini mekan","gezi","turizm"]

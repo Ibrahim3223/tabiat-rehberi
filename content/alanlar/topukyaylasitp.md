@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günde 4-6 saat"
 aktiviteler: ["yürüyüş","piknik","doğa"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=TOPUK_YAYLASI_TP","alt":"TOPUK_YAYLASI_TP","caption":"TOPUK_YAYLASI_TP"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"TOPUK_YAYLASI_TP","caption":"TOPUK_YAYLASI_TP","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/TOPUK_YAYLASI_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228780","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Topuk Yaylası, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Topuk Yaylası","İç Anadolu Bölgesi","doğal güzellik","yayla","turizm","gezi","doğa","çevre"]

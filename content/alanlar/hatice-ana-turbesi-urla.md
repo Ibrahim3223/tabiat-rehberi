@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hatice%20Ana%20T%C3%BCrbesi%2C%20Urla","alt":"Hatice Ana Türbesi, Urla","caption":"Hatice Ana Türbesi, Urla"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg","alt":"Hatice Ana Türbesi, Urla","caption":"Hatice Ana Türbesi, Urla","credit":"Süzer Sun Dreams Beach 11 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatice%20Ana%20T%C3%BCrbesi%2C%20Urla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582178","tip":"genel"}]
 description: "Urla'da bulunan tarihi bir türbe olan Hatice Ana Türbesi, ziyaretçilerini bekliyor.  İzmir'in güzel ilçelerinden biri olan Urla, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Urla","İzmir","Hatice Ana Türbesi","tarih","doğa","gezi","türbe","Ege Bölgesi"]

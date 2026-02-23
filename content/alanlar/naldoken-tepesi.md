@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarihi mekan gezisi","Macera sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nald%C3%B6ken%20Tepesi","alt":"Naldöken Tepesi","caption":"Naldöken Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Naldöken Tepesi","caption":"Naldöken Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nald%C3%B6ken%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34884718","tip":"genel"}]
 description: "Erzurum'un güzide tepelerinden biri olan Naldöken Tepesi, ziyaretçilerini bekliyor. Doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Naldöken Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğal güzellik","Tarihi mekan","Turizm","Gezi","Tepeler"]

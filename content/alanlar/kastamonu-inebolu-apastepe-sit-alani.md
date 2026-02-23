@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","bitki türleri keşfi","tarihî yerler gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu%20%C4%B0nebolu%20Apa%C5%9Ftepe%20Sit%20alan%C4%B1","alt":"Kastamonu İnebolu Apaştepe Sit alanı","caption":"Kastamonu İnebolu Apaştepe Sit alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Kastamonu İnebolu Apaştepe Sit alanı","caption":"Kastamonu İnebolu Apaştepe Sit alanı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu%20%C4%B0nebolu%20Apa%C5%9Ftepe%20Sit%20alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226612","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kastamonu İnebolu Apaştepe Sit alanı, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kastamonu","İnebolu","Apaştepe Sit alanı","doğa","tarih","gezi","turizm","İç Anadolu Bölgesi"]

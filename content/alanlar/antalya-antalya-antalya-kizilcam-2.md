@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","piknik","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Antalya-Antalya-K%C4%B1z%C4%B1l%C3%A7am%202","alt":"Antalya-Antalya-Antalya-Kızılçam 2","caption":"Antalya-Antalya-Antalya-Kızılçam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Solitariness_-_panoramio.jpg/960px-Solitariness_-_panoramio.jpg","alt":"Antalya-Antalya-Antalya-Kızılçam 2","caption":"Antalya-Antalya-Antalya-Kızılçam 2","credit":"Solitariness - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Antalya-Antalya-K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228445","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin güzide illerinden Antalya'da yer alan milli park"
 keywords: ["Antalya","milli park","Akdeniz Bölgesi","Kızılçam","doğa","gezi","turizm","çevre"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Mesudiye-Arpaalan%20Dogu%20Karadeniz%20Goknari","alt":"Giresun-Mesudiye-Arpaalan Dogu Karadeniz Goknari","caption":"Giresun-Mesudiye-Arpaalan Dogu Karadeniz Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sis_da%C4%9F%C4%B1_%282%29.jpg/960px-Sis_da%C4%9F%C4%B1_%282%29.jpg","alt":"Giresun-Mesudiye-Arpaalan Dogu Karadeniz Goknari","caption":"Giresun-Mesudiye-Arpaalan Dogu Karadeniz Goknari","credit":"Sis dağı (2).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Mesudiye-Arpaalan%20Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227588","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerinin sergilendiği milli park, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["Giresun","milli park","doğa","Karadeniz Bölgesi","turizm","gezi","yaban hayatı","çevre"]

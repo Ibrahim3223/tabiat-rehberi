@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi olmak","doğa yürüyüşü","fotografçılık","ekoloji çalışması"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eren%20Babalar%20T%C3%BCrbesi","alt":"Eren Babalar Türbesi","caption":"Eren Babalar Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Eren Babalar Türbesi","caption":"Eren Babalar Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eren%20Babalar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391620","tip":"genel"}]
 description: "Sakarya'nın Adapazarı ilçesinde bulunan Eren Babalar Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Eren Babalar Türbesi","Adapazarı","Sakarya","Marmara Bölgesi","tarihi mekan","doğal güzellik","tarihçe","coğrafya","flora","fauna"]

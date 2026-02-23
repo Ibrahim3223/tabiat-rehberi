@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C4%B1d%C4%B1rmente%C5%9F%20G%C3%B6l%C3%BC","alt":"Hıdırmenteş Gölü","caption":"Hıdırmenteş Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lake_Limni_Nature_Park_06.jpg/960px-Lake_Limni_Nature_Park_06.jpg","alt":"Hıdırmenteş Gölü","caption":"Hıdırmenteş Gölü","credit":"Lake Limni Nature Park 06.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1rmente%C5%9F%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123026909","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerinden biri olan Hıdırmenteş Gölü, ziyaretçilerini bekliyor. Doğal yaşamın içinde huzur bulacağınız bir destinasyon."
 keywords: ["Hıdırmenteş Gölü","Türkiye gölleri","doğal alanlar","turistik yerler","göl gezi","doğa yürüyüşü","kuş gözlemciliği","balıkçılık","ekoturizm"]

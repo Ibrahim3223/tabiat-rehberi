@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi eserleri gezme","fotograf çekme","çevresindeki tarihi yapılara ziyaret","yerel yemekler deneme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ke%C3%A7eciler%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1","alt":"Keçeciler Hamamı Kalıntısı","caption":"Keçeciler Hamamı Kalıntısı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Keçeciler Hamamı Kalıntısı","caption":"Keçeciler Hamamı Kalıntısı","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C3%A7eciler%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738961","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi hamam kalıntısı"
 keywords: ["Keçeciler Hamamı","Fatih","İstanbul","tarihi hamam","Marmara Bölgesi","İstanbul tarihi","hamam kalıntısı","Fatih ilçesi"]

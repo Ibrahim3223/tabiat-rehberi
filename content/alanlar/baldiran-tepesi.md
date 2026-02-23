@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bald%C4%B1ran%20Tepesi","alt":"Baldıran Tepesi","caption":"Baldıran Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Baldıran Tepesi","caption":"Baldıran Tepesi","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bald%C4%B1ran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31530754","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin. Baldıran Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri"
 keywords: ["Baldıran Tepesi","Kayseri","İç Anadolu Bölgesi","doğal güzellikler","tepe","gezi","turizm","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","hayvan gözlemleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aydo%C4%9Fan%20Tepesi","alt":"Aydoğan Tepesi","caption":"Aydoğan Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ulug%C3%B6l_Nature_Park.jpg/960px-Ulug%C3%B6l_Nature_Park.jpg","alt":"Aydoğan Tepesi","caption":"Aydoğan Tepesi","credit":"Ulugöl Nature Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aydo%C4%9Fan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387306","tip":"genel"}]
 description: "Ordu'nun Karadeniz Bölgesi'nde yer alan Aydoğan Tepesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini ağırlıyor."
 keywords: ["Aydoğan Tepesi","Ordu","Karadeniz Bölgesi","yeşil alan","tepe","doğa","gezi","turizm"]

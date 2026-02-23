@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","kuş gözlemciliği","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Denizli-Cameli-Mese","alt":"Denizli-Cameli-Mese","caption":"Denizli-Cameli-Mese"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Science-gossip_%28IA_sciencegossip0670lond%29.pdf/page1-960px-Science-gossip_%28IA_sciencegossip0670lond%29.pdf.jpg","alt":"Denizli-Cameli-Mese","caption":"Denizli-Cameli-Mese","credit":"Science-gossip (IA sciencegossip0670lond).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cameli-Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228476","tip":"genel"}]
 description: "Ege Bölgesi'nin en önemli milli parklarından biri olan Denizli-Cameli-Mese, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Denizli","Cameli","Mese","milli park","Ege Bölgesi","doğa","yeşil alan","gezi"]

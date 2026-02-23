@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğal yürüyüşler","Fotoğraf çekimi","Tarihî yapıları gezme","Çevre keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karanday%20A%C4%9Fa%20K%C3%BCmbeti","alt":"Karanday Ağa Kümbeti","caption":"Karanday Ağa Kümbeti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Life_and_light_for_woman_%28IA_lifelightforwoma44woma%29.pdf/page1-812px-Life_and_light_for_woman_%28IA_lifelightforwoma44woma%29.pdf.jpg","alt":"Karanday Ağa Kümbeti","caption":"Karanday Ağa Kümbeti","credit":"Life and light for woman (IA lifelightforwoma44woma).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karanday%20A%C4%9Fa%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582815","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Karanday Ağa Kümbeti, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta"
 keywords: ["Karanday Ağa Kümbeti","Güroymak","Bitlis","Doğu Anadolu Bölgesi","tarihi mekan","doğal güzellik","gezi noktaları"]

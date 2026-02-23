@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi yerleri gezmek","doğa yürüyüşü","fotograf çekmek","yerel lezzetler denemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C4%B1d%C4%B1r%20Baba%20T%C3%BCrbesi","alt":"Hıdır Baba Türbesi","caption":"Hıdır Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Hıdır Baba Türbesi","caption":"Hıdır Baba Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1r%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390793","tip":"genel"}]
 description: "Edirne'nin tarihi ve doğal güzelliklerinin birleştiği Hıdır Baba Türbesi, Marmara Bölgesi'nin önemli ziyaret noktalarından biri."
 keywords: ["Hıdır Baba Türbesi","Edirne","Marmara Bölgesi","tarihi yerler","doğa güzellikleri","türk kültürü","gezi noktaları","tarihi mekanlar","turistik yerler"]

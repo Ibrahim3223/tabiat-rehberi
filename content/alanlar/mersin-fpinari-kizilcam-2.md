@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-F.Pinari%20K%C4%B1z%C4%B1l%C3%A7am%202","alt":"Mersin-F.Pinari Kızılçam 2","caption":"Mersin-F.Pinari Kızılçam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kad%C4%B1nc%C4%B1k_Valley_23.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_23.jpg","alt":"Mersin-F.Pinari Kızılçam 2","caption":"Mersin-F.Pinari Kızılçam 2","credit":"Kadıncık Valley 23.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-F.Pinari%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227438","tip":"genel"}]
 description: "Mersin'in doğal güzellikleri arasında yer alan milli park, zengin flora ve fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Mersin","milli park","doğa","flora","fauna","gezi","turizm","çevre","ekosistem","koruma"]

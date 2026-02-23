@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara-Beypazari-Egriova%20Saricam","alt":"Ankara-Beypazari-Egriova Saricam","caption":"Ankara-Beypazari-Egriova Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MOKFC02.jpg/960px-MOKFC02.jpg","alt":"Ankara-Beypazari-Egriova Saricam","caption":"Ankara-Beypazari-Egriova Saricam","credit":"MOKFC02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Beypazari-Egriova%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227548","tip":"genel"}]
 description: "Ankara'nın doğal güzellikleri arasında yer alan milli park"
 keywords: ["milli park","Ankara","doğa","gezi","turizm","çevre","yaban hayatı","ekosistem","korunan alan","iç Anadolu Bölgesi"]

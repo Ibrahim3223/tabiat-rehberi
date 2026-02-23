@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gora%20Shifiri","alt":"Gora Shifiri","caption":"Gora Shifiri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Gora Shifiri","caption":"Gora Shifiri","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Shifiri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506659","tip":"genel"}]
 description: "Türkiye'de bulunan Gora Shifiri dağı, doğa severler için keyifli bir destinasyon"
 keywords: ["Gora Shifiri","Türkiye dağları","doğa turizmi","dağcılık","Türkiye'nin dağları","gezi rehberi","doğa yürüyüşü","turistik yerler","coğrafya"]

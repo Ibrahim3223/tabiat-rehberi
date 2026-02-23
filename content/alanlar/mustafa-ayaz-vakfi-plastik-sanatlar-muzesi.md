@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["sergi gezisi","sanat atölyeleri","konferanslar","sanat eğitim programları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mustafa%20Ayaz%20Vakf%C4%B1%20Plastik%20Sanatlar%20M%C3%BCzesi","alt":"Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi","caption":"Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf/page1-960px-Orienting_our_sights_on_the_future_-_opportunities_and_challenges_of_the_Arab_revolts_%28IA_orientingoursigh00amin%29.pdf.jpg","alt":"Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi","caption":"Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi","credit":"Orienting our sights on the future - opportunities and challenges of the Arab revolts (IA orientingoursigh00amin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustafa%20Ayaz%20Vakf%C4%B1%20Plastik%20Sanatlar%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q56479507","tip":"genel"}]
 description: "Ankara'nın kalbinde yer alan bir sanat müzesi"
 keywords: ["sanat","müze","Ankara","plastik sanatlar","kültür","eğitim","sergi","sanatçılar"]

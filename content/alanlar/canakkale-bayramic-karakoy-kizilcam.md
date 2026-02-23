@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Kuş gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Canakkale-Bayramic-Karakoy%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Canakkale-Bayramic-Karakoy Kızılçam","caption":"Canakkale-Bayramic-Karakoy Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf/page1-960px-Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf.jpg","alt":"Canakkale-Bayramic-Karakoy Kızılçam","caption":"Canakkale-Bayramic-Karakoy Kızılçam","credit":"Effects of forest fire on physical, chemical and biological soil properties.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Bayramic-Karakoy%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227326","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, doğa severlerin gözdesi."
 keywords: ["Çanakkale","Marmara Bölgesi","Kızılçam","Milli Park","Doğa","Turizm","Çevre","Ekoloji"]

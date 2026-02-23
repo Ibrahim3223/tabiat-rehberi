@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCl%C3%BCn%20Da%C4%9F%C4%B1","alt":"Sülün Dağı","caption":"Sülün Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Sülün Dağı","caption":"Sülün Dağı","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCl%C3%BCn%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811239","tip":"genel"}]
 description: "Van'da yer alan Sülün Dağı, doğa severlerin ziyaret ettiği önemli bir dağ"
 keywords: ["Sülün Dağı","Van","Dağ","Doğa","Trekking","Kamp","Van Gezi","Doğa Sporları","Turizm"]

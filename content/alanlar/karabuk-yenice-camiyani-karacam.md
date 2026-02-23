@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karab%C3%BCk-Yenice-Camiyani%20Karacam","alt":"Karabük-Yenice-Camiyani Karacam","caption":"Karabük-Yenice-Camiyani Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Karabük-Yenice-Camiyani Karacam","caption":"Karabük-Yenice-Camiyani Karacam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karab%C3%BCk-Yenice-Camiyani%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227687","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Karabük-Yenice-Camiyani Karacam"
 keywords: ["Karabük","Yenice","Camiyani Karacam","Karadeniz Bölgesi","milli park","doğa","gezi","turizm"]

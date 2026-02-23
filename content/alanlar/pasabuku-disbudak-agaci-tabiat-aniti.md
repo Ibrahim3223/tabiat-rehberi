@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pa%C5%9Fab%C3%BCk%C3%BC%20Di%C5%9Fbudak%20A%C4%9Fac%C4%B1%20Tabiat%20An%C4%B1t%C4%B1","alt":"Paşabükü Dişbudak Ağacı Tabiat Anıtı","caption":"Paşabükü Dişbudak Ağacı Tabiat Anıtı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Paşabükü Dişbudak Ağacı Tabiat Anıtı","caption":"Paşabükü Dişbudak Ağacı Tabiat Anıtı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pa%C5%9Fab%C3%BCk%C3%BC%20Di%C5%9Fbudak%20A%C4%9Fac%C4%B1%20Tabiat%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6008904","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Paşabükü Dişbudak Ağacı Tabiat Anıtı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Paşabükü Dişbudak Ağacı","Tabiat Anıtı","İç Anadolu Bölgesi","doğal güzellikler","yeşil alan","flora","fauna"]

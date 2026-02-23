@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6serelik%20Tepesi","alt":"Köserelik Tepesi","caption":"Köserelik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/William_Hepworth_Dixon_-_British_Cyprus_%281879%29.pdf/page1-833px-William_Hepworth_Dixon_-_British_Cyprus_%281879%29.pdf.jpg","alt":"Köserelik Tepesi","caption":"Köserelik Tepesi","credit":"William Hepworth Dixon - British Cyprus (1879).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6serelik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34803784","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin, Köserelik Tepesi'ne çıkın ve Akdeniz Bölgesi'nin muhteşem manzarasını izleyin."
 keywords: ["Köserelik Tepesi","Adana","Akdeniz Bölgesi","doğa","tepe","manzara","gezi","turizm","çevre"]

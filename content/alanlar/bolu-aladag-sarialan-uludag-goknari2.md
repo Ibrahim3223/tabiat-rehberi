@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Aladag-Sar%C4%B1alan-Uluda%C4%9F%20G%C3%B6knar%C4%B12","alt":"Bolu-Aladag-Sarıalan-Uludağ Göknarı2","caption":"Bolu-Aladag-Sarıalan-Uludağ Göknarı2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/G%C3%B6lc%C3%BCk2.jpg/960px-G%C3%B6lc%C3%BCk2.jpg","alt":"Bolu-Aladag-Sarıalan-Uludağ Göknarı2","caption":"Bolu-Aladag-Sarıalan-Uludağ Göknarı2","credit":"Gölcük2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Aladag-Sar%C4%B1alan-Uluda%C4%9F%20G%C3%B6knar%C4%B12","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228516","tip":"genel"}]
 description: "Bolu'nun doğal güzelliklerini keşfedin, 140 hektarlık alanda yaban hayatını ve flora çeşitliliğini deneyimleyin"
 keywords: ["Bolu","Doğa","Yaban Hayatı","Flora","Fauna","Milli Park","Karadeniz Bölgesi","Turizm","Gezi"]

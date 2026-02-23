@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyareti","Plaj","Deniz kenarında yürüyüş","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hatice%20Canan%20Han%C4%B1m%20T%C3%BCrbesi","alt":"Hatice Canan Hanım Türbesi","caption":"Hatice Canan Hanım Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hatice Canan Hanım Türbesi","caption":"Hatice Canan Hanım Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatice%20Canan%20Han%C4%B1m%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391158","tip":"genel"}]
 description: "Eyüpsultan'da bulunan tarihi türbe ve plaj"
 keywords: ["Hatice Canan Hanım","Eyüpsultan","İstanbul","Marmara Bölgesi","tarih","plaj","turizm"]

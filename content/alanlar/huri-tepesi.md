@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","kültürel gezi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Huri%20Tepesi","alt":"Huri Tepesi","caption":"Huri Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ordu_Cenneti.jpg/960px-Ordu_Cenneti.jpg","alt":"Huri Tepesi","caption":"Huri Tepesi","credit":"Ordu Cenneti.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Huri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31566649","tip":"genel"}]
 description: "Ordu'nun Karadeniz manzaralı tepesi, 140 hektarlık yeşil alanıyla doğa severlerin cenneti"
 keywords: ["Huri Tepesi","Ordu","Karadeniz","doğa","yeşil alan","tepe","manzara","gezi","turizm"]

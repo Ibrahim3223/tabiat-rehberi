@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yara%C5%9Fl%C4%B1%20G%C3%B6l%C3%BC","alt":"Yaraşlı Gölü","caption":"Yaraşlı Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lake_Limni_Nature_Park_11.jpg/960px-Lake_Limni_Nature_Park_11.jpg","alt":"Yaraşlı Gölü","caption":"Yaraşlı Gölü","credit":"Lake Limni Nature Park 11.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yara%C5%9Fl%C4%B1%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30680540","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerinden biri olan Yaraşlı Gölü, doğa severler için önemli bir destinasyon."
 keywords: ["Yaraşlı Gölü","Türkiye gölleri","doğa turizmi","göl gezi","Türkiye'nin güzellikleri","göl turu","doğal alanlar","turistik yerler","göller"]

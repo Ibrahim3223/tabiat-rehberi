@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","yürüyüş"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCnba%C5%9F%C4%B1%20Tepesi","alt":"Günbaşı Tepesi","caption":"Günbaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Günbaşı Tepesi","caption":"Günbaşı Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCnba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139280","tip":"genel"}]
 description: "Erzurum'un büyüleyici doğası, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor"
 keywords: ["Erzurum","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","yeşil alan","çevre","iklim","flora","fauna"]

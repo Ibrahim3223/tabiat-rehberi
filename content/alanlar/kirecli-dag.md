@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kire%C3%A7li%20Da%C4%9F","alt":"Kireçli Dağ","caption":"Kireçli Dağ"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Kireçli Dağ","caption":"Kireçli Dağ","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kire%C3%A7li%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32188722","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerinden biri olan Kireçli Dağ, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Kireçli Dağ","Erzurum","Doğa","Dağ","Yeşil Alan","Turizm","Gezi","Erzurum Gezilecek Yerler","Doğa Sporları"]

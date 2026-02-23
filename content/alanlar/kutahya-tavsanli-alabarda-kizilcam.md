@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Gözlem","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kutahya-Tavsanli-Alabarda%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Kutahya-Tavsanli-Alabarda Kızılçam","caption":"Kutahya-Tavsanli-Alabarda Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Kutahya-Tavsanli-Alabarda Kızılçam","caption":"Kutahya-Tavsanli-Alabarda Kızılçam","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Tavsanli-Alabarda%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227432","tip":"genel"}]
 description: "Kutahya'nın Tavşanlı ilçesinde bulunan milli park, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor."
 keywords: ["Kutahya","Tavşanlı","Alabarda Kızılçam","milli park","doğa","ekosistem","turizm","gezi","yerel","çevre"]

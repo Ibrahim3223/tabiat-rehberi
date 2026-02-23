@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sulo%20Tepesi","alt":"Sulo Tepesi","caption":"Sulo Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf/page1-812px-On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf.jpg","alt":"Sulo Tepesi","caption":"Sulo Tepesi","credit":"On the fringe of the great fight (IA onfringeofgreatf00nasmrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sulo%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547181","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli cevherlerinden biri olan Sulo Tepesi, doğaşığı gezginlere sonsuz bir keşif alanı sunuyor."
 keywords: ["Sulo Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","gezi","tepe","coğrafya","flora","fauna","ziyaret"]

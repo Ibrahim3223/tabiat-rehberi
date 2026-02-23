@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Trekking","Manzara izleme","Fotoğrafçılık","Yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6kbel%20Tepesi","alt":"Gökbel Tepesi","caption":"Gökbel Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg","alt":"Gökbel Tepesi","caption":"Gökbel Tepesi","credit":"Güver Cliff Landscape (Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kbel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872027","tip":"genel"}]
 description: "Antalya'nın gözde destinasyonlarından biri olan Gökbel Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet."
 keywords: ["Gökbel Tepesi","Antalya","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","yürüyüş","manzara"]

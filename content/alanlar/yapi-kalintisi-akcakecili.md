@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","coğrafya keşfi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yap%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1%2C%20Ak%C3%A7ake%C3%A7ili","alt":"Yapı Kalıntısı, Akçakeçili","caption":"Yapı Kalıntısı, Akçakeçili"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Yapı Kalıntısı, Akçakeçili","caption":"Yapı Kalıntısı, Akçakeçili","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yap%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1%2C%20Ak%C3%A7ake%C3%A7ili","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245685","tip":"genel"}]
 description: "Ezine'de bulunan Yapı Kalıntısı, Akçakeçili, tarihi ve coğrafi güzelliği ile dikkat çekiyor."
 keywords: ["Ezine","Yapı Kalıntısı","Akçakeçili","tarih","coğrafya","doğa","gezi","turizm","çağ","yüzyıl"]

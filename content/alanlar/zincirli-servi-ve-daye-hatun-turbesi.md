@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zincirli%20Servi%20ve%20Daye%20Hatun%20T%C3%BCrbesi","alt":"Zincirli Servi ve Daye Hatun Türbesi","caption":"Zincirli Servi ve Daye Hatun Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Zincirli Servi ve Daye Hatun Türbesi","caption":"Zincirli Servi ve Daye Hatun Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zincirli%20Servi%20ve%20Daye%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391811","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi mekan ve doğal güzellik."
 keywords: ["Zincirli Servi","Daye Hatun Türbesi","Fatih","İstanbul","tarihi mekan","doğal güzellik","Marmara Bölgesi","toplum merkezi","tarihçe","coğrafya"]

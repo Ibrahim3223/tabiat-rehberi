@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","tepe tırmanışı","yerel kültürü deneyimleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Me%C5%9Finda%C4%9F%C4%B1%20Tepesi","alt":"Meşindağı Tepesi","caption":"Meşindağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Meşindağı Tepesi","caption":"Meşindağı Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Me%C5%9Finda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386552","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde yer alan Meşindağı Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve çeşitli bitki türleriyle zengin fauna sahiptir."
 keywords: ["Meşindağı Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","tepe","doğa","flora","fauna"]

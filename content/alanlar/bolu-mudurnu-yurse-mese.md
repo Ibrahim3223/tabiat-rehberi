@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","kamp","tarihî yapıları gezmek","flora ve fauna"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Mudurnu-Yurse%20Mese","alt":"Bolu-Mudurnu-Yurse Mese","caption":"Bolu-Mudurnu-Yurse Mese"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bolu_G%C3%B6lc%C3%BCk_Tabiat_02.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Tabiat_02.jpg","alt":"Bolu-Mudurnu-Yurse Mese","caption":"Bolu-Mudurnu-Yurse Mese","credit":"Bolu Gölcük Tabiat 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Mudurnu-Yurse%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227759","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Bolu-Mudurnu-Yurse Mese milli parkı, zengin doğası ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Bolu","Mudurnu","Yurse Mese","milli park","Karadeniz Bölgesi","doğa","tarih","turizm"]

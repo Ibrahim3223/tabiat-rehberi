@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","bitki incelemesi","fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bazgira%20Tepesi","alt":"Bazgira Tepesi","caption":"Bazgira Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Bazgira Tepesi","caption":"Bazgira Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bazgira%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548335","tip":"genel"}]
 description: "Siirt'in doğal güzelliklerini keşfedin, Bazgira Tepesi'ni ziyaret edin."
 keywords: ["Siirt","Bazgira Tepesi","doğal güzellik","tepe","Güneydoğu Anadolu Bölgesi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Tarih ve kültür araştırması"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Nurettin%20Efendi%20T%C3%BCrbesi","alt":"Şeyh Nurettin Efendi Türbesi","caption":"Şeyh Nurettin Efendi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Şeyh Nurettin Efendi Türbesi","caption":"Şeyh Nurettin Efendi Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Nurettin%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391810","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Şeyh Nurettin Efendi","Türbe","Fatih","İstanbul","Marmara Bölgesi","Tarih","Kültür","Gezi","Turizm"]

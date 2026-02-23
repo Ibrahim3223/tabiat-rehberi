@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Manzara izleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Deveci%20Tepesi","alt":"Deveci Tepesi","caption":"Deveci Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Deveci Tepesi","caption":"Deveci Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deveci%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390774","tip":"genel"}]
 description: "Yozgat'ın doğal güzelliklerinden biri olan Deveci Tepesi, İç Anadolu Bölgesi'nin zengin tarihi ve coğrafyasını keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Deveci Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","coğrafya","tarih","gezi","turizm","tepe","manzara"]

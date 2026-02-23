@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=P%C4%B1rt%20Tepe","alt":"Pırt Tepe","caption":"Pırt Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Pırt Tepe","caption":"Pırt Tepe","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/P%C4%B1rt%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34895608","tip":"genel"}]
 description: "Şırnak'ta bulunan Pırt Tepe, doğa severlerin keşfetmeyi bekleyen bir dağ"
 keywords: ["Pırt Tepe","Şırnak","Dağ","Doğa","Türkiye","Gezi","Seyahat","Turizm","Coğrafya"]

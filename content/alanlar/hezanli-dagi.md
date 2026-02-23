@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hezanl%C4%B1%20Da%C4%9F%C4%B1","alt":"Hezanlı Dağı","caption":"Hezanlı Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_beauties_of_nature_-_and_how_far_they_transcend_those_of_art_in_landscape_gardening_-_a_poem_%28IA_beautiesofnature00sinc%29.pdf/page1-791px-The_beauties_of_nature_-_and_how_far_they_transcend_those_of_art_in_landscape_gardening_-_a_poem_%28IA_beautiesofnature00sinc%29.pdf.jpg","alt":"Hezanlı Dağı","caption":"Hezanlı Dağı","credit":"The beauties of nature - and how far they transcend those of art in landscape gardening - a poem (IA beautiesofnature00sinc).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hezanl%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520751","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Hezanlı Dağı, doğa severler için bir çekim merkezi."
 keywords: ["Hezanlı Dağı","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezi Rehberi","Dağ Keşfi","Doğal Alanlar","Turizm Noktaları","Coğrafi Yerler"]

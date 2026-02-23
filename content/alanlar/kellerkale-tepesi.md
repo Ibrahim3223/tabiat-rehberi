@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kellerkale%20Tepesi","alt":"Kellerkale Tepesi","caption":"Kellerkale Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Kellerkale Tepesi","caption":"Kellerkale Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kellerkale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558565","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin. Kellerkale Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kellerkale Tepesi","Ankara","İç Anadolu Bölgesi","doğa","gezi","tepe","coğrafya","tarihçe","flora","fauna"]

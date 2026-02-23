@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Köy turu","Etkinliklere katılma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Al%C4%B1nc%C4%B1k%20K%C3%B6y%C3%BC%20T%C3%BCrbesi","alt":"Alıncık Köyü Türbesi","caption":"Alıncık Köyü Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Alıncıköyü Türbesi","caption":"Alıncıköyü Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Al%C4%B1nc%C4%B1k%20K%C3%B6y%C3%BC%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391392","tip":"genel"}]
 description: "Kütahya'nın Altıntaş ilçesinde yer alan Alıncıköyü Türbesi, Ege Bölgesi'nin önemli turizm merkezlerinden biri"
 keywords: ["Alıncıköyü Türbesi","Altıntaş","Kütahya","Ege Bölgesi","Türbe","Köy","Tarih","Doğa"]

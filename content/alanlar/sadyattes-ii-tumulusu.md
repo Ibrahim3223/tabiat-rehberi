@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","arkeoloji turu","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sadyattes%20II%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","alt":"Sadyattes II Tümülüsü","caption":"Sadyattes II Tümülüsü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf/page1-737px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_cu31924028548810%29.pdf.jpg","alt":"Sadyattes II Tümülüsü","caption":"Sadyattes II Tümülüsü","credit":"Asia Minor - Walter A. Hawley, 1918 (IA cu31924028548810).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sadyattes%20II%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728364","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi zenginliklerini keşfedin. Salihli, Manisa'da bulunan Sadyattes II Tümülüsü, antik Lidya Krallığı'nın önemli bir bölümüdür."
 keywords: ["Lidya Krallığı","Sadyattes II","Manisa","Salihli","tarih","arkeoloji","Ege Bölgesi","tümülüs","antik dönem"]

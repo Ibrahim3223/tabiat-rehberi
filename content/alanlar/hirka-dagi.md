@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=H%C4%B1rka%20Da%C4%9F%C4%B1","alt":"Hırka Dağı","caption":"Hırka Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fairy_Chimneys_-_panoramio_%283%29.jpg/960px-Fairy_Chimneys_-_panoramio_%283%29.jpg","alt":"Hırka Dağı","caption":"Hırka Dağı","credit":"Fairy Chimneys - panoramio (3).jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1rka%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520716","tip":"genel"}]
 description: "Nevşehir'de bulunan Hırka Dağı, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Hırka Dağı","Nevşehir","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Kapadokya"]

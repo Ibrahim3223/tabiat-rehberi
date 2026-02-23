@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Foso%20Da%C4%9F%C4%B1","alt":"Foso Dağı","caption":"Foso Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Foso Dağı","caption":"Foso Dağı","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Foso%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31523729","tip":"genel"}]
 description: "Diyarbakır'da bulunan Foso Dağı, 1200 hektarlık yeşil alanı ile şehrin önemli doğal güzelliklerinden biri"
 keywords: ["Foso Dağı","Diyarbakır","doğal güzellikler","dağ","yeşil alan","turizm","gezi","Diyarbakır gezilecek yerler","Foso Dağı hakkında"]

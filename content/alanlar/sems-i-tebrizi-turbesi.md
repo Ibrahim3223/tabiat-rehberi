@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve bahçelerini gezmek","Mevlana Müzesi'ni ziyaret etmek","Çevre tarihi eserleri keşfetmek","Manevi etkinliklere katılmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eems-i%20Tebrizi%20T%C3%BCrbesi","alt":"Şems-i Tebrizi Türbesi","caption":"Şems-i Tebrizi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Şems-i Tebrizi Türbesi","caption":"Şems-i Tebrizi Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eems-i%20Tebrizi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390887","tip":"genel"}]
 description: "Konya'nın manevi havasını soluyabileceğiniz bir mekan. Şems-i Tebrizi Türbesi, tarihin ve maneviyatın buluşma noktası."
 keywords: ["Şems-i Tebrizi","Türbe","Konya","Maneviyat","Tarih","Mevlana","İslam","Tasavvuf","Karatay"]

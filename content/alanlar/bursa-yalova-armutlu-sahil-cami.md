@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Cami ziyareti","Deniz manzarası","Yöresel lezzetler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Yalova-Armutlu%20Sahil%20Cami","alt":"Bursa-Yalova-Armutlu Sahil Cami","caption":"Bursa-Yalova-Armutlu Sahil Cami"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Uluda%C4%9F_National_Park_888.jpg/960px-Uluda%C4%9F_National_Park_888.jpg","alt":"Bursa-Yalova-Armutlu Sahil Cami","caption":"Bursa-Yalova-Armutlu Sahil Cami","credit":"Uludağ National Park 888.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Yalova-Armutlu%20Sahil%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227278","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide şehri Bursa'da yer alan Bursa-Yalova-Armutlu Sahil Cami, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bursa","Yalova","Armutlu","Sahil Cami","Marmara Bölgesi","Doğa","Turizm","Gezi","Cami"]

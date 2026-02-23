@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kayak","snowboard","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Erzurum-Erzincan-Erzincan-Sar%C4%B1%C3%A7am","alt":"Erzurum-Erzincan-Erzincan-Sarıçam","caption":"Erzurum-Erzincan-Erzincan-Sarıçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Erzurum-Erzincan-Erzincan-Sarıçam","caption":"Erzurum-Erzincan-Erzincan-Sarıçam","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Erzincan-Erzincan-Sar%C4%B1%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228428","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide milli parklarından biri olan Erzurum-Erzincan-Erzincan-Sarıçam, ziyaretçilerini büyüleyici doğası ve zengin fauna çeşitliliği ile karşılar."
 keywords: ["Erzurum","Erzincan","Sarıçam","milli park","Doğu Anadolu Bölgesi","doğa","fauna","flora","turizm"]

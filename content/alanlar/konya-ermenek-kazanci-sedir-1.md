@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Konya-Ermenek-Kazanci%20Sedir%201","alt":"Konya-Ermenek-Kazanci Sedir 1","caption":"Konya-Ermenek-Kazanci Sedir 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Federal_Register_1952-04-30-_Vol_17_Iss_85_%28IA_sim_federal-register-find_1952-04-30_17_85%29.pdf/page1-960px-Federal_Register_1952-04-30-_Vol_17_Iss_85_%28IA_sim_federal-register-find_1952-04-30_17_85%29.pdf.jpg","alt":"Konya-Ermenek-Kazanci Sedir 1","caption":"Konya-Ermenek-Kazanci Sedir 1","credit":"Federal Register 1952-04-30- Vol 17 Iss 85 (IA sim federal-register-find 1952-04-30 17 85).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Ermenek-Kazanci%20Sedir%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227611","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin, Ermenek-Kazancı Sedir 1 milli parkı"
 keywords: ["Konya","Ermenek","Kazancı","Sedir","milli park","doğa","gezi","turizm"]

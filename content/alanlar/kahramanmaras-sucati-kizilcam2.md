@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","yaban hayatı gözlemleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahramanmaras-Sucati%20K%C4%B1z%C4%B1l%C3%A7am2","alt":"Kahramanmaras-Sucati Kızılçam2","caption":"Kahramanmaras-Sucati Kızılçam2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kahramanmaras-Sucati Kızılçam2","caption":"Kahramanmaras-Sucati Kızılçam2","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Sucati%20K%C4%B1z%C4%B1l%C3%A7am2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227431","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Kahramanmaras-Sucati Kızılçam2, 140 hektarlık geniş bir alana sahiptir."
 keywords: ["Kahramanmaras","Sucati Kızılçam2","Milli Park","İç Anadolu Bölgesi","Doğa","Turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarih gezileri","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Maltepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Sivas","alt":"Maltepe Tümülüsü, Sivas","caption":"Maltepe Tümülüsü, Sivas"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Turkey%2C_Greece_and_Malta_%28IA_b29325146_0002%29.pdf/page1-960px-Turkey%2C_Greece_and_Malta_%28IA_b29325146_0002%29.pdf.jpg","alt":"Maltepe Tümülüsü, Sivas","caption":"Maltepe Tümülüsü, Sivas","credit":"Turkey, Greece and Malta (IA b29325146 0002).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Maltepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Sivas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728412","tip":"genel"}]
 description: "Sivas'ta tarihi bir tümülüs, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Sivas","Maltepe Tümülüsü","tarih","doğa","gezi","Sivas gezilecek yerler","tümülüs","Sivas tarihi"]

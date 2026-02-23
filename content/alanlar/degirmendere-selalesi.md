@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","piknik","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=De%C4%9Firmendere%20%C5%9Eelalesi","alt":"Değirmendere Şelalesi","caption":"Değirmendere Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_ve_Etraf%C4%B1ndaki_Ya%C5%9Fl%C4%B1_A%C4%9Fa%C3%A7lar.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_ve_Etraf%C4%B1ndaki_Ya%C5%9Fl%C4%B1_A%C4%9Fa%C3%A7lar.jpg","alt":"Değirmendere Şelalesi","caption":"Değirmendere Şelalesi","credit":"Kurşunlu Şelalesi Tabiat Parkı ve Etrafındaki Yaşlı Ağaçlar.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/De%C4%9Firmendere%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97207625","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alanDegirmendere Şelalesi, doğa severler için bir cennet. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Degirmendere Şelalesi","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","çevre","ekoloji","yaban hayatı","flora","fauna"]

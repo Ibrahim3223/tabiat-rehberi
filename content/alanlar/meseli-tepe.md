@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Gün boyu"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Me%C5%9Feli%20Tepe","alt":"Meşeli Tepe","caption":"Meşeli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Meşeli Tepe","caption":"Meşeli Tepe","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Me%C5%9Feli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547897","tip":"genel"}]
 description: "Siirt'in doğal güzelliklerinden biri olan Meşeli Tepe, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Meşeli Tepe","Siirt","doğa","dağ","turizm","gezi","yeşil alan","Siirt gezilecek yerler","Meşeli Tepe Siirt"]

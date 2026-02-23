@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hayran%20Tepe","alt":"Hayran Tepe","caption":"Hayran Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg","alt":"Hayran Tepe","caption":"Hayran Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 05.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hayran%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389460","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Hayran Tepe, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Hayran Tepe","Kahramanmaraş","Akdeniz Bölgesi","doğal alan","tepe","gezi","turizm"]

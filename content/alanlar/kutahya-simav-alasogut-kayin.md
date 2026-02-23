@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","doğa gözlemciliği","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kutahya-Simav-Alasogut%20Kayin","alt":"Kutahya-Simav-Alasogut Kayin","caption":"Kutahya-Simav-Alasogut Kayin"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kutahya-Simav-Alasogut Kayin","caption":"Kutahya-Simav-Alasogut Kayin","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Simav-Alasogut%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227266","tip":"genel"}]
 description: "Doğal güzellikleri ve zengin ekosistemiyle dikkat çeken bir milli park"
 keywords: ["Kutahya","Simav","Alasogut Kayin","milli park","doğa","ekosistem","çevre","turizm","gezi","yaban hayatı"]

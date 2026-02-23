@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Eğitim programları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Biyo%C3%A7e%C5%9Fitlilik%20M%C3%BCzesi%20(Biyosfer%20M%C3%BCze)","alt":"Biyoçeşitlilik Müzesi (Biyosfer Müze)","caption":"Biyoçeşitlilik Müzesi (Biyosfer Müze)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf/page1-960px-THE_IDEAL_OF_HANDICRAFTS_AND_THE_MODERN_DESIGN_FORMATION_COINCIDENCES_AND_FAILURES.pdf.jpg","alt":"Biyoçeşitlilik Müzesi (Biyosfer Müze)","caption":"Biyoçeşitlilik Müzesi (Biyosfer Müze)","credit":"THE IDEAL OF HANDICRAFTS AND THE MODERN DESIGN FORMATION COINCIDENCES AND FAILURES.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Biyo%C3%A7e%C5%9Fitlilik%20M%C3%BCzesi%20(Biyosfer%20M%C3%BCze)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950204","tip":"genel"}]
 description: "Ankara'nın kalbinde yer alan Biyoçeşitlilik Müzesi, 140 hektarlık bir alanda, doğa ve canlıları korumak için kurulmuştur."
 keywords: ["biyoçeşitlilik","müze","Ankara","doğa","canlılar","koruma","çevre","ekosistem"]

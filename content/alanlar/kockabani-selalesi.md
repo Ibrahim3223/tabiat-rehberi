@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["şelaleyi ziyaret etmek","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ko%C3%A7kaban%C4%B1%20%C5%9Eelalesi","alt":"Koçkabanı Şelalesi","caption":"Koçkabanı Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Travels_of_a_naturalist_in_Japan_and_Manchuria_%28IA_Travelsnaturali00Adam%29.pdf/page1-879px-Travels_of_a_naturalist_in_Japan_and_Manchuria_%28IA_Travelsnaturali00Adam%29.pdf.jpg","alt":"Koçkabanı Şelalesi","caption":"Koçkabanı Şelalesi","credit":"Travels of a naturalist in Japan and Manchuria (IA Travelsnaturali00Adam).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7kaban%C4%B1%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076492","tip":"genel"}]
 description: "Rize'nin güzide şelalelerinden biri olan Koçkabanı Şelalesi, doğa severlerin ziyaret noktalarından."
 keywords: ["Koçkabanı Şelalesi","Rize","Karadeniz Bölgesi","şelaleler","doğa","turizm","gezi"]

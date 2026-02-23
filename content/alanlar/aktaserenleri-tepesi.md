@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akta%C5%9Ferenleri%20Tepesi","alt":"Aktaşerenleri Tepesi","caption":"Aktaşerenleri Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf/page1-831px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_0%29.pdf.jpg","alt":"Aktaşerenleri Tepesi","caption":"Aktaşerenleri Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 0).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akta%C5%9Ferenleri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387328","tip":"genel"}]
 description: "Karabük'ün gizli cenneti, Aktaşerenleri Tepesi, 140 hektarlık yeşil alanıyla doğaseverleri bekliyor."
 keywords: ["Karabük","Aktaşerenleri Tepesi","doğa","gezi","tepe","Karadeniz Bölgesi","turizm","doğal güzellik"]

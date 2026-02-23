@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kutahya-Simav-Aksaz-Kestane","alt":"Kutahya-Simav-Aksaz-Kestane","caption":"Kutahya-Simav-Aksaz-Kestane"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Kutahya-Simav-Aksaz-Kestane","caption":"Kutahya-Simav-Aksaz-Kestane","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Simav-Aksaz-Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228220","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parkı, 140 hektarlık yeşil alan"
 keywords: ["milli park","Kutahya","Simav","Aksaz","Kestane","İç Anadolu Bölgesi","doğa","yeşil alan"]

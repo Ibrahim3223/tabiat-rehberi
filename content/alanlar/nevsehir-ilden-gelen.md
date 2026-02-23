@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nevsehir-ilden-gelen","alt":"Nevsehir-ilden-gelen","caption":"Nevsehir-ilden-gelen"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Colors_of_nature_in_Goreme_Valley.jpg/960px-Colors_of_nature_in_Goreme_Valley.jpg","alt":"Nevsehir-ilden-gelen","caption":"Nevsehir-ilden-gelen","credit":"Colors of nature in Goreme Valley.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nevsehir-ilden-gelen","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226976","tip":"genel"}]
 description: "Nevşehir ilinden gelenler için doğal bir cennet olan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Nevşehir","milli park","doğa","yeşil alan","futbol sahası büyüklüğünde"]

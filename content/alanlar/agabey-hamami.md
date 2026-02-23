@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denize girme","Güneşlenme","Su sporları","Doğa yürüyüşleri","Çevre gezileri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C4%9Fabey%20Hamam%C4%B1","alt":"Ağabey Hamamı","caption":"Ağabey Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Ağabey Hamamı","caption":"Ağabey Hamamı","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Fabey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739052","tip":"genel"}]
 description: "Kadıköy'ün gizli cenneti, Ağabey Hamamı'nda deniz, kum ve güneşin keyfini çıkarın"
 keywords: ["Kadıköy","Ağabey Hamamı","plaj","deniz","kum","güneş","Marmara Bölgesi","İstanbul","turizm","gezi"]

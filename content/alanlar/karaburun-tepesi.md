@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezintisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaburun%20Tepesi","alt":"Karaburun Tepesi","caption":"Karaburun Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Explorations_in_Bible_lands_during_the_19th_century_%28IA_explorationsinbi00hilp%29.pdf/page1-918px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_explorationsinbi00hilp%29.pdf.jpg","alt":"Karaburun Tepesi","caption":"Karaburun Tepesi","credit":"Explorations in Bible lands during the 19th century (IA explorationsinbi00hilp).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaburun%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389304","tip":"genel"}]
 description: "Malatya'nın doğal güzelliklerinden biri olan Karaburun Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Karaburun Tepesi","Malatya","Doğu Anadolu Bölgesi","doğa","gezi","turizm"]

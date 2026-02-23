@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçi gezisi","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%BCleyman%20Bey%20K%C3%BCmbeti%2C%20G%C3%BCrp%C4%B1nar","alt":"Süleyman Bey Kümbeti, Gürpınar","caption":"Süleyman Bey Kümbeti, Gürpınar"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Huntington_Beach_News_-_1918-05-10_%28IA_castaoca_000354%29.pdf/page1-960px-Huntington_Beach_News_-_1918-05-10_%28IA_castaoca_000354%29.pdf.jpg","alt":"Süleyman Bey Kümbeti, Gürpınar","caption":"Süleyman Bey Kümbeti, Gürpınar","credit":"Huntington Beach News - 1918-05-10 (IA castaoca 000354).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCleyman%20Bey%20K%C3%BCmbeti%2C%20G%C3%BCrp%C4%B1nar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582820","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Süleyman Bey Kümbeti, Gürpınar'da tarihi bir değer olarak karşımıza çıkıyor."
 keywords: ["Süleyman Bey Kümbeti","Gürpınar","Van","Doğu Anadolu Bölgesi","tarihi değer","kültürel miras","coğrafya","doğa"]

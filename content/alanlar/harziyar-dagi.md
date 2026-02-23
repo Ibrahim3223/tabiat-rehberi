@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Harziyar%20Da%C4%9F%C4%B1","alt":"Harziyar Dağı","caption":"Harziyar Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu/page1-800px-Armenia%2C_Travels_and_Studies%2C_Vol._2.djvu.jpg","alt":"Harziyar Dağı","caption":"Harziyar Dağı","credit":"Armenia, Travels and Studies, Vol. 2.djvu","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harziyar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31566947","tip":"genel"}]
 description: "Kars'ta bulunan Harziyar Dağı, doğa severlerin ziyaret ettiği bir dağdır. 1400 metre yüksekliğiyle dikkat çeker."
 keywords: ["Harziyar Dağı","Kars","Dağ","Doğa","Trekking","Kars Gezi","Dağcılık","Doğa Yürüyüşü","Kars Turizm"]

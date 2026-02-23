@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Duruca%20Da%C4%9F%C4%B1","alt":"Duruca Dağı","caption":"Duruca Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_prophet_of_the_Great_Smoky_Mountains_%28IA_prophetofgreatsm00crad%29.pdf/page1-837px-The_prophet_of_the_Great_Smoky_Mountains_%28IA_prophetofgreatsm00crad%29.pdf.jpg","alt":"Duruca Dağı","caption":"Duruca Dağı","credit":"The prophet of the Great Smoky Mountains (IA prophetofgreatsm00crad).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Duruca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31583897","tip":"genel"}]
 description: "Muş'un görkemli dağlarından biri olan Duruca Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Duruca Dağı","Muş","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Doğa Severler","Görkemli Manzaralar"]

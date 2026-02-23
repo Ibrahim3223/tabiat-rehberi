@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kumsalbelen%20Tepe","alt":"Kumsalbelen Tepe","caption":"Kumsalbelen Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Kumsalbelen Tepe","caption":"Kumsalbelen Tepe","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumsalbelen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385574","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Kumsalbelen Tepe, Gaziantep'in önemli güzelliklerinden biri."
 keywords: ["Gaziantep","Güneydoğu Anadolu Bölgesi","Kumsalbelen Tepe","doğal güzellik","coğrafya","tarihçe"]

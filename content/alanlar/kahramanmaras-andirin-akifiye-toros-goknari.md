@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Kampçılık","Photograf","Doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahramanmaras-And%C4%B1r%C4%B1n-Akifiye-Toros%20Goknari","alt":"Kahramanmaras-Andırın-Akifiye-Toros Goknari","caption":"Kahramanmaras-Andırın-Akifiye-Toros Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Kahramanmaras-Andırın-Akifiye-Toros Goknari","caption":"Kahramanmaras-Andırın-Akifiye-Toros Goknari","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-And%C4%B1r%C4%B1n-Akifiye-Toros%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228582","tip":"genel"}]
 description: "Kahramanmaras-Andırın-Akifiye-Toros Goknari milli parkı, İç Anadolu Bölgesi'nin gizli cenneti"
 keywords: ["Kahramanmaras-Andırın-Akifiye-Toros Goknari","Milli park","İç Anadolu Bölgesi","Doğa","Turizm","Gezi","Yaban hayatı","Ekoloji"]

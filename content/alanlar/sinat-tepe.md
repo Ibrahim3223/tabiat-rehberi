@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1nat%20Tepe","alt":"Sınat Tepe","caption":"Sınat Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wle-jury-report-2020-hires.pdf/page1-960px-Wle-jury-report-2020-hires.pdf.jpg","alt":"Sınat Tepe","caption":"Sınat Tepe","credit":"Wle-jury-report-2020-hires.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1nat%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390444","tip":"genel"}]
 description: "Konya'nın güzide noktalarından biri olan Sınat Tepe, tarihi ve coğrafi açıdan önemli bir değer sunar."
 keywords: ["Sınat Tepe","Konya","İç Anadolu Bölgesi","coğrafya","tarihçe","flora","fauna","ziyaret"]

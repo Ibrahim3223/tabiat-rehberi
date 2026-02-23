@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyareti","Mardin'in tarihi dokusunu gezme","Coğrafi konumu keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Kas%C4%B1m%20Halveti%20ve%20T%C3%BCrbesi","alt":"Şeyh Kasım Halveti ve Türbesi","caption":"Şeyh Kasım Halveti ve Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Life_and_light_for_woman_%28IA_lifelightforwoma19woma%29.pdf/page1-835px-Life_and_light_for_woman_%28IA_lifelightforwoma19woma%29.pdf.jpg","alt":"Şeyh Kasım Halveti ve Türbesi","caption":"Şeyh Kasım Halveti ve Türbesi","credit":"Life and light for woman (IA lifelightforwoma19woma).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Kas%C4%B1m%20Halveti%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582871","tip":"genel"}]
 description: "Mardin'in Artuklu ilçesinde bulunan tarihi ve kültürel öneme sahip bir mekan"
 keywords: ["Şeyh Kasım Halveti","Mardin","Artuklu","Türbe","Tarih","Kültür","Din","Mimari","Coğrafya","Doğa"]

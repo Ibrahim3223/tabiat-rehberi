@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C4%B1rak%C3%A7%C4%B1%20Tepe","alt":"Çırakçı Tepe","caption":"Çırakçı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Çırakçı Tepe","caption":"Çırakçı Tepe","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1rak%C3%A7%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819221","tip":"genel"}]
 description: "Ankara'nın önemli dağlarından biri olan Çırakçı Tepe, şehrin doğal güzelliklerini keşfetmek için ideal bir nokta."
 keywords: ["Çırakçı Tepe","Ankara dağları","doğa yürüyüşü","turizm","gezi rehberi","Ankara gezilecek yerler","dağcılık","çevre turizmi","Ankara'nın doğal güzellikleri"]

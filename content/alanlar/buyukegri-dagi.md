@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCy%C3%BCke%C4%9Fri%20Da%C4%9F%C4%B1","alt":"Büyükeğri Dağı","caption":"Büyükeğri Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Büyükeğri Dağı","caption":"Büyükeğri Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCke%C4%9Fri%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731335","tip":"genel"}]
 description: "Mersin'in görkemli dağlarından biri olan Büyükeğri Dağı, 1200 hektarlık yeşil alanıyla doğaseverleri bekliyor."
 keywords: ["Büyükeğri Dağı","Mersin","dağ","doğa","gezi","turizm","Mersin dağları","Büyükeğri","Mersin turizm"]

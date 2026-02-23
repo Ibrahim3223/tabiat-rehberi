@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Park gezi","Çeşme ziyareti","Yeşil alanlarda dinlenme","Restoran ve kafe ziyaretleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20Park%C4%B1%20%C3%87e%C5%9Fmesi","alt":"Yıldız Parkı Çeşmesi","caption":"Yıldız Parkı Çeşmesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Yıldız Parkı Çeşmesi","caption":"Yıldız Parkı Çeşmesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Park%C4%B1%20%C3%87e%C5%9Fmesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131368894","tip":"genel"}]
 description: "Beşiktaş'ta bulunan tarihi çeşme ve park alanı"
 keywords: ["Yıldız Parkı","Çeşme","Beşiktaş","İstanbul","Marmara Bölgesi","Tarihi Alan","Park","Çevre"]

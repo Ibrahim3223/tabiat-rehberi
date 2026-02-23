@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Tarihçe keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arab%C4%B1n%20Tepesi","alt":"Arabın Tepesi","caption":"Arabın Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Arabın Tepesi","caption":"Arabın Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arab%C4%B1n%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386345","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin zengin tarihi ve doğal güzelliklerini keşfedin. Gaziantep'in önemli noktalarından biri olan Arabın Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Arabın Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarihi yerler","gezi","turizm","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Trekking","doğa yürüyüşü","yaban hayatı gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bademli%20Tepesi","alt":"Bademli Tepesi","caption":"Bademli Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wle-jury-report-2024-lores.pdf/page1-960px-Wle-jury-report-2024-lores.pdf.jpg","alt":"Bademli Tepesi","caption":"Bademli Tepesi","credit":"Wle-jury-report-2024-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bademli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390225","tip":"genel"}]
 description: "Burdur'un doğal güzellikleri arasında yer alan Bademli Tepesi, ziyaretçilerini etkileyen bir destinasyon"
 keywords: ["Burdur","Akdeniz Bölgesi","doğal güzellikler","tepe","gezi","yaban hayatı","çevre","iklim","flora","fauna"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Damal%20Atat%C3%BCrk%20Sil%C3%BCeti%20Sit%20Alan%C4%B1","alt":"Damal Atatürk Silüeti Sit Alanı","caption":"Damal Atatürk Silüeti Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Damal Atatürk Silüeti Sit Alanı","caption":"Damal Atatürk Silüeti Sit Alanı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Damal%20Atat%C3%BCrk%20Sil%C3%BCeti%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226259","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Damal Atatürk Silüeti Sit Alanı, yaklaşık 140 hektarlık bir alanı kapsar."
 keywords: ["Damal Atatürk Silüeti","Sit Alanı","İç Anadolu Bölgesi","doğal alan","korunan bölge"]

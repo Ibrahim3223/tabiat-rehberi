@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Deniz keyfi","Güneş banyosu","Yürüyüş","Picnic","Sualtı dalış"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sar%C4%B1k%C3%B6y%20Hamam%C4%B1","alt":"Sarıköy Hamamı","caption":"Sarıköy Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Sarıköy Hamamı","caption":"Sarıköy Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1k%C3%B6y%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739234","tip":"genel"}]
 description: "Gönen'in gizli cenneti Sarıköy Hamamı, Marmara Bölgesi'nin en güzel plajlarından biri."
 keywords: ["Sarıköy Hamamı","Gönen","Balıkesir","Marmara Bölgesi","plaj","deniz","kum","gizli cennet"]

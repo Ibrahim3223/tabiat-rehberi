@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Merdan%20Ma%C4%9Faras%C4%B1","alt":"Merdan Mağarası","caption":"Merdan Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Merdan Mağarası","caption":"Merdan Mağarası","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merdan%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319550","tip":"genel"}]
 description: "Diyarbakır'da yer alan Merdan Mağarası, jeopark olarak bilinen doğal güzelliği keşfedin"
 keywords: ["Merdan Mağarası","Diyarbakır","Jeopark","Doğal Güzellik","Mağara","Turizm","Gezi","Diyarbakır Turistik Yerler","Jeolojik Oluşum"]

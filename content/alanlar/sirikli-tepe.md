@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotografcılık","Yaban hayatı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1r%C4%B1kl%C4%B1%20Tepe","alt":"Sırıklı Tepe","caption":"Sırıklı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Sırıklı Tepe","caption":"Sırıklı Tepe","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1r%C4%B1kl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389818","tip":"genel"}]
 description: "Çankırı'nın tarihi ve doğal güzelliklerinin birleştiği Sırıklı Tepe, ziyaretçilerini bekliyor"
 keywords: ["Sırıklı Tepe","Çankırı","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm","çevre","ekoloji"]

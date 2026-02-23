@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","gezi","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mahya%20Tepesi","alt":"Mahya Tepesi","caption":"Mahya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Groups_of_plants_valuable_for_wildlife_utilization_and_erosion_control_%28IA_groupsofplantsva412mcat%29.pdf/page1-793px-Groups_of_plants_valuable_for_wildlife_utilization_and_erosion_control_%28IA_groupsofplantsva412mcat%29.pdf.jpg","alt":"Mahya Tepesi","caption":"Mahya Tepesi","credit":"Groups of plants valuable for wildlife utilization and erosion control (IA groupsofplantsva412mcat).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31562664","tip":"genel"}]
 description: "Bursa'nın doğal güzelliklerinden biri olan Mahya Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Bursa","Mahya Tepesi","Marmara Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]

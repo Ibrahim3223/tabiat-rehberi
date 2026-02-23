@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Değişken"
 aktiviteler: ["Termal su tedavisi","Dinlenme","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Urganl%C4%B1%20Kapl%C4%B1calar%C4%B1","alt":"Urganlı Kaplıcaları","caption":"Urganlı Kaplıcaları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Urganlı Kaplıcaları","caption":"Urganlı Kaplıcaları","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Urganl%C4%B1%20Kapl%C4%B1calar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31189587","tip":"genel"}]
 description: "Manisa'nın termal zenginlikleri arasında yer alan Urganlı Kaplıcaları, 140 hektarlık yeşil alanı ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Urganlı Kaplıcaları","Manisa","termal kaynak","Ege Bölgesi","kaplıca","turizm","sağlık"]

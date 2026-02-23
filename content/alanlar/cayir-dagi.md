@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ay%C4%B1r%20Da%C4%9F%C4%B1","alt":"Çayır Dağı","caption":"Çayır Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Armenians%2C_or_The_people_of_Ararat_%28IA_armeniansorpeopl00gabr%29.pdf/page1-675px-The_Armenians%2C_or_The_people_of_Ararat_%28IA_armeniansorpeopl00gabr%29.pdf.jpg","alt":"Çayır Dağı","caption":"Çayır Dağı","credit":"The Armenians, or The people of Ararat (IA armeniansorpeopl00gabr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ay%C4%B1r%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824464","tip":"genel"}]
 description: "Bitlis'in görkemli dağlarından biri olan Çayır Dağı, doğa severler için bir cennet. 1400 metre yükseklikte, büyüleyici manzaralar sunuyor."
 keywords: ["Çayır Dağı","Bitlis","Dağ","Doğa","Trekking","Kamp","Manzara","Gezi","Turizm","Bitlis Turistik Yerler"]

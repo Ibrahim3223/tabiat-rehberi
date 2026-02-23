@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","picnic","doğayla iç içe olmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%96r%C3%BCmcek%20Ormani%20Ladini%203","alt":"Örümcek Ormani Ladini 3","caption":"Örümcek Ormani Ladini 3"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Örümcek Ormani Ladini 3","caption":"Örümcek Ormani Ladini 3","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96r%C3%BCmcek%20Ormani%20Ladini%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227174","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti Örümcek Ormani Ladini 3, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor."
 keywords: ["Örümcek Ormani Ladini 3","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","gezi","turizm"]

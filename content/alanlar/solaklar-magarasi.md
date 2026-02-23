@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Solaklar%20Ma%C4%9Faras%C4%B1","alt":"Solaklar Mağarası","caption":"Solaklar Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/G%C3%B6lc%C3%BCk_evi.jpg/960px-G%C3%B6lc%C3%BCk_evi.jpg","alt":"Solaklar Mağarası","caption":"Solaklar Mağarası","credit":"Gölcük evi.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Solaklar%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319770","tip":"genel"}]
 description: "Bolu'da yer alan Solaklar Mağarası, 1200 hektarlık bir jeopark alanı sunar ve doğa severler için önemli bir destinasyon"
 keywords: ["Solaklar Mağarası","Bolu","Jeopark","Doğa Turizmi","Mağara Gezisi","Turistik Yerler","Bolu Turizm","Jeolojik Alanlar","Doğa Harikaları"]

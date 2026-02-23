@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kulak%20Tepe","alt":"Kulak Tepe","caption":"Kulak Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Kulak Tepe","caption":"Kulak Tepe","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kulak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386239","tip":"genel"}]
 description: "Hatay'da bulunan Kulak Tepe, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir. Zengin fauna ve flora çeşitliliği ile dikkat çeker."
 keywords: ["Kulak Tepe","Hatay","Akdeniz Bölgesi","doğal alan","flora","fauna"]

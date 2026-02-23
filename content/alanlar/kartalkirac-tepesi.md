@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kartalk%C4%B1ra%C3%A7%20Tepesi","alt":"Kartalkıraç Tepesi","caption":"Kartalkıraç Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Kartalkıraç Tepesi","caption":"Kartalkıraç Tepesi","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartalk%C4%B1ra%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878301","tip":"genel"}]
 description: "Diyarbakır'ın doğal güzelliklerinden biri olan Kartalkıraç Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kartalkıraç Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]

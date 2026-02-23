@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Günlük ziyaret"
 aktiviteler: ["Yürüyüş","Piknik","Doğa izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yav%C5%9Fan%20Yaylas%C4%B1","alt":"Yavşan Yaylası","caption":"Yavşan Yaylası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Yavşan Yaylası","caption":"Yavşan Yaylası","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yav%C5%9Fan%20Yaylas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228146","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Yavşan Yaylası, ziyaretçilerini büyüleyici bir doğa ile karşılıyor."
 keywords: ["Yavşan Yaylası","İç Anadolu Bölgesi","doğa","yayla","turizm","gezi","çevre","ekosistem"]

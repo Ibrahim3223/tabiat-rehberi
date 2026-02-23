@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık"," piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Me%C5%9Fe%20Tepesi","alt":"Meşe Tepesi","caption":"Meşe Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Paysage_entre_pluie_et_soleil_%C3%A0_Hem%C5%9Fin.jpg/960px-Paysage_entre_pluie_et_soleil_%C3%A0_Hem%C5%9Fin.jpg","alt":"Meşe Tepesi","caption":"Meşe Tepesi","credit":"Paysage entre pluie et soleil à Hemşin.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Me%C5%9Fe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388475","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Rize şehrinde yer alan Meşe Tepesi, 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğündeki genişliğiyle dikkat çekiyor. Bu bölge, ziyaretçilerini doğanın güzelliği ile baş başa bırakıyor."
 keywords: ["Meşe Tepesi","Rize","Karadeniz Bölgesi","doğa","yeşil alan","futbol sahası"]

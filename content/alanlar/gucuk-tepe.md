@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Tarihçi Turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCc%C3%BCk%20Tepe","alt":"Gücük Tepe","caption":"Gücük Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yelatan_Alada%C4%9Flar_Lake.jpg/960px-Yelatan_Alada%C4%9Flar_Lake.jpg","alt":"Gücük Tepe","caption":"Gücük Tepe","credit":"Yelatan Aladağlar Lake.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCc%C3%BCk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138962","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cevheri, Niğde'de yer alan Gücük Tepe"
 keywords: ["Gücük Tepe","Niğde","İç Anadolu Bölgesi","doğa","gezi","tarih","coğrafya","flora","fauna"]

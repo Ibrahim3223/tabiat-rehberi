@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=B%C3%BCnyan%20Da%C4%9F%C4%B1","alt":"Bünyan Dağı","caption":"Bünyan Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/The_universal_geography_-_the_earth_and_its_inhabitants_%28IA_cu31924095158964%29.pdf/page1-925px-The_universal_geography_-_the_earth_and_its_inhabitants_%28IA_cu31924095158964%29.pdf.jpg","alt":"Bünyan Dağı","caption":"Bünyan Dağı","credit":"The universal geography - the earth and its inhabitants (IA cu31924095158964).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCnyan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731202","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerini keşfedin, Bünyan Dağı'nda doğa yürüyüşleri ve manzaralar"
 keywords: ["Bünyan Dağı","Samsun","Dağ","Doğa Yürüyüşü","Manzara","Turizm","Samsun Gezi","Doğal Alan","Trekking"]

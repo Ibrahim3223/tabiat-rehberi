@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğrafçılık","doğa gözlemi","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mehmetdede%20Tepesi","alt":"Mehmetdede Tepesi","caption":"Mehmetdede Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf/page1-960px-A_novel_environmental_restoration_method_for_an_abandoned_limestone_quarry_with_a_deep_open_pit_and_steep_palisades_-_a_case_study.pdf.jpg","alt":"Mehmetdede Tepesi","caption":"Mehmetdede Tepesi","credit":"A novel environmental restoration method for an abandoned limestone quarry with a deep open pit and steep palisades - a case study.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehmetdede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535525","tip":"genel"}]
 description: "Hatay'da bulunan Mehmetdede Tepesi, etkileyici manzarasıyla ziyaretçilerini bekliyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Mehmetdede Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","manzara","gezi","turizm","çevre"]

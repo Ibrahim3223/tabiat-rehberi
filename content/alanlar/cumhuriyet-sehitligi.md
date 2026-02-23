@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günde 4-6 saat"
 aktiviteler: ["plajda güneşlemek","şehitliği ziyaret etmek","doğa yürüyüşü","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cumhuriyet%20%C5%9Eehitli%C4%9Fi","alt":"Cumhuriyet Şehitliği","caption":"Cumhuriyet Şehitliği"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Cumhuriyet Şehitliği","caption":"Cumhuriyet Şehitliği","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cumhuriyet%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728254","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden Afyonkarahisar'da bulunan Cumhuriyet Şehitliği, şehitliğin yanı sıra plaj olarak da kullanılan bir doğal alan."
 keywords: ["Cumhuriyet Şehitliği","Afyonkarahisar","Ege Bölgesi","plaj","doğal alan","turizm","gezi"]

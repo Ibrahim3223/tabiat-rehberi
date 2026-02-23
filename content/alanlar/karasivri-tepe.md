@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","gözlem"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karasivri%20Tepe","alt":"Karasivri Tepe","caption":"Karasivri Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Karasivri Tepe","caption":"Karasivri Tepe","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karasivri%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390925","tip":"genel"}]
 description: "Karasivri Tepe, Kayseri'nin İç Anadolu Bölgesi'nde yer alan tarihi ve coğrafi bir değer"
 keywords: ["Karasivri Tepe","Kayseri","İç Anadolu Bölgesi","tarih","coğrafya","doğa","gezi","turizm"]

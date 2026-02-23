@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye tırmanmak","manzara seyretmek","bitki türleri keşfetmek","kuş türleri izlemek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuruca%20Tepe","alt":"Kuruca Tepe","caption":"Kuruca Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg","alt":"Kuruca Tepe","caption":"Kuruca Tepe","credit":"Güver Cliff Landscape (Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuruca%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390180","tip":"genel"}]
 description: "Antalya'nın gizli cenneti Kuruca Tepe, doğa severler için bir çekim noktasıdır."
 keywords: ["Kuruca Tepe","Antalya","Akdeniz Bölgesi","doğa","gezi","tepe","manzara","turizm","çevre"]

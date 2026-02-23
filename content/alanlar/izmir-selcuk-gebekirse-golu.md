@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Selcuk%20Gebekirse%20Golu","alt":"Izmir-Selcuk Gebekirse Golu","caption":"Izmir-Selcuk Gebekirse Golu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MOKFC02.jpg/960px-MOKFC02.jpg","alt":"Izmir-Selcuk Gebekirse Golu","caption":"Izmir-Selcuk Gebekirse Golu","credit":"MOKFC02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Selcuk%20Gebekirse%20Golu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228381","tip":"genel"}]
 description: "Izmir'in doğal güzelliklerini keşfedin. Gebekirse Golu, Ege Bölgesi'nin önemli doğal alanlarından biri."
 keywords: ["Izmir","Selcuk","Gebekirse Golu","Ege Bölgesi","doğa","göl","milli park"]

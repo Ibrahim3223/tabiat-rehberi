@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarihî yerleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Girenka%C5%9F%20Tepesi","alt":"Girenkaş Tepesi","caption":"Girenkaş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Girenkaş Tepesi","caption":"Girenkaş Tepesi","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Girenka%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389734","tip":"genel"}]
 description: "Kastamonu'nun en yüksek noktalarından biri olan Girenkaş Tepesi, yaklaşık 1400 metre yüksekliği ile ziyaretçilerini bekliyor."
 keywords: ["Girenkaş Tepesi","Kastamonu","Karadeniz Bölgesi","tepe","doğa","gezi","tarihçe"]

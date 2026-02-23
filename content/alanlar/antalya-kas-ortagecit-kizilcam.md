@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kamp","yaban hayatı gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Kas-Ortagecit%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Antalya-Kas-Ortagecit Kızılçam","caption":"Antalya-Kas-Ortagecit Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Solitariness_-_panoramio.jpg/960px-Solitariness_-_panoramio.jpg","alt":"Antalya-Kas-Ortagecit Kızılçam","caption":"Antalya-Kas-Ortagecit Kızılçam","credit":"Solitariness - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Kas-Ortagecit%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227850","tip":"genel"}]
 description: "Akdeniz Bölgesi'nde yer alan Antalya-Kas-Ortagecit Kızılçam, doğa severlerin gözdesi."
 keywords: ["Antalya","Kas","Ortagecit Kızılçam","milli park","doğa","gezi","yaban hayatı","ekosistem"]

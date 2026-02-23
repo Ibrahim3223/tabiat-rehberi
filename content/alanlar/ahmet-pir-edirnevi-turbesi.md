@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Bahçe yürüyüşü","Ahmed Pir Edirnevi teachingsini öğrenmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ahmet%20Pir%20Edirnevi%20T%C3%BCrbesi","alt":"Ahmet Pir Edirnevi Türbesi","caption":"Ahmet Pir Edirnevi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Ahmet Pir Edirnevi Türbesi","caption":"Ahmet Pir Edirnevi Türbesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahmet%20Pir%20Edirnevi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118929317","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Ahmet Pir Edirnevi Türbesi","Eyüpsultan","İstanbul","tarih","kültür","gezi","türbe","Marmara Bölgesi"]

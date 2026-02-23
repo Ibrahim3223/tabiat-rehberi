@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları ziyaret etmek","Doğa yürüyüşü yapmak","Flora ve fauna gözlemlemek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pa%C5%9Fatepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","alt":"Paşatepe Tümülüsü","caption":"Paşatepe Tümülüsü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Paşatepe Tümülüsü","caption":"Paşatepe Tümülüsü","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pa%C5%9Fatepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728393","tip":"genel"}]
 description: "Çanakkale'nin tarihi ve doğal güzelliklerini keşfedin. Paşatepe Tümülüsü, ziyaretçilerini bekliyor."
 keywords: ["Paşatepe Tümülüsü","Çanakkale","Tümülüs","Tarih","Doğa","Gezi","Turizm","Çanakkale Gezilecek Yerler","Tümülüsler"]

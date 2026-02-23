@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","picnic","denizde yüzme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Silahhane","alt":"Yıldız Sarayı Silahhane","caption":"Yıldız Sarayı Silahhane"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Yıldız Sarayı Silahhane","caption":"Yıldız Sarayı Silahhane","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Silahhane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133475499","tip":"genel"}]
 description: "Beşiktaş'ta bulunan tarihi bir plaj"
 keywords: ["Yıldız Sarayı","Silahhane","Beşiktaş","İstanbul","Marmara Bölgesi","plaj","tarihi mekanlar"]

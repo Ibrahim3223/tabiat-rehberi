@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Bölgeye özgü ürün satın alma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nall%C4%B1han%20Tapduk%20Emre%20T%C3%BCrbesi","alt":"Nallıhan Tapduk Emre Türbesi","caption":"Nallıhan Tapduk Emre Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/State_1986-03-_Iss_287_%28IA_sim_state-magazine_1986-03_287%29.pdf/page1-960px-State_1986-03-_Iss_287_%28IA_sim_state-magazine_1986-03_287%29.pdf.jpg","alt":"Nallıhan Tapduk Emre Türbesi","caption":"Nallıhan Tapduk Emre Türbesi","credit":"State 1986-03- Iss 287 (IA sim state-magazine 1986-03 287).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nall%C4%B1han%20Tapduk%20Emre%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390677","tip":"genel"}]
 description: "Ankara'nın Nallıhan ilçesinde bulunan tarihi bir türbe"
 keywords: ["Nallıhan","Tapduk Emre","Türbe","Ankara","İç Anadolu Bölgesi","Tarihi mekan","Dini yapılardan","Gezi noktaları"]

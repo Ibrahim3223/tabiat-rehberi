@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Beyaz%C4%B1t%20Da%C4%9F%C4%B1","alt":"Beyazıt Dağı","caption":"Beyazıt Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rocky_Mountain_adventures_%28IA_rockymountainadv00shelrich%29.pdf/page1-804px-Rocky_Mountain_adventures_%28IA_rockymountainadv00shelrich%29.pdf.jpg","alt":"Beyazıt Dağı","caption":"Beyazıt Dağı","credit":"Rocky Mountain adventures (IA rockymountainadv00shelrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beyaz%C4%B1t%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387663","tip":"genel"}]
 description: "Van'ın en önemli doğal güzelliklerinden biri olan Beyazıt Dağı, 3.000 metreyi aşan zirvesiyle dikkat çekiyor."
 keywords: ["Beyazıt Dağı","Van","Dağ","Doğa","Türkiye","Gezi","Seyahat","Van Gezisi","Doğa Sporları"]

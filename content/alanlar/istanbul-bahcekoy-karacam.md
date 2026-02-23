@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Istanbul-Bahcekoy%20Karacam","alt":"Istanbul-Bahcekoy Karacam","caption":"Istanbul-Bahcekoy Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WHERE_IS_TURKEY_HEADED%3F_GEZI_PARK%2C_TAKSIM_SQUARE%2C_AND_THE_FUTURE_OF_THE_TURKISH_MODEL_%28IA_gov.gpo.fdsys.CHRG-113shrg86350%29.pdf/page1-960px-WHERE_IS_TURKEY_HEADED%3F_GEZI_PARK%2C_TAKSIM_SQUARE%2C_AND_THE_FUTURE_OF_THE_TURKISH_MODEL_%28IA_gov.gpo.fdsys.CHRG-113shrg86350%29.pdf.jpg","alt":"Istanbul-Bahcekoy Karacam","caption":"Istanbul-Bahcekoy Karacam","credit":"WHERE IS TURKEY HEADED? GEZI PARK, TAKSIM SQUARE, AND THE FUTURE OF THE TURKISH MODEL (IA gov.gpo.fdsys.CHRG-113shrg86350).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul-Bahcekoy%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227946","tip":"genel"}]
 description: "İstanbul'un doğal güzelliklerini keşfedin, Marmara Bölgesi'nin önemli milli parklarından biri"
 keywords: ["milli park","Marmara Bölgesi","doğa","İstanbul","Bahçeköy","Karacam","turizm","gezi","yerel"]

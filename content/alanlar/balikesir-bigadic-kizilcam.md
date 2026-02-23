@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Photography"," Piknik","Çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Balikesir-Bigadic%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Balikesir-Bigadic Kızılçam","caption":"Balikesir-Bigadic Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Balikesir-Bigadic Kızılçam","caption":"Balikesir-Bigadic Kızılçam","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Bigadic%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227321","tip":"genel"}]
 description: "Doğal güzellikleri ile dikkat çeken Balikesir-Bigadic Kızılçam milli parkı, ziyaretçilerini bekliyor."
 keywords: ["Balikesir-Bigadic Kızılçam","milli park","doğa","gezi","turizm","çevre","ekosistem","flora","fauna","kızılçam"]

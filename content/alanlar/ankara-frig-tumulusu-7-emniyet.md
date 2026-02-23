@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Yaban hayatı gözlemi","Fotoğrafçılık","Tarih ve kültür gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%207%2C%20Emniyet","alt":"Ankara Frig Tümülüsü 7, Emniyet","caption":"Ankara Frig Tümülüsü 7, Emniyet"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/EIE_express_-_USACE-p16021coll8-511.pdf/page1-960px-EIE_express_-_USACE-p16021coll8-511.pdf.jpg","alt":"Ankara Frig Tümülüsü 7, Emniyet","caption":"Ankara Frig Tümülüsü 7, Emniyet","credit":"EIE express - USACE-p16021coll8-511.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%207%2C%20Emniyet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728285","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. Ankara Frig Tümülüsü 7, Emniyet'te yüzyılların izlerini takip edin."
 keywords: ["Ankara","Frig Tümülüsü","Emniyet","tarih","doğa","gezi","keşif","yaban hayatı","çevre","kültür"]

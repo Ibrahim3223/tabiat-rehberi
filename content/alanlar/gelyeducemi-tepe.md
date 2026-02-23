@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gelyed%C3%BCcemi%20Tepe","alt":"Gelyedücemi Tepe","caption":"Gelyedücemi Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf/page1-960px-Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf.jpg","alt":"Gelyedücemi Tepe","caption":"Gelyedücemi Tepe","credit":"Harper's New Monthly Magazine, Volume 46.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gelyed%C3%BCcemi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34916024","tip":"genel"}]
 description: "Mardin'de bulunan Gelyedücemi Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri"
 keywords: ["Gelyedücemi Tepe","Mardin","Dağ","Doğa","Türkiye","Coğrafya","Mardin Gezilecek Yerler","Dağcılık","Trekking"]

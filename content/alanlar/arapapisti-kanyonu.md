@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arapap%C4%B1%C5%9Ft%C4%B1%20Kanyonu","alt":"Arapapıştı Kanyonu","caption":"Arapapıştı Kanyonu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Random_records_of_a_lifetime%2C_1846-1931_%28actually_1932%29_%28IA_Randomrecordsli2Holm%29.pdf/page1-960px-Random_records_of_a_lifetime%2C_1846-1931_%28actually_1932%29_%28IA_Randomrecordsli2Holm%29.pdf.jpg","alt":"Arapapıştı Kanyonu","caption":"Arapapıştı Kanyonu","credit":"Random records of a lifetime, 1846-1931 (actually 1932) (IA Randomrecordsli2Holm).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arapap%C4%B1%C5%9Ft%C4%B1%20Kanyonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q85968120","tip":"genel"}]
 description: "Aydın'ın Bozdoğan ilçesinde yer alan Arapapıştı Kanyonu, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Arapapıştı Kanyonu","Aydın","Bozdoğan","kanyon","doğa","turizm","gezi","Aydın turistik yerler","Bozdoğan gezilecek yerler","kanyonlar"]

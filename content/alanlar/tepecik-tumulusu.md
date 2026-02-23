@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihçe","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tepecik%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","alt":"Tepecik Tümülüsü","caption":"Tepecik Tümülüsü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Tepecik Tümülüsü","caption":"Tepecik Tümülüsü","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepecik%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728308","tip":"genel"}]
 description: "Marmara Bölgesi'nin Bandırma/Balıkesir ilçesinde yer alan tarihi ve doğal güzellik."
 keywords: ["Tepecik","Tümülüsü","Bandırma","Balıkesir","Marmara Bölgesi","tarih","doğa","gezi","tarihçe"]

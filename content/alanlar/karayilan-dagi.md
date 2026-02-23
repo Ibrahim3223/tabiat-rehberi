@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karay%C4%B1lan%20Da%C4%9F%C4%B1","alt":"Karayılan Dağı","caption":"Karayılan Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Karayılan Dağı","caption":"Karayılan Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karay%C4%B1lan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517320","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Karayılan Dağı, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Karayılan Dağı","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezi","Karayılan Dağı Turu","Doğa Harikaları","Dağ Keşif","Türkiye'nin En Güzel Dağları"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","flora çeşitliliği incelemesi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Samatlar-Kartalsuyu%20Saricam","alt":"Kastamonu-Samatlar-Kartalsuyu Saricam","caption":"Kastamonu-Samatlar-Kartalsuyu Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Kastamonu-Samatlar-Kartalsuyu Saricam","caption":"Kastamonu-Samatlar-Kartalsuyu Saricam","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Samatlar-Kartalsuyu%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227700","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin, 140 hektarlık Kartalsuyu Saricam milli parkında yaban hayatı ve flora çeşitliliği"
 keywords: ["Kastamonu","milli park","Kartalsuyu Saricam","yaban hayatı","flora","doğa","gezi","karadeniz bölgesi"]

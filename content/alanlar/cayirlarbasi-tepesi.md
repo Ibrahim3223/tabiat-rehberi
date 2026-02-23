@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ay%C4%B1rlarba%C5%9F%C4%B1%20Tepesi","alt":"Çayırlarbaşı Tepesi","caption":"Çayırlarbaşı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Çayırlarbaşı Tepesi","caption":"Çayırlarbaşı Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ay%C4%B1rlarba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828773","tip":"genel"}]
 description: "Edirne'nin doğal güzelliklerini keşfedin. Çayırlarbaşı Tepesi'nin tarihi ve coğrafi özellikleri"
 keywords: ["Çayırlarbaşı Tepesi","Edirne","Marmara Bölgesi","doğa","tepe","gezi","tarihçe","coğrafya","flora","fauna"]

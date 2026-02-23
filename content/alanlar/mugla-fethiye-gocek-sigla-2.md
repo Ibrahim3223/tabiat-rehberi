@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Kamp yapma","Fotoğrafçılık","Doğa gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Fethiye-Gocek%20Sigla%202","alt":"Mugla-Fethiye-Gocek Sigla 2","caption":"Mugla-Fethiye-Gocek Sigla 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rio_sobre_la_carretera_Marmaris_Datca._Hisaronu_Marmaris_Turquia.jpg/960px-Rio_sobre_la_carretera_Marmaris_Datca._Hisaronu_Marmaris_Turquia.jpg","alt":"Mugla-Fethiye-Gocek Sigla 2","caption":"Mugla-Fethiye-Gocek Sigla 2","credit":"Rio sobre la carretera Marmaris Datca. Hisaronu Marmaris Turquia.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Fethiye-Gocek%20Sigla%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228010","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin. Ege Bölgesi'nin en güzel milli parklarından biri olan Mugla-Fethiye-Gocek Sigla 2, doğa severler için bir cennet."
 keywords: ["Mugla-Fethiye-Gocek Sigla 2","Milli Park","Ege Bölgesi","Doğa","Turizm","Muğla","Fethiye","Gocek","Sigla"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yaren%20Da%C4%9F%C4%B1","alt":"Yaren Dağı","caption":"Yaren Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/960px-Kursunlu_Waterfall_Autumn.jpg","alt":"Yaren Dağı","caption":"Yaren Dağı","credit":"Kursunlu Waterfall Autumn.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yaren%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31587476","tip":"genel"}]
 description: "Antalya'da bulunan Yaren Dağı, 1200 metrelik zirvesiyle bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Yaren Dağı","Antalya","Dağ","Doğa","Turizm","Gezi","Trekking","Doğa Yürüyüşü","Antalya Turistik Yerler"]

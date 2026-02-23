@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşleri","Çevre keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=C%C4%B1nc%C4%B1kl%C4%B1%20Hamam","alt":"Cıncıklı Hamam","caption":"Cıncıklı Hamam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Cıncıklı Hamam","caption":"Cıncıklı Hamam","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/C%C4%B1nc%C4%B1kl%C4%B1%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738902","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli cenneti, Şanlıurfa'nın Eyyübiye ilçesinde yer alan Cıncıklı Hamam plajı"
 keywords: ["Cıncıklı Hamam","Şanlıurfa","Eyyübiye","Güneydoğu Anadolu Bölgesi","plaj","doğa","gezi","tatil","turizm","yazlık"]

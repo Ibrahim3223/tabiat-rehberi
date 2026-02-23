@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Koycegiz-Beyobasi%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mugla-Koycegiz-Beyobasi Kızılçam","caption":"Mugla-Koycegiz-Beyobasi Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Marmaris_National_Park.jpg/960px-Marmaris_National_Park.jpg","alt":"Mugla-Koycegiz-Beyobasi Kızılçam","caption":"Mugla-Koycegiz-Beyobasi Kızılçam","credit":"Marmaris National Park.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Koycegiz-Beyobasi%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227443","tip":"genel"}]
 description: "Muğla'nın Koycegiz ilçesinde bulunan milli park"
 keywords: ["Mugla-Koycegiz-Beyobasi Kızılçam","milli park","Muğla","Koycegiz","Beyobasi","Kızılçam"]

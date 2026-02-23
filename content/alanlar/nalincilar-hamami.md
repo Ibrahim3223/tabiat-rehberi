@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Güneşlenme","Yüzme","Su sporları","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nal%C4%B1nc%C4%B1lar%20Hamam%C4%B1","alt":"Nalıncılar Hamamı","caption":"Nalıncılar Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono135unit%29.pdf.jpg","alt":"Nalıncılar Hamamı","caption":"Nalıncılar Hamamı","credit":"Cooperative economic insect report (IA cooperativeecono135unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nal%C4%B1nc%C4%B1lar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738810","tip":"genel"}]
 description: "Osmangazi, Bursa'da bulunan Nalıncılar Hamamı, Marmara Bölgesi'nin güzide noktalarından biri."
 keywords: ["Nalıncılar Hamamı","Osmangazi","Bursa","Marmara Bölgesi","plaj","doğa","gezi","turizm"]

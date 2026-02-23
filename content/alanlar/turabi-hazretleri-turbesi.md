@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 Saat"
 aktiviteler: ["Türbe gezi","Yeşil alan gezintisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Turabi%20Hazretleri%20T%C3%BCrbesi","alt":"Turabi Hazretleri Türbesi","caption":"Turabi Hazretleri Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Turabi Hazretleri Türbesi","caption":"Turabi Hazretleri Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turabi%20Hazretleri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391617","tip":"genel"}]
 description: "Düzce'de bulunan Turabi Hazretleri Türbesi, 140 hektarlık yeşil alanıyla birlikte yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Turabi Hazretleri","Türbe","Düzce","Karadeniz Bölgesi","Yeşil Alan","Tarih"]

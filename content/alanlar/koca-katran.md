@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","bitki gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koca%20Katran","alt":"Koca Katran","caption":"Koca Katran"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Koca Katran","caption":"Koca Katran","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Katran","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227129","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olan Koca Katran, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğündedir."
 keywords: ["doğal alan","İç Anadolu Bölgesi","Koca Katran","milli park","flora","fauna","coğrafya","ziyaret"]

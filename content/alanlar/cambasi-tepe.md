@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Doğa gezisi","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87amba%C5%9F%C4%B1%20Tepe","alt":"Çambaşı Tepe","caption":"Çambaşı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg/960px-Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg","alt":"Çambaşı Tepe","caption":"Çambaşı Tepe","credit":"Konya Akyokuş Nature Park Konya Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amba%C5%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828147","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin. Çambaşı Tepe, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Konya","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","coğrafya","flora","fauna"]

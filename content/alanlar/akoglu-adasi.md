@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ako%C4%9Flu%20Adas%C4%B1","alt":"Akoğlu Adası","caption":"Akoğlu Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg/960px-Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg","alt":"Akoğlu Adası","caption":"Akoğlu Adası","credit":"Water surface of Mediterrenean sea near Kameriye island, Marmaris, Turkey.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ako%C4%9Flu%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q19610447","tip":"genel"}]
 description: "Balıkesir'de bulunan Akoğlu Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Akoğlu Adası","Balıkesir","ada","doğal güzellik","tarihi değer","gezi","seyahat","turizm","Marmara Denizi"]

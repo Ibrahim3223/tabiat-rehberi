@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kuş gözlemciliği","balıkçılık","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Putka%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","alt":"Putka Gölü Sulak Alanı","caption":"Putka Gölü Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Putka Gölü Sulak Alanı","caption":"Putka Gölü Sulak Alanı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Putka%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228879","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, doğal güzellikler ve zengin fauna ile dolu bir sulak alan"
 keywords: ["sulak alan","İç Anadolu Bölgesi","doğal güzellik","fauna","flora","gezi","turizm","çevre","ekosistem"]

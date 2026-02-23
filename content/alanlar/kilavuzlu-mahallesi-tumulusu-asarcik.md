@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanlar gezi","kültür varlıkları inceleme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1lavuzlu%20Mahallesi%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Asarc%C4%B1k","alt":"Kılavuzlu Mahallesi Tümülüsü, Asarcık","caption":"Kılavuzlu Mahallesi Tümülüsü, Asarcık"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf/page1-960px-Filberts_in_Turkey_%28IA_filbertsinturkey73schr%29.pdf.jpg","alt":"Kılavuzlu Mahallesi Tümülüsü, Asarcık","caption":"Kılavuzlu Mahallesi Tümülüsü, Asarcık","credit":"Filberts in Turkey (IA filbertsinturkey73schr).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1lavuzlu%20Mahallesi%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Asarc%C4%B1k","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728397","tip":"genel"}]
 description: "Asarcık'ta bulunan Kılavuzlu Mahallesi Tümülüsü, Karadeniz Bölgesi'nin tarihi hazinelerinden biri"
 keywords: ["Kılavuzlu Mahallesi","Asarcık","Samsun","Karadeniz Bölgesi","tarihi mekanlar","tümülüsler","kültür varlıkları"]

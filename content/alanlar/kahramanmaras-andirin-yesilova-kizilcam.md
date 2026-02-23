@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kahramanmaras-Andirin-Yesilova%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Kahramanmaras-Andirin-Yesilova Kızılçam","caption":"Kahramanmaras-Andirin-Yesilova Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Kahramanmaras-Andirin-Yesilova Kızılçam","caption":"Kahramanmaras-Andirin-Yesilova Kızılçam","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Andirin-Yesilova%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227427","tip":"genel"}]
 description: "Kahramanmaras-Andirin-Yesilova Kızılçam milli parkı, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri"
 keywords: ["Kahramanmaras","Andirin","Yesilova","Kızılçam","milli park","doğa","çevre"]

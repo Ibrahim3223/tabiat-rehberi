@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihî eserleri ziyaret","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Katin%20Tepesi","alt":"Katin Tepesi","caption":"Katin Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New-Dark_Evangelist_1871-04-13-_Vol_42_Iss_15_%28IA_sim_evangelist-and-religious-review_1871-04-13_42_15%29.pdf/page1-960px-New-Dark_Evangelist_1871-04-13-_Vol_42_Iss_15_%28IA_sim_evangelist-and-religious-review_1871-04-13_42_15%29.pdf.jpg","alt":"Katin Tepesi","caption":"Katin Tepesi","credit":"New-Dark Evangelist 1871-04-13- Vol 42 Iss 15 (IA sim evangelist-and-religious-review 1871-04-13 42 15).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Katin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551443","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin bir araya geldiği Katin Tepesi, yaklaşık 140 hektarlık bir alanı kaplar."
 keywords: ["Katin Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","yaban hayatı","çevre","iklim"]

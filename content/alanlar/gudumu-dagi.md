@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCd%C3%BCm%C3%BC%20Da%C4%9F%C4%B1","alt":"Güdümü Dağı","caption":"Güdümü Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_wanderings_of_a_temporary_warrior_-_a_territorial_officer%27s_narrative_of_service_%28and_sport%29_in_three_continents_%28IA_wanderingsoftemp00bacoiala%29.pdf/page1-718px-The_wanderings_of_a_temporary_warrior_-_a_territorial_officer%27s_narrative_of_service_%28and_sport%29_in_three_continents_%28IA_wanderingsoftemp00bacoiala%29.pdf.jpg","alt":"Güdümü Dağı","caption":"Güdümü Dağı","credit":"The wanderings of a temporary warrior - a territorial officer's narrative of service (and sport) in three continents (IA wanderingsoftemp00bacoiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCm%C3%BC%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872819","tip":"genel"}]
 description: "Bolu'nun doğal güzelliklerini keşfedin. Güdümü Dağı, 1200 hektarlık yeşil alanıyla İstanbul'un yarısı kadar bir alanı kaplıyor."
 keywords: ["Güdümü Dağı","Bolu","Dağ","Doğa","Yeşil Alan","İstanbul","Türkiye","Seyahat","Gezi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Yigilca-Karadere%20Dogu%20Kayini%203","alt":"Bolu-Yigilca-Karadere Dogu Kayini 3","caption":"Bolu-Yigilca-Karadere Dogu Kayini 3"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Abant_Tabiat_Park%C4%B1_Havadan_G%C3%B6r%C3%BCn%C3%BCm_Sonbahar_-_T%C3%BCrkiye.jpg/960px-Bolu_Abant_Tabiat_Park%C4%B1_Havadan_G%C3%B6r%C3%BCn%C3%BCm_Sonbahar_-_T%C3%BCrkiye.jpg","alt":"Bolu-Yigilca-Karadere Dogu Kayini 3","caption":"Bolu-Yigilca-Karadere Dogu Kayini 3","credit":"Bolu Abant Tabiat Parkı Havadan Görünüm Sonbahar - Türkiye.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Yigilca-Karadere%20Dogu%20Kayini%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227780","tip":"genel"}]
 description: "Bolu ilinin doğal güzelliklerini keşfedin"
 keywords: ["Bolu","Karadeniz Bölgesi","Milli Park","Doğa","Turizm","Gezi","Yaban Hayatı","Çevre"]

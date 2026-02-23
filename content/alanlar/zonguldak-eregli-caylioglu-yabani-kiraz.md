@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Gözlem"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zonguldak-Ere%C4%9Fli-Cayl%C4%B1oglu-Yabani%20kiraz","alt":"Zonguldak-Ereğli-Caylıoglu-Yabani kiraz","caption":"Zonguldak-Ereğli-Caylıoglu-Yabani kiraz"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Zonguldak-Ereğli-Caylıoglu-Yabani kiraz","caption":"Zonguldak-Ereğli-Caylıoglu-Yabani kiraz","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Ere%C4%9Fli-Cayl%C4%B1oglu-Yabani%20kiraz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228294","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Zonguldak'ta, doğanın mucizelerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Zonguldak","Ereğli","Caylıoglu","Yabani kiraz","Karadeniz Bölgesi","Doğa","Millet parkı"]

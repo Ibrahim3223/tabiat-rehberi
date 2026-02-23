@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ar%C4%B1kba%C5%9F%C4%B1%20%C5%9Eehitlik%20An%C4%B1t%C4%B1","alt":"Arıkbaşı Şehitlik Anıtı","caption":"Arıkbaşı Şehitlik Anıtı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg","alt":"Arıkbaşı Şehitlik Anıtı","caption":"Arıkbaşı Şehitlik Anıtı","credit":"Süzer Sun Dreams Beach 10 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ar%C4%B1kba%C5%9F%C4%B1%20%C5%9Eehitlik%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728261","tip":"genel"}]
 description: "İzmir'in Bayındır ilçesinde bulunan Arıkbaşı Şehitlik Anıtı, şehitlerin anısını yaşatmak için kurulmuştur."
 keywords: ["Arıkbaşı Şehitlik Anıtı","Bayındır","İzmir","şehitlik","anıt","tarih","gezi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","çevre gezisi","fotoğrafçılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=TRABZON%20A%C4%9EA%C3%87BA%C5%9EI%20TURBALI%C4%9EI","alt":"TRABZON AĞAÇBAŞI TURBALIĞI","caption":"TRABZON AĞAÇBAŞI TURBALIĞI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"TRABZON AĞAÇBAŞI TURBALIĞI","caption":"TRABZON AĞAÇBAŞI TURBALIĞI","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/TRABZON%20A%C4%9EA%C3%87BA%C5%9EI%20TURBALI%C4%9EI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228914","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Trabzon Ağaçbaşı Turbalığı, ziyaretçilerini bekliyor. Doğal güzelliği ve zengin flora ile dikkat çeken bu bölge, keşfedilmeyi bekliyor."
 keywords: ["Trabzon Ağaçbaşı Turbalığı","İç Anadolu Bölgesi","doğal güzellik","zengin flora","turizm","gezi","doğa"," milli park"]

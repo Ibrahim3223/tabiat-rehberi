@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Mut-Camlica-Kizilcam2","alt":"Mersin-Mut-Camlica-Kizilcam2","caption":"Mersin-Mut-Camlica-Kizilcam2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kad%C4%B1nc%C4%B1k_Valley_23.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_23.jpg","alt":"Mersin-Mut-Camlica-Kizilcam2","caption":"Mersin-Mut-Camlica-Kizilcam2","credit":"Kadıncık Valley 23.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut-Camlica-Kizilcam2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228528","tip":"genel"}]
 description: "Mersin'in doğal güzellikleri arasında yer alan milli park, ziyaretçilerini bekliyor."
 keywords: ["Mersin","Milli Park","Doğa","Turizm","Yaban Hayatı","Yeşil Alan","Akdeniz Bölgesi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaret","Doğa yürüyüşü","Picnic","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Horasanl%C4%B1%20%C4%B0brahim%20Seydi%20Dede%20T%C3%BCrbesi","alt":"Horasanlı İbrahim Seydi Dede Türbesi","caption":"Horasanlı İbrahim Seydi Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf/page1-835px-Zanzibar-_city%2C_island%2C_and_coast_%28IA_zanzibarcityisla02burt%29.pdf.jpg","alt":"Horasanlı İbrahim Seydi Dede Türbesi","caption":"Horasanlı İbrahim Seydi Dede Türbesi","credit":"Zanzibar- city, island, and coast (IA zanzibarcityisla02burt).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Horasanl%C4%B1%20%C4%B0brahim%20Seydi%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391342","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Horasanlı İbrahim Seydi Dede","Türbe","Manisa","Şehzadeler","Plaj","Tarihi mekan","Dini ziyaret","Doğa","Ege Bölgesi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Pancar%20Tepe","alt":"Pancar Tepe","caption":"Pancar Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Pancar Tepe","caption":"Pancar Tepe","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pancar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536836","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerinden biri olan Pancar Tepe, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Pancar Tepe","Gaziantep","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Gaziantep Turistik Yerler"]

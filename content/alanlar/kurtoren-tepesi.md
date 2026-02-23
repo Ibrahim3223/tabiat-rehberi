@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik manzara izleme","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCrt%C3%B6ren%20Tepesi","alt":"Kürtören Tepesi","caption":"Kürtören Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Summer_birds_of_Greene_County%2C_Pennsylvania_%28IA_summerbirdsofgre00jaco%29.pdf/page1-960px-Summer_birds_of_Greene_County%2C_Pennsylvania_%28IA_summerbirdsofgre00jaco%29.pdf.jpg","alt":"Kürtören Tepesi","caption":"Kürtören Tepesi","credit":"Summer birds of Greene County, Pennsylvania (IA summerbirdsofgre00jaco).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCrt%C3%B6ren%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210839","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde bulunan Kürtören Tepesi, Kilis'in önemli doğal güzelliklerinden biridir."
 keywords: ["Kürtören Tepesi","Kilis","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya"]

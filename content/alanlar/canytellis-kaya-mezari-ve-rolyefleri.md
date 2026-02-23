@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Canytellis%20Kaya%20Mezar%C4%B1%20ve%20R%C3%B6lyefleri","alt":"Canytellis Kaya Mezarı ve Rölyefleri","caption":"Canytellis Kaya Mezarı ve Rölyefleri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf/page1-620px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1995unse%29.pdf.jpg","alt":"Canytellis Kaya Mezarı ve Rölyefleri","caption":"Canytellis Kaya Mezarı ve Rölyefleri","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1995unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canytellis%20Kaya%20Mezar%C4%B1%20ve%20R%C3%B6lyefleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728228","tip":"genel"}]
 description: "Mersin'in Erdemli ilçesinde yer alan tarihi ve doğal güzellikler"
 keywords: ["Canytellis","Kaya Mezarı","Rölyefler","Erdemli","Mersin","Akdeniz Bölgesi","tarih","doğa"]

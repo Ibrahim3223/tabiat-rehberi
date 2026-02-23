@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","bitki gözlemi","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87aml%C4%B1bel%20Tepe","alt":"Çamlıbel Tepe","caption":"Çamlıbel Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%BCver_Canyon_Scene%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scene%28Antalya%29.jpg","alt":"Çamlıbel Tepe","caption":"Çamlıbel Tepe","credit":"Güver Canyon Scene(Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1bel%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828197","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin, Çamlıbel Tepe'ye doğru bir yolculuğa çıkın"
 keywords: ["Akdeniz Bölgesi","Antalya","doğa","tepe","gezi","turizm","çevre","ekoloji","flora","fauna"]

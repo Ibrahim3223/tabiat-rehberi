@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","balık avı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaltak%C3%A7%C4%B1%20Naz%C4%B1r%20Baba%20Hamam%C4%B1","alt":"Kaltakçı Nazır Baba Hamamı","caption":"Kaltakçı Nazır Baba Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Kaltakçı Nazır Baba Hamamı","caption":"Kaltakçı Nazır Baba Hamamı","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaltak%C3%A7%C4%B1%20Naz%C4%B1r%20Baba%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738996","tip":"genel"}]
 description: "Ege Bölgesi'nin güzelliklerini keşfedin, Kaltakçı Nazır Baba Hamamı'nı ziyaret edin."
 keywords: ["Ege Bölgesi","Aydın","Efeler","plaj","deniz","doğa","gezi","tatil","yaz"]

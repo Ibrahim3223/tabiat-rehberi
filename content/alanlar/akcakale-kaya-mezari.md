@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","fotoğraf çekimi","tarih investigación"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ak%C3%A7akale%20Kaya%20Mezar%C4%B1","alt":"Akçakale Kaya Mezarı","caption":"Akçakale Kaya Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Akçakale Kaya Mezarı","caption":"Akçakale Kaya Mezarı","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7akale%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728187","tip":"genel"}]
 description: "Sivas'ın Kangal ilçesinde yer alan tarihi kaya mezarı, ziyaretçilerini bekliyor"
 keywords: ["Akçakale Kaya Mezarı","Kangal","Sivas","tarihi yerler","kaya mezarları","iç anadolu bölgesi","turistik yerler","gezi noktaları","tarih"]

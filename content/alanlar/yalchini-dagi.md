@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yalchini%20Da%C4%9F%C4%B1","alt":"Yalchini Dağı","caption":"Yalchini Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf/page1-616px-The_mountains_and_other_nature_sketches_%28IA_cu31924001183189%29.pdf.jpg","alt":"Yalchini Dağı","caption":"Yalchini Dağı","credit":"The mountains and other nature sketches (IA cu31924001183189).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yalchini%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24687507","tip":"genel"}]
 description: "Türkiye'de bulunan Yalchini Dağı, doğa severler için önemli bir destinasyon. Dağcılık ve trekking için ideal."
 keywords: ["Yalchini Dağı","Türkiye dağları","doğa turizmi","dağcılık","trekking","Türkiye'nin dağları","Yalchini Dağı trekking","doğa yürüyüşü","Türkiye'de dağcılık"]

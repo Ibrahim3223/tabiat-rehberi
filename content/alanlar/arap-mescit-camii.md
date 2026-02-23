@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Camiyi gezmek","İbadet etmek","Caminin bahçesini ziyaret etmek","Cami çevresindeki dükkanları gezmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Arap%20Mescit%20Camii","alt":"Arap Mescit Camii","caption":"Arap Mescit Camii"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Arap Mescit Camii","caption":"Arap Mescit Camii","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arap%20Mescit%20Camii","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132134370","tip":"genel"}]
 description: "Afyonkarahisar'da tarihi bir değer olan Arap Mescit Camii, ziyaretçilerini bekliyor."
 keywords: ["Arap Mescit Camii","Afyonkarahisar","tarihi mekanlar","Ege Bölgesi","camiler","gezi noktaları","kültürel değerler","tarih"]

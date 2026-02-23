@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denize girmek","Plajda güneşlenmek","Çevreyi keşfetmek","Tarihi yapıları ziyaret etmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gen%C3%A7osman%20Hamam%C4%B1","alt":"Gençosman Hamamı","caption":"Gençosman Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_principal_ruins_of_Asia_Minor_%28IA_gri_33125008782936%29.pdf/page1-960px-The_principal_ruins_of_Asia_Minor_%28IA_gri_33125008782936%29.pdf.jpg","alt":"Gençosman Hamamı","caption":"Gençosman Hamamı","credit":"The principal ruins of Asia Minor (IA gri 33125008782936).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gen%C3%A7osman%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738447","tip":"genel"}]
 description: "Turhal, Tokat'ta Karadeniz Bölgesi'nin gizli cenneti Gençosman Hamamı"
 keywords: ["Gençosman Hamamı","Turhal","Tokat","Karadeniz Bölgesi","Plaj","Doğa","Turizm"]

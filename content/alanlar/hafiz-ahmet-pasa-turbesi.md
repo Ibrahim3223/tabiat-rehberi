@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","mimari inceleme","doğa gezisi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Haf%C4%B1z%20Ahmet%20Pa%C5%9Fa%20T%C3%BCrbesi","alt":"Hafız Ahmet Paşa Türbesi","caption":"Hafız Ahmet Paşa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hafız Ahmet Paşa Türbesi","caption":"Hafız Ahmet Paşa Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haf%C4%B1z%20Ahmet%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391064","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Hafız Ahmet Paşa Türbesi, Fatih ilçesinde yer alır."
 keywords: ["Hafız Ahmet Paşa","Türbe","Fatih","İstanbul","Tarih","Mimarlık","Kültür","Turizm","Marmara Bölgesi","Gezi"]

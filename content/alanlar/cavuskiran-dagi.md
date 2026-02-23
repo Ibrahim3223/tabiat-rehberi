@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87avu%C5%9Fk%C4%B1ran%20Da%C4%9F%C4%B1","alt":"Çavuşkıran Dağı","caption":"Çavuşkıran Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Çavuşkıran Dağı","caption":"Çavuşkıran Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avu%C5%9Fk%C4%B1ran%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824429","tip":"genel"}]
 description: "Bayburt'un önemli dağlarından biri olan Çavuşkıran Dağı, 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Çavuşkıran Dağı","Bayburt","Dağ","Doğa","Yeşil Alan","Türkiye","Gezi","Seyahat","Turizm"]

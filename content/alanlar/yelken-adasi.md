@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günde 6-8 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yelken%20Adas%C4%B1","alt":"Yelken Adası","caption":"Yelken Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Refugees_crossing_the_Mediterranean_sea_on_a_boat%2C_heading_from_Turkish_coast_to_the_northeastern_Greek_island_of_Lesbos%2C_29_January_2016.jpg/960px-Refugees_crossing_the_Mediterranean_sea_on_a_boat%2C_heading_from_Turkish_coast_to_the_northeastern_Greek_island_of_Lesbos%2C_29_January_2016.jpg","alt":"Yelken Adası","caption":"Yelken Adası","credit":"Refugees crossing the Mediterranean sea on a boat, heading from Turkish coast to the northeastern Greek island of Lesbos, 29 January 2016.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelken%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34784660","tip":"genel"}]
 description: "Balıkesir'de bulunan Yelken Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Yelken Adası","Balıkesir","ada","doğal güzellik","yeşil cennet","gezi","seyahat","turizm","deniz"]

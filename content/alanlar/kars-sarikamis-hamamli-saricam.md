@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","kayak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kars-Sarikamis-Hamamli%20Saricam","alt":"Kars-Sarikamis-Hamamli Saricam","caption":"Kars-Sarikamis-Hamamli Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Under_the_Red_Crescent%3B_adventures_of_an_English_surgeon_with_the_Turkish_army_at_Plevna_and_Erzeroum%2C_1877-1878_%28IA_underredcrescent00ryaniala%29.pdf/page1-781px-Under_the_Red_Crescent%3B_adventures_of_an_English_surgeon_with_the_Turkish_army_at_Plevna_and_Erzeroum%2C_1877-1878_%28IA_underredcrescent00ryaniala%29.pdf.jpg","alt":"Kars-Sarikamis-Hamamli Saricam","caption":"Kars-Sarikamis-Hamamli Saricam","credit":"Under the Red Crescent; adventures of an English surgeon with the Turkish army at Plevna and Erzeroum, 1877-1878 (IA underredcrescent00ryaniala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kars-Sarikamis-Hamamli%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227695","tip":"genel"}]
 description: "Doğu Anadolu'nun gizli cenneti, Kars-Sarikamis-Hamamli Saricam milli parkı"
 keywords: ["Kars","Sarikamis","Hamamli Saricam","milli park","Doğu Anadolu","doğal güzellik","gezi","turizm"]

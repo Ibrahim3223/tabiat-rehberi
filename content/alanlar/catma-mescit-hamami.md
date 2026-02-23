@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi hamam gezi","kültürel etkinlikler","fotograf çekimi","tarihi mekan keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87atma%20Mescit%20Hamam%C4%B1","alt":"Çatma Mescit Hamamı","caption":"Çatma Mescit Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Çatma Mescit Hamamı","caption":"Çatma Mescit Hamamı","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atma%20Mescit%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135429073","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Çatma Mescit Hamamı, Marmara Bölgesi'nde bulunan Beyoğlu'nda yer alıyor."
 keywords: ["Çatma Mescit Hamamı","Beyoğlu","İstanbul","Marmara Bölgesi","tarihi hamam","gezi","turizm"]

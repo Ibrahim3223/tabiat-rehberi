@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe nghiênması","Doğa yürüyüşü","Fotoğraf çekimi","Türbe gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eirmerd%20%C3%87avu%C5%9F%20T%C3%BCrbesi","alt":"Şirmerd Çavuş Türbesi","caption":"Şirmerd Çavuş Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Şirmerd Çavuş Türbesi","caption":"Şirmerd Çavuş Türbesi","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eirmerd%20%C3%87avu%C5%9F%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391174","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi türbe ve plaj"
 keywords: ["Şirmerd Çavuş","Türbe","Plaj","Fatih","İstanbul","Marmara Bölgesi","Tarih","Coğrafya"]

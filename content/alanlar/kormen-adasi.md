@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6rmen%20Adas%C4%B1","alt":"Körmen Adası","caption":"Körmen Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%A1%D0%B0%D0%B3%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_%D0%B2%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_IMG20230908150219.jpg/960px-%D0%A1%D0%B0%D0%B3%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_%D0%B2%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_IMG20230908150219.jpg","alt":"Körmen Adası","caption":"Körmen Adası","credit":"Саговник відгорнений IMG20230908150219.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6rmen%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49650040","tip":"genel"}]
 description: "Antalya'nın güzide adalarından biri olan Körmen Adası, 1200 hektarlık yeşil cenneti ile ziyaretçilerini bekliyor."
 keywords: ["Körmen Adası","Antalya Adaları","Türkiye Adaları","Akdeniz Adaları","Turizm","Seyahat","Doğa","Yeşil Alan","Deniz"]

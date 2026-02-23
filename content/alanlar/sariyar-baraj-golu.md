@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sar%C4%B1yar%20Baraj%20G%C3%B6l%C3%BC","alt":"Sarıyar Baraj Gölü","caption":"Sarıyar Baraj Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Suya_yaslanmak.jpg/960px-Suya_yaslanmak.jpg","alt":"Sarıyar Baraj Gölü","caption":"Sarıyar Baraj Gölü","credit":"Suya yaslanmak.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1yar%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34921888","tip":"genel"}]
 description: "Ankara'da yer alan Sarıyar Baraj Gölü, 1200 hektarlık yeşil cennet, doğa severler için ideal bir destinasyon"
 keywords: ["Sarıyar Baraj Gölü","Ankara","göl","doğa","turizm","gezi","yaban hayatı","su sporları","çevre turizmi"]

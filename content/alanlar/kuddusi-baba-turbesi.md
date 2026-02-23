@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuddusi%20Baba%20T%C3%BCrbesi","alt":"Kuddusi Baba Türbesi","caption":"Kuddusi Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Kuddusi Baba Türbesi","caption":"Kuddusi Baba Türbesi","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuddusi%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390930","tip":"genel"}]
 description: "Bor/Niğde'de yer alan Kuddusi Baba Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kuddusi Baba Türbesi","Bor","Niğde","İç Anadolu Bölgesi","tarihi mekanlar","doğa alanları","turizm","gezi","tarihçe"]

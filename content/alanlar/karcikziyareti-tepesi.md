@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","coğrafi keşif"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karc%C4%B1kziyareti%20Tepesi","alt":"Karcıkziyareti Tepesi","caption":"Karcıkziyareti Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf/page1-812px-On_the_fringe_of_the_great_fight_%28IA_onfringeofgreatf00nasmrich%29.pdf.jpg","alt":"Karcıkziyareti Tepesi","caption":"Karcıkziyareti Tepesi","credit":"On the fringe of the great fight (IA onfringeofgreatf00nasmrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karc%C4%B1kziyareti%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31589014","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde bulunan Karcıkziyareti Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Karcıkziyareti Tepesi","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","Batman","tepe","coğrafya","flora","fauna"]

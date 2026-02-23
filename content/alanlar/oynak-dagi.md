@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Oynak%20Da%C4%9F%C4%B1","alt":"Oynak Dağı","caption":"Oynak Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tree_on_an_island_-_Flickr_-_faktor1komma5.jpg/960px-Tree_on_an_island_-_Flickr_-_faktor1komma5.jpg","alt":"Oynak Dağı","caption":"Oynak Dağı","credit":"Tree on an island - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Oynak%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509227","tip":"genel"}]
 description: "Aydın'da yer alan Oynak Dağı, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Oynak Dağı","Aydın","Dağ","Doğa","Trekking","Coğrafi Oluşum","Turizm","Aydın Gezi","Dağcılık"]

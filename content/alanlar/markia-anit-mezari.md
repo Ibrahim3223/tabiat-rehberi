@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Gezme","Keşif","Fotoğraf çekme","Tarih öğrenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Markia%20An%C4%B1t%20Mezar%C4%B1","alt":"Markia Anıt Mezarı","caption":"Markia Anıt Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif19541971unse%29.pdf.jpg","alt":"Markia Anıt Mezarı","caption":"Markia Anıt Mezarı","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif19541971unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Markia%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728145","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin eşsiz köşesi, Kaş'ta bulunan Markia Anıt Mezarı"
 keywords: ["Markia Anıt Mezarı","Kaş","Antalya","Akdeniz Bölgesi","Anıt Mezar","Tarih","Doğa","Gezi"]

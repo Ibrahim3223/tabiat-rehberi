@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotografcılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Girekol","alt":"Girekol","caption":"Girekol"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Girekol","caption":"Girekol","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Girekol","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q4707433","tip":"genel"}]
 description: "Türkiye'de bulunan Girekol Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Girekol","Dağ","Türkiye","Trekking","Doğa","Gezi","Seyahat","Turizm","Coğrafya"]

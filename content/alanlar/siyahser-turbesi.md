@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 Saat"
 aktiviteler: ["Tarihçe Gezisi","Doğa Yürüyüşü","Piknik","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Siyahser%20T%C3%BCrbesi","alt":"Siyahser Türbesi","caption":"Siyahser Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf/page1-802px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiliala%29.pdf.jpg","alt":"Siyahser Türbesi","caption":"Siyahser Türbesi","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Siyahser%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390490","tip":"genel"}]
 description: "Karaman'da tarihi ve doğal güzelliklerin birleştiği Siyahser Türbesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Karaman","Siyahser Türbesi","tarihi mekan","doğa alanı","Karaman'ın tarihi yerleri","İç Anadolu Bölgesi","gezi noktaları","tarihçe"]

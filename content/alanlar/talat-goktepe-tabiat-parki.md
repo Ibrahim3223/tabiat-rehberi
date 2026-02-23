@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik","bitki gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Talat%20G%C3%B6ktepe%20Tabiat%20Park%C4%B1","alt":"Talat Göktepe Tabiat Parkı","caption":"Talat Göktepe Tabiat Parkı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kad%C4%B1nc%C4%B1k_Valley_3.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_3.jpg","alt":"Talat Göktepe Tabiat Parkı","caption":"Talat Göktepe Tabiat Parkı","credit":"Kadıncık Valley 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Talat%20G%C3%B6ktepe%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q48790814","tip":"genel"}]
 description: "Mersin'in Erdemli ilçesinde yer alan Talat Göktepe Tabiat Parkı, 140 hektarlık alanı ile ziyaretçilerini çekiyor."
 keywords: ["Talat Göktepe Tabiat Parkı","Erdemli","Mersin","Tabiat Parkı","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Fotoğraf çekme","Tarihî yerleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tasogo%20Tepesi","alt":"Tasogo Tepesi","caption":"Tasogo Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg/960px-N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg","alt":"Tasogo Tepesi","caption":"Tasogo Tepesi","credit":"Nêzîkî Qilwanê 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tasogo%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551362","tip":"genel"}]
 description: "Mardin'de bulunan Tasogo Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri"
 keywords: ["Tasogo Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","coğrafi oluşum","tepe","doğa","gezi","tarih"]

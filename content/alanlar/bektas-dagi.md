@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bekta%C5%9F%20Da%C4%9F%C4%B1","alt":"Bektaş Dağı","caption":"Bektaş Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Elaz%C4%B1g_K%C3%B6y.jpg/960px-Elaz%C4%B1g_K%C3%B6y.jpg","alt":"Bektaş Dağı","caption":"Bektaş Dağı","credit":"Elazıg Köy.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bekta%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31522889","tip":"genel"}]
 description: "Elazığ'da yer alan Bektaş Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir destinasyon"
 keywords: ["Bektaş Dağı","Elazığ","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Doğa Severler","Elazığ Turistik Yerler"]

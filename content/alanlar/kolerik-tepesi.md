@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6lerik%20Tepesi","alt":"Kölerik Tepesi","caption":"Kölerik Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Kölerik Tepesi","caption":"Kölerik Tepesi","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6lerik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042756","tip":"genel"}]
 description: "Tunceli'nin doğal güzelliklerini keşfedin, Kölerik Tepesi'ne çıkın ve muhteşem manzarayı seyredin."
 keywords: ["Kölerik Tepesi","Tunceli","Dağ","Doğa","Tunceli Turizm","Kölerik Tepesi Manzarası","Tunceli Gezi","Doğa Yürüyüşü","Tunceli Dağları"]

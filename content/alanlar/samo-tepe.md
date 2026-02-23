@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih keşfi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Samo%20Tepe","alt":"Samo Tepe","caption":"Samo Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf/page1-960px-Harper%27s_New_Monthly_Magazine%2C_Volume_46.pdf.jpg","alt":"Samo Tepe","caption":"Samo Tepe","credit":"Harper's New Monthly Magazine, Volume 46.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samo%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386860","tip":"genel"}]
 description: "Mardin'in tarih kokan Samo Tepe'si, ziyaretçiler için eşsiz bir deneyim sunuyor. Güneydoğu Anadolu Bölgesi'nde bulunan bu tepe, zengin tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Mardin","Samo Tepe","Güneydoğu Anadolu Bölgesi","tarih","doğa","ziyaret","gezi"]

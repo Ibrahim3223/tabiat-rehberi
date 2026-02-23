@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["manzara izleme","doğa yürüyüşü","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Y%C3%BCksel%20Tepe","alt":"Yüksel Tepe","caption":"Yüksel Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Engineering_in_Europe_-_USACE-p16021coll8-556.pdf/page1-960px-Engineering_in_Europe_-_USACE-p16021coll8-556.pdf.jpg","alt":"Yüksel Tepe","caption":"Yüksel Tepe","credit":"Engineering in Europe - USACE-p16021coll8-556.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCksel%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196156","tip":"genel"}]
 description: "Eskişehir'in tarihi ve doğal güzelliklerini bir arada sunan Yüksel Tepe, ziyaretçilerini büyülüyor."
 keywords: ["Yüksel Tepe","Eskişehir","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]

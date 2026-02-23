@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Tarihi%20Yal%C4%B1%20Hamam%C4%B1","alt":"Tarihi Yalı Hamamı","caption":"Tarihi Yalı Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Tarihi Yalı Hamamı","caption":"Tarihi Yalı Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarihi%20Yal%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739236","tip":"genel"}]
 description: "İzmit'in tarihi ve doğal güzellikleri arasında yer alan Tarihi Yalı Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Tarihi Yalı Hamamı","İzmit","Anadolu eyaleti","İç Anadolu Bölgesi","doğal alanlar","tarihi mekanlar","yeşil alanlar","gezi noktaları","turistik yerler","çevre güzellikleri"]

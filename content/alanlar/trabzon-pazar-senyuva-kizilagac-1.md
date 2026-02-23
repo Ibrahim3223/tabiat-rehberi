@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trabzon-Pazar-Senyuva%20Kizilagac%201","alt":"Trabzon-Pazar-Senyuva Kizilagac 1","caption":"Trabzon-Pazar-Senyuva Kizilagac 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sis_da%C4%9F%C4%B1_%286%29.jpg/960px-Sis_da%C4%9F%C4%B1_%286%29.jpg","alt":"Trabzon-Pazar-Senyuva Kizilagac 1","caption":"Trabzon-Pazar-Senyuva Kizilagac 1","credit":"Sis dağı (6).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Pazar-Senyuva%20Kizilagac%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227752","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedeceğiniz bir milli park."
 keywords: ["Trabzon","Pazar","Senyuva Kizilagac","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

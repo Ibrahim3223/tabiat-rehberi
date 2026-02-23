@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme"," Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yal%C4%B1n%C4%B1zda%C4%9F%20Tepesi","alt":"Yalınızdağ Tepesi","caption":"Yalınızdağ Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cappadocia_Landscape.jpg/960px-Cappadocia_Landscape.jpg","alt":"Yalınızdağ Tepesi","caption":"Yalınızdağ Tepesi","credit":"Cappadocia Landscape.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yal%C4%B1n%C4%B1zda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390584","tip":"genel"}]
 description: "Nevşehir'de yer alan Yalınızdağ Tepesi, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Yalınızdağ Tepesi","Nevşehir","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Kuş gözlemciliği","Doğa yürüyüşü","Fotografçılık","Bisiklet turu","Çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Do%C4%9Fubeyaz%C4%B1t%20Sazl%C4%B1klar%C4%B1%20Sulak%20Alan%C4%B1","alt":"Doğubeyazıt Sazlıkları Sulak Alanı","caption":"Doğubeyazıt Sazlıkları Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Doğubeyazıt Sazlıkları Sulak Alanı","caption":"Doğubeyazıt Sazlıkları Sulak Alanı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fubeyaz%C4%B1t%20Sazl%C4%B1klar%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228845","tip":"genel"}]
 description: "Doğubeyazıt Sazlıkları Sulak Alanı, İç Anadolu Bölgesi'nin önemli sulak alanlarından biri, zengin fauna ve flora çeşitliliği sunar."
 keywords: ["Doğubeyazıt Sazlıkları","Sulak Alan","İç Anadolu Bölgesi","Fauna","Flora","Sulak Alanları","Doğal Alanlar","Çevre","Ekosistem"]

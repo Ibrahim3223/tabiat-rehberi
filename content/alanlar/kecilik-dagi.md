@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ke%C3%A7ilik%20Da%C4%9F%C4%B1","alt":"Keçilik Dağı","caption":"Keçilik Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Keçilik Dağı","caption":"Keçilik Dağı","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C3%A7ilik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041418","tip":"genel"}]
 description: "Hakkari'nin görkemli dağlarından biri olan Keçilik Dağı, doğa severler için bir cennet"
 keywords: ["Keçilik Dağı","Hakkari","Dağ","Doğa","Trekking","Kamp","Doğa Turizmi","Hakkari Turizm","Dağcılık"]

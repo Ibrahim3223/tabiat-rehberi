@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eerfi%20Da%C4%9F%C4%B1","alt":"Şerfi Dağı","caption":"Şerfi Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Modern_Turkey_%28IA_modernturkey00farliala%29.pdf/page1-754px-Modern_Turkey_%28IA_modernturkey00farliala%29.pdf.jpg","alt":"Şerfi Dağı","caption":"Şerfi Dağı","credit":"Modern Turkey (IA modernturkey00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eerfi%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539098","tip":"genel"}]
 description: "Türkiye'de bulunan Şerfi Dağı, doğa severlerin keşfetmek için bekleyen bir hazine. Dağcılık ve trekking için ideal bir destinasyon."
 keywords: ["Şerfi Dağı","Türkiye dağları","doğa turizmi","dağcılık","trekking","gezi rehberi","Türkiye'nin dağları","doğa yürüyüşü","turistik yerler"]

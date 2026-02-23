@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denize girme","Güneşlenme","Su sporları","Yürüyüş"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1%2C%20Sar%C4%B1yer","alt":"Hamam Kalıntısı, Sarıyer","caption":"Hamam Kalıntısı, Sarıyer"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Hamam Kalıntısı, Sarıyer","caption":"Hamam Kalıntısı, Sarıyer","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1%2C%20Sar%C4%B1yer","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739063","tip":"genel"}]
 description: "İstanbul'un Sarıyer ilçesindeki Hamam Kalıntısı, Marmara Bölgesi'nin gizli güzelliği."
 keywords: ["Hamam Kalıntısı","Sarıyer","Marmara Bölgesi","İstanbul","plaj","deniz","doğa"]

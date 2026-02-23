@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa Yürüyüşleri","Yaban Hayatı İzleme","Kampçılık","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Kokez%20Uludag%20Goknari","alt":"Bolu-Kokez Uludag Goknari","caption":"Bolu-Kokez Uludag Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Abant_Tabiat_Park%C4%B1_Havadan_G%C3%B6r%C3%BCn%C3%BCm_Sonbahar_-_T%C3%BCrkiye.jpg/960px-Bolu_Abant_Tabiat_Park%C4%B1_Havadan_G%C3%B6r%C3%BCn%C3%BCm_Sonbahar_-_T%C3%BCrkiye.jpg","alt":"Bolu-Kokez Uludag Goknari","caption":"Bolu-Kokez Uludag Goknari","credit":"Bolu Abant Tabiat Parkı Havadan Görünüm Sonbahar - Türkiye.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Kokez%20Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227288","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerinin buluşma noktası, Bolu-Kokez Uludag Goknari"
 keywords: ["Bolu","Karadeniz Bölgesi","Doğa","Milli Park","Turizm","Gezi","Yaban Hayatı","Çevre","Ekoloji"]

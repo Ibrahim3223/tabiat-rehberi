@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Amasya-Erbaa-Catalan%20Sedir","alt":"Amasya-Erbaa-Catalan Sedir","caption":"Amasya-Erbaa-Catalan Sedir"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Amasya-Erbaa-Catalan Sedir","caption":"Amasya-Erbaa-Catalan Sedir","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Erbaa-Catalan%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228559","tip":"genel"}]
 description: "Amasya'nın Erbaa ve Catalan Sedir milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["milli park","Amasya","Erbaa","Catalan Sedir","yeşil alan","futbol sahası","doğa","gezi","turizm"]

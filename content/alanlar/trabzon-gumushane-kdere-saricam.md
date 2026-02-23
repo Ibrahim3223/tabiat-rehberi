@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşü","Orman Gezisi","Hayvan İzleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trabzon-Gumushane-K.dere%20Saricam","alt":"Trabzon-Gumushane-K.dere Saricam","caption":"Trabzon-Gumushane-K.dere Saricam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sis_da%C4%9F%C4%B1_%282%29.jpg/960px-Sis_da%C4%9F%C4%B1_%282%29.jpg","alt":"Trabzon-Gumushane-K.dere Saricam","caption":"Trabzon-Gumushane-K.dere Saricam","credit":"Sis dağı (2).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Gumushane-K.dere%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227581","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerinin başında gelen milli park, ziyaretçiler için benzersiz bir deneyim sunuyor."
 keywords: ["Trabzon","Gumushane","K.dere Saricam","Milli Park","Doğa","Turizm","Karadeniz Bölgesi","Yeşil Alan","Flora","Fauna"]

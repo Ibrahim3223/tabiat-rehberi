@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","mimari keşif","dinlenme","yeme içme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Firuz%20A%C4%9Fa%20Hamam%C4%B1","alt":"Firuz Ağa Hamamı","caption":"Firuz Ağa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Firuz Ağa Hamamı","caption":"Firuz Ağa Hamamı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Firuz%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738588","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri, 1400'lü yıllardan beri hizmet veren Firuz Ağa Hamamı, Marmara Bölgesi'nin kalbinde"
 keywords: ["Firuz Ağa Hamamı","İstanbul","Marmara Bölgesi","tarihi hamam","Beyoğlu","turistik yerler"]

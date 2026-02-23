@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa φωτοğrafçılığı","tarihî yapılar gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BC%C4%9F%C3%BCn%20Tepesi","alt":"Küçüğün Tepesi","caption":"Küçüğün Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Shepherd%27s_Fountain_-_panoramio.jpg/960px-Shepherd%27s_Fountain_-_panoramio.jpg","alt":"Küçüğün Tepesi","caption":"Küçüğün Tepesi","credit":"Shepherd's Fountain - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BC%C4%9F%C3%BCn%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211098","tip":"genel"}]
 description: "Kırşehir'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Küçüğün Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor."
 keywords: ["Küçüğün Tepesi","Kırşehir","İç Anadolu Bölgesi","doğal güzellik","tarihi mekan","tepe"]

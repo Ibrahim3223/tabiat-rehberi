@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarih keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eski%C5%9Fehir-Afyonkarahisar-Sinanpa%C5%9Fa%20Karacam","alt":"Eskişehir-Afyonkarahisar-Sinanpaşa Karacam","caption":"Eskişehir-Afyonkarahisar-Sinanpaşa Karacam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Eskişehir-Afyonkarahisar-Sinanpaşa Karacam","caption":"Eskişehir-Afyonkarahisar-Sinanpaşa Karacam","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Afyonkarahisar-Sinanpa%C5%9Fa%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227505","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğa harikası milli parkı"
 keywords: ["Eskişehir","Afyonkarahisar","Sinanpaşa","Karacam","Milli Park","Doğa","İç Anadolu Bölgesi"]

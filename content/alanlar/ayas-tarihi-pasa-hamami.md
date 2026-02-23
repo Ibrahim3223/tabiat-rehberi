@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe keşfi","Doğa yürüyüşü","Kültür turu","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Aya%C5%9F%20Tarihi%20Pa%C5%9Fa%20Hamam%C4%B1","alt":"Ayaş Tarihi Paşa Hamamı","caption":"Ayaş Tarihi Paşa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Ayaş Tarihi Paşa Hamamı","caption":"Ayaş Tarihi Paşa Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aya%C5%9F%20Tarihi%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738628","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. Ayaş Paşa Hamamı, İç Anadolu Bölgesi'nin önemli tarihi noktalarından biri."
 keywords: ["Ayaş","Paşa Hamamı","Ankara","İç Anadolu Bölgesi","Tarihi Hamam","Doğal Güzellik","Kültür","Tarih"]

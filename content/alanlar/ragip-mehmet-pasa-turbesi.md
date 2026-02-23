@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Tarihi mekanları keşfetmek","Doğal güzelliği izlemek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Rag%C4%B1p%20Mehmet%20Pa%C5%9Fa%20T%C3%BCrbesi","alt":"Ragıp Mehmet Paşa Türbesi","caption":"Ragıp Mehmet Paşa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Ragıp Mehmet Paşa Türbesi","caption":"Ragıp Mehmet Paşa Türbesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rag%C4%B1p%20Mehmet%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391172","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Ragıp Mehmet Paşa Türbesi, Marmara Bölgesi'nde yer alıyor."
 keywords: ["Ragıp Mehmet Paşa Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarihi mekan","türbe","mimari","gezi","tarih"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koru%20Tepe%20(%C5%9E%C4%B1rnak)","alt":"Koru Tepe (Şırnak)","caption":"Koru Tepe (Şırnak)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Koru Tepe (Şırnak)","caption":"Koru Tepe (Şırnak)","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koru%20Tepe%20(%C5%9E%C4%B1rnak)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539875","tip":"genel"}]
 description: "Şırnak'ta bulunan Koru Tepe, doğa severler için 1200 hektarlık yeşil bir cennet sunuyor."
 keywords: ["Koru Tepe","Şırnak","Doğa","Dağ","Turizm","Yeşil Alan","Şırnak Gezilecek Yerler","Koru Tepe Şırnak","Doğa Turizmi"]

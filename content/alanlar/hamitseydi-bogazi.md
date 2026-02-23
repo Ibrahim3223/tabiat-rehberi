@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hamitseydi%20Bo%C4%9Faz%C4%B1","alt":"Hamitseydi Boğazı","caption":"Hamitseydi Boğazı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Narrative_of_a_mission_to_Central_Africa_-_performed_in_the_years_1850-51_-_under_the_orders_and_at_the_expense_of_Her_Majesty%27s_government_%28IA_narrativeofmissi11853rich%29.pdf/page1-700px-thumbnail.pdf.jpg","alt":"Hamitseydi Boğazı","caption":"Hamitseydi Boğazı","credit":"Narrative of a mission to Central Africa - performed in the years 1850-51 - under the orders and at the expense of Her Majesty's government (IA narrativeofmissi11853rich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamitseydi%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35502516","tip":"genel"}]
 description: "Karaman'da yer alan Hamitseydi Boğazı, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir kanyon"
 keywords: ["Hamitseydi Boğazı","Karaman","kanyon","doğa","turizm","gezi","yeşil alan","Karaman gezilecek yerler","kanyonlar"]

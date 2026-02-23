@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Antalya-Olimpos%20Milli%20Parki%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Antalya-Olimpos Milli Parki Kızılçam","caption":"Antalya-Olimpos Milli Parki Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Solitariness_-_panoramio.jpg/960px-Solitariness_-_panoramio.jpg","alt":"Antalya-Olimpos Milli Parkı Kızılçam","caption":"Antalya-Olimpos Milli Parkı Kızılçam","credit":"Solitariness - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Olimpos%20Milli%20Parki%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227299","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan Antalya-Olimpos Milli Parkı Kızılçam, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Antalya","Olimpos","Milli Parkı","Kızılçam","Doğa","Turizm","Gezi","Akdeniz"]

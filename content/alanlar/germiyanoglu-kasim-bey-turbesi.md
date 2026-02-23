@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","kültür turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Germiyano%C4%9Flu%20Kas%C4%B1m%20Bey%20T%C3%BCrbesi","alt":"Germiyanoğlu Kasım Bey Türbesi","caption":"Germiyanoğlu Kasım Bey Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Germiyanoğlu Kasım Bey Türbesi","caption":"Germiyanoğlu Kasım Bey Türbesi","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Germiyano%C4%9Flu%20Kas%C4%B1m%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390546","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Nazilli ilçesinde yer alan Germiyanoğlu Kasım Bey Türbesi, tarihin derinliklerinden gelen bir hikaye anlatıyor."
 keywords: ["Germiyanoğlu Kasım Bey Türbesi","Nazilli","Aydın","Ege Bölgesi","tarih","türbe","gezi","kültür"]

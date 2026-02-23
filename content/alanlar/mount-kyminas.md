@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mount%20Kyminas","alt":"Mount Kyminas","caption":"Mount Kyminas"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/The_principles_of_vegetable-gardening_%28IA_principlesofvege00bail%29.pdf/page1-845px-The_principles_of_vegetable-gardening_%28IA_principlesofvege00bail%29.pdf.jpg","alt":"Mount Kyminas","caption":"Mount Kyminas","credit":"The principles of vegetable-gardening (IA principlesofvege00bail).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mount%20Kyminas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q16665148","tip":"genel"}]
 description: "Bursa'da yer alan Mount Kyminas, 1200 hektarlık yeşil cenneti ve doğa güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Mount Kyminas","Bursa","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Bursa Turistik Yerler"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kastamonu-Azdavay-Caml%C4%B1buk-Yabani%20kiraz","alt":"Kastamonu-Azdavay-Camlıbuk-Yabani kiraz","caption":"Kastamonu-Azdavay-Camlıbuk-Yabani kiraz"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Kastamonu-Azdavay-Camlıbuk-Yabani kiraz","caption":"Kastamonu-Azdavay-Camlıbuk-Yabani kiraz","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Azdavay-Caml%C4%B1buk-Yabani%20kiraz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228208","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin, Azdavay ve Camlıbuk'un yaban kirazları ile buluşun"
 keywords: ["Kastamonu","Azdavay","Camlıbuk","Yabani kiraz","Milli park","Karadeniz Bölgesi","Doğa","Turizm"]

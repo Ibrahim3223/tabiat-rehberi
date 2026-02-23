@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî türbe gezisi","plajda dinlenme","piknik","denizde yüzme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Asude%20Hatun%20T%C3%BCrbesi","alt":"Asude Hatun Türbesi","caption":"Asude Hatun Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Asude Hatun Türbesi","caption":"Asude Hatun Türbesi","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asude%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390959","tip":"genel"}]
 description: "Fatih/İstanbul'da bulunan tarihi türbe ve plaj"
 keywords: ["Asude Hatun Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarihi türbe","plaj","gezi","turizm","kültür"]

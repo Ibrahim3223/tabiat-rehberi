@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kal%C4%B1nd%C4%B1rasivri%20Tepe","alt":"Kalındırasivri Tepe","caption":"Kalındırasivri Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/960px-Kursunlu_Waterfall_Autumn.jpg","alt":"Kalındırasivri Tepe","caption":"Kalındırasivri Tepe","credit":"Kursunlu Waterfall Autumn.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kal%C4%B1nd%C4%B1rasivri%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390145","tip":"genel"}]
 description: "Antalya'da yer alan Kalındırasivri Tepe, zengin tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Kalındırasivri Tepe","Antalya","Akdeniz Bölgesi","tarih","doğa","gezi","turizm","tepe","manzara","çevre"]

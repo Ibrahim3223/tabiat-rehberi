@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğraf çekimi","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kokar%20Tepesi","alt":"Kokar Tepesi","caption":"Kokar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wle-jury-report-2024-lores.pdf/page1-960px-Wle-jury-report-2024-lores.pdf.jpg","alt":"Kokar Tepesi","caption":"Kokar Tepesi","credit":"Wle-jury-report-2024-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kokar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390215","tip":"genel"}]
 description: "Burdur'un doğal güzelliklerini keşfedin, 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kokar Tepesi","Burdur","doğa","tepe","gezi","turizm","Akdeniz Bölgesi","coğrafya","flora","fauna"]

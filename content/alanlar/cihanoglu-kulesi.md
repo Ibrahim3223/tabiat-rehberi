@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cihano%C4%9Flu%20Kulesi","alt":"Cihanoğlu Kulesi","caption":"Cihanoğlu Kulesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Cihanoğlu Kulesi","caption":"Cihanoğlu Kulesi","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cihano%C4%9Flu%20Kulesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738535","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide mekanlarından biri olan Cihanoğlu Kulesi, Koçarlı'nda yer alıyor."
 keywords: ["Koçarlı","Aydın","Ege Bölgesi","plaj","deniz","gezi","turizm","doğa","çevre"]

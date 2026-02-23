@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dalaman%20Adas%C4%B1","alt":"Dalaman Adası","caption":"Dalaman Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Screen_dispositions_of_Naval_Task_Forces_against_Anti-Ship_Missiles_%28IA_screendispositio00aydi%29.pdf/page1-960px-Screen_dispositions_of_Naval_Task_Forces_against_Anti-Ship_Missiles_%28IA_screendispositio00aydi%29.pdf.jpg","alt":"Dalaman Adası","caption":"Dalaman Adası","credit":"Screen dispositions of Naval Task Forces against Anti-Ship Missiles (IA screendispositio00aydi).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dalaman%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49636202","tip":"genel"}]
 description: "Aydın'da bulunan Dalaman Adası, Ege Denizi'nin güzide noktalarından biri. Doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Dalaman Adası","Aydın","Ege Denizi","Ada","Doğal Güzellik","Tarih","Turizm","Gezi","Seyahat"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["höyüğü gezmek","tarihi geçmişi hakkında bilgi edinmek","doğal güzelliği deneyimlemek","bölgenin diğer önemli tarihi ve doğal güzelliklerini ziyaret etmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Furuncu%20H%C3%B6y%C3%BCk","alt":"Furuncu Höyük","caption":"Furuncu Höyük"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Furuncu Höyük","caption":"Furuncu Höyük","credit":"Malatya turgut ozal nature park view.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Furuncu%20H%C3%B6y%C3%BCk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32206042","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi hazinesi, Malatya'da yer alan Furuncu Höyük, yaklaşık 140 hektarlık bir alana yayılmış antik bir yerleşim yeri."
 keywords: ["Furuncu Höyük","Malatya","Doğu Anadolu Bölgesi","tarih","arkeoloji","kültür","coğrafya","Doğu Anadolu","Malatya gezilecek yerler"]

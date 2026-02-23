@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Su medeniyetleri hakkında bilgi alma","Eser ve belgelerin incelenmesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0SK%C4%B0%20Su%20Medeniyetleri%20M%C3%BCzesi","alt":"İSKİ Su Medeniyetleri Müzesi","caption":"İSKİ Su Medeniyetleri Müzesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"İSKİ Su Medeniyetleri Müzesi","caption":"İSKİ Su Medeniyetleri Müzesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0SK%C4%B0%20Su%20Medeniyetleri%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949412","tip":"genel"}]
 description: "İstanbul'un tarihine ışık tutan İSKİ Su Medeniyetleri Müzesi, suyun şehre kazandırdıklarını gözler önüne seriyor."
 keywords: ["İSKİ Su Medeniyetleri Müzesi","su medeniyetleri","İstanbul","müze","su","tarih","şehir","kültür"]

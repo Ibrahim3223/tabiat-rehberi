@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sulug%C3%B6l%20Tepe","alt":"Sulugöl Tepe","caption":"Sulugöl Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"Sulugöl Tepe","caption":"Sulugöl Tepe","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sulug%C3%B6l%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34932857","tip":"genel"}]
 description: "Antalya'da bulunan Sulugöl Tepe, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Sulugöl Tepe","Antalya","Dağ","Doğa","Yürüyüş Rotası","Yeşil Alan","Turizm","Gezi","Trekking"]

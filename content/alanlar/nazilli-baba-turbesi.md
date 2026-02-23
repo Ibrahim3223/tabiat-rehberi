@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Kültür turu","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Nazilli%20Baba%20T%C3%BCrbesi","alt":"Nazilli Baba Türbesi","caption":"Nazilli Baba Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Nazilli Baba Türbesi","caption":"Nazilli Baba Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nazilli%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390811","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin. Pasinler'de yer alan Nazilli Baba Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Nazilli Baba Türbesi","Pasinler","Erzurum","Doğu Anadolu Bölgesi","tarih","doğa","gezi","türbe","kültür"]

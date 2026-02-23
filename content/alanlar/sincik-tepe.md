@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sincik%20Tepe","alt":"Sincik Tepe","caption":"Sincik Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Sincik Tepe","caption":"Sincik Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sincik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506524","tip":"genel"}]
 description: "Tunceli'nin en yüksek noktalarından biri olan Sincik Tepe, 1400 metre yükseklikte doğa severleri bekliyor."
 keywords: ["Sincik Tepe","Tunceli","Dağ","Doğa","Tunceli Gezilecek Yerler","Sincik Tepe Tunceli","Tunceli Turizm","Doğa Yürüyüşü","Tunceli Dağları"]

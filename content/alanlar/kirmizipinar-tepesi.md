@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1rm%C4%B1z%C4%B1p%C4%B1nar%20Tepesi","alt":"Kırmızıpınar Tepesi","caption":"Kırmızıpınar Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Explorations_in_Bible_lands_during_the_19th_century_%28IA_cu31924019176217%29.pdf/page1-629px-Explorations_in_Bible_lands_during_the_19th_century_%28IA_cu31924019176217%29.pdf.jpg","alt":"Kırmızıpınar Tepesi","caption":"Kırmızıpınar Tepesi","credit":"Explorations in Bible lands during the 19th century (IA cu31924019176217).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1p%C4%B1nar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389320","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde, Malatya'da yer alan Kırmızıpınar Tepesi, doğa severler için bir çekim merkezi"
 keywords: ["Kırmızıpınar Tepesi","Malatya","Doğu Anadolu Bölgesi","Doğa","Tepeler","Coğrafya","Flora","Fauna","Ziyaret"]

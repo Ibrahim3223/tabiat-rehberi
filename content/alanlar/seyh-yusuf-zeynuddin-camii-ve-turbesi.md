@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Cami ve türbe gezisi","Bölgeye özgü flora ve fauna keşfi","Tarihi ve kültürel değerlerin incelenmesi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Yusuf%20Zeyn%C3%BCddin%20Camii%20ve%20T%C3%BCrbesi","alt":"Şeyh Yusuf Zeynüddin Camii ve Türbesi","caption":"Şeyh Yusuf Zeynüddin Camii ve Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Casualty_Returns_1927.pdf/page1-960px-Casualty_Returns_1927.pdf.jpg","alt":"Şeyh Yusuf Zeynüddin Camii ve Türbesi","caption":"Şeyh Yusuf Zeynüddin Camii ve Türbesi","credit":"Casualty Returns 1927.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Yusuf%20Zeyn%C3%BCddin%20Camii%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132134439","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde bulunan tarihi cami ve türbe"
 keywords: ["Şeyh Yusuf Zeynüddin","Camii","Türbe","Tekkeköy","Samsun","Karadeniz Bölgesi","Tarihi mekanlar","Dini yapılar"]

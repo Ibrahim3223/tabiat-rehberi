@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Oyrak%20Tepesi","alt":"Oyrak Tepesi","caption":"Oyrak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Karadeniz_Da%C4%9Flar%C4%B1_-_panoramio.jpg/960px-Karadeniz_Da%C4%9Flar%C4%B1_-_panoramio.jpg","alt":"Oyrak Tepesi","caption":"Oyrak Tepesi","credit":"Karadeniz Dağları - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Oyrak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387921","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Giresun'da yer alan Oyrak Tepesi, 140 hektarlık bir alanı kaplıyor. Doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Giresun","Karadeniz Bölgesi","Oyrak Tepesi","doğa","tarih","gezi","turizm","coğrafya","flora","fauna"]

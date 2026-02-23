@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gazi%20Atik%20Ali%20Pa%C5%9Fa%20Camii%20Yang%C4%B1n%20Havuzu","alt":"Gazi Atik Ali Paşa Camii Yangın Havuzu","caption":"Gazi Atik Ali Paşa Camii Yangın Havuzu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Militarization_of_Energy_Security_-_Turkey_as_a_case_study_%28IA_militarizationof109455347%29.pdf/page1-960px-Militarization_of_Energy_Security_-_Turkey_as_a_case_study_%28IA_militarizationof109455347%29.pdf.jpg","alt":"Gazi Atik Ali Paşa Camii Yangın Havuzu","caption":"Gazi Atik Ali Paşa Camii Yangın Havuzu","credit":"Militarization of Energy Security - Turkey as a case study (IA militarizationof109455347).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazi%20Atik%20Ali%20Pa%C5%9Fa%20Camii%20Yang%C4%B1n%20Havuzu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135430418","tip":"genel"}]
 description: "İstanbul'un tarihi merkezi Fatih'te bulunan, 15. yüzyıldan kalma bir gol"
 keywords: ["Gazi Atik Ali Paşa Camii","Yangın Havuzu","İstanbul","Fatih","Tarih","Mimari","Gol","Turizm","İstanbul Gezilecek Yerler"]

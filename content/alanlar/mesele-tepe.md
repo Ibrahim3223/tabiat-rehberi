@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mesele%20Tepe","alt":"Mesele Tepe","caption":"Mesele Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Mesele Tepe","caption":"Mesele Tepe","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mesele%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31545158","tip":"genel"}]
 description: "Diyarbakır'ın doğal güzelliklerini keşfedin, Mesele Tepe'de doğa ile baş başa kalın."
 keywords: ["Mesele Tepe","Diyarbakır","Dağ","Doğa","Turizm","Gezi","Seyahat","Diyarbakır Turistik Yerler","Mesele Tepe Diyarbakır"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ak%20G%C3%B6l%20(Sakarya)","alt":"Ak Göl (Sakarya)","caption":"Ak Göl (Sakarya)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l_Tabiat_Park%2C_Sakarya-_T%C3%BCrkiye.jpg/960px-S%C3%BCl%C3%BCkl%C3%BCg%C3%B6l_Tabiat_Park%2C_Sakarya-_T%C3%BCrkiye.jpg","alt":"Ak Göl (Sakarya)","caption":"Ak Göl (Sakarya)","credit":"Sülüklügöl Tabiat Park, Sakarya- Türkiye.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%20G%C3%B6l%20(Sakarya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34797610","tip":"genel"}]
 description: "Sakarya'da bulunan Ak Göl, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Ak Göl","Sakarya","Göller","Doğa Alanları","Yeşil Cennet","İstanbul","Türkiye","Seyahat","Gezi"]

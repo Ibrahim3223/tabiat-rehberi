@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","doğa yürüyüşleri","kış sporları","kuş gözlemciliği","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Katrancu%20Koyu","alt":"Katrancu Koyu","caption":"Katrancu Koyu"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Katrancu Koyu","caption":"Katrancu Koyu","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Katrancu%20Koyu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228181","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin saklı cenneti, Katrancu Koyu'nu keşfedin! Doğal güzellikler ve tarihi değerler bir arada."
 keywords: ["Katrancu Koyu","İç Anadolu Bölgesi","doğa","tarih","gezi","kültür","turizm","milli park","çevre"]

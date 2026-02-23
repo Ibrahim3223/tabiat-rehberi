@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa Gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=GEREDE%20%C5%9EEH%C4%B0R%20ORMANI","alt":"GEREDE ŞEHİR ORMANI","caption":"GEREDE ŞEHİR ORMANI"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"GEREDE ŞEHİR ORMANI","caption":"GEREDE ŞEHİR ORMANI","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/GEREDE%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228672","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşillendirilmiş alanlarından biri olan Gerede Şehir Ormanı, 140 hektarlık geniş bir alana yayılmış ve yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası"
 keywords: ["Gerede","Şehir Ormanı","İç Anadolu Bölgesi","Doğa","Yeşil Alan","Futbol Saha","Orman"]

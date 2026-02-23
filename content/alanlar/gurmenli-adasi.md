@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCrmenli%20Adas%C4%B1","alt":"Gürmenli Adası","caption":"Gürmenli Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Acoustical_oceanography_of_the_Levantine_Sea._%28IA_acousticaloceano00cubu%29.pdf/page1-960px-Acoustical_oceanography_of_the_Levantine_Sea._%28IA_acousticaloceano00cubu%29.pdf.jpg","alt":"Gürmenli Adası","caption":"Gürmenli Adası","credit":"Acoustical oceanography of the Levantine Sea. (IA acousticaloceano00cubu).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrmenli%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49640083","tip":"genel"}]
 description: "Antalya Kaş'ta bulunan Gürmenli Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Gürmenli Adası","Antalya","Kaş","ada","turizm","gezi","doğa","tarih","yeşil alan"]

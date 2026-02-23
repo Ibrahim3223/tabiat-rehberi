@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarihî yerleri ziyaret"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kaya%20Mezar%C4%B1%2C%20%20Belen","alt":"Kaya Mezarı,  Belen","caption":"Kaya Mezarı,  Belen"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Kaya Mezarı, Belen","caption":"Kaya Mezarı, Belen","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%2C%20%20Belen","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728186","tip":"genel"}]
 description: "Muğla'nın gizli cenneti, Ege Bölgesi'nde yer alan Kaya Mezarı, Belen"
 keywords: ["Kaya Mezarı","Belen","Muğla","Ege Bölgesi","doğal güzellik","tarih","coğrafya"]

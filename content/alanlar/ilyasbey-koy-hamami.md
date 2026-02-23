@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük gezi"
 aktiviteler: ["doğa yürüyüşü","çiçek izleme","yaban hayatı gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0lyasbey%20K%C3%B6y%20Hamam%C4%B1","alt":"İlyasbey Köy Hamamı","caption":"İlyasbey Köy Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"İlyasbey Köy Hamamı","caption":"İlyasbey Köy Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0lyasbey%20K%C3%B6y%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738789","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, İlyasbey Köy Hamamı, doğa severlerin yeni adresi"
 keywords: ["İlyasbey Köy Hamamı","Bilecik","Marmara Bölgesi","doğa","gezi","seyahat","tarih","coğrafya","flora","fauna"]

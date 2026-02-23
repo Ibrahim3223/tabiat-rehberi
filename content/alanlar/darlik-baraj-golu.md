@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Darl%C4%B1k%20Baraj%20G%C3%B6l%C3%BC","alt":"Darlık Baraj Gölü","caption":"Darlık Baraj Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece_at_Golden_Hour.jpg/960px-Lake_K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece_at_Golden_Hour.jpg","alt":"Darlık Baraj Gölü","caption":"Darlık Baraj Gölü","credit":"Lake Küçükçekmece at Golden Hour.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Darl%C4%B1k%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130357793","tip":"genel"}]
 description: "İstanbul'un en önemli su kaynaklarından biri olan Darlık Baraj Gölü, 1200 hektarlık yeşil alanı ile şehrin kalbinde bir doğa cenneti sunuyor."
 keywords: ["Darlık Baraj Gölü","İstanbul gölleri","su kaynakları","doğa cenneti","yeşil alan","İstanbul turizmi","baraj gölleri","su sporları","doğa yürüyüşü"]

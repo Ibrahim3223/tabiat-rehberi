@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Yerel hal ile sohbet"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C4%B1rakayalar%20%C5%9Eelalesi","alt":"Sırakayalar Şelalesi","caption":"Sırakayalar Şelalesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Sırakayalar Şelalesi","caption":"Sırakayalar Şelalesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1rakayalar%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q109387368","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Sırakayalar Şelalesi"
 keywords: ["Sırakayalar Şelalesi","Karadeniz Bölgesi","Bayburt","şelale","doğa","gezi","turizm","yerel"]

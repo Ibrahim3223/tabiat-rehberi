@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bursa-Mustafakemalpa%C5%9Fa-Karacabey%20Karacam%204","alt":"Bursa-Mustafakemalpaşa-Karacabey Karacam 4","caption":"Bursa-Mustafakemalpaşa-Karacabey Karacam 4"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf/page1-960px-The_Enterprise_1923-06-07_%28IA_cssf_001428%29.pdf.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Karacam 4","caption":"Bursa-Mustafakemalpaşa-Karacabey Karacam 4","credit":"The Enterprise 1923-06-07 (IA cssf 001428).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Karacabey%20Karacam%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227936","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin. Bursa-Mustafakemalpaşa-Karacabey Karacam 4 milli parkında yeşilin her tonunu görün."
 keywords: ["Bursa","Marmara Bölgesi","milli park","doğa","yeşil","gezi"]

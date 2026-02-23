@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Ayikayasi%20Dogu%20Kayini","alt":"Bolu-Ayikayasi Dogu Kayini","caption":"Bolu-Ayikayasi Dogu Kayini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bolu_G%C3%B6lc%C3%BCk_Milli_Park%C4%B1_-_Safa_Usta.jpg/960px-Bolu_G%C3%B6lc%C3%BCk_Milli_Park%C4%B1_-_Safa_Usta.jpg","alt":"Bolu-Ayikayasi Dogu Kayini","caption":"Bolu-Ayikayasi Dogu Kayini","credit":"Bolu Gölcük Milli Parkı - Safa Usta.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Ayikayasi%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227776","tip":"genel"}]
 description: "Bolu'da yer alan milli park, doğal güzellikleri ve zengin flora ile dikkat çekiyor."
 keywords: ["Bolu","milli park","doğa","flora","fauna","turizm","gezi","yaban hayatı","çevre"]

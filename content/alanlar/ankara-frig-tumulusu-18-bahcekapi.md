@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Tarih Gezisi","Fotoğrafçılık","Doğa İzleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2018%2C%20Bah%C3%A7ekap%C4%B1","alt":"Ankara Frig Tümülüsü 18, Bahçekapı","caption":"Ankara Frig Tümülüsü 18, Bahçekapı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf/page1-960px-Peter_and_Nancy_in_Asia%2C_%28IA_peternancyinasia00comf%29.pdf.jpg","alt":"Ankara Frig Tümülüsü 18, Bahçekapı","caption":"Ankara Frig Tümülüsü 18, Bahçekapı","credit":"Peter and Nancy in Asia, (IA peternancyinasia00comf).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2018%2C%20Bah%C3%A7ekap%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728288","tip":"genel"}]
 description: "Ankara'nın Etimesgut ilçesinde yer alan tarihi bir bölge olan Ankara Frig Tümülüsü 18, Bahçekapı, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Etimesgut","Frig Tümülüsü","Bahçekapı","tarih","gezi","turizm","kültür","doğa"]

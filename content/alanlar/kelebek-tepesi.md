@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","kelebek gözlemi","kültür turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kelebek%20Tepesi","alt":"Kelebek Tepesi","caption":"Kelebek Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Samsat_district_Turkey_%281%29.jpg/960px-Samsat_district_Turkey_%281%29.jpg","alt":"Kelebek Tepesi","caption":"Kelebek Tepesi","credit":"Samsat district Turkey (1).jpg","license":"CC BY 3.0 pl"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelebek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385649","tip":"genel"}]
 description: "Adıyaman'ın doğal güzelliklerini keşfedin, Kelebek Tepesi'ni ziyaret edin"
 keywords: ["Kelebek Tepesi","Adıyaman","Güneydoğu Anadolu Bölgesi","doğal güzellik","turizm","gezi","keşif","tepe","manzara"]

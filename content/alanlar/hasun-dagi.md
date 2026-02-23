@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hasun%20Da%C4%9F%C4%B1","alt":"Hasun Dağı","caption":"Hasun Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rocky_Mountain_adventures_%28IA_rockymountainadv00shelrich%29.pdf/page1-804px-Rocky_Mountain_adventures_%28IA_rockymountainadv00shelrich%29.pdf.jpg","alt":"Hasun Dağı","caption":"Hasun Dağı","credit":"Rocky Mountain adventures (IA rockymountainadv00shelrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasun%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574424","tip":"genel"}]
 description: "Van'da bulunan Hasun Dağı, 1200 hektarlık yeşil cenneti ile doğa severlerin gözdesi"
 keywords: ["Hasun Dağı","Van","Dağ","Doğa","Trekking","Kamp","Van Gezi","Doğa Turizmi","Türkiye Dağları"]

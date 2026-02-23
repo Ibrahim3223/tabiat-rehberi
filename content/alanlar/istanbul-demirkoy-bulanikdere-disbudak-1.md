@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki","fauna izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Istanbul%20Demirkoy%20Bulanikdere-Disbudak%201","alt":"Istanbul Demirkoy Bulanikdere-Disbudak 1","caption":"Istanbul Demirkoy Bulanikdere-Disbudak 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Istanbul Demirkoy Bulanikdere-Disbudak 1","caption":"Istanbul Demirkoy Bulanikdere-Disbudak 1","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul%20Demirkoy%20Bulanikdere-Disbudak%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228057","tip":"genel"}]
 description: "İç Anadolu Bölgesi'ndeki 140 hektarlık milli park, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["milli park","doğa","İç Anadolu Bölgesi","Istanbul Demirkoy Bulanikdere-Disbudak 1","turizm","gezi","yaban hayatı"]

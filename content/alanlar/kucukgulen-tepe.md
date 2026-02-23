@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "günübirlik"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCkg%C3%BClen%20Tepe","alt":"Küçükgülen Tepe","caption":"Küçükgülen Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg","alt":"Küçükgülen Tepe","caption":"Küçükgülen Tepe","credit":"Güver Canyon Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkg%C3%BClen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210979","tip":"genel"}]
 description: "Antalya'da bulunan Küçükgülen Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Küçükgülen Tepe","Antalya","doğal güzellik","tarihi geçmişi","gezi alanı","turizm","Akdeniz Bölgesi"]

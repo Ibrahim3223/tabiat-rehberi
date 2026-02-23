@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hac%C4%B1kaya%20Tepesi","alt":"Hacıkaya Tepesi","caption":"Hacıkaya Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Suharg%C4%B1_-_panoramio.jpg/960px-Suharg%C4%B1_-_panoramio.jpg","alt":"Hacıkaya Tepesi","caption":"Hacıkaya Tepesi","credit":"Suhargı - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31567059","tip":"genel"}]
 description: "Giresun'un doğal güzellikleri arasında yer alan Hacıkaya Tepesi, ziyaretçiler için bir çekim merkezi"
 keywords: ["Hacıkaya Tepesi","Giresun","Karadeniz Bölgesi","doğa","tepe","gezi"]

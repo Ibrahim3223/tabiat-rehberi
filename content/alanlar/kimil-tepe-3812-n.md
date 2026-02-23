@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C4%B1m%C4%B1l%20Tepe%20(38.12%20N)","alt":"Kımıl Tepe (38.12 N)","caption":"Kımıl Tepe (38.12 N)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Kımıl Tepe (38.12 N)","caption":"Kımıl Tepe (38.12 N)","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1m%C4%B1l%20Tepe%20(38.12%20N)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515228","tip":"genel"}]
 description: "Adıyaman'da bulunan Kımıl Tepe, 38.12 N enlemde yer alan bir dağdır. Doğal güzellikleri keşfedin."
 keywords: ["Kımıl Tepe","Adıyaman","Dağ","Doğa","Gezi","Seyahat","Türkiye","Coğrafya","Enlem"]

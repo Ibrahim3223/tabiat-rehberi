@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kuzu%C3%A7ambaba%20Tepesi","alt":"Kuzuçambaba Tepesi","caption":"Kuzuçambaba Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf/page1-960px-Energy_security_and_Turkey_%28IA_energysecuritynd109453762%29.pdf.jpg","alt":"Kuzuçambaba Tepesi","caption":"Kuzuçambaba Tepesi","credit":"Energy security and Turkey (IA energysecuritynd109453762).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzu%C3%A7ambaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32206357","tip":"genel"}]
 description: "Erzurum'un en yüksek noktalarından biri olan Kuzuçambaba Tepesi, 140 hektarlık bir alanı kaplıyor. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kuzuçambaba Tepesi","Erzurum","Doğu Anadolu Bölgesi","tepe","dağ","doğa","gezi","tarih"]

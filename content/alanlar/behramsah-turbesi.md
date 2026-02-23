@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğraf çekme","doğa ile iç içe olma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Behram%C5%9Fah%20T%C3%BCrbesi","alt":"Behramşah Türbesi","caption":"Behramşah Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wind_and_seismic_effects_%28IA_windseismiceffec843rauf%29.pdf/page1-960px-Wind_and_seismic_effects_%28IA_windseismiceffec843rauf%29.pdf.jpg","alt":"Behramşah Türbesi","caption":"Behramşah Türbesi","credit":"Wind and seismic effects (IA windseismiceffec843rauf).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Behram%C5%9Fah%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391370","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli hazinesi, Kemah'ta tarihi ve doğal güzelliğin birleştiği yer"
 keywords: ["Behramşah Türbesi","Kemah","Erzincan","Doğu Anadolu Bölgesi","tarihi mekan","doğal güzellik","tarihçe","coğrafya","flora","fauna"]

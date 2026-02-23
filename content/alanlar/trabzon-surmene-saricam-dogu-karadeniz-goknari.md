@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","doğa","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Trabzon-Surmene-Saricam%20Dogu%20Karadeniz%20Goknari","alt":"Trabzon-Surmene-Saricam Dogu Karadeniz Goknari","caption":"Trabzon-Surmene-Saricam Dogu Karadeniz Goknari"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sis_da%C4%9F%C4%B1_%282%29.jpg/960px-Sis_da%C4%9F%C4%B1_%282%29.jpg","alt":"Trabzon-Surmene-Saricam Dogu Karadeniz Goknari","caption":"Trabzon-Surmene-Saricam Dogu Karadeniz Goknari","credit":"Sis dağı (2).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Surmene-Saricam%20Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227594","tip":"genel"}]
 description: "Trabzon'un doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeken milli park."
 keywords: ["Trabzon","Surmene","Saricam","Dogu Karadeniz","Goknari","milli park","doğa","flora","fauna","gezi"]

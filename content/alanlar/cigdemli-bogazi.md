@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87i%C4%9Fdemli%20Bo%C4%9Faz%C4%B1","alt":"Çiğdemli Boğazı","caption":"Çiğdemli Boğazı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG/960px-Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG","alt":"Çiğdemli Boğazı","caption":"Çiğdemli Boğazı","credit":"Fairy Chimneys 2, Nevşehir Province, Turkey.JPG","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87i%C4%9Fdemli%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49343899","tip":"genel"}]
 description: "Nevşehir'de bulunan Çiğdemli Boğazı, doğal güzelliği ile dikkat çeken bir kanyon"
 keywords: ["Çiğdemli Boğazı","Nevşehir","kanyon","doğa","gezi","turizm","kapadokya","boğaz","turistik yerler"]

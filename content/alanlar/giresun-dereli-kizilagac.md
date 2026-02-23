@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Giresun-Dereli%20Kizilagac","alt":"Giresun-Dereli Kizilagac","caption":"Giresun-Dereli Kizilagac"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sis_da%C4%9F%C4%B1_%286%29.jpg/960px-Sis_da%C4%9F%C4%B1_%286%29.jpg","alt":"Giresun-Dereli Kizilagac","caption":"Giresun-Dereli Kizilagac","credit":"Sis dağı (6).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Dereli%20Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227749","tip":"genel"}]
 description: "Giresun'da yer alan milli park, 140 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Giresun","Dereli","Kizilagac","milli park","Karadeniz Bölgesi","doğa","gezi"]

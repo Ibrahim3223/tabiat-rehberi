@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Picnic","Doğa"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Afyon%20Sand%C4%B1kl%C4%B1%20Akda%C4%9F%20YHGS","alt":"Afyon Sandıklı Akdağ YHGS","caption":"Afyon Sandıklı Akdağ YHGS"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Afyon Sandıklı Akdağ YHGS","caption":"Afyon Sandıklı Akdağ YHGS","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Afyon%20Sand%C4%B1kl%C4%B1%20Akda%C4%9F%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227048","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Afyon Sandıklı Akdağ YHGS, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Afyon","Sandıklı","Akdağ","YHGS","İç Anadolu Bölgesi","yeşil alan","futbol sahası"]

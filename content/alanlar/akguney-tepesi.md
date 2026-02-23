@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih turu","manzara izleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Akg%C3%BCney%20Tepesi","alt":"Akgüney Tepesi","caption":"Akgüney Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Akgüney Tepesi","caption":"Akgüney Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akg%C3%BCney%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32126700","tip":"genel"}]
 description: "Yozgat'ın güzide tepeleri arasında yer alan Akgüney Tepesi, İç Anadolu Bölgesi'nin gizli kalmış güzelliklerinden biri."
 keywords: ["Akgüney Tepesi","Yozgat","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi","ekolojik gözlem"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kobarl%C4%B1%20Tepesi","alt":"Kobarlı Tepesi","caption":"Kobarlı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Kobarlı Tepesi","caption":"Kobarlı Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kobarl%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389593","tip":"genel"}]
 description: "Balıkesir'in doğal güzellikleri arasında yer alan Kobarlı Tepesi, Marmara Bölgesi'nin önemli coğrafi noktalarından biridir."
 keywords: ["Kobarlı Tepesi","Balıkesir","Marmara Bölgesi","coğrafi nokta","doğal güzellik","tepe","gezi","turizm"]

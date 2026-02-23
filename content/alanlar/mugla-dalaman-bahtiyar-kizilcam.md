@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","ekoloji","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Dalaman-Bahtiyar%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mugla-Dalaman-Bahtiyar Kızılçam","caption":"Mugla-Dalaman-Bahtiyar Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Mugla-Dalaman-Bahtiyar Kızılçam","caption":"Mugla-Dalaman-Bahtiyar Kızılçam","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Dalaman-Bahtiyar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227663","tip":"genel"}]
 description: "Mugla-Dalaman-Bahtiyar Kızılçam milli parkı, doğal güzellikleri ve zengin fauna ile dikkat çekiyor."
 keywords: ["Mugla-Dalaman-Bahtiyar Kızılçam","milli park","doğal alan","fauna","flora","gezi","turizm","çevre","ekoloji"]

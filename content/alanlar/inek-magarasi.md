@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0nek%20Ma%C4%9Faras%C4%B1","alt":"İnek Mağarası","caption":"İnek Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"İnek Mağarası","caption":"İnek Mağarası","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0nek%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319930","tip":"genel"}]
 description: "Van'da yer alan İnek Mağarası, 1200 hektarlık bir jeopark alanı sunar ve doğa severler için önemli bir destinasyon olarak dikkat çeker."
 keywords: ["İnek Mağarası","Van Jeopark","Doğa Turizmi","Mağara Gezisi","Jeolojik Özellikler","Van Turistik Yerler","Doğa Harikaları","Turizm Destinasyonları","Jeopark Alanı"]

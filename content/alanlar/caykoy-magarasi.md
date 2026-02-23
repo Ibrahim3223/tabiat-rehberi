@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87ayk%C3%B6y%20Ma%C4%9Faras%C4%B1","alt":"Çayköy Mağarası","caption":"Çayköy Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf/page1-727px-Medical_Heritage_Library_%28IA_57721120R.nlm.nih.gov%29.pdf.jpg","alt":"Çayköy Mağarası","caption":"Çayköy Mağarası","credit":"Medical Heritage Library (IA 57721120R.nlm.nih.gov).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ayk%C3%B6y%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319909","tip":"genel"}]
 description: "Çorum'da yer alan Çayköy Mağarası, jeopark olarak bilinen doğal bir oluşum. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Çayköy Mağarası","Jeopark","Çorum","Doğal Alan","Turizm","Mağara","Çorum Turistik Yerler","Jeolojik Oluşum","Doğa Seyahati"]

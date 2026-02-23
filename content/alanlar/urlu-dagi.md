@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Urlu%20Da%C4%9F%C4%B1","alt":"Urlu Dağı","caption":"Urlu Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg","alt":"Urlu Dağı","caption":"Urlu Dağı","credit":"The Landscape of Sıklık Gate park Çorum.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Urlu%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560508","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin. Urlu Dağı, 1200 hektarlık yeşil cennet"
 keywords: ["Urlu Dağı","Çorum","Dağ","Doğa","Yeşil Alan","Turizm","Çorum Turistik Yerler","Doğa Sporları","Trekking"]

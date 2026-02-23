@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","kampçılık","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Aladag%20Saricam%201","alt":"Bolu-Aladag Saricam 1","caption":"Bolu-Aladag Saricam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/G%C3%B6lc%C3%BCk1.jpg/960px-G%C3%B6lc%C3%BCk1.jpg","alt":"Bolu-Aladag Saricam 1","caption":"Bolu-Aladag Saricam 1","credit":"Gölcük1.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Aladag%20Saricam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227554","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti Bolu-Aladag Saricam 1 milli parkı"
 keywords: ["Bolu","Aladag","Saricam","milli park","Karadeniz","doğa","gezi","turizm"]

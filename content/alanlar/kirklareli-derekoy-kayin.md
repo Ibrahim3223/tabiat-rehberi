@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Eğitim programları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kirklareli-Derekoy%20Kayin","alt":"Kirklareli-Derekoy Kayin","caption":"Kirklareli-Derekoy Kayin"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/%C4%B0%C4%9FneadaFloodplainForestsNP_%286%29.JPG/960px-%C4%B0%C4%9FneadaFloodplainForestsNP_%286%29.JPG","alt":"Kirklareli-Derekoy Kayin","caption":"Kirklareli-Derekoy Kayin","credit":"İğneadaFloodplainForestsNP (6).JPG","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirklareli-Derekoy%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227258","tip":"genel"}]
 description: "Kırklareli'de bulunan Derekoy Kayin Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kirklareli","Derekoy Kayin","Milli Park","Marmara Bölgesi","Doğa","Turizm","Kırklareli Milli Parkı","Derekoy","Kayin"]

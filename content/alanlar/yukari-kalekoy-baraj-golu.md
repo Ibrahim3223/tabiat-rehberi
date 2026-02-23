@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yukar%C4%B1%20Kalek%C3%B6y%20Baraj%20G%C3%B6l%C3%BC","alt":"Yukarı Kaleköy Baraj Gölü","caption":"Yukarı Kaleköy Baraj Gölü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lake_Limni_Nature_Park_02.jpg/960px-Lake_Limni_Nature_Park_02.jpg","alt":"Yukarı Kaleköy Baraj Gölü","caption":"Yukarı Kaleköy Baraj Gölü","credit":"Lake Limni Nature Park 02.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yukar%C4%B1%20Kalek%C3%B6y%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q69704792","tip":"genel"}]
 description: "Türkiye'de bulunan yukarı kaleköy baraj gölü, 1200 hektarlık yeşil cennet, doğa severler için ideal bir destinasyon"
 keywords: ["Yukarı Kaleköy Baraj Gölü","Türkiye gölleri","Doğa turizmi","Baraj gölleri","Yeşil alanlar","Doğa severler","Turizm destinasyonları","Göl turizmi","Türkiye'nin güzellikleri"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarihî kalıntıları keşfetme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87i%C4%9Firlerkona%C4%9F%C4%B1%20Tepesi","alt":"Çiğirlerkonağı Tepesi","caption":"Çiğirlerkonağı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Science-gossip_%28IA_sciencegossip0670lond%29.pdf/page1-960px-Science-gossip_%28IA_sciencegossip0670lond%29.pdf.jpg","alt":"Çiğirlerkonağı Tepesi","caption":"Çiğirlerkonağı Tepesi","credit":"Science-gossip (IA sciencegossip0670lond).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87i%C4%9Firlerkona%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829423","tip":"genel"}]
 description: "Denizli'nin gizli cenneti, 140 hektarlık doğal alan"
 keywords: ["Çiğirlerkonağı Tepesi","Denizli","Ege Bölgesi","doğa","tepe","gezi","turizm","yaban hayatı"]

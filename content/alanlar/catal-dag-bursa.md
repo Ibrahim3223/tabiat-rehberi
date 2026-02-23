@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87atal%20Da%C4%9F%20(Bursa)","alt":"Çatal Dağ (Bursa)","caption":"Çatal Dağ (Bursa)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vegetation_and_flora_of_the_Aravaipa_Creek_Primitive_Area%2C_Graham_and_Pinal_Counties%2C_Arizona_%28IA_vegetationflorao28kepn%29.pdf/page1-635px-Vegetation_and_flora_of_the_Aravaipa_Creek_Primitive_Area%2C_Graham_and_Pinal_Counties%2C_Arizona_%28IA_vegetationflorao28kepn%29.pdf.jpg","alt":"Çatal Dağ","caption":"Çatal Dağ","credit":"Vegetation and flora of the Aravaipa Creek Primitive Area, Graham and Pinal Counties, Arizona (IA vegetationflorao28kepn).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atal%20Da%C4%9F%20(Bursa)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824067","tip":"genel"}]
 description: "Bursa'nın doğal güzelliklerini keşfedin, Çatal Dağ'ın büyüleyici manzaralarına hayran kalın."
 keywords: ["Çatal Dağ","Bursa","Dağ","Doğa","Turizm","Gezi","Manzara","Bursa Turistik Yerler","Çatal Dağ Bursa"]

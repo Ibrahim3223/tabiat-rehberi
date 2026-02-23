@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotograf çekme","kuş gözlemleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0zmir-Menderes-Torbal%C4%B1-K%C4%B1z%C4%B1l%C3%A7am","alt":"İzmir-Menderes-Torbalı-Kızılçam","caption":"İzmir-Menderes-Torbalı-Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ongoing_declines_for_the_world%E2%80%99s_amphibians_in_the_face_of_emerging_threats.pdf/page1-960px-Ongoing_declines_for_the_world%E2%80%99s_amphibians_in_the_face_of_emerging_threats.pdf.jpg","alt":"İzmir-Menderes-Torbalı-Kızılçam","caption":"İzmir-Menderes-Torbalı-Kızılçam","credit":"Ongoing declines for the world’s amphibians in the face of emerging threats.pdf","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0zmir-Menderes-Torbal%C4%B1-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228444","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. Ege Bölgesi'nin önemli milli parklarından biri."
 keywords: ["İzmir","Menderes","Torbalı","Kızılçam","milli park","Ege Bölgesi","doğa","gezi"]

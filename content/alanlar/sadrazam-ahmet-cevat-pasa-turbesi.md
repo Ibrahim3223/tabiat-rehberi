@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Denizde yüzme","Türbe ve çevresini gezme","Yerel lezzetleri tatma","Deniz kenarında yürüyüş"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sadrazam%20Ahmet%20Cevat%20Pa%C5%9Fa%20T%C3%BCrbesi","alt":"Sadrazam Ahmet Cevat Paşa Türbesi","caption":"Sadrazam Ahmet Cevat Paşa Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Sadrazam Ahmet Cevat Paşa Türbesi","caption":"Sadrazam Ahmet Cevat Paşa Türbesi","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sadrazam%20Ahmet%20Cevat%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391046","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi türbe ve plaj"
 keywords: ["Sadrazam Ahmet Cevat Paşa Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarihi türbe","plaj","turistik yer","gezi","tarih"]

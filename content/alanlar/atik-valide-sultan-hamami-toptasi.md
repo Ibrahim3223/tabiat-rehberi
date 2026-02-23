@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihî hamam gezisi","Denize girme","Yeşil alan gezintisi","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Atik%20Valide%20Sultan%20Hamam%C4%B1%2C%20Topta%C5%9F%C4%B1","alt":"Atik Valide Sultan Hamamı, Toptaşı","caption":"Atik Valide Sultan Hamamı, Toptaşı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Atik Valide Sultan Hamamı, Toptaşı","caption":"Atik Valide Sultan Hamamı, Toptaşı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atik%20Valide%20Sultan%20Hamam%C4%B1%2C%20Topta%C5%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738564","tip":"genel"}]
 description: "İstanbul'un Üsküdar ilçesinde yer alan tarihi hamam ve plaj"
 keywords: ["Atik Valide Sultan Hamamı","Toptaşı","Üsküdar","İstanbul","Marmara Bölgesi","tarihi hamam","plaj"]

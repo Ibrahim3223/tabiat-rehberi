@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kestane%20Da%C4%9F%C4%B1%20(%C3%87anakkale)","alt":"Kestane Dağı (Çanakkale)","caption":"Kestane Dağı (Çanakkale)"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf/page1-960px-Effects_of_forest_fire_on_physical%2C_chemical_and_biological_soil_properties.pdf.jpg","alt":"Kestane Dağı","caption":"Kestane Dağı","credit":"Effects of forest fire on physical, chemical and biological soil properties.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kestane%20Da%C4%9F%C4%B1%20(%C3%87anakkale)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041328","tip":"genel"}]
 description: "Çanakkale'nin en önemli doğal güzelliklerinden biri olan Kestane Dağı, trekking ve doğa severler için ideal bir destinasyon."
 keywords: ["Kestane Dağı","Çanakkale","Dağ","Trekking","Doğa","Turizm","Gezi","Çanakkale gezilecek yerler","Dağcılık"]

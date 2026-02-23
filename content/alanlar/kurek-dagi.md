@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BCrek%20Da%C4%9F%C4%B1","alt":"Kürek Dağı","caption":"Kürek Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf/page1-960px-Organ_Mountain_recreation_lands_interpretive_plan_%28IA_organmountainrec5503klin%29.pdf.jpg","alt":"Kürek Dağı","caption":"Kürek Dağı","credit":"Organ Mountain recreation lands interpretive plan (IA organmountainrec5503klin).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCrek%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042831","tip":"genel"}]
 description: "Hakkari'nin görkemli dağlarından biri olan Kürek Dağı, doğa severlerin ziyaret ettiği bir bölge"
 keywords: ["Kürek Dağı","Hakkari","Dağ","Doğa","Trekking","Kürek Dağı Hakkari","Doğa Turizmi","Dağcılık","Hakkari Gezi"]

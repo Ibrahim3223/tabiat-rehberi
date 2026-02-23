@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mileyha%20Sulak%20Alan","alt":"Mileyha Sulak Alan","caption":"Mileyha Sulak Alan"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Mileyha Sulak Alan","caption":"Mileyha Sulak Alan","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mileyha%20Sulak%20Alan","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q125536856","tip":"genel"}]
 description: "Hatay, Samandağ'da bulunan Mileyha Sulak Alan, 1200 hektarlık yeşil cennet, jeopark olarak korunan doğal güzellikler sunar."
 keywords: ["Mileyha Sulak Alan","Hatay","Samandağ","Jeopark","Doğal Alan","Sulak Alan","Yeşil Cennet","Turizm","Doğa","Gezi"]

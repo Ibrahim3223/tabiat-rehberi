@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6lba%C5%9F%C4%B1%20G%C3%B6leti","alt":"Gölbaşı Göleti","caption":"Gölbaşı Göleti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/G%C3%B6lyaz%C4%B1_Cost._Bursa.Turkey.jpg/960px-G%C3%B6lyaz%C4%B1_Cost._Bursa.Turkey.jpg","alt":"Gölbaşı Göleti","caption":"Gölbaşı Göleti","credit":"Gölyazı Cost. Bursa.Turkey.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lba%C5%9F%C4%B1%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34888373","tip":"genel"}]
 description: "Bursa'nın doğal güzelliklerinden biri olan Gölbaşı Göleti, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Gölbaşı Göleti","Bursa","göl","doğa","yeşil alan","turizm","gezi","Bursa gölleri","Gölbaşı"]

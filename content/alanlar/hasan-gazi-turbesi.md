@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları gezmek","Doğal güzellikleri keşfetmek","Kültürel etkinliklere katılmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hasan%20Gazi%20T%C3%BCrbesi","alt":"Hasan Gazi Türbesi","caption":"Hasan Gazi Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Hasan Gazi Türbesi","caption":"Hasan Gazi Türbesi","credit":"Malatya turgut ozal nature park view.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasan%20Gazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390903","tip":"genel"}]
 description: "Darende'nin tarihi ve doğal güzelliklerinin birleştiği Hasan Gazi Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Hasan Gazi Türbesi","Darende","Malatya","Doğu Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","gezi rehberi"]

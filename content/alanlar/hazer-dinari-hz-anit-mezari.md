@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["mezarı gezmek","tarihi öğrenmek","çevreyi keşfetmek","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Hazer%20Dinari%20Hz.%20An%C4%B1t%20Mezar%C4%B1","alt":"Hazer Dinari Hz. Anıt Mezarı","caption":"Hazer Dinari Hz. Anıt Mezarı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hazer Dinari Hz. Anıt Mezarı","caption":"Hazer Dinari Hz. Anıt Mezarı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hazer%20Dinari%20Hz.%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728139","tip":"genel"}]
 description: "Kütahya'nın tarihi ve kültürel zenginliklerini keşfedin, Hazer Dinari Hz. Anıt Mezarı'nı ziyaret edin."
 keywords: ["Kütahya","tarih","kültür","anıt mezar","Hazer Dinari Hz.","Ege Bölgesi","gezi","tarihçe","coğrafya"]

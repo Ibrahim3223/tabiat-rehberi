@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Birkaç gün"
 aktiviteler: ["doğa yürüyüşü","bitki ve hayvan türlerini keşfetme","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Kemer-Akcay%20K%C4%B1z%C4%B1l%C3%A7am1","alt":"Mugla-Kemer-Akcay Kızılçam1","caption":"Mugla-Kemer-Akcay Kızılçam1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kavakarasi.jpg/960px-Kavakarasi.jpg","alt":"Mugla-Kemer-Akcay Kızılçam1","caption":"Mugla-Kemer-Akcay Kızılçam1","credit":"Kavakarasi.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Kemer-Akcay%20K%C4%B1z%C4%B1l%C3%A7am1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227912","tip":"genel"}]
 description: "Muğla'da yer alan doğal güzellik, 140 hektarlık yeşil alan"
 keywords: ["Muğla","Kemer","Akcay","Kızılçam","milli park","doğa","yeşil alan","Ege Bölgesi","gezi","turizm"]

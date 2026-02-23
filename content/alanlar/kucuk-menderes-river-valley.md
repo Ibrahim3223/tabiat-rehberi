@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%BC%C3%A7%C3%BCk%20Menderes%20river%20valley","alt":"Küçük Menderes river valley","caption":"Küçük Menderes river valley"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Foreign_agriculture_-weekly_magazine_of_the_United_States_Department_of_Agriculture%2C_Foreign_Agricultural_Service%2C_U.S._Department_of_Agriculture_%28IA_CAT10252662303%29.pdf/page1-960px-thumbnail.pdf.jpg","alt":"Küçük Menderes river valley","caption":"Küçük Menderes river valley","credit":"Foreign agriculture -weekly magazine of the United States Department of Agriculture, Foreign Agricultural Service, U.S. Department of Agriculture (IA CAT10252662303).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Menderes%20river%20valley","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q112036186","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerinden biri olan Küçük Menderes river valley, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Küçük Menderes","İzmir","kanyon","doğa","yeşil alan","turizm","gezi","İzmir turistik yerler","Küçük Menderes river valley"]

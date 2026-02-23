@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekme","piknik","kış sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ard%C4%B1%C3%A7%C4%B1%20Tepe","alt":"Ardıçı Tepe","caption":"Ardıçı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Ardıçı Tepe","caption":"Ardıçı Tepe","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ard%C4%B1%C3%A7%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32129261","tip":"genel"}]
 description: "Erzurum'un gözde doğal alanlarından biri olan Ardıçı Tepe, 140 hektarlık yeşil alanı ile ziyaretçilerini büyülüyor."
 keywords: ["Ardıçı Tepe","Erzurum","Doğu Anadolu Bölgesi","doğal alan","yeşil alan","turizm","gezi","doğa","çevre"]

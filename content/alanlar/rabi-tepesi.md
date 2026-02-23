@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Fotoğrafçılık","Kış sporları"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Rabi%20Tepesi","alt":"Rabi Tepesi","caption":"Rabi Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New-Dark_Evangelist_1871-04-13-_Vol_42_Iss_15_%28IA_sim_evangelist-and-religious-review_1871-04-13_42_15%29.pdf/page1-960px-New-Dark_Evangelist_1871-04-13-_Vol_42_Iss_15_%28IA_sim_evangelist-and-religious-review_1871-04-13_42_15%29.pdf.jpg","alt":"Rabi Tepesi","caption":"Rabi Tepesi","credit":"New-Dark Evangelist 1871-04-13- Vol 42 Iss 15 (IA sim evangelist-and-religious-review 1871-04-13 42 15).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rabi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551337","tip":"genel"}]
 description: "Mardin'de yer alan Rabi Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Mardin","Rabi Tepesi","Güneydoğu Anadolu Bölgesi","doğa","tepe","coğrafya","flora","fauna","ziyaret","gezi"]

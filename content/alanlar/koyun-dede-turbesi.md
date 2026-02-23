@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe ve kültür araştırması","Doğa yürüyüşü","Manzara seyri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koyun%20Dede%20T%C3%BCrbesi","alt":"Koyun Dede Türbesi","caption":"Koyun Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_red_rugs_of_Tarsus%3B_a_women%27s_record_of_the_Armenian_massacre_of_1909_%28IA_redrugsoftarsusw00gibbrich%29.pdf/page1-706px-The_red_rugs_of_Tarsus%3B_a_women%27s_record_of_the_Armenian_massacre_of_1909_%28IA_redrugsoftarsusw00gibbrich%29.pdf.jpg","alt":"Koyun Dede Türbesi","caption":"Koyun Dede Türbesi","credit":"The red rugs of Tarsus; a women's record of the Armenian massacre of 1909 (IA redrugsoftarsusw00gibbrich).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koyun%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390598","tip":"genel"}]
 description: "Ceyhan'da tarihi ve doğal güzelliklerin birleştiği Koyun Dede Türbesi"
 keywords: ["Koyun Dede Türbesi","Ceyhan","Adana","Akdeniz Bölgesi","tarihi mekan","doğa","turizm","gezi","tarihçe"]

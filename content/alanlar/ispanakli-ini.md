@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Ispanakl%C4%B1%20%C4%B0ni","alt":"Ispanaklı İni","caption":"Ispanaklı İni"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Ispanaklı İni","caption":"Ispanaklı İni","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ispanakl%C4%B1%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319274","tip":"genel"}]
 description: "Mersin'de yer alan Ispanaklı İni, doğal güzelliği ile dikkat çeken bir jeopark alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Ispanaklı İni","Mersin","Jeopark","Doğal Alan","Yeşil Cennet","Turizm","Gezi","Mersin Gezilecek Yerler","Jeopark Alanları"]

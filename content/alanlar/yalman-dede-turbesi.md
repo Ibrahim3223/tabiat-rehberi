@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","plaj gezisi","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Yalman%20Dede%20T%C3%BCrbesi","alt":"Yalman Dede Türbesi","caption":"Yalman Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Travels_in_Nubia_%28IA_b22017343%29.pdf/page1-912px-Travels_in_Nubia_%28IA_b22017343%29.pdf.jpg","alt":"Yalman Dede Türbesi","caption":"Yalman Dede Türbesi","credit":"Travels in Nubia (IA b22017343).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yalman%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391609","tip":"genel"}]
 description: "Mersin'in Silifke ilçesinde bulunan tarihi ve doğal güzelliklerin buluştuğu önemli bir destinasyon"
 keywords: ["Yalman Dede Türbesi","Silifke","Mersin","tarih","doğa","gezi","tarihçe","coğrafya","flora","fauna","ziyaret"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Balikesir-Alacam-Golcuk%20Karacam%201","alt":"Balikesir-Alacam-Golcuk Karacam 1","caption":"Balikesir-Alacam-Golcuk Karacam 1"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Balikesir-Alacam-Golcuk Karacam 1","caption":"Balikesir-Alacam-Golcuk Karacam 1","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Alacam-Golcuk%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227484","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan 140 hektarlık milli park, doğal güzellikleri ve zengin fauna ile dikkat çekiyor."
 keywords: ["milli park","doğal güzellik","fauna","iç anadolu","balikesir","alacam","golcuk","karacam"]

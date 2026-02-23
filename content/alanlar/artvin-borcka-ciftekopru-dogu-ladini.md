@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Çadır kurma"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Artvin-Borcka-Ciftekopru%20Dogu%20Ladini","alt":"Artvin-Borcka-Ciftekopru Dogu Ladini","caption":"Artvin-Borcka-Ciftekopru Dogu Ladini"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ye%C5%9Fil_Deniz.jpg/960px-Ye%C5%9Fil_Deniz.jpg","alt":"Artvin-Borcka-Ciftekopru Dogu Ladini","caption":"Artvin-Borcka-Ciftekopru Dogu Ladini","credit":"Yeşil Deniz.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Borcka-Ciftekopru%20Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227985","tip":"genel"}]
 description: "Artvin'in güzide milli parkı, doğaseverlerin cenneti"
 keywords: ["Artvin","Milli Park","Doğu Ladini","Borcka","Çifteköprü","Karadeniz Bölgesi","Doğa Turizmi","Orman Ekosistemi"]

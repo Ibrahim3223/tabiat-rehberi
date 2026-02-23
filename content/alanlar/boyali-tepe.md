@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Tarih kalıntılarını keşfetme","Manzara seyretme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Boyal%C4%B1%20Tepe","alt":"Boyalı Tepe","caption":"Boyalı Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Boyalı Tepe","caption":"Boyalı Tepe","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boyal%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390941","tip":"genel"}]
 description: "Kayseri'nin İç Anadolu Bölgesi'ndeki doğal güzelliği, Boyalı Tepe"
 keywords: ["Kayseri","İç Anadolu Bölgesi","Doğa","Turizm","Boyalı Tepe","Gezi","Tarihçe","Coğrafya"]

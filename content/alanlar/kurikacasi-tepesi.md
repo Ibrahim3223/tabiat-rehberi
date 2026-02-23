@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kurikacasi%20Tepesi","alt":"Kurikacasi Tepesi","caption":"Kurikacasi Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf/page1-800px-The_Victorian_naturalist_%28IA_victoriannatur8691969luca%29.pdf.jpg","alt":"Kurikacasi Tepesi","caption":"Kurikacasi Tepesi","credit":"The Victorian naturalist (IA victoriannatur8691969luca).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurikacasi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553807","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzel illerinden biri olan Batman'da yer alan Kurikacasi Tepesi, doğa severlerin ziyaret edebileceği önemli bir nokta"
 keywords: ["Kurikacasi Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]

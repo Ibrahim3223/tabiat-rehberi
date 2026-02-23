@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet","çiçek izleme","manzara seyretme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kartall%C4%B1k%20Tepesi","alt":"Kartallık Tepesi","caption":"Kartallık Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Kartallık Tepesi","caption":"Kartallık Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartall%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558516","tip":"genel"}]
 description: "Ankara'nın eşsiz doğal güzelliklerinden biri olan Kartallık Tepesi, İç Anadolu Bölgesi'nin kalbinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kartallık Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","turizm"]

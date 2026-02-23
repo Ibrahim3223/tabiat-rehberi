@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotoğrafçılık","Bisiklet turu"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%B6nen%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","alt":"Gönen Deltası Sulak Alanı","caption":"Gönen Deltası Sulak Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Gönen Deltası Sulak Alanı","caption":"Gönen Deltası Sulak Alanı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6nen%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228842","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Gönen Deltası Sulak Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Gönen Deltası","Sulak Alan","İç Anadolu Bölgesi","doğal yaşam","kuş türleri","bitki çeşitliliği","ekosistem","korunma alanı"]

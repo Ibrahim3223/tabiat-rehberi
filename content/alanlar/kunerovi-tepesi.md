@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kunerovi%20Tepesi","alt":"Kunerovi Tepesi","caption":"Kunerovi Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf/page1-881px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00kingiala%29.pdf.jpg","alt":"Kunerovi Tepesi","caption":"Kunerovi Tepesi","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00kingiala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kunerovi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547284","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en dikkat çekici noktalarından biri olan Kunerovi Tepesi, Siirt ilinin güzide bir bölgesinde yer alır."
 keywords: ["Kunerovi Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya"]

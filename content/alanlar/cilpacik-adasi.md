@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87%C4%B1lpac%C4%B1k%20Adas%C4%B1","alt":"Çılpacık Adası","caption":"Çılpacık Adası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf/page1-960px-Schedule_K._Classification_of_foreign_ports_by_geographic_trade_area_and_country._%28IA_schedulekclassif1991unse%29.pdf.jpg","alt":"Çılpacık Adası","caption":"Çılpacık Adası","credit":"Schedule K. Classification of foreign ports by geographic trade area and country. (IA schedulekclassif1991unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1lpac%C4%B1k%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34789930","tip":"genel"}]
 description: "Antalya'nın güzide adalarından biri olan Çılpacık Adası, doğa severlerin ve deniz aşığıların ziyaret ettiği bir cennet."
 keywords: ["Çılpacık Adası","Antalya Adaları","Türkiye Adaları","Doğa Turizmi","Deniz Turizmi","Adalar","Turistik Yerler","Antalya Gezilecek Yerler","Çılpacık Adası Gezi"]

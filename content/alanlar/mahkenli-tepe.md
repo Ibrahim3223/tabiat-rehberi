@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mahkenli%20Tepe","alt":"Mahkenli Tepe","caption":"Mahkenli Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wle-jury-report-2022-lores.pdf/page1-960px-Wle-jury-report-2022-lores.pdf.jpg","alt":"Mahkenli Tepe","caption":"Mahkenli Tepe","credit":"Wle-jury-report-2022-lores.pdf","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahkenli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389502","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Mahkenli Tepe, Akdeniz Bölgesi'nin önemli doğal alanlarından biri"
 keywords: ["Mahkenli Tepe","Kahramanmaraş","Akdeniz Bölgesi","doğal alan","tepe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarihi alan gezisi","Piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karabacak%20Tepesi","alt":"Karabacak Tepesi","caption":"Karabacak Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/New_chapters_in_the_warfare_of_science_%28IA_cu31924092291495%29.pdf/page1-789px-New_chapters_in_the_warfare_of_science_%28IA_cu31924092291495%29.pdf.jpg","alt":"Karabacak Tepesi","caption":"Karabacak Tepesi","credit":"New chapters in the warfare of science (IA cu31924092291495).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karabacak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389158","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Karabacak Tepesi, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Karabacak Tepesi","Sivas","İç Anadolu Bölgesi","doğal güzellik","tarihi alan","tepe","coğrafya","flora","fauna","ziyaret"]

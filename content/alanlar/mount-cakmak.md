@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","manzara seyri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mount%20%C3%87akmak","alt":"Mount Çakmak","caption":"Mount Çakmak"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf/page1-897px-The_Turk_and_the_land_of_Haig%3B_or%2C_Turkey_and_Armenia-_descriptive%2C_historical%2C_and_picturesque_%28IA_turklandofhaigor00azhd%29.pdf.jpg","alt":"Mount Çakmak","caption":"Mount Çakmak","credit":"The Turk and the land of Haig; or, Turkey and Armenia- descriptive, historical, and picturesque (IA turklandofhaigor00azhd).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mount%20%C3%87akmak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34827867","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli güzelliklerinden biri olan Mount Çakmak, Gaziantep'in eşsiz manzaralarına ev sahipliği yapıyor."
 keywords: ["Mount Çakmak","Gaziantep","Güneydoğu Anadolu Bölgesi","doğa","gezi","tepe"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tırmanma","Doğa Yürüyüşü","Tarihi Kalıntıları İnceleme","Manzara İzleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Babain%20Tepesi","alt":"Babain Tepesi","caption":"Babain Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/960px-Kursunlu_Waterfall_Autumn.jpg","alt":"Babain Tepesi","caption":"Babain Tepesi","credit":"Kursunlu Waterfall Autumn.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Babain%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390169","tip":"genel"}]
 description: "Antalya'nın eşsiz doğal güzelliklerinden biri olan Babain Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar."
 keywords: ["Babain Tepesi","Antalya","doğa","tepe","manzara","gezi","türkiye","akdeniz","gezilecek yerler"]

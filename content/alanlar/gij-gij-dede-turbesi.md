@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C4%B1j%20G%C4%B1j%20Dede%20T%C3%BCrbesi","alt":"Gıj Gıj Dede Türbesi","caption":"Gıj Gıj Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf/page1-795px-Across_Asia_Minor_on_foot_%28IA_acrossasiaminoro00chiluoft%29.pdf.jpg","alt":"Gıj Gıj Dede Türbesi","caption":"Gıj Gıj Dede Türbesi","credit":"Across Asia Minor on foot (IA acrossasiaminoro00chiluoft).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C4%B1j%20G%C4%B1j%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390951","tip":"genel"}]
 description: "Tokat'ta tarihi ve doğal güzelliğin birleştiği Gıj Gıj Dede Türbesi'ni keşfedin"
 keywords: ["Gıj Gıj Dede Türbesi","Tokat","Karadeniz Bölgesi","tarihi mekanlar","doğa turizmi","türk kültürü","gezi rehberi","tarihçe"]

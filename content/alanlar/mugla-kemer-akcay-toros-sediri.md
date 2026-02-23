@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","manzara keşfi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mugla-Kemer-Akcay%20Toros%20Sediri","alt":"Mugla-Kemer-Akcay Toros Sediri","caption":"Mugla-Kemer-Akcay Toros Sediri"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chameleon_in_Turkish_forest_%282%29.jpg/960px-Chameleon_in_Turkish_forest_%282%29.jpg","alt":"Mugla-Kemer-Akcay Toros Sediri","caption":"Mugla-Kemer-Akcay Toros Sediri","credit":"Chameleon in Turkish forest (2).jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Kemer-Akcay%20Toros%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228002","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, Kemer-Akcay Toros Sediri milli parkı"
 keywords: ["Muğla","Kemer-Akcay","Toros Sediri","milli park","doğa","turizm","gezi","yaban hayatı","ekosistem"]

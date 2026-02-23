@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kat%C4%B1rma%C4%9Faralar%C4%B1","alt":"Katırmağaraları","caption":"Katırmağaraları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Katırmağaraları","caption":"Katırmağaraları","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kat%C4%B1rma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319340","tip":"genel"}]
 description: "Mardin'de yer alan Katırmağaraları Jeopark, 1200 hektarlık yeşil cenneti ve benzersiz jeolojik oluşumlarıyla ziyaretçilerini bekliyor."
 keywords: ["Katırmağaraları","Mardin","Jeopark","Doğa","Turizm","Gezi","Mardin Turistik Yerler","Jeolojik Oluşumlar","Yeşil Cennet"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Izmir-Bergama-Poyrac%C4%B1k%20K%C4%B1z%C4%B1l%C3%A7am%202","alt":"Izmir-Bergama-Poyracık Kızılçam 2","caption":"Izmir-Bergama-Poyracık Kızılçam 2"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Izmir-Bergama-Poyracıkızılçam 2","caption":"Izmir-Bergama-Poyracıkızılçam 2","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Bergama-Poyrac%C4%B1k%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227895","tip":"genel"}]
 description: "İzmir'in Bergama ilçesinde bulunan milli parkın güzellikleri"
 keywords: ["milli park","İzmir","Bergama","Poyracık","Kızılçam","doğa","gezi","turizm"]

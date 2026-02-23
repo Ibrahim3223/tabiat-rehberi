@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihi araştırma","Doğa yürüyüşü","Fotografçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C5%9Eeyh%20Mehmet%20%C4%B0zz%C3%AE%20Bedreddin%20Efendi%20A%C3%A7%C4%B1k%20T%C3%BCrbesi","alt":"Şeyh Mehmet İzzî Bedreddin Efendi Açık Türbesi","caption":"Şeyh Mehmet İzzî Bedreddin Efendi Açık Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Şeyh Mehmet İzzî Bedreddin Efendi Açık Türbesi","caption":"Şeyh Mehmet İzzî Bedreddin Efendi Açık Türbesi","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Mehmet%20%C4%B0zz%C3%AE%20Bedreddin%20Efendi%20A%C3%A7%C4%B1k%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391700","tip":"genel"}]
 description: "İstanbul'un Üsküdar ilçesinde bulunan tarihi bir mekan"
 keywords: ["Şeyh Mehmet İzzî Bedreddin Efendi","Açık Türbesi","Üsküdar","İstanbul","Marmara Bölgesi","Tarihi mekanlar","Türbe","Şeyh"]

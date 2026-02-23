@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih öğrenme","doğa yürüyüşü","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=E%C4%9Fil%20Kaya%20Mezarlar%C4%B1","alt":"Eğil Kaya Mezarları","caption":"Eğil Kaya Mezarları"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf/page1-960px-Strategic_resources_of_Iraq_%28IA_strategicresourc00hawl%29.pdf.jpg","alt":"Eğil Kaya Mezarları","caption":"Eğil Kaya Mezarları","credit":"Strategic resources of Iraq (IA strategicresourc00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Fil%20Kaya%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728222","tip":"genel"}]
 description: "Diyarbakır'ın Eğilçesinde bulunan tarihi kaya mezarları, ziyaretçilerini geçmişe götürüyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Eğil Kaya Mezarları","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarihi kaya mezarları","gezi","tarih","coğrafya","doğa","flora","fauna"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Plajda güneşlenmek","Denizde yüzme","Türbe ziyaret","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bilal%20Dede%20T%C3%BCrbesi","alt":"Bilal Dede Türbesi","caption":"Bilal Dede Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Bilal Dede Türbesi","caption":"Bilal Dede Türbesi","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bilal%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391626","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide yerlerinden biri olan Bilal Dede Türbesi, Aydın'ın Koçarlı ilçesinde bulunmaktadır."
 keywords: ["Bilal Dede Türbesi","Aydın","Koçarlı","Ege Bölgesi","tarih","doğa","gezi","türbe","plaj"]

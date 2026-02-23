@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","tarih gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zincidere%20Hamam%C4%B1","alt":"Zincidere Hamamı","caption":"Zincidere Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Zincidere Hamamı","caption":"Zincidere Hamamı","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zincidere%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739072","tip":"genel"}]
 description: "Talas, Kayseri'de bulunan Zincidere Hamamı, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Zincidere Hamamı","Talas","Kayseri","doğal alan","tarihi geçmişi","iç Anadolu Bölgesi","plaj","gezi","turizm"]

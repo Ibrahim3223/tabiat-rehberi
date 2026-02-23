@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=BAYRAKTEPE%20TP","alt":"BAYRAKTEPE TP","caption":"BAYRAKTEPE TP"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"BAYRAKTEPE TP","caption":"BAYRAKTEPE TP","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BAYRAKTEPE%20TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228770","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Bayraktepe TP, 140 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzellikleri ve zengin flora/fauna çeşitliliği ile ziyaretçilerini bekliyor."
 keywords: ["Bayraktepe TP","İç Anadolu Bölgesi","doğal güzellik","flora","fauna","yeşil alan","milli park"]

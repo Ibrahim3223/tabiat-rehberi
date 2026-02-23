@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Gezi","Doğa yürüyüşü","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cevher%20Pa%C5%9Fa%20Hamam%C4%B1","alt":"Cevher Paşa Hamamı","caption":"Cevher Paşa Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf/page1-629px-Letters_from_the_Aegean_%28IA_lettersfromaegea01tenn%29.pdf.jpg","alt":"Cevher Paşa Hamamı","caption":"Cevher Paşa Hamamı","credit":"Letters from the Aegean (IA lettersfromaegea01tenn).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cevher%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739090","tip":"genel"}]
 description: "Ege Bölgesi'nin Kale/Denizli ilçesinde bulunan Cevher Paşa Hamamı, tarihi ve doğal güzelliklerinin birleştiği bir alan."
 keywords: ["Cevher Paşa Hamamı","Kale","Denizli","Ege Bölgesi","tarihi alan","doğal güzellik"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Arkeoloji turu","Kültür gezisi","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2036","alt":"Bin Tepeler Tümülüsü 36","caption":"Bin Tepeler Tümülüsü 36"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf/page1-960px-The_new_international_encyclopaedia_..._%28Vol._15%2C_MANI-MISSI%29_%28IA_newinternational15unse%29.pdf.jpg","alt":"Bin Tepeler Tümülüsü 36","caption":"Bin Tepeler Tümülüsü 36","credit":"The new international encyclopaedia ... (Vol. 15, MANI-MISSI) (IA newinternational15unse).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2036","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728340","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinelerinden biri olan Bin Tepeler Tümülüsü 36, Salihli-Manisa'da yer alan 140 hektarlık geniş bir alana yayılmıştır."
 keywords: ["Bin Tepeler","Tümülüs","Salihli","Manisa","Ege Bölgesi","Tarih","Arkeoloji","Kültür"]

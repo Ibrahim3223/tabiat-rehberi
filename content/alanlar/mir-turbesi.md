@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mir%20T%C3%BCrbesi","alt":"Mir Türbesi","caption":"Mir Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_Auk_%28IA_auk1898amer%29.pdf/page1-847px-The_Auk_%28IA_auk1898amer%29.pdf.jpg","alt":"Mir Türbesi","caption":"Mir Türbesi","credit":"The Auk (IA auk1898amer).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mir%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582874","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Mardin'in Artuklu ilçesinde bulunan Mir Türbesi, tarihi ve güzelliği ile dikkat çekiyor."
 keywords: ["Mir Türbesi","Mardin","Artuklu","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","plaj"]

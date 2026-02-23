@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Yeşil alan gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Cel%C3%A2leddin%20Karatay%20T%C3%BCrbesi","alt":"Celâleddin Karatay Türbesi","caption":"Celâleddin Karatay Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf/page1-860px-Revue_suisse_de_zoologie_%28IA_revuesuissede11412007schw%29.pdf.jpg","alt":"Celâleddin Karatay Türbesi","caption":"Celâleddin Karatay Türbesi","credit":"Revue suisse de zoologie (IA revuesuissede11412007schw).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cel%C3%A2leddin%20Karatay%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391691","tip":"genel"}]
 description: "Konya'nın Selçuklu ilçesinde bulunan tarihi türbe ve çevresindeki yeşil alan"
 keywords: ["Celâleddin Karatay","Türbe","Konya","Selçuklu","Tarih","Kültür","Doğa","Yeşil Alan","Gezi"]

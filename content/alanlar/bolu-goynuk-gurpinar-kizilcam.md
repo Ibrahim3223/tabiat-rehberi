@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Trekking","Kamp","Doğa Yürüyüşleri","Wildlife İzleme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolu-Goynuk-Gurpinar%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Bolu-Goynuk-Gurpinar Kızılçam","caption":"Bolu-Goynuk-Gurpinar Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Bolu-Goynuk-Gurpinar Kızılçam","caption":"Bolu-Goynuk-Gurpinar Kızılçam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu-Goynuk-Gurpinar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227640","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Bolu-Goynuk-Gurpinar Kızılçam Milli Parkı, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor."
 keywords: ["Bolu","Goynuk","Gurpinar","Kızılçam","Milli Park","İç Anadolu Bölgesi","Doğa","Ekosistem","Turizm"]

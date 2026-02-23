@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C4%B0zmir%20Bo%C4%9Faz%C4%B1","alt":"İzmir Boğazı","caption":"İzmir Boğazı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/IMJ_BACKGROUND_-_Institution_and_Collections.doc.pdf/page1-960px-IMJ_BACKGROUND_-_Institution_and_Collections.doc.pdf.jpg","alt":"İzmir Boğazı","caption":"İzmir Boğazı","credit":"IMJ BACKGROUND - Institution and Collections.doc.pdf","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0zmir%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34716692","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, 1200 hektarlık yeşil cennet İzmir Boğazı"
 keywords: ["İzmir Boğazı","İzmir kanyon","doğal alan","yeşil cennet","İzmir turizm","kanyon gezisi","İzmir doğa","turistik yerler","İzmir gezi"]

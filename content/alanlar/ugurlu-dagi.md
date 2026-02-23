@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=U%C4%9Furlu%20Da%C4%9F%C4%B1","alt":"Uğurlu Dağı","caption":"Uğurlu Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Armeniatravelsst02lync.pdf/page1-852px-Armeniatravelsst02lync.pdf.jpg","alt":"Uğurlu Dağı","caption":"Uğurlu Dağı","credit":"Armeniatravelsst02lync.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/U%C4%9Furlu%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560583","tip":"genel"}]
 description: "Ardahan'da bulunan Uğurlu Dağı, doğal güzellikleri ve zengin tarihi ile dikkat çekiyor."
 keywords: ["Uğurlu Dağı","Ardahan","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Ardahan Turistik Yerler"]

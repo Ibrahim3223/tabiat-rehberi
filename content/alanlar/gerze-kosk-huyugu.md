@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Keşifler","Rehberli turlar","Fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gerze%20K%C3%B6%C5%9Fk%20H%C3%BCy%C3%BC%C4%9F%C3%BC","alt":"Gerze Köşk Hüyüğü","caption":"Gerze Köşk Hüyüğü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf/page1-918px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king_1%29.pdf.jpg","alt":"Gerze Köşk Hüyüğü","caption":"Gerze Köşk Hüyüğü","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king 1).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gerze%20K%C3%B6%C5%9Fk%20H%C3%BCy%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210384","tip":"genel"}]
 description: "Sinop'un tarihi ve doğal güzelliklerini keşfedin. Gerze Köşk Hüyüğü, Karadeniz Bölgesi'nin önemli bir kültür mirası."
 keywords: ["Gerze Köşk Hüyüğü","Sinop","Karadeniz Bölgesi","tarih","doğa","kültür mirası","hüyük","tepe","Sinop ilinin tarihi"]

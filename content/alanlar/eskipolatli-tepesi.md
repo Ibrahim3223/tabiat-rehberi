@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotografçılık","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Eskipolatl%C4%B1%20Tepesi","alt":"Eskipolatlı Tepesi","caption":"Eskipolatlı Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Turkish_influence_in_the_South_Caucasus_and_Levant-_the_consequences_for_NATO_and_the_EU_%28IA_turkishinfluence1094537733%29.pdf/page1-960px-Turkish_influence_in_the_South_Caucasus_and_Levant-_the_consequences_for_NATO_and_the_EU_%28IA_turkishinfluence1094537733%29.pdf.jpg","alt":"Eskipolatlı Tepesi","caption":"Eskipolatlı Tepesi","credit":"Turkish influence in the South Caucasus and Levant- the consequences for NATO and the EU (IA turkishinfluence1094537733).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskipolatl%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558173","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Eskipolatlı Tepesi, ziyaretçilerini şehrin gürültüsünden uzaklaştırarak doğayla baş başa bırakıyor."
 keywords: ["Eskipolatlı Tepesi","Ankara","İç Anadolu Bölgesi","doğa","gezi","turizm","tepe","manzara","çevre"]

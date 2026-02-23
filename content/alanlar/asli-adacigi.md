@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Asl%C4%B1%20Adac%C4%B1%C4%9F%C4%B1","alt":"Aslı Adacığı","caption":"Aslı Adacığı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%D0%AD%D0%B3%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5-05.JPG/960px-%D0%AD%D0%B3%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5-05.JPG","alt":"Aslı Adacığı","caption":"Aslı Adacığı","credit":"Эгейское море-05.JPG","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asl%C4%B1%20Adac%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q19610576","tip":"genel"}]
 description: "Balıkesir'de bulunan Aslı Adacığı, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Aslı Adacığı","Balıkesir","ada","doğal alan","yeşil cennet","İstanbul","turizm","gezi","seyahat"]

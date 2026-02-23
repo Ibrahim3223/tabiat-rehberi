@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Uluda%C4%9F%20Tepesi","alt":"Uludağ Tepesi","caption":"Uludağ Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf/page1-733px-Picturesque_sketches_of_Greece_and_Turkey_%28IA_picturesquesketc01deve%29.pdf.jpg","alt":"Uludağ Tepesi","caption":"Uludağ Tepesi","credit":"Picturesque sketches of Greece and Turkey (IA picturesquesketc01deve).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uluda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31540343","tip":"genel"}]
 description: "Şırnak'ta bulunan Uludağ Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri"
 keywords: ["Uludağ Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","coğrafi oluşum","tepe","doğa"]

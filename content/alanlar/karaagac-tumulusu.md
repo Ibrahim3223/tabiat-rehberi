@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî gezi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Karaa%C4%9Fa%C3%A7%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","alt":"Karaağaç Tümülüsü","caption":"Karaağaç Tümülüsü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Erikli.jpg/960px-Erikli.jpg","alt":"Karaağaç Tümülüsü","caption":"Karaağaç Tümülüsü","credit":"Erikli.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaa%C4%9Fa%C3%A7%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728387","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli hazinelerinden biri olan Karaağaç Tümülüsü, Bozüyük ilçesinde bulunmaktadır. Tarihî ve kültürel açıdan önemli bir değer olan bu tümülüs, ziyaretçilerini bekliyor."
 keywords: ["Karaağaç Tümülüsü","Bozüyük","Bilecik","Marmara Bölgesi","tarihî eser","kültür","gezi","tümülüs","arkeoloji"]

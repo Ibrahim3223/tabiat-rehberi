@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=K%C3%B6ro%C4%9Flu%20Ma%C4%9Faras%C4%B1","alt":"Köroğlu Mağarası","caption":"Köroğlu Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Köroğlu Mağarası","caption":"Köroğlu Mağarası","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6ro%C4%9Flu%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319394","tip":"genel"}]
 description: "Erzincan'da yer alan Köroğlu Mağarası, 1200 hektarlık bir jeopark alanı sunar ve doğa severler için önemli bir destinasyondur."
 keywords: ["Köroğlu Mağarası","Erzincan","Jeopark","Doğa Turizmi","Mağara Gezisi","Turistik Yerler","Erzincan Turizmi","Jeolojik Özellikler","Doğa Harikaları"]

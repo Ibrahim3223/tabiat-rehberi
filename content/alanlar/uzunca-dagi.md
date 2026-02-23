@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Uzunca%20Da%C4%9F%C4%B1","alt":"Uzunca Dağı","caption":"Uzunca Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Uzunca Dağı","caption":"Uzunca Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzunca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539115","tip":"genel"}]
 description: "Siirt'in doğal güzelliklerini keşfedin, Uzunca Dağı'nın heybetli manzaraları ve zengin florası ile büyüleyin."
 keywords: ["Uzunca Dağı","Siirt","Dağ","Doğa","Turizm","Gezi","Manzara","Flora","Fauna","Seyahat"]

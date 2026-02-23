@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Mağara keşfi","Flora ve fauna gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kakl%C4%B1k%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","alt":"Kaklık Mağarası Sit Alanı","caption":"Kaklık Mağarası Sit Alanı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kaklık Mağarası Sit Alanı","caption":"Kaklık Mağarası Sit Alanı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kakl%C4%B1k%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226810","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kaklık Mağarası Sit Alanı, 140 hektarlık geniş bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir doğal ortam sunar."
 keywords: ["Kaklık Mağarası","İç Anadolu Bölgesi","doğa sit alanı","mağara","turizm","gezi","doğa","çevre"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Deniz güzelliklerini keşfetmek","Tarihi geçmişi incelemek","Doğa yürüyüşleri yapmak","Çevre güzelliklerini keşfetmek"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Bolca%20Nine%20T%C3%BCrbesi","alt":"Bolca Nine Türbesi","caption":"Bolca Nine Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Bolca Nine Türbesi","caption":"Bolca Nine Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolca%20Nine%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390864","tip":"genel"}]
 description: "Kırklareli'nin Babaeski ilçesinde yer alan Bolca Nine Türbesi, tarihi ve doğal güzelliklerinin birleştiği özel bir destinasyon."
 keywords: ["Bolca Nine Türbesi","Kırklareli","Babaeski","tarih","doğa","gezi","turizm"]

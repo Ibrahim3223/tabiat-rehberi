@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Çevre gezisi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87alda%C5%9F%20Tepesi","alt":"Çaldaş Tepesi","caption":"Çaldaş Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Examiner_1846-08-29-_Iss_2013_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-29_2013%29.pdf/page1-960px-The_Examiner_1846-08-29-_Iss_2013_%28IA_sim_examiner-a-weekly-paper-on-politics-literature-music_1846-08-29_2013%29.pdf.jpg","alt":"Çaldaş Tepesi","caption":"Çaldaş Tepesi","credit":"The Examiner 1846-08-29- Iss 2013 (IA sim examiner-a-weekly-paper-on-politics-literature-music 1846-08-29 2013).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87alda%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823603","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Çorum'da yer alan Çaldaş Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Çaldaş Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi"]

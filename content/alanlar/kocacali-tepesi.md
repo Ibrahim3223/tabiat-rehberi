@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","doğa keşfi","fotoğraf çekme"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Koca%C3%A7ali%20Tepesi","alt":"Kocaçali Tepesi","caption":"Kocaçali Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_New_York_Evangelist_1854-02-09-_Vol_25_Iss_6_%28IA_sim_evangelist-and-religious-review_1854-02-09_25_6%29.pdf/page1-960px-The_New_York_Evangelist_1854-02-09-_Vol_25_Iss_6_%28IA_sim_evangelist-and-religious-review_1854-02-09_25_6%29.pdf.jpg","alt":"Kocaçali Tepesi","caption":"Kocaçali Tepesi","credit":"The New York Evangelist 1854-02-09- Vol 25 Iss 6 (IA sim evangelist-and-religious-review 1854-02-09 25 6).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%C3%A7ali%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32197874","tip":"genel"}]
 description: "Tokat'ın doğal güzellikleri arasında yer alan Kocaçali Tepesi, ziyaretçilerini etkileyen bir doğa harikası"
 keywords: ["Kocaçali Tepesi","Tokat","Karadeniz Bölgesi","doğa harikası","tepe","gezi","turizm","yerel kalkınma","çevre"]

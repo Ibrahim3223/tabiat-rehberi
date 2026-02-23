@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=M%C4%B1rm%C4%B1rca%20Kayal%C4%B1%C4%9F%C4%B1","alt":"Mırmırca Kayalığı","caption":"Mırmırca Kayalığı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg/960px-Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg","alt":"Mırmırca Kayalığı","caption":"Mırmırca Kayalığı","credit":"Water surface of Mediterrenean sea near Kameriye island, Marmaris, Turkey.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C4%B1rm%C4%B1rca%20Kayal%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35710850","tip":"genel"}]
 description: "Balıkesir'de bulunan Mırmırca Kayalığı, doğal güzellikleri ile dikkat çeken bir ada"
 keywords: ["Mırmırca Kayalığı","Balıkesir","ada","doğal güzellik","gezi","seyahat","turizm","deniz","kayalık","Balıkesir turizm"]

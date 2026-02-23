@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi eserleri gezmek","Kütüphane ve müze ziyaretleri","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=S%C3%B6ylemez%20T%C3%BCrbesi","alt":"Söylemez Türbesi","caption":"Söylemez Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf/page1-960px-Cooperative_economic_insect_report_%28IA_cooperativeecono124unit%29.pdf.jpg","alt":"Söylemez Türbesi","caption":"Söylemez Türbesi","credit":"Cooperative economic insect report (IA cooperativeecono124unit).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%B6ylemez%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391492","tip":"genel"}]
 description: "Meram'da bulunan Söylemez Türbesi, tarihi ve doğası ile dikkat çekiyor"
 keywords: ["Söylemez Türbesi","Meram","Konya","Türbe","Doğa","Tarih","Kütüphane","Müze"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi gezi","doğa yürüyüşü","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Basmane%20Hamam%C4%B1","alt":"Basmane Hamamı","caption":"Basmane Hamamı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg","alt":"Basmane Hamamı","caption":"Basmane Hamamı","credit":"Süzer Sun Dreams Beach 13 - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Basmane%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738965","tip":"genel"}]
 description: "İzmir'in tarihi ve doğal güzelliklerini bir arada sunan Basmane Hamamı, Ege Bölgesi'nin önemli cazibe merkezlerinden biri"
 keywords: ["İzmir","Ege Bölgesi","Basmane Hamamı","tarihi mekanlar","doğa","gezi","turizm"]

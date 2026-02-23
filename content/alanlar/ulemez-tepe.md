@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi kalıntıları gezmek","doğa yürüyüşü yapmak","manzaranın tadını çıkarmak"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%9Clemez%20Tepe","alt":"Ülemez Tepe","caption":"Ülemez Tepe"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Ülemez Tepe","caption":"Ülemez Tepe","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Clemez%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810050","tip":"genel"}]
 description: "Muğla'nın tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Ülemez Tepe","Muğla","Ege Bölgesi","tarih","doğa","gezi","turizm","kültür"]

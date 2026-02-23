@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Zurbahan","alt":"Zurbahan","caption":"Zurbahan"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf/page1-870px-The_White_hills%3B_their_legends%2C_landscape%2C_and_poetry_%28IA_whitehillstheirl00king%29.pdf.jpg","alt":"Zurbahan","caption":"Zurbahan","credit":"The White hills; their legends, landscape, and poetry (IA whitehillstheirl00king).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zurbahan","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6978143","tip":"genel"}]
 description: "Türkiye'de bulunan Zurbahan Dağı, doğa severlerin keşfetmek için bekleyen bir hazine. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Zurbahan","Dağ","Türkiye","Doğa","Gezi","Seyahat","Türkiye'nin dağları","Zurbahan Dağı","Doğa turizmi"]

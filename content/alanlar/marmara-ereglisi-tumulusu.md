@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denize girme","Tarihi tümülüs gezi","Doğa yürüyüşü","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Marmara%20Ere%C4%9Flisi%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","alt":"Marmara Ereğlisi Tümülüsü","caption":"Marmara Ereğlisi Tümülüsü"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Marmara Ereğlisi Tümülüsü","caption":"Marmara Ereğlisi Tümülüsü","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Marmara%20Ere%C4%9Flisi%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728273","tip":"genel"}]
 description: "Marmara Ereğlisi'nde bulunan tarihi tümülüs ve plaj alanı"
 keywords: ["Marmara Ereğlisi","Tümülüs","Plaj","Marmara Bölgesi","Tekirdağ","Tarih","Doğa"]

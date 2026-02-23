@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sar%C4%B1y%C3%BCce%20Tepesi","alt":"Sarıyüce Tepesi","caption":"Sarıyüce Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Landscape_of_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k.jpg","alt":"Sarıyüce Tepesi","caption":"Sarıyüce Tepesi","credit":"The Landscape of Sıklık.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1y%C3%BCce%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34903621","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde, Çorum'un doğal güzelliklerini keşfedin."
 keywords: ["Sarıyüce Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

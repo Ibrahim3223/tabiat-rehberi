@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["doğa yürüyüşü","kamp","yaban hayatı gözlemleme","fotografcılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=TAR%20DERES%C4%B0%20BULUT%20%C5%9EELALES%C4%B0%20TA","alt":"TAR DERESİ BULUT ŞELALESİ TA","caption":"TAR DERESİ BULUT ŞELALESİ TA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"TAR DERESİ BULUT ŞELALESİ TA","caption":"TAR DERESİ BULUT ŞELALESİ TA","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/TAR%20DERES%C4%B0%20BULUT%20%C5%9EELALES%C4%B0%20TA","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228802","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli bir cenneti olan Tar Deresi Bulut Şelalesi, doğa severlerin yeni hedefi."
 keywords: ["Tar Deresi Bulut Şelalesi","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","macera","doğa yürüyüşü"]

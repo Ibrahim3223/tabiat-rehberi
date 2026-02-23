@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=G%C3%BCrc%C3%BC%20Tepesi","alt":"Gürcü Tepesi","caption":"Gürcü Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Gürcü Tepesi","caption":"Gürcü Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139565","tip":"genel"}]
 description: "Tokat'ın Karadeniz Bölgesi'nde yer alan Gürcü Tepesi, 140 hektarlık geniş bir alana sahiptir. Tarihi geçmişi ve doğal güzelliği ile dikkat çekmektedir."
 keywords: ["Gürcü Tepesi","Tokat","Karadeniz Bölgesi","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]

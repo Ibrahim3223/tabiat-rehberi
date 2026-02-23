@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Mersin-Anamur-Sariyayla%20K%C4%B1z%C4%B1l%C3%A7am","alt":"Mersin-Anamur-Sariyayla Kızılçam","caption":"Mersin-Anamur-Sariyayla Kızılçam"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kad%C4%B1nc%C4%B1k_Valley_9.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_9.jpg","alt":"Mersin-Anamur-Sariyayla Kızılçam","caption":"Mersin-Anamur-Sariyayla Kızılçam","credit":"Kadıncık Valley 9.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Anamur-Sariyayla%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227660","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Mersin","Anamur","Sariyayla","Kızılçam","milli park","doğa","gezi","turizm"]

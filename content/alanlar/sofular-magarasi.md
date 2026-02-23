@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Sofular%20Ma%C4%9Faras%C4%B1","alt":"Sofular Mağarası","caption":"Sofular Mağarası"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OJ_C_522_of_2021_-_EN_English.pdf/page1-960px-OJ_C_522_of_2021_-_EN_English.pdf.jpg","alt":"Sofular Mağarası","caption":"Sofular Mağarası","credit":"OJ C 522 of 2021 - EN English.pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sofular%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915648","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Sofular Mağarası, jeopark türünde bir destinasyon."
 keywords: ["Sofular Mağarası","Jeopark","Türkiye","Doğal Alanlar","Mağara","Gezi","Seyahat","Turizm","Doğa"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi türbe gezisi","doğa yürüyüşü","fotoğraf çekimi","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=%C3%87apa%C3%A7ar%C4%B1k%20T%C3%BCrbesi","alt":"Çapaçarık Türbesi","caption":"Çapaçarık Türbesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf/page1-808px-Asia_Minor_-_Walter_A._Hawley%2C_1918_%28IA_asiaminor00hawl%29.pdf.jpg","alt":"Çapaçarık Türbesi","caption":"Çapaçarık Türbesi","credit":"Asia Minor - Walter A. Hawley, 1918 (IA asiaminor00hawl).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87apa%C3%A7ar%C4%B1k%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391669","tip":"genel"}]
 description: "Manisa'nın Yunusemre ilçesinde yer alan tarihi türbe ve plaj"
 keywords: ["Çapaçarık Türbesi","Yunusemre","Manisa","Ege Bölgesi","tarihi türbe","plaj","kültür","doğa"]

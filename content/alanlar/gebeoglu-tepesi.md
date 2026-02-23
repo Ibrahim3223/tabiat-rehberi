@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Gebeo%C4%9Flu%20Tepesi","alt":"Gebeoğlu Tepesi","caption":"Gebeoğlu Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf/page1-752px-Egypt%2C_Cyprus_and_Asiatic-Turkey_%28IA_egyptcyprusasiat00farliala%29.pdf.jpg","alt":"Gebeoğlu Tepesi","caption":"Gebeoğlu Tepesi","credit":"Egypt, Cyprus and Asiatic-Turkey (IA egyptcyprusasiat00farliala).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gebeo%C4%9Flu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31567963","tip":"genel"}]
 description: "Kastamonu'nun doğal güzellikleri arasında yer alan Gebeoğlu Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor."
 keywords: ["Kastamonu","Gebeoğlu Tepesi","doğa","tepe","Karadeniz Bölgesi","turizm","gezi","yürüyüş"]

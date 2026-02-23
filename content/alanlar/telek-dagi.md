@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Telek%20Da%C4%9F%C4%B1","alt":"Telek Dağı","caption":"Telek Dağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf/page1-960px-FEDLINK_-_United_States_Federal_Collection_%28IA_keepingcurrentnd109453799%29.pdf.jpg","alt":"Telek Dağı","caption":"Telek Dağı","credit":"FEDLINK - United States Federal Collection (IA keepingcurrentnd109453799).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Telek%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504876","tip":"genel"}]
 description: "Konya'da yer alan Telek Dağı, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzelliği ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Telek Dağı","Konya","Dağ","Doğa","Trekking","Coğrafi Oluşum","Turizm","Gezi","Konya Turistik Yerler"]

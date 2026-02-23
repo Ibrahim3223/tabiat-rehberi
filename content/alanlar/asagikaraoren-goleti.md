@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=A%C5%9Fa%C4%9F%C4%B1kara%C3%B6ren%20G%C3%B6leti","alt":"Aşağıkaraören Göleti","caption":"Aşağıkaraören Göleti"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Waiting_for_the_Bees.jpg/960px-Waiting_for_the_Bees.jpg","alt":"Aşağıkaraören Göleti","caption":"Aşağıkaraören Göleti","credit":"Waiting for the Bees.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9Fa%C4%9F%C4%B1kara%C3%B6ren%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6454808","tip":"genel"}]
 description: "Ankara'nın Kahramankazan ilçesinde bulunan Aşağıkaraören Göleti, doğa severler için ideal bir destinasyon."
 keywords: ["Aşağıkaraören Göleti","Ankara göletleri","Kahramankazan","Ankara doğa alanları","gölet","Ankara turizm","doğa turizmi","su kaynakları","Ankara gezilecek yerler"]

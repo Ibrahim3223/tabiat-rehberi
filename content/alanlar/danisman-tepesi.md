@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Dan%C4%B1%C5%9Fman%20Tepesi","alt":"Danışman Tepesi","caption":"Danışman Tepesi"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Turkish_influence_in_the_South_Caucasus_and_Levant-_the_consequences_for_NATO_and_the_EU_%28IA_turkishinfluence1094537733%29.pdf/page1-960px-Turkish_influence_in_the_South_Caucasus_and_Levant-_the_consequences_for_NATO_and_the_EU_%28IA_turkishinfluence1094537733%29.pdf.jpg","alt":"Danışman Tepesi","caption":"Danışman Tepesi","credit":"Turkish influence in the South Caucasus and Levant- the consequences for NATO and the EU (IA turkishinfluence1094537733).pdf","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dan%C4%B1%C5%9Fman%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388343","tip":"genel"}]
 description: "Aydın'da yer alan Danışman Tepesi, Ege Bölgesi'nin en önemli doğal güzelliklerinden biri"
 keywords: ["Danışman Tepesi","Aydın","Ege Bölgesi","doğa","tepe","gezi","tarihçe","coğrafya"]

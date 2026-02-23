@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://placehold.co/1200x600/e3f2fd/1565c0?text=Kafda%C4%9F%C4%B1","alt":"Kafdağı","caption":"Kafdağı"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Kafdağı","caption":"Kafdağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kafda%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536507","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin. Kafdağı, şehrin merkezine 30 km uzaklıkta, 1200 metre yükseklikte yer alır."
 keywords: ["Kafdağı","Gaziantep","Dağ","Doğa","Turizm","Gezi","Türkiye","Gaziantep Turistik Yerler","Kafdağı Gaziantep"]
