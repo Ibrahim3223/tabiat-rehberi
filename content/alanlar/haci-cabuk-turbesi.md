@@ -41,7 +41,7 @@ Hacı Çabuk Türbesi, Tokat'ın Niksar ilçesinde yer alıyor. Bu bölge, Karad
 
 ## Flora ve Fauna
 
-Hacı Çabuk Türbesi'nin bulunduğu bölge, çeşitli bitki türlerine ev sahipliği yapıyor. Bu bölgede, özellikle ormanlık alanlarda, çam, köknar, kayın gibi ağaç türlerine rastlama mümkün. Ayrıca, bölgede yer alan çayır ve meralarda, çeşitli ot ve çiçek türleri bulunuyor. Hacı Çabuk Türbesi'nin çevresindeki fauna da zengin. Bu bölgede, özellikle kuş türleri dikkat çekiyor. Bölgede, çeşitli kuş türleri living ediyor ve bu, doğa severler için önemli bir çekim merkezi oluşturuyor.
+Hacı Çabuk Türbesi'nin bulunduğu bölge, çeşitli bitki türlerine ev sahipliği yapıyor. Bu bölgede, özellikle ormanlık alanlarda, çam, köknar, kayın gibi ağaç türlerine rastlama mümkün. Ayrıca, bölgede yer alan çayır ve meralarda, çeşitli ot ve çiçek türleri bulunuyor. Hacı Çabuk Türbesi'nin çevresindeki fauna da zengin. Bu bölgede, özellikle kuş türleri dikkat çekiyor. Bölgede, çeşitli kuş türleri yaşayan ediyor ve bu, doğa severler için önemli bir çekim merkezi oluşturuyor.
 
 ## Ziyaret Bilgileri
 

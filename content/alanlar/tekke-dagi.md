@@ -1,7 +1,7 @@
 ---
 title: "Tekke Dağı"
 date: "2026-01-09T00:19:32.440Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Nevşehir"

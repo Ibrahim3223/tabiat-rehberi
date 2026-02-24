@@ -1,7 +1,7 @@
 ---
 title: "Sivrihisar Dağları"
 date: "2026-01-09T07:07:21.068Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Türkiye"

@@ -1,7 +1,7 @@
 ---
 title: "Kızıl Dağ (Afyonkarahisar)"
 date: "2026-01-09T01:56:28.305Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Afyonkarahisar"

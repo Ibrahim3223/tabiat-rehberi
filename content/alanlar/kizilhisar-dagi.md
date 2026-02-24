@@ -1,7 +1,7 @@
 ---
 title: "Kızılhisar Dağı"
 date: "2026-01-08T23:50:33.360Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Türkiye"

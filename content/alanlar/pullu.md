@@ -30,7 +30,7 @@ Pullu milli parkının tarihi geçmişi, yüzyıllar öncesine dayanıyor. Bu b�
 
 ## Coğrafya
 
-Pullu milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile uyumlu bir şekilde konumlandırılmış. Bölge, geniş otlak alanları, ormanlık bölgeler ve çeşitli su kaynakları ile zengin bir coğrafyaya sahip. Parkın coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor ve dört mevsim farklılıkları living. Pullu milli parkı, çevresindeki diğer doğal alanlar ile birlikte, bir ekosistem olarak değerlendiriliyor ve bu ekosistemin korunması için çeşitli çalışmalar yürütülüyor. Parkın coğrafi konumu, ziyaretçilerin आसani ile ulaşabilmesini sağlıyor ve bu nedenle turizm açısından önemli bir merkez olarak biliniyor.
+Pullu milli parkı, İç Anadolu Bölgesi'nin coğrafi yapısı ile uyumlu bir şekilde konumlandırılmış. Bölge, geniş otlak alanları, ormanlık bölgeler ve çeşitli su kaynakları ile zengin bir coğrafyaya sahip. Parkın coğrafi yapısı, ziyaretçilere çeşitli aktivite olanakları sunuyor. Bölgenin iklimi, İç Anadolu Bölgesi'nin genel iklimi ile benzerlik gösteriyor ve dört mevsim farklılıkları yaşayan. Pullu milli parkı, çevresindeki diğer doğal alanlar ile birlikte, bir ekosistem olarak değerlendiriliyor ve bu ekosistemin korunması için çeşitli çalışmalar yürütülüyor. Parkın coğrafi konumu, ziyaretçilerin आसani ile ulaşabilmesini sağlıyor ve bu nedenle turizm açısından önemli bir merkez olarak biliniyor.
 
 ## Flora ve Fauna
 

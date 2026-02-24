@@ -1,7 +1,7 @@
 ---
 title: "Han Dağı"
 date: "2026-01-10T08:28:45.794Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "tepe"
 il: "Konya"

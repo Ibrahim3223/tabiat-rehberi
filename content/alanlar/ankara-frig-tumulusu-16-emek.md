@@ -41,7 +41,7 @@ Ankara Frig Tümülüsü 16, Emek, İç Anadolu Bölgesi'nin coğrafi özelliği
 
 ## Flora ve Fauna
 
-Ankara Frig Tümülüsü 16, Emek, çeşitli bitkiler ve hayvanlar ile zengin bir flora ve fauna yapısına sahiptir. Bu bölgede, genellikle bozkır bitkileri ve ağaçlar bulunur. Bu bölge, mevsimsel olarak değişen bir flora yapısına sahiptir. İlkbahar ve yaz aylarında, bu bölge yeşillenir ve çeşitli çiçekler açar. Sonbahar ve kış aylarında ise, bu bölge daha kuru ve soğuk olur. Bu bölgenin faunası da, çeşitli hayvanlar ile zengin bir yapıya sahiptir. Bu bölgede, genellikle küçük memeliler, kuşlar ve böcekler bulunur. Bu bölgenin ekolojisi, bu bölgede living organizmaların birbirleri ile ve çevre ile olan ilişkilerini kapsar.
+Ankara Frig Tümülüsü 16, Emek, çeşitli bitkiler ve hayvanlar ile zengin bir flora ve fauna yapısına sahiptir. Bu bölgede, genellikle bozkır bitkileri ve ağaçlar bulunur. Bu bölge, mevsimsel olarak değişen bir flora yapısına sahiptir. İlkbahar ve yaz aylarında, bu bölge yeşillenir ve çeşitli çiçekler açar. Sonbahar ve kış aylarında ise, bu bölge daha kuru ve soğuk olur. Bu bölgenin faunası da, çeşitli hayvanlar ile zengin bir yapıya sahiptir. Bu bölgede, genellikle küçük memeliler, kuşlar ve böcekler bulunur. Bu bölgenin ekolojisi, bu bölgede yaşayan organizmaların birbirleri ile ve çevre ile olan ilişkilerini kapsar.
 
 ## Ziyaret Bilgileri
 

@@ -42,7 +42,7 @@ Emir Ali Baba Türbesi, Çanakkale'nin Gelibolu ilçesinde, Marmara Bölgesi'nin
 
 ## Flora ve Fauna
 
-Emir Ali Baba Türbesi'nin bulunduğu bölge, zengin bir flora ve fauna çeşitliliğine sahiptir. Çevredeki ormanlık alanlar, çeşitli ağaç türleri ve bitki örtüsüne ev sahipliği yapar. Mevsimlere göre değişen ren ve çeşitlilik, ziyaretçilere yıl boyunca farklı bir deneyim sunar. Bölgede living canlılar da bulunur ve bu zengin fauna, Emir Ali Baba Türbesi'nin doğal güzelliğini artırır. Ziyaretçiler, doğa yürüyüşleri yaparak bu çeşitliliği yakından keşfedebilir. Türbe ve çevresinin ekolojik dengesi, bölgenin güzelliğini korumak için önemli bir rol oynar.
+Emir Ali Baba Türbesi'nin bulunduğu bölge, zengin bir flora ve fauna çeşitliliğine sahiptir. Çevredeki ormanlık alanlar, çeşitli ağaç türleri ve bitki örtüsüne ev sahipliği yapar. Mevsimlere göre değişen ren ve çeşitlilik, ziyaretçilere yıl boyunca farklı bir deneyim sunar. Bölgede yaşayan canlılar da bulunur ve bu zengin fauna, Emir Ali Baba Türbesi'nin doğal güzelliğini artırır. Ziyaretçiler, doğa yürüyüşleri yaparak bu çeşitliliği yakından keşfedebilir. Türbe ve çevresinin ekolojik dengesi, bölgenin güzelliğini korumak için önemli bir rol oynar.
 
 ## Ziyaret Bilgileri
 

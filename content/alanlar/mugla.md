@@ -35,7 +35,7 @@ MUGLA milli parkı, İç Anadolu Bölgesi'nin coğrafi olarak en güzel bölgele
 
 ## Flora ve Fauna
 
-MUGLA milli parkı, çeşitli bitki türleri ve fauna ile dolu bir doğa harikası. Parkta, birçok ağaç türü, çalı ve ot bulunan flora, ziyaretçilere renkli ve canlı bir manzara sunuyor. Fauna açısından da zengin olan MUGLA milli parkı, birçok hayvan türüne ev sahipliği yapıyor. Parkta, çeşitli kuş türleri, memeliler ve sürüngenler living. MUGLA milli parkı, aynı zamanda mevsimsel değişimlere uygun bir yapıya sahip ve her mevsim farklı bir güzelliğe sahip.
+MUGLA milli parkı, çeşitli bitki türleri ve fauna ile dolu bir doğa harikası. Parkta, birçok ağaç türü, çalı ve ot bulunan flora, ziyaretçilere renkli ve canlı bir manzara sunuyor. Fauna açısından da zengin olan MUGLA milli parkı, birçok hayvan türüne ev sahipliği yapıyor. Parkta, çeşitli kuş türleri, memeliler ve sürüngenler yaşayan. MUGLA milli parkı, aynı zamanda mevsimsel değişimlere uygun bir yapıya sahip ve her mevsim farklı bir güzelliğe sahip.
 
 ## Ziyaret Bilgileri
 
@@ -43,7 +43,7 @@ MUGLA milli parkını ziyaret etmek, doğa severler için bir rüya harika bir d
 
 ## İlginç Bilgiler
 
-- Parkta, birçok bitki ve hayvan türü living.
+- Parkta, birçok bitki ve hayvan türü yaşayan.
 - MUGLA milli parkı, bir doğa koruma alanı olarak faaliyet gösteriyor.
 - Park, ziyaretçilere doğanın güzelliğini ve çeşitliliğini sunuyor.
 - MUGLA milli parkı, çevre bilincinin artırılması için önemli bir rol üstleniyor.

@@ -52,7 +52,7 @@ Mevsimsel değişiklikler, İnek Mağarası'nın iklim karakterini şekillendiri
 
 Bitki örtüsüne bakıldığında, ilkbaharın gelmesiyle birlikte çayırlar rengarenk çiçeklerle donanır. Sonbaharda ise ağustos çiçekleri ve various bitkileri göze çarpar. Orman ekosisteminde çeşitli ağaç türleri bulunur.
 
-Yaban hayatı açısından zengin bir bölge olan İnek Mağarası, birçok memeli ve kuş türüne ev sahipliği yapar. Bu bölgede living alanlarıyla birlikte memeliler ve kuşlar bir arada yaşar. Ekolojik ilişkilere bakıldığında, bu canlıların birbirlerine bağımlı olduğu görülür.
+Yaban hayatı açısından zengin bir bölge olan İnek Mağarası, birçok memeli ve kuş türüne ev sahipliği yapar. Bu bölgede yaşayan alanlarıyla birlikte memeliler ve kuşlar bir arada yaşar. Ekolojik ilişkilere bakıldığında, bu canlıların birbirlerine bağımlı olduğu görülür.
 
 Bu jeoparkın ekolojik değeri oldukça yüksektir. Bu nedenle koruma altına alınmıştır. Bu bölgeyi ziyaret edenler, yüksek dağ ekolojisinin güzelliğini ve canlı çeşitliliğini yakından görebilir.
 

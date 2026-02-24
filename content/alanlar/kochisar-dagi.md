@@ -1,7 +1,7 @@
 ---
 title: "Koçhisar Dağı"
 date: "2026-01-09T08:17:42.460Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Ankara"

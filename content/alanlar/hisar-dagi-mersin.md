@@ -1,7 +1,7 @@
 ---
 title: "Hisar Dağı"
 date: "2026-01-09T05:40:46.382Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Mersin"

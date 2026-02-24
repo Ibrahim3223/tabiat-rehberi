@@ -1,7 +1,7 @@
 ---
 title: "Kilise Dağı"
 date: "2026-01-09T02:10:00.764Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Diyarbakır"

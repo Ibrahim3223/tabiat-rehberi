@@ -1,7 +1,7 @@
 ---
 title: "Şeyhan Dağı"
 date: "2026-01-09T00:56:46.384Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Diyarbakır"

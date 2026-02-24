@@ -1,7 +1,7 @@
 ---
 title: "Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası"
 date: "2026-01-09T20:20:19.795Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "milli-park"
 il: "Türkiye"

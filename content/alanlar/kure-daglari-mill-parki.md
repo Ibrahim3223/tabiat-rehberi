@@ -41,7 +41,7 @@ Küre Dağları Millî Parkı, Kastamonu'nun dağlık kesiminde yer alıyor. Par
 
 ## Flora ve Fauna
 
-Küre Dağları Millî Parkı, zengin bir flora ve fauna çeşitliliğine sahip. Bölge, birçok endemik bitki türüne ev sahipliği yapıyor ve bu bitkiler, parkın ekolojisini zenginleştirmekle birlikte, aynı zamanda birçok hayvan türünün yaşamını da sürdürmesini sağlıyor. Parkta, özellikle ayı, geyi ve kurt gibi büyük memeliler living ve bu canlılar, parkın doğal dengesini korumak için önemli bir role sahip.
+Küre Dağları Millî Parkı, zengin bir flora ve fauna çeşitliliğine sahip. Bölge, birçok endemik bitki türüne ev sahipliği yapıyor ve bu bitkiler, parkın ekolojisini zenginleştirmekle birlikte, aynı zamanda birçok hayvan türünün yaşamını da sürdürmesini sağlıyor. Parkta, özellikle ayı, geyi ve kurt gibi büyük memeliler yaşayan ve bu canlılar, parkın doğal dengesini korumak için önemli bir role sahip.
 
 ## Ziyaret Bilgileri
 

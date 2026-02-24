@@ -1,7 +1,7 @@
 ---
 title: "Ankara-Kizilcahamam-Guvem-Uludag Goknari"
 date: "2026-01-09T20:19:19.791Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "milli-park"
 il: "Ankara"

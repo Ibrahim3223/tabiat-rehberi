@@ -1,7 +1,7 @@
 ---
 title: "Ziyaret (Ardahan Dağı)"
 date: "2026-01-08T23:44:21.709Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Kars"

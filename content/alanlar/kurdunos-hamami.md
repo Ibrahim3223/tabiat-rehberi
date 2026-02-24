@@ -40,7 +40,7 @@ Kurdunos Hamamı, Niğde ilinin merkezi yakınlarında yer alan bir plaj olarak,
 
 ## Flora ve Fauna
 
-Kurdunos Hamamı, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, burada doğa yürüyüşleri yaparak bu çeşitliliği gözlemleyebilirler. Kurdunos Hamamı'nın flora çeşitliliği, mevsimsel değişimlere göre farklılık göstermektedir. İlkbahar ve yaz aylarında, bu bölgede çiçekler açarak renkli bir manzara oluştururken, sonbahar ve kış aylarında daha sakin bir görünüm sunmaktadır. Fauna çeşitliliği de, bu bölgede living bir ekosistemi oluşturmaktadır. Burada, çeşitli kuş türleri, memeliler ve diğer hayvanlar yaşamaktadır.
+Kurdunos Hamamı, zengin flora ve fauna çeşitliliği ile dikkat çekiyor. Bu bölgede, çeşitli bitki türleri ve hayvanlar yaşamaktadır. Ziyaretçiler, burada doğa yürüyüşleri yaparak bu çeşitliliği gözlemleyebilirler. Kurdunos Hamamı'nın flora çeşitliliği, mevsimsel değişimlere göre farklılık göstermektedir. İlkbahar ve yaz aylarında, bu bölgede çiçekler açarak renkli bir manzara oluştururken, sonbahar ve kış aylarında daha sakin bir görünüm sunmaktadır. Fauna çeşitliliği de, bu bölgede yaşayan bir ekosistemi oluşturmaktadır. Burada, çeşitli kuş türleri, memeliler ve diğer hayvanlar yaşamaktadır.
 
 ## Ziyaret Bilgileri
 

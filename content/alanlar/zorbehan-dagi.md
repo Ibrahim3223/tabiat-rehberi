@@ -1,7 +1,7 @@
 ---
 title: "Zorbehan Dağı"
 date: "2026-01-08T23:58:30.231Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Malatya"

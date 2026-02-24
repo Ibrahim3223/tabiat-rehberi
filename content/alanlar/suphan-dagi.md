@@ -1,7 +1,7 @@
 ---
 title: "Süphan Dağı"
 date: "2026-01-08T23:15:59.551Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Bitlis"

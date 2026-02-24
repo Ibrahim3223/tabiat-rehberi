@@ -1,7 +1,7 @@
 ---
 title: "Amasya-Koyulhisar-Igdirdag Saricam"
 date: "2026-01-09T20:50:03.496Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "milli-park"
 il: "Amasya"

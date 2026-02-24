@@ -1,7 +1,7 @@
 ---
 title: "Çeşme Dağı"
 date: "2026-01-09T06:32:27.376Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Mersin"

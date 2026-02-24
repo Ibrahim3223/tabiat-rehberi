@@ -1,7 +1,7 @@
 ---
 title: "Cami Dağı"
 date: "2026-01-09T04:54:20.896Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Mardin"

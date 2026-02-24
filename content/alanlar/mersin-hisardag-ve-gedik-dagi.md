@@ -1,7 +1,7 @@
 ---
 title: "Mersin-Hisardag ve Gedik Dagi"
 date: "2026-01-09T20:36:31.041Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "milli-park"
 il: "Mersin"

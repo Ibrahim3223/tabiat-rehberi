@@ -40,7 +40,7 @@ Yediler Tepesi, Ankara'nın coğrafi yapısı içinde önemli bir yere sahiptir.
 
 ## Flora ve Fauna
 
-Yediler Tepesi, çeşitli bitki türlerine ve hayvanlara ev sahipliği yapmaktadır. Step ve ormanlık alanların birleştiği bu bölgede, mevsimsel değişimler, flora ve faunayı etkilemektedir. İlkbahar ve yaz aylarında, tepenin etrafında bulunan bitki türleri, yeşillenerek bölgenin güzelliğini artırmaktadır. Kış aylarında ise, kar yağışları, tepenin manzarasını değiştirmektedir. Yediler Tepesi'nin fauna zenginliği, bölgede living çeşitli hayvan türlerinin bulunmasıyla dikkat çekmektedir. Bu bölgede, özellikle kuş türleri, fauna çeşitliliğini artırmaktadır.
+Yediler Tepesi, çeşitli bitki türlerine ve hayvanlara ev sahipliği yapmaktadır. Step ve ormanlık alanların birleştiği bu bölgede, mevsimsel değişimler, flora ve faunayı etkilemektedir. İlkbahar ve yaz aylarında, tepenin etrafında bulunan bitki türleri, yeşillenerek bölgenin güzelliğini artırmaktadır. Kış aylarında ise, kar yağışları, tepenin manzarasını değiştirmektedir. Yediler Tepesi'nin fauna zenginliği, bölgede yaşayan çeşitli hayvan türlerinin bulunmasıyla dikkat çekmektedir. Bu bölgede, özellikle kuş türleri, fauna çeşitliliğini artırmaktadır.
 
 ## Ziyaret Bilgileri
 

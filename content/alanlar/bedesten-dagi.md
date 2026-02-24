@@ -1,7 +1,7 @@
 ---
 title: "Bedesten Dağı"
 date: "2026-01-09T04:57:40.762Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Çanakkale"

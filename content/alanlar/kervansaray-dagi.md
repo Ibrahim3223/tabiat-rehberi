@@ -1,7 +1,7 @@
 ---
 title: "Kervansaray Dağı"
 date: "2026-01-09T01:58:54.589Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Kırşehir"

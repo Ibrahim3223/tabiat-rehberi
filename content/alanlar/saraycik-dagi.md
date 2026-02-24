@@ -1,7 +1,7 @@
 ---
 title: "Saraycık Dağı"
 date: "2026-01-09T08:00:36.737Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Çorum"

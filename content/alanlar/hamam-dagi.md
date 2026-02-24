@@ -1,7 +1,7 @@
 ---
 title: "Hamam Dağı"
 date: "2026-01-09T05:42:49.344Z"
-draft: true
+draft: false
 type: "alan"
 alan_turu: "dag"
 il: "Eskişehir"
