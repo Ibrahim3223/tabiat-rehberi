@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Do%C4%9Fadan_%C3%96r%C3%BCmcek.jpg","alt":"Tavşan Tepesi Tabiat Parkı manzarası","credit":"Bulentcelikkol","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Do%C4%9Fadan_%C3%96r%C3%BCmcek.jpg/960px-Do%C4%9Fadan_%C3%96r%C3%BCmcek.jpg","alt":"Tavşan Tepesi Tabiat Parkı","caption":"Tavşan Tepesi Tabiat Parkı","credit":"Doğadan Örümcek","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tav%C5%9Fan%20Tepesi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228788","tip":"genel"}]
 keywords: ["tabiat parkı","İç Anadolu Bölgesi","doğa harikası","flora","fauna","gezi","tarihçe","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2d/%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%94%D0%B5%D0%B2%D0%B5-%D0%91%D0%BE%D0%B9%D0%BD%D1%83%C2%BB._%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0_%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_1911-1915%29.jpg","alt":"Pasinler Ovası manzarası","credit":"«Военная энциклопедия И. Д. Сытина». (Санкт-Петербург; 1912 год).","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2d/%D0%9A%D0%B0%D1%80%D1%82%D0%B0_%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5_%C2%AB%D0%94%D0%B5%D0%B2%D0%B5-%D0%91%D0%BE%D0%B9%D0%BD%D1%83%C2%BB._%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0_%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C_1911-1915%29.jpg","alt":"Pasinler Ovası","caption":"Pasinler Ovası","credit":"Карта к статье «Деве-Бойну». Военная энциклопедия Сытина (Санкт-Петербург, 1911-1915)","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pasinler%20Ovas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q16373220","tip":"genel"}]
 description: "Erzurum'un Pasinler ilçesinde bulunan Pasinler Ovası, 1200 hektarlık bir yeşil cennet. Doğal güzellikleri ve tarihi zenginlikleriyle dikkat çekiyor."

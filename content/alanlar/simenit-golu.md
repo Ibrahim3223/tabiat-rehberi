@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/06/Akg%C3%B6l_%28terme%29.png","alt":"Simenit Gölü manzarası","credit":"Arceonix","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lake_Simenit2.png/960px-Lake_Simenit2.png","alt":"Simenit Gölü","caption":"Simenit Gölü","credit":"Lake Simenit2","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f5/Lake_Simenit2.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/f5/Lake_Simenit2.png","alt":"Simenit Gölü - Lake Simenit2","credit":"T.C. Kültür ve Turizm Bakanlığı","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Lake_Simenit.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Lake_Simenit.png","alt":"Simenit Gölü - Lake Simenit","credit":"T.C. Kültür ve Turizm Bakanlığı","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Simenit%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20470550","tip":"genel"}]
 description: "Samsun'un Terme ilçesinde yer alan Simenit Gölü, 1200 hektarlık yeşil cenneti ve doğal güzelliği ile dikkat çekiyor."

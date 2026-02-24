@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Su oyunları","Havuzlar","Su kaydırakları","Restoranlar","Kafeler","Alışveriş"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Mersin%20Aquapark.jpg","alt":"Mersin Su Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mersin_Aquapark.jpg/960px-Mersin_Aquapark.jpg","alt":"Mersin Su Parkı","caption":"Mersin Su Parkı","credit":"Mersin Aquapark","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Mersin_Aquapark.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mersin_Aquapark.jpg/1280px-Mersin_Aquapark.jpg","alt":"Mersin Su Parkı - Mersin Aquapark","credit":"Nedim Ardoğa","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin%20Su%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20949642","tip":"genel"}]
 description: "Mersin'in en büyük su parklarından biri olan Mersin Su Parkı, keyifli bir gün geçirmek için ideal bir yer."

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Serindere_%C5%9Eelalesi.jpg","alt":"Serindere Şelalesi manzarası","credit":"Alper 02","license":"cc0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Serindere_%C5%9Eelalesi.jpg/960px-Serindere_%C5%9Eelalesi.jpg","alt":"Serindere Şelalesi","caption":"Serindere Şelalesi","credit":"Serindere Şelalesi","license":"CC0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Serindere%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Kocaeli'nin doğal güzelliklerinden biri olan Serindere Şelalesi, ziyaretçilerini büyülüyor."

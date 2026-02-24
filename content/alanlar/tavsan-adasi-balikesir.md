@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Refugees_on_a_boat_crossing_the_Mediterranean_sea%2C_heading_from_Turkish_coast_to_the_northeastern_Greek_island_of_Lesbos%2C_29_January_2016.jpg/960px-Refugees_on_a_boat_crossing_the_Mediterranean_sea%2C_heading_from_Turkish_coast_to_the_northeastern_Greek_island_of_Lesbos%2C_29_January_2016.jpg","alt":"Tavşan Adası","caption":"Tavşan Adası","credit":"Refugees on a boat crossing the Mediterranean sea, heading from Turkish coast to the northeastern Greek island of Lesbos, 29 January 2016.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tav%C5%9Fan_Adas%C4%B1_location.svg/960px-Tav%C5%9Fan_Adas%C4%B1_location.svg.png","alt":"Tavşan Adası","caption":"Tavşan Adası","credit":"Tavşan Adası location","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tav%C5%9Fan%20Adas%C4%B1%20(Bal%C4%B1kesir)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108610517","tip":"genel"}]
 description: "Erdek'in kıyılarında yer alan Tavşan Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Tavşan Adası","Balıkesir","Erdek","Ada","Doğal Alan","Yeşil Cennet","Turizm","Gezi","Seyahat"]

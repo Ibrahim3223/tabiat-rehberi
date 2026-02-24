@@ -21,7 +21,7 @@ aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık","tarih tu
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Hamur Kümbeti","caption":"Hamur Kümbeti","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamur%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582841","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Hamur Kümbeti, Ağrı ili Hamur ilçesinde yer alır.
+description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Hamur Kümbeti, Ağrı ili Hamur ilçesinde yer alır."
 keywords: ["Hamur Kümbeti","Doğu Anadolu Bölgesi","Ağrı","Hamur","doğal güzellik","yeşil alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q135582841"

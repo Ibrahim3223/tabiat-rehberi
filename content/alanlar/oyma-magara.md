@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Diri_Baba_t%C3%BCrb%C9%99si_%281402-ci_il%29.jpg","alt":"Oyma Mağara manzarası","credit":"Elnur26","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Diri_Baba_t%C3%BCrb%C9%99si_%281402-ci_il%29.jpg/960px-Diri_Baba_t%C3%BCrb%C9%99si_%281402-ci_il%29.jpg","alt":"Oyma Mağara","caption":"Oyma Mağara","credit":"Diri Baba türbəsi (1402-ci il)","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/64/G%C4%B0RESUN_KALE.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/G%C4%B0RESUN_KALE.jpg/1280px-G%C4%B0RESUN_KALE.jpg","alt":"Oyma Mağara - GİRESUN KALE","credit":"Girtab2828","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Oyma%20Ma%C4%9Fara","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319638","tip":"genel"}]
 description: "Şanlıurfa'da bulunan Oyma Mağara, jeopark olarak bilinen doğal bir harikadır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

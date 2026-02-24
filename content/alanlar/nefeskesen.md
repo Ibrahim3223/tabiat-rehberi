@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","güneşlenmek","swim","fotoğraf çekmek"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Vialand%20Theme%20Park%2C%20%C4%B0stanbul%20p5.jpg","alt":"Nefeskesen manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Vialand_Theme_Park%2C_%C4%B0stanbul_p5.jpg/960px-Vialand_Theme_Park%2C_%C4%B0stanbul_p5.jpg","alt":"Nefeskesen","caption":"Nefeskesen","credit":"Vialand Theme Park, İstanbul p5","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Vialand_Theme_Park%2C_%C4%B0stanbul_p5.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Vialand_Theme_Park%2C_%C4%B0stanbul_p5.jpg/1280px-Vialand_Theme_Park%2C_%C4%B0stanbul_p5.jpg","alt":"Nefeskesen - Vialand Theme Park, İstanbul p5","credit":"VikiPicture","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nefeskesen","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q106683817","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde bulunan Nefeskesen, doğal güzellikleriyle dikkat çekiyor."

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Plaj aktiviteleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Telmessos%20Kaya%20Mezarlar%C4%B1%201.jpg","alt":"Telmessos Kaya Mezarları 1 manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Telmessos_Kaya_Mezarlar%C4%B1_1.jpg/960px-Telmessos_Kaya_Mezarlar%C4%B1_1.jpg","alt":"Telmessos Kaya Mezarları 1","caption":"Telmessos Kaya Mezarları 1","credit":"Telmessos Kaya Mezarları 1","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Ancient_Tombs_of_Fethiye_%28Telmessos%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Tombs_of_Fethiye_%28Telmessos%29.jpg/1280px-Ancient_Tombs_of_Fethiye_%28Telmessos%29.jpg","alt":"Telmessos Kaya Mezarları 1 - Ancient Tombs of Fethiye (Telmessos)","credit":"Harald the Bard","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Telmessos_Kaya_Mezarlar%C4%B1_1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Telmessos_Kaya_Mezarlar%C4%B1_1.jpg/1280px-Telmessos_Kaya_Mezarlar%C4%B1_1.jpg","alt":"Telmessos Kaya Mezarları 1 - Telmessos Kaya Mezarları 1","credit":"Canercangul","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Telmessos%20Kaya%20Mezarlar%C4%B1%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728172","tip":"genel"}]
 description: "Muğla'nın tarihi hazinesi, Telmessos Kaya Mezarları 1, Ege Bölgesi'nde yer alan bir doğa harikası"

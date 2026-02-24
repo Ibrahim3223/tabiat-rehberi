@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","doğa gözlemi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Şarlan","caption":"Şarlan","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c5/APR-1Vs.jpg","alt":"Şarlan","caption":"Şarlan","credit":"APR-1Vs","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Earlan","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228497","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Şarlan","İç Anadolu Bölgesi","doğal güzellik","milli park","çevre","eko-turizm"]

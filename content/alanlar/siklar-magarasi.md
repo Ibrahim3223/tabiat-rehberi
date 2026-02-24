@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Mağara Turu","Fotoğrafçılık","Jeoloji Gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Amorous_cave.jpg","alt":"Âşıklar Mağarası manzarası","credit":"Squnxik","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Amorous_cave.jpg/960px-Amorous_cave.jpg","alt":"Âşıklar Mağarası","caption":"Âşıklar Mağarası","credit":"Amorous cave","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%82%C5%9F%C4%B1klar%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q794826","tip":"genel"}]
 description: "Antalya'da bulunan Âşıklar Mağarası, doğal güzelliği ile dikkat çekiyor. 1200 hektarlık alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."

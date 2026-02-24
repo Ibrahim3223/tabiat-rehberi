@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/N%C3%BCzhetiye_%C5%9Eelalesi.jpg","alt":"Nüzhetiye Şelalesi manzarası","credit":"Alper 02","license":"cc0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/N%C3%BCzhetiye_%C5%9Eelalesi.jpg/960px-N%C3%BCzhetiye_%C5%9Eelalesi.jpg","alt":"Nüzhetiye Şelalesi","caption":"Nüzhetiye Şelalesi","credit":"Nüzhetiye Şelalesi","license":"CC0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/N%C3%BCzhetiye%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Kocaeli'nin doğal güzelliklerinden biri olan Nüzhetiye Şelalesi, ziyaretçilerini büyülüyor."

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Susuzdede%20Park%2C%20April%202022.jpg","alt":"Susuzdede Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Susuzdede_Park%2C_April_2022.jpg/960px-Susuzdede_Park%2C_April_2022.jpg","alt":"Susuzdede Parkı","caption":"Susuzdede Parkı","credit":"Susuzdede Park, April 2022","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Susuzdede_Park%2C_April_2022.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Susuzdede_Park%2C_April_2022.jpg/1280px-Susuzdede_Park%2C_April_2022.jpg","alt":"Susuzdede Parkı - Susuzdede Park, April 2022","credit":"BSRF","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Susuzdede%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q5994824","tip":"genel"}]
 description: "İzmir Konak'ta bulunan 1200 hektarlık botanik bahçesi, 500'den fazla bitki türünü barındırır."

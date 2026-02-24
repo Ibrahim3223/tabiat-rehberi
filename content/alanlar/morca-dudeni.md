@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Morca_d%C3%BCdeninin_giri%C5%9Fi.jpg","alt":"Morca düdeni manzarası","credit":"Umitgunhan","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Morca_d%C3%BCdeninin_giri%C5%9Fi.jpg/960px-Morca_d%C3%BCdeninin_giri%C5%9Fi.jpg","alt":"Morca düdeni","caption":"Morca düdeni","credit":"Morca düdeninin girişi","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Morca%20d%C3%BCdeni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118957452","tip":"genel"}]
 description: "Mersin'de yer alan Morca düdeni, 1200 hektarlık bir jeopark alanıdır. Doğal güzellikleri keşfedin."

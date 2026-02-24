@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam","caption":"Kars-Sarikamis-Dr.A.T. Arastirma Ormani Saricam","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kars-Sarikamis-Dr.A.T.%20Arastirma%20Ormani%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227694","tip":"genel"}]
-description: "Doğu Anadolu Bölgesi'nin Kars ilinde yer alan Kars-Sarikamis-Dr.A.T.
+description: "Doğu Anadolu Bölgesi'nin Kars ilinde yer alan Kars-Sarikamis-Dr.A.T."
 keywords: ["Kars","Sarikamis","Dr.A.T. Arastirma Ormani","Saricam","Doğu Anadolu Bölgesi","orman","doğa","çevre","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227694"

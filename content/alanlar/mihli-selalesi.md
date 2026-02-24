@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Yürüyüş","Piknik","Fotograf","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2f/M%C4%B1hl%C4%B1_Waterfall.JPG","alt":"Mıhlı şelalesi manzarası","credit":"Ollios","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/M%C4%B1hl%C4%B1_%C5%9Felalesi.jpg/960px-M%C4%B1hl%C4%B1_%C5%9Felalesi.jpg","alt":"Mıhlı Şelalesi","caption":"Mıhlı Şelalesi","credit":"Mıhlı şelalesi","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b7/M%C4%B1hl%C4%B1_%C5%9Felalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/M%C4%B1hl%C4%B1_%C5%9Felalesi.jpg/1280px-M%C4%B1hl%C4%B1_%C5%9Felalesi.jpg","alt":"Mıhlı şelalesi - Mıhlı şelalesi","credit":"Kythera~trwiki","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ae/M%C4%B1hl%C4%B1derinlik2.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/a/ae/M%C4%B1hl%C4%B1derinlik2.png","alt":"Mıhlı şelalesi - Mıhlıderinlik2","credit":"Kythera~trwiki","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/M%C4%B1hl%C4%B1Derinlik.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/a/af/M%C4%B1hl%C4%B1Derinlik.png","alt":"Mıhlı şelalesi - MıhlıDerinlik","credit":"Kythera~trwiki","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C4%B1hl%C4%B1%20%C5%9Felalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q116678078","tip":"genel"}]
 description: "Küçükkuyu'da doğanın güzelliğini keşfedin, Mıhlı Şelalesi'ni ziyaret edin"

@@ -12,10 +12,10 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["piknik","doğa yürüyüşü","bisiklet sürüşü","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/68/Orman_House_Estate.jpg","alt":"Park Orman manzarası","credit":"Balon Greyjoy","license":"cc0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Apalachicola_Orman_House01.jpg/960px-Apalachicola_Orman_House01.jpg","alt":"Park Orman","caption":"Park Orman","credit":"Apalachicola Orman House01","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/91/Orman_House.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Orman_House.jpg/1280px-Orman_House.jpg","alt":"Park Orman - Orman House","credit":"Balon Greyjoy","license":"cc0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Water_Lilies_at_Orman.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Water_Lilies_at_Orman.jpg/1280px-Water_Lilies_at_Orman.jpg","alt":"Park Orman - Water Lilies at Orman","credit":"Amrotbakr","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Apalachicola_Orman_House01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Apalachicola_Orman_House01.jpg/1280px-Apalachicola_Orman_House01.jpg","alt":"Park Orman - Apalachicola Orman House01","credit":"Ebyabe","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/1/11/Apalachicola_Orman_House02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Apalachicola_Orman_House02.jpg/1280px-Apalachicola_Orman_House02.jpg","alt":"Park Orman - Apalachicola Orman House02","credit":"Ebyabe","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Apalachicola_Orman_House03.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Apalachicola_Orman_House03.jpg/1280px-Apalachicola_Orman_House03.jpg","alt":"Park Orman - Apalachicola Orman House03","credit":"Ebyabe","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Park%20Orman","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228111","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin.
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Park Orman","İç Anadolu Bölgesi","doğal güzellik","orman","gezi","doğa","turizm","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228111"

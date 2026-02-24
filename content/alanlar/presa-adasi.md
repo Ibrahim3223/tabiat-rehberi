@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c4/La_Presa_island_-_panoramio.jpg","alt":"Presa Adası manzarası","credit":"Николай Максимович","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/La_Presa_island_-_panoramio.jpg/960px-La_Presa_island_-_panoramio.jpg","alt":"Presa Adası","caption":"Presa Adası","credit":"La Presa island - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Presa%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49670433","tip":"genel"}]
 description: "Çanakkale'de bulunan Presa Adası, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. Ada, 1200 hektarlık yeşil alanıyla İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

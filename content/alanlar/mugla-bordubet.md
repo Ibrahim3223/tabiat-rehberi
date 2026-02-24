@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Orman gezileri","Ova turları","Tarihi yerleri gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/86/Wildfire_in_the_Bordubet_region%2C_Republic_of_T%C3%BCrkiye.jpg","alt":"MUĞLA BÖRDÜBET manzarası","credit":"European Union, Copernicus Sentinel-2  imagery","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/de/MU%C4%9ELA_911_Marmaris_B%C3%B6rd%C3%BCbet_Yang%C4%B1n%C4%B1.png","alt":"MUĞLA BÖRDÜBET","caption":"MUĞLA BÖRDÜBET","credit":"MUĞLA 911 Marmaris Bördübet Yangını","license":"CC BY 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0a/B%C3%B6rd%C3%BCbet_arka_koy_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/B%C3%B6rd%C3%BCbet_arka_koy_-_panoramio.jpg/1280px-B%C3%B6rd%C3%BCbet_arka_koy_-_panoramio.jpg","alt":"MUĞLA BÖRDÜBET - Bördübet arka koy - panoramio","credit":"Serdar Paydaş","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8f/B%C3%B6rd%C3%BCbet_-_panoramio_-_Serdar_Payda%C5%9F.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/8/8f/B%C3%B6rd%C3%BCbet_-_panoramio_-_Serdar_Payda%C5%9F.jpg","alt":"MUĞLA BÖRDÜBET - Bördübet - panoramio - Serdar Paydaş","credit":"Serdar Paydaş","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/MU%C4%9ELA%20B%C3%96RD%C3%9CBET","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229020","tip":"genel"}]
 description: "Doğal güzellikleri ve tarihi geçmişi ile dikkat çeken Muğla Bördübet, ziyaretçiler için bir keşif cenneti."

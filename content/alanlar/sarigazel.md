@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/68/Sar%C4%B1gazel_Nature_Park.jpg","alt":"Sarıgazel manzarası","credit":"Leyla kılınç","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sar%C4%B1gazel_Nature_Park.jpg/960px-Sar%C4%B1gazel_Nature_Park.jpg","alt":"Sarıgazel","caption":"Sarıgazel","credit":"Sarıgazel Nature Park","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1gazel","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228304","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"

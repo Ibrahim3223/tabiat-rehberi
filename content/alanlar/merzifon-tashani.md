@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Merzifon%20Bedesten%2005.jpg","alt":"Merzifon Taşhanı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Merzifon_Ta%C5%9Fhan%C4%B1_ve_Bedesten.jpg/960px-Merzifon_Ta%C5%9Fhan%C4%B1_ve_Bedesten.jpg","alt":"Merzifon Taşhanı","caption":"Merzifon Taşhanı","credit":"Merzifon Taşhanı ve Bedesten","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/46/Merzifon_Bedesten_05.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Merzifon_Bedesten_05.jpg/1280px-Merzifon_Bedesten_05.jpg","alt":"Merzifon Taşhanı - Merzifon Bedesten 05","credit":"Amasya İl Kültür ve Turizm Müdürlüğü","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Merzifon_Ta%C5%9Fhan%C4%B1_ve_Bedesten.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Merzifon_Ta%C5%9Fhan%C4%B1_ve_Bedesten.jpg/1280px-Merzifon_Ta%C5%9Fhan%C4%B1_ve_Bedesten.jpg","alt":"Merzifon Taşhanı - Merzifon Taşhanı ve Bedesten","credit":"SAİT71","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merzifon%20Ta%C5%9Fhan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q116260117","tip":"genel"}]
 description: "Merzifon'un tarihi ve doğal güzelliklerini keşfedin. İç Anadolu Bölgesi'nin önemli merkezlerinden biri olan Merzifon, Taşhanı ile dikkat çekiyor."

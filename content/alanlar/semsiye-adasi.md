@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/13/Princes_Islands.png","alt":"Şemsiye Adası","caption":"Şemsiye Adası","credit":"Princes Islands","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%C5%9Eemsiye_Adas%C4%B1_location.svg/960px-%C5%9Eemsiye_Adas%C4%B1_location.svg.png","alt":"Şemsiye Adası","caption":"Şemsiye Adası","credit":"Şemsiye Adası location","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eemsiye%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34796198","tip":"genel"}]
 description: "İstanbul'da bulunan Şemsiye Adası, tarihi ve doğal güzellikleri ile dikkat çekiyor. Şehir merkezine yakın konumuyla popüler bir gezi noktası."
 keywords: ["Şemsiye Adası","İstanbul Adaları","Tarih","Doğa","Gezi","İstanbul","Ada","Turizm","Şehir Gezisi"]

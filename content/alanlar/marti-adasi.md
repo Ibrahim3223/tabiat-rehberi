@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/39/WhatsApp_G%C3%B6rsel_2024-06-29_saat_19.46.01_e485fc38.jpg","alt":"Martı Adası manzarası","credit":"Xtrecex","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/WhatsApp_G%C3%B6rsel_2024-06-29_saat_19.46.01_e485fc38.jpg/960px-WhatsApp_G%C3%B6rsel_2024-06-29_saat_19.46.01_e485fc38.jpg","alt":"Martı Adası","caption":"Martı Adası","credit":"WhatsApp Görsel 2024-06-29 saat 19.46.01 e485fc38","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mart%C4%B1%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49657151","tip":"genel"}]
 description: "Balıkesir'de bulunan Martı Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."

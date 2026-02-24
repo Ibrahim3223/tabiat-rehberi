@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/68/Sar%C4%B1gazel_Nature_Park.jpg","alt":"Sarıgazel Tabiat Parkı manzarası","credit":"Leyla kılınç","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sar%C4%B1gazel_Nature_Park.jpg/960px-Sar%C4%B1gazel_Nature_Park.jpg","alt":"Sarıgazel Tabiat Parkı","caption":"Sarıgazel Tabiat Parkı","credit":"Sarıgazel Nature Park","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1gazel%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerini keşfedin, Sarıgazel Tabiat Parkı'nı ziyaret edin"

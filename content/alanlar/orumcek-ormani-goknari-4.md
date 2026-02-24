@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","yürüyüş","çevre gezisi","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d1/%C3%96r%C3%BCmcek_Orman%C4%B1_G%C3%B6knar%C4%B1_2_Tabiat_An%C4%B1t%C4%B1.jpg","alt":"Örümcek Ormani Goknari 4 manzarası","credit":"Şahin 1","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/%C3%96r%C3%BCmcek_Orman%C4%B1_G%C3%B6knar%C4%B1_2_Tabiat_An%C4%B1t%C4%B1.jpg/960px-%C3%96r%C3%BCmcek_Orman%C4%B1_G%C3%B6knar%C4%B1_2_Tabiat_An%C4%B1t%C4%B1.jpg","alt":"Örümcek Ormani Goknari 4","caption":"Örümcek Ormani Goknari 4","credit":"Örümcek Ormanı Göknarı 2 Tabiat Anıtı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/33/%C3%96r%C3%BCmcek_Orman%C4%B1_G%C3%B6knar%C4%B1_I_Tabiat_An%C4%B1t%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/3/33/%C3%96r%C3%BCmcek_Orman%C4%B1_G%C3%B6knar%C4%B1_I_Tabiat_An%C4%B1t%C4%B1.jpg","alt":"Örümcek Ormani Goknari 4 - Örümcek Ormanı Göknarı I Tabiat Anıtı","credit":"Şahin 1","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96r%C3%BCmcek%20Ormani%20Goknari%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227149","tip":"genel"}]
 

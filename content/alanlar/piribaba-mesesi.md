@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/94/Piribaba_Me%C5%9Fesi-Sapl%C4%B1_Me%C5%9Fe.jpg","alt":"Piribaba Mesesi manzarası","credit":"Kursat26","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Piribaba_Me%C5%9Fesi-Sapl%C4%B1_Me%C5%9Fe.jpg/960px-Piribaba_Me%C5%9Fesi-Sapl%C4%B1_Me%C5%9Fe.jpg","alt":"Piribaba Mesesi","caption":"Piribaba Mesesi","credit":"Piribaba Meşesi-Saplı Meşe","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/97/Piribaba_Me%C5%9Fesi-Sapl%C4%B1_me%C5%9Fe.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Piribaba_Me%C5%9Fesi-Sapl%C4%B1_me%C5%9Fe.jpg/1280px-Piribaba_Me%C5%9Fesi-Sapl%C4%B1_me%C5%9Fe.jpg","alt":"Piribaba Mesesi - Piribaba Meşesi-Saplı meşe","credit":"Kursat26","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Piribaba%20Mesesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228075","tip":"genel"}]
 keywords: ["Piribaba Mesesi","İç Anadolu Bölgesi","doğal alan","yeşil alan","mesa","milli park"]

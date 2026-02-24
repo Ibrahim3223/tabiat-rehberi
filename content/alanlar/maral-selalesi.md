@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","doğa seyri","fotografçılık","balık avı"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/A%C4%9Faran%20%C5%9Eelalesi.JPG","alt":"Maral Şelalesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Camili_maral_%C5%9Felalesi.jpg/960px-Camili_maral_%C5%9Felalesi.jpg","alt":"Maral Şelalesi","caption":"Maral Şelalesi","credit":"Camili maral şelalesi","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/70/Camili_maral_%C5%9Felalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Camili_maral_%C5%9Felalesi.jpg/1280px-Camili_maral_%C5%9Felalesi.jpg","alt":"Maral Şelalesi - Camili maral şelalesi","credit":"Enverkaranfil","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Camili_Maral_Waterfall.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Camili_Maral_Waterfall.jpg/1280px-Camili_Maral_Waterfall.jpg","alt":"Maral Şelalesi - Camili Maral Waterfall","credit":"Gezgin renkler","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Maral%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076476","tip":"genel"}]
 description: "Rize ve Artvin arasında yer alan Maral Şelalesi, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biridir."

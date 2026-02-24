@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/82/Tilki_Deresi.JPG","alt":"Tilki Deresi manzarası","credit":"Ollios","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tilki_deresi_yak%C4%B1nlar%C4%B1ndaki_eski_kuru_su_kuyusu%2C_Pelitk%C3%B6y%2C_T%C3%BCrkiye_-_20090728.jpg/960px-Tilki_deresi_yak%C4%B1nlar%C4%B1ndaki_eski_kuru_su_kuyusu%2C_Pelitk%C3%B6y%2C_T%C3%BCrkiye_-_20090728.jpg","alt":"Tilki Deresi","caption":"Tilki Deresi","credit":"Tilki deresi yakınlarındaki eski kuru su kuyusu, Pelitköy, Türkiye - 20090728","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/35/Tilki_deresi_yak%C4%B1nlar%C4%B1ndaki_eski_kuru_su_kuyusu%2C_Pelitk%C3%B6y%2C_T%C3%BCrkiye_-_20090728.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tilki_deresi_yak%C4%B1nlar%C4%B1ndaki_eski_kuru_su_kuyusu%2C_Pelitk%C3%B6y%2C_T%C3%BCrkiye_-_20090728.jpg/1280px-Tilki_deresi_yak%C4%B1nlar%C4%B1ndaki_eski_kuru_su_kuyusu%2C_Pelitk%C3%B6y%2C_T%C3%BCrkiye_-_20090728.jpg","alt":"Tilki Deresi - Tilki deresi yakınlarındaki eski kuru su kuyusu, Pelitköy, Türkiye - 20090728","credit":"Ollios.","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tilki%20Deresi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21695169","tip":"genel"}]
 description: "Kars'ta bulunan Tilki Deresi Kanyonu, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."

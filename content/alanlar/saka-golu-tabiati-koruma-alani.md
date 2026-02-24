@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/dd/%C4%B0%C4%9FneadaFloodplainForestsNP_%282%29.JPG","alt":"Saka Gölü Tabiatı Koruma Alanı manzarası","credit":"CeeGee","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%C4%B0%C4%9FneadaFloodplainForestsNP_%282%29.JPG/960px-%C4%B0%C4%9FneadaFloodplainForestsNP_%282%29.JPG","alt":"Saka Gölü Tabiatı Koruma Alanı","caption":"Saka Gölü Tabiatı Koruma Alanı","credit":"İğneadaFloodplainForestsNP (2)","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saka%20G%C3%B6l%C3%BC%20Tabiat%C4%B1%20Koruma%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Kırklareli'de bulunan Saka Gölü, 1200 hektarlık bir alanı kaplıyor ve doğal güzelliği ile dikkat çekiyor."

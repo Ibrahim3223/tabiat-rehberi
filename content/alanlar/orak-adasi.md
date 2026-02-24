@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Orak_Adas%C4%B1_2_-_panoramio.jpg","alt":"Orak Adası manzarası","credit":"Tamer BÜKE","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Orak_Adas%C4%B1_2_-_panoramio.jpg/960px-Orak_Adas%C4%B1_2_-_panoramio.jpg","alt":"Orak Adası","caption":"Orak Adası","credit":"Orak Adası 2 - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Orak%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28222145","tip":"genel"}]
 description: "İzmir Foça'da bulunan Orak Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."

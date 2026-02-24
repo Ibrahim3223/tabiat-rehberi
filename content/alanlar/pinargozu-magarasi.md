@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/P%C4%B1narg%C3%B6z%C3%BC-ISPARTA-TURKEY.jpg","alt":"Pınargözü Mağarası manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b1/P%C4%B1narg%C3%B6z%C3%BC-ISPARTA-TURKEY.jpg","alt":"Pınargözü Mağarası","caption":"Pınargözü Mağarası","credit":"Pınargözü-ISPARTA-TURKEY","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/P%C4%B1narg%C3%B6z%C3%BC%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q33056658","tip":"genel"}]
 description: "Isparta'nın Yenişarbademli ilçesinde bulunan Pınargözü Mağarası, 1200 hektarlık bir jeopark alanı sunar."

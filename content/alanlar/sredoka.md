@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Sredoka.jpg","alt":"Sredoka manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sredoka.jpg/960px-Sredoka.jpg","alt":"Sredoka","caption":"Sredoka","credit":"Sredoka","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/13/Sredoka.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/1/13/Sredoka.jpg","alt":"Sredoka - Sredoka","credit":"Evgord © Evgeni Dinev (http://evgenidinev.com/)","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sredoka","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q12294909","tip":"genel"}]
 description: "Türkiye'de yer alan Sredoka jeoparkı, 1200 hektarlık yeşil alanı ile dikkat çekiyor."

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Tavsan%20Adasi.JPG","alt":"Tavşan Adası (Istanbul) manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tav%C5%9Fan_Adas%C4%B1_location.svg/960px-Tav%C5%9Fan_Adas%C4%B1_location.svg.png","alt":"Tavşan Adası","caption":"Tavşan Adası","credit":"Tavşan Adası location","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0c/Tav%C5%9Fan_Adas%C4%B1_-_Rabbit_Island_001_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tav%C5%9Fan_Adas%C4%B1_-_Rabbit_Island_001_-_panoramio.jpg/1280px-Tav%C5%9Fan_Adas%C4%B1_-_Rabbit_Island_001_-_panoramio.jpg","alt":"Tavşan Adası (Istanbul) - Tavşan Adası - Rabbit Island 001 - panoramio","credit":"M. PINARCI","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f3/Tavsan_Adasi.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tavsan_Adasi.JPG/1280px-Tavsan_Adasi.JPG","alt":"Tavşan Adası (Istanbul) - Tavsan Adasi","credit":"Julian Nyča","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tav%C5%9Fan%20Adas%C4%B1%20(Istanbul)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q607439","tip":"genel"}]
 description: "İstanbul'un gizli cenneti Tavşan Adası, şehrin kalabalığından kaçış için ideal bir nokta. Doğal güzellikleri ve sakin atmosferi ile ziyaretçilerini bekliyor."

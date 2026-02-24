@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Anıtın çevredeki alanını gezmek","Anıtın historiaşını öğrenmek","Anıtın çevredeki alanında yeme ve içecek yemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/76/Son_Ok_An%C4%B1t%C4%B1_ve_%C5%9Eehitli%C4%9Fi_-_panoramio.jpg","alt":"Son Ok Anıtı manzarası","credit":"Tutku Çetinel","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Son_Ok_An%C4%B1t%C4%B1_ve_%C5%9Eehitli%C4%9Fi_-_panoramio.jpg/960px-Son_Ok_An%C4%B1t%C4%B1_ve_%C5%9Eehitli%C4%9Fi_-_panoramio.jpg","alt":"Son Ok Anıtı","caption":"Son Ok Anıtı","credit":"Son Ok Anıtı ve Şehitliği - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Son%20Ok%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728124","tip":"genel"}]
 description: "Eceabat'ta bulunan Son Ok Anıtı, Çanakkale Savaşı'nın önemli bir bölümü olan Anzak çıkarmasının gerçekleştiği yer"

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/Rahmi_Demir_Kent_Orman%C4%B1.jpg","alt":"RAHMİ DEMİR manzarası","credit":"İmmortalance","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rahmi_Demir_Kent_Orman%C4%B1.jpg/960px-Rahmi_Demir_Kent_Orman%C4%B1.jpg","alt":"RAHMİ DEMİR","caption":"RAHMİ DEMİR","credit":"Rahmi Demir Kent Ormanı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/75/Lesbos%27lu_Dimitri_Demir_Sac_%C4%B0%C5%9Fleri.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lesbos%27lu_Dimitri_Demir_Sac_%C4%B0%C5%9Fleri.jpg/1280px-Lesbos%27lu_Dimitri_Demir_Sac_%C4%B0%C5%9Fleri.jpg","alt":"RAHMİ DEMİR - Lesbos'lu Dimitri Demir Sac İşleri","credit":"muammerokumus","license":"cc-by-sa-2.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Cekmekoy_colaj.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/0/0f/Cekmekoy_colaj.png","alt":"RAHMİ DEMİR - Cekmekoy colaj","credit":"Afakii, hüsamettin_alpaslan, Yunusemreatalayoglu","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/RAHM%C4%B0%20DEM%C4%B0R","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228652","tip":"genel"}]
 

@@ -14,7 +14,7 @@ aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Paşabükü Dişbudak Ağacı Tabiat Anıtı","caption":"Paşabükü Dişbudak Ağacı Tabiat Anıtı","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pa%C5%9Fab%C3%BCk%C3%BC%20Di%C5%9Fbudak%20A%C4%9Fac%C4%B1%20Tabiat%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6008904","tip":"genel"}]
-description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin.
+description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Paşabükü Dişbudak Ağacı","Tabiat Anıtı","İç Anadolu Bölgesi","doğal güzellikler","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6008904"

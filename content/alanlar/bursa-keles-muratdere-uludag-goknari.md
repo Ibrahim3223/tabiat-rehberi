@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotoğraf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Bursa-Keles-Muratdere-Uludag Goknari","caption":"Bursa-Keles-Muratdere-Uludag Goknari","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Keles-Muratdere-Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228590","tip":"genel"}]
-description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin.
+description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Marmara Bölgesi","Bursa","milli park","doğal güzellik","yeşil alan","Uludağ"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228590"

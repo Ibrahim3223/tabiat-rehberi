@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","şelaleleri ziyaret etme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/12/Natural_Beauty_Tomara.jpg","alt":"Tomara Şelalesi Tabiat Parkı manzarası","credit":"Iremwithmeri","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tomara_%C5%9Eelalesi..._-_panoramio.jpg/960px-Tomara_%C5%9Eelalesi..._-_panoramio.jpg","alt":"Tomara Şelalesi Tabiat Parkı","caption":"Tomara Şelalesi Tabiat Parkı","credit":"Tomara Şelalesi... - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Natural_Beauty_from_Tomara.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Natural_Beauty_from_Tomara.jpg/1280px-Natural_Beauty_from_Tomara.jpg","alt":"Tomara Şelalesi Tabiat Parkı - Natural Beauty from Tomara","credit":"Iremwithmeri","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Tomara_%C5%9Eelalesi..._-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Tomara_%C5%9Eelalesi..._-_panoramio.jpg","alt":"Tomara Şelalesi Tabiat Parkı - Tomara Şelalesi... - panoramio","credit":"Sinan Şahin","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tomara%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228353","tip":"genel"}]
 keywords: ["Tomara Şelalesi","Tabiat Parkı","Şiran","Gümüşhane","Karadeniz Bölgesi","Doğa","Turizm"]

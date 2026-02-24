@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna türleri hakkında bilgi edinme","tarihi geçmişi öğrenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/49/Bride_and_Maid%2C_walking_towards_Fairy_Chimneys_in_Cappadocia.jpg","alt":"Peri Bacaları Sit Alanı manzarası","credit":"Knslmn","license":"cc-by-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bride_and_Maid%2C_walking_towards_Fairy_Chimneys_in_Cappadocia.jpg/960px-Bride_and_Maid%2C_walking_towards_Fairy_Chimneys_in_Cappadocia.jpg","alt":"Peri Bacaları Sit Alanı","caption":"Peri Bacaları Sit Alanı","credit":"Bride and Maid, walking towards Fairy Chimneys in Cappadocia","license":"CC BY 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Peri%20Bacalar%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226108","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Peri Bacaları Sit Alanı, benzersiz coğrafi yapısı ile dikkat çekiyor."

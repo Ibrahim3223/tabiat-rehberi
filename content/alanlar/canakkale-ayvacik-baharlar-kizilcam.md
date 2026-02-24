@@ -14,7 +14,7 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara keşfi","fotografcıl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg","alt":"Canakkale-Ayvacik-Baharlar Kızılçam","caption":"Canakkale-Ayvacik-Baharlar Kızılçam","credit":"Gölcük Tabiat Parkı Piknik Alanı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Ayvacik-Baharlar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228586","tip":"genel"}]
-description: "Marmara Bölgesi'nin.
+description: "Marmara Bölgesi'nin."
 keywords: ["Marmara Bölgesi","doğa","yeşil alan","bitki türleri","milli park","Çanakkale","Ayvacık","Baharlar Kızılçam","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228586"

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Adrasan_Suluada_Drone.jpg","alt":"Suluada manzarası","credit":"Erturkercin","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Turkish_Maldives_island_Suluada.webp/960px-Turkish_Maldives_island_Suluada.webp.png","alt":"Suluada","caption":"Suluada","credit":"Turkish Maldives island Suluada","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7f/Adrasan_Suluada.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Adrasan_Suluada.jpg/1280px-Adrasan_Suluada.jpg","alt":"Suluada - Adrasan Suluada","credit":"Erturkercin","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Turkish_Maldives_island_Suluada.webp","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Turkish_Maldives_island_Suluada.webp/1280px-Turkish_Maldives_island_Suluada.webp.png","alt":"Suluada - Turkish Maldives island Suluada","credit":"HotelMaps","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Suluada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30632464","tip":"genel"}]
 description: "Türkiye'de bulunan Suluada, doğal güzellikleri ve tarihi önemiyle dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Orak%20Adas%C4%B1%202%20-%20panoramio.jpg","alt":"Orak Adası (Muğla) manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Orak_Adas%C4%B1_2_-_panoramio.jpg/960px-Orak_Adas%C4%B1_2_-_panoramio.jpg","alt":"Orak Adası","caption":"Orak Adası","credit":"Orak Adası 2 - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Orak_Adas%C4%B1_2_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Orak_Adas%C4%B1_2_-_panoramio.jpg/1280px-Orak_Adas%C4%B1_2_-_panoramio.jpg","alt":"Orak Adası (Muğla) - Orak Adası 2 - panoramio","credit":"Tamer BÜKE","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Orak%20Adas%C4%B1%20(Mu%C4%9Fla)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30667936","tip":"genel"}]
 description: "Muğla'nın gizli cenneti Orak Adası, 1200 hektarlık yeşil alanıyla doğaseverleri bekliyor."

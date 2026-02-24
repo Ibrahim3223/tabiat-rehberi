@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Fotoğraf çekme","Doğa gözlemi","El sanatları incelemesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e1/Simba_Waterfall_Through_the_Trees.jpg","alt":"Simba Şelalesi manzarası","credit":"Vanmulondo","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Simba_Waterfall_Through_the_Trees.jpg/960px-Simba_Waterfall_Through_the_Trees.jpg","alt":"Simba Şelalesi","caption":"Simba Şelalesi","credit":"Simba Waterfall Through the Trees","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Simba%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q96788345","tip":"genel"}]
 

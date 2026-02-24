@@ -20,7 +20,7 @@ aktiviteler: ["doğa yürüyüşü","kış sporları","panoramik manzara","yeme 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kırpınar Tepesi","caption":"Kırpınar Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rp%C4%B1nar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388607","tip":"genel"}]
-description: "Erzurum'un görkemli doğası, Kırpınar Tepesi'nin eteklerinde başlıyor.
+description: "Erzurum'un görkemli doğası, Kırpınar Tepesi'nin eteklerinde başlıyor."
 keywords: ["Kırpınar Tepesi","Erzurum","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","yaylak","kış sporları","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31388607"

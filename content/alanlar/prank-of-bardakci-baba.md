@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["deniz kıyısında yürüyüş yapmak","güneşin tadını çıkarmak","doğanın güzelliğini seyretmek"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Location%20of%20Bardak%C3%A7%C4%B1%20Baba%20Tomb%2001.jpg","alt":"Prank of Bardakçı Baba manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Location_of_Bardak%C3%A7%C4%B1_Baba_Tomb_01.jpg/960px-Location_of_Bardak%C3%A7%C4%B1_Baba_Tomb_01.jpg","alt":"Prank of Bardakçı Baba","caption":"Prank of Bardakçı Baba","credit":"Location of Bardakçı Baba Tomb 01","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/99/Location_of_Bardak%C3%A7%C4%B1_Baba_Tomb_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Location_of_Bardak%C3%A7%C4%B1_Baba_Tomb_01.jpg/1280px-Location_of_Bardak%C3%A7%C4%B1_Baba_Tomb_01.jpg","alt":"Prank of Bardakçı Baba - Location of Bardakçı Baba Tomb 01","credit":"Alessandro57","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Prank%20of%20Bardak%C3%A7%C4%B1%20Baba","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131103810","tip":"genel"}]
 description: "Şişli'de bulunan Prank of Bardakçı Baba, İstanbul'un merkezinde bir doğal alan"

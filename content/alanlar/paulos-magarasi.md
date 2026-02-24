@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20and%20Thecla.jpg","alt":"Paulos Mağarası manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Paul_and_Thecla.jpg/960px-Paul_and_Thecla.jpg","alt":"Paulos Mağarası","caption":"Paulos Mağarası","credit":"Paul and Thecla","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Paulos%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q104641905","tip":"genel"}]
 description: "İzmir'de bulunan Paulos Mağarası, jeopark özellikleri ile dikkat çeker. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini bekliyor."

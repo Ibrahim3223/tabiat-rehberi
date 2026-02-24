@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Kormakitis_Island_2023.jpg","alt":"Toprak Adası manzarası","credit":"ToprakM","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kormakitis_Island_2023.jpg/960px-Kormakitis_Island_2023.jpg","alt":"Toprak Adası","caption":"Toprak Adası","credit":"Kormakitis Island 2023","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kormakitis_Island_2023_-_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kormakitis_Island_2023_-_2.jpg/1280px-Kormakitis_Island_2023_-_2.jpg","alt":"Toprak Adası - Kormakitis Island 2023 - 2","credit":"ToprakM","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toprak%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q25475567","tip":"genel"}]
 description: "Türkiye'de bulunan Toprak Adası, doğa severlerin keşfetmek için bekleyen bir cennet"

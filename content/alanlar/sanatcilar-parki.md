@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/ff/T%C3%BCrkan_%C5%9Eoray_Artists%27_Park.jpg","alt":"Sanatçılar Parkı manzarası","credit":"Deniz Istanbul","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/T%C3%BCrkan_%C5%9Eoray_Artists%27_Park.jpg/960px-T%C3%BCrkan_%C5%9Eoray_Artists%27_Park.jpg","alt":"Sanatçılar Parkı","caption":"Sanatçılar Parkı","credit":"Türkan Şoray Artists' Park","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sanat%C3%A7%C4%B1lar%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97321014","tip":"genel"}]
 description: "İstanbul'un kalbinde 1200 hektarlık botanik bahçesi ve sanatçıların buluşma noktası"

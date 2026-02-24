@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Munzur_Vadisi_Milli_Park%C4%B1_Munzur_G%C3%B6zeleri.jpg","alt":"Munzur Gözeleri Sit Alanı manzarası","credit":"Zgcnkygsz","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Munzur_Vadisi_Milli_Park%C4%B1_Munzur_G%C3%B6zeleri.jpg/960px-Munzur_Vadisi_Milli_Park%C4%B1_Munzur_G%C3%B6zeleri.jpg","alt":"Munzur Gözeleri Sit Alanı","caption":"Munzur Gözeleri Sit Alanı","credit":"Munzur Vadisi Milli Parkı Munzur Gözeleri","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Munzur%20G%C3%B6zeleri%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226258","tip":"genel"}]
 keywords: ["doğa","gözeler","sit alanı","Munzur","İç Anadolu Bölgesi","turizm","gezi","doğal güzellik"]

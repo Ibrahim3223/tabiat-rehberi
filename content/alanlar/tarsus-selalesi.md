@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Dinlenme","Doğa gözlemi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Berdan%20Waterfall%20in%20Tarsus.jpg","alt":"Tarsus Şelalesi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mersin_Tarsus_%C5%9Eelalesi.jpg/960px-Mersin_Tarsus_%C5%9Eelalesi.jpg","alt":"Tarsus Şelalesi","caption":"Tarsus Şelalesi","credit":"Mersin Tarsus Şelalesi","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Mersin_Tarsus_%C5%9Eelalesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mersin_Tarsus_%C5%9Eelalesi.jpg/1280px-Mersin_Tarsus_%C5%9Eelalesi.jpg","alt":"Tarsus Şelalesi - Mersin Tarsus Şelalesi","credit":"Suatbezeng","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarsus%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q7686789","tip":"genel"}]
 description: "Mersin'in Tarsus ilçesinde bulunan Tarsus Şelalesi, doğal güzelliği ile dikkat çekiyor."

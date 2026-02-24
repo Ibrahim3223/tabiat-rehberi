@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 Saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic","Doğal Güzellikleri Keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Pasaca-selalesi.jpg","alt":"Paşaca Şelalesi Tabiat Parkı manzarası","credit":"Thecatcherintherye (mesaj)","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pasaca-selalesi.jpg/960px-Pasaca-selalesi.jpg","alt":"Paşaca Şelalesi Tabiat Parkı","caption":"Paşaca Şelalesi Tabiat Parkı","credit":"Pasaca-selalesi","license":"GFDL"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pa%C5%9Faca%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21526811","tip":"genel"}]
 keywords: ["Paşaca Şelalesi","Tabiat Parkı","Giresun","Karadeniz Bölgesi","Doğa","Şelale","Yeşil Alan","Turizm"]

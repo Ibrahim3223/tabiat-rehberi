@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Bafa_g%C3%B6l%C3%BC_ve_%C5%9Firince_%C4%B0kiz_Ada_Menet_Adas%C4%B1_Kap%C4%B1k%C4%B1r%C4%B1_Adas%C4%B1_Kahve_Asar_Ada_ikiz_ada.png","alt":"Menet Adası manzarası","credit":"Gulshrf bafa lake","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bafa_g%C3%B6l%C3%BC_ve_%C5%9Firince_%C4%B0kiz_Ada_Menet_Adas%C4%B1_Kap%C4%B1k%C4%B1r%C4%B1_Adas%C4%B1_Kahve_Asar_Ada_ikiz_ada.png/960px-Bafa_g%C3%B6l%C3%BC_ve_%C5%9Firince_%C4%B0kiz_Ada_Menet_Adas%C4%B1_Kap%C4%B1k%C4%B1r%C4%B1_Adas%C4%B1_Kahve_Asar_Ada_ikiz_ada.png","alt":"Menet Adası","caption":"Menet Adası","credit":"Bafa gölü ve şirince İkiz Ada Menet Adası Kapıkırı Adası Kahve Asar Ada ikiz ada","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Menet%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97547203","tip":"genel"}]
 description: "Türkiye'de bulunan Menet Adası, doğal güzellikleri ve tarihi önemi ile dikkat çekiyor."

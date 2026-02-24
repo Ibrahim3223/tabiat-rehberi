@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/90/Ayval%C4%B1k_fountain_island_deficits_-_panoramio.jpg","alt":"Pınar Adası manzarası","credit":"collage bird's eye v…","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ayval%C4%B1k_fountain_island_deficits_-_panoramio.jpg/960px-Ayval%C4%B1k_fountain_island_deficits_-_panoramio.jpg","alt":"Pınar Adası","caption":"Pınar Adası","credit":"Ayvalık fountain island deficits - panoramio","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/P%C4%B1nar%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49669291","tip":"genel"}]
 description: "Balıkesir'de bulunan Pınar Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."

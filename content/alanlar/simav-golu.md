@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/Simav_G%C3%B6l%C3%BC.jpg","alt":"Simav Gölü manzarası","credit":"The original uploader was Fatih43 at Turkish Wikipedia.","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Simav_G%C3%B6l%C3%BC.jpg/960px-Simav_G%C3%B6l%C3%BC.jpg","alt":"Simav Gölü","caption":"Simav Gölü","credit":"Simav Gölü","license":"GFDL"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Simav%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6035403","tip":"genel"}]
 description: "Kilis'te yer alan Simav Gölü, doğa severler için ideal bir destinasyon. Gölün etrafındaki manzaralar ve flora, ziyaretçilere unutulmaz bir deneyim sunuyor."

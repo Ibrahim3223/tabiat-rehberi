@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Sugla-See%202%205-1989.jpg","alt":"Suğla Gölü manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Su%C4%9Fla_G%C3%B6l%C3%BC_15_09_1983_Rinder_am_Ufer_des_Sees.jpg/960px-Su%C4%9Fla_G%C3%B6l%C3%BC_15_09_1983_Rinder_am_Ufer_des_Sees.jpg","alt":"Suğla Gölü","caption":"Suğla Gölü","credit":"Suğla Gölü 15 09 1983 Rinder am Ufer des Sees","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Map_of_rivers_Turkey.webp","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Map_of_rivers_Turkey.webp/1280px-Map_of_rivers_Turkey.webp.png","alt":"Suğla Gölü - Map of rivers Turkey","credit":"Giannetto, Daniela, and Deniz Innal","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f5/Sugla-See_2_5-1989.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sugla-See_2_5-1989.jpg/1280px-Sugla-See_2_5-1989.jpg","alt":"Suğla Gölü - Sugla-See 2 5-1989","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Su%C4%9Fla%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6111551","tip":"genel"}]
 description: "Konya'nın Seydişehir ilçesinde yer alan Suğla Gölü, 1200 hektarlık alanı ile önemli bir sulak alan"

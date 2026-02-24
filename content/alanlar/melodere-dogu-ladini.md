@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Çadır kurma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/91/Artvin_Melodere_Do%C4%9Fu_Ladini_Tabiat_An%C4%B1t%C4%B1.jpg","alt":"Melodere Dogu Ladini manzarası","credit":"Şahin 1","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Artvin_Melodere_Do%C4%9Fu_Ladini_Tabiat_An%C4%B1t%C4%B1.jpg/960px-Artvin_Melodere_Do%C4%9Fu_Ladini_Tabiat_An%C4%B1t%C4%B1.jpg","alt":"Melodere Dogu Ladini","caption":"Melodere Dogu Ladini","credit":"Artvin Melodere Doğu Ladini Tabiat Anıtı","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melodere%20Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227349","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Melodere Dogu Ladini milli parkı"

@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/61/Se%C4%9Fmenler_park%C4%B1_ankara_-_panoramio.jpg","alt":"Seğmenler Parkı manzarası","credit":"bynyalcin","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Se%C4%9Fmenler_park%C4%B1_ankara_-_panoramio.jpg/960px-Se%C4%9Fmenler_park%C4%B1_ankara_-_panoramio.jpg","alt":"Seğmenler Parkı","caption":"Seğmenler Parkı","credit":"Seğmenler parkı ankara - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Ankara%2C_Turkey_-_panoramio_%2892%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ankara%2C_Turkey_-_panoramio_%2892%29.jpg/1280px-Ankara%2C_Turkey_-_panoramio_%2892%29.jpg","alt":"Seğmenler Parkı - Ankara, Turkey - panoramio (92)","credit":"bynyalcin","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Se%C4%9Fmenler%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q5998215","tip":"genel"}]
 description: "Ankara'nın kalbinde, Çankaya'da yer alan Seğmenler Parkı, 1200 hektarlık yeşil alanı ile botanik bahçesi ve doğal güzellikleri keşfedin."

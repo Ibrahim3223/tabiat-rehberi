@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/99/Renkli_Tabiat.jpg","alt":"Mesir Tabiat Parkı manzarası","credit":"Nanelisakız","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Renkli_Tabiat.jpg/960px-Renkli_Tabiat.jpg","alt":"Mesir Tabiat Parkı","caption":"Mesir Tabiat Parkı","credit":"Renkli Tabiat","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mesir%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228122","tip":"genel"}]
 keywords: ["Mesir Tabiat Parkı","Manisa","Ege Bölgesi","doğal alan","tabiat parkı","gezi","yerel flora","yerel fauna","orman","orman ekosistemi"]

@@ -20,7 +20,7 @@ aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg/960px-Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg","alt":"Ulucak Tepe","caption":"Ulucak Tepe","credit":"Ida Husted Harper photograph by Aime Dupont","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulucak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389455","tip":"genel"}]
-description: "Kahramanmaraş'ta bulunan Ulucak Tepe, tarihi geçmişi ve doğal güzellikleri ile dikkat çeken bir bölge.
+description: "Kahramanmaraş'ta bulunan Ulucak Tepe, tarihi geçmişi ve doğal güzellikleri ile dikkat çeken bir bölge."
 keywords: ["Ulucak Tepe","Kahramanmaraş","Akdeniz Bölgesi","tarihi geçmişi","doğal güzellikler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389455"

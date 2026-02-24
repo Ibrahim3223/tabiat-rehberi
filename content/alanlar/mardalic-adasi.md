@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Wonderfull%20islands%20of%20Dikili%20-%20panoramio.jpg","alt":"Mardaliç Adası manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wonderfull_islands_of_Dikili_-_panoramio.jpg/960px-Wonderfull_islands_of_Dikili_-_panoramio.jpg","alt":"Mardaliç Adası","caption":"Mardaliç Adası","credit":"Wonderfull islands of Dikili - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b0/Wonderfull_islands_of_Dikili_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Wonderfull_islands_of_Dikili_-_panoramio.jpg/1280px-Wonderfull_islands_of_Dikili_-_panoramio.jpg","alt":"Mardaliç Adası - Wonderfull islands of Dikili - panoramio","credit":"nalcioglu","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mardali%C3%A7%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30635900","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Mardaliç Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."

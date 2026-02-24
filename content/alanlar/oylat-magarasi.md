@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Oylat_ma%C4%9Faras%C4%B1_-_panoramio.jpg","alt":"Oylat Mağarası manzarası","credit":"Ahmet KAYNARPUNAR","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Oylat_ma%C4%9Faras%C4%B1_-_panoramio.jpg/960px-Oylat_ma%C4%9Faras%C4%B1_-_panoramio.jpg","alt":"Oylat Mağarası","caption":"Oylat Mağarası","credit":"Oylat mağarası - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/03/Bursa%2C_Oylat_da%C4%9F%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bursa%2C_Oylat_da%C4%9F%C4%B1.jpg/1280px-Bursa%2C_Oylat_da%C4%9F%C4%B1.jpg","alt":"Oylat Mağarası - Bursa, Oylat dağı","credit":"Madrox","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Oylat%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20988496","tip":"genel"}]
 description: "Bursa'nın İnegöl ilçesinde bulunan Oylat Mağarası, 600 metre uzunluğuyla dikkat çeken bir jeopark alanıdır."

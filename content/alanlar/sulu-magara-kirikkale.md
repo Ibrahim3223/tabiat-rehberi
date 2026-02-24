@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografi","rehberli turlar"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Sulu_ma%C4%9Fara.jpg","alt":"Sulu Mağara (Kırıkkale) manzarası","credit":"Nationall","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Keskin_Sulu_Ma%C4%9Fara_-_panoramio.jpg/960px-Keskin_Sulu_Ma%C4%9Fara_-_panoramio.jpg","alt":"Sulu Mağara (Kırıkkale)","caption":"Sulu Mağara (Kırıkkale)","credit":"Keskin Sulu Mağara - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/61/Keskin_Sulu_Ma%C4%9Fara_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Keskin_Sulu_Ma%C4%9Fara_-_panoramio.jpg/1280px-Keskin_Sulu_Ma%C4%9Fara_-_panoramio.jpg","alt":"Sulu Mağara (Kırıkkale) - Keskin Sulu Mağara - panoramio","credit":"71ergun","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Sulu_Ma%C4%9Fara_Bilgi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sulu_Ma%C4%9Fara_Bilgi.jpg/1280px-Sulu_Ma%C4%9Fara_Bilgi.jpg","alt":"Sulu Mağara (Kırıkkale) - Sulu Mağara Bilgi","credit":"BEFOR01","license":"cc-by-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sulu%20Ma%C4%9Fara%20(K%C4%B1r%C4%B1kkale)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Kırıkkale'nin gizli doğa harikası, Sulu Mağara. 1200 hektarlık yeşil cennet"

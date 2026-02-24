@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/75/Spdkny.JPG","alt":"Sapadere Kanyonu manzarası","credit":"Omur Tanyel","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spdkny.JPG/960px-Spdkny.JPG","alt":"Sapadere Kanyonu","caption":"Sapadere Kanyonu","credit":"Spdkny","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Spdkny2.JPG","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Spdkny2.JPG/1280px-Spdkny2.JPG","alt":"Sapadere Kanyonu - Spdkny2","credit":"Omur Tanyel","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sapadere%20Kanyonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20476539","tip":"genel"}]
 description: "Türkiye'nin en güzel doğal oluşumlarından biri olan Sapadere Kanyonu, doğa severlerin ziyaret ettiği bir yer."

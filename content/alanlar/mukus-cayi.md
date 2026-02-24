@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","bitki gözlemi","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/43/Ho%C5%9Fap_24_05_2010_Burg.jpg","alt":"MÜKÜS ÇAYI manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ho%C5%9Fap_24_05_2010_Burg.jpg/960px-Ho%C5%9Fap_24_05_2010_Burg.jpg","alt":"MÜKÜS ÇAYI","caption":"MÜKÜS ÇAYI","credit":"Hoşap 24 05 2010 Burg","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%9CK%C3%9CS%20%C3%87AYI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228920","tip":"genel"}]
 

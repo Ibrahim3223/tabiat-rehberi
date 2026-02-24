@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","çevre gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Allahuekber_da%C4%9Flar%C4%B1nda_bir_b%C4%B1ld%C4%B1rc%C4%B1n_yavrusu.jpg","alt":"Sarikamis Allahu Ekber Daglari manzarası","credit":"Karagozerkan","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Allahuekber_da%C4%9Flar%C4%B1nda_bir_b%C4%B1ld%C4%B1rc%C4%B1n_yavrusu.jpg/960px-Allahuekber_da%C4%9Flar%C4%B1nda_bir_b%C4%B1ld%C4%B1rc%C4%B1n_yavrusu.jpg","alt":"Sarikamis Allahu Ekber Daglari","caption":"Sarikamis Allahu Ekber Daglari","credit":"Allahuekber dağlarında bir bıldırcın yavrusu","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sarikamis%20Allahu%20Ekber%20Daglari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228030","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Sarikamis Allahu Ekber Daglari milli parkı"

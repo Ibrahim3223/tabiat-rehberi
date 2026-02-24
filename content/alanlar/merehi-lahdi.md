@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["denizde yüzmek","güneşlenmek","doğa yürüyüşleri yapmak","fotoğraf çekmek"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Merehi%20by%20schopar.jpg","alt":"Merehi Lahdi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Merehi_by_schopar.jpg/960px-Merehi_by_schopar.jpg","alt":"Merehi Lahdi","caption":"Merehi Lahdi","credit":"Merehi by schopar","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/86/Merehi_by_schopar.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Merehi_by_schopar.jpg/1280px-Merehi_by_schopar.jpg","alt":"Merehi Lahdi - Merehi by schopar","credit":"Schopar39","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merehi%20Lahdi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728126","tip":"genel"}]
 description: "Kaş'ta saklı bir cennet: Merehi Lahdi"

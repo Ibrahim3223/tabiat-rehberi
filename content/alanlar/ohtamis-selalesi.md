@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğrafçılık","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bb/Ordu_ulubey_ohtamis_%C5%9Felalesi.jpg","alt":"Ohtamış Şelalesi manzarası","credit":"Tncy.dmrc","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ordu_ulubey_ohtamis_%C5%9Felalesi.jpg/960px-Ordu_ulubey_ohtamis_%C5%9Felalesi.jpg","alt":"Ohtamış Şelalesi","caption":"Ohtamış Şelalesi","credit":"Ordu ulubey ohtamis şelalesi","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ohtam%C4%B1%C5%9F%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6003558","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Ohtamış Şelalesi, doğa severleri bekliyor."

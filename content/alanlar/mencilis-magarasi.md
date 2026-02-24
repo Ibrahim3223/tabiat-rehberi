@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Mencilis_Cave.jpg","alt":"Mencilis Mağarası manzarası","credit":"Carotisque","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Mencilis_Cave.jpg","alt":"Mencilis Mağarası","caption":"Mencilis Mağarası","credit":"Mencilis Cave","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mencilis_Cave_2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mencilis_Cave_2.jpg","alt":"Mencilis Mağarası - Mencilis Cave 2","credit":"Carotisque","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mencilis%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31188834","tip":"genel"}]
 description: "Türkiye'de yer alan Mencilis Mağarası, jeopark olarak bilinen doğal bir oluşum"

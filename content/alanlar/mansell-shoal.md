@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b0/The_Quarterly_journal_of_the_Geological_Society_of_London_%2813365549694%29.jpg","alt":"Mansell Shoal manzarası","credit":"Geological Society of London","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_Quarterly_journal_of_the_Geological_Society_of_London_%2813365549694%29.jpg/960px-The_Quarterly_journal_of_the_Geological_Society_of_London_%2813365549694%29.jpg","alt":"Mansell Shoal","caption":"Mansell Shoal","credit":"The Quarterly journal of the Geological Society of London (13365549694)","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mansell%20Shoal","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34801058","tip":"genel"}]
 description: "Türkiye'de bulunan Mansell Shoal, ülkenin kıyı şeridindeki önemli adalardan biri, turizm ve doğa severler için çekici bir destinasyon."

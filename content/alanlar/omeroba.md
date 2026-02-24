@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Rehberli turlar","Yaban hayatı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MOKFC01.jpg/960px-MOKFC01.jpg","alt":"Omeroba","caption":"Omeroba","credit":"MOKFC01","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edirne_location_Lalapa%C5%9Fa.svg/960px-Edirne_location_Lalapa%C5%9Fa.svg.png","alt":"Omeroba","caption":"Omeroba","credit":"Edirne location Lalapaşa","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Omeroba","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227872","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, Omeroba milli parkında"
 keywords: ["Omeroba","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem"]

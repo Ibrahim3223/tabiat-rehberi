@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["kuş gözlemciliği","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/98/G%C3%BCn_Do%C4%9Fumu.jpg","alt":"Sultan Sazlığı Sulak Alanı manzarası","credit":"Nimet Gonenc Cinaroglu","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dikkuyruk_%C3%B6rdek%2C_Sultansazl%C4%B1%C4%9F%C4%B1.jpg/960px-Dikkuyruk_%C3%B6rdek%2C_Sultansazl%C4%B1%C4%9F%C4%B1.jpg","alt":"Sultan Sazlığı Sulak Alanı","caption":"Sultan Sazlığı Sulak Alanı","credit":"Dikkuyruk ördek, Sultansazlığı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Dikkuyruk_%C3%B6rdek%2C_Sultansazl%C4%B1%C4%9F%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dikkuyruk_%C3%B6rdek%2C_Sultansazl%C4%B1%C4%9F%C4%B1.jpg/1280px-Dikkuyruk_%C3%B6rdek%2C_Sultansazl%C4%B1%C4%9F%C4%B1.jpg","alt":"Sultan Sazlığı Sulak Alanı - Dikkuyruk ördek, Sultansazlığı","credit":"Adnan Bozkurt","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sultan%20Sazl%C4%B1%C4%9F%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228819","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en önemli sulak alanlarından biri olan Sultan Sazlığı Sulak Alanı, doğal güzelliği ve zengin fauna çeşitliliği ile dikkat çekiyor."

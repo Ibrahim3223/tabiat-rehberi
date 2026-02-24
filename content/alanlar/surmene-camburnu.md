@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","vahşi yaşam izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Bu%C4%9Fdayl%C4%B1k_%C3%A7amburnu_-_panoramio.jpg","alt":"Sürmene Çamburnu manzarası","credit":"Ibrahim Kara","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bu%C4%9Fdayl%C4%B1k_%C3%A7amburnu_-_panoramio.jpg/960px-Bu%C4%9Fdayl%C4%B1k_%C3%A7amburnu_-_panoramio.jpg","alt":"Sürmene Çamburnu","caption":"Sürmene Çamburnu","credit":"Buğdaylık çamburnu - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCrmene%20%C3%87amburnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228241","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Sürmene Çamburnu milli parkı, benzersiz bir doğa deneyimi sunar."

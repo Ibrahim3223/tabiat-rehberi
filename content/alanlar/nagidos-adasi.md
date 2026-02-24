@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/04/Nagidos_Adas%C4%B1.jpg","alt":"Nagidos Adası manzarası","credit":"Seraksin","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Nagidos_Adas%C4%B1.jpg/960px-Nagidos_Adas%C4%B1.jpg","alt":"Nagidos Adası","caption":"Nagidos Adası","credit":"Nagidos Adası","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nagidos%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28221889","tip":"genel"}]
 description: "Mersin'in Bozyazı ilçesinde yer alan Nagidos Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."

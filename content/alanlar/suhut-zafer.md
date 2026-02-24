@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","gözlem","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/43/Zafer_Plaza_in_2006_3190.jpg","alt":"ŞUHUT ZAFER manzarası","credit":"Dosseman","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Zafer-tokus.jpg/960px-Zafer-tokus.jpg","alt":"ŞUHUT ZAFER","caption":"ŞUHUT ZAFER","credit":"Zafer-tokus","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Zafer_Plaza_in_2006_3217.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zafer_Plaza_in_2006_3217.jpg/1280px-Zafer_Plaza_in_2006_3217.jpg","alt":"ŞUHUT ZAFER - Zafer Plaza in 2006 3217","credit":"Dosseman","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Zafer_20210812.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Zafer_20210812.jpg/1245px-Zafer_20210812.jpg","alt":"ŞUHUT ZAFER - Zafer 20210812","credit":"Zafer","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Zafer-tokus.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/8/8c/Zafer-tokus.jpg","alt":"ŞUHUT ZAFER - Zafer-tokus","credit":"Zafer Tokuş","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9EUHUT%20ZAFER","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228618","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
