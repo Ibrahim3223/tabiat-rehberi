@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/95/Incesu_kanyonu.jpg","alt":"İncesu Kanyonu manzarası","credit":"Umrancoban","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bc/%C4%B0ncesu_Canyon%2C_%C3%87orum%2C_Turkey.jpg","alt":"İncesu Kanyonu","caption":"İncesu Kanyonu","credit":"İncesu Canyon, Çorum, Turkey","license":"CC BY-SA 2.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncesu%20Kanyonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49343906","tip":"genel"}]
 description: "Türkiye'nin en derin ve uzun kanyonlarından biri olan İncesu Kanyonu, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."

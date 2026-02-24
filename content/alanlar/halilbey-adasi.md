@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Derkenar.jpg","alt":"Halilbey Adası manzarası","credit":"Niliven6","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ULUABAT_G%C3%96L%C3%9C_-_panoramio_-_MERMERC%C4%B0_%C3%96ZG%C3%9CR1.jpg/960px-ULUABAT_G%C3%96L%C3%9C_-_panoramio_-_MERMERC%C4%B0_%C3%96ZG%C3%9CR1.jpg","alt":"Halilbey Adası","caption":"Halilbey Adası","credit":"ULUABAT GÖLÜ - panoramio - MERMERCİ ÖZGÜR1","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/29/Kanon.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kanon.jpg/1280px-Kanon.jpg","alt":"Halilbey Adası - Kanon","credit":"Niliven6","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/80/ULUABAT_G%C3%96L%C3%9C_-_panoramio_-_MERMERC%C4%B0_%C3%96ZG%C3%9CR1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ULUABAT_G%C3%96L%C3%9C_-_panoramio_-_MERMERC%C4%B0_%C3%96ZG%C3%9CR1.jpg/1280px-ULUABAT_G%C3%96L%C3%9C_-_panoramio_-_MERMERC%C4%B0_%C3%96ZG%C3%9CR1.jpg","alt":"Halilbey Adası - ULUABAT GÖLÜ - panoramio - MERMERCİ ÖZGÜR1","credit":"MERMERCİ ÖZGÜR1","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halilbey%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49640199","tip":"genel"}]
 description: "Bursa'da bulunan Halilbey Adası, Marmara Denizi'nin güzelliğini keşfedin. 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

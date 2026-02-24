@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","doğa ile iç içe olmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Munzur_Valley_National_Park.jpg","alt":"Mameki manzarası","credit":"Crumou","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/62950_Demirce-Naz%C4%B1miye-Tunceli%2C_Turkey_-_panoramio.jpg/960px-62950_Demirce-Naz%C4%B1miye-Tunceli%2C_Turkey_-_panoramio.jpg","alt":"Mameki","caption":"Mameki","credit":"62950 Demirce-Nazımiye-Tunceli, Turkey - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fc/62950_Demirce-Naz%C4%B1miye-Tunceli%2C_Turkey_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/62950_Demirce-Naz%C4%B1miye-Tunceli%2C_Turkey_-_panoramio.jpg/1280px-62950_Demirce-Naz%C4%B1miye-Tunceli%2C_Turkey_-_panoramio.jpg","alt":"Mameki - 62950 Demirce-Nazımiye-Tunceli, Turkey - panoramio","credit":"takak haydar","license":"cc-by-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/d/db/Munzur_g%C3%B6zeleri.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/d/db/Munzur_g%C3%B6zeleri.jpg","alt":"Mameki - Munzur gözeleri","credit":"STEMteacher","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mameki","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227813","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Mameki milli parkı."

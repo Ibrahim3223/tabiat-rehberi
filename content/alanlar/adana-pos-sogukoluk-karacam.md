@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Yaban hayatı gözlem
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Adana-Pos-Sogukoluk Karacam","caption":"Adana-Pos-Sogukoluk Karacam","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pos-Sogukoluk%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227471","tip":"genel"}]
- Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çeker."
 keywords: ["Adana-Pos-Sogukoluk Karacam","Akdeniz Bölgesi","doğal güzellikler","zengin fauna","140 hektar","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227471"

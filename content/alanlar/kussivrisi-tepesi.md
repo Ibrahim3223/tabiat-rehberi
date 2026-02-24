@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","piknik","manzara izleme","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Kuşsivrisi Tepesi","caption":"Kuşsivrisi Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fsivrisi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390067","tip":"genel"}]
- İç Anadolu Bölgesi'nin güzide mekanlarından biri olan bu tepe, ziyaretçilerini büyüleyici manzaralarıyla karşılar."
 keywords: ["Kuşsivrisi Tepesi","Ankara","İç Anadolu Bölgesi","doğa harikası","tepe","manzara"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31390067"

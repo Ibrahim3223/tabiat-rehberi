@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/58/KapuzTheat.JPG","alt":"Kapuz manzarası","credit":"Johnny Chicago at lb.wikipedia","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/KapuzTheat.JPG/960px-KapuzTheat.JPG","alt":"Kapuz","caption":"Kapuz","credit":"KapuzTheat","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kapuz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6004246","tip":"genel"}]
 description: "Muğla'da yer alan Kapuz Kanyonu, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"

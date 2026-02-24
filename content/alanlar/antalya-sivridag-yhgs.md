@@ -15,7 +15,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sivridag_national_park.jpg/960px-Sivridag_national_park.jpg","alt":"Antalya Sivridağ YHGS","caption":"Antalya Sivridağ YHGS","credit":"Sivridag national park","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/75/Citdibi_in_city_of_Antalya.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Citdibi_in_city_of_Antalya.jpg/1280px-Citdibi_in_city_of_Antalya.jpg","alt":"Antalya Sivridağ YHGS - Citdibi in city of Antalya","credit":"Leyla kılınç","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/ac/Sivridag_national_park%2C_citdibi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sivridag_national_park%2C_citdibi.jpg/1280px-Sivridag_national_park%2C_citdibi.jpg","alt":"Antalya Sivridağ YHGS - Sivridag national park, citdibi","credit":"Leyla kılınç","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya%20Sivrida%C4%9F%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227380","tip":"genel"}]
- Doğal güzellikleri ve zengin faunasıyla dikkat çekiyor."
 keywords: ["Antalya","Sivridağ","YHGS","İç Anadolu Bölgesi","doğal alan","fauna","flora"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227380"

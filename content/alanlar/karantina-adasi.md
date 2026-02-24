@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Urla%20KarantinaIsland%20Izmir%20Turkey.jpg","alt":"Karantina Adası manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Karantina_Island_-_Karantina_Adas%C4%B1.jpg/960px-Karantina_Island_-_Karantina_Adas%C4%B1.jpg","alt":"Karantina Adası","caption":"Karantina Adası","credit":"Karantina Island - Karantina Adası","license":"CC0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c1/Karantina_Island_-_Karantina_Adas%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Karantina_Island_-_Karantina_Adas%C4%B1.jpg/1280px-Karantina_Island_-_Karantina_Adas%C4%B1.jpg","alt":"Karantina Adası - Karantina Island - Karantina Adası","credit":"Tomhannen","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karantina%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6027650","tip":"genel"}]
 description: "İzmir'in Urla ilçesinde bulunan Karantina Adası, 1200 hektarlık yeşil cenneti ve tarihi değerleriyle dikkat çekiyor."

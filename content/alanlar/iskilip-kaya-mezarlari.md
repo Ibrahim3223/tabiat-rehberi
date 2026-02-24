@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarihî araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Iskilip_kaya_mezarlari.jpg","alt":"İskilip Kaya Mezarları manzarası","credit":"Maderibeyza","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Iskilip_kaya_mezarlari.jpg/960px-Iskilip_kaya_mezarlari.jpg","alt":"İskilip Kaya Mezarları","caption":"İskilip Kaya Mezarları","credit":"Iskilip kaya mezarlari","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Iskilip_kaya_mezarlari2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Iskilip_kaya_mezarlari2.jpg/1280px-Iskilip_kaya_mezarlari2.jpg","alt":"İskilip Kaya Mezarları - Iskilip kaya mezarlari2","credit":"Maderibeyza","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/09/Iskilip_kaya_mezarlari3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Iskilip_kaya_mezarlari3.jpg/1280px-Iskilip_kaya_mezarlari3.jpg","alt":"İskilip Kaya Mezarları - Iskilip kaya mezarlari3","credit":"Maderibeyza","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0skilip%20Kaya%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728193","tip":"genel"}]
 description: "İskilip'te tarihi ve doğal güzelliklerin buluştuğu İskilip Kaya Mezarları, ziyaretçilerini bekliyor."

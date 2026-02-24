@@ -20,7 +20,6 @@ aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Abalı Tepesi","caption":"Abalı Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abal%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574350","tip":"genel"}]
- Zengin fauna ve flora çeşitliliğiyle dikkat çeker."
 keywords: ["Abalı Tepesi","Ankara","İç Anadolu Bölgesi","Doğal Alan","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31574350"

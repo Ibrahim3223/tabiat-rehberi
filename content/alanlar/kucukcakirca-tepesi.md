@@ -20,7 +20,6 @@ aktiviteler: ["tepeye çıkmak","manzara izlemek","çevreyi gezmek","tarihi öne
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Küçükçakırca Tepesi","caption":"Küçükçakırca Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%C3%A7ak%C4%B1rca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211087","tip":"genel"}]
- Doğal güzellikleri ve tarihi önemi ile dikkat çeker."
 keywords: ["Eskişehir","İç Anadolu Bölgesi","Küçükçakırca Tepesi","doğa","tarih","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32211087"

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/B%C3%BCy%C3%BCkada.JPG/960px-B%C3%BCy%C3%BCkada.JPG","alt":"Eşek Adası","caption":"Eşek Adası","credit":"Büyükada","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Front_Arkoi_Leipsoi_Leros_Back_Agathonisi_Farmakonisi_Turkey_coastline.jpg/960px-Front_Arkoi_Leipsoi_Leros_Back_Agathonisi_Farmakonisi_Turkey_coastline.jpg","alt":"Eşek Adası","caption":"Eşek Adası","credit":"Front Arkoi Leipsoi Leros Back Agathonisi Farmakonisi Turkey coastline","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Fek%20Adas%C4%B1%20(Konya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49637770","tip":"genel"}]
 description: "Konya'da bulunan Eşek Adası, 1200 hektarlık yeşil cenneti keşfedin. Doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Eşek Adası","Konya","Ada","Doğa","Tarih","Gezi","Seyahat","Konya Turizm","Eşek Adası Konya"]

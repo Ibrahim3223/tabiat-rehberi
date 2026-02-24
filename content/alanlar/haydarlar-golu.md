@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/83/Hassa_Haydarlar_Krater_G%C3%B6l%C3%BC.jpg","alt":"Haydarlar Gölü manzarası","credit":"Cemabidoglu","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hassa_Haydarlar_Krater_G%C3%B6l%C3%BC.jpg/960px-Hassa_Haydarlar_Krater_G%C3%B6l%C3%BC.jpg","alt":"Haydarlar Gölü","caption":"Haydarlar Gölü","credit":"Hassa Haydarlar Krater Gölü","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haydarlar%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Hatay'da bulunan Haydarlar Gölü, doğal güzelliği ile dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

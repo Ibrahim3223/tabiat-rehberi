@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Tarih gezisi"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"SULTANGAZİ MİMAR SİNAN","caption":"SULTANGAZİ MİMAR SİNAN","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/SULTANGAZ%C4%B0%20M%C4%B0MAR%20S%C4%B0NAN","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228602","tip":"genel"}]
- Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir destinasyon."
 keywords: ["Mimar Sinan","Sultangazi","Milli Park","İç Anadolu Bölgesi","Doğa","Tarih","Gezi","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228602"

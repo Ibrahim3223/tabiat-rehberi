@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Adana-Pozanti-Karanfildagi","caption":"Adana-Pozanti-Karanfildagi","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pozanti-Karanfildagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227378","tip":"genel"}]
- Akdeniz Bölgesi'nde yer alan bu milli park, ziyaretçilerine zengin bir flora ve fauna sunar."
 keywords: ["Adana-Pozanti-Karanfildagi","milli park","Akdeniz Bölgesi","doğa harikası","yeşil alan","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227378"

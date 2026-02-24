@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük ziyaret"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Yass%C4%B1ca_Adas%C4%B1.jpg","alt":"Körtaş Adaları manzarası","credit":"Jorge Franganillo","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Yass%C4%B1ca_Adas%C4%B1.jpg/960px-Yass%C4%B1ca_Adas%C4%B1.jpg","alt":"Körtaş Adaları","caption":"Körtaş Adaları","credit":"Yassıca Adası","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6rta%C5%9F%20Adalar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49296197","tip":"genel"}]
 description: "İzmir'in güzide noktalarından biri olan Körtaş Adaları, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

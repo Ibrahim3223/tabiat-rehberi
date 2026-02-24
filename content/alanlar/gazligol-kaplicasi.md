@@ -13,10 +13,9 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Termal kaynaklar","Bitki gözlemciliği","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Gazl%C4%B1g%C3%B6l_Thermal_Bath%2C_2024_2.jpg","alt":"Gazlıgöl Kaplıcası manzarası","credit":"Bluetime93","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Gazl%C4%B1g%C3%B6l_Thermal_Bath%2C_2024_2.jpg/960px-Gazl%C4%B1g%C3%B6l_Thermal_Bath%2C_2024_2.jpg","alt":"Gazlıgöl Kaplıcası","caption":"Gazlıgöl Kaplıcası","credit":"Gazlıgöl Thermal Bath, 2024 2","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Gazl%C4%B1g%C3%B6l_Thermal_Bath%2C_2024_1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gazl%C4%B1g%C3%B6l_Thermal_Bath%2C_2024_1.jpg/1280px-Gazl%C4%B1g%C3%B6l_Thermal_Bath%2C_2024_1.jpg","alt":"Gazlıgöl Kaplıcası - Gazlıgöl Thermal Bath, 2024 1","credit":"Bluetime93","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazl%C4%B1g%C3%B6l%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6088070","tip":"genel"}]
- İhsaniye ilçesinde bulunur."
 keywords: ["Gazlıgöl Kaplıcası","İç Anadolu Bölgesi","İhsaniye","Kaplıca","Termal kaynak","Doğa","Turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q6088070"

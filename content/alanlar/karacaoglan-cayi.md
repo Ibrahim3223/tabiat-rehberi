@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğrafçılık","doğa yürüyüşü","çay kenarında dinlenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/80/Karacao%C4%9Flan_waterfall.jpg","alt":"Karacaoğlan Çayı manzarası","credit":"Nedim Ardoğa","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Karacao%C4%9Flan_waterfall.jpg/960px-Karacao%C4%9Flan_waterfall.jpg","alt":"Karacaoğlan Çayı","caption":"Karacaoğlan Çayı","credit":"Karacaoğlan waterfall","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karacao%C4%9Flan%20%C3%87ay%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30066040","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedeceğiniz bir destinasyon"

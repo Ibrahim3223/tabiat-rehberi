@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/17/Admete_viridula_undata_%28MNHN-IM-2000-2159%29.jpeg","alt":"Kara Ada (Antalya) manzarası","credit":"\nManuel CABALLER","license":"cc-by-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/KaraAda20060920.jpg/960px-KaraAda20060920.jpg","alt":"Kara Ada","caption":"Kara Ada","credit":"KaraAda20060920","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bd/Piri_Reis_-_Map_of_the_Anatolian_Coast_and_the_Small_Kara_Island_-_Walters_W65890B_-_Full_Page.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Piri_Reis_-_Map_of_the_Anatolian_Coast_and_the_Small_Kara_Island_-_Walters_W65890B_-_Full_Page.jpg/1214px-Piri_Reis_-_Map_of_the_Anatolian_Coast_and_the_Small_Kara_Island_-_Walters_W65890B_-_Full_Page.jpg","alt":"Kara Ada (Antalya) - Piri Reis - Map of the Anatolian Coast and the Small Kara Island - Walters W65890B - Full Page","credit":"Piri Reis","license":"pd"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Ada%20(Antalya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49645360","tip":"genel"}]
 description: "Antalya'nın kıyılarında yer alan Kara Ada, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle dikkat çekiyor."

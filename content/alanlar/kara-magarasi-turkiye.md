@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Atilla3.jpg","alt":"Kara Mağarası (Türkiye) manzarası","credit":"Atilla Alp Bölükbaşı","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Atilla3.jpg/960px-Atilla3.jpg","alt":"Kara Mağarası","caption":"Kara Mağarası","credit":"Atilla3","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Ma%C4%9Faras%C4%B1%20(T%C3%BCrkiye)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319317","tip":"genel"}]
 description: "Siirt'te yer alan Kara Mağarası, 1200 hektarlık bir jeopark alanı sunar. Doğal güzellikleri keşfedin."

@@ -20,7 +20,6 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Kabasinan Tepesi","caption":"Kabasinan Tepesi","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabasinan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557873","tip":"genel"}]
- Bu bölge, İç Anadolu Bölgesi'nin coğrafi özelliklerini yansıtan bir tepe olup, ziyaretçilerine zengin bir flora ve fauna sunar."
 keywords: ["Kabasinan Tepesi","Ankara","İç Anadolu Bölgesi","doğa","flora","fauna","tepe","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31557873"

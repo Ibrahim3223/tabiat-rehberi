@@ -21,7 +21,6 @@ aktiviteler: ["tarih gezisi","doğa yürüyüşü","kültürel keşif"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Sivrihisar Frig Nekropolü","caption":"Sivrihisar Frig Nekropolü","credit":"Elmasburnu2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sivrihisar%20Frig%20Nekropol%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728241","tip":"genel"}]
- Bu önemli tarihi alan, ziyaretçilerine zengin bir geçmiş sunar."
 keywords: ["Sivrihisar","Frig Nekropolü","Eskişehir","tarihi alan","geçmiş","kültürel miras","İç Anadolu Bölgesi","eski uygarlıklar","tarihseverler"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q134728241"

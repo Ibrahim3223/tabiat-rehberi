@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Yürüyüş","Bisiklet turu","Doğa gözlemi","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d7/G%C3%B6k%C3%A7etepe_Tabiat_Park%C4%B1.jpg","alt":"Gökçetepe Tabiat Parkı manzarası","credit":"FurkanHaliloglu","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/G%C3%B6k%C3%A7etepe_Tabiat_Park%C4%B1.jpg/960px-G%C3%B6k%C3%A7etepe_Tabiat_Park%C4%B1.jpg","alt":"Gökçetepe Tabiat Parkı","caption":"Gökçetepe Tabiat Parkı","credit":"Gökçetepe Tabiat Parkı","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7etepe%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q65219717","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzelliklerini keşfedin, Gökçetepe Tabiat Parkı'nı ziyaret edin"

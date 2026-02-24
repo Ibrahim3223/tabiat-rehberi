@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Yaban hayatı izleme",
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Camili Efeler Ormani","caption":"Camili Efeler Ormani","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Camili%20Efeler%20Ormani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227237","tip":"genel"}]
- Zengin flora ve fauna çeşitliliği ile dikkat çeker."
 keywords: ["Camili Efeler Ormani","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","turizm","gezi","yaban hayatı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227237"

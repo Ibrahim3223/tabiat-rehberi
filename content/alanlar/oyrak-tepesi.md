@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotograf
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Karadeniz_Da%C4%9Flar%C4%B1_-_panoramio.jpg/960px-Karadeniz_Da%C4%9Flar%C4%B1_-_panoramio.jpg","alt":"Oyrak Tepesi","caption":"Oyrak Tepesi","credit":"Karadeniz Dağları - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Oyrak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387921","tip":"genel"}]
- Doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Giresun","Karadeniz Bölgesi","Oyrak Tepesi","doğa","tarih","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31387921"

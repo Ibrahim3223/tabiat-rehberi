@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/78/K%C4%B1z%C4%B1lada%2C_Marmaris_-_panoramio.jpg","alt":"Kızılada (Türkiye) manzarası","credit":"Николай Максимович","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/46/The_Gulf_of_Fethiye._Kizilada_Restaurant_and_K%C4%B1z%C4%B1lada_Feneri.jpg","alt":"Kızılada","caption":"Kızılada","credit":"The Gulf of Fethiye. Kizilada Restaurant and Kızılada Feneri","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lada%20(T%C3%BCrkiye)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49646171","tip":"genel"}]
 description: "Muğla'nın güzide adalarından biri olan Kızılada, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."

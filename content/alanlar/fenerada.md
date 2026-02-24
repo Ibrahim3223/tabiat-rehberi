@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Admiralty_Chart_No_907_Fanar_Adasi_to_Kalolimno_Island%2C_Published_1919.jpg","alt":"Fenerada manzarası","credit":"United Kingdom Hydrographic Office","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Admiralty_Chart_No_907_Fanar_Adasi_to_Kalolimno_Island%2C_Published_1919.jpg/960px-Admiralty_Chart_No_907_Fanar_Adasi_to_Kalolimno_Island%2C_Published_1919.jpg","alt":"Fenerada","caption":"Fenerada","credit":"Admiralty Chart No 907 Fanar Adasi to Kalolimno Island, Published 1919","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fenerada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49637917","tip":"genel"}]
 description: "Balıkesir'in güzide adalarından biri olan Fenerada, 1200 hektarlık yeşil cenneti ve tarihi değerleriyle dikkat çekiyor."

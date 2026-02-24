@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemciliği","Fotografcılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Kol%C5%9Fik_Flora%2C_Tonya%2C_Trabzon.jpg","alt":"Giresun-Ordu Dogu Ladini 4 manzarası","credit":"Serhat Baştan","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kol%C5%9Fik_Flora%2C_Tonya%2C_Trabzon.jpg/960px-Kol%C5%9Fik_Flora%2C_Tonya%2C_Trabzon.jpg","alt":"Giresun-Ordu Dogu Ladini 4","caption":"Giresun-Ordu Dogu Ladini 4","credit":"Kolşik Flora, Tonya, Trabzon","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Ordu%20Dogu%20Ladini%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227988","tip":"genel"}]
 description: "Giresun ve Ordu illerinin doğusunda yer alan milli park, zengin doğası ve tarihi geçmişiyle dikkat çekiyor."

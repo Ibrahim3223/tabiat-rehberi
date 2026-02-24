@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî Alan Gezisi","Doğa Yürüyüşü","Manzara İzleme","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/KOP_GE%C3%87%C4%B0D%C4%B0_2.jpg","alt":"Kop Dağı Müdafaası Tarihî Millî Parkı manzarası","credit":"Yenertan","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/KOP_GE%C3%87%C4%B0D%C4%B0_2.jpg/960px-KOP_GE%C3%87%C4%B0D%C4%B0_2.jpg","alt":"Kop Dağı Müdafaası Tarihî Millî Parkı","caption":"Kop Dağı Müdafaası Tarihî Millî Parkı","credit":"KOP GEÇİDİ 2","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kop%20Da%C4%9F%C4%B1%20M%C3%BCdafaas%C4%B1%20Tarih%C3%AE%20Mill%C3%AE%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q56280876","tip":"genel"}]
 description: "Bayburt'ta yer alan Kop Dağı Müdafaası Tarihî Millî Parkı, 93 hektarlık alanı ile tarihin sayfalarına ışık tutuyor."

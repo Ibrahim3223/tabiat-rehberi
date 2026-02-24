@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["alanın geziyor","tarihi geçmişi öğrenmek","doğal güzelliği keşfetmek"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/K%C4%B1rkdilim%20kap%C4%B1l%C4%B1kaya.jpg","alt":"Kapılıkaya Kaya Mezarı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kap%C4%B1l%C4%B1_kaya_la%C3%A7in_%C3%A7orum_-_panoramio.jpg/960px-Kap%C4%B1l%C4%B1_kaya_la%C3%A7in_%C3%A7orum_-_panoramio.jpg","alt":"Kapılıkaya Mezarı","caption":"Kapılıkaya Mezarı","credit":"Kapılı kaya laçin çorum - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/23/K%C4%B1rkdilim_kap%C4%B1l%C4%B1kaya.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/K%C4%B1rkdilim_kap%C4%B1l%C4%B1kaya.jpg/1280px-K%C4%B1rkdilim_kap%C4%B1l%C4%B1kaya.jpg","alt":"Kapılıkaya Kaya Mezarı - Kırkdilim kapılıkaya","credit":"Muhendisali19","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Kap%C4%B1l%C4%B1_kaya_la%C3%A7in_%C3%A7orum_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Kap%C4%B1l%C4%B1_kaya_la%C3%A7in_%C3%A7orum_-_panoramio.jpg","alt":"Kapılıkaya Kaya Mezarı - Kapılı kaya laçin çorum - panoramio","credit":"aliosman seçkin","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kap%C4%B1l%C4%B1kaya%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6366659","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Kapılıkaya Mezarı, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor."

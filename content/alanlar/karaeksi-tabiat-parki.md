@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotografçılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/99/Mut_Karaek%C5%9Fi.png","alt":"Karaekşi Tabiat Parkı manzarası","credit":"Musa Ufuk Çiftçioğlu","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mut_Karaek%C5%9Fi.png/960px-Mut_Karaek%C5%9Fi.png","alt":"Karaekşi Tabiat Parkı","caption":"Karaekşi Tabiat Parkı","credit":"Mut Karaekşi","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/04/Karaek%C5%9Fi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/0/04/Karaek%C5%9Fi.jpg","alt":"Karaekşi Tabiat Parkı - Karaekşi","credit":"Özdenozdemir","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaek%C5%9Fi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q39091388","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."

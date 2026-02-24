@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8a/%D0%9F%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%BE%D0%B5_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5.jpg","alt":"Liman Göl manzarası","credit":"Варенников Денис","license":"cc-by-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Deli_Gol.jpg/960px-Deli_Gol.jpg","alt":"Liman Göl","caption":"Liman Göl","credit":"Deli Gol","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/33/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B5.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B5.jpg/1280px-%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%9B%D0%B8%D0%BC%D0%B0%D0%BD_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D0%B0%D1%82%D0%B5.jpg","alt":"Liman Göl - Озеро Лиман на закате","credit":"Варенников Денис","license":"cc-by-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Deli_Gol.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Deli_Gol.jpg/1280px-Deli_Gol.jpg","alt":"Liman Göl - Deli Gol","credit":"Original uploader was Мацьков А.В. (Matskov) at ru.wikipedia","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Liman%20G%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49304106","tip":"genel"}]
 description: "Türkiye'de bulunan Liman Göl, 1200 hektarlık yeşil cennet, doğa severler için ideal bir destinasyon"

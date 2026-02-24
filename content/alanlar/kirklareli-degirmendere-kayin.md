@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%C4%B0%C4%9FneadaFloodplainForestsNP_%282%29.JPG/960px-%C4%B0%C4%9FneadaFloodplainForestsNP_%282%29.JPG","alt":"Kirklareli-Degirmendere Kayin","caption":"Kirklareli-Degirmendere Kayin","credit":"İğneadaFloodplainForestsNP (2).JPG","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirklareli-Degirmendere%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227257","tip":"genel"}]
- Bu bölge, doğa severlerin ilgi odağıdır."
 keywords: ["Kirklareli","Degirmendere Kayin","Marmara Bölgesi","doğa","milli park","gezi","yaban hayatı","ekosistem","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227257"

@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Bitki ve hayvan gözl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"Alanya Gazipaşa Sit Alanı","caption":"Alanya Gazipaşa Sit Alanı","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alanya%20Gazipa%C5%9Fa%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226638","tip":"genel"}]
- Bu bölgenin benzersiz doğası, ziyaretçilerini kendine çekiyor."
 keywords: ["Alanya Gazipaşa","Sit Alanı","İç Anadolu Bölgesi","Doğal Alan","Flora","Fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226638"

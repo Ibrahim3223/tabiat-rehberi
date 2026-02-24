@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/93/Abiesnordmannianaequitrojani.jpg","alt":"Kazdagi Goknari manzarası","credit":"Stickpen","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abiesnordmannianaequitrojani.jpg/960px-Abiesnordmannianaequitrojani.jpg","alt":"Kazdagi Goknari","caption":"Kazdagi Goknari","credit":"Abiesnordmannianaequitrojani","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3f/%C5%9Eahin_Tepesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%C5%9Eahin_Tepesi.jpg/1280px-%C5%9Eahin_Tepesi.jpg","alt":"Kazdagi Goknari - Şahin Tepesi","credit":"Jhihongear","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazdagi%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227056","tip":"genel"}]
 keywords: ["İç Anadolu Bölgesi","doğal güzellik","Kazdagi Goknari","yeşil alan","fiziksel veriler","coğrafya"]

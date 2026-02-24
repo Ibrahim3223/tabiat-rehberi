@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c8/K%C3%BC%C3%A7%C3%BCk_Ada..._-_panoramio_%281%29.jpg","alt":"Küçük Ada (Muğla) manzarası","credit":"Sinan Şahin","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/K%C3%BC%C3%A7%C3%BCk_Ada..._-_panoramio.jpg/960px-K%C3%BC%C3%A7%C3%BCk_Ada..._-_panoramio.jpg","alt":"Küçük Ada","caption":"Küçük Ada","credit":"Küçük Ada... - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Ada%20(Mu%C4%9Fla)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49650047","tip":"genel"}]
 description: "Muğla'nın güzide adalarından biri olan Küçük Ada, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."

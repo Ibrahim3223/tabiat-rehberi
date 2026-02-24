@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Ku%C4%9Fulu%20Park%20g%C3%B6zetleme%20kulesinden%20g%C3%B6r%C3%BCn%C3%BC%C5%9F.jpg","alt":"Köroğlu Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_08_06_1990_%C3%87aml%C4%B1dere-Bay%C4%B1nd%C4%B1r-Depression_Ovac%C4%B1k-Krater_Flug.jpg/960px-K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_08_06_1990_%C3%87aml%C4%B1dere-Bay%C4%B1nd%C4%B1r-Depression_Ovac%C4%B1k-Krater_Flug.jpg","alt":"Köroğlu Tabiat Parkı","caption":"Köroğlu Tabiat Parkı","credit":"Köroğlu Dağları 08 06 1990 Çamlıdere-Bayındır-Depression Ovacık-Krater Flug","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_08_06_1990_%C3%87aml%C4%B1dere-Bay%C4%B1nd%C4%B1r-Depression_Ovac%C4%B1k-Krater_Flug.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_08_06_1990_%C3%87aml%C4%B1dere-Bay%C4%B1nd%C4%B1r-Depression_Ovac%C4%B1k-Krater_Flug.jpg/1280px-K%C3%B6ro%C4%9Flu_Da%C4%9Flar%C4%B1_08_06_1990_%C3%87aml%C4%B1dere-Bay%C4%B1nd%C4%B1r-Depression_Ovac%C4%B1k-Krater_Flug.jpg","alt":"Köroğlu Tabiat Parkı - Köroğlu Dağları 08 06 1990 Çamlıdere-Bayındır-Depression Ovacık-Krater Flug","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6ro%C4%9Flu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227820","tip":"genel"}]
 

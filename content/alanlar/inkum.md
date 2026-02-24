@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük gezi"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/Bartin-inkum-sahil.jpg","alt":"Inkum manzarası","credit":"Wixama","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bartin-inkum-sahil.jpg/960px-Bartin-inkum-sahil.jpg","alt":"Inkum","caption":"Inkum","credit":"Bartin-inkum-sahil","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Inkum","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227883","tip":"genel"}]
 

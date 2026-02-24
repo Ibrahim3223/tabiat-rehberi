@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Çam ormanlarında gezi","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/G%C3%B6lc%C3%BCk_evi.jpg/960px-G%C3%B6lc%C3%BCk_evi.jpg","alt":"Erdemli Çamlığı","caption":"Erdemli Çamlığı","credit":"Gölcük evi.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/52/Talat_G%C3%B6ktepe_tabiat_park%C4%B12.jpg","alt":"Erdemli Çamlığı","caption":"Erdemli Çamlığı","credit":"Talat Göktepe tabiat parkı2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erdemli%20%C3%87aml%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Bolu'nun güzide doğal alanlarından biri olan Erdemli Çamlığı, Karadeniz Bölgesi'nin en önemli tabiat parklarından biridir."
 keywords: ["Erdemli Çamlığı","Bolu","Karadeniz Bölgesi","tabiat parkı","doğa","çam ormanı"]

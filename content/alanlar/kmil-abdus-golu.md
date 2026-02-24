@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ae/TUZLA_KAM%C4%B0L_ABDU%C5%9E_G%C3%96L%C3%9C_%C3%87EVRES%C4%B0.jpg","alt":"Kâmil Abduş Gölü manzarası","credit":"Kalem.metin","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TUZLA_KAM%C4%B0L_ABDU%C5%9E_G%C3%96L%C3%9C_%C3%87EVRES%C4%B0.jpg/960px-TUZLA_KAM%C4%B0L_ABDU%C5%9E_G%C3%96L%C3%9C_%C3%87EVRES%C4%B0.jpg","alt":"Kâmil Abduş Gölü","caption":"Kâmil Abduş Gölü","credit":"TUZLA KAMİL ABDUŞ GÖLÜ ÇEVRESİ","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%A2mil%20Abdu%C5%9F%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "İstanbul'un doğal güzelliklerinden biri olan Kâmil Abduş Gölü, şehrin merkezinde bir sığınak sunuyor."

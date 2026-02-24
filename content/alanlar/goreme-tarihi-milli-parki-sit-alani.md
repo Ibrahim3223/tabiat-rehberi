@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Tarih gezisi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f6/G%C3%B6remePapazEvi.jpg","alt":"Göreme Tarihi Milli Parkı Sit Alanı manzarası","credit":"D-22zran","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/G%C3%B6remePapazEvi.jpg/960px-G%C3%B6remePapazEvi.jpg","alt":"Göreme Tarihi Milli Parkı Sit Alanı","caption":"Göreme Tarihi Milli Parkı Sit Alanı","credit":"GöremePapazEvi","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6reme%20Tarihi%20Milli%20Park%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226237","tip":"genel"}]
 keywords: ["Göreme","Nevşehir","Milli Park","Sit Alanı","Doğa","Tarih","Gezi","Turizm","İç Anadolu Bölgesi"]

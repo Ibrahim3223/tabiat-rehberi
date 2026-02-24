@@ -12,10 +12,9 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Bisiklet turu","Kuş gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/be/Iznik_%281%29.jpg","alt":"İznik Gölü Sulak Alanı manzarası","credit":"Cetintas555","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Iznik_%281%29.jpg/960px-Iznik_%281%29.jpg","alt":"İznik Gölü Sulak Alanı","caption":"İznik Gölü Sulak Alanı","credit":"Iznik (1)","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0znik%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229008","tip":"genel"}]
- Bu bölge, çeşitli bitki türleri ve zengin fauna ile dikkat çeker."
 keywords: ["İznik Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Çevre","Ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229008"

@@ -21,7 +21,6 @@ aktiviteler: ["denize girme","güneşlenme","doğa yürüyüşü"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg","alt":"Eski Hamam, Milas","caption":"Eski Hamam, Milas","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 16","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%20Hamam%2C%20Milas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245808","tip":"genel"}]
- Bu büyüleyici plaj, ziyaretçilerine sakin ve huzurlu bir atmosfer sunar."
 
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245808"

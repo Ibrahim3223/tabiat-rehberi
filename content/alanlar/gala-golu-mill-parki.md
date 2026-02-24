@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşleri","Vahşi Yaşam İzleme","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/A%20Day%20in%20Gala%20Lake%20National%20Park.jpg","alt":"Gala Gölü Millî Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/A_Day_in_Gala_Lake_National_Park.jpg/960px-A_Day_in_Gala_Lake_National_Park.jpg","alt":"Gala Gölü Millî Parkı","caption":"Gala Gölü Millî Parkı","credit":"A Day in Gala Lake National Park","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d6/A_Day_in_Gala_Lake_National_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/A_Day_in_Gala_Lake_National_Park.jpg/1280px-A_Day_in_Gala_Lake_National_Park.jpg","alt":"Gala Gölü Millî Parkı - A Day in Gala Lake National Park","credit":"Cems77","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Flamingo_dans%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flamingo_dans%C4%B1.jpg/1280px-Flamingo_dans%C4%B1.jpg","alt":"Gala Gölü Millî Parkı - Flamingo dansı","credit":"Bora Şahin","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gala%20G%C3%B6l%C3%BC%20Mill%C3%AE%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6031479","tip":"genel"}]
 description: "Edirne'de 200 ha alanıyla önemli bir doğal rezerv. Gala Gölü Millî Parkı'nda doğa yürüyüşleri ve vahşi yaşamı keşfedin."

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","tarihî yerleri keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Karag%C3%B6l_sar%C4%B1%C3%A7am1.jpg","alt":"Karagöl Yaylası Sarıçamı manzarası","credit":"Acar54","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karag%C3%B6l_sar%C4%B1%C3%A7am_Pinus_sylvestris.jpg/960px-Karag%C3%B6l_sar%C4%B1%C3%A7am_Pinus_sylvestris.jpg","alt":"Karagöl Yaylası Sarıçamı","caption":"Karagöl Yaylası Sarıçamı","credit":"Karagöl sarıçam Pinus sylvestris","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Karag%C3%B6l_sar%C4%B1%C3%A7am_Pinus_sylvestris.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karag%C3%B6l_sar%C4%B1%C3%A7am_Pinus_sylvestris.jpg/1280px-Karag%C3%B6l_sar%C4%B1%C3%A7am_Pinus_sylvestris.jpg","alt":"Karagöl Yaylası Sarıçamı - Karagöl sarıçam Pinus sylvestris","credit":"Acar54","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karag%C3%B6l%20Yaylas%C4%B1%20Sar%C4%B1%C3%A7am%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q85971875","tip":"genel"}]
 

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Ankara_gudul_05776.JPG","alt":"İnönü Caves manzarası","credit":"Nevit Dilmen","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ankara_gudul_05776.JPG/960px-Ankara_gudul_05776.JPG","alt":"İnönü Caves","caption":"İnönü Caves","credit":"Ankara gudul 05776","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0n%C3%B6n%C3%BC%20Caves","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q104630390","tip":"genel"}]
 description: "Ankara'da bulunan İnönü Caves, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzelliği keşfedin!"

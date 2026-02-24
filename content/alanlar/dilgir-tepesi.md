@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","piknik"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DSC_2971_-_panoramio.jpg/960px-DSC_2971_-_panoramio.jpg","alt":"Dılgır Tepesi","caption":"Dılgır Tepesi","credit":"DSC 2971 - panoramio.jpg","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C4%B1lg%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568838","tip":"genel"}]
- Bu tepenin etrafında yer alan ormanlar ve vadiler, ziyaretçilere doğanın güzelliğini sunuyor."
 keywords: ["Dılgır Tepesi","Giresun","Karadeniz","doğal güzellik","orman","vadi","tepe","manzara","gezi","doğa"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31568838"

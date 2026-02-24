@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/StMarinaCaveSlivarovo.jpg","alt":"Света Марина (Сливарово) mağarası manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Alt%C4%B1nbe%C5%9Fik_ma%C4%9Faras%C4%B1_giri%C5%9Fi_-_panoramio.jpg/960px-Alt%C4%B1nbe%C5%9Fik_ma%C4%9Faras%C4%B1_giri%C5%9Fi_-_panoramio.jpg","alt":"() mağarası","caption":"() mağarası","credit":"Altınbeşik mağarası girişi - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a7/StMarinaCaveSlivarovo.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/StMarinaCaveSlivarovo.jpg/1280px-StMarinaCaveSlivarovo.jpg","alt":"Света Марина (Сливарово) mağarası - StMarinaCaveSlivarovo","credit":"Filipov Ivo","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%B0%20%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%20(%D0%A1%D0%BB%D0%B8%D0%B2%D0%B0%D1%80%D0%BE%D0%B2%D0%BE)%20ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q26252345","tip":"genel"}]
 description: "Türkiye'de yer alan jeopark, doğal güzellikleri keşfetmek için ideal bir destinasyon"

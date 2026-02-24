@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Beypazar%C4%B1_%C4%B0n%C3%B6z%C3%BC_Vadisi.jpg","alt":"İnözü Vadisi manzarası","credit":"KayaZaKi","license":"cc-by-2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Beypazar%C4%B1_%C4%B0n%C3%B6z%C3%BC_Vadisi.jpg/960px-Beypazar%C4%B1_%C4%B0n%C3%B6z%C3%BC_Vadisi.jpg","alt":"İnözü Vadisi","caption":"İnözü Vadisi","credit":"Beypazarı İnözü Vadisi","license":"CC BY 2.5"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0n%C3%B6z%C3%BC%20Vadisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q12812960","tip":"genel"}]
 description: "Ankara'nın Beypazarı ilçesinde bulunan İnözü Vadisi, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"

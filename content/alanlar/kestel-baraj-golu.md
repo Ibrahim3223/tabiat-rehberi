@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Baraj%20G%C3%B6l%C3%BC...%20-%20panoramio.jpg","alt":"Kestel Baraj Gölü manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Baraj_G%C3%B6l%C3%BC..._-_panoramio.jpg/960px-Baraj_G%C3%B6l%C3%BC..._-_panoramio.jpg","alt":"Kestel Baraj Gölü","caption":"Kestel Baraj Gölü","credit":"Baraj Gölü... - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/20/Baraj_G%C3%B6l%C3%BC..._-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Baraj_G%C3%B6l%C3%BC..._-_panoramio.jpg/1280px-Baraj_G%C3%B6l%C3%BC..._-_panoramio.jpg","alt":"Kestel Baraj Gölü - Baraj Gölü... - panoramio","credit":"Sinan Şahin","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kestel%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q105491380","tip":"genel"}]
 description: "İzmir'in Bergama ilçesinde bulunan Kestel Baraj Gölü, 1200 hektarlık yeşil cennet, doğa severler için ideal bir destinasyon"

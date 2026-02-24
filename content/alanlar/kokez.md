@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","picnic","fotografcılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9f/Nippur_city.jpg","alt":"Kökez manzarası","credit":"Abbas kokez","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/K%C3%B6kez_k%C3%B6y%C3%BC.jpg/960px-K%C3%B6kez_k%C3%B6y%C3%BC.jpg","alt":"Kökez","caption":"Kökez","credit":"Kökez köyü","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/81/K%C3%B6kez_k%C3%B6y%C3%BC.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/K%C3%B6kez_k%C3%B6y%C3%BC.jpg/1224px-K%C3%B6kez_k%C3%B6y%C3%BC.jpg","alt":"Kökez - Kökez köyü","credit":"VivirMidas","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6kez","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227066","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"

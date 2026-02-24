@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","picnic"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"Kirinti Koyu Dogu Cinari","caption":"Kirinti Koyu Dogu Cinari","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirinti%20Koyu%20Dogu%20Cinari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227368","tip":"genel"}]
- Doğal güzelliği ve zengin fauna yapısıyla dikkat çeker."
 keywords: ["Kirinti Koyu Dogu Cinari","İç Anadolu Bölgesi","doğa alanı","flora","fauna","milli park","turizm","gezi","doğal güzellik"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227368"

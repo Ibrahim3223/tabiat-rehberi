@@ -20,7 +20,6 @@ aktiviteler: ["Doğa yürüyüşü","Manzara seyretme","Fotoğrafçılık","Pikn
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Meydankayası Tepesi","caption":"Meydankayası Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Meydankayas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389908","tip":"genel"}]
- Bu tepenin etrafındaki manzara, Karadeniz Bölgesi'nin güzelliğini gözler önüne sermektedir."
 keywords: ["Meydankayası Tepesi","Samsun","Karadeniz Bölgesi","yeşil alan","tepe","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31389908"

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Elaz%C4%B1%C4%9F_18.jpg","alt":"Elazığ Buzluk Mağarası manzarası","credit":"Perencal","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Elaz%C4%B1%C4%9F_18.jpg/960px-Elaz%C4%B1%C4%9F_18.jpg","alt":"Elazığ Buzluk Mağarası","caption":"Elazığ Buzluk Mağarası","credit":"Elazığ 18","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Elaz%C4%B1%C4%9F_99.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Elaz%C4%B1%C4%9F_99.jpg/1280px-Elaz%C4%B1%C4%9F_99.jpg","alt":"Elazığ Buzluk Mağarası - Elazığ 99","credit":"Perencal","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/bb/Elaz%C4%B1%C4%9F_84.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Elaz%C4%B1%C4%9F_84.jpg/1280px-Elaz%C4%B1%C4%9F_84.jpg","alt":"Elazığ Buzluk Mağarası - Elazığ 84","credit":"Perencal","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elaz%C4%B1%C4%9F%20Buzluk%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Elazığ'ın doğal güzelliklerinden biri olan Elazığ Buzluk Mağarası, yıl boyunca ziyaretçilerini bekliyor."

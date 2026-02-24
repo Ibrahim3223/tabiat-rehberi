@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","balık avı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Ilisus_waterfall.jpg","alt":"Ilısu Şelalesi manzarası","credit":"Farid Salah","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Il%C4%B1suwaterfall1.jpg/960px-Il%C4%B1suwaterfall1.jpg","alt":"Ilısu Şelalesi","caption":"Ilısu Şelalesi","credit":"Ilısuwaterfall1","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/00/Il%C4%B1suwaterfall1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Il%C4%B1suwaterfall1.jpg/1228px-Il%C4%B1suwaterfall1.jpg","alt":"Ilısu Şelalesi - Ilısuwaterfall1","credit":"Makalp","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Il%C4%B1su%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6008276","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Ilısu Şelalesi, doğa severlerin gözde mekanlarından biri"

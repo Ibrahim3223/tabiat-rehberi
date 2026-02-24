@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/08/Minno%C5%9F_adas%C4%B1_-_panoramio.jpg","alt":"Gelibolu Adası manzarası","credit":"Emre AK","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Minno%C5%9F_adas%C4%B1_-_panoramio.jpg/960px-Minno%C5%9F_adas%C4%B1_-_panoramio.jpg","alt":"Gelibolu Adası","caption":"Gelibolu Adası","credit":"Minnoş adası - panoramio","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gelibolu%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49638959","tip":"genel"}]
 description: "Muğla'nın güzide adalarından biri olan Gelibolu Adası, doğa severlerin ve tatilciler için bir cennet."

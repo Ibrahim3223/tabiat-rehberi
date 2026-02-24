@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Canyone%202%20%2832828345%29.jpeg","alt":"Karanlık Kanyon manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kemaliye_Ta%C5%9F_Yolu_and_Karanlik_Kanyon.jpg/960px-Kemaliye_Ta%C5%9F_Yolu_and_Karanlik_Kanyon.jpg","alt":"Karanlık Kanyon","caption":"Karanlık Kanyon","credit":"Kemaliye Taş Yolu and Karanlik Kanyon","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e1/Kemaliye_Ta%C5%9F_Yolu_and_Karanlik_Kanyon.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kemaliye_Ta%C5%9F_Yolu_and_Karanlik_Kanyon.jpg/1280px-Kemaliye_Ta%C5%9F_Yolu_and_Karanlik_Kanyon.jpg","alt":"Karanlık Kanyon - Kemaliye Taş Yolu and Karanlik Kanyon","credit":"Bodrumlu60","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Canyone_2_%2832828345%29.jpeg","thumb":"https://upload.wikimedia.org/wikipedia/commons/e/ef/Canyone_2_%2832828345%29.jpeg","alt":"Karanlık Kanyon - Canyone 2 (32828345)","credit":"\nEngin Asil","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karanl%C4%B1k%20Kanyon","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61077683","tip":"genel"}]
 description: "Mamuret-ul-Aziz Vilayeti, Kemaliye'de yer alan Karanlık Kanyon, 1200 hektarlık yeşil cenneti keşfedin!"

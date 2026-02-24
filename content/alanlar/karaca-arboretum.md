@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Abies_nordmanniana_subsp._bornmulleriana_Uluda%C4%9F_G%C3%B6knar%C4%B1_Karaca_Arboretum_2024.jpg","alt":"Karaca Arboretum manzarası","credit":"Saglıkcıormancı4","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Abies_nordmanniana_subsp._bornmulleriana_Uluda%C4%9F_G%C3%B6knar%C4%B1_Karaca_Arboretum_2024.jpg/960px-Abies_nordmanniana_subsp._bornmulleriana_Uluda%C4%9F_G%C3%B6knar%C4%B1_Karaca_Arboretum_2024.jpg","alt":"Karaca Arboretum","caption":"Karaca Arboretum","credit":"Abies nordmanniana subsp. bornmulleriana Uludağ Göknarı Karaca Arboretum 2024","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Mamut_A%C4%9Fac%C4%B1_Sequoiadendron_giganteum_Yalova_T%C3%BCrkiye.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Mamut_A%C4%9Fac%C4%B1_Sequoiadendron_giganteum_Yalova_T%C3%BCrkiye.jpg/1280px-Mamut_A%C4%9Fac%C4%B1_Sequoiadendron_giganteum_Yalova_T%C3%BCrkiye.jpg","alt":"Karaca Arboretum - Mamut Ağacı Sequoiadendron giganteum Yalova Türkiye","credit":"Saglıkcıormancı4","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaca%20Arboretum","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6030174","tip":"genel"}]
 description: "Yalova'da 1200 hektarlık yeşil cennet, 150'den fazla bitki türünü barındırıyor."

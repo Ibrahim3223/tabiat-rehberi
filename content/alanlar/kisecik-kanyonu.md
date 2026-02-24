@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Kisecik_Canyon.jpg","alt":"Kisecik Kanyonu manzarası","credit":"Nedim Ardoğa","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kisecik_Canyon.jpg/960px-Kisecik_Canyon.jpg","alt":"Kisecik Kanyonu","caption":"Kisecik Kanyonu","credit":"Kisecik Canyon","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kisecik%20Kanyonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28220935","tip":"genel"}]
 description: "Türkiye'nin en güzel doğal oluşumlarından biri olan Kisecik Kanyonu, doğa severler için bir cennet"

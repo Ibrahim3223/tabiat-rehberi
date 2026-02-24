@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Mersin_Eshab-I_Keyf_Yedi_Uyurlar_Ma%C4%9Faras%C4%B1.jpg","alt":"Eshabıkeyf Mağarası manzarası","credit":"Buse Çolak","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mersin_Eshab-I_Keyf_Yedi_Uyurlar_Ma%C4%9Faras%C4%B1.jpg/960px-Mersin_Eshab-I_Keyf_Yedi_Uyurlar_Ma%C4%9Faras%C4%B1.jpg","alt":"Eshabıkeyf Mağarası","caption":"Eshabıkeyf Mağarası","credit":"Mersin Eshab-I Keyf Yedi Uyurlar Mağarası","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eshab%C4%B1keyf%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319148","tip":"genel"}]
 description: "Diyarbakır'da yer alan Eshabıkeyf Mağarası, jeopark türünde bir doğal güzellik. 1200 hektarlık yeşil alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/94/Kuyuluk.jpg","alt":"Kuyuluk Tabiat Parkı manzarası","credit":"Özdenozdemir","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Kuyuluk_Nature_Park_3.jpg","alt":"Kuyuluk Tabiat Parkı","caption":"Kuyuluk Tabiat Parkı","credit":"Kuyuluk Nature Park 3","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyuluk%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q48740720","tip":"genel"}]
 

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","örde ve balık avı","fotoğrafçılık","çadır kurma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Eriklitepe_Tabiat_Park%C4%B1.jpg","alt":"Eriklitepe manzarası","credit":"HekFeySul","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Karl%C4%B1_Eriklitepe.jpg/960px-Karl%C4%B1_Eriklitepe.jpg","alt":"Eriklitepe","caption":"Eriklitepe","credit":"Karlı Eriklitepe","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Karl%C4%B1_Eriklitepe.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Karl%C4%B1_Eriklitepe.jpg/1280px-Karl%C4%B1_Eriklitepe.jpg","alt":"Eriklitepe - Karlı Eriklitepe","credit":"Nida Nur Yalçınkaya","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b0/Eriklitepe.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eriklitepe.jpg/1280px-Eriklitepe.jpg","alt":"Eriklitepe - Eriklitepe","credit":"Nida Nur Yalçınkaya","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eriklitepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228166","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleriyle dolu bir bölgesi olan Eriklitepe, ziyaretçilerini bekliyor."

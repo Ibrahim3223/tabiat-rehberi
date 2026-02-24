@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/K%C4%B1z%C4%B1l%C3%A7an%20G%C3%B6l%C3%BC.jpg","alt":"Kızılçan Gölü manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/K%C4%B1z%C4%B1l%C3%A7an_G%C3%B6l%C3%BC.jpg/960px-K%C4%B1z%C4%B1l%C3%A7an_G%C3%B6l%C3%BC.jpg","alt":"Kızılçan Gölü","caption":"Kızılçan Gölü","credit":"Kızılçan Gölü","license":"CC BY 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/86/K%C4%B1z%C4%B1l%C3%A7an_G%C3%B6l%C3%BC.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/K%C4%B1z%C4%B1l%C3%A7an_G%C3%B6l%C3%BC.jpg/1280px-K%C4%B1z%C4%B1l%C3%A7an_G%C3%B6l%C3%BC.jpg","alt":"Kızılçan Gölü - Kızılçan Gölü","credit":"58zarali","license":"cc-by-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%C3%A7an%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q124654403","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerinden biri olan Kızılçan Gölü, 1200 hektarlık yeşil cenneti ile ziyaretçilerini bekliyor."

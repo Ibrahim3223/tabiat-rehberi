@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa gözlemi","Kültürel keşif","Fotografcılı
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg/960px-Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg","alt":"Zonguldak-Devrek-Sarigol Dogu Kayini","caption":"Zonguldak-Devrek-Sarigol Dogu Kayini","credit":"Peygamberler Tabiat Parkı Diyarbakır","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Devrek-Sarigol%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227739","tip":"genel"}]
- Karadeniz Bölgesi'nin güzelliklerini keşfetmek isteyenler için ideal bir yer."
 keywords: ["Zonguldak","Devrek","Sarigol Dogu Kayini","milli park","Karadeniz Bölgesi","doğa","turizm","gezi","yerel kültür"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227739"

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Kayabaşı Tabiat Parkı manzarası","credit":"ByAktas","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg/960px-Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Kayabaşı Tabiat Parkı","caption":"Kayabaşı Tabiat Parkı","credit":"Kayabaşı Tabiat Parkı - 360° Panorama","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Kayaba%C5%9F%C4%B1_yaylakent.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kayaba%C5%9F%C4%B1_yaylakent.jpg/1280px-Kayaba%C5%9F%C4%B1_yaylakent.jpg","alt":"Kayabaşı Tabiat Parkı - Kayabaşı yaylakent","credit":"Erkut Meral","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayaba%C5%9F%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228179","tip":"genel"}]
 

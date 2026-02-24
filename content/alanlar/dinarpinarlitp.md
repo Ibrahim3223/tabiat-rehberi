@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","piknik","doğa"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"DİNAR_PINARLI_TP","caption":"DİNAR_PINARLI_TP","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C4%B0NAR_PINARLI_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228999","tip":"genel"}]
- Doğal güzelliği, tarihi geçmişi ve zengin ekosistemi ile dikkat çekiyor."
 keywords: ["DİNAR_PINARLI_TP","İç Anadolu Bölgesi","doğa","tarih","ekosistem","yeşil alan","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228999"

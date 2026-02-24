@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Trekking","Doğa gözlemi","Tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Hattusa_Upper_City_Temple_District2.JPG","alt":"Historischer Nationalpark Boğazköy-Alacahöyük manzarası","credit":"Rita1234","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hattusa_Upper_City_Temple_District2.JPG/960px-Hattusa_Upper_City_Temple_District2.JPG","alt":"Historischer Nationalpark Boğazköy-Alacahöyük","caption":"Historischer Nationalpark Boğazköy-Alacahöyük","credit":"Hattusa Upper City Temple District2","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Historischer%20Nationalpark%20Bo%C4%9Fazk%C3%B6y-Alacah%C3%B6y%C3%BCk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q1306385","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Historischer Nationalpark Boğazköy-Alacahöyük, 1200 hektarlık yeşil cenneti ve tarihi değerlerle dolu"

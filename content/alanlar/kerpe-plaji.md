@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["su sporları","yürüyüş","çevre gezisi","restoran ve kafe ziyaretleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/65/Kumca%C4%9F%C4%B1z_Plaj%C4%B1.jpg","alt":"Kerpe Plajı manzarası","credit":"Ucandairebaskani","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Kerpe_Plaj%C4%B1_02.jpg/960px-Kerpe_Plaj%C4%B1_02.jpg","alt":"Kerpe Plajı","caption":"Kerpe Plajı","credit":"Kerpe Plajı 02","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/78/Kerpe_Plaj%C4%B1_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Kerpe_Plaj%C4%B1_02.jpg/1280px-Kerpe_Plaj%C4%B1_02.jpg","alt":"Kerpe Plajı - Kerpe Plajı 02","credit":"Kocaeligönüllüsü","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Kerpe_Plaj%C4%B1_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kerpe_Plaj%C4%B1_01.jpg/1280px-Kerpe_Plaj%C4%B1_01.jpg","alt":"Kerpe Plajı - Kerpe Plajı 01","credit":"Kocaeligönüllüsü","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kerpe%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q106889452","tip":"genel"}]
 description: "Marmara Bölgesi'nin en güzel plajlarından biri olan Kerpe Plajı, Kocaeli'de yer alan bir doğa harikasıdır."

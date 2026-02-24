@@ -14,7 +14,6 @@ aktiviteler: ["Yürüyüş","Doğa keşfi","Fotoğrafçılık","Bölge tarihi ha
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg","alt":"Mersin Mut-Kızılçam","caption":"Mersin Mut-Kızılçam","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin%20Mut%20Mut-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228118","tip":"genel"}]
- Bu milli park, bölgenin doğal güzelliklerini koruma ve tanıtmak amacıyla kurulmuştur."
 keywords: ["Mersin Mut-Kızılçam","Milli Park","Doğal Alan","Çevre Koruma","Turizm","Mersin","Mut","Kızılçam","Orman","Yeşil Alan"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228118"

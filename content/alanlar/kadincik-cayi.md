@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","kamp","doğa","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Kad%C4%B1nc%C4%B1k_1_HES%2C_%C3%87aml%C4%B1yayla.jpg","alt":"Kadincik Cayı manzarası","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kad%C4%B1nc%C4%B1k_1_HES%2C_%C3%87aml%C4%B1yayla.jpg/960px-Kad%C4%B1nc%C4%B1k_1_HES%2C_%C3%87aml%C4%B1yayla.jpg","alt":"Kadincik Cayı","caption":"Kadincik Cayı","credit":"Kadıncık 1 HES, Çamlıyayla","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kadincik%20Cay%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227881","tip":"genel"}]
 

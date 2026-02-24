@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/12/BRS_7021-scaled.jpg","alt":"HALİL İBRAHİM YILMAZ manzarası","credit":"AnkaraKentKonseyi","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e1/Halilibrahimyilmaz.jpg","alt":"HALİL İBRAHİM YILMAZ","caption":"HALİL İBRAHİM YILMAZ","credit":"Halilibrahimyilmaz","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Halil_%C4%B0brahim_Y%C4%B1lmaz.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Halil_%C4%B0brahim_Y%C4%B1lmaz.jpg/1280px-Halil_%C4%B0brahim_Y%C4%B1lmaz.jpg","alt":"HALİL İBRAHİM YILMAZ - Halil İbrahim Yılmaz","credit":"Mehmet Akbolat","license":"cc-by-sa-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HAL%C4%B0L%20%C4%B0BRAH%C4%B0M%20YILMAZ","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228607","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. HALİL İBRAHİM YILMAZ milli parkı, benzersiz coğrafyası ve zengin florası ile ziyaretçilerini bekliyor."

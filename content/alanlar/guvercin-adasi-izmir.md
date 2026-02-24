@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/%C4%B0zmir_Fo%C3%A7a_Ada.jpg","alt":"Güvercin Adası (İzmir) manzarası","credit":"Ersoytoptas\n\nweb site= Ersoy Toptaş","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/G%C3%BCvercin_Adas%C4%B1_-_panoramio.jpg/960px-G%C3%BCvercin_Adas%C4%B1_-_panoramio.jpg","alt":"Güvercin Adası","caption":"Güvercin Adası","credit":"Güvercin Adası - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Fo%C3%A7a_pictures_1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Fo%C3%A7a_pictures_1.jpg","alt":"Güvercin Adası (İzmir) - Foça pictures 1","credit":"No machine-readable author provided. Foçalı assumed (based on copyright claims).","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCvercin%20Adas%C4%B1%20(%C4%B0zmir)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49640090","tip":"genel"}]
 description: "İzmir'in güzide noktalarından biri olan Güvercin Adası, 1200 hektarlık yeşil cenneti ve tarihi güzelliği ile ziyaretçilerini bekliyor."

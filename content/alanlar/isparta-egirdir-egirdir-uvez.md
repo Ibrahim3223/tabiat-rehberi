@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/ca/Apple_orchard_worker_at_lunch_break.jpg","alt":"Isparta-Eğirdir-Eğirdir-Üvez manzarası","credit":"Ozzieye","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Apple_orchard_worker_at_lunch_break.jpg/960px-Apple_orchard_worker_at_lunch_break.jpg","alt":"Isparta-Eğirdir-Eğirdir-Üvez","caption":"Isparta-Eğirdir-Eğirdir-Üvez","credit":"Apple orchard worker at lunch break","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-E%C4%9Firdir-E%C4%9Firdir-%C3%9Cvez","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228433","tip":"genel"}]
 description: "Isparta'da bulunan milli parkın güzellikleri ve özellikleri"

@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","piknik","çevre keşfi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","alt":"EFENDİOĞLU_HANYANI_TP","caption":"EFENDİOĞLU_HANYANI_TP","credit":"Gölcük Tabiat Parkı Karlar Altında 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/EFEND%C4%B0O%C4%9ELU_HANYANI_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229002","tip":"genel"}]
- Zengin flora ve fauna çeşitliliğine sahiptir."
 keywords: ["İç Anadolu Bölgesi","milli park","flora","fauna","gezi","doğa","çevre","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229002"

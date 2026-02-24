@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kaya mezarları gezi","doğa yürüyüşü","fotografçılık","tarihi araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/00/Gerdekkaya_frigya.jpg","alt":"Gerdek Kaya Mezarı manzarası","credit":"Honacan","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Gerdekkaya_frigya.jpg/960px-Gerdekkaya_frigya.jpg","alt":"Gerdek Kaya Mezarı","caption":"Gerdek Kaya Mezarı","credit":"Gerdekkaya frigya","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gerdek%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728169","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin tarihi ve doğal güzelliklerinin buluştuğu nokta"

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_island_with_the_ruins_of_the_Greek_town_-_panoramio.jpg/960px-The_island_with_the_ruins_of_the_Greek_town_-_panoramio.jpg","alt":"Koyun Adası","caption":"Koyun Adası","credit":"The island with the ruins of the Greek town - panoramio","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Small_Island_%28Koyun_adasi_-_Koyun_Island-_Koyun_Insel%29_-_panoramio.jpg/960px-Small_Island_%28Koyun_adasi_-_Koyun_Island-_Koyun_Insel%29_-_panoramio.jpg","alt":"Koyun Adası","caption":"Koyun Adası","credit":"Small Island (Koyun adasi - Koyun Island- Koyun Insel) - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koyun%20Adas%C4%B1%20(Antalya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49648972","tip":"genel"}]
 description: "Antalya'da yer alan Koyun Adası, Akdeniz'in güzelliğini keşfedin. Doğal güzellikleri ve tarihi ile dikkat çeker."
 keywords: ["Koyun Adası","Antalya","Ada","Akdeniz","Doğal Güzellik","Tarih","Gezi","Seyahat","Turizm"]

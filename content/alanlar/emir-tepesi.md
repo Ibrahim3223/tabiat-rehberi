@@ -20,7 +20,6 @@ aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Panoramik manzara izleme","F
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Emir Tepesi","caption":"Emir Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552343","tip":"genel"}]
- Bu tepenin eteklerinde kurulmuş olan Mardin kenti, yüzyıllar boyunca çeşitli medeniyetlere ev sahipliği yapmış ve zengin bir tarihi geçmişe sahiptir."
 keywords: ["Emir Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","Tarih","Doğa","Gezi","Tepeler","Coğrafya"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31552343"

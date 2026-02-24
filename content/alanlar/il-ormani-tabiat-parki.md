@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/SAKARYA%20%C4%B0L%20ORMANI.jpg","alt":"İl Ormanı Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SAKARYA_%C4%B0L_ORMANI.jpg/960px-SAKARYA_%C4%B0L_ORMANI.jpg","alt":"İl Ormanı Tabiat Parkı","caption":"İl Ormanı Tabiat Parkı","credit":"SAKARYA İL ORMANI","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/04/Belen_Gates_Nature_Park.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Belen_Gates_Nature_Park.jpg/1280px-Belen_Gates_Nature_Park.jpg","alt":"İl Ormanı Tabiat Parkı - Belen Gates Nature Park","credit":"Batuhanoffical","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/2/24/SAKARYA_%C4%B0L_ORMANI.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/SAKARYA_%C4%B0L_ORMANI.jpg/1280px-SAKARYA_%C4%B0L_ORMANI.jpg","alt":"İl Ormanı Tabiat Parkı - SAKARYA İL ORMANI","credit":"Acar54","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0l%20Orman%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228197","tip":"genel"}]
 

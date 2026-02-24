@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Termal su tedavisi","Orman içi gezinti"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pamukkale%2C_Turkey_%28ASTER%29.jpg/960px-Pamukkale%2C_Turkey_%28ASTER%29.jpg","alt":"Figani Kaplıcası","caption":"Figani Kaplıcası","credit":"Pamukkale, Turkey (ASTER)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Figani_Beke_Kapl%C4%B1cas%C4%B1.jpg","alt":"Figani Kaplıcası","caption":"Figani Kaplıcası","credit":"Figani Beke Kaplıcası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Figani%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741910","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin, Figani Kaplıcası'nı ziyaret edin"
 keywords: ["Çorum","Karadeniz Bölgesi","Kaplıca","Termal Kaynak","Doğa","Turizm"]

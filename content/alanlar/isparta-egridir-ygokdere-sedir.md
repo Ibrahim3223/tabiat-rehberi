@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Fotoğraf çekimi","Vahşi 
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/P_20180323_150213-01.jpg/960px-P_20180323_150213-01.jpg","alt":"Isparta-Egridir-Y.gokdere Sedir","caption":"Isparta-Egridir-Y.gokdere Sedir","credit":"P 20180323 150213-01.jpg","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Egridir-Y.gokdere%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227606","tip":"genel"}]
- Akdeniz Bölgesi'nde bulunan bu milli park, doğal güzellikleri ve zengin fauna ile ziyaretçilerini bekliyor."
 keywords: ["Isparta","Egridir","Y.gokdere Sedir","milli park","doğa","yeşil alan","Akdeniz Bölgesi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227606"

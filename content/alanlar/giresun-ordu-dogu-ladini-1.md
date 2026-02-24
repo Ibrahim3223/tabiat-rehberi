@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Kol%C5%9Fik_Flora%2C_Tonya%2C_Trabzon.jpg","alt":"Giresun-Ordu Dogu Ladini 1 manzarası","credit":"Serhat Baştan","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kol%C5%9Fik_Flora%2C_Tonya%2C_Trabzon.jpg/960px-Kol%C5%9Fik_Flora%2C_Tonya%2C_Trabzon.jpg","alt":"Giresun-Ordu Dogu Ladini 1","caption":"Giresun-Ordu Dogu Ladini 1","credit":"Kolşik Flora, Tonya, Trabzon","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Ordu%20Dogu%20Ladini%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227987","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide doğal alanlarından biri olan Giresun-Ordu Dogu Ladini 1, ziyaretçilerini büyüleyici bir doğaya davet ediyor."

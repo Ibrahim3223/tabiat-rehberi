@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Keramet_Dudu_An%C4%B1t_A%C4%9Fa%C3%A7-Karadut.jpg","alt":"Keramet Dutu manzarası","credit":"Kursat26","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Keramet_Dudu_An%C4%B1t_A%C4%9Fa%C3%A7-Karadut.jpg/960px-Keramet_Dudu_An%C4%B1t_A%C4%9Fa%C3%A7-Karadut.jpg","alt":"Keramet Dutu","caption":"Keramet Dutu","credit":"Keramet Dudu Anıt Ağaç-Karadut","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keramet%20Dutu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228081","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"

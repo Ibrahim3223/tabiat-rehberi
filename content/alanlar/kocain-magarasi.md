@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/73/Towers_of_darkness.jpg","alt":"Kocain Mağarası manzarası","credit":"Özgürcoğrafya","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Towers_of_darkness.jpg/960px-Towers_of_darkness.jpg","alt":"Kocain Mağarası","caption":"Kocain Mağarası","credit":"Towers of darkness","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocain%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30589415","tip":"genel"}]
 description: "Türkiye'de yer alan Kocain Mağarası, jeolojik oluşumlarıyla dikkat çeken bir jeoparktır. Doğal güzellikleri keşfedin."

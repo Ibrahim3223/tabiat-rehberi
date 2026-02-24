@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%A1%D0%B0%D0%B3%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_%D0%B2%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_IMG20230908150219.jpg/960px-%D0%A1%D0%B0%D0%B3%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_%D0%B2%D1%96%D0%B4%D0%B3%D0%BE%D1%80%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9_IMG20230908150219.jpg","alt":"Küçük Adası","caption":"Küçük Adası","credit":"Саговник відгорнений IMG20230908150219","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Starr-040511-0023-Prosopis_pallida-aerial_view_basecamp-Honokanaia-Kahoolawe_%2824584284872%29.jpg/960px-Starr-040511-0023-Prosopis_pallida-aerial_view_basecamp-Honokanaia-Kahoolawe_%2824584284872%29.jpg","alt":"Küçük Adası","caption":"Küçük Adası","credit":"Starr-040511-0023-Prosopis pallida-aerial view basecamp-Honokanaia-Kahoolawe (24584284872)","license":"CC BY 3.0 us"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Adas%C4%B1%20(T%C3%BCrkiye)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49650049","tip":"genel"}]
 description: "İzmir'de bulunan Küçük Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."

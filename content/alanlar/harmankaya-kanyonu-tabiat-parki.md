@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kanyon keşfi","bitki ve hayvan gözlemi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/93/Harmankaya_Kanyonu.jpg","alt":"Harmankaya Kanyonu Tabiat Parkı manzarası","credit":"Acar54","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Harmankaya_Kanyonu.jpg/960px-Harmankaya_Kanyonu.jpg","alt":"Harmankaya Kanyonu Tabiat Parkı","caption":"Harmankaya Kanyonu Tabiat Parkı","credit":"Harmankaya Kanyonu","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/07/Harmankaya_Kanyonu3.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Harmankaya_Kanyonu3.jpg/1280px-Harmankaya_Kanyonu3.jpg","alt":"Harmankaya Kanyonu Tabiat Parkı - Harmankaya Kanyonu3","credit":"Acar54","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/79/Harmankaya_kanyonu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Harmankaya_kanyonu.jpg/1280px-Harmankaya_kanyonu.jpg","alt":"Harmankaya Kanyonu Tabiat Parkı - Harmankaya kanyonu","credit":"Acar54","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harmankaya%20Kanyonu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q38251268","tip":"genel"}]
 keywords: ["Harmankaya Kanyonu","Tabiat Parkı","Marmara Bölgesi","Bilecik","doğa","turizm","gezi","kanyon"]

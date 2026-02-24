@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","tarih gezisi","bitki ve hayvan gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Yanmış Tepe","caption":"Yanmış Tepe","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yanm%C4%B1%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386805","tip":"genel"}]
- Tarihi geçmişi ve coğrafi konumuyla dikkat çekiyor."
 keywords: ["Yanmış Tepe","Batman","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","tarihçe","flora","fauna","ziyaret"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31386805"

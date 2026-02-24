@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","piknik","fotoğraf çekimi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Akgöl Sit Alanı","caption":"Akgöl Sit Alanı","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akg%C3%B6l%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226222","tip":"genel"}]
- Bu bölge, doğal güzellikleri ve tarihi geçmişi ile dikkat çekmektedir."
 keywords: ["Akgöl Sit Alanı","İç Anadolu Bölgesi","doğal alan","tarihi geçmişi","göl","sit alanı","korunan bölge","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226222"

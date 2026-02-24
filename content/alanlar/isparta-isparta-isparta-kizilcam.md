@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/82/Karaca%C3%B6ren_baraj%C4%B1.jpg","alt":"İsparta-İsparta-İsparta-Kizilcam manzarası","credit":"Arif miletli","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/IMG-20200617-WA0004.jpg/960px-IMG-20200617-WA0004.jpg","alt":"İsparta-İsparta-İsparta-Kizilcam","caption":"İsparta-İsparta-İsparta-Kizilcam","credit":"IMG-20200617-WA0004","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/IMG-20200617-WA0004.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/IMG-20200617-WA0004.jpg/1280px-IMG-20200617-WA0004.jpg","alt":"İsparta-İsparta-İsparta-Kizilcam - IMG-20200617-WA0004","credit":"Likeapeople","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0sparta-%C4%B0sparta-%C4%B0sparta-Kizilcam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228216","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, İsparta'nın Kizilcam milli parkını ziyaret edin."

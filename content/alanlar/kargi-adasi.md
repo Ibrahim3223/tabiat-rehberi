@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/15/Karg%C4%B1_Adas%C4%B1_-_panoramio.jpg","alt":"Kargı Adası manzarası","credit":"Tamer BÜKE","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Karg%C4%B1_Adas%C4%B1_-_panoramio.jpg/960px-Karg%C4%B1_Adas%C4%B1_-_panoramio.jpg","alt":"Kargı Adası","caption":"Kargı Adası","credit":"Kargı Adası - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Karg%C4%B1_Adas%C4%B1_Kayal%C4%B1klar_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Karg%C4%B1_Adas%C4%B1_Kayal%C4%B1klar_-_panoramio.jpg/1280px-Karg%C4%B1_Adas%C4%B1_Kayal%C4%B1klar_-_panoramio.jpg","alt":"Kargı Adası - Kargı Adası Kayalıklar - panoramio","credit":"Tamer BÜKE","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karg%C4%B1%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49645414","tip":"genel"}]
 description: "Muğla'da yer alan Kargı Adası, doğa güzelliği ve tarihi zenginlikleriyle dikkat çekiyor."

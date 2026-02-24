@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğraf çekme","kuş gözlemciliği"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Obruk Mağarası Sit Alanı","caption":"Obruk Mağarası Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Obruk%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226383","tip":"genel"}]
- Bu a harikası, zengin flora ve faunasıyla ziyaretçilerini bekliyor."
 keywords: ["Obruk Mağarası","İç Anadolu Bölgesi","doğa","flora","fauna","gezi","turizm","sit alanı"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108226383"

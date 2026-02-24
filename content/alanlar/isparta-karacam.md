@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4b/IMG-20200617-WA0004.jpg","alt":"Isparta Karacam manzarası","credit":"Likeapeople","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/IMG-20200617-WA0004.jpg/960px-IMG-20200617-WA0004.jpg","alt":"Isparta Karacam","caption":"Isparta Karacam","credit":"IMG-20200617-WA0004","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227944","tip":"genel"}]
 description: "Isparta Karacam milli parkı, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfetmek için ideal bir destinasyon."

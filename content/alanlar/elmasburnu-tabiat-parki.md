@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5e/G%C3%BCn_bat%C4%B1m%C4%B1_huzuru.jpg","alt":"Elmasburnu Tabiat Parkı manzarası","credit":"Catfishttuana","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/G%C3%BCn_bat%C4%B1m%C4%B1_huzuru.jpg/960px-G%C3%BCn_bat%C4%B1m%C4%B1_huzuru.jpg","alt":"Elmasburnu Tabiat Parkı","caption":"Elmasburnu Tabiat Parkı","credit":"Gün batımı huzuru","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Elmasburnu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Elmasburnu.jpg","alt":"Elmasburnu Tabiat Parkı - Elmasburnu","credit":"Gulsum67","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Elmasburnu2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Elmasburnu2.jpg","alt":"Elmasburnu Tabiat Parkı - Elmasburnu2","credit":"Gulsum67","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elmasburnu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30623519","tip":"genel"}]
 

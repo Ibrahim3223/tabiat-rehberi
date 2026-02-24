@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/PANO_20200614_051012.jpg","alt":"Küçük Hamurpet manzarası","credit":"Serkan sezgin","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/PANO_20200614_051012.jpg/960px-PANO_20200614_051012.jpg","alt":"Küçük Hamurpet","caption":"Küçük Hamurpet","credit":"PANO 20200614 051012","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Hamurpet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6954608","tip":"genel"}]
 description: "Türkiye'de bulunan Küçük Hamurpet golü, doğal güzellikleri ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/75/Kuzuluk_-_panoramio_%281%29.jpg","alt":"Kuzuluk manzarası","credit":"ÖmErFaRuKöNoL","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kuzuluk_-_panoramio_%281%29.jpg/960px-Kuzuluk_-_panoramio_%281%29.jpg","alt":"Kuzuluk","caption":"Kuzuluk","credit":"Kuzuluk - panoramio (1)","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/92/Kuzuluk_-_panoramio_%282%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/9/92/Kuzuluk_-_panoramio_%282%29.jpg","alt":"Kuzuluk - Kuzuluk - panoramio (2)","credit":"ÖmErFaRuKöNoL","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/0/07/KUZULUK_G%C3%96L_PARK.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/KUZULUK_G%C3%96L_PARK.jpg/1259px-KUZULUK_G%C3%96L_PARK.jpg","alt":"Kuzuluk - KUZULUK GÖL PARK","credit":"Halit sarah","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzuluk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228361","tip":"genel"}]
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekoloji","flora","fauna","yaban hayatı"]

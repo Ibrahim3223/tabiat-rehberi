@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7d/20180618_124945v2.jpg","alt":"Kastamonu-Azdavay Kartdagi manzarası","credit":"Onderdevrim","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/20180618_124945v2.jpg/960px-20180618_124945v2.jpg","alt":"Kastamonu-Azdavay Kartdagi","caption":"Kastamonu-Azdavay Kartdagi","credit":"20180618 124945v2","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Azdavay%20Kartdagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227079","tip":"genel"}]
 

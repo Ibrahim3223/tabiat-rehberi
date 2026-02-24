@@ -21,7 +21,6 @@ aktiviteler: ["tarihi yapı gezmek","doğa yürüyüşü","fotografcılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kabak_Valley%2C_Turkey.JPG/960px-Kabak_Valley%2C_Turkey.JPG","alt":"Tabae Roma Hamamı","caption":"Tabae Roma Hamamı","credit":"Kabak Valley, Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tabae%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739091","tip":"genel"}]
- Roma döneminden kalan bu tarihi yapı, Ege Bölgesi'nin önemli turistik merkezlerinden biri."
 keywords: ["Roma Hamamı","Kale","Denizli","Ege Bölgesi","tarihi yapı","turistik merkez","Roma dönemi","antik kent"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q131739091"

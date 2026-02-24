@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Isparta-Sutculer-Sogutdagi Kızılçam","caption":"Isparta-Sutculer-Sogutdagi Kızılçam","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Sutculer-Sogutdagi%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227422","tip":"genel"}]
- Doğal güzellikleri ve zengin ekosistemiyle ziyaretçilerini çekiyor."
 keywords: ["Isparta","Sutculer","Söğüt Dağı","Kızılçam","Milli Park","doğa","ekosistem","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227422"

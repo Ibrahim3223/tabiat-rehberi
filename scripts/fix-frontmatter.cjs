@@ -1,45 +1,54 @@
 'use strict';
+/**
+ * fix-frontmatter.cjs (v2)
+ * Frontmatter'da regex bozulmasından kalan geçersiz satırları temizle:
+ *   1) Sadece tek tırnak işareti olan satırlar: `"` veya `'`
+ *   2) YAML anahtarı olmayan ama içeriği kalmış satırlar
+ *      (ör: ` Cadde, birçok... tanınır."`)
+ */
 const fs = require('fs');
 const CONTENT_DIR = 'content/alanlar';
 
+// Valid YAML frontmatter line patterns
+const VALID = [
+  /^---$/,                                                    // delimiter
+  /^\s*$/,                                                    // empty
+  /^[a-zA-Z_çğışöüÇĞİŞÖÜ][^:\n]*\s*:/,                    // top-level key: value
+  /^\s+[-[{]/,                                               // indented: list item or array/object
+  /^\s+[a-zA-Z_çğışöüÇĞİŞÖÜ0-9][^:\n]*\s*:/,              // indented key: value (nested)
+  /^\s+"[^"]*":\s*/,                                         // indented "quoted-key":
+];
+
+function isValidFMLine(line) {
+  return VALID.some(re => re.test(line));
+}
+
 const files = fs.readdirSync(CONTENT_DIR).filter(f => f.endsWith('.md'));
 let fixed = 0;
-const broken = [];
+let totalRemoved = 0;
 
 for (const f of files) {
   const fp = CONTENT_DIR + '/' + f;
   const text = fs.readFileSync(fp, 'utf8');
 
-  // Find frontmatter block
   const fmMatch = text.match(/^---\n([\s\S]*?)\n---/);
   if (!fmMatch) continue;
 
-  const fm = fmMatch[1];
-  // Check for lines that are just a quote char (stray " or ')
-  if (!/^\"\s*$/m.test(fm) && !/^'\s*$/m.test(fm)) continue;
+  const fmLines = fmMatch[1].split('\n');
+  const cleanLines = fmLines.filter(line => {
+    if (isValidFMLine(line)) return true;
+    // Remove invalid lines (corrupted fragments)
+    totalRemoved++;
+    return false;
+  });
 
-  broken.push(f);
+  if (cleanLines.length === fmLines.length) continue;
 
-  // Fix: remove lines in frontmatter that are just a stray quote
-  const fixedText = text.replace(
-    /^---\n([\s\S]*?)\n---/,
-    (match, fmContent) => {
-      const cleaned = fmContent
-        .split('\n')
-        .filter(line => !/^\s*["']\s*$/.test(line))
-        .join('\n');
-      return '---\n' + cleaned + '\n---';
-    }
-  );
-
-  if (fixedText !== text) {
-    fs.writeFileSync(fp, fixedText, 'utf8');
-    fixed++;
-  }
+  const newFM = '---\n' + cleanLines.join('\n') + '\n---';
+  const newText = text.replace(/^---\n[\s\S]*?\n---/, newFM);
+  fs.writeFileSync(fp, newText, 'utf8');
+  fixed++;
 }
 
-console.log('Bozuk frontmatter:', broken.length);
-console.log('Düzeltilen:', fixed);
-if (broken.length > 0 && broken.length <= 20) {
-  broken.forEach(f => console.log(' ', f));
-}
+console.log('Düzeltilen dosya   :', fixed);
+console.log('Kaldırılan satır   :', totalRemoved);

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/20/MistyMorning.jpg","alt":"Kavaklımeşe Korusu manzarası","credit":"Sosun39","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MistyMorning.jpg/960px-MistyMorning.jpg","alt":"Kavaklımeşe Korusu","caption":"Kavaklımeşe Korusu","credit":"MistyMorning","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavakl%C4%B1me%C5%9Fe%20Korusu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228180","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşilli ve doğa alanlarından biri olan Kavaklımeşe Korusu, ziyaretçilerine doğayla iç içe bir deneyim sunuyor."

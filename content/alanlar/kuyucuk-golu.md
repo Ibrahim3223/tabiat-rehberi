@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Lacerta%20agilis%201%20%28Marek%20Szczepanek%29.jpg","alt":"Kuyucuk Gölü manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/39/Lacerta_agilis_1_%28Marek_Szczepanek%29.jpg","alt":"Kuyucuk Gölü","caption":"Kuyucuk Gölü","credit":"Lacerta agilis 1 (Marek Szczepanek)","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyucuk%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q17515431","tip":"genel"}]
 description: "Kars'ın Arpaçay ilçesinde bulunan Kuyucuk Gölü, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"

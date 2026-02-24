@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["Doğa yürüyüşleri","Trekking","Kampçılık","Photo safari"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c4/B%C3%BCy%C3%BCkesence_Camii.jpg","alt":"Erenler Çamı manzarası","credit":"Acar54","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/B%C3%BCy%C3%BCkesence_Camii.jpg/960px-B%C3%BCy%C3%BCkesence_Camii.jpg","alt":"Erenler Çamı","caption":"Erenler Çamı","credit":"Büyükesence Camii","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erenler%20%C3%87am%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227150","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Erenler Çamı Milli Parkı"

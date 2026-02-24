@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşleri","Kuş Gözlemi","Fotoğrafçılık","Bisiklet Turu","Vahşi Yaşam Gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/91/Karacabey_Longozu_-_Bahar.jpg","alt":"Karacabey Longoz Ormanları manzarası","credit":"Alpertuydes","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Karacabey_Longozu_-_Bahar.jpg/960px-Karacabey_Longozu_-_Bahar.jpg","alt":"Karacabey Longoz Ormanları","caption":"Karacabey Longoz Ormanları","credit":"Karacabey Longozu - Bahar","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karacabey%20Longoz%20Ormanlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q105838485","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğal güzelliklerinden Karacabey Longoz Ormanları, 1400 hektarlık alanı ile ziyaretçilerini bekliyor."

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["anıtın gezilmesi","flora ve fauna çeşitliliğinin incelenmesi","coğrafi konumun incelenmesi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Kirklareli%20K%C4%B1rk%C5%9Fehitler%20An%C4%B1t%C4%B1%200032.jpg","alt":"Kırk Şehitler Anıtı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/G%C3%B6rne%C3%A7_%C3%9C%C3%A7_%C5%9Eehitler_An%C4%B1t%C4%B1.jpg/960px-G%C3%B6rne%C3%A7_%C3%9C%C3%A7_%C5%9Eehitler_An%C4%B1t%C4%B1.jpg","alt":"Kırk Şehitler Anıtı","caption":"Kırk Şehitler Anıtı","credit":"Görneç Üç Şehitler Anıtı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/G%C3%B6rne%C3%A7_%C3%9C%C3%A7_%C5%9Eehitler_An%C4%B1t%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/G%C3%B6rne%C3%A7_%C3%9C%C3%A7_%C5%9Eehitler_An%C4%B1t%C4%B1.jpg/1280px-G%C3%B6rne%C3%A7_%C3%9C%C3%A7_%C5%9Eehitler_An%C4%B1t%C4%B1.jpg","alt":"Kırk Şehitler Anıtı - Görneç Üç Şehitler Anıtı","credit":"Seksen iki yüz kırk beş","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rk%20%C5%9Eehitler%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134726993","tip":"genel"}]
 description: "Kırklareli'nin tarihi ve doğal güzelliklerinin birleştiği bir nokta"

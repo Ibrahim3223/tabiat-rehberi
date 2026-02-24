@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/40/G%C3%BCnd%C3%BCzbey_Kasabas%C4%B1.jpg","alt":"Gunduzbey manzarası","credit":"UnaL1903","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/G%C3%BCnd%C3%BCzbey_Kasabas%C4%B1.jpg/960px-G%C3%BCnd%C3%BCzbey_Kasabas%C4%B1.jpg","alt":"Gunduzbey","caption":"Gunduzbey","credit":"Gündüzbey Kasabası","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gunduzbey","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228419","tip":"genel"}]
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna"]

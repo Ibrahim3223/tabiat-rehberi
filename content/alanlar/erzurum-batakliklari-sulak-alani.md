@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","gözleme faaliyetleri","fotografçılık"
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Erzurum Bataklıkları Sulak Alanı","caption":"Erzurum Bataklıkları Sulak Alanı","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum%20Batakl%C4%B1klar%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229022","tip":"genel"}]
- Burada çeşitli bitki türleri ve zengin fauna bulunmakta."
 keywords: ["Erzurum Bataklıkları Sulak Alanı","sulak alan","doğal güzellik","bitki türleri","fauna","doğa","çevre"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108229022"

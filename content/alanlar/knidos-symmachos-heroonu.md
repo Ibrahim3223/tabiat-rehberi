@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Knidos%20Symmachos%20Heroonu.jpg","alt":"Knidos Symmachos Heroonu manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Knidos_Symmachos_Heroonu.jpg/960px-Knidos_Symmachos_Heroonu.jpg","alt":"Knidos Symmachos Heroonu","caption":"Knidos Symmachos Heroonu","credit":"Knidos Symmachos Heroonu","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Knidos_Symmachos_Heroonu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Knidos_Symmachos_Heroonu.jpg/1280px-Knidos_Symmachos_Heroonu.jpg","alt":"Knidos Symmachos Heroonu - Knidos Symmachos Heroonu","credit":"Aerdemsenturk","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Knidos%20Symmachos%20Heroonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728167","tip":"genel"}]
 description: "Datça'da bulunan Knidos Symmachos Heroonu, tarihi ve doğal güzellikleri ile ziyaretçilerini büyülüyor."

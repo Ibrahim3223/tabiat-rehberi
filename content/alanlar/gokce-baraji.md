@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","trekking","doğa fotoğrafçılığı","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3f/G%C3%BCndo%C4%9Fmundan_az_%C3%B6nce_G%C3%B6k%C3%A7e_Baraj_G%C3%B6l%C3%BC_genel_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC_i%C3%A7inde_Harmankaya_Tabiat_Park%C4%B1.jpg","alt":"Gokce Baraji manzarası","credit":"Beytullahaydin","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/G%C3%BCndo%C4%9Fmundan_az_%C3%B6nce_G%C3%B6k%C3%A7e_Baraj_G%C3%B6l%C3%BC_genel_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC_i%C3%A7inde_Harmankaya_Tabiat_Park%C4%B1.jpg/960px-G%C3%BCndo%C4%9Fmundan_az_%C3%B6nce_G%C3%B6k%C3%A7e_Baraj_G%C3%B6l%C3%BC_genel_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC_i%C3%A7inde_Harmankaya_Tabiat_Park%C4%B1.jpg","alt":"Gokce Baraji","caption":"Gokce Baraji","credit":"Gündoğmundan az önce Gökçe Baraj Gölü genel görünüşü içinde Harmankaya Tabiat Parkı","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%B6k%C3%A7e_baraj%C4%B1_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%B6k%C3%A7e_baraj%C4%B1_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/1280px-G%C3%B6k%C3%A7e_baraj%C4%B1_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Gokce Baraji - Gökçe barajı ^©Abdullah Kiyga - panoramio","credit":"Abdullah kıyga","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gokce%20Baraji","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227810","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Gokce Baraji"

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/71/DSCF9888ed_quercus_vulcanica.jpg","alt":"Kasnak Mesesi manzarası","credit":"Bournabat","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DSCF9888ed_quercus_vulcanica.jpg/960px-DSCF9888ed_quercus_vulcanica.jpg","alt":"Kasnak Mesesi","caption":"Kasnak Mesesi","credit":"DSCF9888ed quercus vulcanica","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kasnak%20Mesesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227062","tip":"genel"}]
 

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","doğa fotoğrafçılığı","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/87/Kepez_Sa%C3%A7l%C4%B1_Me%C5%9Fesi.jpg","alt":"Kepez Sacli Mesesi manzarası","credit":"Kursat26","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kepez_Sa%C3%A7l%C4%B1_Me%C5%9Fesi.jpg/960px-Kepez_Sa%C3%A7l%C4%B1_Me%C5%9Fesi.jpg","alt":"Kepez Sacli Mesesi","caption":"Kepez Sacli Mesesi","credit":"Kepez Saçlı Meşesi","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kepez%20Sacli%20Mesesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228070","tip":"genel"}]
 keywords: ["Kepez Sacli Mesesi","İç Anadolu Bölgesi","milli park","doğa","gezi","turizm"]

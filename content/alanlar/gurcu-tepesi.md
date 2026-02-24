@@ -20,7 +20,6 @@ aktiviteler: ["trekking","kamp","doğa yürüyüşü","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Gürcü Tepesi","caption":"Gürcü Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139565","tip":"genel"}]
- Tarihi geçmişi ve doğal güzelliği ile dikkat çekmektedir."
 keywords: ["Gürcü Tepesi","Tokat","Karadeniz Bölgesi","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q32139565"

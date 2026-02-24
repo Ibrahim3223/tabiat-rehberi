@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gorge%281%29.jpg/960px-Gorge%281%29.jpg","alt":"Hınıs Ovası","caption":"Hınıs Ovası","credit":"Gorge(1)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kocasucreek6.svg/960px-Kocasucreek6.svg.png","alt":"Hınıs Ovası","caption":"Hınıs Ovası","credit":"Kocasucreek6","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1n%C4%B1s%20Ovas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q16383665","tip":"genel"}]
 description: "Erzurum'un Karaçoban ilçesinde bulunan Hınıs Ovası, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir kanyon"
 keywords: ["Hınıs Ovası","Erzurum","Karaçoban","kanyon","doğa turizmi","yeşil alan","gezi noktaları","turistik yerler","Erzurum gezilecek yerler"]

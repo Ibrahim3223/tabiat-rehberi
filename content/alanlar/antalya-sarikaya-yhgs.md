@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","doğa yürüyüşü","flora ve fauna gözlemi","fot
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nature_photo_of_trabzon.jpg/960px-Nature_photo_of_trabzon.jpg","alt":"Antalya Sarıkaya YHGS","caption":"Antalya Sarıkaya YHGS","credit":"Nature photo of trabzon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya%20Sar%C4%B1kaya%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228039","tip":"genel"}]
- Doğal güzellikleri ve zengin fauna çeşitliliğiyle ziyaretçilerini bekliyor."
 keywords: ["Antalya Sarıkaya YHGS","İç Anadolu Bölgesi","doğal güzellikler","zengin fauna","yeşil alan","yaban hayatı","doğa","gezi","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228039"

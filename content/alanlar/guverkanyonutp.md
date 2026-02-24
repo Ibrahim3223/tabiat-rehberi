@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa Yürüyüşü","Kaya Tırmanışı","Fotoğrafçılık","Doğa Gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f3/G%C3%9CVER_U%C3%87URUMU_ANTALYA-20200812_095100.jpg","alt":"GÜVER_KANYONU_TP manzarası","credit":"BİSİKLETÇİ1234","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/G%C3%9CVER_U%C3%87URUMU_ANTALYA-20200812_095100.jpg/960px-G%C3%9CVER_U%C3%87URUMU_ANTALYA-20200812_095100.jpg","alt":"GÜVER_KANYONU_TP","caption":"GÜVER_KANYONU_TP","credit":"GÜVER UÇURUMU ANTALYA-20200812 095100","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Lovely_day_in_G%C3%BCver.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lovely_day_in_G%C3%BCver.jpg/1280px-Lovely_day_in_G%C3%BCver.jpg","alt":"GÜVER_KANYONU_TP - Lovely day in Güver","credit":"Coachkayee","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%9CVER_KANYONU_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229000","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."

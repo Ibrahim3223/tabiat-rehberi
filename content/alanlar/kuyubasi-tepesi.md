@@ -20,7 +20,6 @@ aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","kuş gözlemc
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg/960px-Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg","alt":"Kuyubaşı Tepesi","caption":"Kuyubaşı Tepesi","credit":"Ida Husted Harper photograph by Aime Dupont","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyuba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558483","tip":"genel"}]
- Bu tepe, doğa severlerin ilgisini çeken bir destinasyon olarak bilinir."
 keywords: ["Kuyubaşı Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","ekoloji"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31558483"

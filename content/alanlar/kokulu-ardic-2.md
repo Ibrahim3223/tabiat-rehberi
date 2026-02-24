@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","gözlem"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/75/Kokulu_ard%C4%B1%C3%A7_2.jpg","alt":"Kokulu Ardic 2 manzarası","credit":"Kursat26","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kokulu_ard%C4%B1%C3%A7_2.jpg/960px-Kokulu_ard%C4%B1%C3%A7_2.jpg","alt":"Kokulu Ardic 2","caption":"Kokulu Ardic 2","credit":"Kokulu ardıç 2","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kokulu%20Ardic%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228066","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliğini keşfedin"

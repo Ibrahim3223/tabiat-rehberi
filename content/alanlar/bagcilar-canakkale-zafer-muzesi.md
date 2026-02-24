@@ -21,7 +21,6 @@ aktiviteler: ["müze gezisi","tarih anlatımı","doğa yürüyüşü"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lake_S%C3%BCnnet_in_the_fall_01.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_01.jpg","alt":"Bağcılar Çanakkale Zafer Müzesi","caption":"Bağcılar Çanakkale Zafer Müzesi","credit":"Lake Sünnet in the fall 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C4%9Fc%C4%B1lar%20%C3%87anakkale%20Zafer%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949619","tip":"genel"}]
- Müze, Çanakkale Savaşı'nın tarihini ve önemini anlatmaktadır."
 keywords: ["Çanakkale Zafer Müzesi","Bağcılar","İstanbul","Marmara Bölgesi","tarih","müze","savaş","anlatım"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q132949619"

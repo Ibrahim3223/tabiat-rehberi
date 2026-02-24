@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/78/Alperen_Aykurt.jpg","alt":"Erciyes Kayak Merkezi manzarası","credit":"Jacksonville90","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/KAYAK_ERC%C4%B0YES_.jpg/960px-KAYAK_ERC%C4%B0YES_.jpg","alt":"Erciyes Kayak Merkezi","caption":"Erciyes Kayak Merkezi","credit":"KAYAK ERCİYES ","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5a/KAYAK_ERC%C4%B0YES_.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/KAYAK_ERC%C4%B0YES_.jpg/1280px-KAYAK_ERC%C4%B0YES_.jpg","alt":"Erciyes Kayak Merkezi - KAYAK ERCİYES ","credit":"Hmyr2021","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erciyes%20Kayak%20Merkezi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q5385213","tip":"genel"}]
 description: "Kayseri'de bulunan Erciyes Kayak Merkezi, 1500-3410 metre yükseklikte kayak keyfi sunar."

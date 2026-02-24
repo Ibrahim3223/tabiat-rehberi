@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/13/K%C3%BC%C3%A7%C3%BCkAkg%C3%B6l.jpg","alt":"Küçük Akgöl manzarası","credit":"Acar54","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/K%C3%BC%C3%A7%C3%BCkAkg%C3%B6l.jpg/960px-K%C3%BC%C3%A7%C3%BCkAkg%C3%B6l.jpg","alt":"Küçük Akgöl","caption":"Küçük Akgöl","credit":"KüçükAkgöl","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Akg%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q19611798","tip":"genel"}]
 description: "Türkiye'de bulunan Küçük Akgöl, doğal güzellikleri ile dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Loeffler.jpg","alt":"Karamık Gölü manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Karamuk_%282%29.jpg/960px-Karamuk_%282%29.jpg","alt":"Karamık Gölü","caption":"Karamık Gölü","credit":"Karamuk (2)","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/50/Loeffler.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Loeffler.jpg/1280px-Loeffler.jpg","alt":"Karamık Gölü - Loeffler","credit":"Creando","license":"cc-by-sa-3.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/6/69/Karamuk_%282%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Karamuk_%282%29.jpg/1280px-Karamuk_%282%29.jpg","alt":"Karamık Gölü - Karamuk (2)","credit":"Cetintas555","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karam%C4%B1k%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6094921","tip":"genel"}]
 description: "Afyonkarahisar'da bulunan Karamık Gölü, doğal güzelliği ile dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

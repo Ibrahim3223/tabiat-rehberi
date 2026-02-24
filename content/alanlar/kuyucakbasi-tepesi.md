@@ -20,7 +20,6 @@ aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi","bitki ve
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Kuyucakbaşı Tepesi","caption":"Kuyucakbaşı Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyucakba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385556","tip":"genel"}]
- Bu tepe, ziyaretçilerini doğal güzelliği ve tarihi zenginliğiyle karşılar."
 keywords: ["Kuyucakbaşı Tepesi","Malatya","Doğu Anadolu Bölgesi","doğal güzellik","tarihi zenginlik","tepe","gezi","turizm","Malatya gezilecek yerler","Doğu Anadolu Bölgesi turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31385556"

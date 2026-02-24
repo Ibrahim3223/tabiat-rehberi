@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet sürme","doğa gözlemciliği","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/1b/DSC_0763-01.jpg","alt":"Kadıpınarı manzarası","credit":"Ahmetyoldas18","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DSC_0763-01.jpg/960px-DSC_0763-01.jpg","alt":"Kadıpınarı","caption":"Kadıpınarı","credit":"DSC 0763-01","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kad%C4%B1p%C4%B1nar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228193","tip":"genel"}]
 

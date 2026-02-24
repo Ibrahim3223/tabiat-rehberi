@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Deniz_kaplumba%C4%9Fas%C4%B1_yuvas%C4%B1.JPG","alt":"Gümüşkum Tabiat Parkı manzarası","credit":"Cobija","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Deniz_kaplumba%C4%9Fas%C4%B1_yuvas%C4%B1.JPG/960px-Deniz_kaplumba%C4%9Fas%C4%B1_yuvas%C4%B1.JPG","alt":"Gümüşkum Tabiat Parkı","caption":"Gümüşkum Tabiat Parkı","credit":"Deniz kaplumbağası yuvası","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%BCm%C3%BC%C5%9Fkum.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%BCm%C3%BC%C5%9Fkum.jpg/1220px-G%C3%BCm%C3%BC%C5%9Fkum.jpg","alt":"Gümüşkum Tabiat Parkı - Gümüşkum","credit":"Özdenozdemir","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fkum%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q107354811","tip":"genel"}]
 

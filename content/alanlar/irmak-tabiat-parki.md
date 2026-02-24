@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet sürme","piknik","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c8/E%C5%9Fsiz_do%C4%9Fas%C4%B1_ve_renkleriyle_be%C5%9Fkonak_k%C3%B6pr%C3%BCl%C3%BC_kanyon.jpg","alt":"Irmak Tabiat Parkı manzarası","credit":"Gülsüm şen","license":"cc-by-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/E%C5%9Fsiz_do%C4%9Fas%C4%B1_ve_renkleriyle_be%C5%9Fkonak_k%C3%B6pr%C3%BCl%C3%BC_kanyon.jpg/960px-E%C5%9Fsiz_do%C4%9Fas%C4%B1_ve_renkleriyle_be%C5%9Fkonak_k%C3%B6pr%C3%BCl%C3%BC_kanyon.jpg","alt":"Irmak Tabiat Parkı","caption":"Irmak Tabiat Parkı","credit":"Eşsiz doğası ve renkleriyle beşkonak köprülü kanyon","license":"CC BY 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Irmak%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30623345","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"

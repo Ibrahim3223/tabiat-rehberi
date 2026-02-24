@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-4 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/12/Dk_397.jpg","alt":"Güvercin Adası (Balıkesir) manzarası","credit":"Derya Kotan","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/G%C3%BCvercin_Adas%C4%B1_-_panoramio.jpg/960px-G%C3%BCvercin_Adas%C4%B1_-_panoramio.jpg","alt":"Güvercin Adası","caption":"Güvercin Adası","credit":"Güvercin Adası - panoramio","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCvercin%20Adas%C4%B1%20(Bal%C4%B1kesir)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49640087","tip":"genel"}]
 description: "Balıkesir'de bulunan Güvercin Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."

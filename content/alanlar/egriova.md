@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","doğa izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/50/E%C4%9Friova_Tabiat_Park%C4%B1nda_bir_salyangoz.jpg","alt":"Egriova manzarası","credit":"Assyrtiko","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/E%C4%9Friova_Tabiat_Park%C4%B1nda_bir_salyangoz.jpg/960px-E%C4%9Friova_Tabiat_Park%C4%B1nda_bir_salyangoz.jpg","alt":"Egriova","caption":"Egriova","credit":"Eğriova Tabiat Parkında bir salyangoz","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/be/Aphids_on_a_Rosebud.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aphids_on_a_Rosebud.jpg/1280px-Aphids_on_a_Rosebud.jpg","alt":"Egriova - Aphids on a Rosebud","credit":"merve.obekci","license":"cc-by-sa-2.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Egriova","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228212","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Egriova milli parkı"

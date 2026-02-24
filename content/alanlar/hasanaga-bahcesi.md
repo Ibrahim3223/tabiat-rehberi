@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/09/Hasana%C4%9Fa_bah%C3%A7esi.jpg","alt":"Hasanağa Bahçesi manzarası","credit":"UgurGumushan","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hasana%C4%9Fa_bah%C3%A7esi.jpg/960px-Hasana%C4%9Fa_bah%C3%A7esi.jpg","alt":"Hasanağa Bahçesi","caption":"Hasanağa Bahçesi","credit":"Hasanağa bahçesi","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/85/Hasana%C4%9Fa_Bah%C3%A7esi_station_1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hasana%C4%9Fa_Bah%C3%A7esi_station_1.jpg/1280px-Hasana%C4%9Fa_Bah%C3%A7esi_station_1.jpg","alt":"Hasanağa Bahçesi - Hasanağa Bahçesi station 1","credit":"Alikam1896","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasana%C4%9Fa%20Bah%C3%A7esi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6028430","tip":"genel"}]
 description: "İzmir Buca'da 1200 hektarlık yeşil alan, botanik çeşitlili ve doğal güzellik sunan bir botanik bahçesi."

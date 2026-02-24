@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Trekking","Kamp","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Common_chameleon.jpg/960px-Common_chameleon.jpg","alt":"Geben Vadisi Millî Parkı","caption":"Geben Vadisi Millî Parkı","credit":"Common chameleon.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Halkal%C4%B1_Yaylas%C4%B1.jpg","alt":"Geben Vadisi Millî Parkı","caption":"Geben Vadisi Millî Parkı","credit":"Halkalı Yaylası","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geben%20Vadisi%20Mill%C3%AE%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q12809858","tip":"genel"}]
 description: "Kahramanmaraş'ın Andırın ilçesinde bulunan Geben Vadisi Millî Parkı, 1955 yılında millî park olarak ilan edilmiş ve 6.375 hektarlık alanı kapsıyor."
 keywords: ["Geben Vadisi","Millî Park","Kahramanmaraş","Andırın","Doğa","Turizm","Ekoloji","Vadi"]

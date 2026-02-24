@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/09/Erzincan_Ovas%C4%B1_17_06_88_Munzur_Da%C4%9Flar%C4%B1_1.jpg","alt":"Erzincan Ovası manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Erzincan_Ovas%C4%B1_17_06_88_Munzur_Da%C4%9Flar%C4%B1_1.jpg/960px-Erzincan_Ovas%C4%B1_17_06_88_Munzur_Da%C4%9Flar%C4%B1_1.jpg","alt":"Erzincan Ovası","caption":"Erzincan Ovası","credit":"Erzincan Ovası 17 06 88 Munzur Dağları 1","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Erzincan_Ovas%C4%B1_18_06_1988_bei_Alt%C4%B1ntepe.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Erzincan_Ovas%C4%B1_18_06_1988_bei_Alt%C4%B1ntepe.jpg/1280px-Erzincan_Ovas%C4%B1_18_06_1988_bei_Alt%C4%B1ntepe.jpg","alt":"Erzincan Ovası - Erzincan Ovası 18 06 1988 bei Altıntepe","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzincan%20Ovas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6053222","tip":"genel"}]
 description: "Erzincan'ın doğal güzelliklerini keşfedin, 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"

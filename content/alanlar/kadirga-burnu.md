@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/45/Kad%C4%B1rga_Burnu%2C_Marmaris_-_panoramio.jpg","alt":"Kadırga Burnu manzarası","credit":"Николай Максимович","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kad%C4%B1rga_Burnu%2C_Marmaris_-_panoramio.jpg/960px-Kad%C4%B1rga_Burnu%2C_Marmaris_-_panoramio.jpg","alt":"Kadırga Burnu","caption":"Kadırga Burnu","credit":"Kadırga Burnu, Marmaris - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kad%C4%B1rga%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34953053","tip":"genel"}]
 description: "Muğla'da bulunan Kadırga Burnu, 1200 hektarlık bir kuş cenneti olarak dikkat çekiyor. Doğal güzelliği ve zengin wildlife'ı ile ziyaretçilerini bekliyor."

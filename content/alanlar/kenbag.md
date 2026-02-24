@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşü","Yaban hayatı gözlemi","Fotoğrafçılık","Çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/02/Kenbag_nature_park.jpg","alt":"Kenbag manzarası","credit":"Ugur E. Yidirim","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kenbag_nature_park.jpg/960px-Kenbag_nature_park.jpg","alt":"Kenbag","caption":"Kenbag","credit":"Kenbag nature park","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kenbag","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228178","tip":"genel"}]
 

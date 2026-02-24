@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%B6yn%C3%BCk%20Lake%20view.jpg","alt":"Göynük Kapıormanı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/G%C3%B6yn%C3%BCk_Lake_view.jpg/960px-G%C3%B6yn%C3%BCk_Lake_view.jpg","alt":"Göynük Kapıormanı","caption":"Göynük Kapıormanı","credit":"Göynük Lake view","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/cb/G%C3%B6yn%C3%BCk_Lake_view.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/G%C3%B6yn%C3%BCk_Lake_view.jpg/1280px-G%C3%B6yn%C3%BCk_Lake_view.jpg","alt":"Göynük Kapıormanı - Göynük Lake view","credit":"MEYSK","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6yn%C3%BCk%20Kap%C4%B1orman%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q112657181","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"

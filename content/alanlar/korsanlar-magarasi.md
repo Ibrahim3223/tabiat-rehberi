@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/98/Pirate_cave.jpg","alt":"Korsanlar Mağarası manzarası","credit":"Squnxik","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pirate_cave.jpg/960px-Pirate_cave.jpg","alt":"Korsanlar Mağarası","caption":"Korsanlar Mağarası","credit":"Pirate cave","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Korsanlar%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6608996","tip":"genel"}]
 description: "Antalya'da yer alan Korsanlar Mağarası, doğal güzelliği ile dikkat çeker. 1200 hektarlık yeşil alan içinde bulunan mağara, ziyaretçilerini bekliyor."

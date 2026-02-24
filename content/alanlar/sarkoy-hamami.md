@@ -22,7 +22,6 @@ images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d8/20240825_G%C3%BCzelk%C3%B6y_Konak_Hamam%C4%B1.jpg","alt":"Şarköy Hamamı manzarası","credit":"Basak","license":"cc0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eark%C3%B6y%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245782","tip":"genel"}]
- Şarköy ilçe merkezine yakın bir konumdadır."
 keywords: ["Şarköy","Marmara Bölgesi","plaj","deniz","kum","turizm"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q133245782"

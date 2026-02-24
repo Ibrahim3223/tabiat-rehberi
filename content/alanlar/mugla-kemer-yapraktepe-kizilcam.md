@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğra
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg/960px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","alt":"Mugla-Kemer-Yapraktepe Kızılçam","caption":"Mugla-Kemer-Yapraktepe Kızılçam","credit":"Bafa Gölü Tabiat Parkı (bilgekorkmaz)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Kemer-Yapraktepe%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227667","tip":"genel"}]
- Doğal güzellikleri, zengin florası ve faunasıyla dikkat çekiyor."
 keywords: ["Mugla","Kemer","Yapraktepe","Kızılçam","milli park","doğa","flora","fauna"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227667"

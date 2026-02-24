@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Kayadibi%27nden%20Homeros%20Vadisi%20ve%20%C4%B0zmir%20Manzaras%C4%B1%20-%20panoramio.jpg","alt":"Homeros Vadisi manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kayadibi%27nden_Homeros_Vadisi_ve_%C4%B0zmir_Manzaras%C4%B1_-_panoramio.jpg/960px-Kayadibi%27nden_Homeros_Vadisi_ve_%C4%B0zmir_Manzaras%C4%B1_-_panoramio.jpg","alt":"Homeros Vadisi","caption":"Homeros Vadisi","credit":"Kayadibi'nden Homeros Vadisi ve İzmir Manzarası - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Kayadibi%27nden_Homeros_Vadisi_ve_%C4%B0zmir_Manzaras%C4%B1_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Kayadibi%27nden_Homeros_Vadisi_ve_%C4%B0zmir_Manzaras%C4%B1_-_panoramio.jpg","alt":"Homeros Vadisi - Kayadibi'nden Homeros Vadisi ve İzmir Manzarası - panoramio","credit":"Zipirkinci","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Homeros%20Vadisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31190761","tip":"genel"}]
 description: "İzmir'in yeşil cenneti, 1200 hektarlık botanik bahçesi"

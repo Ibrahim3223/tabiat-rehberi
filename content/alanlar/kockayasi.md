@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğrafçılık","Doğa"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Ko%C3%A7kayas%C4%B1_Nature_Park.jpg","alt":"Koçkayası manzarası","credit":"Metehanwow","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-1.jpg/960px-Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-1.jpg","alt":"Koçkayası","caption":"Koçkayası","credit":"Koçkayası Yaylası, Giresun 01-1","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a7/Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-2.jpg/1280px-Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-2.jpg","alt":"Koçkayası - Koçkayası Yaylası, Giresun 01-2","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/3/30/Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-1.jpg/1280px-Ko%C3%A7kayas%C4%B1_Yaylas%C4%B1%2C_Giresun_01-1.jpg","alt":"Koçkayası - Koçkayası Yaylası, Giresun 01-1","credit":"Zeynel Cebeci","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7kayas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228176","tip":"genel"}]
 

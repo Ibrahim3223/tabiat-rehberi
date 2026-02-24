@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/20/Baraj_G%C3%B6l%C3%BC..._-_panoramio.jpg","alt":"Kestel Gölü manzarası","credit":"Sinan Şahin","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Baraj_G%C3%B6l%C3%BC..._-_panoramio.jpg/960px-Baraj_G%C3%B6l%C3%BC..._-_panoramio.jpg","alt":"Kestel Gölü","caption":"Kestel Gölü","credit":"Baraj Gölü... - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kestel%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6008681","tip":"genel"}]
 description: "Türkiye'de bulunan Kestel Gölü, doğal güzelliği ve zengin ekosistemiyle dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

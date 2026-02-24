@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Karak%C4%B1z.jpg","alt":"Karakız Göleti manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Karak%C4%B1z.jpg","alt":"Karakız Göleti","caption":"Karakız Göleti","credit":"Karakız","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Karak%C4%B1z.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Karak%C4%B1z.jpg","alt":"Karakız Göleti - Karakız","credit":"Nedim Ardoğa (talk)","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karak%C4%B1z%20G%C3%B6leti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q12716020","tip":"genel"}]
 description: "Mersin'de bulunan Karakız Göleti, doğa severler için bir cennet. 1200 hektarlık yeşil alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

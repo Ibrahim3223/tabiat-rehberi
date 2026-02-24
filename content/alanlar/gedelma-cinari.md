@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","yaban hayatı gözlemi","doğal güzellikleri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c3/GEDELMA_%C3%87INARI.jpg","alt":"Gedelma Cinari manzarası","credit":"Gokhan aktas 07","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/GEDELMA_%C3%87INARI.jpg/960px-GEDELMA_%C3%87INARI.jpg","alt":"Gedelma Cinari","caption":"Gedelma Cinari","credit":"GEDELMA ÇINARI","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Gedelma_%C3%87%C4%B1nar%C4%B1_Monumental_Tree.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gedelma_%C3%87%C4%B1nar%C4%B1_Monumental_Tree.jpg/1280px-Gedelma_%C3%87%C4%B1nar%C4%B1_Monumental_Tree.jpg","alt":"Gedelma Cinari - Gedelma Çınarı Monumental Tree","credit":"Gokhan aktas 07","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gedelma%20Cinari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228068","tip":"genel"}]
 keywords: ["İç Anadolu Bölgesi","doğa güzellikleri","milli park","gezi","yaban hayatı","ekoloji"]

@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20girdev.jpg","alt":"Girdev Gölü manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Girdev_G%C3%B6l%C3%BC_%281975%29.jpg/960px-Girdev_G%C3%B6l%C3%BC_%281975%29.jpg","alt":"Girdev Gölü","caption":"Girdev Gölü","credit":"Girdev Gölü (1975)","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Girdev_G%C3%B6l%C3%BC_%281975%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Girdev_G%C3%B6l%C3%BC_%281975%29.jpg/1280px-Girdev_G%C3%B6l%C3%BC_%281975%29.jpg","alt":"Girdev Gölü - Girdev Gölü (1975)","credit":"nurettingülay(from T…","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Girdev%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q119442870","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerinden biri olan Girdev Gölü, Muğla il merkezinde yer alıyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

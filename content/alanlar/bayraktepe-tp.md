@@ -14,7 +14,6 @@ aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"BAYRAKTEPE TP","caption":"BAYRAKTEPE TP","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BAYRAKTEPE%20TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228770","tip":"genel"}]
- Doğal güzellikleri ve zengin flora/fauna çeşitliliği ile ziyaretçilerini bekliyor."
 keywords: ["Bayraktepe TP","İç Anadolu Bölgesi","doğal güzellik","flora","fauna","yeşil alan","milli park"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228770"

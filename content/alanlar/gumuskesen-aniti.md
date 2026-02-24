@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih keşfi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/79/Smallscale_Mausolus_Mausoleum_%28Gumuskesen%29_Monument_Milas_Turkey.JPG","alt":"Gümüşkesen Anıtı manzarası","credit":"Mr. Mehmet Yasa","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Smallscale_Mausolus_Mausoleum_%28Gumuskesen%29_Monument_Milas_Turkey.JPG/960px-Smallscale_Mausolus_Mausoleum_%28Gumuskesen%29_Monument_Milas_Turkey.JPG","alt":"Gümüşkesen Anıtı","caption":"Gümüşkesen Anıtı","credit":"Smallscale Mausolus Mausoleum (Gumuskesen) Monument Milas Turkey","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fkesen%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728149","tip":"genel"}]
 description: "Muğla'nın Milas ilçesinde bulunan Gümüşkesen Anıtı, tarihi ve doğal güzellikleri bir arada sunan özel bir yer."

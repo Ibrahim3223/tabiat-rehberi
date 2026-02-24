@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kamp yapma","rehberli turlar"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Karageyikli_T%C3%BCrk_F%C4%B1nd%C4%B1%C4%9F%C4%B1_2.jpg","alt":"Karageyikli Turk Findigi manzarası","credit":"Kursat26","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Karageyikli_T%C3%BCrk_F%C4%B1nd%C4%B1%C4%9F%C4%B1_2.jpg/960px-Karageyikli_T%C3%BCrk_F%C4%B1nd%C4%B1%C4%9F%C4%B1_2.jpg","alt":"Karageyikli Turk Findigi","caption":"Karageyikli Turk Findigi","credit":"Karageyikli Türk Fındığı 2","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/85/Karageyikli_T%C3%BCrk_F%C4%B1nd%C4%B1%C4%9F%C4%B1_1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Karageyikli_T%C3%BCrk_F%C4%B1nd%C4%B1%C4%9F%C4%B1_1.jpg/1280px-Karageyikli_T%C3%BCrk_F%C4%B1nd%C4%B1%C4%9F%C4%B1_1.jpg","alt":"Karageyikli Turk Findigi - Karageyikli Türk Fındığı 1","credit":"Kursat26","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karageyikli%20Turk%20Findigi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228076","tip":"genel"}]
 

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","balık tutma","şelaleye tırmanma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/Karasu_2.jpg","alt":"Kara su şelalesi manzarası","credit":"Ozansaridogan","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/Karasu_2.jpg","alt":"Kara su şelalesi","caption":"Kara su şelalesi","credit":"Karasu 2","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20su%20%C5%9Felalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q96623212","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Kars şehrinde yer alan Kara su şelalesi, doğa severlerin ziyaret ettiği bir destinasyon"

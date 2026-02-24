@@ -14,7 +14,6 @@ aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Balikesir-Ivrindi Kızılçam","caption":"Balikesir-Ivrindi Kızılçam","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Ivrindi%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227853","tip":"genel"}]
- Zengin flora ve fauna çeşitliliğiyle dikkat çeker."
 keywords: ["Balikesir-Ivrindi Kızılçam","milli park","İç Anadolu Bölgesi","flora","fauna","doğa","çevre","korunma"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227853"

@@ -20,7 +20,6 @@ aktiviteler: ["Trekking","Doğa Yürüyüşü","Manzara İzleme","Fotoğrafçıl
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Davullukuyu Tepesi","caption":"Davullukuyu Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davullukuyu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557775","tip":"genel"}]
- Bu bölge, coğrafi özellikleri ve tarihi geçmişi ile dikkat çekmektedir."
 keywords: ["Davullukuyu Tepesi","Ankara","İç Anadolu Bölgesi","coğrafya","tarih","doğa","gezi","tepe"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q31557775"

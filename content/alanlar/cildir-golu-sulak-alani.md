@@ -14,7 +14,6 @@ aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"Çıldır Gölü Sulak Alanı","caption":"Çıldır Gölü Sulak Alanı","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1ld%C4%B1r%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228814","tip":"genel"}]
- Doğal güzellikleri ve zengin fauna ile dikkat çekiyor."
 keywords: ["sulak alan","doğa","fauna","iç anadolu","çevre","ekoloji","koruma","turizm","gezi"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108228814"

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-4 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/94/Kucuk_Caml%C4%B1ca_Korusu_Logo.png","alt":"Küçükçamlıca Korusu manzarası","credit":"Ekolojist","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kucuk_Caml%C4%B1ca_Korusu_Logo.png/960px-Kucuk_Caml%C4%B1ca_Korusu_Logo.png","alt":"Küçükçamlıca Korusu","caption":"Küçükçamlıca Korusu","credit":"Kucuk Camlıca Korusu Logo","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%C3%A7aml%C4%B1ca%20Korusu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6052345","tip":"genel"}]
 description: "Üsküdar'da yer alan 1200 hektarlık orman alanı"
