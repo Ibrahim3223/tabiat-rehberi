@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Kayaba%C5%9F%C4%B1_yaylakent.jpg","alt":"Yaylakent manzarası","credit":"Erkut Meral","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kayaba%C5%9F%C4%B1_yaylakent.jpg/960px-Kayaba%C5%9F%C4%B1_yaylakent.jpg","alt":"Yaylakent","caption":"Yaylakent","credit":"Kayabaşı yaylakent","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yaylakent","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227804","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Yaylakent, ziyaretçilerini bekliyor."

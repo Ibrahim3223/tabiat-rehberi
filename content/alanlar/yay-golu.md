@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Sultan_Reedy.jpg","alt":"Yay Gölü manzarası","credit":"Emrahuygun","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Winter_Time_in_Sultan_Reedy.jpg/960px-Winter_Time_in_Sultan_Reedy.jpg","alt":"Yay Gölü","caption":"Yay Gölü","credit":"Winter Time in Sultan Reedy","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/61/Winter_Time_in_Sultan_Reedy.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Winter_Time_in_Sultan_Reedy.jpg/1280px-Winter_Time_in_Sultan_Reedy.jpg","alt":"Yay Gölü - Winter Time in Sultan Reedy","credit":"Emrahuygun","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/9/93/Sultan_sazl%C4%B1%C4%9F%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sultan_sazl%C4%B1%C4%9F%C4%B1.jpg/1280px-Sultan_sazl%C4%B1%C4%9F%C4%B1.jpg","alt":"Yay Gölü - Sultan sazlığı","credit":"User:21gazi","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yay%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20476882","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerinden biri olan Yay Gölü, 1200 hektarlık alanı ile şehrin önemli bir turizm noktasıdır."

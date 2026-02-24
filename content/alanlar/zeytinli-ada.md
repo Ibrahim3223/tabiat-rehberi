@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/04/Erdek_05_1990_Flugaufnahme_der_Bucht.jpg","alt":"Zeytinli Ada manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erdek_05_1990_Flugaufnahme_der_Bucht.jpg/960px-Erdek_05_1990_Flugaufnahme_der_Bucht.jpg","alt":"Zeytinli Ada","caption":"Zeytinli Ada","credit":"Erdek 05 1990 Flugaufnahme der Bucht","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeytinli%20Ada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34788771","tip":"genel"}]
 description: "Balıkesir'de bulunan Zeytinli Ada, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."

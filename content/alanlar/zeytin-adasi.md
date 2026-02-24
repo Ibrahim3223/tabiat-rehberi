@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günde 6-8 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/57/Bushes%2C_Olives_and_Pines_of_Cunda.jpg","alt":"Zeytin Adası manzarası","credit":"Ahmet Ali Arslan","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bushes%2C_Olives_and_Pines_of_Cunda.jpg/960px-Bushes%2C_Olives_and_Pines_of_Cunda.jpg","alt":"Zeytin Adası","caption":"Zeytin Adası","credit":"Bushes, Olives and Pines of Cunda","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeytin%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34788761","tip":"genel"}]
 description: "Muğla'da bulunan Zeytin Adası, doğa severler için bir cennet. 1200 hektarlık yeşil alanı keşfedin!"

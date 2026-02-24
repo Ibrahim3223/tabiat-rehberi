@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Y%C4%B1lanc%C4%B1k_Island_-_panoramio.jpg","alt":"Yılancık Ada manzarası","credit":"Николай Максимович","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Y%C4%B1lanc%C4%B1k_Island_-_panoramio.jpg/960px-Y%C4%B1lanc%C4%B1k_Island_-_panoramio.jpg","alt":"Yılancık Ada","caption":"Yılancık Ada","credit":"Yılancık Island - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1lanc%C4%B1k%20Ada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6977885","tip":"genel"}]
 description: "Muğla'da bulunan Yılancık Ada, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."

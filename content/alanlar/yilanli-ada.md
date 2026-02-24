@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/Y%C4%B1lanl%C4%B1_Island.jpg","alt":"Yılanlı Ada manzarası","credit":"Nedim Ardoğa","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Y%C4%B1lanl%C4%B1_Island.jpg/960px-Y%C4%B1lanl%C4%B1_Island.jpg","alt":"Yılanlı Ada","caption":"Yılanlı Ada","credit":"Yılanlı Island","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1lanl%C4%B1%20Ada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34787852","tip":"genel"}]
 description: "Konya'da yer alan Yılanlı Ada, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzellikleri keşfedin!"

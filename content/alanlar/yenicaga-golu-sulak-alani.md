@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Piknik","Kuş gözlemi","Doğa yürüyüşü","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/29/Yeni%C3%A7a%C4%9Fa_Ku%C5%9Fcenneti.jpg","alt":"Yeniçağa Gölü Sulak Alanı manzarası","credit":"Olmezalper","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Yeni%C3%A7a%C4%9Fa_Ku%C5%9Fcenneti.jpg/960px-Yeni%C3%A7a%C4%9Fa_Ku%C5%9Fcenneti.jpg","alt":"Yeniçağa Gölü Sulak Alanı","caption":"Yeniçağa Gölü Sulak Alanı","credit":"Yeniçağa Kuşcenneti","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%C3%A7a%C4%9Fa%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228876","tip":"genel"}]
 

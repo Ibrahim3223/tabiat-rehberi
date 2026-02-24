@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Derkenar.jpg","alt":"Yalnız Adası manzarası","credit":"Niliven6","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Derkenar.jpg/960px-Derkenar.jpg","alt":"Yalnız Adası","caption":"Yalnız Adası","credit":"Derkenar","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yaln%C4%B1z%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34787803","tip":"genel"}]
 description: "Balıkesir'in güzide adalarından biri olan Yalnız Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."

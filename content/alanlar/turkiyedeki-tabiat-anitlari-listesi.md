@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/25/Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9443_hamdigumus.jpg","alt":"Türkiye'deki tabiat anıtları listesi manzarası","credit":"Hamdigumus","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9526_hamdigumus.jpg/960px-Samandere_%C5%9Eelalesi_Tabiat_An%C4%B1t%C4%B1_-_A%C4%9Fustos_2013_IMG_9526_hamdigumus.jpg","alt":"Tabiat Anıtı","caption":"Tabiat Anıtı","credit":"Samandere Şelalesi Tabiat Anıtı - Ağustos 2013 IMG 9526 hamdigumus","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki%20tabiat%20an%C4%B1tlar%C4%B1%20listesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 keywords: ["tabiat anıtı","İç Anadolu Bölgesi","doğa","tarih","gezi","yerel","doğal güzellik"]

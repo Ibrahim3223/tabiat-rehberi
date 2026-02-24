@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Vedatdalokayparki.jpg","alt":"Vedat Dalokay Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Vedatdalokayparki.jpg/960px-Vedatdalokayparki.jpg","alt":"Vedat Dalokay Parkı","caption":"Vedat Dalokay Parkı","credit":"Vedatdalokayparki","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Vedatdalokayparki.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Vedatdalokayparki.jpg","alt":"Vedat Dalokay Parkı - Vedatdalokayparki","credit":"En Güzel Kent Batıkent","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vedat%20Dalokay%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118928462","tip":"genel"}]
 description: "Ankara'nın kalbinde 1200 hektarlık yeşil alan, botanik bahçesi ve doğa severler için cennet"

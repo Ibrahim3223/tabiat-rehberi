@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Kümbeti gezmek","Van Gölü manzarasını izlemek","Yakın çevreyi keşfetmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Ahlat_24_05_2010_Usta_%C5%9Eagirt_K%C3%BCmbeti_Ulu_K%C3%BCmbet.jpg","alt":"Usta Şagirt Kümbeti manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ahlat_24_05_2010_Usta_%C5%9Eagirt_K%C3%BCmbeti_Ulu_K%C3%BCmbet.jpg/960px-Ahlat_24_05_2010_Usta_%C5%9Eagirt_K%C3%BCmbeti_Ulu_K%C3%BCmbet.jpg","alt":"Usta Şagirt Kümbeti","caption":"Usta Şagirt Kümbeti","credit":"Ahlat 24 05 2010 Usta Şagirt Kümbeti Ulu Kümbet","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Usta%20%C5%9Eagirt%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582811","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin saklı cenneti, Ahlat'ta bulunan Usta Şagirt Kümbeti"

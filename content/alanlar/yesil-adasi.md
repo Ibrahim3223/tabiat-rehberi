@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Tekirda%C4%9F_Kartaltepe_Natural_Park.jpg","alt":"Yeşil Adası manzarası","credit":"Gamerlad88","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tekirda%C4%9F_Kartaltepe_Natural_Park.jpg/960px-Tekirda%C4%9F_Kartaltepe_Natural_Park.jpg","alt":"Yeşil Adası","caption":"Yeşil Adası","credit":"Tekirdağ Kartaltepe Natural Park","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Fil%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34787824","tip":"genel"}]
 description: "Muğla'da bulunan Yeşil Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."

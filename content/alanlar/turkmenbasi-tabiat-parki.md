@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Few saat"
 aktiviteler: ["yürüyüş yapmak","piknik yemek","doğayı keşfetmek"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Atat%C3%BCrkArboretum%20%2817%29.jpg","alt":"Türkmenbaşı Tabiat Parkı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Atat%C3%BCrkArboretum_%2817%29.jpg/960px-Atat%C3%BCrkArboretum_%2817%29.jpg","alt":"Türkmenbaşı Tabiat Parkı","caption":"Türkmenbaşı Tabiat Parkı","credit":"AtatürkArboretum (17)","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Atat%C3%BCrkArboretum_%2817%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Atat%C3%BCrkArboretum_%2817%29.jpg/1280px-Atat%C3%BCrkArboretum_%2817%29.jpg","alt":"Türkmenbaşı Tabiat Parkı - AtatürkArboretum (17)","credit":"CeeGee","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9F%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915681","tip":"genel"}]
 keywords: ["Türkmenbaşı Tabiat Parkı","Sarıyer","İstanbul","Marmara Bölgesi","tabiat parkı","yeşil alan","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kaplıca ziyaretleri","yaban hayatı gözlemi","ormanlık alanları keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/79/S%C3%BCnl%C3%BCk_Mahallesi_Do%C4%9Fa_evleri.jpg","alt":"Tümbüldek Kaplıcaları manzarası","credit":"Baybarslı","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/T%C3%9CMB%C3%9CLDEK_KAPLICALARI_-_panoramio.jpg/960px-T%C3%9CMB%C3%9CLDEK_KAPLICALARI_-_panoramio.jpg","alt":"Tümbüldek Kaplıcaları","caption":"Tümbüldek Kaplıcaları","credit":"TÜMBÜLDEK KAPLICALARI - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/T%C3%9CMB%C3%9CLDEK_KAPLICALARI_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/T%C3%9CMB%C3%9CLDEK_KAPLICALARI_-_panoramio.jpg/1280px-T%C3%9CMB%C3%9CLDEK_KAPLICALARI_-_panoramio.jpg","alt":"Tümbüldek Kaplıcaları - TÜMBÜLDEK KAPLICALARI - panoramio","credit":"MERMERCİ ÖZGÜR1","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCmb%C3%BCldek%20Kapl%C4%B1calar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320522","tip":"genel"}]
 description: "Doğal güzellikleri ve şifalı suları ile ünlü Tümbüldek Kaplıcaları, Marmara Bölgesi'nin en önemli turizm merkezlerinden biri."

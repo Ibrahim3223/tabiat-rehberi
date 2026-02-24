@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/55/Y%C4%B1lanl%C4%B1_Island.jpg","alt":"Yılan Adası manzarası","credit":"Nedim Ardoğa","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Y%C4%B1lanl%C4%B1_Island.jpg/960px-Y%C4%B1lanl%C4%B1_Island.jpg","alt":"Yılan Adası","caption":"Yılan Adası","credit":"Yılanlı Island","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/78/Battle_of_Snake_Island_%282022%29_uk.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Battle_of_Snake_Island_%282022%29_uk.png/1280px-Battle_of_Snake_Island_%282022%29_uk.png","alt":"Yılan Adası - Battle of Snake Island (2022) uk","credit":"Віщун","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7e/12.01_Ostriw_Smijiny.tif","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/12.01_Ostriw_Smijiny.tif/lossless-page1-1200px-12.01_Ostriw_Smijiny.tif.png","alt":"Yılan Adası - 12.01 Ostriw Smijiny","credit":"Kharmacher","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1lan%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34787831","tip":"genel"}]
 description: "Antalya'nın güzide adalarından biri olan Yılan Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."

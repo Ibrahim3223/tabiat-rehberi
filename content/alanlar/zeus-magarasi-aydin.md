@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/32/Zeus_Caves%2C_Kusadasi%2C_Turke.jpg","alt":"Zeus Mağarası, Aydın manzarası","credit":"Selinguler at English Wikipedia","license":"pd"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/3/32/Zeus_Caves%2C_Kusadasi%2C_Turke.jpg","alt":"Zeus Mağarası","caption":"Zeus Mağarası","credit":"Zeus Caves, Kusadasi, Turke","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeus%20Ma%C4%9Faras%C4%B1%2C%20Ayd%C4%B1n","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20988330","tip":"genel"}]
 description: "Aydın'da yer alan Zeus Mağarası, Türkiye'nin önemli jeoparklarından biri. Doğal güzelliği ve tarihi önemiyle dikkat çekiyor."

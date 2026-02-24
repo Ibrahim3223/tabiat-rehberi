@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/59/Turgutreis_-_panoramio.jpg","alt":"Tüllüce Adası manzarası","credit":"Tutku Çetinel","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Turgutreis_-_panoramio.jpg/960px-Turgutreis_-_panoramio.jpg","alt":"Tüllüce Adası","caption":"Tüllüce Adası","credit":"Turgutreis - panoramio","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCll%C3%BCce%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30681549","tip":"genel"}]
 description: "Tüllüce Adası, Türkiye'nin güzel kıyılarında bulunan bir ada. Doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/57/Reyhanl%C4%B1_G%C3%B6l%C3%BC_-_panoramio.jpg","alt":"Yenişehir Gölü manzarası","credit":"halisyalcinkaya","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Reyhanl%C4%B1_G%C3%B6l%C3%BC_-_panoramio.jpg/960px-Reyhanl%C4%B1_G%C3%B6l%C3%BC_-_panoramio.jpg","alt":"Yenişehir Gölü","caption":"Yenişehir Gölü","credit":"Reyhanlı Gölü - panoramio","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/a/a1/Theodoxus_%2810.3897-zse.96.48312%29_Figure_18.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Theodoxus_%2810.3897-zse.96.48312%29_Figure_18.jpg/1280px-Theodoxus_%2810.3897-zse.96.48312%29_Figure_18.jpg","alt":"Yenişehir Gölü - Theodoxus (10.3897-zse.96.48312) Figure 18","credit":"Sands AF, Glöer P, Gürlek ME, Albrecht C, Neubauer TA (2020) A revision of the extant species of Theodoxus (Gastropoda, Neritidae) in Asia, with the description of three new species. Zoosystematics and Evolution 96(1): 25-66. https://doi.org/10.3897/zse.96.48312","license":"cc-by-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%C5%9Fehir%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q48791929","tip":"genel"}]
 description: "Türkiye'nin önemli su kaynaklarından biri olan Yenişehir Gölü, 1200 hektarlık alanı ile doğa severleri çekiyor."

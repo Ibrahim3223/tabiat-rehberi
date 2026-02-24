@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Vitanovo.jpg","alt":"Vitanovo Tabiatı Koruma Alanı manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Vitanovo.jpg","alt":"Vitanovo Tabiatı Koruma Alanı","caption":"Vitanovo Tabiatı Koruma Alanı","credit":"Vitanovo","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vitanovo%20Tabiat%C4%B1%20Koruma%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q7936993","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Vitanovo Tabiatı Koruma Alanı, jeolojik oluşumlarıyla dikkat çekiyor."

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doga_yuruyusu","fotografcilik","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Valla_Canyon.jpg","alt":"Valla kanyonu manzarası","credit":"KCCan00","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Valla_Kanyonu-P%C4%B1narba%C5%9F%C4%B1_-_panoramio.jpg/960px-Valla_Kanyonu-P%C4%B1narba%C5%9F%C4%B1_-_panoramio.jpg","alt":"Valla Kanyonu","caption":"Valla Kanyonu","credit":"Valla Kanyonu-Pınarbaşı - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/20/Valla_kanyonu.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Valla_kanyonu.jpg/1280px-Valla_kanyonu.jpg","alt":"Valla kanyonu - Valla kanyonu","credit":"Güzelresimler","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/8/84/Valla_Kanyonu-P%C4%B1narba%C5%9F%C4%B1_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/8/84/Valla_Kanyonu-P%C4%B1narba%C5%9F%C4%B1_-_panoramio.jpg","alt":"Valla kanyonu - Valla Kanyonu-Pınarbaşı - panoramio","credit":"Halit Edip Özcan","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Valla%20kanyonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20474544","tip":"genel"}]
 description: "Kastamonu'nun Pınarbaşı ilçesinde yer alan Valla Kanyonu, 1200 hektarlık yeşil cenneti ve doğa güzelliği ile ziyaretçilerini bekliyor."

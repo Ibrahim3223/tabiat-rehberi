@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"http://commons.wikimedia.org/wiki/Special:FilePath/Uzunbudzhak.jpg","alt":"Uzunbocak manzarası","credit":"Wikimedia Commons","license":"CC BY-SA"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Uzunbudzhak.jpg/960px-Uzunbudzhak.jpg","alt":"Uzunbocak","caption":"Uzunbocak","credit":"Uzunbudzhak","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/21/Uzunbudzhak.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/2/21/Uzunbudzhak.jpg","alt":"Uzunbocak - Uzunbudzhak","credit":"Evgord","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzunbocak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q12297191","tip":"genel"}]
 description: "Türkiye'de yer alan Uzunbocak Jeopark, doğal güzellikleri ve jeolojik oluşumlarıyla dikkat çekiyor."

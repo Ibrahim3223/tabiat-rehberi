@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Balık avı","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/05/Zinav_g%C3%B6l%C3%BC_ben_ve_babam.jpg","alt":"Zinav Gölü manzarası","credit":"Tahaceltek","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Zinav_g%C3%B6l%C3%BC_ben_ve_babam.jpg/960px-Zinav_g%C3%B6l%C3%BC_ben_ve_babam.jpg","alt":"Zinav Gölü","caption":"Zinav Gölü","credit":"Zinav gölü ben ve babam","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zinav%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228264","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Zinav Gölü, doğa severlerin ziyaret ettiği önemli bir bölge."

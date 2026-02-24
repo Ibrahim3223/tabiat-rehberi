@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/61/Sallangoz.jpg","alt":"Yakamanastır manzarası","credit":"Qunixz","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sallangoz.jpg/960px-Sallangoz.jpg","alt":"Yakamanastır","caption":"Yakamanastır","credit":"Sallangoz","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yakamanast%C4%B1r","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228267","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."

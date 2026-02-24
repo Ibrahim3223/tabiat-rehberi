@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Zinav_Lake.jpg","alt":"Zinav manzarası","credit":"Sabri76","license":"cc0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Zinav_g%C3%B6l%C3%BC_ben_ve_babam.jpg/960px-Zinav_g%C3%B6l%C3%BC_ben_ve_babam.jpg","alt":"Zinav","caption":"Zinav","credit":"Zinav gölü ben ve babam","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/0/05/Zinav_g%C3%B6l%C3%BC_ben_ve_babam.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/0/05/Zinav_g%C3%B6l%C3%BC_ben_ve_babam.jpg","alt":"Zinav - Zinav gölü ben ve babam","credit":"Tahaceltek","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zinav","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6000752","tip":"genel"}]
 description: "Tokat'ta bulunan Zinav Gölü, 1200 hektarlık yeşil cennet, doğa severler için ideal bir destinasyon"
