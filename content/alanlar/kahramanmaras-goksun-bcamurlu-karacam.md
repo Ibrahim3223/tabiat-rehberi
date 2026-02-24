@@ -14,7 +14,7 @@ aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotografçılık"]
 images:
   hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Kahramanmaras-Goksun-B.Camurlu Karacam","caption":"Kahramanmaras-Goksun-B.Camurlu Karacam","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Goksun-B.Camurlu%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227518","tip":"genel"}]
-keywords: ["Kahramanmaras","Goksun","B.
+keywords: ["Kahramanmaras","Goksun","B.Camurlu Karacam"]
 schema_type: "TouristAttraction"
 wikidata_id: "Q108227518"
 ---
