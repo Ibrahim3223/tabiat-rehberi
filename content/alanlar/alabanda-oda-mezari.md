@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Arkeolojik araştırma","Doğa yürüyüşü","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Alabanda Oda Mezarı","caption":"Alabanda Oda Mezarı","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg/960px-Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg","alt":"Alabanda Oda Mezarı","caption":"Alabanda Oda Mezarı","credit":"Marmaris ve Lodos (Aralik 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alabanda%20Oda%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728111","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Aydın'ın Çine ilçesinde bulunan Alabanda Oda Mezarı"
 keywords: ["Alabanda Oda Mezarı","Aydın","Çine","Ege Bölgesi","tarih","arkeoloji","mezar","odalar"]

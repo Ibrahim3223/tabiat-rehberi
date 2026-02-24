@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["deniz gezmeleri","tarih gezileri","doğa yürüyüşleri","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Hamam Kalıntısı, Rumeli Feneri","caption":"Hamam Kalıntısı, Rumeli Feneri","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg/960px-Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg","alt":"Hamam Kalıntısı, Rumeli Feneri","caption":"Hamam Kalıntısı, Rumeli Feneri","credit":"Giresun, Merkez, Sahilde. 9 Şubat 2020","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1%2C%20Rumeli%20Feneri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739064","tip":"genel"}]
 description: "İstanbul'un Sarıyer ilçesinde yer alan tarihi bir plaj"
 keywords: ["Rumeli Feneri","Hamam Kalıntısı","Sarıyer","İstanbul","Marmara Bölgesi","tarih","deniz","plaj"]

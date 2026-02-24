@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sakağ Tepesi","caption":"Sakağ Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Sakağ Tepesi","caption":"Sakağ Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saka%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546247","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Batman ilinin doğal güzelliklerini keşfedin."
 keywords: ["Batman","Güneydoğu Anadolu","doğa","tepe","gezi","yerel","coğrafya","flora","fauna","ziyaret"]

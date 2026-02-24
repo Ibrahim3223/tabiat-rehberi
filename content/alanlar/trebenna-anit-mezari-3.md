@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["anıt mezarı gezmek","çevresindeki ekosistemi deneyimlemek","tarihi geçmişi hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Trebenna Anıt Mezarı 3","caption":"Trebenna Anıt Mezarı 3","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ilica_plaj_-_beach_October_2009_3_-_panoramio.jpg/960px-Ilica_plaj_-_beach_October_2009_3_-_panoramio.jpg","alt":"Trebenna Anıt Mezarı 3","caption":"Trebenna Anıt Mezarı 3","credit":"Ilica plaj - beach October 2009 3 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trebenna%20An%C4%B1t%20Mezar%C4%B1%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728108","tip":"genel"}]
 description: "Konyaaltı'nın tarihi hazinesi, Akdeniz'in güzelliği"
 keywords: ["Trebenna Anıt Mezarı 3","Konyaaltı","Antalya","Akdeniz Bölgesi","tarih","anıt mezar","kültür","gezi"]

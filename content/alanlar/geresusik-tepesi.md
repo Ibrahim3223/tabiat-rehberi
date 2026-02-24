@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Manzara İzleme","Fotoğrafçılık","Tarih Araştırması"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Geresusik Tepesi","caption":"Geresusik Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Geresusik Tepesi","caption":"Geresusik Tepesi","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geresusik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549105","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide illerinden Siirt'te yer alan Geresusik Tepesi, coğrafyası ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Siirt","Güneydoğu Anadolu Bölgesi","Geresusik Tepesi","Coğrafya","Tarih","Doğa","Turizm","Gezi","Tepeler"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","dağcılık","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Elmalı Sedir Ağaçları Sit Alanı","caption":"Elmalı Sedir Ağaçları Sit Alanı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Elmalı Sedir Ağaçları Sit Alanı","caption":"Elmalı Sedir Ağaçları Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elmal%C4%B1%20Sedir%20A%C4%9Fa%C3%A7lar%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226653","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sedir ormanı"
 keywords: ["Elmalı Sedir Ağaçları","İç Anadolu Bölgesi","sedir ormanı","doğa","gezi","turizm"]

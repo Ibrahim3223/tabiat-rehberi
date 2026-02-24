@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Küpdağı","caption":"Küpdağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_2315_Tufa_landscape_of_Goreme_%28Turkey%29.jpg/960px-00_2315_Tufa_landscape_of_Goreme_%28Turkey%29.jpg","alt":"Küpdağı","caption":"Küpdağı","credit":"00 2315 Tufa landscape of Goreme (Turkey)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCpda%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042816","tip":"genel"}]
 description: "Zonguldak'ta yer alan Küpdağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Küpdağı","Zonguldak","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg/960px-Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg","alt":"Berzaneka Mağaraları","caption":"Berzaneka Mağaraları","credit":"Korfu (GR), Kassiopi -- 2018 -- 1068","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tectonic_Map_of_Turkey.png/960px-Tectonic_Map_of_Turkey.png","alt":"Berzaneka Mağaraları","caption":"Berzaneka Mağaraları","credit":"Tectonic Map of Turkey","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Berzaneka%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319069","tip":"genel"}]
 description: "Batman'da yer alan Berzaneka Mağaraları, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini bekliyor."
 keywords: ["Berzaneka Mağaraları","Batman","Jeopark","Doğa","Tarih","Mağara","Gezi","Seyahat","Turizm"]

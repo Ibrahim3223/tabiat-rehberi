@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih keşfi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Cipselço Tepesi","caption":"Cipselço Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Cipselço Tepesi","caption":"Cipselço Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cipsel%C3%A7o%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35734800","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli güzelliği, Batman'da yer alan Cipselço Tepesi"
 keywords: ["Cipselço Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","tarihçe","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Kherakul Dağı","caption":"Kherakul Dağı","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Kherakul Dağı","caption":"Kherakul Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kherakul%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502874","tip":"genel"}]
 description: "Türkiye'de yer alan Kherakul Dağı, doğa severler için önemli bir destinasyon. Dağcılık ve trekking için ideal."
 keywords: ["Kherakul Dağı","Türkiye dağları","doğa turizmi","dağcılık","trekking","Türkiye coğrafyası","gezi rehberi","turistik yerler","coğrafi oluşumlar"]

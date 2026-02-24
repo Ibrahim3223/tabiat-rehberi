@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","bitki ve hayvan gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Sirgen Tepesi","caption":"Sirgen Tepesi","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Sirgen Tepesi","caption":"Sirgen Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sirgen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506386","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin, Sirgen Tepesi'ne çıkın ve Akdeniz Bölgesi'nin panoramik manzarasını izleyin"
 keywords: ["Sirgen Tepesi","Antalya","Akdeniz Bölgesi","doğa yürüyüşü","tepe","manzara","gezi","turizm","çevre","iklim"]

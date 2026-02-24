@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tırmanma","yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Gemlik Tepesi","caption":"Gemlik Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Gemlik Tepesi","caption":"Gemlik Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gemlik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536612","tip":"genel"}]
 description: "Kilis'in doğal güzelliklerini keşfedin. Gemlik Tepesi, Güneydoğu Anadolu Bölgesi'nin en ilgi çekici noktalarından biri."
 keywords: ["Gemlik Tepesi","Kilis","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret","gezi"]

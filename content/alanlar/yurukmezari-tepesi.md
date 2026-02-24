@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Yürükmezarı Tepesi","caption":"Yürükmezarı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Yürükmezarı Tepesi","caption":"Yürükmezarı Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCkmezar%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196223","tip":"genel"}]
 description: "Kütahya'nın gizli cenneti Yürükmezarı Tepesi, doğa severlerin yeni durağı"
 keywords: ["Yürükmezarı Tepesi","Kütahya","Ege Bölgesi","doğa","tepe","gezi","turizm","yürüyüş"]

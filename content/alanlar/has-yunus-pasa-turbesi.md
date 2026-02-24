@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Tarihi yapıları keşfetmek","Çevredeki sokakları dolaşmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Has Yunus Paşa Türbesi","caption":"Has Yunus Paşa Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Has Yunus Paşa Türbesi","caption":"Has Yunus Paşa Türbesi","credit":"Antalya Serik Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Has%20Yunus%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391067","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Has Yunus Paşa Türbesi, Fatih ilçesinde bulunur."
 keywords: ["Has Yunus Paşa Türbesi","Fatih","İstanbul","tarihi mekan","türbe","gezi","turizm"]

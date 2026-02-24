@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Kücükyumru Tepesi","caption":"Kücükyumru Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Conquering_the_Mountain_Nemrut.jpg/960px-Conquering_the_Mountain_Nemrut.jpg","alt":"Kücükyumru Tepesi","caption":"Kücükyumru Tepesi","credit":"Conquering the Mountain Nemrut","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCc%C3%BCkyumru%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042804","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin, Küçükyumru Tepesi'ne çıkın ve şehrin panoramik manzarasını izleyin."
 keywords: ["Kücükyumru Tepesi","Konya","Dağ","Doğa","Turizm","Gezi","Manzara","Panorama","Konya Turistik Yerler"]

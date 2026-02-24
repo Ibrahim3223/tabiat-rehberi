@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Güneşlenme","Yüzme","Su sporları","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Nalıncılar Hamamı","caption":"Nalıncılar Hamamı","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%283%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%283%29.jpg","alt":"Nalıncılar Hamamı","caption":"Nalıncılar Hamamı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nal%C4%B1nc%C4%B1lar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738810","tip":"genel"}]
 description: "Osmangazi, Bursa'da bulunan Nalıncılar Hamamı, Marmara Bölgesi'nin güzide noktalarından biri."
 keywords: ["Nalıncılar Hamamı","Osmangazi","Bursa","Marmara Bölgesi","plaj","doğa","gezi","turizm"]

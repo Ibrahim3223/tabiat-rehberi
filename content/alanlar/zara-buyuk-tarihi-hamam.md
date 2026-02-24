@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hamamın tarihi atmosferini deneyimlemek","Çevresindeki doğal güzellikleri keşfetmek","Yöresel yemekleri tatmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Zara Büyük Tarihi Hamam","caption":"Zara Büyük Tarihi Hamam","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg","alt":"Zara Büyük Tarihi Hamam","caption":"Zara Büyük Tarihi Hamam","credit":"Marmaris @ Lodos Storm (December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zara%20B%C3%BCy%C3%BCk%20Tarihi%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738518","tip":"genel"}]
 description: "Zara Büyük Tarihi Hamam, Sivas'ın Zara ilçesinde bulunan tarihi bir hamam"
 keywords: ["Zara Büyük Tarihi Hamam","Sivas","Zara","tarihi hamam","İç Anadolu Bölgesi","doğal güzellikler","tarih","kültür"]

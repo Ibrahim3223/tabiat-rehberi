@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","plaj","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Anemurium Merkez Hamamı","caption":"Anemurium Merkez Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Istanbul_beaches-_Sea_of_Marmara_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_12.jpg","alt":"Anemurium Merkez Hamamı","caption":"Anemurium Merkez Hamamı","credit":"Istanbul beaches- Sea of Marmara 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anemurium%20Merkez%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739104","tip":"genel"}]
 description: "Anamur'un tarihi ve doğal güzellikleri ile dikkat çeken Anemurium Merkez Hamamı, Mersin'in en önemli turistik noktalarından biri."
 keywords: ["Anamurium","Merkez Hamamı","Mersin","Akdeniz Bölgesi","tarih","doğa","plaj","turizm"]

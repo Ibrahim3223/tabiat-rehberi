@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","doğa yürüyüşü yapmak","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Zeytinlik Camii","caption":"Zeytinlik Camii","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg/960px-35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg","alt":"Zeytinlik Camii","caption":"Zeytinlik Camii","credit":"35960 Hasseki-Karaburun-İzmir, Turkey - panoramio (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeytinlik%20Camii","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135512221","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, Zeytinlik Camii"
 keywords: ["İç Anadolu Bölgesi","Zeytinlik Camii","doğal güzellik","tarih","coğrafya","flora","fauna","ziyaret"]

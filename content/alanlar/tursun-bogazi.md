@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Turşun Boğazı","caption":"Turşun Boğazı","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ermenek_Canyon_bei_der_Stadt_Ermenek.jpg/960px-Ermenek_Canyon_bei_der_Stadt_Ermenek.jpg","alt":"Turşun Boğazı","caption":"Turşun Boğazı","credit":"Ermenek Canyon bei der Stadt Ermenek","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tur%C5%9Fun%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49343556","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerinden biri olan Turşun Boğazı, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Turşun Boğazı","Mersin","kanyon","doğa","yeşil alan","gezi","turizm","Mersin turizmi","kanyon gezi"]

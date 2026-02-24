@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Kayalı Dağı","caption":"Kayalı Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/960px-Moraine_Lake_17092005.jpg","alt":"Kayalı Dağı","caption":"Kayalı Dağı","credit":"Moraine Lake 17092005","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayal%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516326","tip":"genel"}]
 description: "Konya'da yer alan Kayalı Dağı, 1200 metre yüksekliği ile bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Kayalı Dağı","Konya","Dağ","Doğa","Turizm","Konya Turistik Yerler","Kayalı Dağı Konya","Dağcılık","Konya Doğal Alanlar"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Crossing_the_horizon.jpg/960px-Crossing_the_horizon.jpg","alt":"Yeni Şehir Burnu","caption":"Yeni Şehir Burnu","credit":"Crossing the horizon","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Eurasian_Collared-Dove_by_Tisha_Mukherjee_03.jpg/960px-Eurasian_Collared-Dove_by_Tisha_Mukherjee_03.jpg","alt":"Yeni Şehir Burnu","caption":"Yeni Şehir Burnu","credit":"Eurasian Collared-Dove by Tisha Mukherjee 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20%C5%9Eehir%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34833942","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Yeni Şehir Burnu, 1200 hektarlık alanı ile İstanbul'un doğal güzelliklerini keşfetmek için ideal bir yer."
 keywords: ["Yeni Şehir Burnu","kuş cenneti","doğa turizmi","İstanbul","Türkiye","kuş gözlemi","doğal alanlar","ekoturizm","çevre turizmi"]

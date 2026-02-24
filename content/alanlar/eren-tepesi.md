@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","picnic","manzara izleme","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Karamanbeli_Gecidi_20_08_1992_G%C3%B6l_Ovas%C4%B1_mit_Eren_Tepesi_2774_m_Getreide-Stoppelfelder.jpg","alt":"Eren Tepesi manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Eren Tepesi","caption":"Eren Tepesi","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eren%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385837","tip":"genel"}]
 description: "Muğla'nın gizli cenneti, Eren Tepesi'ni keşfedin. Ege Bölgesi'nin en güzel manzaralarına sahip bu tepe, yürüyüş ve picnic için ideal."

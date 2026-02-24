@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Arapderesi Tepesi","caption":"Arapderesi Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Arapderesi Tepesi","caption":"Arapderesi Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arapderesi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31532013","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Arapderesi Tepesi, doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Arapderesi Tepesi","Sivas","İç Anadolu Bölgesi","doğal güzellikler","tepe","coğrafya","flora","fauna","ziyaret","gezilecek yerler"]

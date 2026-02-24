@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","şifalı su tedavisi"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Sultaniye Kaplıcası","caption":"Sultaniye Kaplıcası","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2023-11-19_Ufakdere_Port_Beach_3.jpg/960px-2023-11-19_Ufakdere_Port_Beach_3.jpg","alt":"Sultaniye Kaplıcası","caption":"Sultaniye Kaplıcası","credit":"2023-11-19 Ufakdere Port Beach 3","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sultaniye%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739155","tip":"genel"}]
 description: "Köyceğiz'in gizli cenneti, şifalı suların buluşma noktası"
 keywords: ["Köyceğiz","Muğla","Sultaniye Kaplıcası","kaplıca","şifalı su","Ege Bölgesi","turizm","gezi","doğa"]

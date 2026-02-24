@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Keşif","Fotoğrafçılık","Tarih araştırması"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Şeyhsultan Tepesi","caption":"Şeyhsultan Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Şeyhsultan Tepesi","caption":"Şeyhsultan Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhsultan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554086","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Şeyhsultan Tepesi, Batman'ın tarihi ve coğrafi zenginliklerini bir araya getiriyor."
 keywords: ["Şeyhsultan Tepesi","Batman","Güneydoğu Anadolu Bölgesi","Doğal Güzellik","Tarih","Coğrafya"]

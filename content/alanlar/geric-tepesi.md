@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Geriç Tepesi","caption":"Geriç Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Geriç Tepesi","caption":"Geriç Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geri%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210374","tip":"genel"}]
 description: "Burdur'un doğal güzellikleri arasında yer alan Geriç Tepesi, 140 hektarlık alanıyla dikkat çekiyor."
 keywords: ["Geriç Tepesi","Burdur","Akdeniz Bölgesi","doğa","tepe","gezi"]

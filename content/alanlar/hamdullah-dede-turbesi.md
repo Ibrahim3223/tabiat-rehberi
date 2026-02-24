@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenmek","doğal güzellikleri keşfetmek","fotografi çekmek","yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Hamdullah Dede Türbesi","caption":"Hamdullah Dede Türbesi","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Hamdullah Dede Türbesi","caption":"Hamdullah Dede Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamdullah%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391799","tip":"genel"}]
 description: "Amasya'da tarihi ve doğal güzelliklerin birleştiği bir nokta olan Hamdullah Dede Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Amasya","Karadeniz Bölgesi","tarihi mekan","doğal güzellik","tarihçe","coğrafya","flora","fauna","ziyaret"]

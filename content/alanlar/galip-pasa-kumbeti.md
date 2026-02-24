@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Fotoğrafçılık","Tarihi mekan gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84.jpg","alt":"Galip Paşa Kümbeti","caption":"Galip Paşa Kümbeti","credit":"استانبول","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gallipoli_ANZAC_Cove_2.JPG/960px-Gallipoli_ANZAC_Cove_2.JPG","alt":"Galip Paşa Kümbeti","caption":"Galip Paşa Kümbeti","credit":"Gallipoli ANZAC Cove 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Galip%20Pa%C5%9Fa%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391817","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Van ilinde yer alan Galip Paşa Kümbeti, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Galip Paşa Kümbeti","Van","Doğu Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

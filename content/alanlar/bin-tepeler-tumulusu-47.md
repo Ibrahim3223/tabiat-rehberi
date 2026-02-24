@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotografcılık","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Bin Tepeler Tümülüsü 47","caption":"Bin Tepeler Tümülüsü 47","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Bin Tepeler Tümülüsü 47","caption":"Bin Tepeler Tümülüsü 47","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2047","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728335","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin, Bin Tepeler Tümülüsü 47 plajı ve çevresi"
 keywords: ["Bin Tepeler Tümülüsü 47","Salihli","Manisa","Ege Bölgesi","tarih","doğa","plaj","gezi"]

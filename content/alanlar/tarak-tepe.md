@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Tarak Tepe","caption":"Tarak Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ida_Flooding_%2823%29.jpg/960px-Ida_Flooding_%2823%29.jpg","alt":"Tarak Tepe","caption":"Tarak Tepe","credit":"Ida Flooding (23)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388901","tip":"genel"}]
 description: "Kırklareli'nin doğal güzellikleri arasında yer alan Tarak Tepe, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biridir."
 keywords: ["Tarak Tepe","Kırklareli","Marmara Bölgesi","doğal güzellik","coğrafi oluşum","tepe"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotograf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Polat Dede Türbesi","caption":"Polat Dede Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Altinkum_Beaches_39_%28October2009%29_-_panoramio.jpg/960px-Altinkum_Beaches_39_%28October2009%29_-_panoramio.jpg","alt":"Polat Dede Türbesi","caption":"Polat Dede Türbesi","credit":"Altinkum Beaches 39 (October2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Polat%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390822","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli dinî ve turistik merkezlerinden biri olan Polat Dede Türbesi, Şahinbey/Gaziantep'te yer almaktadır."
 keywords: ["Polat Dede Türbesi","Şahinbey","Gaziantep","Güneydoğu Anadolu Bölgesi","tarih","din","turizm"]

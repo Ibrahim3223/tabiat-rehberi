@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihi mekanları ziyaret","fotoğraf çekimi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Kız Dedesi Türbesi","caption":"Kız Dedesi Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Beach_and_cows_I%C4%9Fneada_floodplain.jpg/960px-Beach_and_cows_I%C4%9Fneada_floodplain.jpg","alt":"Kız Dedesi Türbesi","caption":"Kız Dedesi Türbesi","credit":"Beach and cows Iğneada floodplain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%20Dedesi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391725","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Balıkesir'in Karesi ilçesinde bulunan Kız Dedesi Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir yer."
 keywords: ["Kız Dedesi Türbesi","Balıkesir","Karesi","Marmara Bölgesi","tarihi mekanlar","doğal güzellikler","türk kültürü","tarih","coğrafya"]

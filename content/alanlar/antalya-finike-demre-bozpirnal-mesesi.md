@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Antalya-Finike-Demre-Bozpirnal Mesesi","caption":"Antalya-Finike-Demre-Bozpirnal Mesesi","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg","alt":"Antalya-Finike-Demre-Bozpirnal Mesesi","caption":"Antalya-Finike-Demre-Bozpirnal Mesesi","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru - 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Finike-Demre-Bozpirnal%20Mesesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228571","tip":"genel"}]
 description: "Antalya'nın Finike ilçesinde yer alan Bozpirnal Mesesi, 140 hektarlık bir alanı kaplayan milli park, ziyaretçilerine doğal güzellikleri ve tarihi değerleri sunuyor."
 keywords: ["Antalya","Finike","Demre","Bozpirnal Mesesi","milli park","doğa","tarih","gezi"]

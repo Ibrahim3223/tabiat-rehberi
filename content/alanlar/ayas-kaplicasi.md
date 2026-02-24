@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Kaplıca ziyaretleri","Doğa yürüyüşleri","Otel ve restoran ziyaretleri","Sağlık hizmetleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Ayaş Kaplıcası","caption":"Ayaş Kaplıcası","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pastel_Hues_Of_Sunset_Pamukkale_%28227577267%29.jpeg/960px-Pastel_Hues_Of_Sunset_Pamukkale_%28227577267%29.jpeg","alt":"Ayaş Kaplıcası","caption":"Ayaş Kaplıcası","credit":"Pastel Hues Of Sunset Pamukkale (227577267)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aya%C5%9F%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741889","tip":"genel"}]
 description: "Ankara'nın Ayaş ilçesinde bulunan Ayaş Kaplıcası, termal kaynakları ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Ayaş Kaplıcası","termal kaynak","Ankara","İç Anadolu Bölgesi","kaplıca","tarihi geçmişi","doğal güzellik","sağlık turizmi"]

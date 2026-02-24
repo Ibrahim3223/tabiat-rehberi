@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg/960px-Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg","alt":"Söğütlü Dağı","caption":"Söğütlü Dağı","credit":"Landschap met ruïnes en het aquaduct naar Efeze, RP-F-F00998-AV.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg/960px-%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Söğütlü Dağı","caption":"Söğütlü Dağı","credit":"\"yazı\"dan koçaş bağları ve hacıbaba dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%B6%C4%9F%C3%BCtl%C3%BC%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811100","tip":"genel"}]
 description: "Van'da yer alan Söğütlü Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Söğütlü Dağı","Van","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

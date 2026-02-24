@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyareti","Doğa yürüyüşü","Fotograf çekimi","Tarihi yapıları gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hasas Baba Türbesi","caption":"Hasas Baba Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gallipoli_ANZAC_Cove_2.JPG/960px-Gallipoli_ANZAC_Cove_2.JPG","alt":"Hasas Baba Türbesi","caption":"Hasas Baba Türbesi","credit":"Gallipoli ANZAC Cove 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasas%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391281","tip":"genel"}]
 description: "Aksaray'da yer alan tarihi ve kültürel bir mekan"
 keywords: ["Aksaray","Hasas Baba Türbesi","Türbe","Tarih","Kültür","İç Anadolu Bölgesi","Turizm","Gezi"]

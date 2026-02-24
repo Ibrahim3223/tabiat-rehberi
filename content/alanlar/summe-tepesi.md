@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Fotoğraf çekme","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Sümme Tepesi","caption":"Sümme Tepesi","credit":"Lake Meke (217872347).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Second_floor_hall._View_looking_south._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-16.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Sümme Tepesi","caption":"Sümme Tepesi","credit":"Second floor hall. View looking south. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-16","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCmme%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811263","tip":"genel"}]
 description: "Konya'da yer alan Sümme Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Sümme Tepesi","Konya","doğal güzellik","tepe","gezi","tarihçe","coğrafya","flora","fauna"]

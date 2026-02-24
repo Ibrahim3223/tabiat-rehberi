@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Kavcınasar Dağı","caption":"Kavcınasar Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Kavcınasar Dağı","caption":"Kavcınasar Dağı","credit":"Gelincik Dagi Manzara","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavc%C4%B1nasar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564733","tip":"genel"}]
 description: "Erzurum'da yer alan Kavcınasar Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kavcınasar Dağı","Erzurum","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

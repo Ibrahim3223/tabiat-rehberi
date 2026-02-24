@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Bursa-Keles-Sorgun Karacam","caption":"Bursa-Keles-Sorgun Karacam","credit":"IMG-20210119-WA0092.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fatih_tabiat_park%C4%B1_Yozgat.jpg/960px-Fatih_tabiat_park%C4%B1_Yozgat.jpg","alt":"Bursa-Keles-Sorgun Karacam","caption":"Bursa-Keles-Sorgun Karacam","credit":"Fatih tabiat parkı Yozgat","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Keles-Sorgun%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227492","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin. Bursa-Keles-Sorgun Karacam milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bursa","Marmara Bölgesi","milli park","doğa","yeşil alan","flora","fauna"]

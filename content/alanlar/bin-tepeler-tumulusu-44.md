@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî alan gezisi","Arkeolojik keşif","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Bin Tepeler Tümülüsü 44","caption":"Bin Tepeler Tümülüsü 44","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Bin Tepeler Tümülüsü 44","caption":"Bin Tepeler Tümülüsü 44","credit":"Sunset in Erdek","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2044","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728332","tip":"genel"}]
 description: "Salihli, Manisa'da bulunan Bin Tepeler Tümülüsü 44, Ege Bölgesi'nin tarihi ve kültürel zenginliklerini sunuyor."
 keywords: ["Bin Tepeler","Tümülüs","Salihli","Manisa","Ege Bölgesi","Tarih","Kültür","Arkeoloji","Türkiye"]

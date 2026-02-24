@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Çataltaş Tepesi","caption":"Çataltaş Tepesi","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Çataltaş Tepesi","caption":"Çataltaş Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atalta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828618","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, Çataltaş Tepesi'ni ziyaret edin."
 keywords: ["Muğla","Ege Bölgesi","doğa","tepe","gezi","turizm","çevre","ekoloji","flora","fauna"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotografçılık","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Antalya-Gundogmus-Eskibag Karacam","caption":"Antalya-Gundogmus-Eskibag Karacam","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Antalya-Gundogmus-Eskibag Karacam","caption":"Antalya-Gundogmus-Eskibag Karacam","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Gundogmus-Eskibag%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227481","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan Antalya-Gundogmus-Eskibag Karacam Milli Parkı, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor."
 keywords: ["Antalya","Gundogmus","Eskibag Karacam","Milli Park","Doğa","Flora","Fauna","Akdeniz Bölgesi","Turizm"]

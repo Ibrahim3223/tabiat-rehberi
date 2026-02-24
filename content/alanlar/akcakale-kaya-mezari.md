@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","fotoğraf çekimi","tarih investigación"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Akçakale Kaya Mezarı","caption":"Akçakale Kaya Mezarı","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sprinter_on_a_vase%2C_Fikellura_style_amphora_with_a_running_man%2C_Greek%2C_6th_century_BC%2C_from_Kamiros%2C_Rhodes%2C_Aegean_Sea%2C_Winning_at_the_ancient_Games%2C_British_Museum_%287667199008%29.jpg/960px-thumbnail.jpg","alt":"Akçakale Kaya Mezarı","caption":"Akçakale Kaya Mezarı","credit":"Sprinter on a vase, Fikellura style amphora with a running man, Greek, 6th century BC, from Kamiros, Rhodes, Aegean Sea, Winning at the ancient Games, British Museum (7667199008)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7akale%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728187","tip":"genel"}]
 description: "Sivas'ın Kangal ilçesinde yer alan tarihi kaya mezarı, ziyaretçilerini bekliyor"
 keywords: ["Akçakale Kaya Mezarı","Kangal","Sivas","tarihi yerler","kaya mezarları","iç anadolu bölgesi","turistik yerler","gezi noktaları","tarih"]

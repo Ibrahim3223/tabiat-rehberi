@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları gezmek","Doğal güzellikleri keşfetmek","Fotoğraf çekmek","Yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Bin Tepeler Tümülüsü 27","caption":"Bin Tepeler Tümülüsü 27","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg","alt":"Bin Tepeler Tümülüsü 27","caption":"Bin Tepeler Tümülüsü 27","credit":"Piri Reis - Map of the Island of Cos Off the Anatolian Coast - Walters W65895A - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2027","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728350","tip":"genel"}]
 description: "Ege Bölgesi'nde bulunan Bin Tepeler Tümülüsü 27, tarihi ve doğal güzellikleri bir arada sunuyor. Salihli, Manisa'da yer alan bu özel mekan, ziyaretçilerine unutulmaz anlar vaat ediyor."
 keywords: ["Bin Tepeler","Tümülüsü 27","Salihli","Manisa","Ege Bölgesi","tarihi mekan","doğal güzellik","gezi","turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Geyik Alani","caption":"Geyik Alani","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Geyik Alani","caption":"Geyik Alani","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geyik%20Alani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28451110","tip":"genel"}]
 description: "Eskişehir'in doğa harikası, 140 hektarlık yeşil alan"
 keywords: ["Geyik Alani","Eskişehir","doğa","yeşil alan","milli park","turizm","gezi","yaban hayatı"]

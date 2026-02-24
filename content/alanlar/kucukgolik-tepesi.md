@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Küçükgolik Tepesi","caption":"Küçükgolik Tepesi","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/960px-Adams_The_Tetons_and_the_Snake_River.jpg","alt":"Küçükgolik Tepesi","caption":"Küçükgolik Tepesi","credit":"Adams The Tetons and the Snake River","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkgolik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042854","tip":"genel"}]
 description: "Batman'da bulunan Küçükgolik Tepesi, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Küçükgolik Tepesi","Batman","dağ","doğa","gezi","turizm","tepe","manzara","yatır"]

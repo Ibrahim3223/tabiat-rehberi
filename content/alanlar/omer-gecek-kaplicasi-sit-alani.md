@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Kaplıca ziyaretleri","Doğa yürüyüşleri","Bitki ve hayvan gözlemi","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Ömer Gecek Kaplıcası Sit Alanı","caption":"Ömer Gecek Kaplıcası Sit Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"Ömer Gecek Kaplıcası Sit Alanı","caption":"Ömer Gecek Kaplıcası Sit Alanı","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96mer%20Gecek%20Kapl%C4%B1cas%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226054","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Ömer Gecek Kaplıcası Sit Alanı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Ömer Gecek Kaplıcası","Sit Alanı","İç Anadolu Bölgesi","Kaplıca","Doğa","Turizm","Gezi","Tarihi Yerler","Doğal Güzellikler","Kültür"]

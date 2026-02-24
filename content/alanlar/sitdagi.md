@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Sitdağı","caption":"Sitdağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Develi_Ovas%C4%B1_15_06_1988_mit_Erciyes_Da%C4%9F%C4%B1.jpg/960px-Develi_Ovas%C4%B1_15_06_1988_mit_Erciyes_Da%C4%9F%C4%B1.jpg","alt":"Sitdağı","caption":"Sitdağı","credit":"Develi Ovası 15 06 1988 mit Erciyes Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sitda%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555824","tip":"genel"}]
 description: "Mardin'de yer alan Sitdağı, bölgenin önemli coğrafi oluşumlarından biri"
 keywords: ["Sitdağı","Mardin","Dağ","Coğrafi oluşum","Türkiye'nin dağları","Mardin turizm","Doğa harikaları","Gezi noktaları","Türkiye coğrafyası"]

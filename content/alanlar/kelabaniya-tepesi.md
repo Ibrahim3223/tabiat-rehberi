@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","tarihî yapılar gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Kelabaniya Tepesi","caption":"Kelabaniya Tepesi","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Kelabaniya Tepesi","caption":"Kelabaniya Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelabaniya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552201","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin birleştiği nokta,Kelabaniya Tepesi"
 keywords: ["Mardin","Kelabaniya Tepesi","tarih","doğa","gezi","seyahat","Güneydoğu Anadolu Bölgesi","coğrafya","flora","fauna"]

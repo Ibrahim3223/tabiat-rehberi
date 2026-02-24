@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Bisiklet","Piknik","Fotoğrafçılık","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Tirit Baba Türbesi","caption":"Tirit Baba Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg","alt":"Tirit Baba Türbesi","caption":"Tirit Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 18","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tirit%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391824","tip":"genel"}]
 description: "Edirne'nin tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Tirit Baba Türbesi","Edirne","Marmara Bölgesi","Türbe","Plaj","Doğal Alan","Tarih","Gezi"]

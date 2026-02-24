@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Aşağıköy Köy Hamamı","caption":"Aşağıköy Köy Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg","alt":"Aşağıköy Köy Hamamı","caption":"Aşağıköy Köy Hamamı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9Fa%C4%9F%C4%B1k%C3%B6y%20K%C3%B6y%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738800","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, Bilecik'in doğal güzellikleri arasında yer alan Aşağıköy Köy Hamamı, ziyaretçilerini bekliyor."
 keywords: ["Aşağıköy Köy Hamamı","Bilecik","Marmara Bölgesi","doğa","gezi","tarih","coğrafya","flora","fauna","ziyaret"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık","tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sivrinin Tepesi","caption":"Sivrinin Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Sivrinin Tepesi","caption":"Sivrinin Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sivrinin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387824","tip":"genel"}]
 description: "Kars'ta yer alan Sivrinin Tepesi, yüksek bir konumdate, yaklaşık 200 futbol sahası büyüklüğünde bir alan"
 keywords: ["Kars","Doğu Anadolu Bölgesi","Sivrinin Tepesi","tepe","dağ","doğa","gezi","tarih"]

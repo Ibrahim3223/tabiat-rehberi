@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Şeyh Hamit Türbesi","caption":"Şeyh Hamit Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dalyanbal%C4%B1ktuzak.jpg/960px-Dalyanbal%C4%B1ktuzak.jpg","alt":"Şeyh Hamit Türbesi","caption":"Şeyh Hamit Türbesi","credit":"Dalyanbalıktuzak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Hamit%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582870","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren Şeyh Hamit Türbesi, Mardin'in Artuklu ilçesinde found."
 keywords: ["Mardin","Artuklu","Şeyh Hamit Türbesi","tarih","doğa","gezi","türbe","Güneydoğu Anadolu Bölgesi"]

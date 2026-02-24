@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Beynam Dağı","caption":"Beynam Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Beynam Dağı","caption":"Beynam Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beynam%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511478","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Beynam Dağı, doğa severler için bir cennet. 1200 hektarlık alanıyla İstanbul'un önemli bir bölümünü kaplıyor."
 keywords: ["Beynam Dağı","Türkiye dağları","doğa turizmi","İstanbul","dağcılık","turizm","gezi rehberi","doğal güzellikler","coğrafya"]

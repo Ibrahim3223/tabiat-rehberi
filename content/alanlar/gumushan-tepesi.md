@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Gümüşhan Tepesi","caption":"Gümüşhan Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Gümüşhan Tepesi","caption":"Gümüşhan Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fhan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139219","tip":"genel"}]
 description: "Samsun'un önemli doğal alanlarından biri olan Gümüşhan Tepesi, Karadeniz Bölgesi'nde yer alır."
 keywords: ["Gümüşhan Tepesi","Samsun","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

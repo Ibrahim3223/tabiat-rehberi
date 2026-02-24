@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Metelik Tepesi","caption":"Metelik Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Metelik Tepesi","caption":"Metelik Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Metelik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386503","tip":"genel"}]
 description: "Hatay'da yer alan Metelik Tepesi, bölgenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Metelik Tepesi","Hatay","Akdeniz Bölgesi","doğa","gezi","tepe","manzara","turizm","yerel","çevre"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Gayrik Tepe","caption":"Gayrik Tepe","credit":"Malatya turgut ozal nature park view.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TRABZON_YAYLASI_VE_%C4%B0BADET.jpg/960px-TRABZON_YAYLASI_VE_%C4%B0BADET.jpg","alt":"Gayrik Tepe","caption":"Gayrik Tepe","credit":"TRABZON YAYLASI VE İBADET","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gayrik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31523631","tip":"genel"}]
 description: "Malatya'da bulunan Gayrik Tepe, 1200 hektarlık bir alanı kaplıyor ve İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kapsıyor."
 keywords: ["Gayrik Tepe","Malatya","Dağ","Doğa","Seyahat","Turizm","Gezi","Türkiye","Coğrafya"]

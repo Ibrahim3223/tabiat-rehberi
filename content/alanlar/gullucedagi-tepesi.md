@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","tarih gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Güllücedağı Tepesi","caption":"Güllücedağı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Güllücedağı Tepesi","caption":"Güllücedağı Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCll%C3%BCceda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873059","tip":"genel"}]
 description: "Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği nokta, Güllücedağı Tepesi"
 keywords: ["Güllücedağı Tepesi","Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","tepe","manzara"]

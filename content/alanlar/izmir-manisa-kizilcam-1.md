@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Izmir-Manisa Kızılçam 1","caption":"Izmir-Manisa Kızılçam 1","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Izmir-Manisa Kızılçam 1","caption":"Izmir-Manisa Kızılçam 1","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Manisa%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227867","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan İzmir-Manisa Kızılçam 1 milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["İzmir-Manisa Kızılçam 1","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna"]

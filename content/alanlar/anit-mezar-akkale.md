@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Anıt mezar, Akkale","caption":"Anıt mezar, Akkale","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg","alt":"Anıt mezar, Akkale","caption":"Anıt mezar, Akkale","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 03","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/An%C4%B1t%20mezar%2C%20Akkale","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728089","tip":"genel"}]
 description: "Erdemli/Mersin'de yer alan tarihi Anıt mezar, Akkale"
 keywords: ["Anıt mezar","Akkale","Erdemli","Mersin","tarih","coğrafya","flora","fauna","ziyaret"]

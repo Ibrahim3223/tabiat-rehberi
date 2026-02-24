@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Gedelme Çınarı","caption":"Gedelme Çınarı","credit":"Kursunlu Waterfall Plant","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Gedelme Çınarı","caption":"Gedelme Çınarı","credit":"Plains south of Mardin, Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gedelme%20%C3%87%C4%B1nar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Antalya'nın doğal güzelliğini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Antalya","doğal güzellik","Gedelme Çınarı","tabiat anıtı","çınar ağacı","Akdeniz Bölgesi","turizm","gezi"]

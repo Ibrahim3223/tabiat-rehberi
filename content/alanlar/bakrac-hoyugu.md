@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["höyük gezisi","doğa yürüyüşü","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bakraç Höyüğü","caption":"Bakraç Höyüğü","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/South_room_first_floor._View_looking_south._East_porch_visible_through_window._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_HABS_VA%2C42-CLOV.V%2C2A-14.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Bakraç Höyüğü","caption":"Bakraç Höyüğü","credit":"South room first floor. View looking south. East porch visible through window. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, HABS VA,42-CLOV.V,2A-14","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bakra%C3%A7%20H%C3%B6y%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32132500","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan tarihi höyüğün özellikleri"
 keywords: ["Kahramanmaraş","Bakraç Höyüğü","tarih","höyük","Akdeniz Bölgesi","coğrafya","doğa","flora","fauna"]

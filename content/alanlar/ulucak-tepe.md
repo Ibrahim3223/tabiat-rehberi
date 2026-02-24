@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg","alt":"Ulucak Tepe","caption":"Ulucak Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 06.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg/960px-Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg","alt":"Ulucak Tepe","caption":"Ulucak Tepe","credit":"Ida Husted Harper photograph by Aime Dupont","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulucak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389455","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Ulucak Tepe, tarihi geçmişi ve doğal güzellikleri ile dikkat çeken bir bölge. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Ulucak Tepe","Kahramanmaraş","Akdeniz Bölgesi","tarihi geçmişi","doğal güzellikler"]

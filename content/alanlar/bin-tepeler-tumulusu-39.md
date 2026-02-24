@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Tümülüsleri keşfetmek","Plajın keyfini çıkarmak","Doğal güzellikleri izlemek","Yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Bin Tepeler Tümülüsü 39","caption":"Bin Tepeler Tümülüsü 39","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Bin Tepeler Tümülüsü 39","caption":"Bin Tepeler Tümülüsü 39","credit":"Karaburun - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2039","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728324","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerinin buluştuğu bir nokta olan Bin Tepeler Tümülüsü 39, ziyaretçilerini bekliyor."
 keywords: ["Bin Tepeler Tümülüsü 39","Salihli","Manisa","Ege Bölgesi","tarih","doğa","gezi","tümülüs","plaj"]

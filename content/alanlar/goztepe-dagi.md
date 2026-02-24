@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Göztepe Dağı","caption":"Göztepe Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg/960px-Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg","alt":"Göztepe Dağı","caption":"Göztepe Dağı","credit":"Hacıbaba dağı- batıdan - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6ztepe%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872751","tip":"genel"}]
 description: "Muş'ta yer alan Göztepe Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Göztepe Dağı","Muş","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Muş Turistik Yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Aysekizi Tepesi","caption":"Aysekizi Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/South_elevation._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-5.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Aysekizi Tepesi","caption":"Aysekizi Tepesi","credit":"South elevation. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-5","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aysekizi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531178","tip":"genel"}]
 description: "Manisa'da bulunan Aysekizi Tepesi, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Aysekizi Tepesi","Manisa","Ege Bölgesi","doğal güzellik","tepe","gezi","yaban hayatı","çevre"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["Tarihî alanları gezmek","Doğa yürüyüşleri yapmak","Fotografi çekmek","Yerel lezzetleri tatmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Milet Humaytepe Roma Hamamı","caption":"Milet Humaytepe Roma Hamamı","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Beach_and_cows_I%C4%9Fneada_floodplain.jpg/960px-Beach_and_cows_I%C4%9Fneada_floodplain.jpg","alt":"Milet Humaytepe Roma Hamamı","caption":"Milet Humaytepe Roma Hamamı","credit":"Beach and cows Iğneada floodplain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Milet%20Humaytepe%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739083","tip":"genel"}]
 description: "Didim'de Aydın'ın tarihini keşfedin. Milet Humaytepe Roma Hamamı, Ege Bölgesi'nin gizli hazinelerinden biri."
 keywords: ["Milet","Humaytepe","Roma Hamamı","Didim","Aydın","Ege Bölgesi","Tarih","Arkeoloji"]

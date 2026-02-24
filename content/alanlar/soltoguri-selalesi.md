@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_Bal%C4%B1klar.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_Bal%C4%B1klar.jpg","alt":"Şoltoğuri Şelalesi","caption":"Şoltoğuri Şelalesi","credit":"Kurşunlu Şelalesi - Şelalesi Bölgesi - Manzara Fotoğrafı - Balıklar.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Seven_Watermills_Nature_Park%2C_Giresun_05.jpg/960px-Seven_Watermills_Nature_Park%2C_Giresun_05.jpg","alt":"Şoltoğuri Şelalesi","caption":"Şoltoğuri Şelalesi","credit":"Seven Watermills Nature Park, Giresun 05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eolto%C4%9Furi%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97213387","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Şoltoğuri Şelalesi, ziyaretçilerini büyülüyor."
 keywords: ["Şoltoğuri Şelalesi","İç Anadolu Bölgesi","doğal güzellik","şelale","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","manzara izleme","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kabırlibel Tepesi","caption":"Kabırlibel Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Kabırlibel Tepesi","caption":"Kabırlibel Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kab%C4%B1rlibel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536249","tip":"genel"}]
 description: "Hatay'da bulunan Kabırlibel Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kabırlibel Tepesi","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

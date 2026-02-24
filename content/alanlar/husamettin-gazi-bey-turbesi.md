@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Kültürel etkinlikler","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Hüsamettin Gazi Bey Türbesi","caption":"Hüsamettin Gazi Bey Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg/960px-Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg","alt":"Hüsamettin Gazi Bey Türbesi","caption":"Hüsamettin Gazi Bey Türbesi","credit":"Karaburun, İzmir, Turkey - panoramio (8)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCsamettin%20Gazi%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390469","tip":"genel"}]
 description: "Denizli'nin Baklan ilçesinde yer alan tarihi türbe"
 keywords: ["Baklan","Denizli","Ege Bölgesi","Türbe","Tarih","Kültür"]

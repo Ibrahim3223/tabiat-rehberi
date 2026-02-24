@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih öğrenme","doğa yürüyüşü","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kuyu Tepe","caption":"Kuyu Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Kuyu Tepe","caption":"Kuyu Tepe","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387638","tip":"genel"}]
 description: "Van'ın tarihi ve doğal güzelliklerini keşfedin. Kuyu Tepe, Doğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Van","Doğu Anadolu Bölgesi","Kuyu Tepe","tarih","doğa","gezi","turizm","kültür","coğrafya"]

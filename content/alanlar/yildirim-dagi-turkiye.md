@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Yıldırım Dağı","caption":"Yıldırım Dağı","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Yıldırım Dağı","caption":"Yıldırım Dağı","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1r%C4%B1m%20Da%C4%9F%C4%B1%20(T%C3%BCrkiye)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502310","tip":"genel"}]
 description: "Erzurum'da bulunan Yıldırım Dağı, Türkiye'nin önemli dağlarından biri. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Yıldırım Dağı","Erzurum","Dağ","Türkiye","Doğa","Seyahat","Gezi","Turizm","Coğrafya"]

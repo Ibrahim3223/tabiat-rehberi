@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","historik alan gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Hüseyintarla Tepesi","caption":"Hüseyintarla Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Hüseyintarla Tepesi","caption":"Hüseyintarla Tepesi","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCseyintarla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34875182","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Hüseyintarla Tepesi, tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Hüseyintarla Tepesi","Ankara","İç Anadolu Bölgesi","tarihi geçmişi","doğal güzellikler","coğrafya","flora","fauna","ziyaret"]

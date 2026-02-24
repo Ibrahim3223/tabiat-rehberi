@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihçe","doğa","sosyal etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Kalafatçı Hamamı","caption":"Kalafatçı Hamamı","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Kalafatçı Hamamı","caption":"Kalafatçı Hamamı","credit":"Podima1","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalafat%C3%A7%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739146","tip":"genel"}]
 description: "Beyoğlu'nda tarihi bir hamam, 140 hektarlık yeşil alan ve zengin fauna"
 keywords: ["Kalafatçı Hamamı","Beyoğlu","İstanbul","Marmara Bölgesi","tarihi hamam","yeşil alan","fauna","doğa","gezi"]

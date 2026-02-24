@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 Saat"
 aktiviteler: ["Tarihçe Gezisi","Doğa Yürüyüşü","Piknik","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Siyahser Türbesi","caption":"Siyahser Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Siyahser Türbesi","caption":"Siyahser Türbesi","credit":"Black Sea - Turkey","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Siyahser%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390490","tip":"genel"}]
 description: "Karaman'da tarihi ve doğal güzelliklerin birleştiği Siyahser Türbesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Karaman","Siyahser Türbesi","tarihi mekan","doğa alanı","Karaman'ın tarihi yerleri","İç Anadolu Bölgesi","gezi noktaları","tarihçe"]

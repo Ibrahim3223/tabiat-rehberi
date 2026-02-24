@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Burtkız İni","caption":"Burtkız İni","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Subduction-en.svg/960px-Subduction-en.svg.png","alt":"Burtkız İni","caption":"Burtkız İni","credit":"Subduction-en","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burtk%C4%B1z%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319086","tip":"genel"}]
 description: "Mersin'de bulunan Burtkız İni, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Burtkız İni","Mersin","Jeopark","Doğa","Turizm","Mersin Gezilecek Yerler","Jeolojik Alanlar","Turistik Yerler","Doğal Güzellikler"]

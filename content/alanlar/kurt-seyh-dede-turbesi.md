@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe hakkında bilgi edinmek","dini ve kültürel bir deneyim yaşamak","Karadeniz Bölgesi'nin önemli dini merkezlerini görmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kurt Şeyh Dede Türbesi","caption":"Kurt Şeyh Dede Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mediterranean_-_panoramio_%283%29.jpg/960px-Mediterranean_-_panoramio_%283%29.jpg","alt":"Kurt Şeyh Dede Türbesi","caption":"Kurt Şeyh Dede Türbesi","credit":"Mediterranean - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurt%20%C5%9Eeyh%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391760","tip":"genel"}]
 description: "Kurt Şeyh Dede Türbesi, Kastamonu'nun Devrekani ilçesinde yer alan tarihi bir dini yapıdır. Bu türbe, Karadeniz Bölgesi'nin önemli dini merkezlerinden biridir."
 keywords: ["Kurt Şeyh Dede Türbesi","Devrekani","Kastamonu","Karadeniz Bölgesi","tarihi dini yapı","tarihçe","coğrafya","flora","fauna","ziyaret"]

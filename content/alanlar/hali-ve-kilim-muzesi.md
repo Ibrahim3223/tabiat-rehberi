@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Rehberli turlar","Atölye çalışmaları","Sergiler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Paolo_Monti_-_Serie_fotografica_%28T%C3%BCrkiye%2C_1962%29_-_BEIC_6333361.jpg/960px-Paolo_Monti_-_Serie_fotografica_%28T%C3%BCrkiye%2C_1962%29_-_BEIC_6333361.jpg","alt":"Halı ve Kilim Müzesi","caption":"Halı ve Kilim Müzesi","credit":"Paolo Monti - Serie fotografica (Türkiye, 1962) - BEIC 6333361.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lake_S%C3%BCnnet_in_the_fall_01.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_01.jpg","alt":"Halı ve Kilim Müzesi","caption":"Halı ve Kilim Müzesi","credit":"Lake Sünnet in the fall 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hal%C4%B1%20ve%20Kilim%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949463","tip":"genel"}]
 description: "İstanbul'da yer alan Halı ve Kilim Müzesi, zengin koleksiyonu ile ziyaretçilerini bekliyor."
 keywords: ["Halı ve Kilim Müzesi","İstanbul","Marmara Bölgesi","Kilim","Halı","Müze","Sanat","Kültür"]

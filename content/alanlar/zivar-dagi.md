@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Zivar Dağı","caption":"Zivar Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yol_ve_demirkaz%C4%B1k.jpg/960px-Yol_ve_demirkaz%C4%B1k.jpg","alt":"Zivar Dağı","caption":"Zivar Dağı","credit":"Yol ve demirkazık","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zivar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31501684","tip":"genel"}]
 description: "Diyarbakır'da yer alan Zivar Dağı, bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Zivar Dağı","Diyarbakır","Dağ","Doğa","Turizm","Gezi","Diyarbakır gezilecek yerler","Zivar Dağı hakkında","Diyarbakır dağları"]

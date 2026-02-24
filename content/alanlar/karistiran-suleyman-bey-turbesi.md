@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenme","doğa yürüyüşü","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Karıştıran Süleyman Bey Türbesi","caption":"Karıştıran Süleyman Bey Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Port_G%C3%B6cek_early_evening.jpg/960px-Port_G%C3%B6cek_early_evening.jpg","alt":"Karıştıran Süleyman Bey Türbesi","caption":"Karıştıran Süleyman Bey Türbesi","credit":"Port Göcek early evening","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kar%C4%B1%C5%9Ft%C4%B1ran%20S%C3%BCleyman%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391470","tip":"genel"}]
 description: "Osmangazi, Bursa'da bulunanhistori ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Bursa","Osmangazi","tarih","doğa","türk kültürü","Süleyman Bey","türbe","marmara bölgesi","karıştıran","gezi"]

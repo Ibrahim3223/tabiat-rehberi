@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Çıngal Dağı","caption":"Çıngal Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Çıngal Dağı","caption":"Çıngal Dağı","credit":"Erzincan Refahiye","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1ngal%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819184","tip":"genel"}]
 description: "Kastamonu'nun görkemli dağlarından biri olan Çıngal Dağı, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Çıngal Dağı","Kastamonu","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Kastamonu Turistik Yerler","Dağcılık"]

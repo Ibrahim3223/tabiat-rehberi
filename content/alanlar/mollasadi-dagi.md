@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Mollasadi Dağı","caption":"Mollasadi Dağı","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"Mollasadi Dağı","caption":"Mollasadi Dağı","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mollasadi%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510241","tip":"genel"}]
 description: "Van'da yer alan Mollasadi Dağı, doğal güzellikleri ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Mollasadi Dağı","Van","Dağ","Doğa","Yeşil Alan","İstanbul","Turizm","Seyahat","Gezi","Doğal Güzellik"]

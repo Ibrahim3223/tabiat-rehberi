@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","çevre gezisi","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Ankara Kirikkale-Sulakyurt-Karacam","caption":"Ankara Kirikkale-Sulakyurt-Karacam","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg.png","alt":"Ankara Kirikkale-Sulakyurt-Karacam","caption":"Ankara Kirikkale-Sulakyurt-Karacam","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks logo","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Kirikkale-Sulakyurt-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228089","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Ankara Kirikkale-Sulakyurt-Karacam, doğaseverler için bir cennet"
 keywords: ["milli park","Ankara","Kirikkale","Sulakyurt","Karacam","doğa","turizm","gezi","yerel","ekosistem"]

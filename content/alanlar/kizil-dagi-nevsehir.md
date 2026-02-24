@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nature_of_Cappadocia.jpg/960px-Nature_of_Cappadocia.jpg","alt":"Kızıl Dağı","caption":"Kızıl Dağı","credit":"Nature of Cappadocia.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Kızıl Dağı","caption":"Kızıl Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%20Da%C4%9F%C4%B1%20(Nev%C5%9Fehir)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514111","tip":"genel"}]
 description: "Nevşehir'de bulunan Kızıl Dağı, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kızıl Dağı","Nevşehir","Doğal Alan","Tarih","Turizm","Dağ","Yeşil Cennet","Gezi","Seyahat"]

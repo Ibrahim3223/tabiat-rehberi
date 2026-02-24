@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Piramidal Karacam","caption":"Bursa-Mustafakemalpaşa-Karacabey Piramidal Karacam","credit":"IMG-20210119-WA0092.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg/960px-Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Piramidal Karacam","caption":"Bursa-Mustafakemalpaşa-Karacabey Piramidal Karacam","credit":"Kuzuyayla Tabiat Parkı (2) 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Karacabey%20Piramidal%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227966","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli doğal alanlarından biri olan Bursa-Mustafakemalpaşa-Karacabey Piramidal Karacam, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Bursa","Marmara Bölgesi","doğal alan","Piramidal Karacam","milli park","çevre","ekosistem","flora","fauna","turizm"]

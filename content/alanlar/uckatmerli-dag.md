@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Üçkatmerli Dağ","caption":"Üçkatmerli Dağ","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_2315_Tufa_landscape_of_Goreme_%28Turkey%29.jpg/960px-00_2315_Tufa_landscape_of_Goreme_%28Turkey%29.jpg","alt":"Üçkatmerli Dağ","caption":"Üçkatmerli Dağ","credit":"00 2315 Tufa landscape of Goreme (Turkey)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7katmerli%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820520","tip":"genel"}]
 description: "Diyarbakır'da yer alan Üçkatmerli Dağ, 1200 hektarlık yeşil alanı ile dikkat çekiyor"
 keywords: ["Üçkatmerli Dağ","Diyarbakır","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Diyarbakır Gezilecek Yerler"]

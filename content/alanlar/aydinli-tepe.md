@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Aydınlı Tepe","caption":"Aydınlı Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg/960px-Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg","alt":"Aydınlı Tepe","caption":"Aydınlı Tepe","credit":"Jebel Aqra (Kel Dağı, Mount Casius), 2008","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayd%C4%B1nl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549204","tip":"genel"}]
 description: "Batman'da yer alan Aydınlı Tepe, 1200 hektarlık yeşil alanıyla doğa severleri çekiyor."
 keywords: ["Aydınlı Tepe","Batman","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Doğa Sporları"]

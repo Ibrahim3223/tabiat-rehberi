@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Yahşi Bey Türbesi","caption":"Yahşi Bey Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Yahşi Bey Türbesi","caption":"Yahşi Bey Türbesi","credit":"Karaburun - panoramio (2)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yah%C5%9Fi%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390747","tip":"genel"}]
 description: "Çanakkale'nin Bayramiç ilçesinde bulunan tarihi ve doğal güzellikleriyle dikkat çeken bir mekan"
 keywords: ["Yahşi Bey Türbesi","Bayramiç","Çanakkale","tarih","doğa","türbe","plaj","Marmara Bölgesi"]

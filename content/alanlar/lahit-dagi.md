@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Lahit Dağı","caption":"Lahit Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_at_sunset%2C_December_2020.jpg/960px-A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_at_sunset%2C_December_2020.jpg","alt":"Lahit Dağı","caption":"Lahit Dağı","credit":"Ağrı Dağı at sunset, December 2020","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lahit%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511401","tip":"genel"}]
 description: "Türkiye'nin önemli coğrafi oluşumlarından biri olan Lahit Dağı, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Lahit Dağı","Türkiye dağları","coğrafi oluşumlar","doğa turizmi","dağcılık","Türkiye'nin dağları","Lahit Dağı hakkında","Türkiye coğrafyası","dağlar"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "En az 2-3 saat"
 aktiviteler: ["yürüyüş","bitki ve hayvan gözlemi","fotografcılık","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 46","caption":"Bin Tepeler Tümülüsü 46","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Bin Tepeler Tümülüsü 46","caption":"Bin Tepeler Tümülüsü 46","credit":"Harbiş Sahili, Karataş - Adana 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2046","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728334","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli hazinesi Bin Tepeler Tümülüsü 46, tarih ve doğanın iç içe geçtiği bir mekan"
 keywords: ["Bin Tepeler Tümülüsü 46","Salihli","Manisa","Ege Bölgesi","tarih","doğa","tümülüs","arkeoloji"]

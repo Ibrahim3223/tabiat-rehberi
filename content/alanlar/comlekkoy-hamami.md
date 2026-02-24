@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","su sporları","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Çömlekköy Hamamı","caption":"Çömlekköy Hamamı","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Çömlekköy Hamamı","caption":"Çömlekköy Hamamı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C3%B6mlekk%C3%B6y%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739239","tip":"genel"}]
 description: "Lalapaşa/Edirne'de bulunan Çömlekköy Hamamı, Marmara Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Lalapaşa","Edirne","Marmara Bölgesi","doğal güzellik","plaj","çevre","ekoloji"]

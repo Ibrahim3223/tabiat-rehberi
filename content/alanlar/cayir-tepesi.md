@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çayır Tepesi","caption":"Çayır Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Çayır Tepesi","caption":"Çayır Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828758","tip":"genel"}]
 description: "Muş'un doğal güzellikleri arasında yer alan Çayır Tepesi, ziyaretçiler için çekici bir destinasyon"
 keywords: ["Çayır Tepesi","Muş","Doğu Anadolu Bölgesi","doğal güzellik","turizm","gezi","tepe","manzara","doğa"]

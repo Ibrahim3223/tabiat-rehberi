@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Euromos Roma Hamamı","caption":"Euromos Roma Hamamı","credit":"Muğla - Dalyan - İztuzu Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff/lossy-page1-900px-A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff.jpg","alt":"Euromos Roma Hamamı","caption":"Euromos Roma Hamamı","credit":"A Ship Wrecked in a Storm off a Rocky Coast RMG BHC0883","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Euromos%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739067","tip":"genel"}]
 description: "Muğla'nın Milas ilçesindeki Euromos Roma Hamamı, tarihi ve doğal güzelliklerin birleştiği bir alan."
 keywords: ["Euromos Roma Hamamı","Milas","Muğla","Roma Hamamı","tarih","doğa","gezi","turizm","Ege Bölgesi"]

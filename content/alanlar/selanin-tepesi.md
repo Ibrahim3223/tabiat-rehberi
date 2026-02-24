@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Selanın Tepesi","caption":"Selanın Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Selanın Tepesi","caption":"Selanın Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Selan%C4%B1n%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390726","tip":"genel"}]
 description: "Yozgat'ın gizli cenneti Selanın Tepesi, İç Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiriyor."
 keywords: ["Selanın Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara","çevre"]

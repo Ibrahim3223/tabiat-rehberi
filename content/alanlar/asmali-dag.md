@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Asmalı Dağ","caption":"Asmalı Dağ","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Asmalı Dağ","caption":"Asmalı Dağ","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asmal%C4%B1%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571352","tip":"genel"}]
 description: "Sivas'ta bulunan Asmalı Dağ, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Asmalı Dağ","Sivas","Dağ","Doğa","Yeşil Alan","Turizm","Sivas Turistik Yerler","Dağ Turizmi","Doğa Sporları"]

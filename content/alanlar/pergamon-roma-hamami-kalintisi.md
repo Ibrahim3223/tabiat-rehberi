@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezinti","doğa yürüyüşü","fotografcılık","yerel lezzetler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg","alt":"Pergamon Roma Hamamı Kalıntısı","caption":"Pergamon Roma Hamamı Kalıntısı","credit":"Süzer Sun Dreams Beach 13 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Istanbul_beaches-_Sea_of_Marmara_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_10.jpg","alt":"Pergamon Roma Hamamı Kalıntısı","caption":"Pergamon Roma Hamamı Kalıntısı","credit":"Istanbul beaches- Sea of Marmara 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pergamon%20Roma%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739097","tip":"genel"}]
 description: "İzmir'in Bergama ilçesinde yer alan Pergamon Roma Hamamı Kalıntısı, tarihi ve doğası ile dikkat çekici bir destinasyon."
 keywords: ["Pergamon","Roma Hamamı","Bergama","İzmir","tarih","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Mısırlıoğlu Türbesi","caption":"Mısırlıoğlu Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Mısırlıoğlu Türbesi","caption":"Mısırlıoğlu Türbesi","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C4%B1s%C4%B1rl%C4%B1o%C4%9Flu%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391324","tip":"genel"}]
 description: "Gümüşhane'nin tarihi ve doğal güzellikleri arasında yer alan Mısırlıoğlu Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Mısırlıoğlu Türbesi","Gümüşhane","Trabzon Eyaleti","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

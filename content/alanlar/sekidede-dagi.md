@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Sekidede Dağı","caption":"Sekidede Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg/960px-%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Sekidede Dağı","caption":"Sekidede Dağı","credit":"\"yazı\"dan koçaş bağları ve hacıbaba dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sekidede%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31507142","tip":"genel"}]
 description: "Sivas'ta yer alan Sekidede Dağı, doğa severlerin keşfetmeyi bekleyen bir hazine. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Sekidede Dağı","Sivas","Doğa","Dağ","Turizm","Sivas Turistik Yerler","Doğa Harikaları","Sekidede Dağı Turu","Sivas Gezi Rehberi"]

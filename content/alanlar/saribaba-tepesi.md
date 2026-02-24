@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Manzara seyretme","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Sarıbaba Tepesi","caption":"Sarıbaba Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sarıbaba Tepesi","caption":"Sarıbaba Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1baba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387783","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin. Sarıbaba Tepesi, şehrin keyfini çıkarabileceğiniz bir nokta."
 keywords: ["Sarıbaba Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğal güzellikler","Turizm","Gezi","Tarih","Coğrafya","Flora","Fauna"]

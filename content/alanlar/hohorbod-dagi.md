@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Hohorbod Dağı","caption":"Hohorbod Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mehmetali_k%C3%B6y%C3%BC_yak%C4%B1nlar%C4%B1ndan_sumakl%C4%B1k_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg/960px-Mehmetali_k%C3%B6y%C3%BC_yak%C4%B1nlar%C4%B1ndan_sumakl%C4%B1k_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Hohorbod Dağı","caption":"Hohorbod Dağı","credit":"Mehmetali köyü yakınlarından sumaklık ve eşşek dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hohorbod%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31566761","tip":"genel"}]
 description: "Erzurum'un görkemli dağlarından biri olan Hohorbod Dağı, doğal güzellikleri ve kış sporları olanakları ile dikkat çekiyor."
 keywords: ["Hohorbod Dağı","Erzurum","Dağ","Doğa","Kış Sporları","Trekking","Turizm","Gezi","Macera"]

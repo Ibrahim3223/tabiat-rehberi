@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","çevre gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MOKFC06.jpg/960px-MOKFC06.jpg","alt":"Ankara-Beypazari-Karacam","caption":"Ankara-Beypazari-Karacam","credit":"MOKFC06.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Ankara-Beypazari-Karacam","caption":"Ankara-Beypazari-Karacam","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Beypazari-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228519","tip":"genel"}]
 description: "Ankara'nın doğa harikaları arasında yer alan milli park, ziyaretçilerini bekliyor."
 keywords: ["Ankara","milli park","doğa","gezi","turizm","yaban hayatı","çevre","ekoloji","flora","fauna"]

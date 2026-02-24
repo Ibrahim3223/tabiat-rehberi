@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Seyyid Bilal Türbesi","caption":"Seyyid Bilal Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pirlanta_beach%2C_without_waves_october_2009_4_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_4_-_panoramio.jpg","alt":"Seyyid Bilal Türbesi","caption":"Seyyid Bilal Türbesi","credit":"Pirlanta beach, without waves october 2009 4 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Bilal%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391398","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli kuytularından biri olan Seyyid Bilal Türbesi, Sinop'un tarihi ve doğal güzelliklerini bir araya getiriyor."
 keywords: ["Seyyid Bilal Türbesi","Sinop","Karadeniz Bölgesi","tarih","doğa","türbe","plaj"]

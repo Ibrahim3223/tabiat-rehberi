@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Tiftiktarlası Tepesi","caption":"Tiftiktarlası Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Tiftiktarlası Tepesi","caption":"Tiftiktarlası Tepesi","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tiftiktarlas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390045","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Tiftiktarlası Tepesi, doğal güzellikleri ve tarihi geçmişi ile dikkat çekicidir."
 keywords: ["Tiftiktarlası Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","tepe","gezi","turizm","çevre","ekosistem"]

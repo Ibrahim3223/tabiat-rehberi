@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Ulu Kavak","caption":"Ulu Kavak","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg.png","alt":"Ulu Kavak","caption":"Ulu Kavak","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks Regional Directorates","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulu%20Kavak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227142","tip":"genel"}]
 description: "İç Anadolu'nun göbeğinde, 140 hektarlık yeşil cennet Ulu Kavak, doğaseverlerin yeni durağı"
 keywords: ["İç Anadolu","doğa","yeşil alan","milli park","gezi","turizm","çevre","ekosistem","korunan alan"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğa yürüyüşü","Fotoğraf çekmek","Yerel yemekleri denemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Bektaş Efendi Türbesi","caption":"Bektaş Efendi Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Istanbul_beaches-_Sea_of_Marmara_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_05.jpg","alt":"Bektaş Efendi Türbesi","caption":"Bektaş Efendi Türbesi","credit":"Istanbul beaches- Sea of Marmara 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bekta%C5%9F%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391285","tip":"genel"}]
 description: "Hacıbektaş'ta bulunan tarihi türbe ve çevresi"
 keywords: ["Bektaş Efendi","Hacıbektaş","Nevşehir","İç Anadolu Bölgesi","Türbe","Tarih","Kültür","Doğa"]

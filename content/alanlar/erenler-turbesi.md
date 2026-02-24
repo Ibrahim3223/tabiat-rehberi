@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî türbe ziyaretleri","plaj faaliyetleri","doğa yürüyüşleri","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Erenler Türbesi","caption":"Erenler Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Istanbul_beaches-_Sea_of_Marmara_07.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_07.jpg","alt":"Erenler Türbesi","caption":"Erenler Türbesi","credit":"Istanbul beaches- Sea of Marmara 07","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erenler%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391793","tip":"genel"}]
 description: "Denizli'nin Merkezefendi ilçesinde bulunan Erenler Türbesi, doğal güzelliği ve tarihi önemi ile dikkat çekiyor."
 keywords: ["Erenler Türbesi","Denizli","Merkezefendi","tarih","doğa","turizm","gezi","türbe"," Denizli gezilecek yerler"]

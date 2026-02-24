@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Gelincikmezarı Tepesi","caption":"Gelincikmezarı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Gelincikmezarı Tepesi","caption":"Gelincikmezarı Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gelincikmezar%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581413","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin. Gelincikmezarı Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Çorum","Karadeniz Bölgesi","Gelincikmezarı Tepesi","doğa","gezi","tepe","manzara"]

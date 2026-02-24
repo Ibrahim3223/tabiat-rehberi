@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","su tedavisi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Ortakçı Kaplıcası","caption":"Ortakçı Kaplıcası","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg/960px-Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg","alt":"Ortakçı Kaplıcası","caption":"Ortakçı Kaplıcası","credit":"Cool waters of the turquoise blue Aegean Sea - Ayvalık - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ortak%C3%A7%C4%B1%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738947","tip":"genel"}]
 description: "Ege Bölgesi'nin en önemli doğal güzelliklerinden biri olan Ortakçı Kaplıcası, Buharkent/Aydın'da bulunmaktadır."
 keywords: ["Ortakçı Kaplıcası","Buharkent","Aydın","Ege Bölgesi","kaplıca","doğal güzellik","turizm"]

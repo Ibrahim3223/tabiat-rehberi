@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş Gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Lif Dağı","caption":"Lif Dağı","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"Lif Dağı","caption":"Lif Dağı","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lif%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556328","tip":"genel"}]
 description: "Mardin'de yer alan Lif Dağı, 1200 metre yüksekliğiyle bölgenin önemli coğrafi oluşumlarından biri."
 keywords: ["Lif Dağı","Mardin","Dağ","Coğrafi Oluşum","Turizm","Doğa","Mardin Turistik Yerler","Lif Dağı Mardin","Dağcılık"]

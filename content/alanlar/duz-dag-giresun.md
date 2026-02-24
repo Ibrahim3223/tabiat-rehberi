@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aksu_Deresi_-_panoramio.jpg/960px-Aksu_Deresi_-_panoramio.jpg","alt":"Düz Dağ","caption":"Düz Dağ","credit":"Aksu Deresi - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yukar%C4%B1_bunarlar_mevkiinden_do%C4%9Fu_y%C3%B6n%C3%BC%2C_yukar%C4%B1_ko%C3%A7a%C5%9F_k%C3%B6y%C3%BC_mevkii_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg/960px-Yukar%C4%B1_bunarlar_mevkiinden_do%C4%9Fu_y%C3%B6n%C3%BC%2C_yukar%C4%B1_ko%C3%A7a%C5%9F_k%C3%B6y%C3%BC_mevkii_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Düz Dağ","caption":"Düz Dağ","credit":"Yukarı bunarlar mevkiinden doğu yönü, yukarı koçaş köyü mevkii ve eşşek dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCz%20Da%C4%9F%20(Giresun)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49026428","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerini keşfedin, 1200 hektarlık yeşil cennet"
 keywords: ["Düz Dağ","Giresun","Doğal Alan","Yeşil Cennet","Dağ","Turizm","Giresun Turistik Yerler","Doğa","Gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Demitapa","caption":"Demitapa","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"Demitapa","caption":"Demitapa","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demitapa","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21696966","tip":"genel"}]
 description: "Iğdır'da bulunan Demitapa dağı, 1200 hektarlık yeşil cenneti ile doğa severleri bekliyor."
 keywords: ["Demitapa","Iğdır","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Iğdır Turistik Yerler"]

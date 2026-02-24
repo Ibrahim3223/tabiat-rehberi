@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Engir Gölü","caption":"Engir Gölü","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Do%C4%9Fan%C4%B1n_huzuru.jpg/960px-Do%C4%9Fan%C4%B1n_huzuru.jpg","alt":"Engir Gölü","caption":"Engir Gölü","credit":"Doğanın huzuru","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Engir%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35695908","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerinden biri olan Engir Gölü, bölgenin önemli sulak alanlarından biridir."
 keywords: ["Engir Gölü","Kayseri","göl","doğa","turizm","sulak alan","Kayseri gezilecek yerler","göl gezi","doğal güzellik"]

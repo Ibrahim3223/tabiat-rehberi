@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Gözmen Köyü Tümülüsü, Sivas","caption":"Gözmen Köyü Tümülüsü, Sivas","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Al-Samra_beach.jpg/960px-Al-Samra_beach.jpg","alt":"Gözmen Köyü Tümülüsü, Sivas","caption":"Gözmen Köyü Tümülüsü, Sivas","credit":"Al-Samra beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6zmen%20K%C3%B6y%C3%BC%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Sivas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728409","tip":"genel"}]
 description: "Sivas'ın tarih dolu topraklarında yer alan Gözmen Köyü Tümülüsü, ziyaretçiler için önemli bir kültürel merkez"
 keywords: ["Gözmen Köyü","Sivas","tarih","kültür","tümülüs","Sivas tarihi","arkeoloji","turizm","gezi"]

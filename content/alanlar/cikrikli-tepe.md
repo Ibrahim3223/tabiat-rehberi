@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/G%C3%BCver_Canyon_Landscape_%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Landscape_%28Antalya%29.jpg","alt":"Çıkrıklı Tepe","caption":"Çıkrıklı Tepe","credit":"Güver Canyon Landscape (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kessab30.jpg","alt":"Çıkrıklı Tepe","caption":"Çıkrıklı Tepe","credit":"Kessab30","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1kr%C4%B1kl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818974","tip":"genel"}]
 description: "Antalya'da yer alan Çıkrıklı Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri"
 keywords: ["Çıkrıklı Tepe","Antalya","Dağ","Turizm","Doğa","Gezi","Trekking","Dağcılık","Turistik Yerler"]

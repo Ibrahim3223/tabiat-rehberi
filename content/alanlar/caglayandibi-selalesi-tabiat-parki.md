@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Piknik yapmak","Doğayı seyretmek","Yürüyüş yapmak","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Çağlayandibi Şelalesi Tabiat Parkı","caption":"Çağlayandibi Şelalesi Tabiat Parkı","credit":"Peyto Lake-Banff NP-Canada.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/State_road_D865_%28Turkey%29_10.jpg/960px-State_road_D865_%28Turkey%29_10.jpg","alt":"Çağlayandibi Şelalesi Tabiat Parkı","caption":"Çağlayandibi Şelalesi Tabiat Parkı","credit":"State road D865 (Turkey) 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87a%C4%9Flayandibi%20%C5%9Eelalesi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Gümüşhane'nin doğal güzelliklerinden biri olan Çağlayandibi Şelalesi Tabiat Parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Gümüşhane","Karadeniz Bölgesi","Tabiat Parkı","Şelale","Doğal Alan","Turizm","Gezi"]

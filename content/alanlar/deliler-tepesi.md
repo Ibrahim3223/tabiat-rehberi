@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","fotografi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Deliler Tepesi","caption":"Deliler Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Deliler Tepesi","caption":"Deliler Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deliler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388358","tip":"genel"}]
 description: "Erzurum'un görkemli doğal güzelliklerinden biri olan Deliler Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Deliler Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]

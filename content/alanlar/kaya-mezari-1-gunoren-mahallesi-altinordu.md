@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","kumda güneşlenme","tarih gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Kaya Mezarı 1 (Günören Mahallesi), Altınordu","caption":"Kaya Mezarı 1 (Günören Mahallesi), Altınordu","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg","alt":"Kaya Mezarı 1 (Günören Mahallesi), Altınordu","caption":"Kaya Mezarı 1 (Günören Mahallesi), Altınordu","credit":"Sunset at Aegean Sea, İzmir 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%201%20(G%C3%BCn%C3%B6ren%20Mahallesi)%2C%20Alt%C4%B1nordu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728221","tip":"genel"}]
 description: "Altınordu'nun gizli cenneti, Kaya Mezarı 1 (Günören Mahallesi) plajı"
 keywords: ["Kaya Mezarı","Altınordu","Ordu","Karadeniz Bölgesi","plaj","deniz","kaya","mezar","doğa"]

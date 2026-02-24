@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic","Doğa Gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kursunlu_Waterfall_Nature_Park%2C_Antalya.jpg/960px-Kursunlu_Waterfall_Nature_Park%2C_Antalya.jpg","alt":"Karagözoğlu Şelalesi","caption":"Karagözoğlu Şelalesi","credit":"Kursunlu Waterfall Nature Park, Antalya.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Waterfall_-_panoramio_%282%29.jpg/960px-Waterfall_-_panoramio_%282%29.jpg","alt":"Karagözoğlu Şelalesi","caption":"Karagözoğlu Şelalesi","credit":"Waterfall - panoramio (2)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karag%C3%B6zo%C4%9Flu%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q124363441","tip":"genel"}]
 description: "Artvin'in doğal güzelliklerini keşfedin, Karagözoğlu Şelalesi'ni ziyaret edin. Yeşilin her tonunu görebileceğiniz bu muhteşem bölge, doğa severler için bir cennet."
 keywords: ["Karagözoğlu Şelalesi","Artvin","Doğa","Şelale","Yeşil","Turizm","Gezi","Doğa Harikası","Karadeniz Bölgesi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Otlukbeli Dağı","caption":"Otlukbeli Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Otlukbeli Dağı","caption":"Otlukbeli Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Otlukbeli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21210184","tip":"genel"}]
 description: "Bayburt'un görkemli dağlarından biri olan Otlukbeli Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Otlukbeli Dağı","Bayburt","Doğa","Dağ","Turizm","Gezi","Yürüyüş","Doğa Sporları","Trekking"]

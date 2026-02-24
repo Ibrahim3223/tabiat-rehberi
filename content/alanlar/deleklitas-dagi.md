@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Deleklitaş Dağı","caption":"Deleklitaş Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/960px-Adams_The_Tetons_and_the_Snake_River.jpg","alt":"Deleklitaş Dağı","caption":"Deleklitaş Dağı","credit":"Adams The Tetons and the Snake River","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deleklita%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21211286","tip":"genel"}]
 description: "Artvin'de yer alan Deleklitaş Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Deleklitaş Dağı","Artvin","Dağ","Trekking","Doğa","Gezi","Turizm","Artvin Turistik Yerler","Dağcılık"]

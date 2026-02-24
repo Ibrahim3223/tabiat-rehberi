@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe hakkında bilgi edinme","mimari özellikleri inceleme","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_10.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_10.jpg","alt":"Kadem Paşa Hatun Türbesi, Erciş","caption":"Kadem Paşa Hatun Türbesi, Erciş","credit":"استانبول ترکیه - ساحل دریای مرمره در شهر استانبول 10","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Kadem Paşa Hatun Türbesi, Erciş","caption":"Kadem Paşa Hatun Türbesi, Erciş","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kadem%20Pa%C5%9Fa%20Hatun%20T%C3%BCrbesi%2C%20Erci%C5%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582809","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde tarihi bir değer olan Kadem Paşa Hatun Türbesi, Erciş'in önemli turistik noktalarından biri."
 keywords: ["Kadem Paşa Hatun Türbesi","Erciş","Van","Doğu Anadolu Bölgesi","tarihi mekanlar","turbeler","kültürel miras"]

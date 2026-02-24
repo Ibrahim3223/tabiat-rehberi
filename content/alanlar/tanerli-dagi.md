@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Tanerli Dağı","caption":"Tanerli Dağı","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg/960px-.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg","alt":"Tanerli Dağı","caption":"Tanerli Dağı","credit":".00 1627 Tuffsteinlandschaft von Göreme (Türkei)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tanerli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505413","tip":"genel"}]
 description: "Erzincan'da yer alan Tanerli Dağı, 1200 hektarlık bir alanı kaplıyor ve şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Tanerli Dağı","Erzincan","Dağ","Doğa","Turizm","Gezi","Seyahat","Yürüyüş","Doğal Alanlar"]

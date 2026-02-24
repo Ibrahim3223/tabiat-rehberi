@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Tarihi mekanları ziyaret","Kültürel etkinlikleri izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Kurt Çelebi Türbesi","caption":"Kurt Çelebi Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alanya-Antalya_-_panoramio_%283%29.jpg/960px-Alanya-Antalya_-_panoramio_%283%29.jpg","alt":"Kurt Çelebi Türbesi","caption":"Kurt Çelebi Türbesi","credit":"Alanya-Antalya - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurt%20%C3%87elebi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390979","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Kurt Çelebi Türbesi, Marmara Bölgesi'nde yer alır."
 keywords: ["Kurt Çelebi Türbesi","İstanbul","Marmara Bölgesi","Beyoğlu","tarih","mimari","gezi","turizm","kültür"]

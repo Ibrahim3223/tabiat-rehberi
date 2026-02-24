@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Umurbaba Dağı","caption":"Umurbaba Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/960px-Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","alt":"Umurbaba Dağı","caption":"Umurbaba Dağı","credit":"Dağ tepesinden Uzungöl görünümü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Umurbaba%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31503679","tip":"genel"}]
 description: "Manisa'nın görkemli dağlarından biri olan Umurbaba Dağı, 1200 metre yüksekliği ile bölgenin önemli doğal güzelliklerinden."
 keywords: ["Umurbaba Dağı","Manisa","Dağ","Doğa","Turizm","Gezi","Manisa Turistik Yerler","Umurbaba Dağı Manisa","Dağcılık"]

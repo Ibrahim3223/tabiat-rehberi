@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Kızılkürtüs Dağı","caption":"Kızılkürtüs Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/960px-Adams_The_Tetons_and_the_Snake_River.jpg","alt":"Kızılkürtüs Dağı","caption":"Kızılkürtüs Dağı","credit":"Adams The Tetons and the Snake River","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lk%C3%BCrt%C3%BCs%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041980","tip":"genel"}]
 description: "Bayburt'un görkemli dağlarından biri olan Kızılkürtüs Dağı, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Kızılkürtüs Dağı","Bayburt","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Türkiye"]

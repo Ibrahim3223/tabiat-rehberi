@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini keşfetmek","Doğa yürüyüşü yapmak","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Şeyh Muhammed Fethül Maarif Hazretleri Türbesi","caption":"Şeyh Muhammed Fethül Maarif Hazretleri Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg","alt":"Şeyh Muhammed Fethül Maarif Hazretleri Türbesi","caption":"Şeyh Muhammed Fethül Maarif Hazretleri Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 13","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhammed%20Feth%C3%BCl%20Maarif%20Hazretleri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391681","tip":"genel"}]
 description: "Kartal'da bulunan tarihi türbe ve plaj"
 keywords: ["Şeyh Muhammed Fethül Maarif Hazretleri","Kartal","İstanbul","Marmara Bölgesi","tarih","türbe","plaj"]

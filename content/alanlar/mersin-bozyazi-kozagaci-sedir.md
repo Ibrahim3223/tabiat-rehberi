@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Mersin-Bozyazi-Kozagaci Sedir","caption":"Mersin-Bozyazi-Kozagaci Sedir","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"Mersin-Bozyazi-Kozagaci Sedir","caption":"Mersin-Bozyazi-Kozagaci Sedir","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Bozyazi-Kozagaci%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227614","tip":"genel"}]
 description: "Mersin'in Bozyazı ilçesinde yer alan Kozagacı Sedir Milli Parkı, 1200 hektarlık yeşil cenneti ile ziyaretçilerini bekliyor."
 keywords: ["Mersin","Bozyazı","Kozagacı Sedir","Milli Park","Doğa","Turizm","Yeşil Alan","Sedir Ağacı"]

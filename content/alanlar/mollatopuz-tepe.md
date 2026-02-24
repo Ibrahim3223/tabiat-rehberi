@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Mollatopuz Tepe","caption":"Mollatopuz Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Mollatopuz Tepe","caption":"Mollatopuz Tepe","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mollatopuz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510223","tip":"genel"}]
 description: "Van'da yer alan Mollatopuz Tepe, doğa severler için bir çekim merkezi. 1400 metre yükseklikte, Van Gölü manzarası sunuyor."
 keywords: ["Mollatopuz Tepe","Van","Dağ","Doğa","Van Gölü","Trekking","Kamp","Doğa Turizmi","Van Turizm"]

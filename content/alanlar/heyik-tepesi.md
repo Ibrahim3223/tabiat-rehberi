@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg","alt":"Heyik Tepesi","caption":"Heyik Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 07.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/East_room%2C_second_floor._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-19.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Heyik Tepesi","caption":"Heyik Tepesi","credit":"East room, second floor. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Heyik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391048","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Heyik Tepesi, Akdeniz Bölgesi'nin gizli cevherlerinden biri."
 keywords: ["Kahramanmaraş","Akdeniz Bölgesi","Heyik Tepesi","doğa","tepe","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Seyrangah Tepesi","caption":"Seyrangah Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ida_Flooding_%282%29.jpg/960px-Ida_Flooding_%282%29.jpg","alt":"Seyrangah Tepesi","caption":"Seyrangah Tepesi","credit":"Ida Flooding (2)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyrangah%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390380","tip":"genel"}]
 description: "Afyonkarahisar'ın doğal güzelliklerini keşfedin"
 keywords: ["Seyrangah Tepesi","Afyonkarahisar","Ege Bölgesi","Doğa","Tepeler","Gezi","Seyahat"]

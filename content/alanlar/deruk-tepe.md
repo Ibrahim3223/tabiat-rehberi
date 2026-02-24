@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Deruk Tepe","caption":"Deruk Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Deruk Tepe","caption":"Deruk Tepe","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deruk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546855","tip":"genel"}]
 description: "Siirt'in görkemli dağlarından biri olan Deruk Tepe, doğa severlerin ziyaret ettiği bir destinasyon"
 keywords: ["Deruk Tepe","Siirt","Dağ","Doğa","Türkiye","Seyahat","Gezi","Turizm","Coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Kūh-e Ārārāt-e Bozorg","caption":"Kūh-e Ārārāt-e Bozorg","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Kūh-e Ārārāt-e Bozorg","caption":"Kūh-e Ārārāt-e Bozorg","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C5%ABh-e%20%C4%80r%C4%81r%C4%81t-e%20Bozorg","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574160","tip":"genel"}]
 description: "Türkiye'de bulunan Kūh-e Ārārāt-e Bozorg, ülkenin en önemli dağlarından biri. Doğal güzelliği ve coğrafi konumu ile dikkat çekiyor."
 keywords: ["Kūh-e Ārārāt-e Bozorg","Türkiye dağları","coğrafi konum","doğal güzellik","gezi noktaları","dağcılık","turizm","Türkiye'nin dağları","Kūh-e Ārārāt-e Bozorg hakkında"]

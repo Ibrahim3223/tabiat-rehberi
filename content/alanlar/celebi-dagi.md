@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Çelebi Dağı","caption":"Çelebi Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Çelebi Dağı","caption":"Çelebi Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87elebi%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818769","tip":"genel"}]
 description: "Kırıkkale'de yer alan Çelebi Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Çelebi Dağı","Kırıkkale","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Kırıkkale Turistik Yerler","Dağcılık"]

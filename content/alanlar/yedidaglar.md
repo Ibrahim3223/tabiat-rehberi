@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Yedidağlar","caption":"Yedidağlar","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KackarDagi_fromNorth_hory.jpg/960px-KackarDagi_fromNorth_hory.jpg","alt":"Yedidağlar","caption":"Yedidağlar","credit":"KackarDagi fromNorth hory","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yedida%C4%9Flar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560108","tip":"genel"}]
 description: "Gümüşhane'de bulunan Yedidağlar, doğa severlerin ziyaret ettiği önemli bir dağ bölgesidir."
 keywords: ["Yedidağlar","Gümüşhane","Dağ","Doğa","Türkiye","Gezi","Seyahat","Yerler","Coğrafya"]

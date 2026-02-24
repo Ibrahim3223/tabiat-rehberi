@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Koruluk Kermes Mesesi 3","caption":"Koruluk Kermes Mesesi 3","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"Koruluk Kermes Mesesi 3","caption":"Koruluk Kermes Mesesi 3","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koruluk%20Kermes%20Mesesi%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228147","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşilli ve doğa harikası milli parkı"
 keywords: ["Koruluk Kermes Mesesi 3","milli park","İç Anadolu Bölgesi","doğa","yeşillik","gezi","turizm","çevre","ekosistem"]

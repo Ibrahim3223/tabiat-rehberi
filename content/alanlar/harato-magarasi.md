@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg/960px-Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg","alt":"Harato Mağarası","caption":"Harato Mağarası","credit":"Olsberg (DE), Bruchhauser Steine -- 2023 -- 0262","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Geological_magazine_%281878%29_%2814741258826%29.jpg/960px-Geological_magazine_%281878%29_%2814741258826%29.jpg","alt":"Harato Mağarası","caption":"Harato Mağarası","credit":"Geological magazine (1878) (14741258826)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harato%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319231","tip":"genel"}]
 description: "Batman'da yer alan Harato Mağarası, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği keşfedin!"
 keywords: ["Harato Mağarası","Batman Jeopark","Doğal Anıtlar","Mağara Gezileri","Jeolojik Özellikler","Batman Turizm","Doğa Harikaları","Jeoparklar","Turistik Yerler"]

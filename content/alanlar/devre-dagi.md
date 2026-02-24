@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Devre Dağı","caption":"Devre Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Devre Dağı","caption":"Devre Dağı","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Devre%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387703","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin, Devre Dağı'nda doğa yürüyüşü ve kayak keyfi"
 keywords: ["Devre Dağı","Erzurum","Dağ","Doğa Yürüyüşü","Kayak","Turizm","Erzurum Turistik Yerler","Doğa Sporları","Dağcılık"]

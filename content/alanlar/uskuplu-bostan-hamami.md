@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","tarihçe","flora ve fauna"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Üsküplü Bostan Hamamı","caption":"Üsküplü Bostan Hamamı","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pirlanta_beach%2C_without_waves_october_2009_7_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_7_-_panoramio.jpg","alt":"Üsküplü Bostan Hamamı","caption":"Üsküplü Bostan Hamamı","credit":"Pirlanta beach, without waves october 2009 7 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Csk%C3%BCpl%C3%BC%20Bostan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738945","tip":"genel"}]
 description: "Fatih, İstanbul'da yer alan tarihi ve önemli bir mekan"
 keywords: ["Üsküplü Bostan Hamamı","Fatih","İstanbul","tarih","mimari","gezi","turizm"]

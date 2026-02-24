@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","coğrafi keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Küre Tepesi","caption":"Küre Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Küre Tepesi","caption":"Küre Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCre%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210818","tip":"genel"}]
 description: "Kilis'in doğal güzelliklerini keşfedin, 140 hektarlık alan yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kilis","Küre Tepesi","doğal güzellikler","gezi","tarihçe","coğrafya","flora","fauna","ziyaret"]

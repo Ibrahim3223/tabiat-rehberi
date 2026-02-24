@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","manzara seyretme","fotoğraf çekme","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Devret Tepesi","caption":"Devret Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Devret Tepesi","caption":"Devret Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Devret%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387202","tip":"genel"}]
 description: "Kastamonu'nun doğal güzellikleri arasında yer alan Devret Tepesi, ziyaretçiler için keyifli bir deneyim sunuyor."
 keywords: ["Kastamonu","Devret Tepesi","doğa","gezi","tepe","manzara","turizm","Karadeniz Bölgesi","coğrafya"]

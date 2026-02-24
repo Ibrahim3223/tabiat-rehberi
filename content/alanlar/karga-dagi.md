@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Karga Dağı","caption":"Karga Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Karga Dağı","caption":"Karga Dağı","credit":"Sis dağı (3)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karga%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517259","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin, Karga Dağı'nın büyüleyici manzaraları ve doğası"
 keywords: ["Karga Dağı","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezilecek Yerler","Doğal Alanlar","Turizm","Macera","Gezi Rehberi"]

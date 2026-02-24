@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Trekking","Kamp","Kuş gözlemciliği","Balık avı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"DENİZLİ ÇAL KANYONU","caption":"DENİZLİ ÇAL KANYONU","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"DENİZLİ ÇAL KANYONU","caption":"DENİZLİ ÇAL KANYONU","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DEN%C4%B0ZL%C4%B0%20%C3%87AL%20KANYONU","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228897","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, 140 hektarlık yeşil vadi"
 keywords: ["Denizli","Çal Kanyonu","İç Anadolu Bölgesi","Doğa","Kanyon","Yeşil Vadi","Tarih","Coğrafya","Flora","Fauna"]

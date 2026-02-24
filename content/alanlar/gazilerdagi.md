@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Gazilerdağı","caption":"Gazilerdağı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg/960px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","alt":"Gazilerdağı","caption":"Gazilerdağı","credit":"Bafa Gölü Tabiat Parkı (bilgekorkmaz)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazilerda%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228162","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Gazilerdağı","milli park","doğal güzellik","İç Anadolu Bölgesi","turizm","gezi","doğa"]

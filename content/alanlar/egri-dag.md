@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Eğri Dağ","caption":"Eğri Dağ","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Eğri Dağ","caption":"Eğri Dağ","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Fri%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568431","tip":"genel"}]
 description: "Ardahan'da bulunan Eğri Dağ, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Eğri Dağ","Ardahan","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Ardahan Turistik Yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları keşfetmek","Doğal güzellikleri görmek","Sanat eserleri ve tarihi belgeleri incelemek","Yeşil alanlarda dinlenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Piri Sami Türbesi","caption":"Piri Sami Türbesi","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg","alt":"Piri Sami Türbesi","caption":"Piri Sami Türbesi","credit":"Piri Reis - Map of the Island of Cos Off the Anatolian Coast - Walters W65895A - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Piri%20Sami%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391653","tip":"genel"}]
 description: "Erzincan'da tarihi ve doğal güzelliklerin birleştiği Piri Sami Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Piri Sami Türbesi","Erzincan","Doğu Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","turizm","gezi","tarihçe","coğrafya"]

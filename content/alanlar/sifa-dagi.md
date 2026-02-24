@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Şifa Dağı","caption":"Şifa Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"Şifa Dağı","caption":"Şifa Dağı","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eifa%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506675","tip":"genel"}]
 description: "Manisa'da yer alan Şifa Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi. Doğal güzellikleri keşfedin!"
 keywords: ["Şifa Dağı","Manisa","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Manisa Turistik Yerler","Doğal Güzellikler"]

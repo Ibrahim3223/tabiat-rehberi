@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg/960px-Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg","alt":"Yelkenli Adası","caption":"Yelkenli Adası","credit":"Water surface of Mediterrenean sea near Kameriye island, Marmaris, Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%D0%A1%D0%BE%D1%81%D0%BD%D0%B0_%D1%82%D1%83%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%B0_DSCF5757.jpg/960px-%D0%A1%D0%BE%D1%81%D0%BD%D0%B0_%D1%82%D1%83%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%B0_DSCF5757.jpg","alt":"Yelkenli Adası","caption":"Yelkenli Adası","credit":"Сосна турецька DSCF5757","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelkenli%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30632350","tip":"genel"}]
 description: "Türkiye'nin güzel ada destinasyonlarından biri olan Yelkenli Adası, doğa severler için bir cennet."
 keywords: ["Yelkenli Adası","Türkiye Adaları","Doğa Turizmi","Ada Gezileri","Deniz Turizmi","Yelkenli Adası Gezi","Türkiye'nin Adaları","Turizm Destinasyonları","Doğa ve Deniz"]

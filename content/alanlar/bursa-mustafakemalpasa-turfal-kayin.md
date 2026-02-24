@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Bursa-Mustafakemalpaşa-Turfal Kayin","caption":"Bursa-Mustafakemalpaşa-Turfal Kayin","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Bursa-Mustafakemalpaşa-Turfal Kayin","caption":"Bursa-Mustafakemalpaşa-Turfal Kayin","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Turfal%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227240","tip":"genel"}]
 description: "Marmara Bölgesi'nin yeşili, Bursa-Mustafakemalpaşa-Turfal Kayin milli parkı"
 keywords: ["Bursa","Mustafakemalpaşa","Turfal Kayin","milli park","Marmara Bölgesi","doğa","yeşil","gezi"]

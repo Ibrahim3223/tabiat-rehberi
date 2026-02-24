@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","Manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Tahtalıbaba Tepesi","caption":"Tahtalıbaba Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Tahtalıbaba Tepesi","caption":"Tahtalıbaba Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahtal%C4%B1baba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389959","tip":"genel"}]
 description: "Eskişehir'in İç Anadolu Bölgesi'nde yer alan Tahtalıbaba Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Tahtalıbaba Tepesi","Eskişehir","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","tarihçe"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Güneşlenmek","Denize girmek","Su sporları","Yöresel lezzetler tadımı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hamam, Kızılkeçili","caption":"Hamam, Kızılkeçili","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff/lossy-page1-900px-A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff.jpg","alt":"Hamam, Kızılkeçili","caption":"Hamam, Kızılkeçili","credit":"A Ship Wrecked in a Storm off a Rocky Coast RMG BHC0883","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20K%C4%B1z%C4%B1lke%C3%A7ili","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245753","tip":"genel"}]
 description: "Çanakkale'nin güzide plajlarından biri olan Hamam, Kızılkeçili, doğal güzelliği ve temizliği ile ziyaretçilerini cezbediyor."
 keywords: ["Çanakkale","Kızılkeçili","plaj","doğal güzellik","deniz","tatil","gezi","turizm","Çanakkale ilçe"]

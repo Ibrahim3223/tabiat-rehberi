@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Kabak Tepe","caption":"Kabak Tepe","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"Kabak Tepe","caption":"Kabak Tepe","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabak%20Tepe%20(Hatay%2C%2036.54%2C%2036.22)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538404","tip":"genel"}]
 description: "Hatay'da yer alan Kabak Tepe, 36.54 ve 36.22 enlemlerinde bulunan bir dağdır. Doğal güzellikleri ve tarihi önemiyle dikkat çeker."
 keywords: ["Kabak Tepe","Hatay","Dağ","Doğal Alan","Tarih","Gezi","Seyahat","Coğrafya","Turizm"]

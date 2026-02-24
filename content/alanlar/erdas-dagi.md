@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fairy_Chimneys_-_panoramio_%282%29.jpg/960px-Fairy_Chimneys_-_panoramio_%282%29.jpg","alt":"Erdaş Dağı","caption":"Erdaş Dağı","credit":"Fairy Chimneys - panoramio (2).jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"Erdaş Dağı","caption":"Erdaş Dağı","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erda%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31524323","tip":"genel"}]
 description: "Nevşehir'de yer alan Erdas Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Erdaş Dağı","Nevşehir","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Nevşehir Gezilecek Yerler","Doğa Sporları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Sarıkum Gölü","caption":"Sarıkum Gölü","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Camping_at_the_Sorgun_Lake.jpg/960px-Camping_at_the_Sorgun_Lake.jpg","alt":"Sarıkum Gölü","caption":"Sarıkum Gölü","credit":"Camping at the Sorgun Lake","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1kum%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21526912","tip":"genel"}]
 description: "Doğal güzelliği ile dikkat çeken Sarıkum Gölü, Muş ve Sinop'un sınırları içerisinde yer alır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Sarıkum Gölü","Muş","Sinop","Doğal Alan","Göl","Turizm","Doğa","Yeşil Alan","Gezi"]

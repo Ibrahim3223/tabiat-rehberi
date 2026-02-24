@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Mahmutkoca Tepesi","caption":"Mahmutkoca Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/First_floor_hall._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-10.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Mahmutkoca Tepesi","caption":"Mahmutkoca Tepesi","credit":"First floor hall. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-10","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahmutkoca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390279","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin, Mahmutkoca Tepesi'nin tarihi ve coğrafyası hakkında bilgi edinin."
 keywords: ["Mahmutkoca Tepesi","Adana","Akdeniz Bölgesi","doğa","tepe","turizm","gezi","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Gücari Dağı","caption":"Gücari Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg/960px-Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg","alt":"Gücari Dağı","caption":"Gücari Dağı","credit":"Mount Ararat and the Araratian plain (cropped)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCcari%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872785","tip":"genel"}]
 description: "Van'da bulunan Gücari Dağı, 1200 hektarlık yeşil cenneti ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Gücari Dağı","Van","Doğa","Dağ","Yeşil Alan","Turizm","Gezi","Doğal Güzellik","Van Gezilecek Yerler"]

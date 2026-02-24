@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","yaban hayvanları gözlemlemek","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NATIONAL_PARK_TRIP_WITH_JEEP.jpg/960px-NATIONAL_PARK_TRIP_WITH_JEEP.jpg","alt":"Mugla-Yilanli Karacam","caption":"Mugla-Yilanli Karacam","credit":"NATIONAL PARK TRIP WITH JEEP.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"Mugla-Yilanli Karacam","caption":"Mugla-Yilanli Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Yilanli%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227536","tip":"genel"}]
 description: "Muğla'nın doğal güzellikleri arasında yer alan milli park"
 keywords: ["Mugla-Yilanli Karacam","milli park","Muğla","Ege Bölgesi","doğa","yaban hayatı","gezi","turizm","çevre"]

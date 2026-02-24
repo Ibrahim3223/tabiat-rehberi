@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük gezi"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","kuş gözlemciliği","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_photos_of_Akda%C4%9F_3.jpg/960px-The_photos_of_Akda%C4%9F_3.jpg","alt":"Denizli-Acipayam-Elmaozu Karacam","caption":"Denizli-Acipayam-Elmaozu Karacam","credit":"The photos of Akdağ 3","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Denizli-Acipayam-Elmaozu Karacam","caption":"Denizli-Acipayam-Elmaozu Karacam","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Acipayam-Elmaozu%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227677","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden Denizli'de yer alan milli park, ziyaretçilerini doğal güzelliklerle karşılar."
 keywords: ["Denizli","Acipayam","Elmaozu Karacam","milli park","Ege Bölgesi","doğa","gezi","turizm"]

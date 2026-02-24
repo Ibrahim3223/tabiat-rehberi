@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Yumurta Tepesi","caption":"Yumurta Tepesi","credit":"Lake Meke (217872347).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Yumurta Tepesi","caption":"Yumurta Tepesi","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumurta%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390492","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin. Yumurta Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri."
 keywords: ["Konya","İç Anadolu Bölgesi","Yumurta Tepesi","doğa","coğrafya","gezi","turizm"]

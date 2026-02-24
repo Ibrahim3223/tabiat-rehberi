@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih keşfi","fotografcılık","ekoloji gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çayırlık Hill","caption":"Çayırlık Hill","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg/960px-Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg","alt":"Çayırlık Hill","caption":"Çayırlık Hill","credit":"Circle of Giorgione - Infant Paris Abandoned on Mount Ida, ca. 1510","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ay%C4%B1rl%C4%B1k%20Hill","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828801","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerini bir araya getiren Çayırlık Hill, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["doğa","tarih","Diyarbakır","gezi","çevre","ekoloji","flora","fauna","coğrafya"]

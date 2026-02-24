@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Babacan Dağı","caption":"Babacan Dağı","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Babacan Dağı","caption":"Babacan Dağı","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Babacan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31580184","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, Babacan Dağı'nda doğa ile baş başa kalın."
 keywords: ["Babacan Dağı","Muğla","Dağ","Doğa","Turizm","Gezi","Trekking","Doğa Yürüyüşü","Muğla Turistik Yerler"]

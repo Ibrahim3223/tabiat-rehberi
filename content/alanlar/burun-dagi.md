@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Burun Dağı","caption":"Burun Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Burun Dağı","caption":"Burun Dağı","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burun%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31584289","tip":"genel"}]
 description: "Adıyaman'da yer alan Burun Dağı, bölgenin önemli coğrafi oluşumlarından biri"
 keywords: ["Burun Dağı","Adıyaman","Dağ","Coğrafi Oluşum","Doğa","Turizm","Gezi","Seyahat","Türkiye"]

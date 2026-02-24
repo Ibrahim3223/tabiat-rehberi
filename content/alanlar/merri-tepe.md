@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Merri Tepe","caption":"Merri Tepe","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/E%C5%9Fenler_Da%C4%9F%C4%B1_12_09_1983_s%C3%BCdlich_des_Su%C4%9Flasees.jpg/960px-E%C5%9Fenler_Da%C4%9F%C4%B1_12_09_1983_s%C3%BCdlich_des_Su%C4%9Flasees.jpg","alt":"Merri Tepe","caption":"Merri Tepe","credit":"Eşenler Dağı 12 09 1983 südlich des Suğlasees","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merri%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31545903","tip":"genel"}]
 description: "Batman'da bulunan Merri Tepe, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Merri Tepe","Batman","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Coğrafya"]

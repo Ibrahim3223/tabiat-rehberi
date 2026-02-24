@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Fosil araştırmaları","Doğa yürüyüşleri","Jeolojik yapı incelemeleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kemiklitepe Fosil Yatakları Doğal Sit Alanı","caption":"Kemiklitepe Fosil Yatakları Doğal Sit Alanı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Kemiklitepe Fosil Yatakları Doğal Sit Alanı","caption":"Kemiklitepe Fosil Yatakları Doğal Sit Alanı","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kemiklitepe%20Fosil%20Yataklar%C4%B1%20Do%C4%9Fal%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228989","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kemiklitepe Fosil Yatakları, zengin fosil kaynakları ile dikkat çekmektedir."
 keywords: ["Kemiklitepe Fosil Yatakları","Doğal Sit Alanı","İç Anadolu Bölgesi","fosil","doğal sit","korunan alan"]

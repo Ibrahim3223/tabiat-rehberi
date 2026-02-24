@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Harabhırbe Tepesi","caption":"Harabhırbe Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Harabhırbe Tepesi","caption":"Harabhırbe Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harabh%C4%B1rbe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551184","tip":"genel"}]
 description: "Mardin'in tarihi ve coğrafi güzelliklerini bir araya getiren Harabhırbe Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mardin","Harabhırbe Tepesi","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","doğa","gezi"]

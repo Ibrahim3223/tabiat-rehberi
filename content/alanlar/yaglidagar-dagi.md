@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Yağlıdağar Dağı","caption":"Yağlıdağar Dağı","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Yağlıdağar Dağı","caption":"Yağlıdağar Dağı","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ya%C4%9Fl%C4%B1da%C4%9Far%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31580361","tip":"genel"}]
 description: "Muğla'da bulunan Yağlıdağar Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Yağlıdağar Dağı","Muğla","Dağ","Doğa","Yeşil Alan","Trekking","Doğa Yürüyüşü","Turizm","Gezi"]

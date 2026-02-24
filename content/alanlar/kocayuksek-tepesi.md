@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kocayüksek Tepesi","caption":"Kocayüksek Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Kocayüksek Tepesi","caption":"Kocayüksek Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocay%C3%BCksek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32197810","tip":"genel"}]
 description: "Çanakkale'nin yüksek noktalarından biri olan Kocayüksek Tepesi, Marmara Bölgesi'nin güzelliklerini sunuyor."
 keywords: ["Kocayüksek Tepesi","Çanakkale","Marmara Bölgesi","tepe","doğa","gezi","turizm"]

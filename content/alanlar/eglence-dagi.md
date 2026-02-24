@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Eğlence Dağı","caption":"Eğlence Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Eğlence Dağı","caption":"Eğlence Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Flence%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31578300","tip":"genel"}]
 description: "Van'da yer alan Eğlence Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Eğlence Dağı","Van","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Van Gezilecek Yerler"]

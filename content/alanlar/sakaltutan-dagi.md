@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Sakaltutan Dağı","caption":"Sakaltutan Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Sakaltutan Dağı","caption":"Sakaltutan Dağı","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakaltutan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31508107","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin, Sakaltutan Dağı'nda doğa ile baş başa kalın."
 keywords: ["Sakaltutan Dağı","Gaziantep","Dağ","Doğa","Turizm","Gezi","Gaziantep doğası","Sakaltutan","Dağcılık"]

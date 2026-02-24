@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","plaj aktiviteleri","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Beşparmak Türbesi","caption":"Beşparmak Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg","alt":"Beşparmak Türbesi","caption":"Beşparmak Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 01","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fparmak%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391381","tip":"genel"}]
 description: "Kocasinan, Kayseri'de bulunan tarihi bir türbe ve plaj"
 keywords: ["Beşparmak Türbesi","Kocasinan","Kayseri","tarih","plaj","doğa","gezi","türbe"]

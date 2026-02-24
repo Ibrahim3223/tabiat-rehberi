@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Yumru Tepe","caption":"Yumru Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/960px-Moraine_Lake_17092005.jpg","alt":"Yumru Tepe","caption":"Yumru Tepe","credit":"Moraine Lake 17092005","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumru%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559870","tip":"genel"}]
 description: "Türkiye'de bulunan Yumru Tepe, doğa severler için bir çekim merkezi. Dağcılık ve trekking için ideal bir yer."
 keywords: ["Yumru Tepe","Türkiye","Dağ","Doğa","Trekking","Dağcılık","Turizm","Gezi","Seyahat"]

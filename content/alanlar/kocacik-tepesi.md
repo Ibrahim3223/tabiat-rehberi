@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","trekking","tarih gezisi","manzara seyri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kocacık Tepesi","caption":"Kocacık Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Kocacık Tepesi","caption":"Kocacık Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocac%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387053","tip":"genel"}]
 description: "Amasya'nın göbeğinde yer alan Kocacık Tepesi, şehrin panoramik manzarasına hakim bir nokta"
 keywords: ["Amasya","Kocacık Tepesi","tepe","manzara","gezi","doğa","tarih","coğrafya"]

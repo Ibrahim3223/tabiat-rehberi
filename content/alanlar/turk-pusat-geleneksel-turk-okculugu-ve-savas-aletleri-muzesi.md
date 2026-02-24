@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Türk okçuluğu gösterisi","Savaş aletleri sergisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi","caption":"Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi","credit":"..... - Flickr - zehhhra","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi","caption":"Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrk%20Pusat%20Geleneksel%20T%C3%BCrk%20Ok%C3%A7ulu%C4%9Fu%20ve%20Sava%C5%9F%20Aletleri%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949909","tip":"genel"}]
 description: "Türk Pusat Müzesi, geleneksel Türk okçuluğu ve savaş aletleri hakkında bilgi edinmek isteyenler için ideal bir destinasyon."
 keywords: ["Türk Pusat","Geleneksel Türk Okçuluğu","Savaş Aletleri Müzesi","Ankara","İç Anadolu Bölgesi","Türk Tarihi","Okçuluk"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin etrafında yer alan tarihi yapıları ziyaret etmek","Doğal güzellikleri keşfetmek","Panoramik manzara izlemek","Yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Hulkaşihor Tepesi","caption":"Hulkaşihor Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Hulkaşihor Tepesi","caption":"Hulkaşihor Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hulka%C5%9Fihor%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31543391","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerini keşfedin. Hulkaşihor Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Hulkaşihor Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","tarih","tepe","gezi","turizm"]

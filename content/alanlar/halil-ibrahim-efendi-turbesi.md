@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Flora ve fauna keşfi","Tarihi ve kültürel merkezleri ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Halil İbrahim Efendi Türbesi","caption":"Halil İbrahim Efendi Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg","alt":"Halil İbrahim Efendi Türbesi","caption":"Halil İbrahim Efendi Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halil%20%C4%B0brahim%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390745","tip":"genel"}]
 description: "Çanakkale'nin Ayvacık ilçesinde bulunan Halil İbrahim Efendi Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Halil İbrahim Efendi Türbesi","Ayvacık","Çanakkale","Marmara Bölgesi","Türbe","Tarih","Doğa","Gezi","Turizm"]

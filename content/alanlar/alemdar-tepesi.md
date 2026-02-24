@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Alemdar Tepesi","caption":"Alemdar Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Alemdar Tepesi","caption":"Alemdar Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alemdar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390343","tip":"genel"}]
 description: "Afyonkarahisar'ın en önemli doğal güzelliklerinden biri olan Alemdar Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Alemdar Tepesi","Afyonkarahisar","Ege Bölgesi","doğa","tepe","gezi","turizm","yeşil alan","fiziksel veriler","coğrafya"]

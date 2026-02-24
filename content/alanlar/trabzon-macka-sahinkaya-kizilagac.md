@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Trabzon-Macka-Sahinkaya Kizilagac","caption":"Trabzon-Macka-Sahinkaya Kizilagac","credit":"Sis dağı (3).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"Trabzon-Macka-Sahinkaya Kizilagac","caption":"Trabzon-Macka-Sahinkaya Kizilagac","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Macka-Sahinkaya%20Kizilagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227751","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerini keşfedin. Macka-Sahinkaya Kizilagac milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Trabzon","Macka-Sahinkaya Kizilagac","milli park","doğa","gezi","Trabzon gezilecek yerler"]

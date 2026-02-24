@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Sivri Dağ","caption":"Sivri Dağ","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg/960px-Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg","alt":"Sivri Dağ","caption":"Sivri Dağ","credit":"Emir Dağları 25 09 2013 Landschaft","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sivri%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31540424","tip":"genel"}]
 description: "Şırnak'ta bulunan Sivri Dağ, doğal güzelliği ve zengin florası ile dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Sivri Dağ","Şırnak","Doğa","Dağ","Turizm","Gezi","Şırnak Turistik Yerler","Doğal Güzellik","Yeşil Alan"]

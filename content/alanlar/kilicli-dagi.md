@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Kılıçlı Dağı","caption":"Kılıçlı Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Kılıçlı Dağı","caption":"Kılıçlı Dağı","credit":"Erzincan Refahiye","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1%C3%A7l%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211173","tip":"genel"}]
 description: "Hakkari'nin görkemli dağlarından biri olan Kılıçlı Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir yer"
 keywords: ["Kılıçlı Dağı","Hakkari","Dağ","Doğa","Yeşil Alan","Trekking","Doğa Yürüyüşü","Hakkari Turizm","Kılıçlı Dağı Hakkari"]

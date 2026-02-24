@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografcılık","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Sinop-Boyabat-Sarayduzu Kayin","caption":"Sinop-Boyabat-Sarayduzu Kayin","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg","alt":"Sinop-Boyabat-Sarayduzu Kayin","caption":"Sinop-Boyabat-Sarayduzu Kayin","credit":"Değirmenburnu Tabiat Parkı Giriş","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Boyabat-Sarayduzu%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227268","tip":"genel"}]
 description: "Sinop'un güzide milli parkı, doğa severlerin cenneti"
 keywords: ["Sinop","milli park","doğa","turizm","gezi","kayın","orman","Karadeniz Bölgesi"]

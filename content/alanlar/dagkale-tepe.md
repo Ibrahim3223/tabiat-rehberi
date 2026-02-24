@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Dağkale Tepe","caption":"Dağkale Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Dağkale Tepe","caption":"Dağkale Tepe","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Da%C4%9Fkale%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385889","tip":"genel"}]
 description: "Erzurum'un görkemli dağlarından biri olan Dağkale Tepe, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Dağkale Tepe","Erzurum","Dağ","Doğa","Turizm","Gezi","Trekking","Kış Sporları","Erzurum Turistik Yerler"]

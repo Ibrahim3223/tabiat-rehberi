@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ve çevresi gezisi","Doğa yürüyüşü","Fotografçılık","Tarih ve kültür araştırması"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Ahi Ebubekir Türbesi","caption":"Ahi Ebubekir Türbesi","credit":"Muğla Province (45034554)","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beach_Antakya_Turkey_-_panoramio.jpg/960px-Beach_Antakya_Turkey_-_panoramio.jpg","alt":"Ahi Ebubekir Türbesi","caption":"Ahi Ebubekir Türbesi","credit":"Beach Antakya Turkey - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20Ebubekir%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391629","tip":"genel"}]
 description: "Muğla'nın Yatağan ilçesinde bulunan tarihi bir türbe"
 keywords: ["Ahi Ebubekir Türbesi","Yatağan","Muğla","tarih","türbe","gezi","turizm","Ege Bölgesi","kültür"]

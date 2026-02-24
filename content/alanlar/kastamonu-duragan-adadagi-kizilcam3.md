@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kastamonu-Duragan-Adadagi-Kızılcam3","caption":"Kastamonu-Duragan-Adadagi-Kızılcam3","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Kastamonu-Duragan-Adadagi-Kızılcam3","caption":"Kastamonu-Duragan-Adadagi-Kızılcam3","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Duragan-Adadagi-K%C4%B1z%C4%B1lcam3","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228274","tip":"genel"}]
 description: "Kastamonu ilinin doğal güzellikleri ile çevrili milli parkı"
 keywords: ["Kastamonu","milli park","doğa","gezi","turizm","Karadeniz Bölgesi","Kızılcam","Adadagi"]

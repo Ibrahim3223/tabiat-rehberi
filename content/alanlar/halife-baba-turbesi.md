@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Doğa yürüyüşleri","Denize girmek","Güneşlenmek","Su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/ZEYN%C4%B0LER_KABR%C4%B0STANI_BURSA_-_panoramio_%281%29.jpg","alt":"Halife Baba Türbesi manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg","alt":"Halife Baba Türbesi","caption":"Halife Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 03","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halife%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391588","tip":"genel"}]
 description: "Çine, Aydın'da bulunan Halife Baba Türbesi, Ege Bölgesi'nin önemli dinî ve turistik mekanlarından biri."

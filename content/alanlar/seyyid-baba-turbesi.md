@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/ZEYN%C4%B0LER_KABR%C4%B0STANI_BURSA_-_panoramio_%281%29.jpg","alt":"Seyyid Baba Türbesi manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Pirlanta_beach%2C_without_waves_october_2009_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_-_panoramio.jpg","alt":"Seyyid Baba Türbesi","caption":"Seyyid Baba Türbesi","credit":"Pirlanta beach, without waves october 2009 - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Giresun_Seyyid_Mahmut_%C3%87a%C4%9F%C4%B1rgan_Baba_T%C3%BCrbesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Giresun_Seyyid_Mahmut_%C3%87a%C4%9F%C4%B1rgan_Baba_T%C3%BCrbesi.jpg/1280px-Giresun_Seyyid_Mahmut_%C3%87a%C4%9F%C4%B1rgan_Baba_T%C3%BCrbesi.jpg","alt":"Seyyid Baba Türbesi - Giresun Seyyid Mahmut Çağırgan Baba Türbesi","credit":"Girtab2828","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735080","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerinin buluştuğu bir nokta olan Seyyid Baba Türbesi, ziyaretçilerini bekliyor."

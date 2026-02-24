@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Bahadır Tepe","caption":"Bahadır Tepe","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg/960px-%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg","alt":"Bahadır Tepe","caption":"Bahadır Tepe","credit":"\"Lost\" lakes , near Meigs Peak, Col. Lakes 9,500 feet above sea-level - DPLA - a574e1d02197947f5bd63dffe370dd0d (page 1)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bahad%C4%B1r%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31530975","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Bahadır Tepe, doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Bahadır Tepe","Türkiye Dağları","Doğal Güzellikler","Dağcılık","Türkiye Turizm","Coğrafya","Dağlar","Turistik Yerler","Doğa"]

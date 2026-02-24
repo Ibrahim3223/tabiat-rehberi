@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî eserleri incelemek","Kazı alanlarını gezmek","Stratonikeia antik kentini keşfetmek","Yakındaki ormanlık alanları ziyaret etmek","Bölgenin flora ve faunasını gözlemlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Stratonikeia Roma Hamamı 2","caption":"Stratonikeia Roma Hamamı 2","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Stratonikeia Roma Hamamı 2","caption":"Stratonikeia Roma Hamamı 2","credit":"Mediterranean.^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Stratonikeia%20Roma%20Hamam%C4%B1%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245714","tip":"genel"}]
 description: "Yatağan, Muğla'da bulunan Stratonikeia Roma Hamamı 2, Ege Bölgesi'nin önemli tarihi mekanlarından biri"
 keywords: ["Stratonikeia Roma Hamamı 2","Yatağan","Muğla","Ege Bölgesi","Roma Hamamları","Tarih","Arkeoloji","Turizm","Kültür"]

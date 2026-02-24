@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Deniz keyfi","Tarihçi yapıları keşfetmek","Doğa yürüyüşleri","Güneşlenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Perge Büyük Hamam","caption":"Perge Büyük Hamam","credit":"Antalya Serik Plajı","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Istanbul_beaches-_Sea_of_Marmara_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_12.jpg","alt":"Perge Büyük Hamam","caption":"Perge Büyük Hamam","credit":"Istanbul beaches- Sea of Marmara 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Perge%20%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738697","tip":"genel"}]
 description: "Aksu/Antalya'da bulunan, tarihi ve doğal güzelliklerin birleştiği bir Plaj"
 keywords: ["Perge Büyük Hamam","Aksu","Antalya","plaj","tarih","doğa","gezi","turizm"]

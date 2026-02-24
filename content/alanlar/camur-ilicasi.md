@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["şifalı çamur banyosu","doğa yürüyüşü","manzara seyri","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg","alt":"Çamur Ilıcası","caption":"Çamur Ilıcası","credit":"Süzer Sun Dreams Beach 8 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg/960px-35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg","alt":"Çamur Ilıcası","caption":"Çamur Ilıcası","credit":"35960 Hasseki-Karaburun-İzmir, Turkey - panoramio (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amur%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738527","tip":"genel"}]
 description: "Dikili'nin gizli cenneti, şifalı çamurları ve doğası ile büyüleyici bir deneyimi sunuyor."
 keywords: ["Dikili","İzmir","Ege Bölgesi","Çamur Ilıcası","şifalı çamur","doğa","gezi","turizm","sağlık"]

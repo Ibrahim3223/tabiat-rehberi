@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Çiçek izleme","Hayvan izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kad%C4%B1nc%C4%B1k_Valley_1.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_1.jpg","alt":"Mersin-Mut Karacam","caption":"Mersin-Mut Karacam","credit":"Kadıncık Valley 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cilingoz_National_Park_Beach_Cave.jpg/960px-Cilingoz_National_Park_Beach_Cave.jpg","alt":"Mersin-Mut Karacam","caption":"Mersin-Mut Karacam","credit":"Cilingoz National Park Beach Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Mut%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227952","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, 140 hektarlık alanın zengin fauna ve florasını keşfedin."
 keywords: ["Mersin","Mut Karacam","Doğa","Flora","Fauna","Milli Park","Akdeniz Bölgesi","Turizm","Gezi"]

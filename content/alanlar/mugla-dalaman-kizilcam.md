@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Mugla-Dalaman Kızılçam","caption":"Mugla-Dalaman Kızılçam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg.png","alt":"Mugla-Dalaman Kızılçam","caption":"Mugla-Dalaman Kızılçam","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks logo","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Dalaman%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227664","tip":"genel"}]
 description: "Mugla-Dalaman Kızılçam milli parkı, 140 hektarlık yeşil alanı ve zengin florası ile dikkat çekiyor. Doğa severler için ideal bir destinasyon."
 keywords: ["Mugla-Dalaman Kızılçam","milli park","doğa","flora","fauna","turizm","gezi","yaban hayatı","çevre"]

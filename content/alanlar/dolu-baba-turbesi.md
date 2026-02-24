@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezi","Plaj aktiviteleri","Doğa yürüyüşü","Kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Dolu Baba Türbesi","caption":"Dolu Baba Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-19_Ufakdere_Port_Beach_1.jpg/960px-2023-11-19_Ufakdere_Port_Beach_1.jpg","alt":"Dolu Baba Türbesi","caption":"Dolu Baba Türbesi","credit":"2023-11-19 Ufakdere Port Beach 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dolu%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390729","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde yer alan tarihi bir türbe ve plaj"
 keywords: ["Dolu Baba Türbesi","Osmangazi","Bursa","Marmara Bölgesi","tarih","plaj","gezi","turizm"]

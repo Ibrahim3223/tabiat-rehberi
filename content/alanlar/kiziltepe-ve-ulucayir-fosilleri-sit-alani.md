@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Jeoloji gezisi","Doğa yürüyüşü","Fosil araştırma","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Kızıltepe Ve Uluçayır Fosilleri Sit Alanı","caption":"Kızıltepe Ve Uluçayır Fosilleri Sit Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Kızıltepe Ve Uluçayır Fosilleri Sit Alanı","caption":"Kızıltepe Ve Uluçayır Fosilleri Sit Alanı","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1ltepe%20Ve%20Ulu%C3%A7ay%C4%B1r%20Fosilleri%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226254","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal hazineleri arasında yer alan Kızıltepe Ve Uluçayır Fosilleri Sit Alanı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kızıltepe","Uluçayır","Fosilleri","Sit Alanı","İç Anadolu Bölgesi","Doğal Hazineler","Fosil","Jeoloji"]

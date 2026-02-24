@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Paşapınar Dağı","caption":"Paşapınar Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Erenler_Da%C4%9F%C4%B1_09_09_1991_bei_K%C4%B1z%C4%B1l%C3%B6ren.jpg/960px-Erenler_Da%C4%9F%C4%B1_09_09_1991_bei_K%C4%B1z%C4%B1l%C3%B6ren.jpg","alt":"Paşapınar Dağı","caption":"Paşapınar Dağı","credit":"Erenler Dağı 09 09 1991 bei Kızılören","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pa%C5%9Fap%C4%B1nar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31508877","tip":"genel"}]
 description: "Erzurum'un görkemli dağlarından biri olan Paşapınar Dağı, 1200 hektarlık yeşil alanıyla doğa severlerin gözdesi"
 keywords: ["Paşapınar Dağı","Erzurum","Dağ","Doğa","Turizm","Gezi","Trekking","Dağcılık","Erzurum Turistik Yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Kaşkapı Dağı","caption":"Kaşkapı Dağı","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salda_G%C3%B6l%C3%BC_09-1991.jpg/960px-Salda_G%C3%B6l%C3%BC_09-1991.jpg","alt":"Kaşkapı Dağı","caption":"Kaşkapı Dağı","credit":"Salda Gölü 09-1991","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C5%9Fkap%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516719","tip":"genel"}]
 description: "Mersin'de yer alan Kaşkapı Dağı, bölgenin önemli doğal güzelliklerinden biri. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kaşkapı Dağı","Mersin","Dağ","Doğal Alan","Yeşil Cennet","Mersin Turizm","Dağcılık","Doğa Yürüyüşü","Mersin Gezi"]

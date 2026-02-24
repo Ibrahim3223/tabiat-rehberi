@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezmek","Doğal güzellikleri keşfetmek","Kültürel etkinliklere katılmak","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Ümmühan Hatun Medresesi ve Türbesi","caption":"Ümmühan Hatun Medresesi ve Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hotel_babaylon_beach_%28october-ekim_2009%29_-_panoramio.jpg/960px-Hotel_babaylon_beach_%28october-ekim_2009%29_-_panoramio.jpg","alt":"Ümmühan Hatun Medresesi ve Türbesi","caption":"Ümmühan Hatun Medresesi ve Türbesi","credit":"Hotel babaylon beach (october-ekim 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cmm%C3%BChan%20Hatun%20Medresesi%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391249","tip":"genel"}]
 description: "Tarihi ve kültürel öneme sahip Ümmühan Hatun Medresesi ve Türbesi, Eskişehir'in Seyitgazi ilçesinde bulunur."
 keywords: ["Eskişehir","Seyitgazi","Ümmühan Hatun","Medrese","Türbe","Tarih","Kültür","Gezi","Turizm"]

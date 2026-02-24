@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Yozgat İni","caption":"Yozgat İni","credit":"Goreme National Park, Turkey","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/72/EQ_storm_Turkey-he.png","alt":"Yozgat İni","caption":"Yozgat İni","credit":"EQ storm Turkey-he","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yozgat%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319881","tip":"genel"}]
 description: "Mersin'de yer alan Yozgat İni, 1200 hektarlık yeşil cenneti ve jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Yozgat İni","Mersin","Jeopark","Doğa Alanı","Turizm","Mersin Gezilecek Yerler","Jeolojik Oluşumlar","Yeşil Alanlar","Doğa Turizmi"]

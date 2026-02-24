@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "en az birkaç saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","antik kent keşfi","plaj aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Anemurium Halk Hamamı","caption":"Anemurium Halk Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Istanbul_beaches-_Sea_of_Marmara_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_09.jpg","alt":"Anemurium Halk Hamamı","caption":"Anemurium Halk Hamamı","credit":"Istanbul beaches- Sea of Marmara 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anemurium%20Halk%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739107","tip":"genel"}]
 description: "Mersin'in Anamur ilçesinde yer alan Anemurium Halk Hamamı, tarihi ve doğal güzelliklerin birleştiği bir nokta."
 keywords: ["Anemurium Halk Hamamı","Mersin","Anamur","tarih","doğa","plaj","hamam","antik","turizm"]

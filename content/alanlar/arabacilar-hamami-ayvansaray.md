@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih turu","doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Arabacılar Hamamı Ayvansaray","caption":"Arabacılar Hamamı Ayvansaray","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Arabacılar Hamamı Ayvansaray","caption":"Arabacılar Hamamı Ayvansaray","credit":"Karaburun - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arabac%C4%B1lar%20Hamam%C4%B1%20Ayvansaray","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738551","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Ayvansaray","Fatih","İstanbul","Marmara Bölgesi","tarih","doğa","gezi","kültür"]

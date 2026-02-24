@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihçe keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Çileközünün Tepesi","caption":"Çileközünün Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Çileközünün Tepesi","caption":"Çileközünün Tepesi","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ilek%C3%B6z%C3%BCn%C3%BCn%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819025","tip":"genel"}]
 description: "Konya'nın tarihi ve coğrafi güzelliği, Çileközünün Tepesi'ni keşfedin."
 keywords: ["Konya","İç Anadolu Bölgesi","Çileközünün Tepesi","tepe","coğrafya","tarihçe","doğa","gezi"]

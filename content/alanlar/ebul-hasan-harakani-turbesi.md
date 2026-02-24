@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyareti","Müze ziyareti","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Ebul Hasan Harakani Türbesi","caption":"Ebul Hasan Harakani Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg","alt":"Ebul Hasan Harakani Türbesi","caption":"Ebul Hasan Harakani Türbesi","credit":"Sunset at Aegean Sea, İzmir 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ebul%20Hasan%20Harakani%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390852","tip":"genel"}]
 description: "Kars ilinin merkezinde bulunan Ebul Hasan Harakani Türbesi, tarihi ve kültürel önem taşıyan bir mekândır."
 keywords: ["Ebul Hasan Harakani","Kars","Türbe","Tarih","Kültür","Doğu Anadolu Bölgesi","Gezi","Türkiye"]

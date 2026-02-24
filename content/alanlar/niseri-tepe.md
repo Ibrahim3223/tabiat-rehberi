@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Nişeri Tepe","caption":"Nişeri Tepe","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg/960px-Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg","alt":"Nişeri Tepe","caption":"Nişeri Tepe","credit":"Hacıbaba dağı- batıdan - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ni%C5%9Feri%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548494","tip":"genel"}]
 description: "Siirt'in görkemli dağlarından biri olan Nişeri Tepe, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Nişeri Tepe","Siirt","Dağ","Doğa","Turizm","Gezi","Seyahat","Yeşil Alan","İstanbul"]

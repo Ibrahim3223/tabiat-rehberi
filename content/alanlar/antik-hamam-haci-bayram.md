@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Antik Hamam, Hacı Bayram","caption":"Antik Hamam, Hacı Bayram","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Antik Hamam, Hacı Bayram","caption":"Antik Hamam, Hacı Bayram","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antik%20Hamam%2C%20Hac%C4%B1%20Bayram","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245735","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerinin birleştiği nokta: Antik Hamam, Hacı Bayram"
 keywords: ["Antik Hamam","Hacı Bayram","Ankara","tarih","doğa","gezi","turizm","kültür","mimari"]

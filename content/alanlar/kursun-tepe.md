@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","bitki ve hayvan türleri keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kartaltepe_Landscape.jpg/960px-Kartaltepe_Landscape.jpg","alt":"Kurşun Tepe","caption":"Kurşun Tepe","credit":"Kartaltepe Landscape.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Kurşun Tepe","caption":"Kurşun Tepe","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kur%C5%9Fun%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388821","tip":"genel"}]
 description: "Tekirdağ'ın doğal güzellikleri arasında yer alan Kurşun Tepe, ziyaretçilerini bekliyor."
 keywords: ["Kurşun Tepe","Tekirdağ","Marmara Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya","flora","fauna"]

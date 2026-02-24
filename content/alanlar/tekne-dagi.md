@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg","alt":"Tekne Dağı","caption":"Tekne Dağı","credit":"Kayaözü Creek Valley, Kahramanmaraş 06.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salda_G%C3%B6l%C3%BC_09-1991.jpg/960px-Salda_G%C3%B6l%C3%BC_09-1991.jpg","alt":"Tekne Dağı","caption":"Tekne Dağı","credit":"Salda Gölü 09-1991","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekne%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811894","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Tekne Dağı, 1200 hektarlık yeşil alanı ile şehrin doğal güzelliklerini sunar."
 keywords: ["Tekne Dağı","Kahramanmaraş","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Kahramanmaraş Turistik Yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Boyluca Dağı","caption":"Boyluca Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg/960px-Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg","alt":"Boyluca Dağı","caption":"Boyluca Dağı","credit":"Aladağlara Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boyluca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31579308","tip":"genel"}]
 description: "Erzurum'un görkemli dağlarından biri olan Boyluca Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Boyluca Dağı","Erzurum","Dağ","Doğa","Yeşil Cennet","Turizm","Gezi","Erzurum Gezilecek Yerler","Doğa Sporları"]

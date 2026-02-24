@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Gülmaç Tepe","caption":"Gülmaç Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Gülmaç Tepe","caption":"Gülmaç Tepe","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BClma%C3%A7%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139143","tip":"genel"}]
 description: "Sivas'ın doğal güzelliklerini keşfedin. Gülmaç Tepe, İç Anadolu Bölgesi'nde yer alan bir tepe"
 keywords: ["Gülmaç Tepe","Sivas","İç Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya"]

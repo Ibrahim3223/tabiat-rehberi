@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","flora ve fauna keşfi","tarih hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Domuzdamı Tepesi","caption":"Domuzdamı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Domuzdamı Tepesi","caption":"Domuzdamı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Domuzdam%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386241","tip":"genel"}]
 description: "Hatay'da yer alan Domuzdamı Tepesi, geniş ve yeşil bir alana sahiptir. Doğal güzellikleri ve tarihi geçmişiyle dikkat çeker."
 keywords: ["Hatay","Domuzdamı Tepesi","doğa","tarih","gezi","tepe","yaban hayatı","ekoloji"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","tarihî yerleri ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kastamonu-Tosya-Yesilgol-Ahlat","caption":"Kastamonu-Tosya-Yesilgol-Ahlat","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG/960px-Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG","alt":"Kastamonu-Tosya-Yesilgol-Ahlat","caption":"Kastamonu-Tosya-Yesilgol-Ahlat","credit":"Prise de l'Hôtel de ville - le Pont d'Arcole","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Tosya-Yesilgol-Ahlat","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228556","tip":"genel"}]
 description: "Kastamonu'nun doğa harikası milli parkı, Yeşilgöl'ün güzelliği ve Ahlat'ın tarihi geçmişi"
 keywords: ["Kastamonu","Tosya","Yeşilgöl","Ahlat","milli park","doğa","gezi","tarih"]

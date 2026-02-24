@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanlar gezi","kültür varlıkları inceleme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kılavuzlu Mahallesi Tümülüsü, Asarcık","caption":"Kılavuzlu Mahallesi Tümülüsü, Asarcık","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg","alt":"Kılavuzlu Mahallesi Tümülüsü, Asarcık","caption":"Kılavuzlu Mahallesi Tümülüsü, Asarcık","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1lavuzlu%20Mahallesi%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Asarc%C4%B1k","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728397","tip":"genel"}]
 description: "Asarcık'ta bulunan Kılavuzlu Mahallesi Tümülüsü, Karadeniz Bölgesi'nin tarihi hazinelerinden biri"
 keywords: ["Kılavuzlu Mahallesi","Asarcık","Samsun","Karadeniz Bölgesi","tarihi mekanlar","tümülüsler","kültür varlıkları"]

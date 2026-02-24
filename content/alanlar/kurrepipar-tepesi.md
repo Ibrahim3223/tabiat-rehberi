@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Tarih gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kurrepipar Tepesi","caption":"Kurrepipar Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg/960px-Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg","alt":"Kurrepipar Tepesi","caption":"Kurrepipar Tepesi","credit":"Circle of Giorgione - Infant Paris Abandoned on Mount Ida, ca. 1510","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurrepipar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553329","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Batman şehrinde yer alan Kurrepipar Tepesi, zengin doğası ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kurrepipar Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tarih","tepe","gezi","ziyaret"]

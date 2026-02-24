@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Yazır Dağı","caption":"Yazır Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg/960px-H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg","alt":"Yazır Dağı","caption":"Yazır Dağı","credit":"Hürmetçi ve Erciyes","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yaz%C4%B1r%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502896","tip":"genel"}]
 description: "Yozgat'ta bulunan Yazır Dağı, doğa severlerin ziyaret ettiği önemli bir coğrafi oluşum"
 keywords: ["Yazır Dağı","Yozgat","Dağ","Doğa","Turizm","Coğrafya","Yozgat Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotograf çekimi","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Gedik Paşa Hamamı","caption":"Gedik Paşa Hamamı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mediterranean_-_panoramio_%283%29.jpg/960px-Mediterranean_-_panoramio_%283%29.jpg","alt":"Gedik Paşa Hamamı","caption":"Gedik Paşa Hamamı","credit":"Mediterranean - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gedik%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738986","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, Çivril'de bulunan Gedik Paşa Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Gedik Paşa Hamamı","Çivril","Denizli","Ege Bölgesi","yeşil alan","doğa","gezi"]

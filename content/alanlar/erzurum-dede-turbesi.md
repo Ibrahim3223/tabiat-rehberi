@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenmek","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Erzurum Dede Türbesi","caption":"Erzurum Dede Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg","alt":"Erzurum Dede Türbesi","caption":"Erzurum Dede Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 03","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582714","tip":"genel"}]
 description: "Çorum'da bulunan tarihi türbe ve doğal güzellikler"
 keywords: ["Erzurum Dede Türbesi","Çorum","Karadeniz Bölgesi","tarihi türbe","doğa","gezi","tarihçe","coğrafya","flora","fauna"]

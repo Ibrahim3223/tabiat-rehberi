@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Sarıveliler Tepe Örenyeri","caption":"Sarıveliler Tepe Örenyeri","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Sarıveliler Tepe Örenyeri","caption":"Sarıveliler Tepe Örenyeri","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1veliler%20Tepe%20%C3%96renyeri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728148","tip":"genel"}]
 description: "Karaman'ın Sarıveliler ilçesinde yer alan tarihi ve doğal güzelliklerin bir araya geldiği Sarıveliler Tepe Örenyeri"
 keywords: ["Karaman","Sarıveliler","tarih","doğa","örenyeri","tepe","gezi","turizm","kültür","anadolu"]

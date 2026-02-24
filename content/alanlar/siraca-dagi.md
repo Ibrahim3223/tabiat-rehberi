@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Sıraca Dağı","caption":"Sıraca Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Erenler_Da%C4%9F%C4%B1_09_09_1991_bei_K%C4%B1z%C4%B1l%C3%B6ren.jpg/960px-Erenler_Da%C4%9F%C4%B1_09_09_1991_bei_K%C4%B1z%C4%B1l%C3%B6ren.jpg","alt":"Sıraca Dağı","caption":"Sıraca Dağı","credit":"Erenler Dağı 09 09 1991 bei Kızılören","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1raca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506436","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, Sıraca Dağı'nın büyüleyici manzaralarını görün."
 keywords: ["Sıraca Dağı","Mersin","Dağ","Doğa","Turizm","Mersin Turistik Yerler","Sıraca Dağı Manzaraları","Mersin Gezi Rehberi","Dağ Trekking"]

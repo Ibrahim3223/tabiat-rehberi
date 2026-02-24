@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî mekanları ziyaret","doğa yürüyüşü","fotografi","dinî ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Şıh İbrahim El Hekim Türbesi","caption":"Şıh İbrahim El Hekim Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Şıh İbrahim El Hekim Türbesi","caption":"Şıh İbrahim El Hekim Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9E%C4%B1h%20%C4%B0brahim%20El%20Hekim%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391780","tip":"genel"}]
 description: "Mersin'in tarihi ve doğal güzelliklerini keşfedin. Şıh İbrahim El Hekim Türbesi, Akdeniz Bölgesi'nin önemli dini ve turistik merkezlerinden biri."
 keywords: ["Mersin","Şıh İbrahim El Hekim Türbesi","tarih","doğa","turizm","dini merkez","Akdeniz Bölgesi"]

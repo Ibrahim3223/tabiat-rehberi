@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Karatallık Dağı","caption":"Karatallık Dağı","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PeakUludag.jpg/960px-PeakUludag.jpg","alt":"Karatallık Dağı","caption":"Karatallık Dağı","credit":"PeakUludag","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karatall%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517809","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Karatallık Dağı, doğal güzellikleri ve zengin florası ile dikkat çekiyor."
 keywords: ["Karatallık Dağı","Türkiye dağları","doğal güzellikler","dağcılık","turizm","gezi rehberi","coğrafya","Türkiye'nin dağları","Karatallık Dağı hakkında"]

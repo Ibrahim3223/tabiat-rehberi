@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","fotografçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Aptalmusa Tepesi","caption":"Aptalmusa Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Aptalmusa Tepesi","caption":"Aptalmusa Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aptalmusa%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387948","tip":"genel"}]
 description: "Gümüşhane'nin Karadeniz Bölgesi'nde bulunan Aptalmusa Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Aptalmusa Tepesi","Gümüşhane","Karadeniz Bölgesi","doğa","tepe","gezi","yaban hayatı","çevre"]

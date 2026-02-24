@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğraf çekimi","Tarihi yapıları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Duatepe Türbesi","caption":"Duatepe Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nea_Moni_and_the_Aegean_Sea.JPG/960px-Nea_Moni_and_the_Aegean_Sea.JPG","alt":"Duatepe Türbesi","caption":"Duatepe Türbesi","credit":"Nea Moni and the Aegean Sea","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Duatepe%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390486","tip":"genel"}]
 description: "Tarsus'un tarihi ve doğal güzelliklerini bir arada sunan Duatepe Türbesi, Mersin'in Akdeniz Bölgesi'nde yer alır."
 keywords: ["Duatepe Türbesi","Tarsus","Mersin","Akdeniz Bölgesi","tarihi mekanlar","doğa alanları","gezi noktaları"]

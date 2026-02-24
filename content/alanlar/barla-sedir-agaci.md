@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Barla Sedir Agaci","caption":"Barla Sedir Agaci","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MOKFC03.jpg/960px-MOKFC03.jpg","alt":"Barla Sedir Agaci","caption":"Barla Sedir Agaci","credit":"MOKFC03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Barla%20Sedir%20Agaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227130","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Barla Sedir Agaci, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Barla Sedir Agaci","İç Anadolu Bölgesi","doğal alan","yeşil alan","sedir ağacı"]

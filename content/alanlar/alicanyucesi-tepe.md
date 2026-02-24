@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","trekking","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg","alt":"Alicanyücesi Tepe","caption":"Alicanyücesi Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/South_elevation._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-5.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Alicanyücesi Tepe","caption":"Alicanyücesi Tepe","credit":"South elevation. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-5","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alicany%C3%BCcesi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32127148","tip":"genel"}]
 description: "Kahramanmaraş'ın Akdeniz Bölgesi'nde yer alan Alicanyücesi Tepe, tarihi geçmişi ve zengin doğası ile dikkat çekiyor."
 keywords: ["Alicanyücesi Tepe","Kahramanmaraş","Akdeniz Bölgesi","doğa","tarih","gezi","turizm","coğrafya","flora","fauna"]

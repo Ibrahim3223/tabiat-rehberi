@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","tarih ve kültür gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Zincirli Dağ","caption":"Zincirli Dağ","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ida_Flooding_%282%29.jpg/960px-Ida_Flooding_%282%29.jpg","alt":"Zincirli Dağ","caption":"Zincirli Dağ","credit":"Ida Flooding (2)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zincirli%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385339","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli köşelerinden biri olan Zincirli Dağ, ziyaretçilerini doğal güzelliği ile etkiliyor."
 keywords: ["Zincirli Dağ","İç Anadolu Bölgesi","doğal güzellik","tepe","Türkiye","coğrafya","flora","fauna","ziyaret"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["yürüyüş","bitki ve hayvan türleri incelemesi","bölge hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ye%C5%9Fil_Deniz.jpg/960px-Ye%C5%9Fil_Deniz.jpg","alt":"Artvin-Yusufeli-Ogdem-Dogu Ladini","caption":"Artvin-Yusufeli-Ogdem-Dogu Ladini","credit":"Yeşil Deniz","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg/960px-A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg","alt":"Artvin-Yusufeli-Ogdem-Dogu Ladini","caption":"Artvin-Yusufeli-Ogdem-Dogu Ladini","credit":"A Turkey Vulture and Molly Hogan of NatureWorks (26178312449)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Yusufeli-Ogdem-Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228289","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzellikleri arasında yer alan milli park"
 keywords: ["Artvin","Yusufeli","Ogdem","Dogu Ladini","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

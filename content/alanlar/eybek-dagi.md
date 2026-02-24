@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Eybek Dağı","caption":"Eybek Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mehmetali_k%C3%B6y%C3%BC_yak%C4%B1nlar%C4%B1ndan_sumakl%C4%B1k_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg/960px-Mehmetali_k%C3%B6y%C3%BC_yak%C4%B1nlar%C4%B1ndan_sumakl%C4%B1k_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Eybek Dağı","caption":"Eybek Dağı","credit":"Mehmetali köyü yakınlarından sumaklık ve eşşek dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eybek%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31523876","tip":"genel"}]
 description: "Balıkesir'in doğal güzelliklerinden biri olan Eybek Dağı, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Eybek Dağı","Balıkesir","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Balıkesir Gezilecek Yerler"]

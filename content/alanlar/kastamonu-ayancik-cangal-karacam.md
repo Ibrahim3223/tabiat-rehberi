@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["yürüyüş","doğa fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Kastamonu-Ayancik-Cangal Karacam","caption":"Kastamonu-Ayancik-Cangal Karacam","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"Kastamonu-Ayancik-Cangal Karacam","caption":"Kastamonu-Ayancik-Cangal Karacam","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Ayancik-Cangal%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227537","tip":"genel"}]
 description: "Kastamonu'nun güzelliklerini keşfedin, Ayancık-Cangal Karacam milli parkı"
 keywords: ["Kastamonu","Ayancık","Cangal Karacam","milli park","Karadeniz Bölgesi","doğa","turizm"]

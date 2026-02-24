@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihsel mekanları gezmek","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Şeyh Halil Türbesi","caption":"Şeyh Halil Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg/960px-MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg.png","alt":"Şeyh Halil Türbesi","caption":"Şeyh Halil Türbesi","credit":"MapaTopográficoDeAsiaMenor-Caria","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Halil%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735194","tip":"genel"}]
 description: "Diyarbakır'ın Silvan ilçesinde bulunan tarihi bir mekan."
 keywords: ["Şeyh Halil Türbesi","Diyarbakır","Silvan","tarihi mekan","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","flora","fauna"]

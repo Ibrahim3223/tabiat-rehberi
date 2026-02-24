@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Tarihi ve kültürel zenginlikleri keşfetmek","Ege manzarasını seyretmek","Yakındaki diğer tarihi ve doğal güzellikleri ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi","caption":"Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi","caption":"Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi","credit":"Down by the sea - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaptan-%C4%B1%20Derya%20K%C4%B1z%C4%B1lhisarl%C4%B1%20Mustafa%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735193","tip":"genel"}]
 description: "Bodrum'un tarihi zenginliği, Ege'nin güzelliği"
 keywords: ["Kaptan-ı Derya Kızılhisarlı Mustafa Paşa","Bodrum","Muğla","Ege Bölgesi","Türbe","Tarih","Coğrafya","Doğa","Flora","Fauna"]

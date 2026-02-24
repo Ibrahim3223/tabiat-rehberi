@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemleme","fotografcılık"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Kastamonu-Arac-Dereyayla Saricam","caption":"Kastamonu-Arac-Dereyayla Saricam","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg/960px-Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Kastamonu-Arac-Dereyayla Saricam","caption":"Kastamonu-Arac-Dereyayla Saricam","credit":"Kayabaşı Tabiat Parkı - 360° Panorama","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Arac-Dereyayla%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227577","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin yeşil cenneti, Kastamonu-Arac-Dereyayla Saricam milli parkı"
 keywords: ["Kastamonu","Arac","Dereyayla","Saricam","milli park","Karadeniz Bölgesi","doğa","yeşil alan"]

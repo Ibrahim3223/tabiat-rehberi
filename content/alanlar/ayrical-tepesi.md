@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","manzara seyretme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Ayrıçal Tepesi","caption":"Ayrıçal Tepesi","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/General_view_of_Fort_Hill_Farm%2C_view_looking_south-southeast._From_left_to_right%2C_buildings_visible_are_%28B%29_two-story_hall-and-parlor_house%3B_%28k%29_small_barn%3B_%28A%29_mansion%27_%28G%28_shed_HABS_VA%2C42-CLOV.V%2C2-1.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Ayrıçal Tepesi","caption":"Ayrıçal Tepesi","credit":"General view of Fort Hill Farm, view looking south-southeast. From left to right, buildings visible are (B) two-story hall-and-parlor house; (k) small barn; (A) mansion' (G( shed HABS VA,42-CLOV.V,2-1","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayr%C4%B1%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32131371","tip":"genel"}]
 description: "Kayseri'nin önemli doğal güzelliklerinden biri olan Ayrıçal Tepesi, ziyaretçilerine eşsiz manzaralar sunuyor."
 keywords: ["Ayrıçal Tepesi","Kayseri","İç Anadolu Bölgesi","doğal güzellik","tepe","manzara","gezi","turizm","Kayseri gezilecek yerler"]

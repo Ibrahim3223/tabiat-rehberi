@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihleme","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Karaburun Tümülüsü","caption":"Karaburun Tümülüsü","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alanya-Antalya_-_panoramio_%283%29.jpg/960px-Alanya-Antalya_-_panoramio_%283%29.jpg","alt":"Karaburun Tümülüsü","caption":"Karaburun Tümülüsü","credit":"Alanya-Antalya - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaburun%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728163","tip":"genel"}]
 description: "Antalya'nın Elmalı ilçesinde bulunan Karaburun Tümülüsü, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor"
 keywords: ["Karaburun","Tümülüsü","Elmalı","Antalya","tarihi","doğal","güzellik","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Eriklisivrisi Tepe","caption":"Eriklisivrisi Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_2315_Tufa_landscape_of_Goreme_%28Turkey%29.jpg/960px-00_2315_Tufa_landscape_of_Goreme_%28Turkey%29.jpg","alt":"Eriklisivrisi Tepe","caption":"Eriklisivrisi Tepe","credit":"00 2315 Tufa landscape of Goreme (Turkey)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eriklisivrisi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31524188","tip":"genel"}]
 description: "Türkiye'de bulunan Eriklisivrisi Tepe, doğa severlerin ziyaret ettiği bir dağdır. Doğal güzelliği ve trekking rotalarıyla dikkat çeker."
 keywords: ["Eriklisivrisi Tepe","Türkiye dağları","doğa turizmi","trekking rotaları","dağcılık","Türkiye coğrafyası","gezi noktaları","turistik yerler","doğal güzellikler"]

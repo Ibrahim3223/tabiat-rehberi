@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet","doğa seyri","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Ergene Tepesi","caption":"Ergene Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Ergene Tepesi","caption":"Ergene Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ergene%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557808","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Ergene Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Ankara","İç Anadolu Bölgesi","Ergene Tepesi","tepe","doğa","gezi","ziyaret"]

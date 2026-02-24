@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Divlit Yanardağı","caption":"Divlit Yanardağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Conquering_the_Mountain_Nemrut.jpg/960px-Conquering_the_Mountain_Nemrut.jpg","alt":"Divlit Yanardağı","caption":"Divlit Yanardağı","credit":"Conquering the Mountain Nemrut","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Divlit%20Yanarda%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6044027","tip":"genel"}]
 description: "Manisa'nın Kula ilçesinde bulunan Divlit Yanardağı, volkanik bir dağdır. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Divlit Yanardağı","Manisa","Kula","Dağ","Volkanik","Yeşil Alan","Doğa","Türkiye","Seyahat"]

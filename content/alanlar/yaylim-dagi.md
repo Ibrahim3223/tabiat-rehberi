@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Yaylım Dağı","caption":"Yaylım Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg/960px-Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg","alt":"Yaylım Dağı","caption":"Yaylım Dağı","credit":"Erciyes Dağı 05 04 1999","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yayl%C4%B1m%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32195121","tip":"genel"}]
 description: "Bingöl'de bulunan Yaylım Dağı, doğa severlerin ziyaret ettiği önemli bir coğrafi oluşum"
 keywords: ["Yaylım Dağı","Bingöl","Dağ","Doğa","Türkiye Coğrafyası","Bingöl Turizm","Yaylım Dağı Ziyaret","Doğa Yürüyüşü","Coğrafi Oluşumlar"]

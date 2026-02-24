@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Plaj activities","Doğa yürüyüşleri","Rehberli turlar"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Şirvanlı Baba Türbesi","caption":"Şirvanlı Baba Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Şirvanlı Baba Türbesi","caption":"Şirvanlı Baba Türbesi","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eirvanl%C4%B1%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390663","tip":"genel"}]
 description: "Amasya'da tarihi bir figürün ziyaret edilebileceği bir türbe ve plaj"
 keywords: ["Amasya","Karadeniz Bölgesi","Türbe","Plaj","Şirvanlı Baba","Tarih","Doğa"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Susuz Tepe","caption":"Susuz Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Olympos_Peak.jpg/960px-Olympos_Peak.jpg","alt":"Susuz Tepe","caption":"Susuz Tepe","credit":"Olympos Peak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Susuz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505564","tip":"genel"}]
 description: "Hatay'da yer alan Susuz Tepe, 1200 metre yüksekliğiyle dikkat çeker. Doğal güzellikleri ve trekking rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Susuz Tepe","Hatay","Dağ","Trekking","Doğa","Gezi","Turizm","Yürüyüş","Manzara"]

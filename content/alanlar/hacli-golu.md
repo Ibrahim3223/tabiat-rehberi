@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günün yarısı"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Haçlı Gölü","caption":"Haçlı Gölü","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/S%C3%BCnnet_G%C3%B6l%C3%BC.jpg/960px-S%C3%BCnnet_G%C3%B6l%C3%BC.jpg","alt":"Haçlı Gölü","caption":"Haçlı Gölü","credit":"Sünnet Gölü","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ha%C3%A7l%C4%B1%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6030769","tip":"genel"}]
 description: "Muş'un Bulanık ilçesinde bulunan Haçlı Gölü, 1200 hektarlık alanı ile doğa severlerin ziyaret ettiği bir göl"
 keywords: ["Haçlı Gölü","Muş","Bulanık","göl","doğa","turizm","gezi","Muş gölleri","Bulanık gölleri"]

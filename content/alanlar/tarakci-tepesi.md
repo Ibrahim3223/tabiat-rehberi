@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["gezinti","doğa yürüyüşü","fotoğraf çekimi","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Tarakçı Tepesi","caption":"Tarakçı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Tarakçı Tepesi","caption":"Tarakçı Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarak%C3%A7%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811566","tip":"genel"}]
 description: "Karabük'te yer alan Tarakçı Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Tarakçı Tepesi","Karabük","Karadeniz Bölgesi","doğal güzellik","tepe","gezilecek yerler","doğa","turizm","gezi"]

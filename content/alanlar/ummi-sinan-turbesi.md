@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Ümmi Sinan Türbesi","caption":"Ümmi Sinan Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg","alt":"Ümmi Sinan Türbesi","caption":"Ümmi Sinan Türbesi","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cmmi%20Sinan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391004","tip":"genel"}]
 description: "İstanbul'un Eyüpsultan ilçesinde yer alan Ümmi Sinan Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Ümmi Sinan Türbesi","Eyüpsultan","İstanbul","Marmara Bölgesi","tarih","doğa","gezi"]

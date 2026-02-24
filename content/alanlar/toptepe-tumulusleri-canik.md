@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi rehberliği","doğa yürüyüşü","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Toptepe Tümülüsleri, Canik","caption":"Toptepe Tümülüsleri, Canik","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Altinkum_Beaches_49_%28October2009%29_-_panoramio.jpg/960px-Altinkum_Beaches_49_%28October2009%29_-_panoramio.jpg","alt":"Toptepe Tümülüsleri, Canik","caption":"Toptepe Tümülüsleri, Canik","credit":"Altinkum Beaches 49 (October2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toptepe%20T%C3%BCm%C3%BCl%C3%BCsleri%2C%20Canik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728398","tip":"genel"}]
 description: "Samsun'un Canik ilçesinde bulunan Toptepe Tümülüsleri, tarihi geçmişe ışık tutan önemli bir arkeolojik alan"
 keywords: ["Toptepe Tümülüsleri","Canik","Samsun","Karadeniz Bölgesi","tarih","arkeoloji","tümülüs","Samsun gezilecek yerler"]

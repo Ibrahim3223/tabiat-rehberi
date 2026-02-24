@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Amasya-Kargi-Erenlerkos Karacam","caption":"Amasya-Kargi-Erenlerkos Karacam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"Amasya-Kargi-Erenlerkos Karacam","caption":"Amasya-Kargi-Erenlerkos Karacam","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Kargi-Erenlerkos%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227472","tip":"genel"}]
 description: "Amasya'da yer alan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Amasya","Kargi","Erenlerkos","Karacam","milli park","yeşil alan","futbol sahası"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Myotis_alcathoe_range.svg/960px-Myotis_alcathoe_range.svg.png","alt":"Bursa-Domanic -Domanic Kayin","caption":"Bursa-Domanic -Domanic Kayin","credit":"Myotis alcathoe range","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"Bursa-Domanic -Domanic Kayin","caption":"Bursa-Domanic -Domanic Kayin","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Domanic%20-Domanic%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227265","tip":"genel"}]
 description: "Marmara Bölgesi'nin en büyük milli parklarından biri olan Bursa-Domanic -Domanic Kayin, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bursa","Marmara Bölgesi","Domanic","Kayin","milli park","doğal alan","çevre"]

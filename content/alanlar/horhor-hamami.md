@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hamamın tarihi ve mimari özelliklerini incelemek","Çevresindeki tarihi noktaları gezmek","Par ve bahçelerde dinlenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Horhor Hamamı","caption":"Horhor Hamamı","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg/960px-Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg","alt":"Horhor Hamamı","caption":"Horhor Hamamı","credit":"Cool waters of the turquoise blue Aegean Sea - Ayvalık - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Horhor%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738580","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Horhor Hamamı, Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunur. Tarihi geçmişiyle dikkat çeker."
 keywords: ["Horhor Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarihi hamam","gezi","turizm"]

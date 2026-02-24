@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Kuş gözlemcisi","Fotoğrafçılık","Doğa yürüyüşü","Sulak alan keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Metruk Tuzlası Sulak Alanı","caption":"Metruk Tuzlası Sulak Alanı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Metruk Tuzlası Sulak Alanı","caption":"Metruk Tuzlası Sulak Alanı","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Metruk%20Tuzlas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229010","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Metruk Tuzlası Sulak Alanı"
 keywords: ["Metruk Tuzlası","Sulak Alanı","İç Anadolu Bölgesi","Doğa","Sulak Alan","Tuzlası","Korunan Alan","Çevre","Ekosistem"]

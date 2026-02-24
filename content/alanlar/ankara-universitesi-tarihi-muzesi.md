@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Bahçe turu","Sergi ziyaretleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Ankara Üniversitesi Tarihi Müzesi","caption":"Ankara Üniversitesi Tarihi Müzesi","credit":"^^^^ - Flickr - zehhhra","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio_%281%29.jpg/960px-B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio_%281%29.jpg","alt":"Ankara Üniversitesi Tarihi Müzesi","caption":"Ankara Üniversitesi Tarihi Müzesi","credit":"Büyükada island, Turkey - panoramio (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20%C3%9Cniversitesi%20Tarihi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949983","tip":"genel"}]
 description: "Ankara Üniversitesi Tarihi Müzesi, Ankara'nın merkezinde yer alan tarihi bir müze"
 keywords: ["Ankara Üniversitesi","Tarihi Müzesi","Ankara","Müze","Tarih","Üniversite","Anıtlar","Kültür"]

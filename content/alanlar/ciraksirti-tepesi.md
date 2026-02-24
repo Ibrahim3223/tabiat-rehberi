@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Çıraksırtı Tepesi","caption":"Çıraksırtı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Çıraksırtı Tepesi","caption":"Çıraksırtı Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1raks%C4%B1rt%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829289","tip":"genel"}]
 description: "Samsun'un doğal güzellikleri arasında yer alan Çıraksırtı Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri"
 keywords: ["Samsun","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","çevre","ekosistem","flora","fauna"]

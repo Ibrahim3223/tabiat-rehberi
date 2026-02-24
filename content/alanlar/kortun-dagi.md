@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Fields_of_Kirsehir_-_panoramio.jpg/960px-The_Fields_of_Kirsehir_-_panoramio.jpg","alt":"Kortun Dağı","caption":"Kortun Dağı","credit":"The Fields of Kirsehir - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kortun Dağı","caption":"Kortun Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kortun%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513057","tip":"genel"}]
 description: "Kırşehir'de yer alan Kortun Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin uğrak noktası"
 keywords: ["Kortun Dağı","Kırşehir","Dağ","Doğa","Yeşil Alan","Türkiye","Gezi","Seyahat","Kırşehir Turizm"]

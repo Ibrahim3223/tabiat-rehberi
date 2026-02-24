@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","güneşlenme","yürüyüş","su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Küçük Piyale Hamamı","caption":"Küçük Piyale Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Küçük Piyale Hamamı","caption":"Küçük Piyale Hamamı","credit":"Down by the sea - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Piyale%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739147","tip":"genel"}]
 description: "İstanbul'un tarihi plajlarından biri olan Küçük Piyale Hamamı, Marmara Bölgesi'nde bulunur."
 keywords: ["Küçük Piyale Hamamı","İstanbul","Marmara Bölgesi","plaj","tarih","doğa","gezi","turizm"]

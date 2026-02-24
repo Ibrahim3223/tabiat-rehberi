@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografçılık","tarihçe gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Çaltılı Hamamı","caption":"Çaltılı Hamamı","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg/960px-Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg","alt":"Çaltılı Hamamı","caption":"Çaltılı Hamamı","credit":"Karaburun, İzmir, Turkey - panoramio (8)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87alt%C4%B1l%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245872","tip":"genel"}]
 description: "Savaştepe'nin gizli cenneti, Çaltılı Hamamı, Marmara Bölgesi'nde doğa severleri bekliyor."
 keywords: ["Çaltılı Hamamı","Savaştepe","Balıkesir","Marmara Bölgesi","doğa","plaj","gezi","tarihçe","coğrafya"]

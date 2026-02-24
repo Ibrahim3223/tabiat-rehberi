@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Türbe gezisi","Plaj keyfi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Şeyh Muhiddin Yavsi Türbesi","caption":"Şeyh Muhiddin Yavsi Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg","alt":"Şeyh Muhiddin Yavsi Türbesi","caption":"Şeyh Muhiddin Yavsi Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 18","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhiddin%20Yavsi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390765","tip":"genel"}]
 description: "Çorum'un İskilip ilçesinde bulunan tarihi türbe ve plajı"
 keywords: ["Şeyh Muhiddin Yavsi","İskilip","Çorum","Karadeniz Bölgesi","Türbe","Plaj"]

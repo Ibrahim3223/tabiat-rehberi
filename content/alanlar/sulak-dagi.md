@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Sulak Dağı","caption":"Sulak Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Sulak Dağı","caption":"Sulak Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sulak%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505930","tip":"genel"}]
 description: "Tunceli'nin doğal güzelliklerini keşfedin, Sulak Dağı'nda doğa ile baş başa kalın."
 keywords: ["Sulak Dağı","Tunceli","Dağ","Doğa","Tunceli Turizm","Sulak Dağı Tunceli","Doğa Yürüyüşü","Tunceli Gezi","Dağcılık"]

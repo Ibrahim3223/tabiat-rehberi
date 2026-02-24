@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Çizme Mağarası","caption":"Çizme Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Caucasus_Geology_EN.svg/960px-Caucasus_Geology_EN.svg.png","alt":"Çizme Mağarası","caption":"Çizme Mağarası","credit":"Caucasus Geology EN","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87izme%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319915","tip":"genel"}]
 description: "Hatay'da bulunan Çizme Mağarası, 1200 hektarlık bir jeopark alanı sunar. Doğal güzelliği keşfedin!"
 keywords: ["Çizme Mağarası","Hatay","Jeopark","Doğa","Mağara","Turizm","Gezi","Hatay Turistik Yerler","Jeolojik Alanlar"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Kültür turu","Manzara seyri","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Emir Ahmed-i Buhari Türbesi","caption":"Emir Ahmed-i Buhari Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg/960px-Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg","alt":"Emir Ahmed-i Buhari Türbesi","caption":"Emir Ahmed-i Buhari Türbesi","credit":"Bodrum, Turkey (Unsplash savOaIMns3Y)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20Ahmed-i%20Buhari%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390969","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi türbe ve plaj"
 keywords: ["Emir Ahmed-i Buhari","Türbe","Fatih","İstanbul","Marmara Bölgesi","Tarih","Plaj"]

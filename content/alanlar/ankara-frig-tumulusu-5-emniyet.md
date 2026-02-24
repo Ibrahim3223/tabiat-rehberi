@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Gezi","Doğa yürüyüşü","Fotoğraf çekimi","Tarihî araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Ankara Frig Tümülüsü 5, Emniyet","caption":"Ankara Frig Tümülüsü 5, Emniyet","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg","alt":"Ankara Frig Tümülüsü 5, Emniyet","caption":"Ankara Frig Tümülüsü 5, Emniyet","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 15","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%205%2C%20Emniyet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728290","tip":"genel"}]
 description: "Ankara'nın i geçmişine ışık tutan Ankara Frig Tümülüsü 5, Emniyet, zengin kültür mirasını keşfetmek isteyenler için önemli bir destinasyon."
 keywords: ["Ankara Frig Tümülüsü","Emniyet","tarih","kültür","miras","gezi","turizm","Ankara","İç Anadolu Bölgesi"]

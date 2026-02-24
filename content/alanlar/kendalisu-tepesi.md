@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kendalisu Tepesi","caption":"Kendalisu Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Kendalisu Tepesi","caption":"Kendalisu Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kendalisu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31542460","tip":"genel"}]
 description: "Diyarbakır'da bulunan Kendalisu Tepesi, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Kendalisu Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","tepe","coğrafya","flora","fauna"]

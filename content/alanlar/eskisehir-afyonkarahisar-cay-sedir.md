@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Flora ve fauna gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Eskişehir-Afyonkarahisar-Cay Sedir","caption":"Eskişehir-Afyonkarahisar-Cay Sedir","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"Eskişehir-Afyonkarahisar-Cay Sedir","caption":"Eskişehir-Afyonkarahisar-Cay Sedir","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Afyonkarahisar-Cay%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227603","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Eskişehir","Afyonkarahisar","Cay Sedir","Milli Park","Doğa","Ekosistem","Çevre","Turizm","Gezi"]

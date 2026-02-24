@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg/960px-Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg","alt":"Keçimağaraları","caption":"Keçimağaraları","credit":"Korfu (GR), Kassiopi -- 2018 -- 1068","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Surface_Geology_of_the_Mardin_High.jpg/960px-Surface_Geology_of_the_Mardin_High.jpg","alt":"Keçimağaraları","caption":"Keçimağaraları","credit":"Surface Geology of the Mardin High","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C3%A7ima%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319346","tip":"genel"}]
 description: "Şırnak'ta bulunan Keçimağaraları, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Keçimağaraları","Şırnak","Jeopark","Doğa","Turizm","Gezi","Şırnak Turistik Yerler","Jeolojik Alanlar","Doğal Güzellikler"]

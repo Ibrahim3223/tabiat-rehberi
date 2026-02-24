@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Yanıklık Tepesi","caption":"Yanıklık Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Yanıklık Tepesi","caption":"Yanıklık Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yan%C4%B1kl%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389990","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Yanıklık Tepesi, yaklaşık 140 hektarlık alanı ile ziyaretçilerini büyülemektedir."
 keywords: ["Yanıklık Tepesi","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm"]

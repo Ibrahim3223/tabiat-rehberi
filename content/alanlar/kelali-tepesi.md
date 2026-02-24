@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara seyri","Fotoğrafçılık"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kelali Tepesi","caption":"Kelali Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Kelali Tepesi","caption":"Kelali Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelali%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390186","tip":"genel"}]
 description: "Burdur'un doğal güzelliklerini keşfedin. Kelali Tepesi, Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kelali Tepesi","Burdur","Akdeniz Bölgesi","doğa","gezi","tepe","manzara","yaban hayatı"]

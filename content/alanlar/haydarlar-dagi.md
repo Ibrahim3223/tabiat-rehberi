@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Haydarlar Dağı","caption":"Haydarlar Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kessab30.jpg","alt":"Haydarlar Dağı","caption":"Haydarlar Dağı","credit":"Kessab30","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haydarlar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31588859","tip":"genel"}]
 description: "Malatya'da bulunan Haydarlar Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Haydarlar Dağı","Malatya","Dağ","Doğa","Yeşil Alan","Trekking","Doğa Yürüyüşü","Malatya Turizm","Dağcılık"]

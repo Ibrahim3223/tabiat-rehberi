@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["plaj","doğa yürüyüşü","su sporları","yeme ve içme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Alabanda Kuzey Hamamı","caption":"Alabanda Kuzey Hamamı","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg/960px-Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg","alt":"Alabanda Kuzey Hamamı","caption":"Alabanda Kuzey Hamamı","credit":"Manzara Aralik 2009 (GÖKOVA) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alabanda%20Kuzey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245711","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, Çine'de yer alan doğal güzellik"
 keywords: ["Alabanda Kuzey Hamamı","Çine","Aydın","Ege Bölgesi","doğal güzellik","plaj","gezi","turizm","çevre"]

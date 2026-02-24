@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["kayak","doğa yürüyüşü","çadır kurma","orman gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Bursa-Inegol-Tahtakopru Kayin","caption":"Bursa-Inegol-Tahtakopru Kayin","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg","alt":"Bursa-Inegol-Tahtakopru Kayin","caption":"Bursa-Inegol-Tahtakopru Kayin","credit":"Bolu Yedigöller tabiat parkı iskeleli göl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Inegol-Tahtakopru%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227235","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğal güzelliklerini keşfedin, 140 hektarlık kayak alanı ve zengin fauna"
 keywords: ["Bursa","Inegol","Tahtakopru Kayin","Marmara Bölgesi","doğal alan","kayak","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Erzincan_Refahiye.jpg","alt":"Kızıl Dağ (Afyonkarahisar) manzarası","credit":"Salihsertbas","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg/960px-Mount_Ararat_and_the_Yerevan_skyline.jpg","alt":"Kızıl Dağ (Afyonkarahisar)","caption":"Kızıl Dağ (Afyonkarahisar)","credit":"Mount Ararat and the Yerevan skyline","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%20Da%C4%9F%20(Afyonkarahisar)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514295","tip":"genel"}]
 description: "Afyonkarahisar'da bulunan Kızıl Dağ, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzellikleri ve tarihi zenginlikleriyle ziyaretçilerini bekliyor."

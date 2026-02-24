@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Kuzu Tepe","caption":"Kuzu Tepe","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg/960px-%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg","alt":"Kuzu Tepe","caption":"Kuzu Tepe","credit":"\"Lost\" lakes , near Meigs Peak, Col. Lakes 9,500 feet above sea-level - DPLA - a574e1d02197947f5bd63dffe370dd0d (page 1)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550881","tip":"genel"}]
 description: "Mardin'de bulunan Kuzu Tepe, bölgenin önemli dağlarından biri. Doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Kuzu Tepe","Mardin","Dağ","Doğa","Tarih","Gezi","Seyahat","Mardin Gezilecek Yerler","Kuzu Tepe Mardin"]

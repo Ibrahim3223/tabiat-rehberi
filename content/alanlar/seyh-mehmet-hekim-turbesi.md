@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresi gezisi","Doğa yürüyüşleri","Fotoğrafçılık","Yerel kültürü deneyimlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Şeyh Mehmet Hekim Türbesi","caption":"Şeyh Mehmet Hekim Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg","alt":"Şeyh Mehmet Hekim Türbesi","caption":"Şeyh Mehmet Hekim Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Mehmet%20Hekim%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582866","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin. Şeyh Mehmet Hekim Türbesi ve çevresi, ziyaretçiler için eşsiz bir deneyimi sunuyor."
 keywords: ["Mardin","Şeyh Mehmet Hekim Türbesi","tarih","doğa","gezi","türbe","Mardin gezilecek yerler","Güneydoğu Anadolu Bölgesi","Artuklu"]

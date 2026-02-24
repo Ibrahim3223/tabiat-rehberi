@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Gevina Mağarası","caption":"Gevina Mağarası","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Landsat_View%2C_Istanbul%2C_Turkey_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg/960px-Landsat_View%2C_Istanbul%2C_Turkey_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","alt":"Gevina Mağarası","caption":"Gevina Mağarası","credit":"Landsat View, Istanbul, Turkey - Flickr - NASA Goddard Photo and Video","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gevina%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319178","tip":"genel"}]
 description: "Batman'da yer alan Gevina Mağarası, 1200 hektarlık bir jeopark alanı sunar. Doğal güzellikleri keşfedin!"
 keywords: ["Gevina Mağarası","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Doğa","Batman Turistik Yerler"]

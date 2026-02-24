@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Dua etmek","Yeşil alanlarda dinlenmek","Tarihi yapıları gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Osman İbni El Zeyd Hazretleri Türbesi","caption":"Osman İbni El Zeyd Hazretleri Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg","alt":"Osman İbni El Zeyd Hazretleri Türbesi","caption":"Osman İbni El Zeyd Hazretleri Türbesi","credit":"Marmaris @ Lodos Storm (December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Osman%20%C4%B0bni%20El%20Zeyd%20Hazretleri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390508","tip":"genel"}]
 description: "Marmara Bölgesi'nin Sakarya iline bağlı Adapazarı'nda bulunan Osman İbni El Zeyd Hazretleri Türbesi, tarihi ve kültürel öneme sahip bir dini mekan."
 keywords: ["Osman İbni El Zeyd Hazretleri Türbesi","Adapazarı","Sakarya","Marmara Bölgesi","tarihi mekan","dini mekan","türbe","ziyaret"]

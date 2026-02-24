@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Kalekapı Kaya Mezarı","caption":"Kalekapı Kaya Mezarı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Kalekapı Kaya Mezarı","caption":"Kalekapı Kaya Mezarı","credit":"Karaburun - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalekap%C4%B1%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728192","tip":"genel"}]
 description: "Kalekapı Kaya Mezarı, Kastamonu'nun Taşköprü ilçesindeki tarihi ve doğal güzelliklerin buluştuğu bir nokta."
 keywords: ["Kalekapı Kaya Mezarı","Taşköprü","Kastamonu","Karadeniz Bölgesi","tarihi mekanlar","doğal güzellikler","kaya mezarları","tarihçe","coğrafya"]

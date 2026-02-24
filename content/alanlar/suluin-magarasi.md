@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg/960px-Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg","alt":"Suluin Mağarası","caption":"Suluin Mağarası","credit":"Korfu (GR), Kassiopi -- 2018 -- 1068","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Veliki_Slap_--_2022_--_0285.jpg/960px-Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Veliki_Slap_--_2022_--_0285.jpg","alt":"Suluin Mağarası","caption":"Suluin Mağarası","credit":"Lika-Senj (HR), Plitvicer Seen, Veliki Slap -- 2022 -- 0285","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Suluin%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6006591","tip":"genel"}]
 description: "Antalya'nın Finike ilçesinde bulunan Suluin Mağarası, 1200 metre uzunluğuyla dikkat çeker. Jeopark olarak kabul edilen bu doğal oluşum, yerli ve yabancı turistlerin ilgisini çekmektedir."
 keywords: ["Suluin Mağarası","Antalya","Finike","Jeopark","Doğal Oluşum","Mağara","Turizm","Gezi","Antalya Gezilecek Yerler","Finike Turistik Yerler"]

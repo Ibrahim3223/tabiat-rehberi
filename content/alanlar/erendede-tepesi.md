@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Erendede Tepesi","caption":"Erendede Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Erendede Tepesi","caption":"Erendede Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erendede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387850","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerinin başında gelen Erendede Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Erendede Tepesi","İzmir","Ege Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]

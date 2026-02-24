@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Gora Chiyareshk","caption":"Gora Chiyareshk","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Gora Chiyareshk","caption":"Gora Chiyareshk","credit":"Sis dağı (3)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Chiyareshk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31540879","tip":"genel"}]
 description: "Türkiye'de bulunan Gora Chiyareshk dağı, doğa severler için önemli bir destinasyon."
 keywords: ["Gora Chiyareshk","Türkiye dağları","doğa turizmi","dağcılık","Türkiye coğrafyası","gezi rehberi","turistik yerler","doğa yürüyüşü","Türkiye'nin en güzel dağları"]

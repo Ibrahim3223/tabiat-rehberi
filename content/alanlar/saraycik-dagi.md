@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg","alt":"Saraycık Dağı","caption":"Saraycık Dağı","credit":"The Landscape of Sıklık Gate.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"Saraycık Dağı","caption":"Saraycık Dağı","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sarayc%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34903568","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin, Saraycık Dağı'nda doğa ile baş başa kalın."
 keywords: ["Saraycık Dağı","Çorum","Dağ","Doğa","Turizm","Çorum Turistik Yerler","Saraycık Dağı Çorum","Dağcılık","Doğa Yürüyüşü"]

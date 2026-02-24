@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Şah Bali Türbesi","caption":"Şah Bali Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arsuf_-_the_cavalry_dash_along_the_sea_coast_on_the_morning_of_the_19th_September_1918_Art.IWMART2511.jpg/960px-Arsuf_-_the_cavalry_dash_along_the_sea_coast_on_the_morning_of_the_19th_September_1918_Art.IWMART2511.jpg","alt":"Şah Bali Türbesi","caption":"Şah Bali Türbesi","credit":"Arsuf - the cavalry dash along the sea coast on the morning of the 19th September 1918 Art.IWMART2511","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eah%20Bali%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390795","tip":"genel"}]
 description: "Marmara Bölgesi'nin Edirne ilinin Uzunköprü ilçesinde yer alan Şah Bali Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Şah Bali Türbesi","Uzunköprü","Edirne","Marmara Bölgesi","tarih","doğa","gezi","türbe"]

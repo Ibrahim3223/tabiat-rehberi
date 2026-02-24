@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Deniz keyfi","Türbe ziyareti"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Seyidna Hıdır Aleyselam Türbesi","caption":"Seyidna Hıdır Aleyselam Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2483.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2483.jpg","alt":"Seyidna Hıdır Aleyselam Türbesi","caption":"Seyidna Hıdır Aleyselam Türbesi","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2483","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyidna%20H%C4%B1d%C4%B1r%20Aleyselam%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391723","tip":"genel"}]
 description: "Mersin'in güzelliklerini keşfedin. Akdeniz'in incisi Seyidna Hıdır Aleyselam Türbesi"
 keywords: ["Mersin","Akdeniz","Seyidna Hıdır Aleyselam Türbesi","Türbe","Tarih","Doğa","Gezi","Turizm"]

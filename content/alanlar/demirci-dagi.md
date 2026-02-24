@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Demirci Dağı","caption":"Demirci Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Conquering_the_Mountain_Nemrut.jpg/960px-Conquering_the_Mountain_Nemrut.jpg","alt":"Demirci Dağı","caption":"Demirci Dağı","credit":"Conquering the Mountain Nemrut","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirci%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526075","tip":"genel"}]
 description: "Manisa'da yer alan Demirci Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi."
 keywords: ["Demirci Dağı","Manisa","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Manisa Gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Birkleyn Mağaraları","caption":"Birkleyn Mağaraları","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_Quarterly_journal_of_the_Geological_Society_of_London_%281904%29_%2814598402009%29.jpg/960px-The_Quarterly_journal_of_the_Geological_Society_of_London_%281904%29_%2814598402009%29.jpg","alt":"Birkleyn Mağaraları","caption":"Birkleyn Mağaraları","credit":"The Quarterly journal of the Geological Society of London (1904) (14598402009)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Birkleyn%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97237567","tip":"genel"}]
 description: "Diyarbakır Lice'de yer alan Birkleyn Mağaraları, 1200 hektarlık yeşil cennet ve jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Birkleyn Mağaraları","Diyarbakır","Lice","Jeopark","Doğal Alanlar","Mağara Gezisi","Turizm","Diyarbakır Turistik Yerler","Lice Gezi Rehberi"]

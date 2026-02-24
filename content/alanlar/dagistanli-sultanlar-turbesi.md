@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğal güzellikleri keşfetmek","Rehber eşliğinde tur yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Dağıstanlı Sultanlar Türbesi","caption":"Dağıstanlı Sultanlar Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Dağıstanlı Sultanlar Türbesi","caption":"Dağıstanlı Sultanlar Türbesi","credit":"Muğla Province (45034554)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Da%C4%9F%C4%B1stanl%C4%B1%20Sultanlar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390809","tip":"genel"}]
 description: "Pasinler, Erzurum'da bulunan tarihi türbe ve plaj"
 keywords: ["Dağıstanlı Sultanlar Türbesi","Pasinler","Erzurum","Doğu Anadolu Bölgesi","tarih","türbe","plaj"]

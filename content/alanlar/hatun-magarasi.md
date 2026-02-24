@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Hatun Mağarası","caption":"Hatun Mağarası","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Department_of_Geological_Engineering_-_panoramio.jpg/960px-Department_of_Geological_Engineering_-_panoramio.jpg","alt":"Hatun Mağarası","caption":"Hatun Mağarası","credit":"Department of Geological Engineering - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatun%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319241","tip":"genel"}]
 description: "Mardin'de yer alan Hatun Mağarası, jeopark özellikleri ile dikkat çeker. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini bekliyor."
 keywords: ["Hatun Mağarası","Mardin","Jeopark","Doğal Alan","Tarihi Yerler","Mardin Gezilecek Yerler","Mağara","Turizm","Doğa"]

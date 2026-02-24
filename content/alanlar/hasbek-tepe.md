@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Hasbek Tepe","caption":"Hasbek Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TRABZON_YAYLASI_VE_%C4%B0BADET.jpg/960px-TRABZON_YAYLASI_VE_%C4%B0BADET.jpg","alt":"Hasbek Tepe","caption":"Hasbek Tepe","credit":"TRABZON YAYLASI VE İBADET","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasbek%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31521028","tip":"genel"}]
 description: "Malatya'nın doğal güzelliklerini keşfedin. 1200 hektarlık yeşil alan, doğa yürüyüşleri ve panoramik manzaralar sunuyor."
 keywords: ["Hasbek Tepe","Malatya","Doğa Yürüyüşleri","Panoramik Manzara","Yeşil Alan","Dağ","Turizm","Gezi Rehberi","Malatya Turistik Yerler"]

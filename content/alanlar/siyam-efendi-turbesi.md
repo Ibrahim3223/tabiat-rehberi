@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezinti","doğa yürüyüşü","fotoğraf çekimi","ekosistem gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Siyam Efendi Türbesi","caption":"Siyam Efendi Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Divers.jpg/960px-Divers.jpg","alt":"Siyam Efendi Türbesi","caption":"Siyam Efendi Türbesi","credit":"Divers","license":"CC SA 1.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Siyam%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391505","tip":"genel"}]
 description: "Taşkent'in tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Taşkent","Konya","Siyam Efendi Türbesi","tarih","doğa","gezi","türbe","İç Anadolu Bölgesi"]

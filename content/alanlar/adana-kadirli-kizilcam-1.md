@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cilingoz_National_Park_Beach_with_waves.jpg/960px-Cilingoz_National_Park_Beach_with_waves.jpg","alt":"Adana-Kadirli Kızılçam 1","caption":"Adana-Kadirli Kızılçam 1","credit":"Cilingoz National Park Beach with waves","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akdag_bridge.jpg/960px-Akdag_bridge.jpg","alt":"Adana-Kadirli Kızılçam 1","caption":"Adana-Kadirli Kızılçam 1","credit":"Akdag bridge","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227830","tip":"genel"}]
 description: "Adana'nın doğal güzellikleri arasında yer alan milli park"
 keywords: ["Adana","Kadirli","Kızılçam","milli park","doğa","turizm","gezi","yaban hayatı","çevre","ekoloji"]

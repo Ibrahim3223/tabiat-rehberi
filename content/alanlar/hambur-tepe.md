@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","köy gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg","alt":"Hambur Tepe","caption":"Hambur Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Hambur Tepe","caption":"Hambur Tepe","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hambur%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389466","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Hambur Tepe, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Kahramanmaraş","Hambur Tepe","Akdeniz Bölgesi","doğal güzellik","tepe","coğrafya"]

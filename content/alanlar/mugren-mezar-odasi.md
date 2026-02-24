@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Müğren Mezar Odası","caption":"Müğren Mezar Odası","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Müğren Mezar Odası","caption":"Müğren Mezar Odası","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%BC%C4%9Fren%20Mezar%20Odas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728237","tip":"genel"}]
 description: "Elmalı, Antalya'da bulunan tarihi mezar odası, ziyaretçilerini tarihin derinına götürüyor"
 keywords: ["Müğren Mezar Odası","Elmalı","Antalya","mezar odası","tarih","kültür","gezi","turizm"]

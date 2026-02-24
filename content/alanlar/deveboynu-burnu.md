@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cloud_in_the_river.jpg/960px-Cloud_in_the_river.jpg","alt":"Deveboynu Burnu","caption":"Deveboynu Burnu","credit":"Cloud in the river","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Eurasian_Collared-Dove_by_Tisha_Mukherjee_05.jpg/960px-Eurasian_Collared-Dove_by_Tisha_Mukherjee_05.jpg","alt":"Deveboynu Burnu","caption":"Deveboynu Burnu","credit":"Eurasian Collared-Dove by Tisha Mukherjee 05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deveboynu%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q5034748","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Deveboynu Burnu, çeşitli kuş türlerine ev sahipliği yapıyor."
 keywords: ["Deveboynu Burnu","kuş cenneti","Türkiye","doğa","kuş türleri","turizm","çevre","ekosistem","vahşi yaşam"]

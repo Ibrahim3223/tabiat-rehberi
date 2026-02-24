@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["deniz keyfi","kuş gözlemciliği","tarih gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Azebler Hamamı","caption":"Azebler Hamamı","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Port_Atami-Bodrum_Marina-panorama-big.jpg/960px-Port_Atami-Bodrum_Marina-panorama-big.jpg","alt":"Azebler Hamamı","caption":"Azebler Hamamı","credit":"Port Atami-Bodrum Marina-panorama-big","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Azebler%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245740","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan Azebler Hamamı, Marmara Bölgesi'nin önemli doğal alanlarından biri"
 keywords: ["Azebler Hamamı","Fatih","İstanbul","Marmara Bölgesi","doğal alan","plaj","deniz","tatil"]

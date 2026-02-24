@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Tecer Dağı","caption":"Tecer Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KackarDagi_fromNorth_hory.jpg/960px-KackarDagi_fromNorth_hory.jpg","alt":"Tecer Dağı","caption":"Tecer Dağı","credit":"KackarDagi fromNorth hory","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tecer%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505073","tip":"genel"}]
 description: "Sivas'ta bulunan Tecer Dağı, doğa severlerin ziyaret ettiği önemli bir coğrafi oluşum"
 keywords: ["Tecer Dağı","Sivas","Dağ","Doğa","Türkiye Coğrafyası","Sivas Turizm","Dağcılık","Trekking","Doğa Yürüyüşü"]

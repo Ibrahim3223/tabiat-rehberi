@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Kuş gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"İtecik Lalesi Tabiat Koruma Alanı","caption":"İtecik Lalesi Tabiat Koruma Alanı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"İtecik Lalesi Tabiat Koruma Alanı","caption":"İtecik Lalesi Tabiat Koruma Alanı","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0tecik%20Lalesi%20Tabiat%20Koruma%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228997","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan İtecik Lalesi Tabiat Koruma Alanı, doğal güzellikleri ve biyolojik çeşitliliği koruma altına almış özel bir bölge."
 keywords: ["İtecik Lalesi","Tabiat Koruma Alanı","İç Anadolu Bölgesi","doğal güzellik","biyolojik çeşitlilik","koruma alanı","çevre","ekosistem"]

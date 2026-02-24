@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Yazlıca Dağı","caption":"Yazlıca Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/960px-Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","alt":"Yazlıca Dağı","caption":"Yazlıca Dağı","credit":"Dağ tepesinden Uzungöl görünümü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yazl%C4%B1ca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539234","tip":"genel"}]
 description: "Siirt'te bulunan Yazlıca Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Yazlıca Dağı","Siirt","Dağ","Trekking","Doğa","Gezi","Turizm","Siirt Turistik Yerler","Dağcılık"]

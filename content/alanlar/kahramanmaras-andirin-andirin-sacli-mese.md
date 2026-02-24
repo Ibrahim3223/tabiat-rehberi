@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Kahramanmaras-Andirin-Andirin Sacli Mese","caption":"Kahramanmaras-Andirin-Andirin Sacli Mese","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"Kahramanmaras-Andirin-Andirin Sacli Mese","caption":"Kahramanmaras-Andirin-Andirin Sacli Mese","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Andirin-Andirin%20Sacli%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228487","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Andirin Sacli Mese milli parkı"
 keywords: ["milli park","İç Anadolu Bölgesi","Kahramanmaras","Andirin","doğa","çevre","gezi"]

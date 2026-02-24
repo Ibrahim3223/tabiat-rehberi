@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kolıka Tepesi","caption":"Kolıka Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Kolıka Tepesi","caption":"Kolıka Tepesi","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kol%C4%B1ka%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549022","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli cevheri Kolıka Tepesi, doğa severlerin yeni keşfi"
 keywords: ["Kolıka Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","Doğa","Tepeler","Coğrafya","Tarihçe","Flora","Fauna"]

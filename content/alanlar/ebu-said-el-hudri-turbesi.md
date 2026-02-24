@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Tarihi eserleri keşfetmek","Doğa yürüyüşü yapmak","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Ebu Said El-Hudri Türbesi","caption":"Ebu Said El-Hudri Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg","alt":"Ebu Said El-Hudri Türbesi","caption":"Ebu Said El-Hudri Türbesi","credit":"Sunset at Aegean Sea, İzmir 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ebu%20Said%20El-Hudri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391050","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi türbe ve çevresindeki doğal güzellikler"
 keywords: ["Ebu Said El-Hudri","Türbe","Fatih","İstanbul","Doğa","Tarih","Marmara Bölgesi"]

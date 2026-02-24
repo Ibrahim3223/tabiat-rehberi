@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Dedekayası Tepesi","caption":"Dedekayası Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Dedekayası Tepesi","caption":"Dedekayası Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedekayas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390662","tip":"genel"}]
 description: "Amasya'nın gizli köşesi, Dedekayası Tepesi"
 keywords: ["Amasya","Karadeniz Bölgesi","Dedekayası Tepesi","tepe","coğrafya","tarihçe","doğa"]

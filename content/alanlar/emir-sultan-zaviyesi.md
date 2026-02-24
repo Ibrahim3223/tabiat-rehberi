@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["gezi","doğa yürüyüşü","tarih keşfi","deniz keyfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg","alt":"Emir Sultan Zaviyesi","caption":"Emir Sultan Zaviyesi","credit":"Süzer Sun Dreams Beach 8 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aegean_Sea_%28MODIS_2017-07-04%29.jpg/960px-Aegean_Sea_%28MODIS_2017-07-04%29.jpg","alt":"Emir Sultan Zaviyesi","caption":"Emir Sultan Zaviyesi","credit":"Aegean Sea (MODIS 2017-07-04)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20Sultan%20Zaviyesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739018","tip":"genel"}]
 description: "İzmir'in Konak ilçesinde yer alan Emir Sultan Zaviyesi, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Emir Sultan Zaviyesi","Konak","İzmir","tarih","doğa","gezi","turizm","zaviye","plaj"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi yerleri gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg","alt":"İncirlipınar Tepe","caption":"İncirlipınar Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 03.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/South_elevation._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-5.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"İncirlipınar Tepe","caption":"İncirlipınar Tepe","credit":"South elevation. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-5","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncirlip%C4%B1nar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389491","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan İncirlipınar Tepe, Akdeniz Bölgesi'nin önemli doğal alanlarından biri"
 keywords: ["İncirlipınar Tepe","Kahramanmaraş","Akdeniz Bölgesi","doğal alan","tepe","coğrafya"]

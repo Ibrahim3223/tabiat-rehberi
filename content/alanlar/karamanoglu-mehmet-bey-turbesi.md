@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Plaj aktiviteleri","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Karamanoğlu Mehmet Bey Türbesi","caption":"Karamanoğlu Mehmet Bey Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg","alt":"Karamanoğlu Mehmet Bey Türbesi","caption":"Karamanoğlu Mehmet Bey Türbesi","credit":"2023-11-04 Choban beach near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karamano%C4%9Flu%20Mehmet%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391371","tip":"genel"}]
 description: "Karamanoğlu Mehmet Bey Türbesi, Ermenek ilçesi sınırları içerisinde yer alan tarihi bir türbe ve plaj alanıdır."
 keywords: ["Karamanoğlu Mehmet Bey","Ermenek","Karaman","İç Anadolu Bölgesi","Türbe","Plaj","Tarih"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg","alt":"Hoşar Dağı","caption":"Hoşar Dağı","credit":"The Landscape of Çorum Sıklık.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ta%C5%9Feli-Plateau_12_08_1999_Y%C3%BC%C4%9Fl%C3%BCk_Da%C4%9F%C4%B1_zwischen_Ta%C5%9Fkale_und_K%C4%B1robas%C4%B1.jpg/960px-Ta%C5%9Feli-Plateau_12_08_1999_Y%C3%BC%C4%9Fl%C3%BCk_Da%C4%9F%C4%B1_zwischen_Ta%C5%9Fkale_und_K%C4%B1robas%C4%B1.jpg","alt":"Hoşar Dağı","caption":"Hoşar Dağı","credit":"Taşeli-Plateau 12 08 1999 Yüğlük Dağı zwischen Taşkale und Kırobası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ho%C5%9Far%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31566698","tip":"genel"}]
 description: "Çorum'un en önemli doğal güzelliklerinden biri olan Hoşar Dağı, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Hoşar Dağı","Çorum","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Çorum Turistik Yerler","Doğa Sporları"]

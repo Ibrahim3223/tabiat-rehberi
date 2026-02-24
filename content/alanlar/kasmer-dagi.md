@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Kaşmer Dağı","caption":"Kaşmer Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg/960px-Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg","alt":"Kaşmer Dağı","caption":"Kaşmer Dağı","credit":"Beyşehir Gölü 18 04 1992 mit den Dedegöl Dağlar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C5%9Fmer%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516701","tip":"genel"}]
 description: "Şanlıurfa'nın görkemli dağlarından biri olan Kaşmer Dağı, doğal güzellikleri ve tarihi zenginlikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kaşmer Dağı","Şanlıurfa","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Güneydoğu Anadolu"]

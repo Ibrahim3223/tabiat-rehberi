@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin panoramik manzarasını seyretmek","Tarihi kalıntıları incelemek","Doğa yürüyüşü yapmak","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Deliali Tepe","caption":"Deliali Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Deliali Tepe","caption":"Deliali Tepe","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deliali%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391082","tip":"genel"}]
 description: "Şanlıurfa'nın gizli güzelliği Deliali Tepe, tarihi ve doğal zenginlikleriyle ziyaretçilerini bekliyor."
 keywords: ["Şanlıurfa","Deliali Tepe","tarihi alan","doğal güzellik","gezi","turizm","Güneydoğu Anadolu Bölgesi","tepe"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"İsmailbaba Dağı","caption":"İsmailbaba Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"İsmailbaba Dağı","caption":"İsmailbaba Dağı","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0smailbaba%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520108","tip":"genel"}]
 description: "Van'ın görkemli dağlarından biri olan İsmailbaba Dağı, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor"
 keywords: ["İsmailbaba Dağı","Van","Dağ","Doğa","Trekking","Kamp","Van Gezisi","Doğa Sporları","Turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","huzur bulma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Üçkaya Tepesi","caption":"Üçkaya Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Üçkaya Tepesi","caption":"Üçkaya Tepesi","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820532","tip":"genel"}]
 description: "Hatay'ın Akdeniz Bölgesi'nde bulunan Üçkaya Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Üçkaya Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","gezi","turizm"]

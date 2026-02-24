@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Bağlar Tepe","caption":"Bağlar Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Bağlar Tepe","caption":"Bağlar Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C4%9Flar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550849","tip":"genel"}]
 description: "Mardin'de bulunan Bağlar Tepe, 1200 metre yüksekliğiyle şehrin panoramik manzarasını sunar."
 keywords: ["Bağlar Tepe","Mardin","Dağ","Turizm","Gezi","Manzara","Doğa","Türkiye","Seyahat"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Yaban hayatı gözlemi","Tarih investigaciónu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Kaya Mezarı 6 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 6 (Tikenlice Mahallesi) Gürgentepe","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff/lossy-page1-900px-Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff.jpg","alt":"Kaya Mezarı 6 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 6 (Tikenlice Mahallesi) Gürgentepe","credit":"Sea of Marmara - Admiralty Chart No 2836 Mediterranean Archipelago, Published 1863, Corrections to 1918 (cropped)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%206%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728207","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin saklı cennetlerinden biri olan Kaya Mezarı 6, Gürgentepe'de doğanın güzelliğini keşfedin."
 keywords: ["Kaya Mezarı 6","Gürgentepe","Karadeniz Bölgesi","doğa","gezi","tarih","coğrafya"]

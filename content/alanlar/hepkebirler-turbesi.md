@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","plaj aktivitelerı","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Hepkebirler Türbesi","caption":"Hepkebirler Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg","alt":"Hepkebirler Türbesi","caption":"Hepkebirler Türbesi","credit":"2023-11-04 Choban beach near Kaş 2","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hepkebirler%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390534","tip":"genel"}]
 description: "Kastamonu ilinin merkezinde bulunan tarihi bir türbe ve plaj alanı"
 keywords: ["Kastamonu","tarih","türbe","plaj","Karadeniz","gezi","turizm"]

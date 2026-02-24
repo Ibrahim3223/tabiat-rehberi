@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abana Eski Hamam","caption":"Abana Eski Hamam","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Abana Eski Hamam","caption":"Abana Eski Hamam","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abana%20Eski%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739241","tip":"genel"}]
 description: "Kastamonu'nun Abana ilçesinde bulunan Abana Eski Hamam, Karadeniz'in en güzel plajlarından biri"
 keywords: ["Abana Eski Hamam","Kastamonu","Karadeniz Bölgesi","plaj","deniz","tatil","gezi","turizm","doğa"]

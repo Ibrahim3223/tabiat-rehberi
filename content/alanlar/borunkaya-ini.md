@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Borunkaya İni","caption":"Borunkaya İni","credit":"Goreme National Park, Turkey","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bulletin_of_the_Geological_Society_of_America_%281923%29_%2814595083859%29.jpg/960px-Bulletin_of_the_Geological_Society_of_America_%281923%29_%2814595083859%29.jpg","alt":"Borunkaya İni","caption":"Borunkaya İni","credit":"Bulletin of the Geological Society of America (1923) (14595083859)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Borunkaya%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319078","tip":"genel"}]
 description: "Mersin'de yer alan Borunkaya İni, 1200 hektarlık bir jeopark alanıdır. Doğal güzelliği ve tarihi önemiyle dikkat çeker."
 keywords: ["Borunkaya İni","Mersin","Jeopark","Doğal Alan","Tarih","Turizm","Mersin Gezilecek Yerler","Jeolojik Özellikler","Doğa"]

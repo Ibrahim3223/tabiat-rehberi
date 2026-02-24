@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kalınkaya Tepesi","caption":"Kalınkaya Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Kalınkaya Tepesi","caption":"Kalınkaya Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kal%C4%B1nkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582121","tip":"genel"}]
 description: "Çorum'un güzide mekanlarından biri olan Kalınkaya Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Kalınkaya Tepesi","Çorum","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kamp doing","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çıngırdaklı Tepe","caption":"Çıngırdaklı Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Çıngırdaklı Tepe","caption":"Çıngırdaklı Tepe","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1ng%C4%B1rdakl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829188","tip":"genel"}]
 description: "Yozgat'ta bulunan Çıngırdaklı Tepe, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Çıngırdaklı Tepe","Yozgat","İç Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

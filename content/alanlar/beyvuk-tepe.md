@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Beyvük Tepe","caption":"Beyvük Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Beyvük Tepe","caption":"Beyvük Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beyv%C3%BCk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34835300","tip":"genel"}]
 description: "Siirt'in görkemli dağlarından biri olan Beyvük Tepe, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Beyvük Tepe","Siirt","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Siirt Gezilecek Yerler"]

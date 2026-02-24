@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Kocagüney Dağı","caption":"Kocagüney Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Develi_Ovas%C4%B1_15_06_1988_mit_Erciyes_Da%C4%9F%C4%B1.jpg/960px-Develi_Ovas%C4%B1_15_06_1988_mit_Erciyes_Da%C4%9F%C4%B1.jpg","alt":"Kocagüney Dağı","caption":"Kocagüney Dağı","credit":"Develi Ovası 15 06 1988 mit Erciyes Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocag%C3%BCney%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042256","tip":"genel"}]
 description: "Eskişehir'de yer alan Kocagüney Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Kocagüney Dağı","Eskişehir","Dağ","Trekking","Doğa","Turizm","Gezi","Eskişehir Turistik Yerler","Dağcılık"]

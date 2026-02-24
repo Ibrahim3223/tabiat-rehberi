@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sis_da%C4%9F%C4%B1_%285%29.jpg/960px-Sis_da%C4%9F%C4%B1_%285%29.jpg","alt":"Giresun-Ordu Dogu Ladini 5","caption":"Giresun-Ordu Dogu Ladini 5","credit":"Sis dağı (5).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg","alt":"Giresun-Ordu Dogu Ladini 5","caption":"Giresun-Ordu Dogu Ladini 5","credit":"Değirmenburnu Tabiat Parkı Giriş","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Ordu%20Dogu%20Ladini%205","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227990","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Giresun-Ordu Dogu Ladini 5, přírodní güzellikleri ile ön plana çıkıyor."
 keywords: ["Giresun","Ordu","Doğu Ladini","Milli Park","Karadeniz Bölgesi","Doğa","Turizm"]

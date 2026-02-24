@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Ortabayır Tepesi","caption":"Ortabayır Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Ortabayır Tepesi","caption":"Ortabayır Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ortabay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557205","tip":"genel"}]
 description: "Ankara'nın yeşil alanlarından biri olan Ortabayır Tepesi, ziyaretçilerini doğanın güzelliğine davet ediyor."
 keywords: ["Ankara","Ortabayır Tepesi","doğa","gezi","yürüyüş","manzara","yeşil alan","çevre","ekoloji"]

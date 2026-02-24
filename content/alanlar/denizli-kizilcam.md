@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğaı","fotografçılık","çadır kurma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Denizli Kızılçam","caption":"Denizli Kızılçam","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg","alt":"Denizli Kızılçam","caption":"Denizli Kızılçam","credit":"Abant Gölü Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227865","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan doğal güzellik"
 keywords: ["Denizli Kızılçam","İç Anadolu Bölgesi","doğal güzellik","milli park","orman","flora","fauna","turizm","gezi"]

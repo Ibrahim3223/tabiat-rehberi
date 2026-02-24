@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","avcılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Zorlu Tepe","caption":"Zorlu Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/South_room_first_floor._View_looking_southwest._South_addition_visible_through_doorway._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_HABS_VA%2C42-CLOV.V%2C2A-13.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Zorlu Tepe","caption":"Zorlu Tepe","credit":"South room first floor. View looking southwest. South addition visible through doorway. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's HABS VA,42-CLOV.V,2A-13","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zorlu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386461","tip":"genel"}]
 description: "Hatay'da bulunan Zorlu Tepe, tarihi geçmişi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Zorlu Tepe","Hatay","Akdeniz Bölgesi","tarih","doğa","gezi","keşif","coğrafya","flora","fauna"]

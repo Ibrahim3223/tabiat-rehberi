@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Marinboğazı","caption":"Marinboğazı","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/%D0%94%D0%B5%D0%BC%D0%B8%D1%80%D0%BA%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D0%BA%D0%BB%D0%B8%D1%81%D1%83%D1%80%D0%B0_4.jpg/960px-%D0%94%D0%B5%D0%BC%D0%B8%D1%80%D0%BA%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D0%BA%D0%BB%D0%B8%D1%81%D1%83%D1%80%D0%B0_4.jpg","alt":"Marinboğazı","caption":"Marinboğazı","credit":"Демиркаписка клисура 4","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Marinbo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49343022","tip":"genel"}]
 description: "Mardin'de yer alan Marinboğazı, 1200 hektarlık bir alana yayılmış, Türkiye'nin en önemli kanyonlarından biri."
 keywords: ["Marinboğazı","Mardin","kanyon","doğa","turizm","gezi","Mardin gezilecek yerler","kanyonlar","Türkiye'nin en büyük kanyonları"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Bitki ve hayvan gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Balikesir-Ilica Kızılçam 1","caption":"Balikesir-Ilica Kızılçam 1","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg/960px-Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg","alt":"Balikesir-Ilica Kızılçam 1","caption":"Balikesir-Ilica Kızılçam 1","credit":"Peygamberler Tabiat Parkı Diyarbakır","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Ilica%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227854","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Balikesir-Ilica Kızılçam 1, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Balikesir-Ilica Kızılçam 1","İç Anadolu Bölgesi","milli park","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]

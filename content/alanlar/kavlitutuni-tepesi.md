@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","kamp","doğa gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kavlitütüni Tepesi","caption":"Kavlitütüni Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Kavlitütüni Tepesi","caption":"Kavlitütüni Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavlit%C3%BCt%C3%BCni%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878361","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en dikkat çekici doğal güzelliklerinden biri"
 keywords: ["Kavlitütüni Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

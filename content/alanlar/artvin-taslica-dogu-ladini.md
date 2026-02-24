@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kamp yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Artvin Taslica-Dogu Ladini","caption":"Artvin Taslica-Dogu Ladini","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Artvin Taslica-Dogu Ladini","caption":"Artvin Taslica-Dogu Ladini","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin%20Taslica-Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228051","tip":"genel"}]
 description: "Doğal güzellikleri keşfetmek için ideal bir yer olan Artvin Taslica-Dogu Ladini, ziyaretçilerini büyülemektedir."
 keywords: ["Artvin","Taslica-Dogu Ladini","doğal güzellik","milli park","iç Anadolu Bölgesi"]

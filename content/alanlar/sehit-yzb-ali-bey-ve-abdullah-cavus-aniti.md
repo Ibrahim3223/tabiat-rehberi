@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["anitiağı","doğa yürüyüşü","su kaynakları gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı","caption":"Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%283%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%283%29.jpg","alt":"Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı","caption":"Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehit%20Yzb%20Ali%20Bey%20ve%20Abdullah%20%C3%87avu%C5%9F%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728114","tip":"genel"}]
 description: "Eşme'nin tarihi ve doğal güzelliklerinin birleştiği nokta."
 keywords: ["Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı","Eşme","Uşak","Ege Bölgesi","tarih","doğa","anıt","plaj"]

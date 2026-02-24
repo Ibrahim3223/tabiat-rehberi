@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Gürcüoluk Mağarası","caption":"Gürcüoluk Mağarası","credit":"Aydıncık Cave.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gilindire_Cave_and_The_Lake_Inside_Under_The_Sea_Level.jpg/960px-Gilindire_Cave_and_The_Lake_Inside_Under_The_Sea_Level.jpg","alt":"Gürcüoluk Mağarası","caption":"Gürcüoluk Mağarası","credit":"Gilindire Cave and The Lake Inside Under The Sea Level","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BColuk%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Bartın'da yer alan Gürcüoluk Mağarası, 1200 hektarlık yeşil cennet içinde doğa severleri bekliyor."
 keywords: ["Gürcüoluk Mağarası","Bartın","Magara","Doğa","Turizm","Gezi","Mağara","Türkiye","Bartın Gezilecek Yerler"]

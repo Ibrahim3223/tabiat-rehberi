@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wild_horses1.jpg/960px-Wild_horses1.jpg","alt":"İtdağı","caption":"İtdağı","credit":"Wild horses1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"İtdağı","caption":"İtdağı","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0tda%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520073","tip":"genel"}]
 description: "Kayseri'nin en önemli dağlarından biri olan İtdağı, 1200 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["İtdağı","Kayseri","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Kayseri Gezilecek Yerler"]

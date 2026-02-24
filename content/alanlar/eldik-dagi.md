@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Eldik Dağı","caption":"Eldik Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/960px-Moraine_Lake_17092005.jpg","alt":"Eldik Dağı","caption":"Eldik Dağı","credit":"Moraine Lake 17092005","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eldik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31524734","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerini keşfedin, 1200 hektarlık yeşil cennet Eldik Dağı"
 keywords: ["Eldik Dağı","Denizli","Doğa","Dağ","Yeşil Alan","Turizm","Gezi","Doğal Güzellik","Denizli Turistik Yerler"]

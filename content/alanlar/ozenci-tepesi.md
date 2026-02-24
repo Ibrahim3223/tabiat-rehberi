@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Fotoğrafçılık","Manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Özenci Tepesi","caption":"Özenci Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Özenci Tepesi","caption":"Özenci Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96zenci%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829833","tip":"genel"}]
 description: "Burdur'un doğal güzelliklerini keşfedin, Özenci Tepesi'nin büyülü atmosferini hissetin."
 keywords: ["Özenci Tepesi","Burdur","Akdeniz Bölgesi","doğa","gezi","tepe","manzara"]

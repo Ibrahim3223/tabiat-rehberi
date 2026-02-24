@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Kaya tırmanışı","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"DENİZLİ GAVUR DELİĞİ KANYONU","caption":"DENİZLİ GAVUR DELİĞİ KANYONU","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"DENİZLİ GAVUR DELİĞİ KANYONU","caption":"DENİZLİ GAVUR DELİĞİ KANYONU","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DEN%C4%B0ZL%C4%B0%20GAVUR%20DEL%C4%B0%C4%9E%C4%B0%20KANYONU","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228900","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin buluştuğu nokta"
 keywords: ["Denizli Gavur Deliği Kanyonu","İç Anadolu Bölgesi","doğa","kanyon","gezi","turizm","milli park","çevre","ekosistem"]

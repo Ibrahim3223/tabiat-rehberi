@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tümülüsleri gezmek","Doğa yürüyüşü","Fotoğraf çekmek","Tarihi araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Bin Tepeler Tümülüsü 54","caption":"Bin Tepeler Tümülüsü 54","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg/960px-Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg","alt":"Bin Tepeler Tümülüsü 54","caption":"Bin Tepeler Tümülüsü 54","credit":"Karadouran village, Syria-Turkey boarderline, Kessab","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2054","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728325","tip":"genel"}]
 description: "Salihli/Manisa'da bulunan Bin Tepeler Tümülüsü 54, Ege Bölgesi'nin tarihi ve doğal güzelliklerini barındıran bir alan."
 keywords: ["Bin Tepeler","Tümülüs","Salihli","Manisa","Ege Bölgesi","Tarih","Doğa","Arkeoloji"]

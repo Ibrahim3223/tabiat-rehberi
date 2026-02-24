@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî türbe gezisi","Plaj aktiviteleri","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Hürrem Paşa Türbesi","caption":"Hürrem Paşa Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg/960px-Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg","alt":"Hürrem Paşa Türbesi","caption":"Hürrem Paşa Türbesi","credit":"Marmaris ve Lodos (Aralik 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCrrem%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391260","tip":"genel"}]
 description: "Karatay, Konya'da bulunan tarihi türbe ve plaj alanı"
 keywords: ["Karatay","Konya","Hürrem Paşa","Türbe","Plaj","İç Anadolu Bölgesi","Tarih","Doğa","Gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih keşfi","doğa yürüyüşü","plaj dinlencesi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Şeyh Abdurrahman Erzincani Türbesi","caption":"Şeyh Abdurrahman Erzincani Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fethiye_2.JPG/960px-Fethiye_2.JPG","alt":"Şeyh Abdurrahman Erzincani Türbesi","caption":"Şeyh Abdurrahman Erzincani Türbesi","credit":"Fethiye 2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Abdurrahman%20Erzincani%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391710","tip":"genel"}]
 description: "Adıyaman ilinin merkezinde bulunan tarihi bir türbe ve plaj"
 keywords: ["Adıyaman","tarih","türbe","plaj","Şeyh Abdurrahman Erzincani","Güneydoğu Anadolu Bölgesi","kültür","doğa"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "En az birkaç saat"
 aktiviteler: ["Tarih kalıntılarını gezmek","Doğa yürüyüşleri","Fotoğrafçılık","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Miletopolis Kalıntıları","caption":"Miletopolis Kalıntıları","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff/lossy-page1-900px-A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff.jpg","alt":"Miletopolis Kalıntıları","caption":"Miletopolis Kalıntıları","credit":"A Ship Wrecked in a Storm off a Rocky Coast RMG BHC0883","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Miletopolis%20Kal%C4%B1nt%C4%B1lar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738879","tip":"genel"}]
 description: "Marmara Bölgesi'nin tarihi hazinesi, Mustafakemalpaşa'da keşfedilmeyi bekliyor."
 keywords: ["Miletopolis","Mustafakemalpaşa","Bursa","Marmara Bölgesi","tarih","arkeoloji","doğa","gezi","turizm"]

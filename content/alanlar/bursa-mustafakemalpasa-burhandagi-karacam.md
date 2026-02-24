@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Uluda%C4%9F_National_Park_888.jpg/960px-Uluda%C4%9F_National_Park_888.jpg","alt":"Bursa-Mustafakemalpaşa-Burhandagi Karacam","caption":"Bursa-Mustafakemalpaşa-Burhandagi Karacam","credit":"Uludağ National Park 888.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Bursa-Mustafakemalpaşa-Burhandagi Karacam","caption":"Bursa-Mustafakemalpaşa-Burhandagi Karacam","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Burhandagi%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227493","tip":"genel"}]
 description: "Bursa'nın doğal güzellikleri arasında yer alan milli park"
 keywords: ["Bursa","milli park","Marmara Bölgesi","doğa","turizm","gezi","yerel","çevre","ekoloji"]

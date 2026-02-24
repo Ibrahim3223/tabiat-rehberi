@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Yeşil alanlarda yürüyüş","Piknik","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Baba Cafer Türbesi","caption":"Baba Cafer Türbesi","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Adatepe_manzara.JPG/960px-Adatepe_manzara.JPG","alt":"Baba Cafer Türbesi","caption":"Baba Cafer Türbesi","credit":"Adatepe manzara","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Baba%20Cafer%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391038","tip":"genel"}]
 description: "Fatih, İstanbul'da yer alan tarihi türbe ve çevresinin güzelliği"
 keywords: ["Baba Cafer","Türbe","Fatih","İstanbul","Marmara Bölgesi","Tarih","Doğal Alanlar","Kültür"]

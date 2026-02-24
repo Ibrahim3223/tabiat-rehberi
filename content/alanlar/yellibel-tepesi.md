@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Yellibel Tepesi","caption":"Yellibel Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Yellibel Tepesi","caption":"Yellibel Tepesi","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yellibel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31534983","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Yellibel Tepesi, Gaziantep'in eşsiz manzaralarına ev sahipliği yapıyor."
 keywords: ["Yellibel Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","manzara","gezi","turizm","çevre","ekoloji"]

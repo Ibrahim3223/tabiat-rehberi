@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Şehrin tarihi mekanlarını ziyaret","Doğa yürüyüşü","Fotograf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Mahmut Şevket Paşa Türbesi","caption":"Mahmut Şevket Paşa Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg","alt":"Mahmut Şevket Paşa Türbesi","caption":"Mahmut Şevket Paşa Türbesi","credit":"Marmaris @ Lodos Storm (December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahmut%20%C5%9Eevket%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391083","tip":"genel"}]
 description: "Şişli'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan"
 keywords: ["Mahmut Şevket Paşa","Şişli","İstanbul","Marmara Bölgesi","Türbe","Tarih","Doğa","Gezi","Turizm"]

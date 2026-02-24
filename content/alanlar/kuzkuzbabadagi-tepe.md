@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Kuzkuzbabadağı Tepe","caption":"Kuzkuzbabadağı Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PeakUludag.jpg/960px-PeakUludag.jpg","alt":"Kuzkuzbabadağı Tepe","caption":"Kuzkuzbabadağı Tepe","credit":"PeakUludag","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzkuzbabada%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511430","tip":"genel"}]
 description: "Iğdır'da bulunan Kuzkuzbabadağı Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Kuzkuzbabadağı Tepe","Iğdır","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Coğrafya"]

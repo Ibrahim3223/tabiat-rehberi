@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Elaz%C4%B1g_K%C3%B6y.jpg/960px-Elaz%C4%B1g_K%C3%B6y.jpg","alt":"Küp Dağı (Elazığ)","caption":"Küp Dağı (Elazığ)","credit":"Elazıg Köy.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Erenler_Da%C4%9F%C4%B1_09_09_1991_bei_K%C4%B1z%C4%B1l%C3%B6ren.jpg/960px-Erenler_Da%C4%9F%C4%B1_09_09_1991_bei_K%C4%B1z%C4%B1l%C3%B6ren.jpg","alt":"Küp Dağı (Elazığ)","caption":"Küp Dağı (Elazığ)","credit":"Erenler Dağı 09 09 1991 bei Kızılören","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCp%20Da%C4%9F%C4%B1%20(Elaz%C4%B1%C4%9F)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042814","tip":"genel"}]
 description: "Elazığ'da yer alan Küp Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Küp Dağı","Elazığ","Dağ","Doğa","Trekking","Turizm","Gezi","Elazığ Turistik Yerler","Doğal Alanlar"]

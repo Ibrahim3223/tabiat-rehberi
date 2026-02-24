@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Oyunlar","Güneş banyosu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Tarihi Çarşı Hamamı","caption":"Tarihi Çarşı Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg/960px-ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg","alt":"Tarihi Çarşı Hamamı","caption":"Tarihi Çarşı Hamamı","credit":"ISS-57 Aegean Sea with Turkish and Greek Coasts","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarihi%20%C3%87ar%C5%9F%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738467","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Tarihi Çarşı Hamamı","Battalgazi","Malatya","Doğu Anadolu Bölgesi","Plaj","Doğal güzellik","Tarih","Kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Chesalydag Dağı","caption":"Chesalydag Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/960px-Moraine_Lake_17092005.jpg","alt":"Chesalydag Dağı","caption":"Chesalydag Dağı","credit":"Moraine Lake 17092005","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Chesalydag%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539506","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin, Chesalydag Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Chesalydag Dağı","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezilecek Yerler","Dağ Manzaraları","Turizm","Doğa","Macera"]

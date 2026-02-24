@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Laodikeia Batı Hamamı","caption":"Laodikeia Batı Hamamı","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2023-11-19_Ufakdere_Port_Beach_3.jpg/960px-2023-11-19_Ufakdere_Port_Beach_3.jpg","alt":"Laodikeia Batı Hamamı","caption":"Laodikeia Batı Hamamı","credit":"2023-11-19 Ufakdere Port Beach 3","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Laodikeia%20Bat%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739042","tip":"genel"}]
 description: "Laodikeia Batı Hamamı, Pamukkale'nin tarihi ve doğal güzelliklerini bir arada sunan bir destinasyon. Laodikeia antik kentinde yer alan Batı Hamamı, tarihi geçmişinin yanı sıra eşsiz mimarisi ile dikkat çekiyor."
 keywords: ["Laodikeia","Batı Hamamı","Pamukkale","Denizli","Ege Bölgesi","tarihi yerler","antik kent","hamam"]

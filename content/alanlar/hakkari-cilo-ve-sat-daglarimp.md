@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","fotoğrafçılık","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"HAKKARİ CİLO VE SAT DAĞLARI_MP","caption":"HAKKARİ CİLO VE SAT DAĞLARI_MP","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"HAKKARİ CİLO VE SAT DAĞLARI_MP","caption":"HAKKARİ CİLO VE SAT DAĞLARI_MP","credit":"MOKFC09","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HAKKAR%C4%B0%20C%C4%B0LO%20VE%20SAT%20DA%C4%9ELARI_MP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229018","tip":"genel"}]
 description: "Hakkâri'nin doğal güzelliklerini keşfedin, Cilo ve Sat Dağları Milli Parkı'nı gezin."
 keywords: ["Hakkâri","Cilo ve Sat Dağları","Milli Park","doğa","gezi","turizm","coğrafya","flora","fauna"]

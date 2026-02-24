@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Karasinir Dağı","caption":"Karasinir Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TRABZON_YAYLASI_VE_%C4%B0BADET.jpg/960px-TRABZON_YAYLASI_VE_%C4%B0BADET.jpg","alt":"Karasinir Dağı","caption":"Karasinir Dağı","credit":"TRABZON YAYLASI VE İBADET","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karasinir%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517840","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, Karasinir Dağı'nda doğa yürüyüşü ve panorama manzaraları"
 keywords: ["Karasinir Dağı","Ankara","Dağ","Doğa Yürüyüşü","Panorama Manzaraları","Turizm","Gezi Rehberi","Ankara Turistik Yerler","Dağcılık"]

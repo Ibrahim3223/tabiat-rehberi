@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Hoca Dur Türbesi","caption":"Hoca Dur Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Altincamp_20140729_Sunset.jpg/960px-Altincamp_20140729_Sunset.jpg","alt":"Hoca Dur Türbesi","caption":"Hoca Dur Türbesi","credit":"Altincamp 20140729 Sunset","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hoca%20Dur%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390876","tip":"genel"}]
 description: "Kilis'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Hoca Dur Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Kilis","tarih","doğa","türbe","gezi","tarihçe","coğrafya","flora","fauna"]

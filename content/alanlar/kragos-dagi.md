@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Kragos Dağı","caption":"Kragos Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Kragos Dağı","caption":"Kragos Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kragos%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6920276","tip":"genel"}]
 description: "Türkiye'de bulunan Kragos Dağı, doğa severlerin ziyaret ettiği önemli bir dağdır. 1200 hektarlık yeşil alanı ile dikkat çeker."
 keywords: ["Kragos Dağı","Türkiye dağları","doğa turizmi","dağcılık","Türkiye'nin önemli dağları","Kragos Dağı hakkında","Kragos Dağı nerede","doğa gezileri","Türkiye'de doğa"]

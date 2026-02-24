@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","macera sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Varisuleyman Tepesi","caption":"Varisuleyman Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Varisuleyman Tepesi","caption":"Varisuleyman Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Varisuleyman%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554150","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli cevheri, Batman'da bulunan Varisuleyman Tepesi"
 keywords: ["Varisuleyman Tepesi","Batman","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","doğa","gezi","tarihçe"]

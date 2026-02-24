@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Erbat Dağı","caption":"Erbat Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Erbat Dağı","caption":"Erbat Dağı","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erbat%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31524354","tip":"genel"}]
 description: "Diyarbakır'da bulunan Erbat Dağı, 1200 hektarlık yeşil alanı ile şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Erbat Dağı","Diyarbakır","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Diyarbakır Turistik Yerler"]

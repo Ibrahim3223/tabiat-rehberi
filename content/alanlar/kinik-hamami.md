@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yüzmek","Güneşlenmek","Doğa yürüyüşü","Kültürel gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg","alt":"Kınık Hamamı","caption":"Kınık Hamamı","credit":"Süzer Sun Dreams Beach 8 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg","alt":"Kınık Hamamı","caption":"Kınık Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 11","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1n%C4%B1k%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739027","tip":"genel"}]
 description: "Kınık Hamamı, İzmir'in Kınık ilçesinde yer alan doğal bir plaj ve hamam kompleksi"
 keywords: ["Kınık Hamamı","İzmir","Kınık","Ege Bölgesi","Plaj","Hamam","Doğa","Turizm"]

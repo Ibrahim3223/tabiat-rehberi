@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kayak","fotoğrafçılık"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karyağan Tepesi","caption":"Karyağan Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Karyağan Tepesi","caption":"Karyağan Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karya%C4%9Fan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388954","tip":"genel"}]
 description: "Erzurum'un doğa harikası Karyağan Tepesi, ziyaretçilerini bekliyor. Doğu Anadolu Bölgesi'nde yer alan bu tepe, doğa severler için bir cennet."
 keywords: ["Karyağan Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","yerel","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Karın Dağı","caption":"Karın Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Karın Dağı","caption":"Karın Dağı","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kar%C4%B1n%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517114","tip":"genel"}]
 description: "Antalya'da yer alan Karın Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Karın Dağı","Antalya","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

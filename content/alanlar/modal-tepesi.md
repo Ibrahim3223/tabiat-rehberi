@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki türleri incelemesi","hayvan izleme","coğrafi keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Modal Tepesi","caption":"Modal Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Modal Tepesi","caption":"Modal Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Modal%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549522","tip":"genel"}]
 description: "Siirt'in doğal güzelliklerini keşfedin. Modal Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe."
 keywords: ["Modal Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğa","tepe","coğrafya","flora","fauna"]

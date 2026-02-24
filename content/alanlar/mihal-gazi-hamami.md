@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Mihal Gazi Hamamı","caption":"Mihal Gazi Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg","alt":"Mihal Gazi Hamamı","caption":"Mihal Gazi Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 18","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mihal%20Gazi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738788","tip":"genel"}]
 description: "Gölpazarı'nın gizli cenneti, Mihal Gazi Hamamı'nda doğa ve tarih bir araya geliyor."
 keywords: ["Mihal Gazi Hamamı","Gölpazarı","Bilecik","Marmara Bölgesi","doğa","tarih","turizm"]

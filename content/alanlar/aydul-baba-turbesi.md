@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Aydul Baba Türbesi","caption":"Aydul Baba Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gulf_of_Kastellorizon.jpg/960px-Gulf_of_Kastellorizon.jpg","alt":"Aydul Baba Türbesi","caption":"Aydul Baba Türbesi","credit":"Gulf of Kastellorizon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aydul%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390674","tip":"genel"}]
 description: "Ankara'nın Haymana ilçesinde yer alan Aydul Baba Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Aydul Baba Türbesi","Haymana","Ankara","tarih","doğa","türbe","gezi","turizm"]

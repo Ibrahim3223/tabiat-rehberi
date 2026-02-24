@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Tarihî eserleri gezmek","Doğa yürüyüşü","Fotoğraf çekmek","Ören yeri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Priene Roma Hamam Kompleksi","caption":"Priene Roma Hamam Kompleksi","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Altinkum_Beaches_50_%28October2009%29_-_panoramio.jpg/960px-Altinkum_Beaches_50_%28October2009%29_-_panoramio.jpg","alt":"Priene Roma Hamam Kompleksi","caption":"Priene Roma Hamam Kompleksi","credit":"Altinkum Beaches 50 (October2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Priene%20Roma%20Hamam%20Kompleksi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739226","tip":"genel"}]
 description: "Ege Bölgesi'nde tarihi ve doğal güzelliklerin buluştuğu bir destinasyon"
 keywords: ["Priene","Roma Hamam Kompleksi","Ege Bölgesi","tarih","doğa","gezi","Aydın","Söke","antik kent"]

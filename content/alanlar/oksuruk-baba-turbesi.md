@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları gezmek","doğa yürüyüşü","fotoğraf çekmek","dinlenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Öksürük Baba Türbesi","caption":"Öksürük Baba Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ba%C4%9Flar_Burnu.jpg/960px-Ba%C4%9Flar_Burnu.jpg","alt":"Öksürük Baba Türbesi","caption":"Öksürük Baba Türbesi","credit":"Bağlar Burnu","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96ks%C3%BCr%C3%BCk%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391718","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Öksürük Baba Türbesi","Erzurum","Yakutiye","Doğu Anadolu Bölgesi","tarihi mekanlar","kültürel zenginlikler","gezi rehberi","türbe","plaj"]

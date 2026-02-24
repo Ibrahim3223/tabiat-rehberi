@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg","alt":"Kaledoruk Tepesi","caption":"Kaledoruk Tepesi","credit":"The Landscape of Sıklık Gates.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Kaledoruk Tepesi","caption":"Kaledoruk Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaledoruk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581113","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin, Kaledoruk Tepesi'ni ziyaret edin"
 keywords: ["Kaledoruk Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

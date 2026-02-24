@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Kamilet Doğu Kayını","caption":"Kamilet Doğu Kayını","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Kamilet Doğu Kayını","caption":"Kamilet Doğu Kayını","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kamilet%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227375","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Kamilet Doğu Kayını, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alanı sunuyor."
 keywords: ["Kamilet Doğu Kayını","İç Anadolu Bölgesi","Doğal Alanlar","Yeşil Alanlar","Milli Parklar","Doğa","Çevre","Ekosistem","Turizm"]

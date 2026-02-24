@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Ata_oca%C4%9F%C4%B1_k%C3%BClt%C3%BCr_ve_sanat_evi.jpg","alt":"Söğüt Dağı manzarası","credit":"Atabey seyhan","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yukar%C4%B1_bunarlar_mevkiinden_do%C4%9Fu_y%C3%B6n%C3%BC%2C_yukar%C4%B1_ko%C3%A7a%C5%9F_k%C3%B6y%C3%BC_mevkii_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg/960px-Yukar%C4%B1_bunarlar_mevkiinden_do%C4%9Fu_y%C3%B6n%C3%BC%2C_yukar%C4%B1_ko%C3%A7a%C5%9F_k%C3%B6y%C3%BC_mevkii_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Söğüt Dağı","caption":"Söğüt Dağı","credit":"Yukarı bunarlar mevkiinden doğu yönü, yukarı koçaş köyü mevkii ve eşşek dağı - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/29/Nuhun_izinde_gezi_parkuru.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Nuhun_izinde_gezi_parkuru.jpg/1280px-Nuhun_izinde_gezi_parkuru.jpg","alt":"Söğüt Dağı - Nuhun izinde gezi parkuru","credit":"Atabey seyhan","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%B6%C4%9F%C3%BCt%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811074","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Söğüt Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alanı ile İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."

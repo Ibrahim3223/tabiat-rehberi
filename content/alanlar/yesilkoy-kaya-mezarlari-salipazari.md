@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kaya mezarları gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Yeşilköy Kaya Mezarları Salıpazarı","caption":"Yeşilköy Kaya Mezarları Salıpazarı","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Yeşilköy Kaya Mezarları Salıpazarı","caption":"Yeşilköy Kaya Mezarları Salıpazarı","credit":"Mediterranean.^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Filk%C3%B6y%20Kaya%20Mezarlar%C4%B1%20Sal%C4%B1pazar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728199","tip":"genel"}]
 description: "Samsun'un Salıpazarı ilçesinde bulunan Yeşilköy Kaya Mezarları, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Yeşilköy Kaya Mezarları","Salıpazarı","Samsun","Karadeniz Bölgesi","tarihi mekanlar","doğa turizmi"]

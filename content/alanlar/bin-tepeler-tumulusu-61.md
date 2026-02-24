@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Bin Tepeler Tümülüsü 61","caption":"Bin Tepeler Tümülüsü 61","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%283%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%283%29.jpg","alt":"Bin Tepeler Tümülüsü 61","caption":"Bin Tepeler Tümülüsü 61","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2061","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728303","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli hazinesi, Ahmetli'de bulunan Bin Tepeler Tümülüsü 61. Tarihi ve doğal güzellikleri keşfedin!"
 keywords: ["Bin Tepeler","Tümülüs","Ahmetli","Manisa","Ege Bölgesi","tarih","doğa","gezi","keşif"]

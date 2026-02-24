@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Dalek Tepe","caption":"Dalek Tepe","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/960px-Adams_The_Tetons_and_the_Snake_River.jpg","alt":"Dalek Tepe","caption":"Dalek Tepe","credit":"Adams The Tetons and the Snake River","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dalek%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573047","tip":"genel"}]
 description: "Diyarbakır'da bulunan Dalek Tepe, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon"
 keywords: ["Dalek Tepe","Diyarbakır","Dağ","Doğa","Turizm","Gezi","Seyahat","Diyarbakır gezilecek yerler","Dalek Tepe hakkında"]

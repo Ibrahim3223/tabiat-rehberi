@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotografcılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Lis Dağı","caption":"Lis Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg/960px-Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg","alt":"Lis Dağı","caption":"Lis Dağı","credit":"Jebel Aqra (Kel Dağı, Mount Casius), 2008","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lis%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511325","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Lis Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Lis Dağı","Türkiye Dağları","Doğa Turizmi","Yeşil Alanlar","İstanbul","Dağ Trekking","Doğa Yürüyüşü","Turizm","Gezi Rehberi"]

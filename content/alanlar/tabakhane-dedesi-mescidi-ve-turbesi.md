@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mescit ve türbe ziyaretleri","doğa yürüyüşleri","fotoğraf çekimi"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Tabakhane Dedesi Mescidi ve Türbesi","caption":"Tabakhane Dedesi Mescidi ve Türbesi","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg","alt":"Tabakhane Dedesi Mescidi ve Türbesi","caption":"Tabakhane Dedesi Mescidi ve Türbesi","credit":"Sunset at Aegean Sea, İzmir 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tabakhane%20Dedesi%20Mescidi%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135581942","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden biri olan Aydın'ın Karacasu ilçesinde yer alan Tabakhane Dedesi Mescidi ve Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir destinasyon."
 keywords: ["Tabakhane Dedesi Mescidi ve Türbesi","Karacasu","Aydın","Ege Bölgesi","tarih","doğa","mescit","türbe"]

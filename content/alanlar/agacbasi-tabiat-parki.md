@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sis_da%C4%9F%C4%B1_%282%29.jpg/960px-Sis_da%C4%9F%C4%B1_%282%29.jpg","alt":"Ağaçbaşı Tabiat Parkı","caption":"Ağaçbaşı Tabiat Parkı","credit":"Sis dağı (2).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg/960px-Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg","alt":"Ağaçbaşı Tabiat Parkı","caption":"Ağaçbaşı Tabiat Parkı","credit":"Balıkesir Değirmenboğazı tabiat parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Fa%C3%A7ba%C5%9F%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228131","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerini keşfedin, 140 hektarlık yeşil alanın keyfini çıkarın"
 keywords: ["Ağaçbaşı Tabiat Parkı","Giresun","Karadeniz Bölgesi","doğal güzellikler","yeşil alan","tabiat parkı"]

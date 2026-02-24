@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Trabzon Vakfikebir-Dogu Ladini","caption":"Trabzon Vakfikebir-Dogu Ladini","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"Trabzon Vakfikebir-Dogu Ladini","caption":"Trabzon Vakfikebir-Dogu Ladini","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon%20Vakfikebir-Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228065","tip":"genel"}]
 description: "Trabzon'un Vakfikebir ilçesinde yer alan milli park, 140 hektarlık alanı ile dikkat çekiyor."
 keywords: ["Trabzon","Vakfikebir","Milli Park","Doğu Ladini","Doğa","Turizm"]

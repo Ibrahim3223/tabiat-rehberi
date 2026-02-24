@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Gültekke Tepesi","caption":"Gültekke Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Gültekke Tepesi","caption":"Gültekke Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCltekke%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139156","tip":"genel"}]
 description: "Kocaeli'nin doğal güzelliklerini keşfedin, Marmara Bölgesi'nin güzel köşesi"
 keywords: ["Kocaeli","Marmara Bölgesi","Gültekke Tepesi","doğa","gezi","tepe","manzara"]

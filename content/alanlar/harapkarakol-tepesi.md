@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarihî alan gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Harapkarakol Tepesi","caption":"Harapkarakol Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Harapkarakol Tepesi","caption":"Harapkarakol Tepesi","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harapkarakol%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386645","tip":"genel"}]
 description: "Şanlıurfa'nın gizli güzelliği, tarihi ve coğrafi özellikleri ile ziyaretçilerini bekleyen bir doğa harikası."
 keywords: ["Harapkarakol Tepesi","Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa","tarih","coğrafya","gezi","ziyaret","turizm"]

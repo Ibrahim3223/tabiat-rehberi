@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografçılık","yerel kültürü keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Mazlumoğlu Hamamı","caption":"Mazlumoğlu Hamamı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aegean_Sea_%28MODIS_2017-07-04%29.jpg/960px-Aegean_Sea_%28MODIS_2017-07-04%29.jpg","alt":"Mazlumoğlu Hamamı","caption":"Mazlumoğlu Hamamı","credit":"Aegean Sea (MODIS 2017-07-04)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mazlumo%C4%9Flu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738418","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Kars'ın tarihi ve doğal güzelliklerini keşfedin."
 keywords: ["Kars","Mazlumoğlu Hamamı","Doğu Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","gezi rehberi","Kars'ta gezilecek yerler","tarih","coğrafya"]

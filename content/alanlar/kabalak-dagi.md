@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Kabalak Dağı","caption":"Kabalak Dağı","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg/960px-.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg","alt":"Kabalak Dağı","caption":"Kabalak Dağı","credit":".00 1627 Tuffsteinlandschaft von Göreme (Türkei)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabalak%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31519965","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, Kabalak Dağı'nda doğa yürüyüşü ve panorama manzaraları"
 keywords: ["Kabalak Dağı","Muğla","Dağ","Doğa Yürüyüşü","Panorama Manzaraları","Turizm","Gezi","Muğla Turistik Yerler","Doğa Sporları"]

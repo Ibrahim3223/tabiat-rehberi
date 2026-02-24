@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Marzalli Koru Yaylasi Sit Alanı","caption":"Marzalli Koru Yaylasi Sit Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg","alt":"Marzalli Koru Yaylasi Sit Alanı","caption":"Marzalli Koru Yaylasi Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547427074)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Marzalli%20Koru%20Yaylasi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226493","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
 keywords: ["Marzalli Koru Yaylasi","İç Anadolu Bölgesi","Sit Alanı","Doğa","Yeşil Alan","Koru","Yayla"]

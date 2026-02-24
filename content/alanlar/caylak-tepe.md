@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Çaylak Tepe","caption":"Çaylak Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Conquering_the_Mountain_Nemrut.jpg/960px-Conquering_the_Mountain_Nemrut.jpg","alt":"Çaylak Tepe","caption":"Çaylak Tepe","credit":"Conquering the Mountain Nemrut","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aylak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824475","tip":"genel"}]
 description: "Mardin'de bulunan Çaylak Tepe, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Çaylak Tepe","Mardin","Dağ","Doğa","Turizm","Gezi","Mardin Gezilecek Yerler","Çaylak Tepe Mardin","Doğal Alanlar"]

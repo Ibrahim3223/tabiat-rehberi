@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Aknine Tepe","caption":"Aknine Tepe","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TRABZON_YAYLASI_VE_%C4%B0BADET.jpg/960px-TRABZON_YAYLASI_VE_%C4%B0BADET.jpg","alt":"Aknine Tepe","caption":"Aknine Tepe","credit":"TRABZON YAYLASI VE İBADET","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aknine%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571870","tip":"genel"}]
 description: "Bayburt'un en yüksek noktalarından biri olan Aknine Tepe, 1200 hektarlık yeşil alanıyla doğa severlerin gözdesi"
 keywords: ["Aknine Tepe","Bayburt","Dağ","Doğa","Yeşil Alan","Trekking","Doğa Yürüyüşü","Bayburt Turizm","Dağcılık"]

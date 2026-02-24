@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Sarıkaya Tepesi","caption":"Sarıkaya Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Sarıkaya Tepesi","caption":"Sarıkaya Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386570","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Sarıkaya Tepesi, Siirt'in gizli güzelliklerinden biri."
 keywords: ["Sarıkaya Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tepe","doğal alan","coğrafya","flora","fauna"]

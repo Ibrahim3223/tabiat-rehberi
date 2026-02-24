@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "en az birkaç saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan izleme","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kutahya-Domanic-D.Carsamba Karacam","caption":"Kutahya-Domanic-D.Carsamba Karacam","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Kutahya-Domanic-D.Carsamba Karacam","caption":"Kutahya-Domanic-D.Carsamba Karacam","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Domanic-D.Carsamba%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227525","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan milli park"
 keywords: ["Kutahya","Domanic","D.Carsamba Karacam","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Çıplak Dağ","caption":"Çıplak Dağ","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Çıplak Dağ","caption":"Çıplak Dağ","credit":"Gelincik Dagi Manzara","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1plak%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819197","tip":"genel"}]
 description: "Diyarbakır'da yer alan Çıplak Dağ, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzelliği ve tarihi önemiyle ziyaretçilerini bekliyor."
 keywords: ["Çıplak Dağ","Diyarbakır","doğa","dağ","turizm","gezi","yeşil alan","tarih","güzellik"]

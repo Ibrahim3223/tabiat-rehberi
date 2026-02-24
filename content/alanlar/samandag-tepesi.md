@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Samandağ Tepesi","caption":"Samandağ Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Samandağ Tepesi","caption":"Samandağ Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samanda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538829","tip":"genel"}]
 description: "Hatay'da yer alan Samandağ Tepesi, Akdeniz Bölgesi'nin önemli coğrafi noktaları arasında yer alır."
 keywords: ["Samandağ Tepesi","Hatay","Akdeniz Bölgesi","coğrafi nokta","tepe","doğa","gezi"]

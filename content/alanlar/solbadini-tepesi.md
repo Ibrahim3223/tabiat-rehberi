@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["şehir turu","doğa yürüyüşü","tarih gezisi","manzara seyri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Solbadıni Tepesi","caption":"Solbadıni Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Solbadıni Tepesi","caption":"Solbadıni Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Solbad%C4%B1ni%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550601","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin buluşma noktası, Solbadıni Tepesi"
 keywords: ["Mardin","Solbadıni Tepesi","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","tepe","manzara"]

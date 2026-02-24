@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotografcılık","tarih gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Avram Kamondo Anıt Mezarı","caption":"Avram Kamondo Anıt Mezarı","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg","alt":"Avram Kamondo Anıt Mezarı","caption":"Avram Kamondo Anıt Mezarı","credit":"2023-11-04 Choban beach near Kaş 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avram%20Kamondo%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728160","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel zenginliklerini barındıran Avram Kamondo Anıt Mezarı, ziyaretçilerini bekliyor."
 keywords: ["Avram Kamondo","Anıt Mezar","İstanbul","Beyoğlu","Marmara Bölgesi","tarih","kültür","gezi"]

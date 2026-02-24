@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Yumruk Tepe","caption":"Yumruk Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Yumruk Tepe","caption":"Yumruk Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumruk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573318","tip":"genel"}]
 description: "Bingöl'de yer alan Yumruk Tepe, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor"
 keywords: ["Yumruk Tepe","Bingöl","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Bingöl Gezilecek Yerler"]

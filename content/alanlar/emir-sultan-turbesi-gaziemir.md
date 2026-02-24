@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Çevre gezisi","Fotoğraf çekimi","Tarihi eserleri görme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Emir Sultan Türbesi, Gaziemir","caption":"Emir Sultan Türbesi, Gaziemir","credit":"Beach view - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Emir Sultan Türbesi, Gaziemir","caption":"Emir Sultan Türbesi, Gaziemir","credit":"Altinkum in the evening","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20Sultan%20T%C3%BCrbesi%2C%20Gaziemir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582181","tip":"genel"}]
 description: "İzmir'in Gaziemir ilçesinde bulunan Emir Sultan Türbesi, tarihi ve kültürel öneme sahip bir destinasyon."
 keywords: ["Emir Sultan Türbesi","Gaziemir","İzmir","tarih","kültür","gezi","türk kültürü","türbe","dini yerler","İzmir gezilecek yerler"]

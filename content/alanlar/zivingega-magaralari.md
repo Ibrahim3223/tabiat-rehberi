@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Zivingega Mağaraları","caption":"Zivingega Mağaraları","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Earth_poster.svg/960px-Earth_poster.svg.png","alt":"Zivingega Mağaraları","caption":"Zivingega Mağaraları","credit":"Earth poster","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zivingega%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319892","tip":"genel"}]
 description: "Şırnak'ta yer alan Zivingega Mağaraları, jeopark özellikleri ile dikkat çekiyor. Doğal güzellikleri keşfedin."
 keywords: ["Zivingega Mağaraları","Şırnak","Jeopark","Doğal Alanlar","Mağara Gezileri","Turistik Yerler","Şırnak Turizm","Jeolojik Özellikler","Doğa Harikaları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Kuş gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Yapalı Türbesi","caption":"Yapalı Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Yapalı Türbesi","caption":"Yapalı Türbesi","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yapal%C4%B1%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582356","tip":"genel"}]
 description: "Konya'nın Cihanbeyli ilçesinde bulunan Yapalı Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Yapalı Türbesi","Cihanbeyli","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür"]

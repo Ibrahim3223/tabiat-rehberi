@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Piknik","Doğal güzelliği gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"İlisıra Hamamı","caption":"İlisıra Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg","alt":"İlisıra Hamamı","caption":"İlisıra Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0lis%C4%B1ra%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245692","tip":"genel"}]
 description: "Karaman'ın doğal güzellikleri arasında yer alan İlisıra Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["İlisıra Hamamı","Karaman","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","gezi","turizm","kültür"]

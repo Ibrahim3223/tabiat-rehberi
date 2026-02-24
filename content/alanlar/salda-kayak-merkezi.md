@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Salda Kayak Merkezi","caption":"Salda Kayak Merkezi","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg/960px-Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg","alt":"Salda Kayak Merkezi","caption":"Salda Kayak Merkezi","credit":"Aladağlara Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Salda%20Kayak%20Merkezi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6049974","tip":"genel"}]
 description: "Türkiye'de kayak severlerin uğrak noktası, 1200 hektarlık yeşil cennet"
 keywords: ["Salda Kayak Merkezi","kayak merkezi","Türkiye","dağ","kayak","turizm","spor","doğa","gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihi mekan gezi","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Üç Erenler Türbesi, Muğla","caption":"Üç Erenler Türbesi, Muğla","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_03.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_03.jpg","alt":"Üç Erenler Türbesi, Muğla","caption":"Üç Erenler Türbesi, Muğla","credit":"Harbiş Sahili, Karataş - Adana 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7%20Erenler%20T%C3%BCrbesi%2C%20Mu%C4%9Fla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582182","tip":"genel"}]
 description: "Muğla'nın Menteşe ilçesinde bulunan Üç Erenler Türbesi, tarihi geçmişi ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Üç Erenler Türbesi","Muğla","Menteşe","tarihi mekanlar","doğa","gezi","turizm"]

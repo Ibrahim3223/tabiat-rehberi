@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Demirkapı Dağı","caption":"Demirkapı Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg/960px-Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg","alt":"Demirkapı Dağı","caption":"Demirkapı Dağı","credit":"Aladağlara Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirkap%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31569093","tip":"genel"}]
 description: "Türkiye'de bulunan Demirkapı Dağı, doğa severler için önemli bir destinasyon. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Demirkapı Dağı","Türkiye Dağları","Doğa Turizmi","Dağcılık","Trekking","Doğa Yürüyüşü","Yeşil Alanlar","İstanbul Doğal Alanları","Türkiye'nin En Güzel Dağları"]

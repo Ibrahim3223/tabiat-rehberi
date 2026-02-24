@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Koçköle Tepesi","caption":"Koçköle Tepesi","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salda_G%C3%B6l%C3%BC_09-1991.jpg/960px-Salda_G%C3%B6l%C3%BC_09-1991.jpg","alt":"Koçköle Tepesi","caption":"Koçköle Tepesi","credit":"Salda Gölü 09-1991","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7k%C3%B6le%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042424","tip":"genel"}]
 description: "Batman'da bulunan Koçköle Tepesi, 1200 metre yüksekliğiyle bölgenin önemli doğal güzelliklerinden biri. Doğa yürüyüşleri ve manzarası için ziyaret ediliyor."
 keywords: ["Koçköle Tepesi","Batman","Dağ","Doğa Yürüyüşü","Manzara","Turizm","Gezi","Doğal Güzellik","Yürüyüş Rotası"]

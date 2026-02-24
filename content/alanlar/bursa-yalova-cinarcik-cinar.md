@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografçılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Myotis_alcathoe_range.svg/960px-Myotis_alcathoe_range.svg.png","alt":"Bursa-Yalova-Cinarcik Cinar","caption":"Bursa-Yalova-Cinarcik Cinar","credit":"Myotis alcathoe range.svg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg/960px-Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg","alt":"Bursa-Yalova-Cinarcik Cinar","caption":"Bursa-Yalova-Cinarcik Cinar","credit":"Kuşadası tabiat parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Yalova-Cinarcik%20Cinar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228589","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Bursa'da yer alan Bursa-Yalova-Cinarcik Cinar, 140 hektarlık geniş bir alanı kaplayan doğa harikası bir milli park."
 keywords: ["Marmara Bölgesi","Bursa","Cinarcik Cinar","milli park","doğa harikası","yeşil alan","orman","çam ağacı"]

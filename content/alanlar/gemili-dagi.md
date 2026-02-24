@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Gemili Dağı","caption":"Gemili Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Erenler_Da%C4%9F%C4%B1_09_09_1991_bei_K%C4%B1z%C4%B1l%C3%B6ren.jpg/960px-Erenler_Da%C4%9F%C4%B1_09_09_1991_bei_K%C4%B1z%C4%B1l%C3%B6ren.jpg","alt":"Gemili Dağı","caption":"Gemili Dağı","credit":"Erenler Dağı 09 09 1991 bei Kızılören","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gemili%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31567947","tip":"genel"}]
 description: "Erzurum'un görkemli dağlarından biri olan Gemili Dağı, 1400 metre yüksekliğiyle dikkat çekiyor."
 keywords: ["Gemili Dağı","Erzurum","Dağ","Doğa","Trekking","Kış Sporları","Turizm","Gezi","Erzurum Gezi","Dağcılık"]

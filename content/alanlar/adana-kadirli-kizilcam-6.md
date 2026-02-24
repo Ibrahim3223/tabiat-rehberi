@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "birkaç saat ila birkaç gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Adana-Kadirli Kızılçam 6","caption":"Adana-Kadirli Kızılçam 6","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Adana-Kadirli Kızılçam 6","caption":"Adana-Kadirli Kızılçam 6","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%206","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227828","tip":"genel"}]
 description: "140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde, Akdeniz Bölgesi'nde yer alıyor."
 keywords: ["Adana","Kadirli","Kızılçam","milli park","Akdeniz Bölgesi","yeşil alan","futbol sahası"]

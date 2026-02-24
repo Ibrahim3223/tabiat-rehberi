@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarihî araştırmalar","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Mühlü Tepe","caption":"Mühlü Tepe","credit":"Lake Meke (217872347).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Mühlü Tepe","caption":"Mühlü Tepe","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%BChl%C3%BC%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138078","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerini keşfedin. Mühlü Tepe, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Mühlü Tepe","Konya","İç Anadolu Bölgesi","Tarih","Doğa","Gezi","Turizm","Kültür","Coğrafya"]

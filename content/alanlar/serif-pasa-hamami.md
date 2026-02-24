@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Şerif Paşa Hamamı","caption":"Şerif Paşa Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg/960px-Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg","alt":"Şerif Paşa Hamamı","caption":"Şerif Paşa Hamamı","credit":"Aerial view of destruction in Beach refugee camp, Gaza Strip","license":"CC BY-SA 3.0 igo"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eerif%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739232","tip":"genel"}]
 description: "Sındırgı'nın gizli cenneti, Şerif Paşa Hamamı, doğa severlerin uğrak noktası"
 keywords: ["Şerif Paşa Hamamı","Sındırgı","Balıkesir","Marmara Bölgesi","doğa","gezi","tarih"]

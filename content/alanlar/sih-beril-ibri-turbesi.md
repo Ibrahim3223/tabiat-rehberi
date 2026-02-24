@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotograf çekimi","Tarihi mekanları gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Şıh Beril İbri Türbesi","caption":"Şıh Beril İbri Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Şıh Beril İbri Türbesi","caption":"Şıh Beril İbri Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9E%C4%B1h%20Beril%20%C4%B0bri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391777","tip":"genel"}]
 description: "Tarsus'un tarihi ve doğal güzellikleri arasında yer alan Şıh Beril İbri Türbesi, Mersin'in Akdeniz Bölgesi'nde bulunur."
 keywords: ["Tarsus","Mersin","Akdeniz Bölgesi","Şıh Beril İbri Türbesi","Türbe","Tarih","Doğa","Gezi","Tarsus gezisi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Güllüce Dağı","caption":"Güllüce Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Güllüce Dağı","caption":"Güllüce Dağı","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCll%C3%BCce%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873037","tip":"genel"}]
 description: "Şırnak'ta bulunan Güllüce Dağı, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzelliği ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Güllüce Dağı","Şırnak","Dağ","Doğa","Trekking","Coğrafi Oluşum","Turizm","Gezi","Şırnak Turistik Yerler"]

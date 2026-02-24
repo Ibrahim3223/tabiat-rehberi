@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezmek","doğa yürüyüşü","flora ve fauna gözlemi","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Kureyş Baba Kümbeti","caption":"Kureyş Baba Kümbeti","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beach_Antakya_Turkey_-_panoramio.jpg/960px-Beach_Antakya_Turkey_-_panoramio.jpg","alt":"Kureyş Baba Kümbeti","caption":"Kureyş Baba Kümbeti","credit":"Beach Antakya Turkey - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurey%C5%9F%20Baba%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582194","tip":"genel"}]
 description: "Sinanpaşa, Afyonkarahisar'da tarihi ve doğal güzelliklerin birleştiği Kureyş Baba Kümbeti, ziyaretçilerini bekliyor."
 keywords: ["Kureyş Baba Kümbeti","Sinanpaşa","Afyonkarahisar","tarihi mekanlar","doğal güzellikler","Ege Bölgesi","gezi rehberi","kültürel miras"]

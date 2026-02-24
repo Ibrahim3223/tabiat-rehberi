@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Taşlık Tepesi","caption":"Taşlık Tepesi","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg/960px-Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg","alt":"Taşlık Tepesi","caption":"Taşlık Tepesi","credit":"Emir Dağları 25 09 2013 Landschaft","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fl%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31543778","tip":"genel"}]
 description: "Diyarbakır'da bulunan Taşlık Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon"
 keywords: ["Taşlık Tepesi","Diyarbakır","Dağ","Doğa","Turizm","Gezi","Seyahat","Diyarbakır gezilecek yerler","Doğal güzellikler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["hamamın tarihi ve kültürel değerlerini öğrenmek","hamamın bulunduğu alanı keşfetmek","doğal güzellikleri keşfetmek","tarihi yapıları ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Dilşikar Hatun Hamamı","caption":"Dilşikar Hatun Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Maden_Koyu_Beach_2021-11-13-6.jpg/960px-Maden_Koyu_Beach_2021-11-13-6.jpg","alt":"Dilşikar Hatun Hamamı","caption":"Dilşikar Hatun Hamamı","credit":"Maden Koyu Beach 2021-11-13-6","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dil%C5%9Fikar%20Hatun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738740","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan Dilşikar Hatun Hamamı, tarihi geçmişi ve doğası ile dikkat çekiyor."
 keywords: ["Manisa","Şehzadeler","Dilşikar Hatun Hamamı","tarihi hamam","doğa","gezi","turizm"]

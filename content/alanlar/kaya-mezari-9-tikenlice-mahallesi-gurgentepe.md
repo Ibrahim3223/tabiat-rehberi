@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Deniz sporları","Kum oyunları","Güneşlenme","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Kaya Mezarı 9 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 9 (Tikenlice Mahallesi) Gürgentepe","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Kaya Mezarı 9 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 9 (Tikenlice Mahallesi) Gürgentepe","credit":"Altinkum in the evening","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%209%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728211","tip":"genel"}]
 description: "Karadeniz'in gizli cenneti, 140 hektarlık genişlikte, 200 futbol sahası büyüklüğünde bir doğa harikası"
 keywords: ["Kaya Mezarı 9","Tikenlice Mahallesi","Gürgentepe","Ordu","Karadeniz Bölgesi","Plaj","Doğa","Gezi"]

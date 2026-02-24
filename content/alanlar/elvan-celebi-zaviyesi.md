@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "en az birkaç saat"
 aktiviteler: ["dinî ibadet","doğa yürüyüşleri","piknik","deniz kenarında zaman geçirmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Elvan Çelebi Zaviyesi","caption":"Elvan Çelebi Zaviyesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BOAT-Turkey_-_panoramio.jpg/960px-BOAT-Turkey_-_panoramio.jpg","alt":"Elvan Çelebi Zaviyesi","caption":"Elvan Çelebi Zaviyesi","credit":"BOAT-Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elvan%20%C3%87elebi%20Zaviyesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132134372","tip":"genel"}]
 description: "Mecitözü'nde bulunan tarihi zaviye ve plaj"
 keywords: ["Mecitözü","Çorum","Karadeniz Bölgesi","tarih","plaj","zaviye","doğa","gezi"]

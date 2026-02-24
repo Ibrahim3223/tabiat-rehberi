@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Köserlik Tepesi","caption":"Köserlik Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Köserlik Tepesi","caption":"Köserlik Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6serlik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210394","tip":"genel"}]
 description: "Hatay'da bulunan Köserlik Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Köserlik Tepesi","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî değerleri keşfetmek","Doğa yürüyüşleri yapmak","Fotoğraf çekmek","Yakındaki diğer tarihî yerleri ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Bin Tepeler Tümülüsü 31","caption":"Bin Tepeler Tümülüsü 31","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Bin Tepeler Tümülüsü 31","caption":"Bin Tepeler Tümülüsü 31","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2031","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728354","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olan Bin Tepeler Tümülüsü 31, ziyaretçilerini bekliyor."
 keywords: ["Bin Tepeler Tümülüsü 31","Salihli","Manisa","Ege Bölgesi","tarih","doğa","tümülüs","arkeoloji","gezi"]

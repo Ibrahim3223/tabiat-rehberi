@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Büyük Akgöl Sulak Alanı","caption":"Büyük Akgöl Sulak Alanı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg/960px-Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg","alt":"Büyük Akgöl Sulak Alanı","caption":"Büyük Akgöl Sulak Alanı","credit":"Balıkesir Değirmenboğazı tabiat parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Akg%C3%B6l%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228872","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
 keywords: ["Büyük Akgöl","Sulak Alan","İç Anadolu Bölgesi","Doğa","Korunan Alan","Flora","Fauna"]

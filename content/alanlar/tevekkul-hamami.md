@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["plajda güneşlenme","denizde yüzme","tarih gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Tevekkül Hamamı","caption":"Tevekkül Hamamı","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg","alt":"Tevekkül Hamamı","caption":"Tevekkül Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 11","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tevekk%C3%BCl%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738970","tip":"genel"}]
 description: "İstanbul'un tarihi plajlarından biri olan Tevekkül Hamamı, Marmara Bölgesi'nde yer alan İstanbul'un Fatih ilçesinde bulunmaktadır."
 keywords: ["Tevekkül Hamamı","Fatih","İstanbul","Marmara Bölgesi","plaj","tarih","doğa"]

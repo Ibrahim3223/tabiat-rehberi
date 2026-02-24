@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Coğrafi gözlem","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg","alt":"Yelekçe Tepesi","caption":"Yelekçe Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Yelekçe Tepesi","caption":"Yelekçe Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelek%C3%A7e%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822278","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Yelekçe Tepesi, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Yelekçe Tepesi","Kahramanmaraş","Akdeniz Bölgesi","doğal alan","tepe","coğrafya","flora","fauna","ziyaret"]

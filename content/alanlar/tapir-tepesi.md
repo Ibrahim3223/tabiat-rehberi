@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","gezi","doğa fotoğraf çekimi","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Tapır Tepesi","caption":"Tapır Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Tapır Tepesi","caption":"Tapır Tepesi","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tap%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390555","tip":"genel"}]
 description: "Niğde'nin gizli cevheri, İç Anadolu Bölgesi'nin doğal güzellikleri"
 keywords: ["Niğde","İç Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya","flora","fauna","ziyaret"]

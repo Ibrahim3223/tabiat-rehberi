@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Troya TMP","caption":"Troya TMP","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Troya TMP","caption":"Troya TMP","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Troya%20TMP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227194","tip":"genel"}]
 description: "Troya TMP, İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri, 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna"
 keywords: ["Troya TMP","İç Anadolu Bölgesi","doğal alan","yeşil alan","çeşitli bitki türleri","zengin fauna"]

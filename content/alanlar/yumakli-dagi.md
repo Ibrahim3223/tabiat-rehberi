@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Yumaklı Dağı","caption":"Yumaklı Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TRABZON_YAYLASI_VE_%C4%B0BADET.jpg/960px-TRABZON_YAYLASI_VE_%C4%B0BADET.jpg","alt":"Yumaklı Dağı","caption":"Yumaklı Dağı","credit":"TRABZON YAYLASI VE İBADET","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumakl%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502024","tip":"genel"}]
 description: "Balıkesir'in görkemli dağlarından biri olan Yumaklı Dağı, 1200 hektarlık yeşil alanıyla doğa severlerin gözdesi."
 keywords: ["Yumaklı Dağı","Balıkesir","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Doğa Sporları"]

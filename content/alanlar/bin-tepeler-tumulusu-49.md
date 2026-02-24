@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezmek","Doğa yürüyüşü","Fotoğraf çekmek","Rehberli turlara katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Bin Tepeler Tümülüsü 49","caption":"Bin Tepeler Tümülüsü 49","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Bin Tepeler Tümülüsü 49","caption":"Bin Tepeler Tümülüsü 49","credit":"Down by the sea - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2049","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728337","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzellikleri arasında yer alan Bin Tepeler Tümülüsü 49, ziyaretçilerini bekliyor."
 keywords: ["Bin Tepeler","Tümülüs","Ege Bölgesi","Manisa","Salihli","Tarih","Doğa","Kültür"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Plajda dinlenmek","Denizde yüzmek","Güneşlenmek","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%B6bekli_Tepe_-_landscape.jpg/960px-G%C3%B6bekli_Tepe_-_landscape.jpg","alt":"Velibey Hamamı","caption":"Velibey Hamamı","credit":"Göbekli Tepe - landscape.jpg","license":"CC BY 3.0 pl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Velibey Hamamı","caption":"Velibey Hamamı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Velibey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738449","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Velibey Hamamı, Şanlıurfa'nın Eyyübiye ilçesinde bulunmaktadır. Doğal bir plaj olarak ziyaretçilerini ağırlamaktadır."
 keywords: ["Velibey Hamamı","Şanlıurfa","Eyyübiye","Güneydoğu Anadolu Bölgesi","Doğal Plaj","Turizm"]

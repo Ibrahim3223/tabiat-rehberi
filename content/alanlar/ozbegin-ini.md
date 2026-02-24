@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Milanovac_--_2022_--_0257.jpg/960px-Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Milanovac_--_2022_--_0257.jpg","alt":"Özbeğin İni","caption":"Özbeğin İni","credit":"Lika-Senj (HR), Plitvicer Seen, Milanovac -- 2022 -- 0257","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Geological_map_marmara_island_-_hochstetter.jpg/960px-Geological_map_marmara_island_-_hochstetter.jpg","alt":"Özbeğin İni","caption":"Özbeğin İni","credit":"Geological map marmara island - hochstetter","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96zbe%C4%9Fin%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319919","tip":"genel"}]
 description: "Mersin'de bulunan Özbeğin İni, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Özbeğin İni","Mersin","Jeopark","Doğa","Turizm","Mersin Gezilecek Yerler","Jeolojik Alanlar","Doğal Güzellikler","Turistik Yerler"]

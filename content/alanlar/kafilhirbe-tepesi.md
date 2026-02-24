@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tepe tırmanışı","doğa yürüyüşü","panoramik manzara izleme","arkeolojik kazılara katılma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kafılhirbe Tepesi","caption":"Kafılhirbe Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Kafılhirbe Tepesi","caption":"Kafılhirbe Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaf%C4%B1lhirbe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554788","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en dikkat çekici noktalarından biri olan Kafılhirbe Tepesi, Batman ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon"
 keywords: ["Kafılhirbe Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellikler","tepe","gezi","tarihçe","coğrafya","flora","fauna"]

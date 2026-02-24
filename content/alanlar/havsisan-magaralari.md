@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lower_Antelope_Canyon_November_2018_017.jpg/960px-Lower_Antelope_Canyon_November_2018_017.jpg","alt":"Havşişan Mağaraları","caption":"Havşişan Mağaraları","credit":"Lower Antelope Canyon November 2018 017","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Salome_Marble_%28Supren_Marble%29_%28brecciated_marble%2C_metamorphosed_during_the_Cimmeride_Orogeny%2C_Late_Triassic_to_Early_Jurassic%3B_quarry_at_or_near_Supren%2C_northwestern_Turkey%29_1_%2814999205781%29.jpg/960px-thumbnail.jpg","alt":"Havşişan Mağaraları","caption":"Havşişan Mağaraları","credit":"Salome Marble (Supren Marble) (brecciated marble, metamorphosed during the Cimmeride Orogeny, Late Triassic to Early Jurassic; quarry at or near Supren, northwestern Turkey) 1 (14999205781)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hav%C5%9Fi%C5%9Fan%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319245","tip":"genel"}]
 description: "Batman'da yer alan Havşişan Mağaraları, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini bekliyor."
 keywords: ["Havşişan Mağaraları","Batman","Jeopark","Doğa Turizmi","Mağara Gezisi","Türkiye'nin Gizli Cennetleri","Batman Turistik Yerler","Jeolojik Oluşumlar","Doğal Anıtlar"]

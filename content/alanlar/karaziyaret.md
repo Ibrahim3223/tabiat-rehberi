@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Karaziyaret","caption":"Karaziyaret","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Karaziyaret","caption":"Karaziyaret","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaziyaret","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389468","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin, Karaziyaret'te doğa ile baş başa kalın."
 keywords: ["Karaziyaret","Gaziantep","doğa","tepe","gezi","türlü bitkiler","zengin fauna","coğrafya","iklim","çevre"]

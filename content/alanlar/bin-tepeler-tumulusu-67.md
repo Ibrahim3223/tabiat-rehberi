@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Bin Tepeler Tümülüsü 67","caption":"Bin Tepeler Tümülüsü 67","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mediterranean_-_panoramio_%283%29.jpg/960px-Mediterranean_-_panoramio_%283%29.jpg","alt":"Bin Tepeler Tümülüsü 67","caption":"Bin Tepeler Tümülüsü 67","credit":"Mediterranean - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2067","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728297","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli köşelerinden biri olan Bin Tepeler Tümülüsü 67, Ahmetli/Manisa'da yer alıyor. Bu özel alan, tarihi ve doğal güzelliklerinin birleşmesiyle dikkat çekiyor."
 keywords: ["Bin Tepeler Tümülüsü 67","Ahmetli","Manisa","Ege Bölgesi","tümülüs","tarih","doğa"]

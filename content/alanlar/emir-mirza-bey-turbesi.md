@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezinti","fotografcılık","tarihçe öğrenimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Emir Mirza Bey Türbesi","caption":"Emir Mirza Bey Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff/lossy-page1-900px-Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff.jpg","alt":"Emir Mirza Bey Türbesi","caption":"Emir Mirza Bey Türbesi","credit":"Sea of Marmara - Admiralty Chart No 2836 Mediterranean Archipelago, Published 1863, Corrections to 1918 (cropped)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20Mirza%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391311","tip":"genel"}]
 description: "Trabzon'un Bafra ilçesinde yer alan tarihi Emir Mirza Bey Türbesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Emir Mirza Bey Türbesi","Bafra","Trabzon","tarihi mekan","yeşil alan","futbol sahası","tarihçe","coğrafya","flora","fauna","ziyaret"]

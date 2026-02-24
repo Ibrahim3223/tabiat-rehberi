@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Daskyleion Tümülüsü 5","caption":"Daskyleion Tümülüsü 5","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Daskyleion Tümülüsü 5","caption":"Daskyleion Tümülüsü 5","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Daskyleion%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%205","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728309","tip":"genel"}]
 description: "Marmara Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Daskyleion","Tümülüs","Marmara Bölgesi","Bandırma","Balıkesir","tarih","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["hamam gezisi","plajda güneşlenme","denize girme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Abdülfettah Ağa Hamamı","caption":"Abdülfettah Ağa Hamamı","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Abdülfettah Ağa Hamamı","caption":"Abdülfettah Ağa Hamamı","credit":"Karaburun - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abd%C3%BClfettah%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738958","tip":"genel"}]
 description: "Muğla'nın Milas ilçesinde yer alan tarihi hamam ve plaj alanı"
 keywords: ["Abdülfettah Ağa Hamamı","Milas","Muğla","tarihi hamam","plaj","Ege Bölgesi","turizm","gezi","kültür"]

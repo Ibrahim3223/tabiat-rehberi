@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Çalgan Dağı","caption":"Çalgan Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/960px-Adams_The_Tetons_and_the_Snake_River.jpg","alt":"Çalgan Dağı","caption":"Çalgan Dağı","credit":"Adams The Tetons and the Snake River","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87algan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823615","tip":"genel"}]
 description: "Sivas'ta bulunan Çalgan Dağı, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Çalgan Dağı","Sivas","Dağ","Doğa","Yeşil Alan","Turizm","Sivas Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

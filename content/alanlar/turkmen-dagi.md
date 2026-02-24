@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Türkmen Dağı","caption":"Türkmen Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Türkmen Dağı","caption":"Türkmen Dağı","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrkmen%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34816241","tip":"genel"}]
 description: "Manisa'da bulunan Türkmen Dağı, 1200 hektarlık yeşil alanı ile İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Türkmen Dağı","Manisa","Dağ","Yeşil Alan","Doğa","Seyahat","Gezi","Türkiye","Coğrafya"]

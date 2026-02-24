@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Yundağ","caption":"Yundağ","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_at_sunset%2C_December_2020.jpg/960px-A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_at_sunset%2C_December_2020.jpg","alt":"Yundağ","caption":"Yundağ","credit":"Ağrı Dağı at sunset, December 2020","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yunda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559860","tip":"genel"}]
 description: "Samsun'da yer alan Yundağ, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Yundağ","Samsun","Dağ","Doğa","Yeşil Alan","Turizm","Samsun Turistik Yerler","Doğal Güzellikler","Gezi Rehberi"]

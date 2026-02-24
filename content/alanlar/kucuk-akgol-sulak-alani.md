@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotoğrafçılık","Bilim investigaciónu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Küçük Akgöl Sulak Alanı","caption":"Küçük Akgöl Sulak Alanı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Küçük Akgöl Sulak Alanı","caption":"Küçük Akgöl Sulak Alanı","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Akg%C3%B6l%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229024","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzel sulak alanlarından biri, 140 hektarlık alanıyla önemli bir ekosistem"
 keywords: ["Küçük Akgöl","Sulak Alanı","İç Anadolu Bölgesi","Ekosistem","Doğa","Sulak Alan","Turizm"]

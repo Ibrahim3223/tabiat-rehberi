@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Mağara gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"İNALTI_MAĞARASI_TP","caption":"İNALTI_MAĞARASI_TP","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akdag_bridge.jpg/960px-Akdag_bridge.jpg","alt":"İNALTI_MAĞARASI_TP","caption":"İNALTI_MAĞARASI_TP","credit":"Akdag bridge","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0NALTI_MA%C4%9EARASI_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229003","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli köşesi, İnalı Mağarası"
 keywords: ["İnalı Mağarası","İç Anadolu Bölgesi","doğal güzellikler","mağara","gezi","turizm","yerli halk","coğrafya","flora","fauna"]

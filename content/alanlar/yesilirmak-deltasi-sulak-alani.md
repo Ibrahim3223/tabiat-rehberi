@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Yeşilırmak Deltası Sulak Alanı","caption":"Yeşilırmak Deltası Sulak Alanı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg","alt":"Yeşilırmak Deltası Sulak Alanı","caption":"Yeşilırmak Deltası Sulak Alanı","credit":"Gölcük Tabiat Parkı Bolu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Fil%C4%B1rmak%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229014","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Yeşilırmak Deltası Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Yeşilırmak Deltası","Sulak Alanı","İç Anadolu Bölgesi","doğal güzellik","flora","fauna"]

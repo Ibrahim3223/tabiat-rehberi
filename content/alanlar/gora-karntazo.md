@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Gora Karntazo","caption":"Gora Karntazo","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg/960px-Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg","alt":"Gora Karntazo","caption":"Gora Karntazo","credit":"Jebel Aqra (Kel Dağı, Mount Casius), 2008","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Karntazo","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513151","tip":"genel"}]
 description: "Türkiye'de bulunan Gora Karntazo, doğa severler için bir cennet. Dağcılık ve trekking için ideal bir destinasyon."
 keywords: ["Gora Karntazo","Türkiye dağları","dağcılık","trekking","doğa turizmi","Türkiye turizm","dağ rotaları","yürüyüş rotaları","Türkiye'nin en güzel dağları"]

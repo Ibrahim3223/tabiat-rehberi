@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Guharikamalareşo Tepe","caption":"Guharikamalareşo Tepe","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg/960px-Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg","alt":"Guharikamalareşo Tepe","caption":"Guharikamalareşo Tepe","credit":"Beyşehir Gölü 18 04 1992 mit den Dedegöl Dağlar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Guharikamalare%C5%9Fo%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550997","tip":"genel"}]
 description: "Mardin'in doğal güzelliklerini keşfedin, Guharikamalareşo Tepe'nin büyüleyici manzaralarına hayran kalın."
 keywords: ["Guharikamalareşo Tepe","Mardin","Dağ","Doğa","Manzara","Türkiye","Gezi","Seyahat","Mardin gezilecek yerler"]

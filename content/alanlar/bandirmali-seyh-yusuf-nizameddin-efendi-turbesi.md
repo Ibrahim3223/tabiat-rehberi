@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve yeşil alan gezi","Deniz manzarası izleme","Bitki ve hayvan gözlemi","Yeme ve içme seçenekleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi","caption":"Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg/960px-ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg","alt":"Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi","caption":"Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi","credit":"ISS-57 Aegean Sea with Turkish and Greek Coasts","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Band%C4%B1rmal%C4%B1%20%C5%9Eeyh%20Yusuf%20Nizameddin%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135430365","tip":"genel"}]
 description: "İstanbul'un Üsküdar ilçesinde bulunan tarihi türbe ve plaj hakkında bilgi"
 keywords: ["Bandırmalı Şeyh Yusuf Nizameddin Efendi","Türbe","Üsküdar","İstanbul","Marmara Bölgesi","Tarih","Coğrafya","Flora","Fauna"]

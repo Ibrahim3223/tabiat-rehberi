@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["yürüyüş","bisiklet sürüşü","piknik","spor"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"BELÖREN KENT ORMANI","caption":"BELÖREN KENT ORMANI","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"BELÖREN KENT ORMANI","caption":"BELÖREN KENT ORMANI","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BEL%C3%96REN%20KENT%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228655","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Belören Kent Ormanı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Belören Kent Ormanı","İç Anadolu Bölgesi","kent ormanı","yeşil alan","doğa","gezi"]

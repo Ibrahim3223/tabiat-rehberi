@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarihı yapıları keşfetmek","doğa yürüyüşleri","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg","alt":"Şeyh Muhiddin Hamamı","caption":"Şeyh Muhiddin Hamamı","credit":"Süzer Sun Dreams Beach 11 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_19.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_19.jpg","alt":"Şeyh Muhiddin Hamamı","caption":"Şeyh Muhiddin Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 19","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhiddin%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738852","tip":"genel"}]
 description: "İzmir'in Ödemiş ilçesinde yer alan Şeyh Muhiddin Hamamı, tarihi ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Ödemiş","İzmir","Şeyh Muhiddin Hamamı","tarih","doğa","gezi","turizm","Ege Bölgesi","plaj"]

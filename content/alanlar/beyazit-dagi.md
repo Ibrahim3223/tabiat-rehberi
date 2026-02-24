@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Beyazıt Dağı","caption":"Beyazıt Dağı","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"Beyazıt Dağı","caption":"Beyazıt Dağı","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beyaz%C4%B1t%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387663","tip":"genel"}]
 description: "Van'ın en önemli doğal güzelliklerinden biri olan Beyazıt Dağı, 3.000 metreyi aşan zirvesiyle dikkat çekiyor."
 keywords: ["Beyazıt Dağı","Van","Dağ","Doğa","Türkiye","Gezi","Seyahat","Van Gezisi","Doğa Sporları"]

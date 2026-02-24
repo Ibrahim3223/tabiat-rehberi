@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye tırmanmak","tarihi kalıntıları ziyaret etmek","doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bulgur Tepesi","caption":"Bulgur Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Bulgur Tepesi","caption":"Bulgur Tepesi","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bulgur%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31570469","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Bulgur Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bulgur Tepesi","İç Anadolu Bölgesi","doğal güzellikler","yeşil alan","futbol sahası"]

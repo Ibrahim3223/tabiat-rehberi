@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî gezinti","doğa yürüyüşü","fotografçılık","kültürel deneyim"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Edhem Baba Türbesi","caption":"Edhem Baba Türbesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/960px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg","alt":"Edhem Baba Türbesi","caption":"Edhem Baba Türbesi","credit":"Map of Greece, Archipelago and part of Anadoli; Louis Stanislas d'Arcy Delarochette 1791","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Edhem%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391051","tip":"genel"}]
 description: "İstanbul'un Eyüpsultan ilçesinde yer alan Edhem Baba Türbesi, tarihi ve kültürel öneme sahip bir mekan"
 keywords: ["Edhem Baba Türbesi","Eyüpsultan","İstanbul","tarih","kültür","gezi","türbe","Marmara Bölgesi"]

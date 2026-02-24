@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["kaplıca suyu deneyimlemek","ormanda yürüyüş yapmak","yerel lezzetleri tadmak","çevre gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Arif_solak_BanazHamambogazi1.jpg","alt":"Evlik Kaplıcası","caption":"Evlik Kaplıcası","credit":"Arif solak BanazHamambogazi1","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pastel_Hues_Of_Sunset_Pamukkale_%28227577267%29.jpeg/960px-Pastel_Hues_Of_Sunset_Pamukkale_%28227577267%29.jpeg","alt":"Evlik Kaplıcası","caption":"Evlik Kaplıcası","credit":"Pastel Hues Of Sunset Pamukkale (227577267)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Evlik%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741908","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzellikleriyle çevrili termal kaynak"
 keywords: ["Evlik Kaplıcası","termal kaynak","Karadeniz Bölgesi","Çorum","kaplıca","sağlık turizmi","doğal güzellik","gezi rehberi","turizm"]

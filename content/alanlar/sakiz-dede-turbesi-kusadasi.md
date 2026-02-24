@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe hakkında bilgi edinme","Doğa yürüyüşü","Fotograf çekme","Çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Sakız Dede Türbesi, Kuşadası","caption":"Sakız Dede Türbesi, Kuşadası","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bart%C4%B1n_G%C3%BCzelcehisar.jpg/960px-Bart%C4%B1n_G%C3%BCzelcehisar.jpg","alt":"Sakız Dede Türbesi, Kuşadası","caption":"Sakız Dede Türbesi, Kuşadası","credit":"Bartın Güzelcehisar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sak%C4%B1z%20Dede%20T%C3%BCrbesi%2C%20Ku%C5%9Fadas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582186","tip":"genel"}]
 description: "Kuşadası'nın tarihi ve doğal güzelliklerini keşfedin. Sakız Dede Türbesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Sakız Dede Türbesi","Kuşadası","tarihçe","coğrafya","flora","fauna","ziyaret","gezi","tarih"]

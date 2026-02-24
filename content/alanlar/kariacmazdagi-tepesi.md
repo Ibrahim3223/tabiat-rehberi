@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Karıaçmazdağı Tepesi","caption":"Karıaçmazdağı Tepesi","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"Karıaçmazdağı Tepesi","caption":"Karıaçmazdağı Tepesi","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kar%C4%B1a%C3%A7mazda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878213","tip":"genel"}]
 description: "Bingöl'ün doğal güzelliklerini keşfedin, Karıaçmazdağı Tepesi'ne çıkın ve bölgenin benzersiz manzarasını keşfedin."
 keywords: ["Karıaçmazdağı Tepesi","Bingöl","Dağ","Doğa","Trekking","Manzara","Gezi","Seyahat","Turizm"]

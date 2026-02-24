@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Rehberli turlar","Trekking","Fotoğrafçılık","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Yerküpe Mağarası","caption":"Yerküpe Mağarası","credit":"Aydıncık Cave","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cave-Rock%2C_Saimbeyli_04.jpg/960px-Cave-Rock%2C_Saimbeyli_04.jpg","alt":"Yerküpe Mağarası","caption":"Yerküpe Mağarası","credit":"Cave-Rock, Saimbeyli 04","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yerk%C3%BCpe%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Aydın'da yer alan Yerküpe Mağarası, Ege Bölgesi'nin önemli doğal alanlarından biri"
 keywords: ["Yerküpe Mağarası","Aydın","Ege Bölgesi","Mağara","Doğa","Turizm","Gezi","Aydın Turistik Yerler"]

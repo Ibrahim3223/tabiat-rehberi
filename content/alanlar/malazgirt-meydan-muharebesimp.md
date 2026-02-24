@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"MALAZGİRT MEYDAN MUHAREBESİ_MP","caption":"MALAZGİRT MEYDAN MUHAREBESİ_MP","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"MALAZGİRT MEYDAN MUHAREBESİ_MP","caption":"MALAZGİRT MEYDAN MUHAREBESİ_MP","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/MALAZG%C4%B0RT%20MEYDAN%20MUHAREBES%C4%B0_MP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228763","tip":"genel"}]
 description: "Tarihi savaşın yaşandığı önemli bir mekân, Malazgirt Meydan Muharebesi Milli Parkı"
 keywords: ["Malazgirt Meydan Muharebesi","Milli Park","İç Anadolu Bölgesi","Tarihi Mekân","Doğa","Flora","Fauna"]

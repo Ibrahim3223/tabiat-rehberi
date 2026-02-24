@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","orman gezisi","vahşi yaşam gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Amasya-Vezirkopru-Kunduz Karacam","caption":"Amasya-Vezirkopru-Kunduz Karacam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cilingoz_National_Park_Beach_Cave.jpg/960px-Cilingoz_National_Park_Beach_Cave.jpg","alt":"Amasya-Vezirkopru-Kunduz Karacam","caption":"Amasya-Vezirkopru-Kunduz Karacam","credit":"Cilingoz National Park Beach Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Vezirkopru-Kunduz%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227475","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerinin sergilendiği önemli bir milli park"
 keywords: ["Amasya","Vezirkopru","Kunduz Karacam","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

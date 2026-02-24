@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarihî yapıları ziyaret","Kültürel etkinlikler","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Bin Tepeler Tümülüsü 5","caption":"Bin Tepeler Tümülüsü 5","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Bin Tepeler Tümülüsü 5","caption":"Bin Tepeler Tümülüsü 5","credit":"Old Pier","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%205","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728361","tip":"genel"}]
 description: "Salihli/Manisa'da bulunan Bin Tepeler Tümülüsü 5, Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biri."
 keywords: ["Bin Tepeler Tümülüsü 5","Salihli","Manisa","Ege Bölgesi","tarih","doğa","tümülüs","gezi","turizm"]

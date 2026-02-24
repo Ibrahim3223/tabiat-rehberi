@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Gora Sarnıç","caption":"Gora Sarnıç","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Gora Sarnıç","caption":"Gora Sarnıç","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Sarn%C4%B1%C3%A7","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385482","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinelerinden biri olan Gora Sarnıç, doğa severler için bir cennet"
 keywords: ["Gora Sarnıç","İç Anadolu Bölgesi","doğa","tepe","coğrafya","flora","fauna","ziyaret","gezilecek yerler"]

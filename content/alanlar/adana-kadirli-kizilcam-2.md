@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg/960px-Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg","alt":"Adana-Kadirli Kızılçam 2","caption":"Adana-Kadirli Kızılçam 2","credit":"Aladağlar Milli Parkı - Aladaglar National Park 01.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Akdag_pano.jpg/960px-Akdag_pano.jpg","alt":"Adana-Kadirli Kızılçam 2","caption":"Adana-Kadirli Kızılçam 2","credit":"Akdag pano","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227832","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerini keşfedin, Kızılçam 2 milli parkı"
 keywords: ["Adana","Kızılçam 2","milli park","doğa","turizm","gezi","yaban hayatı","çevre"]

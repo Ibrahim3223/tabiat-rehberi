@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Türkistanlı Mencik Baba Türbesi","caption":"Türkistanlı Mencik Baba Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Black_ses_sile_beach.jpg/960px-Black_ses_sile_beach.jpg","alt":"Türkistanlı Mencik Baba Türbesi","caption":"Türkistanlı Mencik Baba Türbesi","credit":"Black ses sile beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrkistanl%C4%B1%20Mencik%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391775","tip":"genel"}]
 description: "Tarsus'un Kilikya bölgesinde bulunan önemli bir tarihi mekan"
 keywords: ["Türkistanlı Mencik Baba","Tarsus","Kilikya","tarih","türbe","gezi","doğa"]

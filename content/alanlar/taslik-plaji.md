@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Dağ yürüyüşü","Bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Taşlık Plajı","caption":"Taşlık Plajı","credit":"Muğla Province (45034554)","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Istanbul_beaches-_Sea_of_Marmara_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_04.jpg","alt":"Taşlık Plajı","caption":"Taşlık Plajı","credit":"Istanbul beaches- Sea of Marmara 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fl%C4%B1k%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49324963","tip":"genel"}]
 description: "Muğla'nın en güzel plajlarından biri olan Taşlık Plajı, Ege Bölgesi'nin sakin ve güzel bir köşesi."
 keywords: ["Taşlık Plajı","Muğla","Ege Bölgesi","plaj","deniz","kum","güneş"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","tarihçe gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"İskender Paşa Hamamı","caption":"İskender Paşa Hamamı","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Piri_Reis_-_Map_of_the_Northeastern_Tip_of_Rhodes_Island_Facing_the_Anatolian_Coast_with_the_Island_of_Syme_-_Walters_W658100B_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Northeastern_Tip_of_Rhodes_Island_Facing_the_Anatolian_Coast_with_the_Island_of_Syme_-_Walters_W658100B_-_Full_Page.jpg","alt":"İskender Paşa Hamamı","caption":"İskender Paşa Hamamı","credit":"Piri Reis - Map of the Northeastern Tip of Rhodes Island Facing the Anatolian Coast with the Island of Syme - Walters W658100B - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0skender%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131737494","tip":"genel"}]
 description: "Beykoz'un tarihi plajı, İstanbul'un doğal güzellikleri"
 keywords: ["İskender Paşa Hamamı","Beykoz","İstanbul","Marmara Bölgesi","plaj","tarihçe","coğrafya","flora","fauna"]

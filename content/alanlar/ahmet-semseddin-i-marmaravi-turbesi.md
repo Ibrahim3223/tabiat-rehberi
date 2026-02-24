@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Yüzme","Güneşlenme","Doğa yürüyüşü","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ahmet Şemseddin-i Marmaravi Türbesi","caption":"Ahmet Şemseddin-i Marmaravi Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2023-11-19_A_view_from_Ufakdere_Port_Beach.jpg/960px-2023-11-19_A_view_from_Ufakdere_Port_Beach.jpg","alt":"Ahmet Şemseddin-i Marmaravi Türbesi","caption":"Ahmet Şemseddin-i Marmaravi Türbesi","credit":"2023-11-19 A view from Ufakdere Port Beach","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahmet%20%C5%9Eemseddin-i%20Marmaravi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390916","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan tarihi türbe ve plajı."
 keywords: ["Ahmet Şemseddin-i Marmaravi","Türbe","Manisa","Şehzadeler","Plaj","Tarih","Ege Bölgesi"]

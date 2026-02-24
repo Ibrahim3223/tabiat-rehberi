@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihçe","fotografcılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Hekatomnos Anıt Mezarı","caption":"Hekatomnos Anıt Mezarı","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/A_beach_near_Phaselis_2021-02-26-2.jpg/960px-A_beach_near_Phaselis_2021-02-26-2.jpg","alt":"Hekatomnos Anıt Mezarı","caption":"Hekatomnos Anıt Mezarı","credit":"A beach near Phaselis 2021-02-26-2","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Satrap_Hekatomnos%27a_ait_Tetradrahmi_Sikke.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Satrap_Hekatomnos%27a_ait_Tetradrahmi_Sikke.jpg/1280px-Satrap_Hekatomnos%27a_ait_Tetradrahmi_Sikke.jpg","alt":"Hekatomnos Anıt Mezarı - Satrap Hekatomnos'a ait Tetradrahmi Sikke","credit":"Epiphanesnikophoros","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hekatomnos%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21526234","tip":"genel"}]
 description: "Ege Bölgesi'nin önemli tarihi mekanlarından biri olan Hekatomnos Anıt Mezarı, Milas'ta yer alıyor."

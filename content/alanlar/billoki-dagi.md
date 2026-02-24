@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam bir gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Billöki Dağı","caption":"Billöki Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Billöki Dağı","caption":"Billöki Dağı","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bill%C3%B6ki%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34835512","tip":"genel"}]
 description: "Siirt'in görkemli dağlarından biri olan Billöki Dağı, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Billöki Dağı","Siirt","Dağ","Doğa","Turizm","Gezi","Seyahat","Yeşil Alan","Doğal Güzellik","Türkiye"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","manzara izleme","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Kuşkayası Tepesi","caption":"Kuşkayası Tepesi","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Kuşkayası Tepesi","caption":"Kuşkayası Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fkayas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550680","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Mardin","Kuşkayası Tepesi","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara","çevre"]

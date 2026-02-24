@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezmek","Arkeolojik sit alanlarını keşfetmek","Bölgenin doğal güzelliklerini görmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Nysa Roma Hamamı","caption":"Nysa Roma Hamamı","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Al-Samra_beach.jpg/960px-Al-Samra_beach.jpg","alt":"Nysa Roma Hamamı","caption":"Nysa Roma Hamamı","credit":"Al-Samra beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nysa%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739023","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinelerinden biri olan Nysa Roma Hamamı, Aydın'ın Sultanhisar ilçesinde yer alır."
 keywords: ["Nysa Roma Hamamı","Aydın","Sultanhisar","Ege Bölgesi","Roma Hamamı","Tarih","Arkeoloji","Gezi","Turizm"]

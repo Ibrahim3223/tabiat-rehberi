@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","balık avlama","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Apa Barajı","caption":"Apa Barajı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg","alt":"Apa Barajı","caption":"Apa Barajı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547427074)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Apa%20Baraj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227879","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Apa Barajı, 140 hektarlık geniş bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Apa Barajı","İç Anadolu Bölgesi","doğal alan","baraj","orman","fauna","flora"]

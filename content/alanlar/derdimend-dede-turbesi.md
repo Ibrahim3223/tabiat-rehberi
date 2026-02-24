@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezme","doğa yürüyüşü","fotograflama"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg","alt":"Derdimend Dede Türbesi","caption":"Derdimend Dede Türbesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 04.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Derdimend Dede Türbesi","caption":"Derdimend Dede Türbesi","credit":"Mediterranean.^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Derdimend%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390842","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan tarihi ve doğal güzelliklere sahip bir alan"
 keywords: ["Derdimend Dede Türbesi","Kahramanmaraş","tarih","doğa","turizm","gezi","türk kültürü","mimarlık","coğrafya"]

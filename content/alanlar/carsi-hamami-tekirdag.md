@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denize girme","Güneşlenme","Yürüyüş","Alışveriş","Yeme içme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Çarşı Hamamı, Tekirdağ","caption":"Çarşı Hamamı, Tekirdağ","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beach_Karabashi_%28black_head%29_-_panoramio.jpg/960px-Beach_Karabashi_%28black_head%29_-_panoramio.jpg","alt":"Çarşı Hamamı, Tekirdağ","caption":"Çarşı Hamamı, Tekirdağ","credit":"Beach Karabashi (black head) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ar%C5%9F%C4%B1%20Hamam%C4%B1%2C%20Tekirda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245779","tip":"genel"}]
 description: "Tekirdağ'ın güzide plajlarından biri olan Çarşı Hamamı, Marmara Bölgesi'nin en çok ziyaret edilen yerlerinden."
 keywords: ["Tekirdağ","Marmara Bölgesi","plaj","deniz","kum","çarşı","hamam","turizm","gezi"]

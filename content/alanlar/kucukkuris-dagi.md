@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Küçükkuris Dağı","caption":"Küçükkuris Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg/960px-%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg","alt":"Küçükkuris Dağı","caption":"Küçükkuris Dağı","credit":"\"Lost\" lakes , near Meigs Peak, Col. Lakes 9,500 feet above sea-level - DPLA - a574e1d02197947f5bd63dffe370dd0d (page 1)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkkuris%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042861","tip":"genel"}]
 description: "Ağrı'da bulunan Küçükkuris Dağı, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Küçükkuris Dağı","Ağrı","Doğa","Dağ","Trekking","Kamp","Doğa Yürüyüşü","Ağrı Turizm","Doğal Alanlar"]

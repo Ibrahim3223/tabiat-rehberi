@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Çengel Dağı","caption":"Çengel Dağı","credit":"Lake Meke (217872347).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Çengel Dağı","caption":"Çengel Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87engel%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818815","tip":"genel"}]
 description: "Konya'da yer alan Çengel Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin uğrak noktası"
 keywords: ["Çengel Dağı","Konya","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Konya Turizm"]

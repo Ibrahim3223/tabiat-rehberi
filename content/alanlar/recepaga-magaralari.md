@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Recepağa Mağaraları","caption":"Recepağa Mağaraları","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tectonic_Map_of_Turkey.png/960px-Tectonic_Map_of_Turkey.png","alt":"Recepağa Mağaraları","caption":"Recepağa Mağaraları","credit":"Tectonic Map of Turkey","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Recepa%C4%9Fa%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319708","tip":"genel"}]
 description: "Batman'da yer alan Recepağa Mağaraları, jeopark olarak bilinen doğal güzellik alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Recepağa Mağaraları","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Doğa","Yeşil Alan"]

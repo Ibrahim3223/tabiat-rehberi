@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Tarihi yapıları incelemek","Doğa yürüyüşü","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Şeyh Bedreddin Türbesi","caption":"Şeyh Bedreddin Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg","alt":"Şeyh Bedreddin Türbesi","caption":"Şeyh Bedreddin Türbesi","credit":"Marmaris @ Lodos Storm (December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Bedreddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582375","tip":"genel"}]
 description: "Ilgın, Konya'da yer alan Şeyh Bedreddin Türbesi, tarihsel ve kültürel değerleri ile dikkat çekmektedir."
 keywords: ["Şeyh Bedreddin","Türbe","Ilgın","Konya","Tarih","Kültür","Gezi","Turizm"]

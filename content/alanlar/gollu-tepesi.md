@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğal yürüyüş","bitki gözlemi","hayvan izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/65/Neolithic_and_chalcholithic_sites_in_near_east_1_1.png","alt":"Göllü Tepesi manzarası","credit":"Merikanto","license":"cc-by-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Göllü Tepesi","caption":"Göllü Tepesi","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6ll%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138497","tip":"genel"}]
 description: "Ege Bölgesi'nin en güzel doğal alanlarından biri olan Göllü Tepesi, Muğla'da yer alan bir tepe."

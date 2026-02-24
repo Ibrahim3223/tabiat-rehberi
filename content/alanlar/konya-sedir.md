@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Çevre koruma çalışmaları","Flora ve fauna gözlemi","Fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Konya-Sedir","caption":"Konya-Sedir","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/960px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Konya-Sedir","caption":"Konya-Sedir","credit":"Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227214","tip":"genel"}]
 description: "Konya ilinin güzide milli parkı, doğal güzelliklerin buluşma noktası"
 keywords: ["Konya","Sedir","Milli Park","Doğa","Gezi","Konya-Sedir","İç Anadolu","Turizm","Doğal Güzellikler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Çatalca Tepesi","caption":"Çatalca Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Çatalca Tepesi","caption":"Çatalca Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atalca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828554","tip":"genel"}]
 description: "Konya'nın eşsiz coğrafyasında yer alan Çatalca Tepesi, i güzellikleriyle dikkat çekiyor."
 keywords: ["Konya","Çatalca Tepesi","İç Anadolu Bölgesi","tepe","coğrafya","doğa","gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","göl gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hamam Kalıntısı 1, İznik","caption":"Hamam Kalıntısı 1, İznik","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg","alt":"Hamam Kalıntısı 1, İznik","caption":"Hamam Kalıntısı 1, İznik","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 18","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1%201%2C%20%C4%B0znik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739175","tip":"genel"}]
 description: "İznik'in tarihi dokusu içinde yer alan Hamam Kalıntısı 1, Marmara Bölgesi'nin güzelliklerini keşfedin"
 keywords: ["İznik","Marmara Bölgesi","tarih","doğa","gezi","turizm","Bursa","plaj","hamam kalıntısı","kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["şehir manzarası izleme","doğa yürüyüşü","fotograf çekme","tarihî araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Pekmeztoprak Tepesi","caption":"Pekmeztoprak Tepesi","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Pekmeztoprak Tepesi","caption":"Pekmeztoprak Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pekmeztoprak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390906","tip":"genel"}]
 description: "Kayseri'nin doğal güzellikleri arasında yer alan Pekmeztoprak Tepesi, ziyaretçilerini şehrin manzarasıyla karşılar."
 keywords: ["Pekmeztoprak Tepesi","Kayseri","doğa","tepe","manzara","gezi","turizm","İç Anadolu Bölgesi","coğrafya"]

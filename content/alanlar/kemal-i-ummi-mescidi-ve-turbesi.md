@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî evleri gezmek","Mescid ve türbeyi ziyaret etmek","Panoramik manzara görmek","Bölgenin kültürel zenginliklerini keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Kemal-i Ümmi Mescidi ve Türbesi","caption":"Kemal-i Ümmi Mescidi ve Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Istanbul_beaches-_Sea_of_Marmara_07.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_07.jpg","alt":"Kemal-i Ümmi Mescidi ve Türbesi","caption":"Kemal-i Ümmi Mescidi ve Türbesi","credit":"Istanbul beaches- Sea of Marmara 07","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kemal-i%20%C3%9Cmmi%20Mescidi%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582249","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini barındıran bir mekan"
 keywords: ["Kemal-i Ümmi Mescidi","Türbesi","Niğde","İç Anadolu Bölgesi","Tarih","Kültür","Mescid","Türbe"]

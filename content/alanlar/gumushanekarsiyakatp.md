@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","kuş gözlemciliği","bitki gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"GÜMÜŞHANE_KARŞIYAKA_TP","caption":"GÜMÜŞHANE_KARŞIYAKA_TP","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg","alt":"GÜMÜŞHANE_KARŞIYAKA_TP","caption":"GÜMÜŞHANE_KARŞIYAKA_TP","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5515332844)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%9CM%C3%9C%C5%9EHANE_KAR%C5%9EIYAKA_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228767","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık bir alan, doğa severler için bir sığınak."
 keywords: ["milli park","doğa","gezi","İç Anadolu Bölgesi","Gümüşhane","Karşıyaka"]

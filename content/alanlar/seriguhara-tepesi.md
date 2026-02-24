@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarihi kalıntıları incelemek","Kültürel zenginlikleri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Seriguhara Tepesi","caption":"Seriguhara Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Seriguhara Tepesi","caption":"Seriguhara Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seriguhara%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551014","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini bir arada sunan Seriguhara Tepesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Mardin","Seriguhara Tepesi","tarih","doğa","turizm","gezi","kültür","coğrafya","Güneydoğu Anadolu Bölgesi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Karyağdı Tepesi","caption":"Karyağdı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Karyağdı Tepesi","caption":"Karyağdı Tepesi","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karya%C4%9Fd%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389142","tip":"genel"}]
 description: "Marmara Bölgesi'nin en önemli güzelliklerinden biri olan Karyağdı Tepesi, Balıkesir'in gözde mekanlarından."
 keywords: ["Karyağdı Tepesi","Marmara Bölgesi","Balıkesir","doğal güzellik","tepe","coğrafya"]

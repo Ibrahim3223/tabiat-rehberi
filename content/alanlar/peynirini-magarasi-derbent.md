@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Fotoğraf çekme","Doğa gözlemi","Jeoloji nghiênmesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Peynirini Mağarası (Derbent)","caption":"Peynirini Mağarası (Derbent)","credit":"Aydıncık Cave","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_entrance_of_Gilindire_Cave.jpg/960px-The_entrance_of_Gilindire_Cave.jpg","alt":"Peynirini Mağarası (Derbent)","caption":"Peynirini Mağarası (Derbent)","credit":"The entrance of Gilindire Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Peynirini%20Ma%C4%9Faras%C4%B1%20(Derbent)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Konya'nın İç Anadolu Bölgesi'nde yer alan Peynirini Mağarası, 140 milyon yıllık jeolojik geçmişe sahip."
 keywords: ["Peynirini Mağarası","Derbent","Konya","İç Anadolu Bölgesi","Mağara","Jeoloji","Turizm","Doğa","Gezi"]

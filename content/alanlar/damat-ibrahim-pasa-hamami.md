@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe öğrenme","kültür keşfi","mimari inceleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG/960px-Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG","alt":"Damat İbrahim Paşa Hamamı","caption":"Damat İbrahim Paşa Hamamı","credit":"Fairy Chimneys 2, Nevşehir Province, Turkey.JPG","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Damat İbrahim Paşa Hamamı","caption":"Damat İbrahim Paşa Hamamı","credit":"Muğla - Dalyan - İztuzu Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Damat%20%C4%B0brahim%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738431","tip":"genel"}]
 description: "Nevşehir'in tarihi hamamlarından biri olan Damat İbrahim Paşa Hamamı, şehrin merkezinde yer alır."
 keywords: ["Damat İbrahim Paşa Hamamı","Nevşehir","tarihi hamam","hamam","Nevşehir hamamları","tarih","mimari","kültür","gezi"]

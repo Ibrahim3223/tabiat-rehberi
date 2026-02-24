@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam bir gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/K%C3%A2hta_district_landscape.jpg/960px-K%C3%A2hta_district_landscape.jpg","alt":"Hacımuhammet Dağı","caption":"Hacımuhammet Dağı","credit":"Kâhta district landscape.jpg","license":"CC BY 3.0 pl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Avc%C4%B1lar_05_04_1999_Erciyes_Da%C4%9F%C4%B1.jpg/960px-Avc%C4%B1lar_05_04_1999_Erciyes_Da%C4%9F%C4%B1.jpg","alt":"Hacımuhammet Dağı","caption":"Hacımuhammet Dağı","credit":"Avcılar 05 04 1999 Erciyes Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1muhammet%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873692","tip":"genel"}]
 description: "Adıyaman'da yer alan Hacımuhammet Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Hacımuhammet Dağı","Adıyaman","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Doğal Güzellik","Çevre"]

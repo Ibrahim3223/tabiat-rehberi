@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğrafçılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Aydoğmuş Tepesi","caption":"Aydoğmuş Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Second_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-15.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Aydoğmuş Tepesi","caption":"Aydoğmuş Tepesi","credit":"Second floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-15","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aydo%C4%9Fmu%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571239","tip":"genel"}]
 description: "Tokat'ın gizli cenneti, Aydoğmuş Tepesi'ni keşfedin!"
 keywords: ["Aydoğmuş Tepesi","Tokat","Karadeniz Bölgesi","tepe","doğa","gezi","turizm"]

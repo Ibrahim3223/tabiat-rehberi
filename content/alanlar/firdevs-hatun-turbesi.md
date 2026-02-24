@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Firdevs Hatun Türbesi","caption":"Firdevs Hatun Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Firdevs Hatun Türbesi","caption":"Firdevs Hatun Türbesi","credit":"Elmasburnu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Firdevs%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391312","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Gümüşhane'nin Şiran ilçesinde yer alan Firdevs Hatun Türbesi, tarihi ve doğal güzelliği ile ziyaretçilerini büyülüyor."
 keywords: ["Firdevs Hatun Türbesi","Gümüşhane","Şiran","Karadeniz Bölgesi","tarih","doğa","türbe"]

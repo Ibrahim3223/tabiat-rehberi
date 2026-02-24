@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Demirlik Dağı","caption":"Demirlik Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MOKM41.jpg/960px-MOKM41.jpg","alt":"Demirlik Dağı","caption":"Demirlik Dağı","credit":"MOKM41","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirlik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526039","tip":"genel"}]
 description: "Kütahya'da bulunan Demirlik Dağı, 1200 metre yüksekliğiyle bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Demirlik Dağı","Kütahya","Dağ","Doğa","Turizm","Kütahya gezilecek yerler","Demirlik Dağı yüksekliği","Kütahya dağları","Turistik alanlar"]

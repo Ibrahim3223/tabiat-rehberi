@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","tarihi kalıntıları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Sevitali Tepesi","caption":"Sevitali Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Sevitali Tepesi","caption":"Sevitali Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sevitali%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386300","tip":"genel"}]
 description: "Hatay'ın doğal güzelliklerinden biri olan Sevitali Tepesi, ziyaretçiler için keyifli bir gezi deneyimi sunar."
 keywords: ["Sevitali Tepesi","Hatay","Akdeniz Bölgesi","doğal güzellik","gezi","tepe"]

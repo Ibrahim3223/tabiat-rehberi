@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Izmir-Manisa-Saruhanli Karacam","caption":"Izmir-Manisa-Saruhanli Karacam","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Izmir-Manisa-Saruhanli Karacam","caption":"Izmir-Manisa-Saruhanli Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Manisa-Saruhanli%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227948","tip":"genel"}]
 description: "İzmir, Manisa ve Saruhanlı'nın birleştiği noktada bulunan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["milli park","İzmir","Manisa","Saruhanlı","yeşil alan","futbol sahası"]

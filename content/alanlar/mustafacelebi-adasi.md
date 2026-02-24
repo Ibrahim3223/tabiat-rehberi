@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/View_to_chios_island_10_-_panoramio.jpg/960px-View_to_chios_island_10_-_panoramio.jpg","alt":"Mustafaçelebi Adası","caption":"Mustafaçelebi Adası","credit":"View to chios island 10 - panoramio","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%28Recto%29_The_southern_part_of_Mulah_Bay_%28Vourla-_Urla_Bay%29%2C_near_Smyrna_%28Izmir%29%2C_Turkey_%28continued_from_PAI0874%29%3B_%28Verso%29_Port_Mandri%2C_Greece%2C_2_October_1852_RMG_PZ0875-001.tiff/lossy-page1-800px-thumbnail.tiff.jpg","alt":"Mustafaçelebi Adası","caption":"Mustafaçelebi Adası","credit":"(Recto) The southern part of Mulah Bay (Vourla- Urla Bay), near Smyrna (Izmir), Turkey (continued from PAI0874); (Verso) Port Mandri, Greece, 2 October 1852 RMG PZ0875-001","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustafa%C3%A7elebi%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49660952","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Mustafaçelebi Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Mustafaçelebi Adası","İzmir Adaları","Ege Denizi","Turizm","Doğa","Tarih","Gezi","Seyahat","İzmir"]

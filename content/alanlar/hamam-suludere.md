@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Kumsal yürüyüşü","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg","alt":"Hamam, Suludere","caption":"Hamam, Suludere","credit":"Süzer Sun Dreams Beach 8 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg","alt":"Hamam, Suludere","caption":"Hamam, Suludere","credit":"Piri Reis - Map of the Island of Cos Off the Anatolian Coast - Walters W65895A - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20Suludere","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245835","tip":"genel"}]
 description: "İzmir'in gizli cenneti, Hamam, Suludere plajı, Ege'nin en güzel kıyılarında yer alıyor."
 keywords: ["Ege Bölgesi","İzmir","Kiraz","Suludere","Hamam","plaj","deniz","kumsal"]

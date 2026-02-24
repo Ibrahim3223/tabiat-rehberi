@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Reşkini Mağarası","caption":"Reşkini Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Quarterly_journal_of_the_Geological_Society_of_London_%281904%29_%2814762074146%29.jpg/960px-The_Quarterly_journal_of_the_Geological_Society_of_London_%281904%29_%2814762074146%29.jpg","alt":"Reşkini Mağarası","caption":"Reşkini Mağarası","credit":"The Quarterly journal of the Geological Society of London (1904) (14762074146)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Re%C5%9Fkini%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319714","tip":"genel"}]
 description: "Batman'da yer alan Reşkini Mağarası, 1200 hektarlık bir jeopark alanı sunar. Doğal güzellikleri keşfedin!"
 keywords: ["Reşkini Mağarası","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Doğa","Batman Turistik Yerler"]

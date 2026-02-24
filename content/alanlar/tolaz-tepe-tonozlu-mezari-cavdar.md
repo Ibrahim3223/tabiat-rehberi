@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Arkeolojik araştırma","Doğa yürüyüşü","Fotoğraf çekimi","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Tolaz Tepe Tonozlu Mezarı, Çavdar","caption":"Tolaz Tepe Tonozlu Mezarı, Çavdar","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff/lossy-page1-900px-A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff.jpg","alt":"Tolaz Tepe Tonozlu Mezarı, Çavdar","caption":"Tolaz Tepe Tonozlu Mezarı, Çavdar","credit":"A Ship Wrecked in a Storm off a Rocky Coast RMG BHC0883","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tolaz%20Tepe%20Tonozlu%20Mezar%C4%B1%2C%20%C3%87avdar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728119","tip":"genel"}]
 description: "Aydın'ın Söke ilçesinde yer alan Tolaz Tepe Tonozlu Mezarı, Çavdar Plajı'na yakın bir konumda bulunmaktadır."
 keywords: ["Tolaz Tepe","Tonozlu Mezar","Çavdar Plajı","Söke","Aydın","Ege Bölgesi","Arkeolojik Alan","Tarihi Yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Müşkene Dağı","caption":"Müşkene Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Avc%C4%B1lar_05_04_1999_Erciyes_Da%C4%9F%C4%B1.jpg/960px-Avc%C4%B1lar_05_04_1999_Erciyes_Da%C4%9F%C4%B1.jpg","alt":"Müşkene Dağı","caption":"Müşkene Dağı","credit":"Avcılar 05 04 1999 Erciyes Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%BC%C5%9Fkene%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34884563","tip":"genel"}]
 description: "Gümüşhane'de yer alan Müşkene Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Müşkene Dağı","Gümüşhane","Dağ","Doğa","Trekking","Gümüşhane Gezi","Müşkene Dağı Trekking","Doğal Güzellikler","Gümüşhane Turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","tarihçe keşfi","flora ve fauna gözlemi","yerel lezzetler tadımı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Feridun Ahmet Paşa Türbesi","caption":"Feridun Ahmet Paşa Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Feridun Ahmet Paşa Türbesi","caption":"Feridun Ahmet Paşa Türbesi","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Feridun%20Ahmet%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391054","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Feridun Ahmet Paşa Türbesi, Marmara Bölgesi'nde yer alır."
 keywords: ["Feridun Ahmet Paşa Türbesi","Eyüpsultan","İstanbul","Marmara Bölgesi","tarihi mekan","tarihçe","coğrafya","flora","fauna","ziyaret"]

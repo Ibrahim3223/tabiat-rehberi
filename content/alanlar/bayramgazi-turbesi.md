@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarih incelemesi","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Bayramgazi Türbesi","caption":"Bayramgazi Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_beaches-_Sea_of_Marmara_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_02.jpg","alt":"Bayramgazi Türbesi","caption":"Bayramgazi Türbesi","credit":"Istanbul beaches- Sea of Marmara 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bayramgazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391829","tip":"genel"}]
 description: "Kastamonu'nun Bozkurt ilçesinde yer alan Bayramgazi Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Bayramgazi Türbesi","Kastamonu","Bozkurt","Karadeniz Bölgesi","tarihi mekan","doğal güzellik","tarihçe","coğrafya","flora","fauna"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Isparta-Sutculer-Sogutdagi Kızılçam","caption":"Isparta-Sutculer-Sogutdagi Kızılçam","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Isparta-Sutculer-Sogutdagi Kızılçam","caption":"Isparta-Sutculer-Sogutdagi Kızılçam","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Sutculer-Sogutdagi%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227422","tip":"genel"}]
 description: "Isparta'nın Sutculer ilçesinde bulunan Söğüt Dağı Kızılçam Milli Parkı, 140 hektarlık bir alanı kaplıyor. Doğal güzellikleri ve zengin ekosistemiyle ziyaretçilerini çekiyor."
 keywords: ["Isparta","Sutculer","Söğüt Dağı","Kızılçam","Milli Park","doğa","ekosistem","turizm"]

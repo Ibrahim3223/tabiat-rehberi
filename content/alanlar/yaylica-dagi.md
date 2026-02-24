@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Yaylıca Dağı","caption":"Yaylıca Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg/960px-Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg","alt":"Yaylıca Dağı","caption":"Yaylıca Dağı","credit":"Emir Dağları 25 09 2013 Landschaft","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yayl%C4%B1ca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502934","tip":"genel"}]
 description: "Şırnak'ta yer alan Yaylıca Dağı, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Yaylıca Dağı","Şırnak","Dağ","Doğa","Trekking","Coğrafi Oluşum","Turizm","Gezi","Şırnak Turistik Yerler"]

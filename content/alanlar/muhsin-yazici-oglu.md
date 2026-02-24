@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Bisiklet Turu","Çevre Gezisi","Doğa Fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"MUHSIN YAZICI OGLU","caption":"MUHSIN YAZICI OGLU","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg","alt":"MUHSIN YAZICI OGLU","caption":"MUHSIN YAZICI OGLU","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/MUHSIN%20YAZICI%20OGLU","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228648","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşil cenneti, Muhsin Yazıcıoğlu Milli Parkı"
 keywords: ["Milli Park","İç Anadolu Bölgesi","Doğa","Yeşil Alan","Turizm","Doğa Sporları","Çevre","Korunan Alan"]

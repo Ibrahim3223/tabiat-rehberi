@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","Tarihi kalıntıları gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kırklarçalı Tepesi","caption":"Kırklarçalı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Kırklarçalı Tepesi","caption":"Kırklarçalı Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rklar%C3%A7al%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211229","tip":"genel"}]
 description: "Yozgat'ın gizli güzelliği, 140 hektarlık alanıyla doğa severlerin cenneti"
 keywords: ["Kırklarçalı Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

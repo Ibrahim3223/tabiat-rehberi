@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Fotoğraf çekimi","Tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Kınalıada Hamam Kalıntısı","caption":"Kınalıada Hamam Kalıntısı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_12.jpg","alt":"Kınalıada Hamam Kalıntısı","caption":"Kınalıada Hamam Kalıntısı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1nal%C4%B1ada%20Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739151","tip":"genel"}]
 description: "İstanbul'un Adalar ilçesindeki Kınalıada'da bulunan tarihi hamam kalıntısı hakkında bilgi"
 keywords: ["Kınalıada","Hamam Kalıntısı","İstanbul","Adalar","Tarih","Arkeoloji","Doğa","Gezi"]

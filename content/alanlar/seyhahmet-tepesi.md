@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Şeyhahmet Tepesi","caption":"Şeyhahmet Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Şeyhahmet Tepesi","caption":"Şeyhahmet Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhahmet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552358","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin. Şeyhahmet Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli bir turizm noktası."
 keywords: ["Mardin","Şeyhahmet Tepesi","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]

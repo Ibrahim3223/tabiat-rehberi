@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Ömer Tepesi","caption":"Ömer Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Ömer Tepesi","caption":"Ömer Tepesi","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96mer%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829750","tip":"genel"}]
 description: "Sinop'un gözde doğal güzelliklerinden biri olan Ömer Tepesi, yeşilin her tonunu barındıran bir doğa harikasıdır."
 keywords: ["Ömer Tepesi","Sinop","Karadeniz Bölgesi","doğa","gezi","türkiye"]

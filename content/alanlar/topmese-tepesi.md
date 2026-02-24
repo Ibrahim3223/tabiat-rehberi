@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Tarih araştırması"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Topmeşe Tepesi","caption":"Topmeşe Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Topmeşe Tepesi","caption":"Topmeşe Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topme%C5%9Fe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386937","tip":"genel"}]
 description: "Tekirdağ'ın gözde noktalarından biri olan Topmeşe Tepesi, Marmara Bölgesi'nin güzide yerlerinden"
 keywords: ["Tekirdağ","Marmara Bölgesi","Topmeşe Tepesi","doğa","gezi","tarihçe","coğrafya"]

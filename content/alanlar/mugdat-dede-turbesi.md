@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarihî eserleri keşfetmek","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Muğdat Dede Türbesi","caption":"Muğdat Dede Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Muğdat Dede Türbesi","caption":"Muğdat Dede Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mu%C4%9Fdat%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391722","tip":"genel"}]
 description: "Mersin'in Yenişehir ilçesinde bulunan tarihi ve doğal güzelliği bir araya getiren Muğdat Dede Türbesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Muğdat Dede Türbesi","Mersin","Yenişehir","tarihi mekan","doğa","turizm","gezi","tarihçe","coğrafya"]

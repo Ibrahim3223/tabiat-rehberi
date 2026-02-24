@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kayışkıran Tepe","caption":"Kayışkıran Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/East_room%2C_second_floor._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-19.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kayışkıran Tepe","caption":"Kayışkıran Tepe","credit":"East room, second floor. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kay%C4%B1%C5%9Fk%C4%B1ran%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388972","tip":"genel"}]
 description: "Erzurum'un doğal güzellikleri arasında yer alan Kayışkıran Tepe, doğa severlerin ziyaret ettiği bir nokta"
 keywords: ["Kayışkıran Tepe","Erzurum","doğa","gezi","tepe","Doğu Anadolu Bölgesi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Sığık Dağı","caption":"Sığık Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Sığık Dağı","caption":"Sığık Dağı","credit":"Sis dağı (3)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1%C4%9F%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506643","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerinden biri olan Sığık Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Sığık Dağı","Türkiye","Dağ","Doğa","Yeşil Alan","İstanbul","Turizm","Seyahat","Gezi"]

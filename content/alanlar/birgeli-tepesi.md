@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Birgeli Tepesi","caption":"Birgeli Tepesi","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Birgeli Tepesi","caption":"Birgeli Tepesi","credit":"Vihorlat (v zime) 046","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Birgeli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554882","tip":"genel"}]
 description: "Batman'da bulunan Birgeli Tepesi, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri. Doğal güzelliği ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Birgeli Tepesi","Batman","Dağ","Doğa","Trekking","Turizm","Gezi","Batman Turistik Yerler","Doğal Alanlar"]

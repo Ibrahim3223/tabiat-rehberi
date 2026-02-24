@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Deniz kıyısında dinlenme","Bölgeyi keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Terzi Ahmet Dede Türbesi","caption":"Terzi Ahmet Dede Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_08.jpg","alt":"Terzi Ahmet Dede Türbesi","caption":"Terzi Ahmet Dede Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Terzi%20Ahmet%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390921","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan tarihi bir türbe ve plajı"
 keywords: ["Terzi Ahmet Dede Türbesi","Manisa","Şehzadeler","Türbe","Plaj","Ege Bölgesi","Tarihi mekanlar","Deniz kıyısı"]

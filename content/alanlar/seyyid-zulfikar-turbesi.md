@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["turbe ziyaret","plaj activities","doğa yürüyüşü","bitki ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Seyyid Zülfikar Türbesi","caption":"Seyyid Zülfikar Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bart%C4%B1n_G%C3%BCzelcehisar.jpg/960px-Bart%C4%B1n_G%C3%BCzelcehisar.jpg","alt":"Seyyid Zülfikar Türbesi","caption":"Seyyid Zülfikar Türbesi","credit":"Bartın Güzelcehisar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Z%C3%BClfikar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134734800","tip":"genel"}]
 description: "Kastamonu'nun Seydiler ilçesinde yer alan tarihi bir turbe ve plaj"
 keywords: ["Seyyid Zülfikar Türbesi","Kastamonu","Seydiler","Karadeniz Bölgesi","tarihi turbe","plaj","Kastamonu turizm","Seydiler turizm","Karadeniz turizm"]

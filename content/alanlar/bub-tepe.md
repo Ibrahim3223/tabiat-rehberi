@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Bub Tepe","caption":"Bub Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/East_elevation._View_looking_northwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-6.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Bub Tepe","caption":"Bub Tepe","credit":"East elevation. View looking northwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-6","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bub%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386821","tip":"genel"}]
 description: "Batman'da bulunan tarihi tepe, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri"
 keywords: ["Bub Tepe","Batman","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","flora","fauna","ziyaret","gezi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kayak","dağcılık","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"HAKKARİ CİLO SAT BUZULLARI","caption":"HAKKARİ CİLO SAT BUZULLARI","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MOKFC01.jpg/960px-MOKFC01.jpg","alt":"HAKKARİ CİLO SAT BUZULLARI","caption":"HAKKARİ CİLO SAT BUZULLARI","credit":"MOKFC01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HAKKAR%C4%B0%20C%C4%B0LO%20SAT%20BUZULLARI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228923","tip":"genel"}]
 description: "Türkiye'nin eşsiz doğa güzelliklerinden biri olan Hakkâri Cilo Sat Buzulları, ziyaretçilerini büyülleyen bir destinasyon."
 keywords: ["Hakkâri","Cilo Sat Buzulları","doğa","buzullar","gezi","turizm","Türkiye","dağcılık","kış sporları"]

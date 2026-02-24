@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["Tarihî yapıları gezmek","Doğa yürüyüşü yapmak","Fotograf çekmek","Picnic yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Himmet Dede Kümbeti","caption":"Himmet Dede Kümbeti","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ba%C4%9Flar_Burnu.jpg/960px-Ba%C4%9Flar_Burnu.jpg","alt":"Himmet Dede Kümbeti","caption":"Himmet Dede Kümbeti","credit":"Bağlar Burnu","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Himmet%20Dede%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582412","tip":"genel"}]
 description: "Eskişehir'in Seyitgazi ilçesinde bulunan Himmet Dede Kümbeti, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Himmet Dede Kümbeti","Seyitgazi","Eskişehir","tarih","doğa","gezi","turizm","kültür","miras"]

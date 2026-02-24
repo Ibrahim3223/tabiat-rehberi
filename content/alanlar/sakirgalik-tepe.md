@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","gözlem","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sakırgalık Tepe","caption":"Sakırgalık Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Sakırgalık Tepe","caption":"Sakırgalık Tepe","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sak%C4%B1rgal%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386972","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan Sakırgalık Tepe, Bilecik'te yer alır."
 keywords: ["Sakırgalık Tepe","Bilecik","Marmara Bölgesi","doğal güzellik","tepe","coğrafya"]

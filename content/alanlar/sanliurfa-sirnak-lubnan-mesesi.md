@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%B6bekli_Tepe_-_landscape.jpg/960px-G%C3%B6bekli_Tepe_-_landscape.jpg","alt":"Sanliurfa-Sirnak-Lubnan Mesesi","caption":"Sanliurfa-Sirnak-Lubnan Mesesi","credit":"Göbekli Tepe - landscape.jpg","license":"CC BY 3.0 pl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Sanliurfa-Sirnak-Lubnan Mesesi","caption":"Sanliurfa-Sirnak-Lubnan Mesesi","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sanliurfa-Sirnak-Lubnan%20Mesesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228581","tip":"genel"}]
 description: "Şanlıurfa'nın doğal güzellikleri arasında yer alan Sanliurfa-Sirnak-Lubnan Mesesi, ziyaretçilerini büyüleyici bir doğa ile karşılar."
 keywords: ["Şanlıurfa","Sanliurfa-Sirnak-Lubnan Mesesi","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","milli park","çevre"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","plaj gezisi","su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Olympos Vespasianus Hamamı","caption":"Olympos Vespasianus Hamamı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kabak_Valley%2C_Turkey.JPG/960px-Kabak_Valley%2C_Turkey.JPG","alt":"Olympos Vespasianus Hamamı","caption":"Olympos Vespasianus Hamamı","credit":"Kabak Valley, Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Olympos%20Vespasianus%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738777","tip":"genel"}]
 description: "Antalya'nın Kumluca ilçesinde yer alan Olympos Vespasianus Hamamı, tarihi ve doğal güzelliği ile ziyaretçilerini büyülüyor."
 keywords: ["Olympos","Vespasianus Hamamı","Kumluca","Antalya","tarihi yerler","doğal güzellikler","plajlar","gezi rehberi"]

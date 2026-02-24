@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Tarihi geçmişi hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Bin Tepeler Tümülüsü 11","caption":"Bin Tepeler Tümülüsü 11","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg","alt":"Bin Tepeler Tümülüsü 11","caption":"Bin Tepeler Tümülüsü 11","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2011","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728368","tip":"genel"}]
 description: "Ege Bölgesi'nin en önemli tarihi ve doğal güzelliklerinden biri olan Bin Tepeler Tümülüsü 11, Salihli/Manisa'da yer alıyor."
 keywords: ["Bin Tepeler Tümülüsü 11","Salihli","Manisa","Ege Bölgesi","tarihi mekanlar","doğa turizmi","tümülüsler","arkeolojik siteler","gezi rehberi"]

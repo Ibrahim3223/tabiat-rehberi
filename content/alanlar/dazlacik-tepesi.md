@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","trekking","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Dazlacık Tepesi","caption":"Dazlacık Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Dazlacık Tepesi","caption":"Dazlacık Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dazlac%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388185","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerinden biri olan Dazlacık Tepesi, Ege Bölgesi'nde yer alır."
 keywords: ["Dazlacık Tepesi","Denizli","Ege Bölgesi","doğa","tepe","gezi","turizm"]

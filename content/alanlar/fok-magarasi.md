@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Fok Mağarası","caption":"Fok Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jeju_Island.jpg/960px-Jeju_Island.jpg","alt":"Fok Mağarası","caption":"Fok Mağarası","credit":"Jeju Island","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fok%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319162","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Fok Mağarası, jeolojik oluşumlarıyla dikkat çeker."
 keywords: ["Fok Mağarası","Jeopark","Türkiye","Doğal Alanlar","Mağaralar","Jeolojik Oluşumlar","Turizm","Gezi Rehberi","Doğa"]

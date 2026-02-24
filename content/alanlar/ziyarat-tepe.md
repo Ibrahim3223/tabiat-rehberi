@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["manzara izleme","tarih hakkında bilgi edinme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Ziyarat Tepe","caption":"Ziyarat Tepe","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Ziyarat Tepe","caption":"Ziyarat Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyarat%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386743","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerinin buluştuğu Ziyarat Tepe, ziyaretçilerini bekliyor."
 keywords: ["Ziyarat Tepe","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

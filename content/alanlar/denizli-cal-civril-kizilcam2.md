@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Denizli-Cal-Civril-Kizilcam2","caption":"Denizli-Cal-Civril-Kizilcam2","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"Denizli-Cal-Civril-Kizilcam2","caption":"Denizli-Cal-Civril-Kizilcam2","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cal-Civril-Kizilcam2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228527","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin. Denizli'de yer alan bu milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Denizli","Ege Bölgesi","Milli Park","Doğa","Güneybatı Anadolu"]

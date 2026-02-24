@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih turu","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Hasandede Dağı","caption":"Hasandede Dağı","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Hasandede Dağı","caption":"Hasandede Dağı","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasandede%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385761","tip":"genel"}]
 description: "Yozgat'ın doğal güzelliklerinden biri olan Hasandede Dağı, ziyaretçilerini bekliyor."
 keywords: ["Hasandede Dağı","Yozgat","doğa","gezi","tarih","coğrafya","flora","fauna","ziyaret"]

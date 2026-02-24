@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["anıt mezarı gezisi","tarihi ve kültürel mekanları gezme","doğal güzelliği deneyimleme","kuşları izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Ahmed Şefik Midhat Paşa Anıt Mezarı","caption":"Ahmed Şefik Midhat Paşa Anıt Mezarı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg","alt":"Ahmed Şefik Midhat Paşa Anıt Mezarı","caption":"Ahmed Şefik Midhat Paşa Anıt Mezarı","credit":"2023-11-04 Choban beach near Kaş 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahmed%20%C5%9Eefik%20Midhat%20Pa%C5%9Fa%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728107","tip":"genel"}]
 description: "İstanbul'un Şişli ilçesinde yer alan Ahmed Şefik Midhat Paşa Anıt Mezarı, tarihi ve kültürel önemi ile dikkat çekiyor."
 keywords: ["Ahmed Şefik Midhat Paşa","Anıt Mezarı","Şişli","İstanbul","Marmara Bölgesi","tarihi mekan","anıt","mezar","kültürel miras"]

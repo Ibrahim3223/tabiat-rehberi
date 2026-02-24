@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Tuhupe Mağarası","caption":"Tuhupe Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sugar_Creek_Turkey_Run_SP%2C_IN_1.jpg/960px-Sugar_Creek_Turkey_Run_SP%2C_IN_1.jpg","alt":"Tuhupe Mağarası","caption":"Tuhupe Mağarası","credit":"Sugar Creek Turkey Run SP, IN 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tuhupe%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319864","tip":"genel"}]
 description: "Batman'da yer alan Tuhupe Mağarası, jeolojik oluşumlarıyla dikkat çeker. Doğal güzelliği ve tarihi önemiyle ziyaretçilerini bekliyor."
 keywords: ["Tuhupe Mağarası","Batman","Jeopark","Doğal Alanlar","Mağara Gezileri","Jeolojik Oluşumlar","Turistik Yerler","Batman Turizm","Doğa Harikaları"]

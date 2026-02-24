@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","arkeoloji turu","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Sadyattes II Tümülüsü","caption":"Sadyattes II Tümülüsü","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mount_Dyunag_and_Karadouran_beach%2C_Kessab%2C_Syria.jpg/960px-Mount_Dyunag_and_Karadouran_beach%2C_Kessab%2C_Syria.jpg","alt":"Sadyattes II Tümülüsü","caption":"Sadyattes II Tümülüsü","credit":"Mount Dyunag and Karadouran beach, Kessab, Syria","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sadyattes%20II%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728364","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi zenginliklerini keşfedin. Salihli, Manisa'da bulunan Sadyattes II Tümülüsü, antik Lidya Krallığı'nın önemli bir bölümüdür."
 keywords: ["Lidya Krallığı","Sadyattes II","Manisa","Salihli","tarih","arkeoloji","Ege Bölgesi","tümülüs","antik dönem"]

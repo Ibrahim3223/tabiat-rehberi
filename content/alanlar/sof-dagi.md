@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Sof Dağı","caption":"Sof Dağı","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KackarDagi_fromNorth_hory.jpg/960px-KackarDagi_fromNorth_hory.jpg","alt":"Sof Dağı","caption":"Sof Dağı","credit":"KackarDagi fromNorth hory","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sof%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506218","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerinden biri olan Sof Dağı, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Sof Dağı","Gaziantep","Doğa","Dağ","Yeşil Alan","Turizm","Gaziantep Turistik Yerler","Sof Dağı Gaziantep","Doğa Sporları"]

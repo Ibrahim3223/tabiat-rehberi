@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hamamın tarihi değerini öğrenmek","Bahçesinde dinlenmek","Çevresindeki dükkanları ve restoranları ziyaret etmek","Etkinli ve festivallere katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Kutb İbrahim Efendi Hamamı","caption":"Kutb İbrahim Efendi Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/A_beach_near_Phaselis_2021-02-26-3.jpg/960px-A_beach_near_Phaselis_2021-02-26-3.jpg","alt":"Kutb İbrahim Efendi Hamamı","caption":"Kutb İbrahim Efendi Hamamı","credit":"A beach near Phaselis 2021-02-26-3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutb%20%C4%B0brahim%20Efendi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738616","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Kutb İbrahim Efendi Hamamı, Beyoğlu'nda bulunan önemli bir kültürel miras."
 keywords: ["Kutb İbrahim Efendi Hamamı","Beyoğlu","İstanbul","tarihi hamam","kültürel miras","Marmara Bölgesi","gezi","tarih","mimari"]

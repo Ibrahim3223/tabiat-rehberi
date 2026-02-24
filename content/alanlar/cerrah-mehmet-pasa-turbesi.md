@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Yeşil alanlarda dinlenmek","Çevredeki diğer kültürel varlıkları ziyaret etmek","Fotografi çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Cerrah Mehmet Paşa Türbesi","caption":"Cerrah Mehmet Paşa Türbesi","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_02.jpg","alt":"Cerrah Mehmet Paşa Türbesi","caption":"Cerrah Mehmet Paşa Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cerrah%20Mehmet%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391045","tip":"genel"}]
 description: "Fatih'te bulunan tarihi türbe ve çevresi"
 keywords: ["Cerrah Mehmet Paşa","Türbe","Fatih","İstanbul","Marmara Bölgesi","Tarih","Mimari","Kültür"]

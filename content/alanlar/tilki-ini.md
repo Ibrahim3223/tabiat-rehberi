@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Tilki İni","caption":"Tilki İni","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cilician_Armenia-en.svg/960px-Cilician_Armenia-en.svg.png","alt":"Tilki İni","caption":"Tilki İni","credit":"Cilician Armenia-en","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tilki%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319857","tip":"genel"}]
 description: "Mersin'de yer alan Tilki İni, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Jeopark olarak bilinen bu bölge, doğal güzelliği ve zengin jeolojik yapısı ile ziyaretçilerini bekliyor."
 keywords: ["Tilki İni","Mersin","Jeopark","Doğal Alan","Yeşil Alan","Jeolojik Yapı","Turizm","Mersin Turistik Yerler","Doğa Harikaları"]

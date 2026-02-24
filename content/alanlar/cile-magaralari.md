@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Çile Mağaraları","caption":"Çile Mağaraları","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Geological_formation_near_Karalar.jpg/960px-Geological_formation_near_Karalar.jpg","alt":"Çile Mağaraları","caption":"Çile Mağaraları","credit":"Geological formation near Karalar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ile%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319914","tip":"genel"}]
 description: "Mardin'de bulunan Çile Mağaraları, jeolojik oluşumlarıyla dikkat çeken bir jeopark alanıdır."
 keywords: ["Çile Mağaraları","Mardin","Jeopark","Doğal Alanlar","Turizm","Mardin Turistik Yerler","Jeolojik Oluşumlar","Mağara Gezileri","Doğa Turizmi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Alizahonunağıl Tepesi","caption":"Alizahonunağıl Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Alizahonunağıl Tepesi","caption":"Alizahonunağıl Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alizahonuna%C4%9F%C4%B1l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386055","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin. Alizahonunağıl Tepesi, İç Anadolu Bölgesi'nin merkezinde yer alan bir tepe."
 keywords: ["Konya","İç Anadolu Bölgesi","tepe","doğa","gezi","keşif","turizm","coğrafya","flora","fauna"]

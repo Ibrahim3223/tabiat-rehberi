@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"Yalınca Dağı","caption":"Yalınca Dağı","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg/960px-Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg","alt":"Yalınca Dağı","caption":"Yalınca Dağı","credit":"Aladağlara Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yal%C4%B1nca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31587731","tip":"genel"}]
 description: "Antalya'da bulunan Yalınca Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Yalınca Dağı","Antalya","Dağ","Doğa","Turizm","Gezi","Yeşil Alan","Doğal Güzellik","Türkiye"]

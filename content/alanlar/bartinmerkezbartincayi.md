@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"BARTIN,MERKEZ,BARTINÇAYI","caption":"BARTIN,MERKEZ,BARTINÇAYI","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"BARTIN,MERKEZ,BARTINÇAYI","caption":"BARTIN,MERKEZ,BARTINÇAYI","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BARTIN%2CMERKEZ%2CBARTIN%C3%87AYI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228955","tip":"genel"}]
 description: "Bartın Merkez'de bulunan Bartınçayı, 140 hektarlık yeşil alanı ve yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
 keywords: ["Bartın","Merkez","Bartınçayı","doğa","yeşil alan","futbol sahası"]

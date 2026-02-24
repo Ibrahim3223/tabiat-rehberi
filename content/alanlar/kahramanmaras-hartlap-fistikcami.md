@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["yürüyüş","manzara izleme","balık tutma","çadır kurma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kahramanmaras-Hartlap Fistikcami","caption":"Kahramanmaras-Hartlap Fistikcami","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Kahramanmaras-Hartlap Fistikcami","caption":"Kahramanmaras-Hartlap Fistikcami","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Hartlap%20Fistikcami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227621","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Kahramanmaras-Hartlap Fistikcami milli parkı, ziyaretçilerini bekliyor."
 keywords: ["Kahramanmaras","Hartlap Fistikcami","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm"]

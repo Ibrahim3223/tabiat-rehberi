@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaret","Piknik","Doğa yürüyüşü","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Şeyh Mansur Simati Türbesi","caption":"Şeyh Mansur Simati Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_02.jpg","alt":"Şeyh Mansur Simati Türbesi","caption":"Şeyh Mansur Simati Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Mansur%20Simati%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390870","tip":"genel"}]
 description: "Kilis'in tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Kilis","Şeyh Mansur Simati","Türbe","Güneydoğu Anadolu Bölgesi","Tarih","Doğa","Kilis gezilecek yerler"]

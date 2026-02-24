@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Davnikaf Tepe","caption":"Davnikaf Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg/960px-Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg","alt":"Davnikaf Tepe","caption":"Davnikaf Tepe","credit":"Jebel Aqra (Kel Dağı, Mount Casius), 2008","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davnikaf%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555331","tip":"genel"}]
 description: "Batman'da yer alan Davnikaf Tepe, doğal güzellikleri ile dikkat çekiyor. 1200 hektarlık yeşil alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Davnikaf Tepe","Batman","Doğal Alan","Yeşil Alan","Dağ","Turizm","Doğa","Gezi","Seyahat"]

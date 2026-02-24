@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Göltepeleri","caption":"Göltepeleri","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_at_sunset%2C_December_2020.jpg/960px-A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_at_sunset%2C_December_2020.jpg","alt":"Göltepeleri","caption":"Göltepeleri","credit":"Ağrı Dağı at sunset, December 2020","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6ltepeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872476","tip":"genel"}]
 description: "Erzincan'da bulunan Göltepeleri, 1200 hektarlık bir yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Göltepeleri","Erzincan","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Coğrafya"]

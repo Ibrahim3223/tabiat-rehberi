@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Tarihî araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Körsüleyman Tepesi","caption":"Körsüleyman Tepesi","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ida_Flooding_%2823%29.jpg/960px-Ida_Flooding_%2823%29.jpg","alt":"Körsüleyman Tepesi","caption":"Körsüleyman Tepesi","credit":"Ida Flooding (23)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6rs%C3%BCleyman%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210339","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin. Körsüleyman Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Körsüleyman Tepesi","Kayseri","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya","flora","fauna"]

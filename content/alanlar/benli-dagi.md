@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Benli Dağı","caption":"Benli Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Conquering_the_Mountain_Nemrut.jpg/960px-Conquering_the_Mountain_Nemrut.jpg","alt":"Benli Dağı","caption":"Benli Dağı","credit":"Conquering the Mountain Nemrut","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Benli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31570873","tip":"genel"}]
 description: "Bolu'nun doğal güzelliklerini keşfedin, 1200 hektarlık Benli Dağı'nda doğa yürüyüşü ve kamp yapın"
 keywords: ["Benli Dağı","Bolu","Doğa Yürüyüşü","Kamp Alanı","Dağcılık","Turizm","Gezi Rehberi","Bolu Gezilecek Yerler","Doğal Alanlar"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Eldivan Dağı","caption":"Eldivan Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PeakUludag.jpg/960px-PeakUludag.jpg","alt":"Eldivan Dağı","caption":"Eldivan Dağı","credit":"PeakUludag","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eldivan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568349","tip":"genel"}]
 description: "Çankırı'nın önemli coğrafi oluşumlarından biri olan Eldivan Dağı, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Eldivan Dağı","Çankırı","Dağ","Doğa","Yeşil Alan","Coğrafi Oluşum","Turizm","Gezi","Çevre"]

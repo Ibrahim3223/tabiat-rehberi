@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Kulu_15_09_1983_D%C3%BCden_G%C3%B6l%C3%BC.jpg","alt":"Boz Dağ (Muğla) manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Boz Dağ","caption":"Boz Dağ","credit":"Sis dağı (3)","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/50/Chindjovo_006_original.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chindjovo_006_original.jpg/1280px-Chindjovo_006_original.jpg","alt":"Boz Dağ (Muğla) - Chindjovo 006 original","credit":"User:Chech Explorer","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boz%20Da%C4%9F%20(Mu%C4%9Fla)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31580670","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin. 1200 hektarlık Boz Dağ, doğa severler için bir cennet."

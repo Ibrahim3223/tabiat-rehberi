@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Dinî ziyaret","Doğa yürüyüşü","Yerel kültürü öğrenme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Şem’un Nebi Türbesi","caption":"Şem’un Nebi Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg","alt":"Şem’un Nebi Türbesi","caption":"Şem’un Nebi Türbesi","credit":"2023-11-04 Choban beach near Kaş 5","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eem%E2%80%99un%20Nebi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390872","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Kilis ilinin doğal güzelliklerini keşfedin. Şem’un Nebi Türbesi, tarihi ve doğal zenginlikler sunuyor."
 keywords: ["Şem’un Nebi Türbesi","Kilis","Güneydoğu Anadolu Bölgesi","doğal güzellikler","tarihi yerler","türk kültürü","dinî mekânlar","gezi rehberi","turizm"]

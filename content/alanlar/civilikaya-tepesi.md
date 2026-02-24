@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Coğrafi oluşumları incelemek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çivilikaya Tepesi","caption":"Çivilikaya Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Çivilikaya Tepesi","caption":"Çivilikaya Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ivilikaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829340","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri olan Çivilikaya Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Doğu Anadolu Bölgesi","Erzurum","çivilikaya tepe","coğrafi oluşum","doğal güzellik","tepe","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Toptaşı Tepesi","caption":"Toptaşı Tepesi","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/960px-Adams_The_Tetons_and_the_Snake_River.jpg","alt":"Toptaşı Tepesi","caption":"Toptaşı Tepesi","credit":"Adams The Tetons and the Snake River","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504361","tip":"genel"}]
 description: "Sivas'ta bulunan Toptaşı Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon"
 keywords: ["Toptaşı Tepesi","Sivas","Dağ","Doğa","Türkiye","Sivas Turizm","Toptaşı Tepesi hakkında","Sivas gezilecek yerler","Doğa yürüyüşü"]

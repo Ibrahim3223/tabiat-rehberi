@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Dini etkinlikler","Kültürel geziler","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ahi Fahreddin Türbesi","caption":"Ahi Fahreddin Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mediterranean_Sea%28Alanya%29%D0%BC%D1%8B%D1%81_%D0%94%D0%B6%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B4%D0%B0_-_panoramio_%281%29.jpg/960px-Mediterranean_Sea%28Alanya%29%D0%BC%D1%8B%D1%81_%D0%94%D0%B6%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B4%D0%B0_-_panoramio_%281%29.jpg","alt":"Ahi Fahreddin Türbesi","caption":"Ahi Fahreddin Türbesi","credit":"Mediterranean Sea(Alanya)мыс Джильварда - panoramio (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20Fahreddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391711","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfedin. Ahi Fahreddin Türbesi, Yakutiye, Erzurum'un önemli dini ve tarihi mekanlarından biridir."
 keywords: ["Ahi Fahreddin Türbesi","Yakutiye","Erzurum","Doğu Anadolu Bölgesi","tarihi mekanlar","dini mekanlar","kültürel zenginlikler"]

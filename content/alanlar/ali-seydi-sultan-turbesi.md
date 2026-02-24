@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ali Seydi Sultan Türbesi","caption":"Ali Seydi Sultan Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dalyanbal%C4%B1ktuzak.jpg/960px-Dalyanbal%C4%B1ktuzak.jpg","alt":"Ali Seydi Sultan Türbesi","caption":"Ali Seydi Sultan Türbesi","credit":"Dalyanbalıktuzak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ali%20Seydi%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391673","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide illerinden Malatya'da bulunan Ali Seydi Sultan Türbesi, tarih ve doğanın iç içe geçtiği bir mekan."
 keywords: ["Ali Seydi Sultan Türbesi","Malatya","Doğu Anadolu Bölgesi","tarih","doğa","türbe","gezi","turizm"]

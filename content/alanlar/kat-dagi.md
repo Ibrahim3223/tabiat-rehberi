@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kat Dağı","caption":"Kat Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg/960px-Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg","alt":"Kat Dağı","caption":"Kat Dağı","credit":"Tahtal Dağı 06 02 2013 Gipfel mit Bey Dağları","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kat%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31516538","tip":"genel"}]
 description: "Siirt'te bulunan Kat Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kat Dağı","Siirt","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Doğal Güzellik"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Paymalı Dağı","caption":"Paymalı Dağı","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg/960px-.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg","alt":"Paymalı Dağı","caption":"Paymalı Dağı","credit":".00 1627 Tuffsteinlandschaft von Göreme (Türkei)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Paymal%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31584633","tip":"genel"}]
 description: "Mersin'de yer alan Paymalı Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Paymalı Dağı","Mersin","Dağ","Doğa","Yeşil Alan","Türkiye","Gezi","Seyahat","Mersin Gezilecek Yerler"]

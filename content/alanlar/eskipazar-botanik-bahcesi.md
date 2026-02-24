@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","botanik araştırma","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"ESKİPAZAR (BOTANİK BAHÇESİ)","caption":"ESKİPAZAR (BOTANİK BAHÇESİ)","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"ESKİPAZAR (BOTANİK BAHÇESİ)","caption":"ESKİPAZAR (BOTANİK BAHÇESİ)","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ESK%C4%B0PAZAR%20(BOTAN%C4%B0K%20BAH%C3%87ES%C4%B0)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228619","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Eskipazar Botanik Bahçesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Eskipazar","Botanik Bahçesi","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna"]

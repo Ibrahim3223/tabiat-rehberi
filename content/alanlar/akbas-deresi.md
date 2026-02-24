@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Akbaş Deresi","caption":"Akbaş Deresi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/General_view_of_Fort_Hill_Farm%2C_view_looking_south-southeast._From_left_to_right%2C_buildings_visible_are_%28B%29_two-story_hall-and-parlor_house%3B_%28k%29_small_barn%3B_%28A%29_mansion%27_%28G%28_shed_HABS_VA%2C42-CLOV.V%2C2-1.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Akbaş Deresi","caption":"Akbaş Deresi","credit":"General view of Fort Hill Farm, view looking south-southeast. From left to right, buildings visible are (B) two-story hall-and-parlor house; (k) small barn; (A) mansion' (G( shed HABS VA,42-CLOV.V,2-1","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akba%C5%9F%20Deresi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387554","tip":"genel"}]
 description: "Çanakkale'nin güzide yerlerinden biri olan Akbaş Deresi, Marmara Bölgesi'nde yer alır."
 keywords: ["Akbaş Deresi","Çanakkale","Marmara Bölgesi","Doğa","Turizm","Gezi","Tarihçe","Coğrafya","Flora","Fauna"]

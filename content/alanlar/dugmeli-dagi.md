@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Düğmeli Dağı","caption":"Düğmeli Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg/960px-Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg","alt":"Düğmeli Dağı","caption":"Düğmeli Dağı","credit":"Antitaurus 06 04 1988 Pozantı Dağı bei Niğde","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BC%C4%9Fmeli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34914120","tip":"genel"}]
 description: "Yozgat'ta bulunan Düğmeli Dağı, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Düğmeli Dağı","Yozgat","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Yozgat Turizm"]

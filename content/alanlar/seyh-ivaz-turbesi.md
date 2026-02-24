@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Şeyh İvaz Türbesi","caption":"Şeyh İvaz Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Istanbul_beaches-_Sea_of_Marmara_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_09.jpg","alt":"Şeyh İvaz Türbesi","caption":"Şeyh İvaz Türbesi","credit":"Istanbul beaches- Sea of Marmara 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C4%B0vaz%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390670","tip":"genel"}]
 description: "Ankara'nın Beypazarı ilçesinde bulunan tarihi türbe ve plaj alanı"
 keywords: ["Şeyh İvaz Türbesi","Beypazarı","Ankara","İç Anadolu Bölgesi","tarih","plaj","turizm"]

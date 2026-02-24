@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","manzara izleme","fauna gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Serduviyan Tepesi","caption":"Serduviyan Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Serduviyan Tepesi","caption":"Serduviyan Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Serduviyan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31540358","tip":"genel"}]
 description: "Şırnak'ta yer alan Serduviyan Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri"
 keywords: ["Serduviyan Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","coğrafi oluşum","tepe","doğa","gezi"]

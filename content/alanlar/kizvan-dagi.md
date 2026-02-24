@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Kizvan Dağı","caption":"Kizvan Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg/960px-%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg","alt":"Kizvan Dağı","caption":"Kizvan Dağı","credit":"\"Lost\" lakes , near Meigs Peak, Col. Lakes 9,500 feet above sea-level - DPLA - a574e1d02197947f5bd63dffe370dd0d (page 1)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kizvan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513923","tip":"genel"}]
 description: "Bitlis'in Tatvan ilçesinde yer alan Kizvan Dağı, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Kizvan Dağı","Bitlis","Tatvan","Dağ","Doğa","Tatvan Dağları","Bitlis Turizm","Kizvan Dağı Trekking","Doğa Yürüyüşü"]

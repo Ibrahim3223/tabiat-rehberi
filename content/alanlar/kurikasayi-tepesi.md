@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kurikasayi Tepesi","caption":"Kurikasayi Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Kurikasayi Tepesi","caption":"Kurikasayi Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurikasayi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553824","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman'da bulunan Kurikasayi Tepesi, yaklaşık 140 hektarlık alanda yer alan bir tepe"
 keywords: ["Kurikasayi Tepesi","Batman","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

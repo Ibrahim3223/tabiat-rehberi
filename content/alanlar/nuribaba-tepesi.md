@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarihî araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Nuribaba Tepesi","caption":"Nuribaba Tepesi","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Nuribaba Tepesi","caption":"Nuribaba Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nuribaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509793","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerinden biri olan Nuribaba Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Nuribaba Tepesi","Muğla","Ege Bölgesi","doğa","turizm","gezi","tepe","manzara","çevre"]

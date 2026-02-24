@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Güdül Tepe","caption":"Güdül Tepe","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg/960px-%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Güdül Tepe","caption":"Güdül Tepe","credit":"\"yazı\"dan koçaş bağları ve hacıbaba dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCl%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872806","tip":"genel"}]
 description: "Gümüşhane'de bulunan Güdül Tepe, 1200 hektarlık yeşil cenneti ve doğa güzelliği ile dikkat çekiyor"
 keywords: ["Güdül Tepe","Gümüşhane","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Trekking","Doğa Yürüyüşü"]

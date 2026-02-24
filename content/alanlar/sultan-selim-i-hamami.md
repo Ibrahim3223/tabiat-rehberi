@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi hamam gezisi","doğal güzellik turu","fotograf çekimi","rehberlik hizmeti"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Sultan Selim (I) Hamamı","caption":"Sultan Selim (I) Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg","alt":"Sultan Selim (I) Hamamı","caption":"Sultan Selim (I) Hamamı","credit":"2023-11-04 Choban beach near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sultan%20Selim%20(I)%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739126","tip":"genel"}]
 description: "Marmara Bölgesi'nin kalbinde, Fatih/İstanbul'da bulunan Sultan Selim (I) Hamamı, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Sultan Selim (I) Hamamı","Fatih/İstanbul","Marmara Bölgesi","tarihi hamam","doğal güzellik","gezi","turizm","İstanbul","Fatih"]

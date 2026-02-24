@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara seyri","Doğa yürüyüşü","Fotoğrafçılık","Tarihi eserleri ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Ziyaret_Tepesi_%28Konalga%29_-1.jpg","alt":"Ziyaret Tepesi (Erzurum) manzarası","credit":"Buzancar","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Ziyaret Tepesi (Erzurum)","caption":"Ziyaret Tepesi (Erzurum)","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Ziyaret_Tepesi_%28Konalga%29_-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ziyaret_Tepesi_%28Konalga%29_-2.jpg/1280px-Ziyaret_Tepesi_%28Konalga%29_-2.jpg","alt":"Ziyaret Tepesi (Erzurum) - Ziyaret Tepesi (Konalga) -2","credit":"Buzancar","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Ziyaret Tepesi (Erzurum) - Allahekber-ziyaret tepesi-şeyh senan kabri","credit":"Gürsoy Solmaz","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20Tepesi%20(Erzurum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388613","tip":"genel"}]
 description: "Erzurum'un güzide yerlerinden biri olan Ziyaret Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar. Doğal güzellikleri ve tarihi zenginlikleriyle dikkat çeker."

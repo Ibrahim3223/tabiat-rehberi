@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaretleri","Dinî görevlerin yerine getirilmesi","Doğa yürüyüşleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg","alt":"Sütçü İmam Türbesi","caption":"Sütçü İmam Türbesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 06.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/G%C3%B6kceada_fort_1.jpg/960px-G%C3%B6kceada_fort_1.jpg","alt":"Sütçü İmam Türbesi","caption":"Sütçü İmam Türbesi","credit":"Gökceada fort 1","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCt%C3%A7%C3%BC%20%C4%B0mam%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391727","tip":"genel"}]
 description: "Kahramanmaraş'ın Dulkadiroğlu ilçesinde bulunan Sütçü İmam Türbesi, tarihsel ve kültürel zenginlikleriyle dikkat çeker."
 keywords: ["Sütçü İmam Türbesi","Kahramanmaraş","Dulkadiroğlu","tarihi mekan","kültür","türbe"]

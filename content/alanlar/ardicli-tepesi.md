@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg/960px-Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg","alt":"Ardıçlı Tepesi","caption":"Ardıçlı Tepesi","credit":"Konya Akyokuş Nature Park Konya Landscape.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/South_room_first_floor._View_looking_south._East_porch_visible_through_window._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_HABS_VA%2C42-CLOV.V%2C2A-14.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Ardıçlı Tepesi","caption":"Ardıçlı Tepesi","credit":"South room first floor. View looking south. East porch visible through window. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, HABS VA,42-CLOV.V,2A-14","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ard%C4%B1%C3%A7l%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34833407","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerinin arasında yer alan Ardıçlı Tepesi, İç Anadolu Bölgesi'nin zengin coğrafyasını keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Ardıçlı Tepesi","Konya","İç Anadolu Bölgesi","doğal güzellikler","coğrafya","keşif"]

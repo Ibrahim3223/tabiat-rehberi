@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik görüntü","fotoğraf çekimi","tarihî keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Hincika Tepesi","caption":"Hincika Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Hincika Tepesi","caption":"Hincika Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hincika%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551065","tip":"genel"}]
 description: "Mardin'de yer alan Hincika Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri. 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Hincika Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya"]

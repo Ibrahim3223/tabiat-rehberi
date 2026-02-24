@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Kuş gözlemi","Fotoğrafçılık","Bisiklet turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Akyatan Lagünü Sulak Alanı","caption":"Akyatan Lagünü Sulak Alanı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"Akyatan Lagünü Sulak Alanı","caption":"Akyatan Lagünü Sulak Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akyatan%20Lag%C3%BCn%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228820","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Akyatan Lagünü Sulak Alanı, zengin fauna ve flora çeşitliliğiyle dikkat çekiyor."
 keywords: ["Akyatan Lagünü","Sulak Alan","İç Anadolu Bölgesi","Doğal Güzellik","Fauna","Flora","Sulak Alan Ekosistemi","Doğa Koruma"]

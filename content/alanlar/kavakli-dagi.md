@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam bir gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Kavaklı Dağı","caption":"Kavaklı Dağı","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Kavaklı Dağı","caption":"Kavaklı Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavakl%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31584713","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, Kavaklı Dağı'nda doğa yürüyüşü ve panoramik manzaralar"
 keywords: ["Kavaklı Dağı","Mersin","Dağ","Doğa Yürüyüşü","Panoramik Manzara","Turizm","Gezi","Mersin Gezilecek Yerler","Dağcılık"]

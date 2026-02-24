@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Gerek Dağı","caption":"Gerek Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9_%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9.jpg/960px-%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9_%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9.jpg","alt":"Gerek Dağı","caption":"Gerek Dağı","credit":"Зимний Таганай","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gerek%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31567931","tip":"genel"}]
 description: "Kars'ta yer alan Gerek Dağı, doğa severlerin ziyaret ettiği önemli bir dağ"
 keywords: ["Gerek Dağı","Kars","Dağ","Doğa","Türkiye","Gezi","Seyahat","Kars Dağları","Doğa Turizmi"]

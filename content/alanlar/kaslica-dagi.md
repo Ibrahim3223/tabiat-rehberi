@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kaşlıca Dağı","caption":"Kaşlıca Dağı","credit":"Malatya turgut ozal nature park view.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ta%C5%9Feli-Plateau_12_08_1999_Y%C3%BC%C4%9Fl%C3%BCk_Da%C4%9F%C4%B1_zwischen_Ta%C5%9Fkale_und_K%C4%B1robas%C4%B1.jpg/960px-Ta%C5%9Feli-Plateau_12_08_1999_Y%C3%BC%C4%9Fl%C3%BCk_Da%C4%9F%C4%B1_zwischen_Ta%C5%9Fkale_und_K%C4%B1robas%C4%B1.jpg","alt":"Kaşlıca Dağı","caption":"Kaşlıca Dağı","credit":"Taşeli-Plateau 12 08 1999 Yüğlük Dağı zwischen Taşkale und Kırobası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C5%9Fl%C4%B1ca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385659","tip":"genel"}]
 description: "Malatya'nın görkemli dağlarından biri olan Kaşlıca Dağı, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Kaşlıca Dağı","Malatya","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Malatya Turistik Yerler","Dağcılık"]

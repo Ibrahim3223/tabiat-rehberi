@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Siverek.jpg/960px-Siverek.jpg","alt":"Aktaş Tepe","caption":"Aktaş Tepe","credit":"Siverek.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Aktaş Tepe","caption":"Aktaş Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akta%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31541158","tip":"genel"}]
 description: "Şanlıurfa'da bulunan Aktaş Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri"
 keywords: ["Aktaş Tepe","Şanlıurfa","Dağ","Doğa","Türkiye","Gezi","Seyahat","Coğrafya","Turizm"]

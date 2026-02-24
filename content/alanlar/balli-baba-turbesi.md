@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ballı Baba Türbesi","caption":"Ballı Baba Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg","alt":"Ballı Baba Türbesi","caption":"Ballı Baba Türbesi","credit":"Marmaris @ LODOS Firtina-Lodos Sturm (Aralik-December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ball%C4%B1%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391826","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Ballı Baba Türbesi, Kırıkkale'nin Balışeyh ilçesinde yer alıyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Ballı Baba Türbesi","Kırıkkale","Balışeyh","İç Anadolu Bölgesi","Türbe","Doğa","Gezi"]

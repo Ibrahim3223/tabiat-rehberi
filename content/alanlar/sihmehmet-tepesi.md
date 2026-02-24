@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi mekanları keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Şıhmehmet Tepesi","caption":"Şıhmehmet Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Şıhmehmet Tepesi","caption":"Şıhmehmet Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9E%C4%B1hmehmet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386440","tip":"genel"}]
 description: "Kilis'in tarihi ve doğal güzelliklerini keşfedin. Şıhmehmet Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alıyor."
 keywords: ["Kilis","Güneydoğu Anadolu Bölgesi","Şıhmehmet Tepesi","doğal güzellik","tarihi mekan","tepe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Tunca Vadisi Tabiat Parkı","caption":"Tunca Vadisi Tabiat Parkı","credit":"VallesMarinerisHuge","license":"Attribution"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/One_of_the_falls_on_the_Turkey_path%2C_Grand_Canyon_of_Pa_%2866791%29.jpg/960px-One_of_the_falls_on_the_Turkey_path%2C_Grand_Canyon_of_Pa_%2866791%29.jpg","alt":"Tunca Vadisi Tabiat Parkı","caption":"Tunca Vadisi Tabiat Parkı","credit":"One of the falls on the Turkey path, Grand Canyon of Pa (66791)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tunca%20Vadisi%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228405","tip":"genel"}]
 description: "Türkiye'nin en güzel kanyonlarından biri olan Tunca Vadisi, doğa severlerin ziyaret ettiği bir tabiat parkıdır."
 keywords: ["Tunca Vadisi","Tabiat Parkı","Kanyon","Doğa","Türkiye","Gezi","Seyahat","Turizm","Doğa Harikaları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Aksu Mağaraları","caption":"Aksu Mağaraları","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Glacial_lakes%2C_Bhutan.jpg/960px-Glacial_lakes%2C_Bhutan.jpg","alt":"Aksu Mağaraları","caption":"Aksu Mağaraları","credit":"Glacial lakes, Bhutan","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aksu%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319030","tip":"genel"}]
 description: "Batman'da yer alan Aksu Mağaraları, Türkiye'nin önemli jeoparklarından biri. Doğal güzellikleri keşfedin."
 keywords: ["Aksu Mağaraları","Batman","Jeopark","Doğal Alanlar","Mağara Gezisi","Türkiye Jeoparkları","Batman Turizm","Doğa Turizmi","Mağara Turu"]

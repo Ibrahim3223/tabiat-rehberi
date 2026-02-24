@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Panoramik manzara izleme","Tarihi eserleri ziyaret","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Yanıktarla Tepesi","caption":"Yanıktarla Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ida_Flooding_%289%29.jpg/960px-Ida_Flooding_%289%29.jpg","alt":"Yanıktarla Tepesi","caption":"Yanıktarla Tepesi","credit":"Ida Flooding (9)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yan%C4%B1ktarla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386684","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve coğrafi güzelliklerinin birleştiği đim"
 keywords: ["Yanıktarla Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","coğrafi güzellikler","tarihi mekanlar","doğal alanlar","turistik yerler","gezi rehberi","yürüyüş rotaları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Halakayası","caption":"Halakayası","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg/960px-Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg","alt":"Halakayası","caption":"Halakayası","credit":"Emir Dağları 25 09 2013 Landschaft","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halakayas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31567028","tip":"genel"}]
 description: "Ankara'da bulunan Halakayası, 1200 metre yükseklikte bir dağdır. Doğal güzelliği ve trekking rotalarıyla dikkat çeker."
 keywords: ["Halakayası","Ankara","Dağ","Trekking","Doğa","Turizm","Ankara Turistik Yerler","Dağcılık","Yürüyüş Rotaları"]

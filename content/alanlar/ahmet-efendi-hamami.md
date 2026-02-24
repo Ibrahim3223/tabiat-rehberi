@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yüzme","güneşlenme","doğa yürüyüşü","tarihî yerleri ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ahmet Efendi Hamamı","caption":"Ahmet Efendi Hamamı","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2023-11-04_Choban_beach_near_Ka%C5%9F_3.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_3.jpg","alt":"Ahmet Efendi Hamamı","caption":"Ahmet Efendi Hamamı","credit":"2023-11-04 Choban beach near Kaş 3","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahmet%20Efendi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738773","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerini keşfedin. Ahmet Efendi Hamamı, Karatay'da yer alan bir plaj"
 keywords: ["Ahmet Efendi Hamamı","Karatay","Konya","İç Anadolu Bölgesi","plaj","doğa","tarih"]

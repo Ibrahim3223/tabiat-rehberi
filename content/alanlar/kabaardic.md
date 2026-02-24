@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna keşfi","manzara seyri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Kabaardic","caption":"Kabaardic","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg","alt":"Kabaardic","caption":"Kabaardic","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabaardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228046","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği Kabaardic, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["doğa","gezi","İç Anadolu Bölgesi","kabaardic","milli park","çevre","flora","fauna"]

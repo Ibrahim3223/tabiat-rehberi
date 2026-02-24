@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","orman içi gezinti","tepeye tırmanma","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg","alt":"Çorbacı Tepesi","caption":"Çorbacı Tepesi","credit":"The Landscape of Sıklık Gate park Çorum.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Çorbacı Tepesi","caption":"Çorbacı Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87orbac%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819731","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden biri olan Çorum'un önemli doğal alanlarından biri"
 keywords: ["Çorum","Karadeniz Bölgesi","doğal alan","tepe","gezi","turizm","çevre","iklim","bitki türleri","hayvan çeşitliliği"]

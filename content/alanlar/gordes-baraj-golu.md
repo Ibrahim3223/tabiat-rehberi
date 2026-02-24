@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Bondhus_Norway_2862.jpg/960px-Lake_Bondhus_Norway_2862.jpg","alt":"Gördes Baraj Gölü","caption":"Gördes Baraj Gölü","credit":"Lake Bondhus Norway 2862","license":"FAL"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Adina_Yakisir_Sekilde_Karagol%27de_Puslu_Sisli_Bir_Gun.jpg/960px-Adina_Yakisir_Sekilde_Karagol%27de_Puslu_Sisli_Bir_Gun.jpg","alt":"Gördes Baraj Gölü","caption":"Gördes Baraj Gölü","credit":"Adina Yakisir Sekilde Karagol'de Puslu Sisli Bir Gun","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6rdes%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822549","tip":"genel"}]
 description: "Manisa'nın Gördes ilçesinde bulunan Gördes Baraj Gölü, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Gördes Baraj Gölü","Manisa","Gördes","Baraj Gölü","Doğa","Turizm","Yeşil Alan","Su Kaynakları","Manisa Turistik Yerler"]

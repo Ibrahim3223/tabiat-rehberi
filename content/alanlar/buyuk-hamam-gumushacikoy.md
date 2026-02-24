@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarihi yapıları keşfetmek","Fotografi","Çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Büyük Hamam, Gümüşhacıköy","caption":"Büyük Hamam, Gümüşhacıköy","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Port_Atami-Bodrum_Marina-panorama-big.jpg/960px-Port_Atami-Bodrum_Marina-panorama-big.jpg","alt":"Büyük Hamam, Gümüşhacıköy","caption":"Büyük Hamam, Gümüşhacıköy","credit":"Port Atami-Bodrum Marina-panorama-big","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Hamam%2C%20G%C3%BCm%C3%BC%C5%9Fhac%C4%B1k%C3%B6y","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738910","tip":"genel"}]
 description: "Amasya'nın Gümüşhacıköy ilçesinde bulunan Büyük Hamam, tarihi ve doğal güzelliği ile dikkat çekiyor. Karadeniz Bölgesi'nin bu gizli cennetini keşfedin!"
 keywords: ["Büyük Hamam","Gümüşhacıköy","Amasya","Karadeniz Bölgesi","doğal güzellik","tarihi mekan","gezi","turizm","yaban hayatı","ekoloji"]

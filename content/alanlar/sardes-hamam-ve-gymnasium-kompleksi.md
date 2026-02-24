@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Kültürel keşif","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Sardes Hamam ve Gymnasium Kompleksi","caption":"Sardes Hamam ve Gymnasium Kompleksi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Sardes Hamam ve Gymnasium Kompleksi","caption":"Sardes Hamam ve Gymnasium Kompleksi","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sardes%20Hamam%20ve%20Gymnasium%20Kompleksi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738764","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazineleri arasında yer alan Sardes Hamam ve Gymnasium Kompleksi, Salihli/Manisa'da bulunmaktadır. Bu kompleks, antik dönemden kalan önemli bir yapıdır."
 keywords: ["Sardes","Hamam","Gymnasium","Kompleksi","Salihli","Manisa","Ege Bölgesi","Tarih","Arkeoloji"]

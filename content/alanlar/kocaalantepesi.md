@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"KocaalanTepesi","caption":"KocaalanTepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"KocaalanTepesi","caption":"KocaalanTepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KocaalanTepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388023","tip":"genel"}]
 description: "Kütahya'nın doğal güzellikleri arasında yer alan KocaalanTepesi, Ege Bölgesi'nde bulunan bir tepe"
 keywords: ["KocaalanTepesi","Kütahya","Ege Bölgesi","doğa","tepe","gezi","turizm"]

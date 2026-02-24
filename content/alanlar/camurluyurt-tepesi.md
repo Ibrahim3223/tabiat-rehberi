@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çamurluyurt Tepesi","caption":"Çamurluyurt Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/East_elevation._View_looking_northwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-6.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Çamurluyurt Tepesi","caption":"Çamurluyurt Tepesi","credit":"East elevation. View looking northwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-6","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87amurluyurt%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828268","tip":"genel"}]
 description: "Erzurum'un doğusunda yer alan Çamurluyurt Tepesi, doğal güzellikleri ve zengin tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Çamurluyurt Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tarih","coğrafya","flora","fauna","gezi","turizm"]

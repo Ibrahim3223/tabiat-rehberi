@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["plaj","hamam","tarih gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Kum Kasrı Hamamı","caption":"Kum Kasrı Hamamı","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Kum Kasrı Hamamı","caption":"Kum Kasrı Hamamı","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kum%20Kasr%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738808","tip":"genel"}]
 description: "Edirne'nin tarihi ve doğal güzelliklerini bir arada sunan Kum Kasrı Hamamı, ziyaretçilerini bekliyor."
 keywords: ["Kum Kasrı Hamamı","Edirne","Marmara Bölgesi","tarih","doğa","gezi","plaj","hamam","turizm"]

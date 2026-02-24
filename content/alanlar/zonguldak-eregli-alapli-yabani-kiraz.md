@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Piknik","Fotoğrafçılık","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Zonguldak-Ereğli-Alaplı-Yabani kiraz","caption":"Zonguldak-Ereğli-Alaplı-Yabani kiraz","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg","alt":"Zonguldak-Ereğli-Alaplı-Yabani kiraz","caption":"Zonguldak-Ereğli-Alaplı-Yabani kiraz","credit":"Gölcük Tabiat Parkı Piknik Alanı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Ere%C4%9Fli-Alapl%C4%B1-Yabani%20kiraz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228263","tip":"genel"}]
 description: "Zonguldak'ta yer alan milli park, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Zonguldak","Ereğli","Alaplı","Yabani kiraz","Milli park","Karadeniz Bölgesi","Doğa","Turizm","Gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","tarih gezisi","mimari inceleme","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Nafiz Paşa Hamamı","caption":"Nafiz Paşa Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg","alt":"Nafiz Paşa Hamamı","caption":"Nafiz Paşa Hamamı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nafiz%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739007","tip":"genel"}]
 description: "Erzincan'da tarihi bir hamam, 140-155 karakter, etkileyici SEO açıklaması"
 keywords: ["Nafiz Paşa Hamamı","Erzincan","Doğu Anadolu Bölgesi","tarihi hamam","gezi","turizm","Doğu Anadolu","Erzincan gezilecek yerler","hamam"]

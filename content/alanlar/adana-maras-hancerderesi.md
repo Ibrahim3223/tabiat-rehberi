@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg/960px-Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg","alt":"Adana-Maras-Hancerderesi","caption":"Adana-Maras-Hancerderesi","credit":"Aladağlar Milli Parkı - Aladaglar National Park 01","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg.png","alt":"Adana-Maras-Hancerderesi","caption":"Adana-Maras-Hancerderesi","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks logo","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Maras-Hancerderesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228038","tip":"genel"}]
 description: "Adana-Maras-Hancerderesi milli parkı, Akdeniz Bölgesi'nin önemli doğal alanlarından biri"
 keywords: ["Adana","milli park","doğa","yerel flora","yaban hayatı","gezi","turizm","Akdeniz Bölgesi","çevre"]

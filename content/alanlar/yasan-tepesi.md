@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Yasan Tepesi","caption":"Yasan Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Yasan Tepesi","caption":"Yasan Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yasan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582278","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin. Yasan Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Yasan Tepesi","Çorum","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","çevre","flora","fauna"]

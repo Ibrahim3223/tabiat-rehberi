@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Marmaracık Koyu","caption":"Marmaracık Koyu","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg","alt":"Marmaracık Koyu","caption":"Marmaracık Koyu","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546845911)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Marmarac%C4%B1k%20Koyu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228306","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, Marmaracık Koyu'nu ziyaret edin."
 keywords: ["Marmaracık Koyu","İç Anadolu Bölgesi","doğal güzellik","milli park","gezi","yaban hayatı","ekoloji","turizm"]

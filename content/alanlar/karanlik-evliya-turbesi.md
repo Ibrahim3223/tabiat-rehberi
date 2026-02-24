@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","dinlenme","gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Karanlık Evliya Türbesi","caption":"Karanlık Evliya Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2023-11-19_A_view_from_Ufakdere_Port_Beach.jpg/960px-2023-11-19_A_view_from_Ufakdere_Port_Beach.jpg","alt":"Karanlık Evliya Türbesi","caption":"Karanlık Evliya Türbesi","credit":"2023-11-19 A view from Ufakdere Port Beach","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karanl%C4%B1k%20Evliya%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390533","tip":"genel"}]
 description: "Kastamonu ilinin merkezinde yer alan Karanlık Evliya Türbesi, tarihi ve doğal güzellikleri bir arada sunan bir mekan."
 keywords: ["Karanlık Evliya Türbesi","Kastamonu","tarih","doğa","gezi","tarihçe","coğrafya","flora","fauna"]

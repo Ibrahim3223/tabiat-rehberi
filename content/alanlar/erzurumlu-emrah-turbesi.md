@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresi gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Erzurumlu Emrah Türbesi","caption":"Erzurumlu Emrah Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_02.jpg","alt":"Erzurumlu Emrah Türbesi","caption":"Erzurumlu Emrah Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurumlu%20Emrah%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391787","tip":"genel"}]
 description: "Tokat'ın Niksar ilçesinde bulunan Erzurumlu Emrah Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Erzurumlu Emrah Türbesi","Niksar","Tokat","Karadeniz Bölgesi","tarihi mekanlar","doğa güzellikleri"]

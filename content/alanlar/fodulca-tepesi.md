@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","trekking","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Fodulca Tepesi","caption":"Fodulca Tepesi","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Fodulca Tepesi","caption":"Fodulca Tepesi","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fodulca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385831","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin, Fodulca Tepesi'ni ziyaret edin"
 keywords: ["Fodulca Tepesi","Kayseri","doğa","tepe","gezi","turizm","İç Anadolu Bölgesi","coğrafya"]

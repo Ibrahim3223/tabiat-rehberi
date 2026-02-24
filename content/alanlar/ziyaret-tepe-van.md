@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/15/Tahtali_Dagi_2011-12_Bey_Daglari_122.jpg","alt":"Ziyaret Tepe (Van) manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg/960px-Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg","alt":"Ziyaret Tepe","caption":"Ziyaret Tepe","credit":"Mount Ararat and the Araratian plain (cropped)","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20Tepe%20(Van)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572779","tip":"genel"}]
 description: "Van'ın görkemli dağlarından biri olan Ziyaret Tepe, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."

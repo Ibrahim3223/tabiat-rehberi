@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg","alt":"Karakaya Tepesi","caption":"Karakaya Tepesi","credit":"The Landscape of Sıklık Gate park Çorum.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg/960px-Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg","alt":"Karakaya Tepesi","caption":"Karakaya Tepesi","credit":"Beyşehir Gölü 18 04 1992 mit den Dedegöl Dağlar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877943","tip":"genel"}]
 description: "Çorum'un en yüksek noktalarından biri olan Karakaya Tepesi, 1200 metre yüksekliğiyle dikkat çekiyor. Doğal güzellikleri ve yürüyüş rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Karakaya Tepesi","Çorum","Dağ","Doğa","Yürüyüş Rotası","Turizm","Gezi","Çorum Turistik Yerler","Doğal Güzellikler"]

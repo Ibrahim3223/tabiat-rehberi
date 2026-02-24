@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Berkilin Mağarası","caption":"Berkilin Mağarası","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Earth_poster.svg/960px-Earth_poster.svg.png","alt":"Berkilin Mağarası","caption":"Berkilin Mağarası","credit":"Earth poster","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Berkilin%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319066","tip":"genel"}]
 description: "Diyarbakır'da yer alan Berkilin Mağarası, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği keşfedin!"
 keywords: ["Berkilin Mağarası","Diyarbakır","Jeopark","Doğal Alan","Mağara","Turizm","Diyarbakır Turistik Yerler","Jeolojik Özellikler","Doğa Sporları"]

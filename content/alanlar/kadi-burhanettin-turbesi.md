@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezmek","yeşil alanı keşfetmek","doğal güzellikleri izlemek","fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kadı Burhanettin Türbesi","caption":"Kadı Burhanettin Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Kadı Burhanettin Türbesi","caption":"Kadı Burhanettin Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kad%C4%B1%20Burhanettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390942","tip":"genel"}]
 description: "Sivas'ın tarihi ve doğal güzelliklerinin buluştuğu önemli bir nokta"
 keywords: ["Kadı Burhanettin Türbesi","Sivas","tarih","doğa","türk kültürü","Sivas turizmi","tarihi mekanlar","kültür mirası"]

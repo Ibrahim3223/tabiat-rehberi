@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Seyran Tepe","caption":"Seyran Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg/960px-%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg","alt":"Seyran Tepe","caption":"Seyran Tepe","credit":"\"Lost\" lakes , near Meigs Peak, Col. Lakes 9,500 feet above sea-level - DPLA - a574e1d02197947f5bd63dffe370dd0d (page 1)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyran%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573493","tip":"genel"}]
 description: "Mardin'de bulunan Seyran Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Seyran Tepe","Mardin","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Mardin Gezilecek Yerler"]

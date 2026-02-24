@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih keşfi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Gazitepe Anıtı","caption":"Gazitepe Anıtı","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beach_Antakya_Turkey_-_panoramio.jpg/960px-Beach_Antakya_Turkey_-_panoramio.jpg","alt":"Gazitepe Anıtı","caption":"Gazitepe Anıtı","credit":"Beach Antakya Turkey - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazitepe%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728257","tip":"genel"}]
 description: "Ankara'nın Polatlı ilçesinde yer alan tarihi bir alan"
 keywords: ["Gazitepe Anıtı","Polatlı","Ankara","tarih","gezi","turizm","İç Anadolu Bölgesi","anıt","tarihçe"]

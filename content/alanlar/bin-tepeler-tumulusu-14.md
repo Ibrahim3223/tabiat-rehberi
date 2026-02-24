@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tümülüsleri gezmek","Doğa yürüyüşü yapmak","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Bin Tepeler Tümülüsü 14","caption":"Bin Tepeler Tümülüsü 14","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg","alt":"Bin Tepeler Tümülüsü 14","caption":"Bin Tepeler Tümülüsü 14","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 13","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2014","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728372","tip":"genel"}]
 description: "Salihli/Manisa'da bulunan Bin Tepeler Tümülüsü 14, Ege Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren bir destinasyon."
 keywords: ["Bin Tepeler","Tümülüs","Salihli","Manisa","Ege Bölgesi","Tarih","Doğa","Tümülüsler","Arkeoloji"]

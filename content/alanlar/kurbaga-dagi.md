@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Kurbağa Dağı","caption":"Kurbağa Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg/960px-Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg","alt":"Kurbağa Dağı","caption":"Kurbağa Dağı","credit":"Antitaurus 06 04 1988 Pozantı Dağı bei Niğde","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurba%C4%9Fa%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31584977","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin. Kurbağa Dağı, 1200 hektarlık yeşil cenneti ile doğa severlerin gözdesi."
 keywords: ["Kurbağa Dağı","Mersin","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Mersin Turistik Yerler","Dağcılık"]

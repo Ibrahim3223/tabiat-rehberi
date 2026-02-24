@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarihi keşifler","panoramik manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Büyüktojo Tepesi","caption":"Büyüktojo Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Büyüktojo Tepesi","caption":"Büyüktojo Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCktojo%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731442","tip":"genel"}]
 description: "Diyarbakır'ın gizli köşesi Büyüktojo Tepesi, tarihi ve coğrafi güzellikleri bir arada sunuyor."
 keywords: ["Büyüktojo Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","tarihçe","doğa","gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotoğraf çekimi","kültürel gözlem"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Şeyh Çoban Türbesi","caption":"Şeyh Çoban Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg","alt":"Şeyh Çoban Türbesi","caption":"Şeyh Çoban Türbesi","credit":"Marmaris @ LODOS Firtina-Lodos Sturm (Aralik-December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C3%87oban%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390461","tip":"genel"}]
 description: "Sivas'ta tarihi ve doğal güzelliklerin buluştuğu nokta, Şeyh Çoban Türbesi ve çevresi"
 keywords: ["Şeyh Çoban Türbesi","Sivas","İç Anadolu Bölgesi","tarih","doğa","tarihçe","coğrafya","flora","fauna","ziyaret"]

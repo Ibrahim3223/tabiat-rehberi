@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Dedekaya Tepesi","caption":"Dedekaya Tepesi","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Dedekaya Tepesi","caption":"Dedekaya Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedekaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390071","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Dedekaya Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Dedekaya Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","ziyaret","coğrafya","flora","fauna"]

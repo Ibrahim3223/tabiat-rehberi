@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kazağa Tepesi","caption":"Kazağa Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Kazağa Tepesi","caption":"Kazağa Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaza%C4%9Fa%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387510","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Kazağa Tepesi, Ağrı'da yer alıyor. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Doğu Anadolu Bölgesi","Ağrı","Kazağa Tepesi","doğal güzellik","tepe","gezi","doğa"]

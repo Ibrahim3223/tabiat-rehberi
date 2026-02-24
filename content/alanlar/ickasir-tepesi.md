@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","keşif","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Içkasır Tepesi","caption":"Içkasır Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Içkasır Tepesi","caption":"Içkasır Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/I%C3%A7kas%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34875535","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde bulunan Içkasır Tepesi, Siirt ilinin önemli doğal güzelliklerinden biridir."
 keywords: ["Içkasır Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

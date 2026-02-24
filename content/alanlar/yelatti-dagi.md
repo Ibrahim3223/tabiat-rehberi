@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Yelattı Dağı","caption":"Yelattı Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mehmetali_k%C3%B6y%C3%BC_yak%C4%B1nlar%C4%B1ndan_sumakl%C4%B1k_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg/960px-Mehmetali_k%C3%B6y%C3%BC_yak%C4%B1nlar%C4%B1ndan_sumakl%C4%B1k_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Yelattı Dağı","caption":"Yelattı Dağı","credit":"Mehmetali köyü yakınlarından sumaklık ve eşşek dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelatt%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502810","tip":"genel"}]
 description: "Karaman'da bulunan Yelattı Dağı, 1200 metre yüksekliği ile bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Yelattı Dağı","Karaman","Dağ","Doğa","Turizm","Gezi","Karaman gezilecek yerler","Yelattı Dağı yüksekliği","Karaman dağları"]

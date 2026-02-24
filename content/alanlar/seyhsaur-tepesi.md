@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Şeyhsaur Tepesi","caption":"Şeyhsaur Tepesi","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TRABZON_YAYLASI_VE_%C4%B0BADET.jpg/960px-TRABZON_YAYLASI_VE_%C4%B0BADET.jpg","alt":"Şeyhsaur Tepesi","caption":"Şeyhsaur Tepesi","credit":"TRABZON YAYLASI VE İBADET","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhsaur%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553989","tip":"genel"}]
 description: "Batman'da yer alan Şeyhsaur Tepesi, doğa severlerin ziyaret ettiği bir dağdır. 1400 metre yüksekliği ile bölgenin önemli noktalarından biridir."
 keywords: ["Şeyhsaur Tepesi","Batman","Dağ","Doğa","Tepeler","Turizm","Gezi","Seyahat","Coğrafya"]

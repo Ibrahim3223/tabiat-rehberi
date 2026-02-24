@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Kayadibi Porsuk Agaci","caption":"Kayadibi Porsuk Agaci","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Kayadibi Porsuk Agaci","caption":"Kayadibi Porsuk Agaci","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayadibi%20Porsuk%20Agaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227369","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzelliklerini keşfedin. Kayadibi Porsuk Ağacı, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kayadibi Porsuk Agaci","İç Anadolu Bölgesi","doğa","tarih","gezi","milli park","porsuk ağacı","turizm","çevre","koruma"]

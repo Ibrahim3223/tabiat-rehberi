@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Hamzike Tepesi","caption":"Hamzike Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Hamzike Tepesi","caption":"Hamzike Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamzike%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553474","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Hamzike Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar."
 keywords: ["Hamzike Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","manzara","gezi","seyahat","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihî araştırma","Doğa yürüyüşü","Fotoğraf çekimi","Kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Habipbaba Türbesi","caption":"Habipbaba Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg/960px-Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg","alt":"Habipbaba Türbesi","caption":"Habipbaba Türbesi","credit":"Cool waters of the turquoise blue Aegean Sea - Ayvalık - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Habipbaba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390517","tip":"genel"}]
 description: "Erzurum'un tarihi ve doğal güzellikleriyle ni çıkan bir destinasyon"
 keywords: ["Erzurum","Habipbaba Türbesi","tarih","doğa","gezi","turizm","Doğu Anadolu Bölgesi","Yakutiye","kültür"]

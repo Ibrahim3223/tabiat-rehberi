@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic","Yaban Hayatı İzleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Aklıman Sit Alanı","caption":"Aklıman Sit Alanı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Aklıman Sit Alanı","caption":"Aklıman Sit Alanı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akl%C4%B1man%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226184","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin buluştuğu Aklıman Sit Alanı, 140 hektarlık bir alan üzerinde kurulu."
 keywords: ["Aklıman Sit Alanı","İç Anadolu Bölgesi","Doğal Alan","Sit Alanı","Çevre","Doğa","Gezi","Turizm"]

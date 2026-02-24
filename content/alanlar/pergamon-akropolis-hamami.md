@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/S%C3%BCzer_Sun_Dreams_Beach_14_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_14_-_panoramio.jpg","alt":"Pergamon Akropolis Hamamı","caption":"Pergamon Akropolis Hamamı","credit":"Süzer Sun Dreams Beach 14 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Istanbul_beaches-_Sea_of_Marmara_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_08.jpg","alt":"Pergamon Akropolis Hamamı","caption":"Pergamon Akropolis Hamamı","credit":"Istanbul beaches- Sea of Marmara 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pergamon%20Akropolis%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739078","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin. Pergamon Akropolis Hamamı, Bergama'nın merkezinde yer alan bir tarihi alan."
 keywords: ["Pergamon","Akropolis","Hamamı","Bergama","İzmir","Ege Bölgesi","Tarih","Doğa","Gezi"]

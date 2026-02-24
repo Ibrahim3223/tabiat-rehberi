@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg/960px-Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg","alt":"Yukarıbedal Mağarası","caption":"Yukarıbedal Mağarası","credit":"Korfu (GR), Kassiopi -- 2018 -- 1068","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Aquifer_tr.svg/960px-Aquifer_tr.svg.png","alt":"Yukarıbedal Mağarası","caption":"Yukarıbedal Mağarası","credit":"Aquifer tr","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yukar%C4%B1bedal%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319882","tip":"genel"}]
 description: "Batman'da yer alan jeopark, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Yukarıbedal Mağarası","Batman","Jeopark","Doğal Alan","Tarih","Turizm","Gezi","Mağara","Jeoloji"]

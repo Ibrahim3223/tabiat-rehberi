@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Kastamonu-Taskopru-Tekcam Saricam","caption":"Kastamonu-Taskopru-Tekcam Saricam","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"Kastamonu-Taskopru-Tekcam Saricam","caption":"Kastamonu-Taskopru-Tekcam Saricam","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Taskopru-Tekcam%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227984","tip":"genel"}]
 description: "Kastamonu'nun doğal güzellikleri ve tarihi değerleriyle dikkat çeken milli parkı"
 keywords: ["Kastamonu","milli park","doğa","tarih","gezi","turizm","Karadeniz Bölgesi","çevre","ekoloji"]

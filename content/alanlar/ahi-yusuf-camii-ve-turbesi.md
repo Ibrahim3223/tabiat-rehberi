@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Cami ve türbeyi gezmek","Dini törenlere katılmak","Çevre gezileri yapmak","Doğal güzellikleri seyretmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Ahi Yusuf Camii ve Türbesi","caption":"Ahi Yusuf Camii ve Türbesi","credit":"Antalya Serik Plajı","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mediterranean_Swim_-_Imperal_Camel_Corps_%2816879047617%29.jpg/960px-Mediterranean_Swim_-_Imperal_Camel_Corps_%2816879047617%29.jpg","alt":"Ahi Yusuf Camii ve Türbesi","caption":"Ahi Yusuf Camii ve Türbesi","credit":"Mediterranean Swim - Imperal Camel Corps (16879047617)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20Yusuf%20Camii%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390686","tip":"genel"}]
 description: "Antalya'nın Muratpaşa ilçesinde bulunan tarihi cami ve türbe"
 keywords: ["Ahi Yusuf Camii","Ahi Yusuf Türbesi","Muratpaşa","Antalya","tarihi mekanlar","dini yapılar","türbe","cami"]

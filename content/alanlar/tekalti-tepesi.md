@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Piknik yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Tekaltı Tepesi","caption":"Tekaltı Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Tekaltı Tepesi","caption":"Tekaltı Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekalt%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387886","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Tekaltı Tepesi, Iğdır ilininnatural güzellikleriyle dikkat çeken bir bölgesidir."
 keywords: ["Tekaltı Tepesi","Iğdır","Doğu Anadolu Bölgesi","Doğal güzellik","Tepeler","Coğrafya","Tarihçe"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","tarihi yerleri ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çelikağana Tepesi","caption":"Çelikağana Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Çelikağana Tepesi","caption":"Çelikağana Tepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87elika%C4%9Fana%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828893","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Çelikağana Tepesi, Siirt ilinin önemli doğal alanlarından biridir."
 keywords: ["Çelikağana Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğal alan","tepe","coğrafya","flora","fauna","ziyaret","gezinti"]

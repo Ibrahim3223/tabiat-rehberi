@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Leylek Dağı","caption":"Leylek Dağı","credit":"Malatya turgut ozal nature park view.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"Leylek Dağı","caption":"Leylek Dağı","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Leylek%20Da%C4%9F%C4%B1%20(Malatya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511357","tip":"genel"}]
 description: "Malatya'nın önemli doğal güzelliklerinden biri olan Leylek Dağı, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Leylek Dağı","Malatya","doğa","dağ","yeşil alan","turizm","gezi","Malatya gezilecek yerler","Leylek Dağı Malatya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Yumruca Tepe","caption":"Yumruca Tepe","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PeakUludag.jpg/960px-PeakUludag.jpg","alt":"Yumruca Tepe","caption":"Yumruca Tepe","credit":"PeakUludag","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumruca%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387426","tip":"genel"}]
 description: "İzmir'de bulunan Yumruca Tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon"
 keywords: ["Yumruca Tepe","İzmir","Dağ","Doğa","Turizm","Gezi","İzmir gezilecek yerler","Yumruca Tepe hakkında","İzmir dağları"]

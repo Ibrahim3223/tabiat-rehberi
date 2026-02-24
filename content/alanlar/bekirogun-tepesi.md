@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Tarih ve kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Bekirogun Tepesi","caption":"Bekirogun Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/General_view_of_Fort_Hill_Farm%2C_view_looking_west_from_%28B%29_two-story_hall-and-parlor_house._Buildings_visible%2C_from_left_to_right%2C_are_%28B%29_parlor_house_porch%3B_%28E%29_one-room_cabin%3B_HABS_VA%2C42-CLOV.V%2C2-3.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Bekirogun Tepesi","caption":"Bekirogun Tepesi","credit":"General view of Fort Hill Farm, view looking west from (B) two-story hall-and-parlor house. Buildings visible, from left to right, are (B) parlor house porch; (E) one-room cabin; HABS VA,42-CLOV.V,2-3","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bekirogun%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536005","tip":"genel"}]
 description: "Hatay'da bulunan Bekirogun Tepesi, Akdeniz Bölgesi'nin en önemli doğal alanlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini bekliyor."
 keywords: ["Bekirogun Tepesi","Hatay","Akdeniz Bölgesi","doğal alan","yeşil alan","fiziksel veriler"]

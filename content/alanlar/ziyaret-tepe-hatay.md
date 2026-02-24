@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/15/Tahtali_Dagi_2011-12_Bey_Daglari_122.jpg","alt":"Ziyaret Tepe (Hatay) manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg/960px-Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg","alt":"Ziyaret Tepe","caption":"Ziyaret Tepe","credit":"Hacıbaba dağı- batıdan - panoramio","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20Tepe%20(Hatay)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536171","tip":"genel"}]
 description: "Hatay'da yer alan Ziyaret Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri. Doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."

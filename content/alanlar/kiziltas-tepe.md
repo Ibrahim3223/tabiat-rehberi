@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara seyretme","fotoğraf çekme","tarih gezisi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/G%C3%BCver_Canyon_Landscape_%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Landscape_%28Antalya%29.jpg","alt":"Kızıltaş Tepe","caption":"Kızıltaş Tepe","credit":"Güver Canyon Landscape (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Kızıltaş Tepe","caption":"Kızıltaş Tepe","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lta%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390119","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin, Kızıltaş Tepe'nin zengin tarihi ve coğrafyası"
 keywords: ["Kızıltaş Tepe","Antalya","doğa","tarih","coğrafya","gezi","turizm","Akdeniz Bölgesi","tepe"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Latamahadidi Sırtı","caption":"Latamahadidi Sırtı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Olympos_Peak.jpg/960px-Olympos_Peak.jpg","alt":"Latamahadidi Sırtı","caption":"Latamahadidi Sırtı","credit":"Olympos Peak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Latamahadidi%20S%C4%B1rt%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555029","tip":"genel"}]
 description: "Batman'da yer alan Latamahadidi Sırtı, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Latamahadidi Sırtı","Batman","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Çakmak Tepesi","caption":"Çakmak Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Çakmak Tepesi","caption":"Çakmak Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87akmak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823203","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Çakmak Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Çakmak Tepesi","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","yerel","coğrafya","flora","fauna"]

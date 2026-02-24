@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Petek Dağı","caption":"Petek Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Avc%C4%B1lar_05_04_1999_Erciyes_Da%C4%9F%C4%B1.jpg/960px-Avc%C4%B1lar_05_04_1999_Erciyes_Da%C4%9F%C4%B1.jpg","alt":"Petek Dağı","caption":"Petek Dağı","credit":"Avcılar 05 04 1999 Erciyes Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Petek%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31508791","tip":"genel"}]
 description: "Bitlis'te yer alan Petek Dağı, doğa severlerin ziyaret ettiği önemli bir dağdır."
 keywords: ["Petek Dağı","Bitlis","Dağ","Doğa","Türkiye","Gezi","Seyahat","Dağcılık","Bitlis Turizm"]

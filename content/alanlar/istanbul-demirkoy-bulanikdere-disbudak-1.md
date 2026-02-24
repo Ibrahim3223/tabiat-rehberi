@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki","fauna izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Istanbul Demirkoy Bulanikdere-Disbudak 1","caption":"Istanbul Demirkoy Bulanikdere-Disbudak 1","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg/960px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","alt":"Istanbul Demirkoy Bulanikdere-Disbudak 1","caption":"Istanbul Demirkoy Bulanikdere-Disbudak 1","credit":"Bafa Gölü Tabiat Parkı (bilgekorkmaz)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istanbul%20Demirkoy%20Bulanikdere-Disbudak%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228057","tip":"genel"}]
 description: "İç Anadolu Bölgesi'ndeki 140 hektarlık milli park, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["milli park","doğa","İç Anadolu Bölgesi","Istanbul Demirkoy Bulanikdere-Disbudak 1","turizm","gezi","yaban hayatı"]

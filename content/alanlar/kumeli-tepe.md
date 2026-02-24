@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih öğrenmek","Doğa yürüyüşü","Fotoğraf çekmek","Mardin'in kültürünü keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kümeli Tepe","caption":"Kümeli Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Kümeli Tepe","caption":"Kümeli Tepe","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCmeli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210783","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzellikleri arasında yer alan Kümeli Tepe, ziyaretçilerini bekliyor."
 keywords: ["Kümeli Tepe","Mardin","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür"]

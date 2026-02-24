@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Hamamın tarihi atmosferini deneyimleme","Çevreyi keşfetme","Su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"İstinye Hamamı","caption":"İstinye Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"İstinye Hamamı","caption":"İstinye Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0stinye%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738595","tip":"genel"}]
 description: "Sarıyer'de bulunan plaj ve tarihi hamam kompleksi"
 keywords: ["İstinye Hamamı","Sarıyer","İstanbul","Marmara Bölgesi","plaj","tarihi hamam","deniz","kum plaj","yazlık","gezi"]

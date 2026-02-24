@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Bin Tepeler Tümülüsü 22","caption":"Bin Tepeler Tümülüsü 22","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Beach_and_cows_I%C4%9Fneada_floodplain.jpg/960px-Beach_and_cows_I%C4%9Fneada_floodplain.jpg","alt":"Bin Tepeler Tümülüsü 22","caption":"Bin Tepeler Tümülüsü 22","credit":"Beach and cows Iğneada floodplain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2022","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728343","tip":"genel"}]
 description: "Salihli, Manisa'da bulunan Bin Tepeler Tümülüsü 22, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Bin Tepeler","Tümülüsü 22","Salihli","Manisa","tarih","doğa","gezi","turizm"]

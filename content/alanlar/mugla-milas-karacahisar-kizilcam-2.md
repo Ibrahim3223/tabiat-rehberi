@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Chameleon_in_Turkish_forest_%281%29.jpg/960px-Chameleon_in_Turkish_forest_%281%29.jpg","alt":"Mugla-Milas-Karacahisar Kızılçam 2","caption":"Mugla-Milas-Karacahisar Kızılçam 2","credit":"Chameleon in Turkish forest (1).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"Mugla-Milas-Karacahisar Kızılçam 2","caption":"Mugla-Milas-Karacahisar Kızılçam 2","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Milas-Karacahisar%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227466","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin"
 keywords: ["Muğla","Milas","Karacahisar","Kızılçam","Milli Park","Doğa","Turizm"]

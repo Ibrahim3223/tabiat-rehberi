@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Karsaduran Tepesi","caption":"Karsaduran Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Karsaduran Tepesi","caption":"Karsaduran Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karsaduran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564977","tip":"genel"}]
 description: "Kastamonu'nun doğal güzellikleriyle dolu bir bölgesi olan Karsaduran Tepesi, ziyaretçilerini bekliyor"
 keywords: ["Karsaduran Tepesi","Kastamonu","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

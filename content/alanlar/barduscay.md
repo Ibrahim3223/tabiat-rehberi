@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Bardusçay","caption":"Bardusçay","credit":"VallesMarinerisHuge","license":"Attribution"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/One_of_the_falls_on_the_Turkey_path%2C_Grand_Canyon_of_Pa_%2866791%29.jpg/960px-One_of_the_falls_on_the_Turkey_path%2C_Grand_Canyon_of_Pa_%2866791%29.jpg","alt":"Bardusçay","caption":"Bardusçay","credit":"One of the falls on the Turkey path, Grand Canyon of Pa (66791)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bardus%C3%A7ay","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21696162","tip":"genel"}]
 description: "Erzurum'un Şenkaya ilçesinde bulunan Bardusçay Kanyonu, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir destinasyon"
 keywords: ["Bardusçay","Erzurum","Şenkaya","Kanyon","Doğa","Turizm","Gezi","Türkiye","Doğa Harikaları"]

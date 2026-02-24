@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Karakaban Dağı","caption":"Karakaban Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salda_G%C3%B6l%C3%BC_09-1991.jpg/960px-Salda_G%C3%B6l%C3%BC_09-1991.jpg","alt":"Karakaban Dağı","caption":"Karakaban Dağı","credit":"Salda Gölü 09-1991","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakaban%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31565499","tip":"genel"}]
 description: "Gümüşhane'de bulunan Karakaban Dağı, doğa severlerin ziyaret ettiği bir dağdır. 1200 hektarlık yeşil alanı ile dikkat çeker."
 keywords: ["Karakaban Dağı","Gümüşhane","Dağ","Doğa","Yeşil Alan","Trekking","Doğa Yürüyüşü","Gümüşhane Turizm","Dağcılık"]

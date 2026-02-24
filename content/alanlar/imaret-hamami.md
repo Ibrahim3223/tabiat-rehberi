@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"İmaret Hamamı","caption":"İmaret Hamamı","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg","alt":"İmaret Hamamı","caption":"İmaret Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 16","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0maret%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738682","tip":"genel"}]
 description: "Afyonkarahisar'ın gizli cenneti, İmaret Hamamı!"
 keywords: ["Afyonkarahisar","İmaret Hamamı","Ege Bölgesi","doğa","gezi","turizm","tarih","kültür","çevre"]

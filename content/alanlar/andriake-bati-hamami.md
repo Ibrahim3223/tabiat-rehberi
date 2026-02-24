@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Yürüyüş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Andriake Batı Hamamı","caption":"Andriake Batı Hamamı","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_06.jpg","alt":"Andriake Batı Hamamı","caption":"Andriake Batı Hamamı","credit":"Istanbul beaches- Sea of Marmara 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Andriake%20Bat%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739200","tip":"genel"}]
 description: "Demre'de bulunan Andriake Batı Hamamı, Antalya'nın turizm merkezlerinden biri"
 keywords: ["Demre","Antalya","Andriake","Batı Hamamı","plaj","Akdeniz Bölgesi","turizm"]

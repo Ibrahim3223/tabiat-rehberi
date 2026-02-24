@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük gezi"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gallipoli_Peninsula_Historical_National_Park_%281%29.jpg/960px-Gallipoli_Peninsula_Historical_National_Park_%281%29.jpg","alt":"Canakkale-Kalkim-Sariot Karacam","caption":"Canakkale-Kalkim-Sariot Karacam","credit":"Gallipoli Peninsula Historical National Park (1).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Canakkale-Kalkim-Sariot Karacam","caption":"Canakkale-Kalkim-Sariot Karacam","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Kalkim-Sariot%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227495","tip":"genel"}]
 description: "Çanakkale'de yer alan milli park, 140 hektarlık yeşil alanıyla dikkat çekiyor. Marmara Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Çanakkale","milli park","Marmara Bölgesi","doğa","yeşil alan","gezi","turizm"]

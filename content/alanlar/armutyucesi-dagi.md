@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg","alt":"Armutyücesi Dağı","caption":"Armutyücesi Dağı","credit":"Kayaözü Creek Valley, Kahramanmaraş 04.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"Armutyücesi Dağı","caption":"Armutyücesi Dağı","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Armuty%C3%BCcesi%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34833425","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Armutyücesi Dağı, bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Armutyücesi Dağı","Kahramanmaraş","Dağ","Doğa","Turizm","Gezi","Türkiye","Coğrafya","Seyahat"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeyi gezmek","doğal güzellikleri izlemek","tarihi kalıntıları incelemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Başhüyük Tepe","caption":"Başhüyük Tepe","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Başhüyük Tepe","caption":"Başhüyük Tepe","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C5%9Fh%C3%BCy%C3%BCk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32133251","tip":"genel"}]
 description: "Kayseri'de yer alan tarihi ve doğal güzelliklerin birleştiği bir tepe"
 keywords: ["Kayseri","tarih","doğa","tepe","gezi","turizm","İç Anadolu Bölgesi","coğrafya","flora","fauna"]

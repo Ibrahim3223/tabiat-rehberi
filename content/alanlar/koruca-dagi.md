@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Koruca Dağı","caption":"Koruca Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg/960px-Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg","alt":"Koruca Dağı","caption":"Koruca Dağı","credit":"Nevşehir Ürgüp","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koruca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513039","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Koruca Dağı, doğa severler için bir cennet. 1200 hektarlık alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Koruca Dağı","Türkiye Dağları","Doğa Turizmi","İstanbul","Dağcılık","Trekking","Doğa Yürüyüşü","Koruca Dağı Turu","Türkiye'nin En Güzel Dağları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","keşif","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Köskerlik Kaya Mezarları","caption":"Köskerlik Kaya Mezarları","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Köskerlik Kaya Mezarları","caption":"Köskerlik Kaya Mezarları","credit":"Antalya Serik Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6skerlik%20Kaya%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728189","tip":"genel"}]
 description: "Karaman'ın Ayrancı ilçesinde bulunan Köskerlik Kaya Mezarları, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Köskerlik Kaya Mezarları","Ayrancı","Karaman","İç Anadolu Bölgesi","tarihi mekanlar","doğa güzellikleri"]

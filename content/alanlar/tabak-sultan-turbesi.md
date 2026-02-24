@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Tabak Sultan Türbesi","caption":"Tabak Sultan Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg","alt":"Tabak Sultan Türbesi","caption":"Tabak Sultan Türbesi","credit":"Sunset at Aegean Sea, İzmir 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tabak%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390796","tip":"genel"}]
 description: "Edirne'nin tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Edirne","tarih","doğa","türbe","gezi","seyahat","Marmara Bölgesi","kültür"]

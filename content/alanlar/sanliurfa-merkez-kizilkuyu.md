@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Sanlıurfa-Merkez Kizilkuyu","caption":"Sanlıurfa-Merkez Kizilkuyu","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fatih_tabiat_park%C4%B1_Yozgat.jpg/960px-Fatih_tabiat_park%C4%B1_Yozgat.jpg","alt":"Sanlıurfa-Merkez Kizilkuyu","caption":"Sanlıurfa-Merkez Kizilkuyu","credit":"Fatih tabiat parkı Yozgat","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sanl%C4%B1urfa-Merkez%20Kizilkuyu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228044","tip":"genel"}]
 description: "Doğal güzellikler ve tarihi geçmişiyle dikkat çeken bir milli park"
 keywords: ["Sanlıurfa","Milli Park","Doğa","Tarih","Gezi","Turizm","Çevre","Kültür"]

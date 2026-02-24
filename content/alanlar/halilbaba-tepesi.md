@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Halilbaba Tepesi","caption":"Halilbaba Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Halilbaba Tepesi","caption":"Halilbaba Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halilbaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385776","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin kalbinde yer alan Halilbaba Tepesi, Yozgat'ın doğal güzelliklerini keşfetmek için ideal bir nokta"
 keywords: ["Yozgat","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Küharkaseyfi Tepesi","caption":"Küharkaseyfi Tepesi","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MOKM41.jpg/960px-MOKM41.jpg","alt":"Küharkaseyfi Tepesi","caption":"Küharkaseyfi Tepesi","credit":"MOKM41","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCharkaseyfi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042805","tip":"genel"}]
 description: "Batman'ın önemli dağlarından biri olan Küharkaseyfi Tepesi, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Küharkaseyfi Tepesi","Batman Dağları","Doğa Yürüyüşü","Trekking Rotaları","Batman Turizm","Dağcılık","Doğal Güzellikler","Türkiye Dağları","Batman Gezi"]

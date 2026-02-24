@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","yaban hayatı gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"EDİRNE TOPSÖĞÜT DEVLET ORMANI","caption":"EDİRNE TOPSÖĞÜT DEVLET ORMANI","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg","alt":"EDİRNE TOPSÖĞÜT DEVLET ORMANI","caption":"EDİRNE TOPSÖĞÜT DEVLET ORMANI","credit":"Gölcük Tabiat Parkı Piknik Alanı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ED%C4%B0RNE%20TOPS%C3%96%C4%9E%C3%9CT%20DEVLET%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228907","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini sunan Edirne Topsöğüt Devlet Ormanı, ziyaretçilerine benzersiz bir doğa deneyimi sunar."
 keywords: ["Edirne Topsöğüt Devlet Ormanı","İç Anadolu Bölgesi","doğa","orman","gezi","turizm","çevre","eko-turizm"]

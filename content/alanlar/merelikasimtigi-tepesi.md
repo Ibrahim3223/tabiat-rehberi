@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin zirvesine çıkmak","Çevreyi keşfetmek","Bölge hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Merelikasımtiği Tepesi","caption":"Merelikasımtiği Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Merelikasımtiği Tepesi","caption":"Merelikasımtiği Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merelikas%C4%B1mti%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391169","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği Merelikasımtiği Tepesi, 140 hektarlık geniş alanıyla dikkat çekiyor."
 keywords: ["Merelikasımtiği Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","tarih","coğrafya","flora","fauna"]

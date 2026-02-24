@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Erzincan_Refahiye.jpg","alt":"Kızıl Dağ (Sivas, 39.93 N) manzarası","credit":"Salihsertbas","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Taurus_05_01_2012_Golf_von_Antalya_mit_Kuyucak_Da%C4%9F%C4%B1.jpg/960px-Taurus_05_01_2012_Golf_von_Antalya_mit_Kuyucak_Da%C4%9F%C4%B1.jpg","alt":"Kızıl Dağ","caption":"Kızıl Dağ","credit":"Taurus 05 01 2012 Golf von Antalya mit Kuyucak Dağı","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%20Da%C4%9F%20(Sivas%2C%2039.93%20N)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514144","tip":"genel"}]
 description: "Sivas ilinde yer alan 39.93 N enlemdeki dağ, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."

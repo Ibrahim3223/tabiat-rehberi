@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","kültür turu","doğa gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Arslan Bey Türbesi, Tavşanlı","caption":"Arslan Bey Türbesi, Tavşanlı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Arslan Bey Türbesi, Tavşanlı","caption":"Arslan Bey Türbesi, Tavşanlı","credit":"Black Sea - Turkey","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arslan%20Bey%20T%C3%BCrbesi%2C%20Tav%C5%9Fanl%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582179","tip":"genel"}]
 description: "Tavşanlı'nın tarihi ve kültürel mirasının önemli bir parçası olan Arslan Bey Türbesi, ziyaretçiler için bir çekim noktasıdır."
 keywords: ["Arslan Bey Türbesi","Tavşanlı","Kütahya","Ege Bölgesi","tarih","kültür","türbe"]

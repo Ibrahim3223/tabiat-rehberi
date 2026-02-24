@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Mimari keşif","Kültürel etkinlikler","Yerel lezzetler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Tacettin Sultan Türbesi","caption":"Tacettin Sultan Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gerence_K%C3%B6rfezinden_-_panoramio.jpg/960px-Gerence_K%C3%B6rfezinden_-_panoramio.jpg","alt":"Tacettin Sultan Türbesi","caption":"Tacettin Sultan Türbesi","credit":"Gerence Körfezinden - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tacettin%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391694","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Tacettin Sultan Türbesi","Ankara","tarih","doğa","gezi","türbe","mimari","kültür"]

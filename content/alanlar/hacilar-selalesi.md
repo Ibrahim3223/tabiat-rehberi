@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["şelale gezi","doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Hacılar Şelalesi","caption":"Hacılar Şelalesi","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_05.JPG/960px-Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_05.JPG","alt":"Hacılar Şelalesi","caption":"Hacılar Şelalesi","credit":"Spring to Pağnık Stream, Kızılağaç - Saimbeyli 05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1lar%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Hacılar Şelalesi, ziyaretçilerini büyüleyen bir doğa harikasıdır."
 keywords: ["Ankara","doğa","şelale","gezi","turizm","yaban hayatı","ekosistem","çevre","iklim"]

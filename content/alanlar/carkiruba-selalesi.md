@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/-ayder_-turkey_-trabzon_-waterfalls_-nature_%2814251987354%29.jpg","alt":"Çarkıruba Şelalesi","caption":"Çarkıruba Şelalesi","credit":"-ayder -turkey -trabzon -waterfalls -nature (14251987354).jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Yer_k%C3%B6pr%C3%BC_%C5%9Felalesi.jpg/960px-Yer_k%C3%B6pr%C3%BC_%C5%9Felalesi.jpg","alt":"Çarkıruba Şelalesi","caption":"Çarkıruba Şelalesi","credit":"Yer köprü şelalesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ark%C4%B1ruba%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076502","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin, Çarkıruba Şelalesi'ni ziyaret edin"
 keywords: ["Rize","Karadeniz Bölgesi","şelale","doğa","gezi","turizm","çevre","ekoloji","yaban hayatı"]

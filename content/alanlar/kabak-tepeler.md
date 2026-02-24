@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kabak Tepeler","caption":"Kabak Tepeler","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Kabak Tepeler","caption":"Kabak Tepeler","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabak%20Tepeler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386243","tip":"genel"}]
 description: "Hatay ilinin doğal güzelliklerini keşfedin. Kabak Tepeler, 140 hektarlık geniş alanı ve zengin fauna ile dikkat çekiyor."
 keywords: ["Kabak Tepeler","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim"]

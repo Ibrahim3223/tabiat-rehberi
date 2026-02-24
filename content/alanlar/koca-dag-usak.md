@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5b/%D0%92%D0%B5%D1%80%D1%88%D0%B8%D0%BD%D0%B0_Koca_Da%C4%9F._H%C4%B1z%C4%B1r%C5%9Fah_K%C3%B6y%C3%BC._Dat%C3%A7a._Mu%C4%9Fla._Turkey._%D0%98%D1%8E%D0%BD%D1%8C_2015_-_panoramio.jpg","alt":"Koca Dağ (Uşak) manzarası","credit":"Vadim Indeikin","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Koca Dağ (Uşak)","caption":"Koca Dağ (Uşak)","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Da%C4%9F%20(U%C5%9Fak)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513800","tip":"genel"}]
 description: "Uşak'ta bulunan Koca Dağ, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

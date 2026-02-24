@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Gezi","Doğa yürüyüşü","Kuş gözlemi","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Hazar Gölü Sulak Alanı","caption":"Hazar Gölü Sulak Alanı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"Hazar Gölü Sulak Alanı","caption":"Hazar Gölü Sulak Alanı","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hazar%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228458","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
 keywords: ["Hazar Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Flora","Fauna","Gezi","Tarihçe","Coğrafya"]

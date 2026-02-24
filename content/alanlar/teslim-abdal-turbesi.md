@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih ve kültür turu","Doğa yürüyüşü","Fotoğraf çekimi","Mimari keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Teslim Abdal Türbesi","caption":"Teslim Abdal Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_12.jpg","alt":"Teslim Abdal Türbesi","caption":"Teslim Abdal Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Teslim%20Abdal%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391576","tip":"genel"}]
 description: "Pamukkale'nin eşsiz güzelliği, Denizli'nin tarihi değerleri ve Teslim Abdal Türbesi'nin mistik atmosferi"
 keywords: ["Pamukkale","Denizli","Teslim Abdal Türbesi","tarih","doğa","turizm","gezi","kültür","mimari"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğraf çekmek","picnic yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Topalçam","caption":"Topalçam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"Topalçam","caption":"Topalçam","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topal%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228342","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Topalçam, 140 hektarlık geniş bir alanı kaplıyor."
 keywords: ["Topalçam","İç Anadolu Bölgesi","doğal alan","milli park","turizm","ekoloji","çevre","flora","fauna"]

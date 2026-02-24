@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Köse Dağı","caption":"Köse Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg/960px-Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg","alt":"Köse Dağı","caption":"Köse Dağı","credit":"Kars Yaylası 06 1989 Dumanlı Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6se%20Da%C4%9F%C4%B1%20(%C3%87orum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042785","tip":"genel"}]
 description: "Çorum'un önemli dağlarından biri olan Köse Dağı, bölgenin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Köse Dağı","Çorum","Dağ","Doğa","Turizm","Gezi","Çorum Turistik Yerler","Köse Dağı Çorum","Dağcılık"]

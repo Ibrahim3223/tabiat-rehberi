@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Sofular Mağarası","caption":"Sofular Mağarası","credit":"A Geological Wonder in Nallıhan","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/2023-02-06_%C3%87elikhan%2C_Turkey_M6_earthquake_shakemap_%28USGS%29.jpg","alt":"Sofular Mağarası","caption":"Sofular Mağarası","credit":"2023-02-06 Çelikhan, Turkey M6 earthquake shakemap (USGS)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sofular%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915648","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Sofular Mağarası, jeopark türünde bir destinasyon."
 keywords: ["Sofular Mağarası","Jeopark","Türkiye","Doğal Alanlar","Mağara","Gezi","Seyahat","Turizm","Doğa"]

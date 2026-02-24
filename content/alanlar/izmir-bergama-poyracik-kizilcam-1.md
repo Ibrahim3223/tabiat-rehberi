@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora","Fauna gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MOKFC06.jpg/960px-MOKFC06.jpg","alt":"Izmir-Bergama-Poyracıkızılçam 1","caption":"Izmir-Bergama-Poyracıkızılçam 1","credit":"MOKFC06.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/De%C4%9Firmenbo%C4%9Faz%C4%B1_Tabiat_Park%C4%B1.jpg/960px-De%C4%9Firmenbo%C4%9Faz%C4%B1_Tabiat_Park%C4%B1.jpg","alt":"Izmir-Bergama-Poyracıkızılçam 1","caption":"Izmir-Bergama-Poyracıkızılçam 1","credit":"Değirmenboğazı Tabiat Parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Bergama-Poyrac%C4%B1k%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227894","tip":"genel"}]
 description: "İzmir'in Bergama ilçesinde yer alan milli park, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["milli park","İzmir","Bergama","Poyracık","Kızılçam","doğa","yeşil alan","flora","fauna"]

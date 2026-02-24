@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara seyretme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Yücedağ Tepesi","caption":"Yücedağ Tepesi","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Yücedağ Tepesi","caption":"Yücedağ Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCceda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196091","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerinden biri olan Yücedağ Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Yücedağ Tepesi","Kayseri","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

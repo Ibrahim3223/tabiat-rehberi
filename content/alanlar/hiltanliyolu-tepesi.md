@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin etrafında yer alan doğal güzellikleri izlemek","Tarihi eserleri ziyaret etmek","Tepenin panoramik manzarasını izlemek","Bölgenin fauna ve florasını keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Hiltanlıyolu Tepesi","caption":"Hiltanlıyolu Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ida_Flooding_%289%29.jpg/960px-Ida_Flooding_%289%29.jpg","alt":"Hiltanlıyolu Tepesi","caption":"Hiltanlıyolu Tepesi","credit":"Ida Flooding (9)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hiltanl%C4%B1yolu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386332","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan Hiltanlıyolu Tepesi, zengin tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Hiltanlıyolu Tepesi","Kilis","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarih","coğrafya","flora","fauna","ziyaret"]

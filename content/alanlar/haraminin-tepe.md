@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Haraminin Tepe","caption":"Haraminin Tepe","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg/960px-Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg","alt":"Haraminin Tepe","caption":"Haraminin Tepe","credit":"Tahtal Dağı 06 02 2013 Gipfel mit Bey Dağları","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haraminin%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31521197","tip":"genel"}]
 description: "Erzincan'da bulunan Haraminin Tepe, 1200 hektarlık yeşil alanıyla doğa severlerin gözdesi. 2500 metre yükseklikte yer alan tepe, trekking ve kamp için ideal."
 keywords: ["Haraminin Tepe","Erzincan","Dağ","Doğa","Trekking","Kamp","Yeşil Alan","Doğa Turizmi","Erzincan Gezi"]

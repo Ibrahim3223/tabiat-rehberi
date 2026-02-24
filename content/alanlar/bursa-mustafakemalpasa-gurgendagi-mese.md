@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet sürme","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Uluda%C4%9F_-_Olympos_Misios.jpg/960px-Uluda%C4%9F_-_Olympos_Misios.jpg","alt":"Bursa-Mustafakemalpaşa-Gurgendagi Mese","caption":"Bursa-Mustafakemalpaşa-Gurgendagi Mese","credit":"Uludağ - Olympos Misios.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Bursa-Mustafakemalpaşa-Gurgendagi Mese","caption":"Bursa-Mustafakemalpaşa-Gurgendagi Mese","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Gurgendagi%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227702","tip":"genel"}]
 description: "Marmara Bölgesi'nde yer alan Bursa-Mustafakemalpaşa-Gurgendagi Mese, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Marmara Bölgesi","Bursa","Milli Park","Gurgendagi Mese","yeşil alan","doğa","gezi","turizm","Marmara"]

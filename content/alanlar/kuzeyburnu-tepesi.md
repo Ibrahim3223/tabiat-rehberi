@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kuzeyburnu Tepesi","caption":"Kuzeyburnu Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Kuzeyburnu Tepesi","caption":"Kuzeyburnu Tepesi","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzeyburnu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558949","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Kuzeyburnu Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Ankara","Kuzeyburnu Tepesi","doğa","tepe","gezi","turizm","çevre","iklim","flora","fauna"]

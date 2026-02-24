@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih keşfi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Kraliçe Aba Anıt Mezarı","caption":"Kraliçe Aba Anıt Mezarı","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Kraliçe Aba Anıt Mezarı","caption":"Kraliçe Aba Anıt Mezarı","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Krali%C3%A7e%20Aba%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728150","tip":"genel"}]
 description: "Mersin'in Erdemli ilçesinde bulunan tarihi mezar, Akdeniz Bölgesi'nin önemli kültür varlıklarından biridir."
 keywords: ["Kraliçe Aba Anıt Mezarı","Erdemli","Mersin","Akdeniz Bölgesi","tarih","kültür","mezar","anıt"]

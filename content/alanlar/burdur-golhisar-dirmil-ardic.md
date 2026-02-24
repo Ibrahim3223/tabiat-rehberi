@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snow_on_the_Lake_Abant.jpg/960px-Snow_on_the_Lake_Abant.jpg","alt":"Burdur-Golhisar-Dirmil Ardic","caption":"Burdur-Golhisar-Dirmil Ardic","credit":"Snow on the Lake Abant","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg","alt":"Burdur-Golhisar-Dirmil Ardic","caption":"Burdur-Golhisar-Dirmil Ardic","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Golhisar-Dirmil%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227225","tip":"genel"}]
 description: "Burdur'un doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir milli park"
 keywords: ["Burdur","milli park","doğal güzellik","tarih","gezi","yaban hayatı","ekosistem"]

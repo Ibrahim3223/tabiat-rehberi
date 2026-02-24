@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Denizde yüzme","Kumda güneşlenme","Tarihî kalıntıları gezme","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Kasap Hamamı","caption":"Kasap Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/G%C3%B6kceada_fort_1.jpg/960px-G%C3%B6kceada_fort_1.jpg","alt":"Kasap Hamamı","caption":"Kasap Hamamı","credit":"Gökceada fort 1","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kasap%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738506","tip":"genel"}]
 description: "Gelibolu'nun en güzel plajlarından biri olan Kasap Hamamı, Marmara Bölgesi'nin saklı cennetlerinden biri."
 keywords: ["Gelibolu","Çanakkale","Marmara Bölgesi","plaj","deniz","kum"]

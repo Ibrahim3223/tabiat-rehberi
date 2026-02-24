@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Geçkinli Şehitlik Anıtı","caption":"Geçkinli Şehitlik Anıtı","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alanya-Antalya_-_panoramio_%283%29.jpg/960px-Alanya-Antalya_-_panoramio_%283%29.jpg","alt":"Geçkinli Şehitlik Anıtı","caption":"Geçkinli Şehitlik Anıtı","credit":"Alanya-Antalya - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ge%C3%A7kinli%20%C5%9Eehitlik%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728432","tip":"genel"}]
 description: "Edirne'nin Süloğlu ilçesinde bulunan Geçkinli Şehitlik Anıtı, tarihi ve coğrafi önemini korumaktadır."
 keywords: ["Geçkinli Şehitlik Anıtı","Süloğlu","Edirne","Marmara Bölgesi","tarih","coğrafya","doğal alan"]

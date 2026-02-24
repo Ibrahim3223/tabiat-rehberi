@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Manzara izleme","Geleneksel yaşamı tanımak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Ulutepe","caption":"Ulutepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Ulutepe","caption":"Ulutepe","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulutepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386919","tip":"genel"}]
 description: "Kastamonu'nun gizli cenneti Ulutepe, tarihi ve doğası ile ziyaretçilerini bekliyor."
 keywords: ["Ulutepe","Kastamonu","Karadeniz Bölgesi","Doğa","Tarih","Turizm","Gezi","Seyahat","Kültür"]

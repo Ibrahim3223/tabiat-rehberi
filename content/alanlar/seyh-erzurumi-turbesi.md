@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Piknik","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Şeyh Erzurumi Türbesi","caption":"Şeyh Erzurumi Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg/960px-Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg","alt":"Şeyh Erzurumi Türbesi","caption":"Şeyh Erzurumi Türbesi","credit":"Bodrum, Turkey (Unsplash savOaIMns3Y)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Erzurumi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391303","tip":"genel"}]
 description: "Sivas'ta bulunan tarihi türbe ve plaj alanı"
 keywords: ["Şeyh Erzurumi Türbesi","Sivas","İç Anadolu Bölgesi","tarih","doğa","turizm","gezi","plaj","tarihçe"]

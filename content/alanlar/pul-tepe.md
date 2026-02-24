@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nature_of_Cappadocia.jpg/960px-Nature_of_Cappadocia.jpg","alt":"Pul Tepe","caption":"Pul Tepe","credit":"Nature of Cappadocia.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/First_floor_hall._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-10.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Pul Tepe","caption":"Pul Tepe","credit":"First floor hall. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-10","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pul%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390599","tip":"genel"}]
 description: "Nevşehir'de bulunan Pul Tepe, İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Pul Tepe","Nevşehir","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara","coğrafya"]

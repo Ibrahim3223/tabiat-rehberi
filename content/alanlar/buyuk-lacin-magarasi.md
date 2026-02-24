@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Büyük Laçin Mağarası","caption":"Büyük Laçin Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-1.jpg/960px-Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-1.jpg","alt":"Büyük Laçin Mağarası","caption":"Büyük Laçin Mağarası","credit":"Geological formation, Şebinkarahisar 2016 01-1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20La%C3%A7in%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319087","tip":"genel"}]
 description: "Çorum'da yer alan Büyük Laçin Mağarası, 1200 hektarlık yeşil cennet içinde gizlenen bir jeopark"
 keywords: ["Büyük Laçin Mağarası","Çorum","Jeopark","Doğa","Mağara","Turizm","Çorum Turistik Yerler","Jeolojik oluşumlar","Doğa Harikaları"]

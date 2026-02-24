@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Bitki türleri keşfi","Hayvan izleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MOKFC06.jpg/960px-MOKFC06.jpg","alt":"Izmir-Urla Kızılçam","caption":"Izmir-Urla Kızılçam","credit":"MOKFC06.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Izmir-Urla Kızılçam","caption":"Izmir-Urla Kızılçam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Urla%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227426","tip":"genel"}]
 description: "İzmir'in güzelliklerini keşfedin, 140 hektarlık yeşil alanın keyfini çıkarın"
 keywords: ["İzmir","Urla","Kızılçam","Milli Park","Doğa","Yeşil Alan","Ege Bölgesi","Turizm","Gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Hz. Nuh Makamı","caption":"Hz. Nuh Makamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Hz. Nuh Makamı","caption":"Hz. Nuh Makamı","credit":"Altinkum in the evening","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hz.%20Nuh%20Makam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390949","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli cenneti, Hz. Nuh Makamı"
 keywords: ["Hz. Nuh Makamı","Cizre","Şırnak","Güneydoğu Anadolu Bölgesi","Plaj","Doğa","Tarih","Kültür"]

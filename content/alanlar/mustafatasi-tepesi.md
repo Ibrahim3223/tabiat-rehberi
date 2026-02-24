@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tırmanma","Manzara izleme","Fotoğraf çekme","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Mustafataşı Tepesi","caption":"Mustafataşı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg/960px-Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg","alt":"Mustafataşı Tepesi","caption":"Mustafataşı Tepesi","credit":"Ida Husted Harper photograph by Aime Dupont","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustafata%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510002","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Mustafataşı Tepesi, Van'ın doğal güzelliklerini keşfetmek için ideal bir nokta."
 keywords: ["Mustafataşı Tepesi","Van","Doğu Anadolu Bölgesi","Doğal güzellikler","Tepeler","Coğrafya","Flora","Fauna","Ziyaret","Gezi"]

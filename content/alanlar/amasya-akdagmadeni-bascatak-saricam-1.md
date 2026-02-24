@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Amasya-Akdagmadeni-Bascatak Saricam 1","caption":"Amasya-Akdagmadeni-Bascatak Saricam 1","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Amasya-Akdagmadeni-Bascatak Saricam 1","caption":"Amasya-Akdagmadeni-Bascatak Saricam 1","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Akdagmadeni-Bascatak%20Saricam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227541","tip":"genel"}]
 description: "Amasya ilinin doğal güzelliklerini keşfedin. Saricam 1 milli parkı, Karadeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Amasya","Akdagmadeni","Bascatak","Saricam","milli park","Karadeniz Bölgesi","doğal alan","çevre","ekosistem"]

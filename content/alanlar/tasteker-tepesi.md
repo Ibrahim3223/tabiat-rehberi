@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarih ve kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Taşteker Tepesi","caption":"Taşteker Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Taşteker Tepesi","caption":"Taşteker Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fteker%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391192","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Taşteker Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar."
 keywords: ["Taşteker Tepesi","İç Anadolu Bölgesi","doğa","tepe","manzara","gezi","turizm","çevre"]

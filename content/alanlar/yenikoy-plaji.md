@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Su sporları","Güneşlenme","Yürüyüş","Deniz kenarı aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Yeniköy Plajı","caption":"Yeniköy Plajı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg","alt":"Yeniköy Plajı","caption":"Yeniköy Plajı","credit":"Akdeniz- the mediterranean-silence beach resort hotel - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yenik%C3%B6y%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49325368","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide plajlarından biri olan Yeniköy Plajı, Bursa'nın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Yeniköy Plajı","Bursa","Marmara Bölgesi","plaj","deniz","doğa","tatil","gezi"]

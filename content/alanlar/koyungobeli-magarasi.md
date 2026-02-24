@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Koyungobeli Mağarası","caption":"Koyungobeli Mağarası","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cotton-look_terraces_in_Pamukkale%2C_Turkey_2010_-_panoramio.jpg/960px-Cotton-look_terraces_in_Pamukkale%2C_Turkey_2010_-_panoramio.jpg","alt":"Koyungobeli Mağarası","caption":"Koyungobeli Mağarası","credit":"Cotton-look terraces in Pamukkale, Turkey 2010 - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koyungobeli%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319380","tip":"genel"}]
 description: "Antalya'da yer alan Koyungobeli Mağarası, 1200 hektarlık yeşil cennet içinde gizli bir jeopark harikası."
 keywords: ["Koyungobeli Mağarası","Antalya","Jeopark","Mağara","Doğa","Turizm","Gezi","Antalya Turistik Yerler","Jeolojik Oluşumlar"]

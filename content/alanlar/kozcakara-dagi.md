@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Kozcakara Dağı","caption":"Kozcakara Dağı","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg/960px-Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg","alt":"Kozcakara Dağı","caption":"Kozcakara Dağı","credit":"Beyşehir Gölü 18 04 1992 mit den Dedegöl Dağlar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kozcakara%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31512594","tip":"genel"}]
 description: "Muğla'da yer alan Kozcakara Dağı, 1200 hektarlık yeşil cenneti ile doğa severleri bekliyor."
 keywords: ["Kozcakara Dağı","Muğla","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Trekking","Doğa Yürüyüşü"]

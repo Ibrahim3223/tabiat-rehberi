@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Pistehale Tepesi","caption":"Pistehale Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Second_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-15.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Pistehale Tepesi","caption":"Pistehale Tepesi","credit":"Second floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-15","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pistehale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391255","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Pistehale Tepesi, ziyaretçilerini doğanın kucağına davet ediyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Pistehale Tepesi","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara","yürüyüş","çevre","flora","fauna"]

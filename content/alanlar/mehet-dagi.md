@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Mehet Dağı","caption":"Mehet Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KackarDagi_fromNorth_hory.jpg/960px-KackarDagi_fromNorth_hory.jpg","alt":"Mehet Dağı","caption":"Mehet Dağı","credit":"KackarDagi fromNorth hory","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehet%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31540740","tip":"genel"}]
 description: "Şırnak'ta bulunan Mehet Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar."
 keywords: ["Mehet Dağı","Şırnak","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Dağcılık"]

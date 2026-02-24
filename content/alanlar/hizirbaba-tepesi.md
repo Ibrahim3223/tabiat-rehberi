@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Hızırbaba Tepesi","caption":"Hızırbaba Tepesi","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KackarDagi_fromNorth_hory.jpg/960px-KackarDagi_fromNorth_hory.jpg","alt":"Hızırbaba Tepesi","caption":"Hızırbaba Tepesi","credit":"KackarDagi fromNorth hory","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1z%C4%B1rbaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520613","tip":"genel"}]
 description: "Muş'un görkemli dağlarından biri olan Hızırbaba Tepesi, doğa severlerin ziyaret ettiği bir nokta"
 keywords: ["Hızırbaba Tepesi","Muş","Dağ","Doğa","Türkiye","Seyahat","Gezi","Turizm","Muş Turistik Yerler"]

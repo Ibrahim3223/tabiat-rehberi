@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Seferin Mağaraları","caption":"Seferin Mağaraları","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Salome_Marble_%28Supren_Marble%29_%28brecciated_marble%2C_metamorphosed_during_the_Cimmeride_Orogeny%2C_Late_Triassic_to_Early_Jurassic%3B_quarry_at_or_near_Supren%2C_northwestern_Turkey%29_1_%2814999205781%29.jpg/960px-thumbnail.jpg","alt":"Seferin Mağaraları","caption":"Seferin Mağaraları","credit":"Salome Marble (Supren Marble) (brecciated marble, metamorphosed during the Cimmeride Orogeny, Late Triassic to Early Jurassic; quarry at or near Supren, northwestern Turkey) 1 (14999205781)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seferin%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319744","tip":"genel"}]
 description: "Gaziantep'te yer alan Seferin Mağaraları, jeopark olarak bilinen doğal bir oluşum"
 keywords: ["Seferin Mağaraları","Gaziantep","Jeopark","Doğal Alanlar","Mağara Gezileri","Turizm","Gaziantep Turistik Yerler","Jeolojik Oluşumlar","Doğa Harikaları"]

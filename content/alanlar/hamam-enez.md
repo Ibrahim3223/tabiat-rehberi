@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denizde yüzmek","Güneşlenmek","Doğa yürüyüşü","Balık tutmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hamam, Enez","caption":"Hamam, Enez","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg","alt":"Hamam, Enez","caption":"Hamam, Enez","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 16","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20Enez","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245871","tip":"genel"}]
 description: "Enez'in en güzel plajı, sakin ve huzurlu bir atmosfer sunuyor. Edirne'nin en çok ziyaret edilen yerlerinden biri."
 keywords: ["Enez","Hamam Plajı","Edirne","Marmara Bölgesi","plaj","deniz","tatil","gezi","seyahat"]

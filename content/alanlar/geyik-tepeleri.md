@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Geyik Tepeleri","caption":"Geyik Tepeleri","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ida_Flooding_%282%29.jpg/960px-Ida_Flooding_%282%29.jpg","alt":"Geyik Tepeleri","caption":"Geyik Tepeleri","credit":"Ida Flooding (2)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geyik%20Tepeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389614","tip":"genel"}]
 description: "Balıkesir'in doğal güzellikleri arasında yer alan Geyik Tepeleri, Marmara Bölgesi'nin önemli coğrafik noktalarından biridir."
 keywords: ["Geyik Tepeleri","Balıkesir","Marmara Bölgesi","coğrafya","doğa","gezi"]

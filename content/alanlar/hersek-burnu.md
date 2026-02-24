@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abandoned_blue.jpg/960px-Abandoned_blue.jpg","alt":"Hersek Burnu","caption":"Hersek Burnu","credit":"Abandoned blue","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Eurasian_Collared-Dove_by_Tisha_Mukherjee_11.jpg/960px-Eurasian_Collared-Dove_by_Tisha_Mukherjee_11.jpg","alt":"Hersek Burnu","caption":"Hersek Burnu","credit":"Eurasian Collared-Dove by Tisha Mukherjee 11","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hersek%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q5744386","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Hersek Burnu, çeşitli kuş türlerine ev sahipliği yapıyor."
 keywords: ["Hersek Burnu","kuş cenneti","Türkiye","doğa","kuş gözlem","turizm","çevre","korunan alan","vahşi yaşam"]

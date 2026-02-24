@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yüzmek","güneşlenmek","doğa yürüyüşü","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Istavroz Hamamı","caption":"Istavroz Hamamı","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Istavroz Hamamı","caption":"Istavroz Hamamı","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Istavroz%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739162","tip":"genel"}]
 description: "Üsküdar'ın tarihi plajlarından biri olan Istavroz Hamamı, Marmara Bölgesi'nin güzide noktalarından biridir."
 keywords: ["Istavroz Hamamı","Üsküdar","Marmara Bölgesi","plaj","tarih","doğa","gezi"]

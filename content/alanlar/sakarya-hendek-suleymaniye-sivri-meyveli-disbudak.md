@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak","caption":"Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Munzur_Valley_National_Park.jpg/960px-Munzur_Valley_National_Park.jpg","alt":"Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak","caption":"Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak","credit":"Munzur Valley National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-Hendek-Suleymaniye%20Sivri%20Meyveli%20Disbudak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228050","tip":"genel"}]
 description: "Marmara Bölgesi'nde yer alan Sakarya-Hendek-Suleymaniye Sivri Meyveli Disbudak milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Sakarya","Marmara Bölgesi","milli park","doğa","flora","fauna","gezi","ziyaret","Suleymaniye","Hendek"]

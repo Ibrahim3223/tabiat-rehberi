@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Hakkari Kuşak Dağı","caption":"Hakkari Kuşak Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Develi_Ovas%C4%B1_15_06_1988_mit_Erciyes_Da%C4%9F%C4%B1.jpg/960px-Develi_Ovas%C4%B1_15_06_1988_mit_Erciyes_Da%C4%9F%C4%B1.jpg","alt":"Hakkari Kuşak Dağı","caption":"Hakkari Kuşak Dağı","credit":"Develi Ovası 15 06 1988 mit Erciyes Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hakkari%20Ku%C5%9Fak%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511620","tip":"genel"}]
 description: "Hakkari'nin görkemli dağlarından biri olan Hakkari Kuşak Dağı, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Hakkari Kuşak Dağı","Hakkari","Dağ","Doğa","Turizm","Gezi","Trekking","Doğa Yürüyüşü","Hakkari Turistik Yerler"]

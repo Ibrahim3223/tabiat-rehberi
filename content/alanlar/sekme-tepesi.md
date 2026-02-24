@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","trekking","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sekme Tepesi","caption":"Sekme Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Sekme Tepesi","caption":"Sekme Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sekme%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389696","tip":"genel"}]
 description: "Kastamonu'nun gizli cenneti Sekme Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kastamonu","Sekme Tepesi","Karadeniz Bölgesi","doğa","gezi","tepe","manzara"]

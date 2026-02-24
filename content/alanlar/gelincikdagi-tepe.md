@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Gelincikdağı Tepe","caption":"Gelincikdağı Tepe","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Gelincikdağı Tepe","caption":"Gelincikdağı Tepe","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gelincikda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31523489","tip":"genel"}]
 description: "Isparta'nın önemli dağlarından biri olan Gelincikdağı Tepe, 1200 hektarlık yeşil alanı ile doğa severlerin uğrak noktası"
 keywords: ["Gelincikdağı Tepe","Isparta","Dağ","Doğa","Yeşil Alan","Turizm","Isparta Turistik Yerler","Doğa Yürüyüşü","Dağcılık"]

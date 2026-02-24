@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Gün boyu"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Istanbul_and_Bosporus_big.jpg/960px-Istanbul_and_Bosporus_big.jpg","alt":"İğdeli Ada","caption":"İğdeli Ada","credit":"Istanbul and Bosporus big","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rabbit_Island%2C_Waimanalo_%28503354%29_%2818249554672%29.jpg/960px-Rabbit_Island%2C_Waimanalo_%28503354%29_%2818249554672%29.jpg","alt":"İğdeli Ada","caption":"İğdeli Ada","credit":"Rabbit Island, Waimanalo (503354) (18249554672)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0%C4%9Fdeli%20Ada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34795628","tip":"genel"}]
 description: "Isparta'da bulunan İğdeli Ada, 1200 hektarlık yeşil cenneti keşfedin!"
 keywords: ["İğdeli Ada","Isparta","ada","doğa","yeşil alan","gezi","seyahat","turizm","Isparta turistik yerler"]

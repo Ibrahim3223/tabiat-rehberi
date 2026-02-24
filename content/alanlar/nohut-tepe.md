@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarih incelemesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Nohut Tepe","caption":"Nohut Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Nohut Tepe","caption":"Nohut Tepe","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nohut%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558612","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Ankara","Nohut Tepe","tarih","doğa","gezi","turizm","kültür","coğrafya"]

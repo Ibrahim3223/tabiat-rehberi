@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Gezi","Doğa yürüyüşü","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Cevher Paşa Hamamı","caption":"Cevher Paşa Hamamı","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_07.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_07.jpg","alt":"Cevher Paşa Hamamı","caption":"Cevher Paşa Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 07","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cevher%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739090","tip":"genel"}]
 description: "Ege Bölgesi'nin Kale/Denizli ilçesinde bulunan Cevher Paşa Hamamı, tarihi ve doğal güzelliklerinin birleştiği bir alan."
 keywords: ["Cevher Paşa Hamamı","Kale","Denizli","Ege Bölgesi","tarihi alan","doğal güzellik"]

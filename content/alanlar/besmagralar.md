@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Siverek.jpg/960px-Siverek.jpg","alt":"Beşmağralar","caption":"Beşmağralar","credit":"Siverek.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/960px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg","alt":"Beşmağralar","caption":"Beşmağralar","credit":"Pluto-01 Stern 03 Pluto Color TXT","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fma%C4%9Fralar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319071","tip":"genel"}]
 description: "Şanlıurfa'da yer alan Beşmağralar Jeopark, 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Beşmağralar","Jeopark","Şanlıurfa","Doğal Alan","Yeşil Alan","Turizm","Gezi","Şanlıurfa Turistik Yerler","Jeoparklar"]

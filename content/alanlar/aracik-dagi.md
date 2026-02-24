@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Aracık Dağı","caption":"Aracık Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Aracık Dağı","caption":"Aracık Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arac%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31532045","tip":"genel"}]
 description: "Iğdır'da bulunan Aracık Dağı, 1400 metre yüksekliğiyle bölgenin önemli coğrafi oluşumlarından biri."
 keywords: ["Aracık Dağı","Iğdır","Dağ","Coğrafi Oluşum","Doğa","Türkiye","Gezi","Seyahat","Iğdır Turizm"]

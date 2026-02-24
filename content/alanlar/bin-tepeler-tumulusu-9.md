@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografcılık","bitki gözlemi","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Bin Tepeler Tümülüsü 9","caption":"Bin Tepeler Tümülüsü 9","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/A_beach_near_Phaselis_2021-02-26-2.jpg/960px-A_beach_near_Phaselis_2021-02-26-2.jpg","alt":"Bin Tepeler Tümülüsü 9","caption":"Bin Tepeler Tümülüsü 9","credit":"A beach near Phaselis 2021-02-26-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%209","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728366","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Bin Tepeler","Tümülüsü","Salihli","Manisa","Ege Bölgesi","tarih","doğa","gezi","tümülüs","arkeoloji"]

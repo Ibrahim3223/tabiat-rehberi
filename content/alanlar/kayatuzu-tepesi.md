@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg","alt":"Kayatuzu Tepesi","caption":"Kayatuzu Tepesi","credit":"The Landscape of Sıklık Gate park Çorum.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/South_room%2C_second_floor._View_looking_west._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-18.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kayatuzu Tepesi","caption":"Kayatuzu Tepesi","credit":"South room, second floor. View looking west. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-18","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayatuzu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581683","tip":"genel"}]
 description: "Çorum'un Karadeniz Bölgesi'nde yer alan Kayatuzu Tepesi, eşsiz bir doğa harikasıdır."
 keywords: ["Kayatuzu Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","çevre"]

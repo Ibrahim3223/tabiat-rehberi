@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Avlama Dağı","caption":"Avlama Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Olympos_Peak.jpg/960px-Olympos_Peak.jpg","alt":"Avlama Dağı","caption":"Avlama Dağı","credit":"Olympos Peak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avlama%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531452","tip":"genel"}]
 description: "Mersin'de yer alan Avlama Dağı, doğa severlerin ziyaret ettiği bir dağdır. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Avlama Dağı","Mersin","Dağ","Doğa","Yeşil Alan","Mersin Turizm","Türkiye Dağları","Doğa Yürüyüşü","Mersin Gezilecek Yerler"]

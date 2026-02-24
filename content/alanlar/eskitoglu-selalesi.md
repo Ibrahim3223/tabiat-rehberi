@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","yürüyüş","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kur%C5%9Funlu_waterfall.JPG/960px-Kur%C5%9Funlu_waterfall.JPG","alt":"Eskitoğlu Şelalesi","caption":"Eskitoğlu Şelalesi","credit":"Kurşunlu waterfall","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nature_in_story_and_verse.._%281912%29_%2814596301387%29.jpg/960px-Nature_in_story_and_verse.._%281912%29_%2814596301387%29.jpg","alt":"Eskitoğlu Şelalesi","caption":"Eskitoğlu Şelalesi","credit":"Nature in story and verse.. (1912) (14596301387)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskito%C4%9Flu%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076497","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin. Eskitoğlu Şelalesi, Karadeniz Bölgesi'nin saklı cenneti."
 keywords: ["Eskitoğlu Şelalesi","Rize","Karadeniz Bölgesi","şelale","doğa","gezi","turizm","yeşil","su"]

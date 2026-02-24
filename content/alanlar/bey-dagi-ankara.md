@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Bey Dağı (Ankara)","caption":"Bey Dağı (Ankara)","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"Bey Dağı (Ankara)","caption":"Bey Dağı (Ankara)","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bey%20Da%C4%9F%C4%B1%20(Ankara)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557378","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin. Bey Dağı, Ankara'nın önemli dağlarından biri."
 keywords: ["Bey Dağı","Ankara","Dağ","Doğa","Gezi","Türkiye","Ankara Turizm","Bey Dağı Ankara","Ankara Doğal Alanlar"]

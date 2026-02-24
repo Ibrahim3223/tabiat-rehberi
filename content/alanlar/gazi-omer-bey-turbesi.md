@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["plaj","tarih gezisi","doğa yürüyüşü","güneşlenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kartaltepe_Landscape.jpg/960px-Kartaltepe_Landscape.jpg","alt":"Gazi Ömer Bey Türbesi","caption":"Gazi Ömer Bey Türbesi","credit":"Kartaltepe Landscape.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg","alt":"Gazi Ömer Bey Türbesi","caption":"Gazi Ömer Bey Türbesi","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazi%20%C3%96mer%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391813","tip":"genel"}]
 description: "Tekirdağ'ın Malkara ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Gazi Ömer Bey Türbesi","Malkara","Tekirdağ","tarih","türbe","plaj","Marmara Bölgesi","gezi","turizm"]

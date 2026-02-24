@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih keşfi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Hersekzâde Ahmet Paşa Türbesi, Yalova","caption":"Hersekzâde Ahmet Paşa Türbesi, Yalova","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-19_Ufakdere_Port_Beach_1.jpg/960px-2023-11-19_Ufakdere_Port_Beach_1.jpg","alt":"Hersekzâde Ahmet Paşa Türbesi, Yalova","caption":"Hersekzâde Ahmet Paşa Türbesi, Yalova","credit":"2023-11-19 Ufakdere Port Beach 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hersekz%C3%A2de%20Ahmet%20Pa%C5%9Fa%20T%C3%BCrbesi%2C%20Yalova","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735187","tip":"genel"}]
 description: "Tarihi geçmişi ve doğal güzelliği ile dikkat çeken Hersekzâde Ahmet Paşa Türbesi, Yalova'nın Altınova ilçesinde yer alır."
 keywords: ["Hersekzâde Ahmet Paşa Türbesi","Yalova","Altınova","tarihi mekanlar","doğal güzellikler","Marmara Bölgesi","turizm"]

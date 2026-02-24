@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Rehberli tur","Atatürk'ün kişisel eşyalarını incelemek","Müzenin bahçesini gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Black_and_white_Paris_landscape.jpg/960px-Black_and_white_Paris_landscape.jpg","alt":"Akaretler Mustafa Kemal Müzesi","caption":"Akaretler Mustafa Kemal Müzesi","credit":"Black and white Paris landscape.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lake_S%C3%BCnnet_in_the_fall_01.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_01.jpg","alt":"Akaretler Mustafa Kemal Müzesi","caption":"Akaretler Mustafa Kemal Müzesi","credit":"Lake Sünnet in the fall 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akaretler%20Mustafa%20Kemal%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132681901","tip":"genel"}]
 description: "Mustafa Kemal Atatürk'ün İstanbul'da kaldığı evi nowdays müze olarak hizmet vermekte."
 keywords: ["Akaretler","Mustafa Kemal Müzesi","Beşiktaş","İstanbul","Marmara Bölgesi","tarihçe","müze","gezi"]

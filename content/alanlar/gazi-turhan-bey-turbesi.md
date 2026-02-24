@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Plaj aktivitelerı","Yerel lezzetler","Hediyelik eşya alışverişi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Gazi Turhan Bey Türbesi","caption":"Gazi Turhan Bey Türbesi","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg","alt":"Gazi Turhan Bey Türbesi","caption":"Gazi Turhan Bey Türbesi","credit":"Akdeniz- the mediterranean-silence beach resort hotel - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazi%20Turhan%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390794","tip":"genel"}]
 description: "Uzunköprü'de tarihi bir türbe ve plaj"
 keywords: ["Gazi Turhan Bey Türbesi","Uzunköprü","Edirne","Marmara Bölgesi","tarih","plaj","turizm"]

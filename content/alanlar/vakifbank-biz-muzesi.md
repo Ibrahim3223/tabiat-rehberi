@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["sergiler","etkinlikler","atölye çalışmaları","eğitim programları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tea_and_Istanbul_-_panoramio.jpg/960px-Tea_and_Istanbul_-_panoramio.jpg","alt":"Vakıfbank B'iz Müzesi","caption":"Vakıfbank B'iz Müzesi","credit":"Tea and Istanbul - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ski_mountain_under_clouds.jpg/960px-Ski_mountain_under_clouds.jpg","alt":"Vakıfbank B'iz Müzesi","caption":"Vakıfbank B'iz Müzesi","credit":"Ski mountain under clouds","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vak%C4%B1fbank%20B'iz%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949633","tip":"genel"}]
 description: "İstanbul'un merkezinde, teknoloji ve sanatın birleştiği Vakıfbank B'iz Müzesi"
 keywords: ["Vakıfbank B'iz Müzesi","İstanbul","Marmara Bölgesi","müze","teknoloji","sanat","eğitim","etkinlik","gezi"]

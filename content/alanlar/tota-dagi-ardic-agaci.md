@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Tota Dagi Ardic Agaci","caption":"Tota Dagi Ardic Agaci","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Tota Dagi Ardic Agaci","caption":"Tota Dagi Ardic Agaci","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tota%20Dagi%20Ardic%20Agaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227352","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor"
 keywords: ["Tota Dagi Ardic Agaci","milli park","İç Anadolu Bölgesi","doğa alanları","yeşil alanlar","gezi noktaları","turizm","çevre","ekosistem"]

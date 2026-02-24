@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sızıdede Tepesi","caption":"Sızıdede Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Sızıdede Tepesi","caption":"Sızıdede Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1z%C4%B1dede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386952","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli doğal güzelliklerinden biri olan Sızıdede Tepesi, Balıkesir'de yer alır."
 keywords: ["Sızıdede Tepesi","Balıkesir","Marmara Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

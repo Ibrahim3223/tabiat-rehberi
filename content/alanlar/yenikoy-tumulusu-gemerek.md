@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî araştırma","Doğa yürüyüşü","Fotografi","Kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Yeniköy Tümülüsü, Gemerek","caption":"Yeniköy Tümülüsü, Gemerek","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beach_Antakya_Turkey_-_panoramio.jpg/960px-Beach_Antakya_Turkey_-_panoramio.jpg","alt":"Yeniköy Tümülüsü, Gemerek","caption":"Yeniköy Tümülüsü, Gemerek","credit":"Beach Antakya Turkey - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yenik%C3%B6y%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Gemerek","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728420","tip":"genel"}]
 description: "Sivas'ın Gemerek ilçesinde yer alan tarihi tümülüs, zengin tarihi geçmişi ile dikkat çekiyor."
 keywords: ["Yeniköy Tümülüsü","Gemerek","Sivas","tarih","tümülüs","kültür","coğrafya","gezi","ziyaret"]

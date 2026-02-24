@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["denizde yüzme","güneşlenme","yürüyüş","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Tavşan Dede Türbesi","caption":"Tavşan Dede Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Istanbul_beaches-_Sea_of_Marmara_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_05.jpg","alt":"Tavşan Dede Türbesi","caption":"Tavşan Dede Türbesi","credit":"Istanbul beaches- Sea of Marmara 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tav%C5%9Fan%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390780","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin en güzel plajlarından biri olan Tavşan Dede Türbesi, Düzce'nin Akçakoca ilçesinde yer alıyor."
 keywords: ["Tavşan Dede Türbesi","Akçakoca","Düzce","Karadeniz Bölgesi","plaj","deniz","kumsal"]

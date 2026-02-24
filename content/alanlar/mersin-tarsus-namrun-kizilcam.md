@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kad%C4%B1nc%C4%B1k_Valley_1.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_1.jpg","alt":"Mersin-Tarsus-Namrun Kızılçam","caption":"Mersin-Tarsus-Namrun Kızılçam","credit":"Kadıncık Valley 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Mersin-Tarsus-Namrun Kızılçam","caption":"Mersin-Tarsus-Namrun Kızılçam","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Tarsus-Namrun%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227441","tip":"genel"}]
 description: "Mersin'in Tarsus ilçesinde yer alan Namrun Kızılçam Milli Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Mersin","Tarsus","Namrun Kızılçam","milli park","doğa","kızılçam","orman","ekosistem"]

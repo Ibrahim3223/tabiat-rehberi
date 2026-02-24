@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Plajda dinlenmek","Türbe ziyaret etmek","Doğa yürüyüşü yapmak","Denizde yüzmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg","alt":"Cinli Mescit Türbesi","caption":"Cinli Mescit Türbesi","credit":"Süzer Sun Dreams Beach 11 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Beachside_in_Sinop.jpg/960px-Beachside_in_Sinop.jpg","alt":"Cinli Mescit Türbesi","caption":"Cinli Mescit Türbesi","credit":"Beachside in Sinop","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cinli%20Mescit%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391563","tip":"genel"}]
 description: "İzmir'in Bayındır ilçesinde bulunan tarihi bir plaj"
 keywords: ["Cinli Mescit Türbesi","Bayındır","İzmir","Ege Bölgesi","Tarih","Plaj","Türbe"]

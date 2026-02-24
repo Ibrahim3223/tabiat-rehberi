@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğrafçılık","Tarihi ve dinî mekânları keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Muhammed Beşir Türbesi","caption":"Muhammed Beşir Türbesi","credit":"Erzincan Refahiye.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Muhammed Beşir Türbesi","caption":"Muhammed Beşir Türbesi","credit":"Podima1","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Muhammed%20Be%C5%9Fir%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391654","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide illerinden Erzincan'da bulunan Muhammed Beşir Türbesi, şehrin önemli tarihi ve dinî mekânlarındandır."
 keywords: ["Muhammed Beşir Türbesi","Erzincan","Doğu Anadolu Bölgesi","tarihi mekân","dinî mekân","tarihçe","coğrafya","flora","fauna"]

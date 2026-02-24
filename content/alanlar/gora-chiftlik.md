@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Gora Chiftlik","caption":"Gora Chiftlik","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Gora Chiftlik","caption":"Gora Chiftlik","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Chiftlik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386176","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Gora Chiftlik, coğrafyası ve doğal güzellikleriyle dikkat çekiyor"
 keywords: ["Gora Chiftlik","İç Anadolu Bölgesi","coğrafya","doğal güzellik","gezi","turizm"]

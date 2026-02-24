@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","orman gezisi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Canakkale-Ayvacik-Ezine Kızılçam","caption":"Canakkale-Ayvacik-Ezine Kızılçam","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","alt":"Canakkale-Ayvacik-Ezine Kızılçam","caption":"Canakkale-Ayvacik-Ezine Kızılçam","credit":"Gölcük Tabiat Parkı Karlar Altında 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Ayvacik-Ezine%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227641","tip":"genel"}]
 description: "Doğal güzellikleri ile dikkat çeken milli park"
 keywords: ["milli park","doğal güzellik","orman","Çanakkale","Ayvacık","Ezine","Kızılçam"]

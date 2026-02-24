@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","bitki gözlemi","fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Yumruçal Tepesi","caption":"Yumruçal Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ida_Flooding_%2823%29.jpg/960px-Ida_Flooding_%2823%29.jpg","alt":"Yumruçal Tepesi","caption":"Yumruçal Tepesi","credit":"Ida Flooding (23)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumru%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32195974","tip":"genel"}]
 description: "Kütahya'nın doğal güzellikleri arasında yer alan Yumruçal Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kütahya","Yumruçal Tepesi","Ege Bölgesi","doğa","tepe","gezi"]

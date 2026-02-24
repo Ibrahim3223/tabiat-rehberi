@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Fosil Ardic","caption":"Fosil Ardic","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Fosil Ardic","caption":"Fosil Ardic","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fosil%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227151","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli bir hazine olan Fosil Ardic, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Fosil Ardic","İç Anadolu Bölgesi","milli park","doğa","gezi","turizm","çevre","flora","fauna","coğrafya"]

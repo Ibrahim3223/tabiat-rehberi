@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Bitki observation","Hayvan observation","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MOKFC02.jpg/960px-MOKFC02.jpg","alt":"Izmir-Bergama-Kozak Kızılçam","caption":"Izmir-Bergama-Kozak Kızılçam","credit":"MOKFC02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg/960px-Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg","alt":"Izmir-Bergama-Kozak Kızılçam","caption":"Izmir-Bergama-Kozak Kızılçam","credit":"Balıkesir Değirmenboğazı tabiat parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Bergama-Kozak%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227424","tip":"genel"}]
 description: "İzmir'in Bergama ilçesinde yer alan milli park, 140 hektarlık alanı ile önemli bir doğa alanıdır."
 keywords: ["İzmir","Bergama","Kozak Kızılçam","Milli Park","Doğa","Turizm","Çevre","Kızılçam"]

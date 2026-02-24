@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Kuş gözlemciliği","Trekking","Doğa yürüyüşü","Balık avı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Turna Gölü Sulak Alanı","caption":"Turna Gölü Sulak Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg/960px-Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg","alt":"Turna Gölü Sulak Alanı","caption":"Turna Gölü Sulak Alanı","credit":"Melchior de Hondecoeter (1636-1695) - A Cock and Turkey Fighting, in a Park Setting, with Other Fowl - 453773 - National Trust","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turna%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228877","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Turna Gölü Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Turna Gölü","Sulak Alanı","İç Anadolu Bölgesi","Doğal Alan","Flora","Fauna","Ziyaret","Gezi","Tarihçe"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "en az birkaç saat"
 aktiviteler: ["doğa yürüyüşü","plaj","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Haki Baba Türbesi","caption":"Haki Baba Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Istanbul_beaches-_Sea_of_Marmara_13.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_13.jpg","alt":"Haki Baba Türbesi","caption":"Haki Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara 13","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haki%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390970","tip":"genel"}]
 description: "Eyüpsultan'da bulunan tarihi türbe ve plaj"
 keywords: ["Haki Baba Türbesi","Eyüpsultan","İstanbul","Marmara Bölgesi","tarih","plaj","turizm","gezi","doğa"]

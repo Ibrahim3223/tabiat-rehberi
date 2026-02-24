@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Ciro Tepe","caption":"Ciro Tepe","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Ciro Tepe","caption":"Ciro Tepe","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ciro%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550258","tip":"genel"}]
 description: "Diyarbakır'da yer alan Ciro Tepe, bölgenin önemli dağlarından biri. 1200 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["Ciro Tepe","Diyarbakır","Dağ","Yeşil Alan","Doğa","Türkiye","Coğrafya","Seyahat","Gezi"]

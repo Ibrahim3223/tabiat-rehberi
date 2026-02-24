@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denize girmek","güneşlenmek","yürüyüş yapmak","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/S%C3%BCzer_Sun_Dreams_Beach_14_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_14_-_panoramio.jpg","alt":"Eski Hamam, Kemalpaşa","caption":"Eski Hamam, Kemalpaşa","credit":"Süzer Sun Dreams Beach 14 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg","alt":"Eski Hamam, Kemalpaşa","caption":"Eski Hamam, Kemalpaşa","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%20Hamam%2C%20Kemalpa%C5%9Fa","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245837","tip":"genel"}]
 description: "İzmir'in Kemalpaşa ilçesinde bulunan Eski Hamam, Ege Bölgesi'nin en güzel plajlarından biri"
 keywords: ["Kemalpaşa","İzmir","Ege Bölgesi","plaj","deniz","tatil","gezi","turizm","doğa"]

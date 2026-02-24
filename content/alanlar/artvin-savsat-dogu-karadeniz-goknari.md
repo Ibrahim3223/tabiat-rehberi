@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","kamp","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ye%C5%9Fil_Deniz.jpg/960px-Ye%C5%9Fil_Deniz.jpg","alt":"Artvin-Savsat-Dogu Karadeniz Goknari","caption":"Artvin-Savsat-Dogu Karadeniz Goknari","credit":"Yeşil Deniz.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg","alt":"Artvin-Savsat-Dogu Karadeniz Goknari","caption":"Artvin-Savsat-Dogu Karadeniz Goknari","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Savsat-Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228464","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzellikleri ve tarihi değerleri ile dikkat çeken bir milli park"
 keywords: ["Artvin","Savsat","Doğu Karadeniz","Gök Narı","milli park","Karadeniz Bölgesi","doğal güzellik","tarih"]

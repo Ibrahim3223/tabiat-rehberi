@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Egyarli Mountain","caption":"Egyarli Mountain","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Egyarli Mountain","caption":"Egyarli Mountain","credit":"Vihorlat (v zime) 046","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Egyarli%20Mountain","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21697271","tip":"genel"}]
 description: "Artvin'de yer alan Egyarli Dağı, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Egyarli Mountain","Artvin","Dağ","Doğa","Yürüyüş Rotaları","Turizm","Gezi","Macera","Doğal Güzellikler"]

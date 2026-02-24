@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Ghukasyan Mets Dağı","caption":"Ghukasyan Mets Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg/960px-Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg","alt":"Ghukasyan Mets Dağı","caption":"Ghukasyan Mets Dağı","credit":"Hacıbaba dağı- batıdan - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ghukasyan%20Mets%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21403836","tip":"genel"}]
 description: "Ermenistan Demokratik Cumhuriyeti, Kars Oblastı'nda bulunan Ghukasyan Mets Dağı, doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Ghukasyan Mets Dağı","Ermenistan","Kars Oblastı","Dağ","Doğal Güzellik","Turizm","Coğrafya","Seyahat","Ermenistan Dağları"]

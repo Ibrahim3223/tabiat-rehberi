@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa keşfi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Üzümören","caption":"Üzümören","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"Üzümören","caption":"Üzümören","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cz%C3%BCm%C3%B6ren","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227800","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
 keywords: ["Üzümören","İç Anadolu Bölgesi","Milli Park","Doğa","Yeşil Alan","İklim","Fauna","Flora"]

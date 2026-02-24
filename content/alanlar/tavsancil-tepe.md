@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/960px-Kursunlu_Waterfall_Autumn.jpg","alt":"Tavşancıl Tepe","caption":"Tavşancıl Tepe","credit":"Kursunlu Waterfall Autumn.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Tavşancıl Tepe","caption":"Tavşancıl Tepe","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tav%C5%9Fanc%C4%B1l%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390178","tip":"genel"}]
 description: "Antalya'nın güzide noktalarından biri olan Tavşancıl Tepe, ziyaretçilerine doğanın güzelliğini sunuyor."
 keywords: ["Tavşancıl Tepe","Antalya","doğa","tepe","manzara","gezi","turizm","Akdeniz Bölgesi","coğrafya"]

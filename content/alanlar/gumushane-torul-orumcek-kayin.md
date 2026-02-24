@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doga yürüyüşü","Kamp kurma","Balık tutma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Gumushane-Torul-Orumcek Kayin","caption":"Gumushane-Torul-Orumcek Kayin","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MOKFC03.jpg/960px-MOKFC03.jpg","alt":"Gumushane-Torul-Orumcek Kayin","caption":"Gumushane-Torul-Orumcek Kayin","credit":"MOKFC03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gumushane-Torul-Orumcek%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227273","tip":"genel"}]
 description: "Gümüşhane'nin Torul ilçesinde bulunan Orumcek Kayın Milli Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Gümüşhane","Torul","Orumcek Kayın","Milli Park","Karadeniz Bölgesi","Doğa","Turizm"]

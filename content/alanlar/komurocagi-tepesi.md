@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["yürüyüş","kuş gözlemciliği","çiçek izleme","manzara seyri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kömürocağı Tepesi","caption":"Kömürocağı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Kömürocağı Tepesi","caption":"Kömürocağı Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6m%C3%BCroca%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210237","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin. Kömürocağı Tepesi, Karadeniz Bölgesi'nin en ilgi çekici noktalarından biri."
 keywords: ["Kastamonu","Karadeniz Bölgesi","Kömürocağı Tepesi","doğa","gezi","tepe","manzara"]

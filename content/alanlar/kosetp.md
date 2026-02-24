@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşü","Yaban hayatı gözlemi","Çevre gezisi","Ekoloji eğitimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"KÖSE_TP","caption":"KÖSE_TP","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"KÖSE_TP","caption":"KÖSE_TP","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%96SE_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228774","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
 keywords: ["İç Anadolu Bölgesi","Milli Park","doğa","gezi","yaban hayatı","çevre","ekoloji"]

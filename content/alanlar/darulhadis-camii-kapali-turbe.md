@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe içi gezi","Bahçe gezisi","Rehberlik hizmeti","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Darülhadis Camii Kapalı Türbe","caption":"Darülhadis Camii Kapalı Türbe","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Darülhadis Camii Kapalı Türbe","caption":"Darülhadis Camii Kapalı Türbe","credit":"Antalya Serik Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dar%C3%BClhadis%20Camii%20Kapal%C4%B1%20T%C3%BCrbe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391253","tip":"genel"}]
 description: "Edirne'nin tarihi güzelliği, Marmara Bölgesi'nin önemli dini yapılarından biri"
 keywords: ["Edirne","Marmara Bölgesi","tarih","dini yapılar","gezi","turizm","Darülhadis Camii","Kapalı Türbe","Mimarlık"]

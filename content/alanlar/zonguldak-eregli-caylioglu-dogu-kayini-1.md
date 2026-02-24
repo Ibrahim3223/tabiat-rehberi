@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","trekking","kampçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Zonguldak-Eregli-Caylioglu Dogu Kayini 1","caption":"Zonguldak-Eregli-Caylioglu Dogu Kayini 1","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","alt":"Zonguldak-Eregli-Caylioglu Dogu Kayini 1","caption":"Zonguldak-Eregli-Caylioglu Dogu Kayini 1","credit":"Gölcük Tabiat Parkı Karlar Altında 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Eregli-Caylioglu%20Dogu%20Kayini%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227741","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Zonguldak'ta yer alan milli park"
 keywords: ["Zonguldak","Eregli","Caylioglu","Dogu Kayini","Milli Park","Karadeniz Bölgesi","Doğa","Turizm"]

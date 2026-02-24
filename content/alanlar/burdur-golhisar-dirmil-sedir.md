@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Sedir ağaçları altında dinlenmek","Flora ve fauna gözlemi","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_photos_of_Akda%C4%9F_3.jpg/960px-The_photos_of_Akda%C4%9F_3.jpg","alt":"Burdur-Golhisar-Dirmil Sedir","caption":"Burdur-Golhisar-Dirmil Sedir","credit":"The photos of Akdağ 3","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg","alt":"Burdur-Golhisar-Dirmil Sedir","caption":"Burdur-Golhisar-Dirmil Sedir","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Golhisar-Dirmil%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227212","tip":"genel"}]
 description: "Akdeniz Bölgesi'nde yer alan Burdur-Golhisar-Dirmil Sedir milli parkı, 140 hektarlık yeşil alanı ve zengin faunası ile dikkat çekiyor."
 keywords: ["Burdur","Golhisar","Dirmil","Sedir","Milli Park","Akdeniz Bölgesi","Doğa","Turizm"]

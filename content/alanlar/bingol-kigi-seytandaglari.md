@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Günün yarısı"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Bingol-Kigi Seytandaglari","caption":"Bingol-Kigi Seytandaglari","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"Bingol-Kigi Seytandaglari","caption":"Bingol-Kigi Seytandaglari","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bingol-Kigi%20Seytandaglari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227095","tip":"genel"}]
 description: "İç Anadolu'nun doğal güzelliklerini keşfedin, Bingol-Kigi Seytandaglari milli parkı"
 keywords: ["Bingol","Kigi Seytandaglari","milli park","İç Anadolu","doğa","gezi","seyahat"]

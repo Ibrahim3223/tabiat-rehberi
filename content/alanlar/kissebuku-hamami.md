@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["güneşlenmek","yüzmek","deniz faaliyetleri","plaj voleybolu","deniz bisikleti"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Kissebükü Hamamı","caption":"Kissebükü Hamamı","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg/960px-Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg","alt":"Kissebükü Hamamı","caption":"Kissebükü Hamamı","credit":"Giresun, Merkez, Sahilde. 9 Şubat 2020","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kisseb%C3%BCk%C3%BC%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245710","tip":"genel"}]
 description: "Bodrum'un gizli cenneti, Kissebükü Hamamı Plajı, Ege Denizi'nin masmavi suları ve altın kumlu plajı ile ziyaretçilerini bekliyor."
 keywords: ["Kissebükü Hamamı","Bodrum","Muğla","Ege Bölgesi","plaj","deniz","kum","turizm"]

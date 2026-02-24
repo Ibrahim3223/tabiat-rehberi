@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gallipoli_Peninsula_Historical_National_Park_%281%29.jpg/960px-Gallipoli_Peninsula_Historical_National_Park_%281%29.jpg","alt":"Canakkale-Bayramic-Karakoy-Karacam","caption":"Canakkale-Bayramic-Karakoy-Karacam","credit":"Gallipoli Peninsula Historical National Park (1).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg","alt":"Canakkale-Bayramic-Karakoy-Karacam","caption":"Canakkale-Bayramic-Karakoy-Karacam","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Bayramic-Karakoy-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227494","tip":"genel"}]
 description: "Doğal güzellikleri ile dikkat çeken milli park"
 keywords: ["milli park","doğa","çevre","turizm","çanakkale","marmara bölgesi","gezi","seyahat"]

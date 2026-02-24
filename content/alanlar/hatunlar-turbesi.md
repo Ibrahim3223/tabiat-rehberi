@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["denize girme","plajda güneşlenme","doğa yürüyüşü","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Hatunlar Türbesi","caption":"Hatunlar Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg","alt":"Hatunlar Türbesi","caption":"Hatunlar Türbesi","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (4)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatunlar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391652","tip":"genel"}]
 description: "Sinop'un tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Sinop","Karadeniz Bölgesi","plaj","tarih","doğa","gezi","turizm"]

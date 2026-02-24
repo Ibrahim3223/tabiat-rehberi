@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","doğa yürüyüşü","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Seki Tepesi","caption":"Seki Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ida_Flooding_%289%29.jpg/960px-Ida_Flooding_%289%29.jpg","alt":"Seki Tepesi","caption":"Seki Tepesi","credit":"Ida Flooding (9)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seki%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390728","tip":"genel"}]
 description: "Yozgat'ın gizli güzelliği Seki Tepesi, İç Anadolu Bölgesi'nin tarihi ve doğal zenginliklerini keşfedin."
 keywords: ["Seki Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm","çevre","ekoloji"]

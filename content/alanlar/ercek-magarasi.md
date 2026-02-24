@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Erçek Mağarası","caption":"Erçek Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Glacial_lakes%2C_Bhutan.jpg/960px-Glacial_lakes%2C_Bhutan.jpg","alt":"Erçek Mağarası","caption":"Erçek Mağarası","credit":"Glacial lakes, Bhutan","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Er%C3%A7ek%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915639","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Erçek Mağarası, jeopark olarak bilinen bu bölge, yeraltı dünyasının gizemini ortaya çıkarıyor."
 keywords: ["Erçek Mağarası","Jeopark","Türkiye","Doğal Alanlar","Mağara","Yeraltı Dünyası","Turizm","Gezi","Keşif"]

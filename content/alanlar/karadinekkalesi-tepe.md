@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Karadinekkalesi Tepe","caption":"Karadinekkalesi Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Karadinekkalesi Tepe","caption":"Karadinekkalesi Tepe","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karadinekkalesi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389479","tip":"genel"}]
 description: "Gaziantep'in tarihi ve doğal güzelliklerinin birleştiği Karadinekkalesi Tepe, ziyaretçilerini bekliyor."
 keywords: ["Karadinekkalesi Tepe","Gaziantep","tarih","doğa","gezi","turizm","tepe","manzara","çevre"]

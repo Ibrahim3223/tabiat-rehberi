@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Uluda%C4%9F_National_Park_%28777%29.jpg/960px-Uluda%C4%9F_National_Park_%28777%29.jpg","alt":"Bursa-Mustafakemalpasa-Karadag-Karacam","caption":"Bursa-Mustafakemalpasa-Karadag-Karacam","credit":"Uludağ National Park (777).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Bursa-Mustafakemalpasa-Karadag-Karacam","caption":"Bursa-Mustafakemalpasa-Karadag-Karacam","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpasa-Karadag-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228522","tip":"genel"}]
 description: "Marmara Bölgesi'nin doğal güzelliğini keşfedin. Bursa-Mustafakemalpasa-Karadag-Karacam milli parkının zengin fauna ve flora çeşitliliği"
 keywords: ["Bursa","Marmara Bölgesi","milli park","doğa","flora","fauna","gezi","turizm","çevre"]

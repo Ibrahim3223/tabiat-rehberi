@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi yapıları gezmek","kültürel zenginlikleri keşfetmek","coğrafi özellikleri incelemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Naib Kümbeti, Divriği","caption":"Naib Kümbeti, Divriği","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg","alt":"Naib Kümbeti, Divriği","caption":"Naib Kümbeti, Divriği","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Naib%20K%C3%BCmbeti%2C%20Divri%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582393","tip":"genel"}]
 description: "Divriği'de tarihi bir yapı olan Naib Kümbeti, Sivas'ın tarihi zenginliklerini keşfetmek için önemli bir destinasyon."
 keywords: ["Naib Kümbeti","Divriği","Sivas","tarihi yapı","kültür","gezi"]

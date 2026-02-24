@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Çandır Dağı","caption":"Çandır Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"Çandır Dağı","caption":"Çandır Dağı","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87and%C4%B1r%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823912","tip":"genel"}]
 description: "Edirne'nin Enez ilçesinde yer alan Çandır Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin uğrak noktası"
 keywords: ["Çandır Dağı","Edirne","Enez","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Turizm"]

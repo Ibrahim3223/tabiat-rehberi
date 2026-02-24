@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Tarihçi olmak","Doğa yürüyüşü","Denizde yüzme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/ZEYN%C4%B0LER_KABR%C4%B0STANI_BURSA_-_panoramio_%281%29.jpg","alt":"Şeyh Şüca Türbesi manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/1%2C000_shades_of_the_sea.jpg/960px-1%2C000_shades_of_the_sea.jpg","alt":"Şeyh Şüca Türbesi","caption":"Şeyh Şüca Türbesi","credit":"1,000 shades of the sea","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C5%9E%C3%BCca%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391385","tip":"genel"}]
 description: "Antalya'nın Muratpaşa ilçesinde bulunan Şeyh Şüca Türbesi, tarihi ve doğal güzelliklerin bir arada bulunduğu bir alan."

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Ormanda yürüyüş","Panoramik manzara izleme","Tarihi kalıntıları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Çağşak Tepesi","caption":"Çağşak Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg/960px-Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg","alt":"Çağşak Tepesi","caption":"Çağşak Tepesi","credit":"Ida B Wells High School San Francisco January 2013 002","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87a%C4%9F%C5%9Fak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824510","tip":"genel"}]
 description: "Hatay'da yer alan Çağşak Tepesi, Akdeniz Bölgesi'nin gizli güzelliği."
 keywords: ["Çağşak Tepesi","Hatay","Akdeniz Bölgesi","Doğa","Tarih","Coğrafya","Flora","Fauna","Ziyaret"]

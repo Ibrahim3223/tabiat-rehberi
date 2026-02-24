@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-5 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Ara Tepe","caption":"Ara Tepe","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PeakUludag.jpg/960px-PeakUludag.jpg","alt":"Ara Tepe","caption":"Ara Tepe","credit":"PeakUludag","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/8/80/Parasite160048-fig2_-_The_drainage_system_of_the_historic_Inner_Anatolian_freshwater_Lake.png","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Parasite160048-fig2_-_The_drainage_system_of_the_historic_Inner_Anatolian_freshwater_Lake.png/1280px-Parasite160048-fig2_-_The_drainage_system_of_the_historic_Inner_Anatolian_freshwater_Lake.png","alt":"Ara Tepe - Parasite160048-fig2 - The drainage system of the historic Inner Anatolian freshwater Lake","credit":"Omar M. Amin, Richard A. Heckmann, R. Paul Evans and Yahya Tepe","license":"cc-by-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ara%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573732","tip":"genel"}]
 description: "Bingöl'de yer alan Ara Tepe, doğa severler için önemli bir destinasyon"

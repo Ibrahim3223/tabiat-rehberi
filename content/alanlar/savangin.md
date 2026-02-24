@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg/960px-Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg","alt":"Savangin","caption":"Savangin","credit":"Olsberg (DE), Bruchhauser Steine -- 2023 -- 0262","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Department_of_Geological_Engineering_-_panoramio.jpg/960px-Department_of_Geological_Engineering_-_panoramio.jpg","alt":"Savangin","caption":"Savangin","credit":"Department of Geological Engineering - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Savangin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q7427817","tip":"genel"}]
 description: "Türkiye'de bulunan Savangin Jeopark, 1200 hektarlık yeşil alanı ile dikkat çekiyor"
 keywords: ["Savangin","Jeopark","Türkiye","Doğa","Yeşil Alan","Turizm","Gezi","Jeolojik Özellikler","Çevre"]

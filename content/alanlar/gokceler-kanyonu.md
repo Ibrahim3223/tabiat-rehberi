@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Doga Yürüyüşü","Fotoğrafçılık","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Turkey_Run_Gorge.JPG","alt":"Gökçeler Kanyonu","caption":"Gökçeler Kanyonu","credit":"Turkey Run Gorge.JPG","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gorge_of_Arpa_Cayi_River_-_Ani_%28Ancient_Armenian_Capital%29_-_Near_Kars_-_Turkey_%285811818779%29.jpg/960px-Gorge_of_Arpa_Cayi_River_-_Ani_%28Ancient_Armenian_Capital%29_-_Near_Kars_-_Turkey_%285811818779%29.jpg","alt":"Gökçeler Kanyonu","caption":"Gökçeler Kanyonu","credit":"Gorge of Arpa Cayi River - Ani (Ancient Armenian Capital) - Near Kars - Turkey (5811818779)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7eler%20Kanyonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30625381","tip":"genel"}]
 description: "Türkiye'nin en güzel kanyonlarından biri olan Gökçeler Kanyonu, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Gökçeler Kanyonu","Türkiye kanyonları","doğa turizmi","kanyon gezi","yeşil alanlar","turistik yerler","gezi noktaları","doğal güzellikler","kanyonlar"]

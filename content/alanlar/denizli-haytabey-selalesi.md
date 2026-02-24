@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","piknik","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"DENİZLİ HAYTABEY ŞELALESİ","caption":"DENİZLİ HAYTABEY ŞELALESİ","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"DENİZLİ HAYTABEY ŞELALESİ","caption":"DENİZLİ HAYTABEY ŞELALESİ","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DEN%C4%B0ZL%C4%B0%20HAYTABEY%20%C5%9EELALES%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228922","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Denizli Haytabey Şelalesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
 keywords: ["Denizli","Haytabey Şelalesi","İç Anadolu","doğa","şelale","yeşil alan","gezi","turizm"]

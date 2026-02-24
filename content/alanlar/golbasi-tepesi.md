@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Trekking","Doğa gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Gölbaşı Tepesi","caption":"Gölbaşı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Gölbaşı Tepesi","caption":"Gölbaşı Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138411","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Kilis ilinde yer alan Gölbaşı Tepesi, bölgenin en önemli doğal güzelliklerinden biri. Zengin flora ve fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Kilis","Güneydoğu Anadolu Bölgesi","Gölbaşı Tepesi","doğal güzellik","flora","fauna","turizm","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Kulagerm Mağarası","caption":"Kulagerm Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Department_of_Geological_Engineering_-_panoramio.jpg/960px-Department_of_Geological_Engineering_-_panoramio.jpg","alt":"Kulagerm Mağarası","caption":"Kulagerm Mağarası","credit":"Department of Geological Engineering - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kulagerm%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319389","tip":"genel"}]
 description: "Batman'da yer alan Kulagerm Mağarası, jeopark olarak bilinen doğal bir harikadır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kulagerm Mağarası","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Doğa","Jeoloji","Park"]

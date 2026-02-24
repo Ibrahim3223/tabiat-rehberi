@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg/960px-Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg","alt":"Kafa Dağı","caption":"Kafa Dağı","credit":"Konya Akyokuş Nature Park Konya Landscape.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Kafa Dağı","caption":"Kafa Dağı","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kafa%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385738","tip":"genel"}]
 description: "Konya'da bulunan Kafa Dağı, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir."
 keywords: ["Kafa Dağı","Konya","İç Anadolu Bölgesi","coğrafi oluşum","tepe","dağ"]

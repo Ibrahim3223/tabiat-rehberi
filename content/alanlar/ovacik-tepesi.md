@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna","coğrafi bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Ovacık Tepesi","caption":"Ovacık Tepesi","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Ovacık Tepesi","caption":"Ovacık Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ovac%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509244","tip":"genel"}]
 description: "Erzincan'ın gizli güzelliği, Ovacık Tepesi"
 keywords: ["Ovacık Tepesi","Erzincan","Doğu Anadolu Bölgesi","tepe","doğa","gezi","türkiye","coğrafya","flora"]

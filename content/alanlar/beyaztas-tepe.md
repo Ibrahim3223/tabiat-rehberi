@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Beyaztaş Tepe","caption":"Beyaztaş Tepe","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Beyaztaş Tepe","caption":"Beyaztaş Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beyazta%C5%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573110","tip":"genel"}]
 description: "Hakkari'de yer alan Beyaztaş Tepe, 1200 hektarlık yeşil cenneti ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Beyaztaş Tepe","Hakkari","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Doğal Güzellik"]

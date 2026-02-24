@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Eskiköy Mağarası","caption":"Eskiköy Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cilician_Armenia-en.svg/960px-Cilician_Armenia-en.svg.png","alt":"Eskiköy Mağarası","caption":"Eskiköy Mağarası","credit":"Cilician Armenia-en","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskik%C3%B6y%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319150","tip":"genel"}]
 description: "Konya'da yer alan Eskiköy Mağarası, 1200 hektarlık yeşil cenneti ve jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Eskiköy Mağarası","Konya","Jeopark","Doğa","Mağara","Turizm","Konya Turistik Yerler","Jeolojik Oluşumlar","Yeşil Alanlar"]

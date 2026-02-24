@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Taşkıran Tepesi","caption":"Taşkıran Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Taşkıran Tepesi","caption":"Taşkıran Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fk%C4%B1ran%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387756","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri olan Taşkıran Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için bir çekim merkezi."
 keywords: ["Taşkıran Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellikler","tepe","gezi"]

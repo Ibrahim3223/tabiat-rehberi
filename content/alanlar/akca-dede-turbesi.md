@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["gezi","fotoğraf çekimi","doğa yürüyüşü","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Akça Dede Türbesi","caption":"Akça Dede Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/G%C3%B6kceada_fort_1.jpg/960px-G%C3%B6kceada_fort_1.jpg","alt":"Akça Dede Türbesi","caption":"Akça Dede Türbesi","credit":"Gökceada fort 1","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7a%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390656","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzellikleri arasında yer alan Akça Dede Türbesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Amasya","tarih","doğa","türbe","gezi","Karadeniz Bölgesi","kültür","miras","güzellik"]

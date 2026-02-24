@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","tarih incelemesi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Hamihaydo Tepesi","caption":"Hamihaydo Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Hamihaydo Tepesi","caption":"Hamihaydo Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamihaydo%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550710","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Hamihaydo Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mardin","Hamihaydo Tepesi","tarih","doğa","gezi","tepe","güneydoğu anadolu","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Karabelen Tepe","caption":"Karabelen Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Karabelen Tepe","caption":"Karabelen Tepe","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karabelen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389399","tip":"genel"}]
 description: "Mersin'in Akdeniz Bölgesi'nde yer alan Karabelen Tepe, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. Yaklaşık 200 futbol sahası büyüklüğündeki bu doğa harikası, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor."
 keywords: ["Karabelen Tepe","Mersin","Akdeniz Bölgesi","doğa harikası","yeşil alan","bitki türleri","fauna"]

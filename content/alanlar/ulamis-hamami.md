@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denize girmek","Güneşlenmek","Yürüyüş yapmak","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/S%C3%BCzer_Sun_Dreams_Beach_22_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_22_-_panoramio.jpg","alt":"Ulamış Hamamı","caption":"Ulamış Hamamı","credit":"Süzer Sun Dreams Beach 22 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_20.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_20.jpg","alt":"Ulamış Hamamı","caption":"Ulamış Hamamı","credit":"استانبول ترکیه - ساحل دریای مرمره در شهر استانبول 20","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulam%C4%B1%C5%9F%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738983","tip":"genel"}]
 description: "İzmir'in Seferihisar ilçesinde yer alan Ulamış Hamamı, Ege Bölgesi'nin en güzel plajlarından biri."
 keywords: ["Ulamış Hamamı","Seferihisar","İzmir","Ege Bölgesi","plaj","deniz","tatil"]

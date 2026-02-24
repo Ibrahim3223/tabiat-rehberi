@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","plaj aktiviteleri","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Şehit Osman Türbeleri","caption":"Şehit Osman Türbeleri","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Şehit Osman Türbeleri","caption":"Şehit Osman Türbeleri","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehit%20Osman%20T%C3%BCrbeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390458","tip":"genel"}]
 description: "Bayburt'un merkezinde bulunan tarihi türbeler ve plaj"
 keywords: ["Bayburt","Şehit Osman Türbeleri","tarih","plaj","Karadeniz Bölgesi","turizm","gezi","kültür"]

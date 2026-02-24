@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Plaj aktiviteleri","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Şehit Hacı Yakup Efendi Türbesi","caption":"Şehit Hacı Yakup Efendi Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg","alt":"Şehit Hacı Yakup Efendi Türbesi","caption":"Şehit Hacı Yakup Efendi Türbesi","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehit%20Hac%C4%B1%20Yakup%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391754","tip":"genel"}]
 description: "Osmangazi, Bursa'da bulunan tarihi türbe ve plaj alanı"
 keywords: ["Şehit Hacı Yakup Efendi Türbesi","Osmangazi","Bursa","Marmara Bölgesi","Türbe","Plaj","Tarih"]

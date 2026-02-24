@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tepe tırmanışı","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kuzuçtu Tepesi","caption":"Kuzuçtu Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Kuzuçtu Tepesi","caption":"Kuzuçtu Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzu%C3%A7tu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32206368","tip":"genel"}]
 description: "Afyonkarahisar'da yer alan Kuzuçtu Tepesi, Ege Bölgesi'nin en önemli doğal güzelliklerinden biridir."
 keywords: ["Kuzuçtu Tepesi","Afyonkarahisar","Ege Bölgesi","doğa","tepe","gezi","tarih"]

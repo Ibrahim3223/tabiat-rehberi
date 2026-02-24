@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Tarihi yapıları gezme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Yeşil Türbe, Aydın","caption":"Yeşil Türbe, Aydın","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mediterranean_Sea%28Alanya%29%D0%BC%D1%8B%D1%81_%D0%94%D0%B6%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B4%D0%B0_-_panoramio_%281%29.jpg/960px-Mediterranean_Sea%28Alanya%29%D0%BC%D1%8B%D1%81_%D0%94%D0%B6%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B4%D0%B0_-_panoramio_%281%29.jpg","alt":"Yeşil Türbe, Aydın","caption":"Yeşil Türbe, Aydın","credit":"Mediterranean Sea(Alanya)мыс Джильварда - panoramio (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Fil%20T%C3%BCrbe%2C%20Ayd%C4%B1n","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582187","tip":"genel"}]
 description: "Aydın'ın Nazilli ilçesinde bulunan Yeşil Türbe, Ege Bölgesi'nin önemli turizm merkezlerinden biri"
 keywords: ["Yeşil Türbe","Aydın","Nazilli","Ege Bölgesi","turizm","doğa","gezi"]

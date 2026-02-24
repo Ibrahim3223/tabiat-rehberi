@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Bondhus_Norway_2862.jpg/960px-Lake_Bondhus_Norway_2862.jpg","alt":"Fatih Camii Yangın Havuzu","caption":"Fatih Camii Yangın Havuzu","credit":"Lake Bondhus Norway 2862","license":"FAL"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Artvin_Bor%C3%A7ka_Karag%C3%B6l.jpg/960px-Artvin_Bor%C3%A7ka_Karag%C3%B6l.jpg","alt":"Fatih Camii Yangın Havuzu","caption":"Fatih Camii Yangın Havuzu","credit":"Artvin Borçka Karagöl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fatih%20Camii%20Yang%C4%B1n%20Havuzu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135430419","tip":"genel"}]
 description: "İstanbul'un tarihi merkezi Fatih'te bulunan Fatih Camii Yangın Havuzu, 1200 hektarlık yeşil alanıyla şehrin önemli noktalarından biri"
 keywords: ["Fatih Camii Yangın Havuzu","İstanbul","Fatih","gol","tarihi mekan","yeşil alan","şehir merkezi","gezi noktaları","turistik yerler"]

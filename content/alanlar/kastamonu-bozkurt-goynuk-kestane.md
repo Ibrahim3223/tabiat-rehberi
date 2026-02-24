@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "çeşitli"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğraf çekimi","doğa"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kastamonu-Bozkurt-Goynuk Kestane","caption":"Kastamonu-Bozkurt-Goynuk Kestane","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg/960px-Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg","alt":"Kastamonu-Bozkurt-Goynuk Kestane","caption":"Kastamonu-Bozkurt-Goynuk Kestane","credit":"Kuşadası tabiat parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Bozkurt-Goynuk%20Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227732","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kastamonu","Bozkurt","Goynuk Kestane","milli park","doğal güzellik","Karadeniz Bölgesi","kestane","orman","doga"]

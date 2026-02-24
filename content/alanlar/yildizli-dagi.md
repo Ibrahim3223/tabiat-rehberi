@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Yıldızlı Dağı","caption":"Yıldızlı Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Yıldızlı Dağı","caption":"Yıldızlı Dağı","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1zl%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502267","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Yıldızlı Dağı, Türkiye'nin en önemli dağlarından biri"
 keywords: ["Yıldızlı Dağı","Türkiye Dağları","Doğa","Gezi","Türkiye Turizm","Dağcılık","Yıldızlı Dağı Turu","Doğal Güzellikler","Türkiye'nin En Güzel Yerleri"]

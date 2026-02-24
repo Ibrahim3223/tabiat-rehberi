@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi tümülüsleri gezmek","Doğal güzelliği keşfetmek","Fotoğrafçılık yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Bin Tepeler Tümülüsü 58","caption":"Bin Tepeler Tümülüsü 58","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 58","caption":"Bin Tepeler Tümülüsü 58","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2058","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728314","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin. Bin Tepeler Tümülüsü 58, Salihli/Manisa'da yer alır."
 keywords: ["Ege Bölgesi","Salihli","Manisa","tarih","doğa","Bin Tepeler Tümülüsü 58","gezi","turizm","kültür","coğrafya"]

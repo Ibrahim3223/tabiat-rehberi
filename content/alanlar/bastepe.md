@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Baştepe","caption":"Baştepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/South_room_first_floor._View_looking_south._East_porch_visible_through_window._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_HABS_VA%2C42-CLOV.V%2C2A-14.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Baştepe","caption":"Baştepe","credit":"South room first floor. View looking south. East porch visible through window. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, HABS VA,42-CLOV.V,2A-14","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C5%9Ftepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387287","tip":"genel"}]
 description: "Kırklareli'de bulunan Baştepe, Marmara Bölgesi'nin önemli coğrafi noktalarından biridir. Tarihi ve doğal güzellikleri ile dikkat çeker."
 keywords: ["Kırklareli","Marmara Bölgesi","coğrafi nokta","tarih","doğa","gezi","tepe"]

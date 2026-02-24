@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Güvem Tepesi","caption":"Güvem Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Güvem Tepesi","caption":"Güvem Tepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCvem%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139659","tip":"genel"}]
 description: "Çankırı'nın güzel köşelerinden biri olan Güvem Tepesi, doğa severlerin keyifle ziyaret edebileceği bir yer."
 keywords: ["Güvem Tepesi","Çankırı","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Sinora Mağaraları","caption":"Sinora Mağaraları","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5d/2023-02-06_Central_Turkey_M6_earthquake_shakemap_%28USGS%29.jpg","alt":"Sinora Mağaraları","caption":"Sinora Mağaraları","credit":"2023-02-06 Central Turkey M6 earthquake shakemap (USGS)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinora%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319766","tip":"genel"}]
 description: "Batman'da yer alan Sinora Mağaraları, 1200 hektarlık bir jeopark alanıdır. Doğal güzellikleri ve jeolojik oluşumlarıyla dikkat çeker."
 keywords: ["Sinora Mağaraları","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Jeoloji","Doğa"]

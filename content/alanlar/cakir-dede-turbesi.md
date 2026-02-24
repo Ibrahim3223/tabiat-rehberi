@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["güneşlenmek","yüzmek","tarihı türbe ziyaret etmek","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Çakır Dede Türbesi","caption":"Çakır Dede Türbesi","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg","alt":"Çakır Dede Türbesi","caption":"Çakır Dede Türbesi","credit":"Marmaris @ LODOS Firtina-Lodos Sturm (Aralik-December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ak%C4%B1r%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391528","tip":"genel"}]
 description: "Ege Bölgesi'nin en güzel plajlarından biri olan Çakır Dede Türbesi, Koçarlı'nın güzide bir noktasıdır."
 keywords: ["Koçarlı","Aydın","Ege Bölgesi","plaj","tarih","doğa","gezi","seyahat"]

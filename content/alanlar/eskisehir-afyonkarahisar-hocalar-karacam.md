@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","çevre gezisi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Eskişehir-Afyonkarahisar-Hocalar Karacam","caption":"Eskişehir-Afyonkarahisar-Hocalar Karacam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cilingoz_National_Park_Beach_Cave.jpg/960px-Cilingoz_National_Park_Beach_Cave.jpg","alt":"Eskişehir-Afyonkarahisar-Hocalar Karacam","caption":"Eskişehir-Afyonkarahisar-Hocalar Karacam","credit":"Cilingoz National Park Beach Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Afyonkarahisar-Hocalar%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227504","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, Eskişehir-Afyonkarahisar-Hocalar Karacam milli parkı"
 keywords: ["Eskişehir","Afyonkarahisar","Hocalar","Karacam","milli park","doğa","gezi","turizm"]

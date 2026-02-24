@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Hamam Tepe","caption":"Hamam Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg/960px-Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg","alt":"Hamam Tepe","caption":"Hamam Tepe","credit":"Hacıbaba dağı- batıdan - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31521310","tip":"genel"}]
 description: "Elazığ'da bulunan Hamam Tepe, 1200 metre yüksekliğiyle dikkat çeker. Doğal güzelliği ve trekking rotalarıyla ziyaretçilerini bekler."
 keywords: ["Hamam Tepe","Elazığ","Dağ","Doğa","Trekking","Turizm","Gezi","Yürüyüş","Manzara"]

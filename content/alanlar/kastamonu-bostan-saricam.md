@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","çevre keşfi","bitki türleri gözlemi","fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Kastamonu-Bostan Saricam","caption":"Kastamonu-Bostan Saricam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"Kastamonu-Bostan Saricam","caption":"Kastamonu-Bostan Saricam","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Bostan%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227698","tip":"genel"}]
 description: "Kastamonu ilinin doğal güzelliklerini keşfedin. 140 hektarlık bu alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kastamonu","Bostan Saricam","milli park","doğa","gezi","turizm","Karadeniz Bölgesi","çevre","ekosistem"]

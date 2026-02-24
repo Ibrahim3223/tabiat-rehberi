@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","doğa gezisi","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Zonguldak-Bartin-Kumluca Dogu Kayini 1","caption":"Zonguldak-Bartin-Kumluca Dogu Kayini 1","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"Zonguldak-Bartin-Kumluca Dogu Kayini 1","caption":"Zonguldak-Bartin-Kumluca Dogu Kayini 1","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Bartin-Kumluca%20Dogu%20Kayini%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227738","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Zonguldak","Bartin","Kumluca","Dogu Kayini","milli park","Karadeniz Bölgesi","doğa","gezi"]

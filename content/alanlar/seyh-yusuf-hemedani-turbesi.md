@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["Türbe ve plajı keşfetmek","Bölgenin tarihi ve kültürel zenginliklerini öğrenmek","Doğa yürüyüşleri yapmak","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Şeyh Yusuf Hemedani Türbesi","caption":"Şeyh Yusuf Hemedani Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84.jpg","alt":"Şeyh Yusuf Hemedani Türbesi","caption":"Şeyh Yusuf Hemedani Türbesi","credit":"استانبول","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Yusuf%20Hemedani%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582863","tip":"genel"}]
 description: "Mardin'in Artuklu ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Şeyh Yusuf Hemedani","Mardin","Artuklu","Türbe","Plaj","Güneydoğu Anadolu","Tarihi mekanlar","Dini yerler","Doğal güzellikler"]

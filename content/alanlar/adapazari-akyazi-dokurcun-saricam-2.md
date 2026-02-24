@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Adapazari-Akyazi-Dokurcun Saricam 2","caption":"Adapazari-Akyazi-Dokurcun Saricam 2","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kocakoru_Tabiat_Park%C4%B1_03.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_03.jpg","alt":"Adapazari-Akyazi-Dokurcun Saricam 2","caption":"Adapazari-Akyazi-Dokurcun Saricam 2","credit":"Kocakoru Tabiat Parkı 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Akyazi-Dokurcun%20Saricam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227972","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Adapazari-Akyazi-Dokurcun Saricam 2 milli parkı, ziyaretçilerini bekliyor."
 keywords: ["Adapazari-Akyazi-Dokurcun Saricam 2","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem"]

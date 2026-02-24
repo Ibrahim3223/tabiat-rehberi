@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Termal su tedavisi","Doğa yürüyüşleri","Tarihi Roma hamamları gezisi","Açık hava etkinlikleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Keler Roma Hamamı ve Kaplıcaları","caption":"Keler Roma Hamamı ve Kaplıcaları","credit":"Beach view - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_06.jpg","alt":"Keler Roma Hamamı ve Kaplıcaları","caption":"Keler Roma Hamamı ve Kaplıcaları","credit":"Istanbul beaches- Sea of Marmara 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keler%20Roma%20Hamam%C4%B1%20ve%20Kapl%C4%B1calar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738953","tip":"genel"}]
 description: "İzmir'in Menderes ilçesinde yer alan Keler Roma Hamamı ve Kaplıcaları, doğayla iç içe bir tedavi merkezi."
 keywords: ["Keler Roma Hamamı","Kaplıcaları","Menderes","İzmir","Ege Bölgesi","doğal tedavi","termal tesis","turizm"]

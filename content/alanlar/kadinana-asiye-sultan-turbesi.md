@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["dini ziyaret","kültürel deneyim","coğrafi keşif","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Kadınana Asiye Sultan Türbesi","caption":"Kadınana Asiye Sultan Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Kadınana Asiye Sultan Türbesi","caption":"Kadınana Asiye Sultan Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kad%C4%B1nana%20Asiye%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390618","tip":"genel"}]
 description: "Afyonkarahisar'ın tarihi ve kültürel zenginliklerini keşfedin. Asiye Sultan Türbesi, Ege Bölgesi'nin önemli dini merkezlerinden biri."
 keywords: ["Asiye Sultan Türbesi","Afyonkarahisar","Ege Bölgesi","tarih","kültür","din","gezi"]

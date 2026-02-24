@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Koca Tepe (Çorum)","caption":"Koca Tepe (Çorum)","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Erenler_Da%C4%9F%C4%B1_09_09_1991_bei_K%C4%B1z%C4%B1l%C3%B6ren.jpg/960px-Erenler_Da%C4%9F%C4%B1_09_09_1991_bei_K%C4%B1z%C4%B1l%C3%B6ren.jpg","alt":"Koca Tepe (Çorum)","caption":"Koca Tepe (Çorum)","credit":"Erenler Dağı 09 09 1991 bei Kızılören","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Tepe%20(%C3%87orum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042248","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin, Koca Tepe'de doğa ile baş başa kalın."
 keywords: ["Koca Tepe","Çorum","Dağ","Doğa","Turizm","Çorum Turistik Yerler","Koca Tepe Çorum","Dağ Turizmi","Çorum Gezi Rehberi"]

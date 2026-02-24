@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Zonguldak-Dirgine-Aksu Mese","caption":"Zonguldak-Dirgine-Aksu Mese","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg","alt":"Zonguldak-Dirgine-Aksu Mese","caption":"Zonguldak-Dirgine-Aksu Mese","credit":"Gölcük Tabiat Parkı Nilüferler","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Dirgine-Aksu%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227767","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Zonguldak","Dirgine-Aksu Mese","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

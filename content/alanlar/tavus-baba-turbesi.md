@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî mekanları gezme","dini törenlere katılma","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Tavus Baba Türbesi","caption":"Tavus Baba Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Istanbul_beaches-_Sea_of_Marmara_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_08.jpg","alt":"Tavus Baba Türbesi","caption":"Tavus Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tavus%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390888","tip":"genel"}]
 description: "Meram'da tarihi bir dini mekan"
 keywords: ["Tavus Baba Türbesi","Meram","Konya","İç Anadolu Bölgesi","tarihi mekan","dini mekan","gezi","turizm"]

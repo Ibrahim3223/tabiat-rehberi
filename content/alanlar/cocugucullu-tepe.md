@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çocuğuçullu Tepe","caption":"Çocuğuçullu Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ida_Flooding_%282%29.jpg/960px-Ida_Flooding_%282%29.jpg","alt":"Çocuğuçullu Tepe","caption":"Çocuğuçullu Tepe","credit":"Ida Flooding (2)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ocu%C4%9Fu%C3%A7ullu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829517","tip":"genel"}]
 description: "Nevşehir'in tarihi ve doğal güzelliklerinin buluştuğu nokta"
 keywords: ["Nevşehir","İç Anadolu Bölgesi","tarih","doğa","gezi","çevre","flora","fauna"]

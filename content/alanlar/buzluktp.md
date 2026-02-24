@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günde 4-6 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"BUZLUK_TP","caption":"BUZLUK_TP","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/De%C4%9Firmenbo%C4%9Faz%C4%B1_Tabiat_Park%C4%B1.jpg/960px-De%C4%9Firmenbo%C4%9Faz%C4%B1_Tabiat_Park%C4%B1.jpg","alt":"BUZLUK_TP","caption":"BUZLUK_TP","credit":"Değirmenboğazı Tabiat Parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BUZLUK_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229004","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık doğa harikası"
 keywords: ["milli park","doğa","İç Anadolu Bölgesi","gezi","yaban hayatı","flora","fauna","turizm","çevre","ekoloji"]

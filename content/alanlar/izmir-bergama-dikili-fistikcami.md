@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Izmir-Bergama-Dikili Fistikcami","caption":"Izmir-Bergama-Dikili Fistikcami","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Izmir-Bergama-Dikili Fistikcami","caption":"Izmir-Bergama-Dikili Fistikcami","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Bergama-Dikili%20Fistikcami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227619","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğa harikası milli parkı"
 keywords: ["Izmir-Bergama-Dikili Fistikcami","milli park","iç anadolu bölgesi","doğa harikası","gezi","turizm","çevre","ekoloji","flora","fauna"]

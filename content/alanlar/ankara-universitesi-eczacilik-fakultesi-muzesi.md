@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Eczacılık tarihi hakkında bilgi edinmek","Müze içerisinde sergilenen eserleri görmek","Eczacılık bilimi hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Ankara Üniversitesi Eczacılık Fakültesi Müzesi","caption":"Ankara Üniversitesi Eczacılık Fakültesi Müzesi","credit":"..... - Flickr - zehhhra","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mystic_mountain.jpg/960px-Mystic_mountain.jpg","alt":"Ankara Üniversitesi Eczacılık Fakültesi Müzesi","caption":"Ankara Üniversitesi Eczacılık Fakültesi Müzesi","credit":"Mystic mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20%C3%9Cniversitesi%20Eczac%C4%B1l%C4%B1k%20Fak%C3%BCltesi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949957","tip":"genel"}]
 description: "Ankara'da eczacılık tarihi ve bilimi hakkında bilgi veren bir müze"
 keywords: ["Ankara Üniversitesi","Eczacılık Fakültesi","Müze","Eczacılık Tarihi","Bilimi","Ankara","İç Anadolu Bölgesi","Eğitim","Bilgi"]

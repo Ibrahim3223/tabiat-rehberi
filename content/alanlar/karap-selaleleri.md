@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["fotoğraf çekmek","doğa yürüyüşü"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_Bal%C4%B1klar.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_Bal%C4%B1klar.jpg","alt":"Karap Şelaleleri","caption":"Karap Şelaleleri","credit":"Kurşunlu Şelalesi - Şelalesi Bölgesi - Manzara Fotoğrafı - Balıklar.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Waterfall_-_panoramio_%283%29.jpg/960px-Waterfall_-_panoramio_%283%29.jpg","alt":"Karap Şelaleleri","caption":"Karap Şelaleleri","credit":"Waterfall - panoramio (3)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karap%20%C5%9Eelaleleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97207997","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Karap Şelaleleri, doğa severlerin ziyaret ettiği bir destinasyon"
 keywords: ["Karap Şelaleleri","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","yerel","çevre","ekosistem"]

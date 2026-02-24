@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Tarih kalıntılarını keşfetme","Manzara seyretme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Boyalı Tepe","caption":"Boyalı Tepe","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Boyalı Tepe","caption":"Boyalı Tepe","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boyal%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390941","tip":"genel"}]
 description: "Kayseri'nin İç Anadolu Bölgesi'ndeki doğal güzelliği, Boyalı Tepe"
 keywords: ["Kayseri","İç Anadolu Bölgesi","Doğa","Turizm","Boyalı Tepe","Gezi","Tarihçe","Coğrafya"]

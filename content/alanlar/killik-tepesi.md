@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["yürüyüş","piknik","manzara seyretme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kıllık Tepesi","caption":"Kıllık Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Kıllık Tepesi","caption":"Kıllık Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1ll%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389865","tip":"genel"}]
 description: "Sinop'un doğal güzelliklerini keşfedin. Kıllık Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kıllık Tepesi","Sinop","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

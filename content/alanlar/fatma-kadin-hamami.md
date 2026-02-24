@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Balık avı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Fatma Kadın Hamamı","caption":"Fatma Kadın Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Fatma Kadın Hamamı","caption":"Fatma Kadın Hamamı","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fatma%20Kad%C4%B1n%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245717","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, Karesi'nin en güzel plajı"
 keywords: ["Karesi","Balıkesir","Marmara Bölgesi","plaj","deniz","tatil","gezi","seyahat","doğa","deniz kenarı"]

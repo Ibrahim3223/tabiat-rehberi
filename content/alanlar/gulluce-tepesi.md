@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tırmanma","Doğa Yürüyüşü","Fotoğrafçılık"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Güllüce Tepesi","caption":"Güllüce Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Güllüce Tepesi","caption":"Güllüce Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCll%C3%BCce%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873049","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Van şehrinde yer alan Güllüce Tepesi, yaklaşık 140 hektarlık bir alan kaplıyor. Bu bölge, zengin fauna ve flora çeşitliliği ile dikkat çekiyor."
 keywords: ["Güllüce Tepesi","Van","Doğu Anadolu Bölgesi","Doğa","Tepeler","Fauna","Flora"]

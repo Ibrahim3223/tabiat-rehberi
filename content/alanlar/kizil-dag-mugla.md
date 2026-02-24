@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Erzincan_Refahiye.jpg","alt":"Kızıl Dağ (Muğla) manzarası","credit":"Salihsertbas","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg/960px-Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg","alt":"Kızıl Dağ","caption":"Kızıl Dağ","credit":"Beyşehir Gölü 18 04 1992 mit den Dedegöl Dağlar","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%20Da%C4%9F%20(Mu%C4%9Fla)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31579449","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin. Kızıl Dağ, 1200 hektarlık yeşil cennet"

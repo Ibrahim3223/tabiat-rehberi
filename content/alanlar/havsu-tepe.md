@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Havşu Tepe","caption":"Havşu Tepe","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MOKM41.jpg/960px-MOKM41.jpg","alt":"Havşu Tepe","caption":"Havşu Tepe","credit":"MOKM41","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hav%C5%9Fu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31534906","tip":"genel"}]
 description: "Osmaniye'nin en önemli dağlarından biri olan Havşu Tepe, doğa severler için bir cennet. 1200 hektarlık bu yeşil alan, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Havşu Tepe","Osmaniye","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Osmaniye Gezilecek Yerler","Doğa Sporları"]

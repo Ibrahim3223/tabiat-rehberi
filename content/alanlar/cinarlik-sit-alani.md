@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Çınarlık Sit Alanı","caption":"Çınarlık Sit Alanı","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Çınarlık Sit Alanı","caption":"Çınarlık Sit Alanı","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1narl%C4%B1k%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226107","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin gözdesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["doğa","çınar","sit alanı","iç anadolu","gezi","turizm","çevre","korunma alanı"]

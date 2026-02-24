@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","bitki ve hayvan gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Şerafettin Tepesi","caption":"Şerafettin Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Şerafettin Tepesi","caption":"Şerafettin Tepesi","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eerafettin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389030","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri olan Şerafettin Tepesi, Muş'un güzide doğal alanlarından biridir."
 keywords: ["Şerafettin Tepesi","Muş","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

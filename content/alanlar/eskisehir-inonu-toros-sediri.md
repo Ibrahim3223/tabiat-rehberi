@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Keşif","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Eskişehir-Inonu Toros Sediri","caption":"Eskişehir-Inonu Toros Sediri","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Eskişehir-Inonu Toros Sediri","caption":"Eskişehir-Inonu Toros Sediri","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Inonu%20Toros%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227998","tip":"genel"}]
 description: "Eskişehir'de bulunan Toros sediriyle ünlü milli park"
 keywords: ["Eskişehir","Inonu","Toros Sediri","Milli Park","Doğa","Turizm","İç Anadolu Bölgesi","Yeşil Alan"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","orman gezisi","çam ağacı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Izmir-Gumuldur-D.dere Piramidal Kızılçam","caption":"Izmir-Gumuldur-D.dere Piramidal Kızılçam","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg","alt":"Izmir-Gumuldur-D.dere Piramidal Kızılçam","caption":"Izmir-Gumuldur-D.dere Piramidal Kızılçam","credit":"Gölcük Tabiat Parkı Nilüferler","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Gumuldur-D.dere%20Piramidal%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227654","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. Gumuldur'da bulunan D.dere Piramidal Kızılçam, ziyaretçilerini bekliyor."
 keywords: ["İzmir","Gumuldur","D.dere","Piramidal Kızılçam","doğa","orman","çam ağacı"]

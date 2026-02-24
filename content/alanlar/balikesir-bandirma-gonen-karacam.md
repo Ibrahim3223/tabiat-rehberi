@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Balikesir-Bandirma-Gonen Karacam","caption":"Balikesir-Bandirma-Gonen Karacam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Balikesir-Bandirma-Gonen Karacam","caption":"Balikesir-Bandirma-Gonen Karacam","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Bandirma-Gonen%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227929","tip":"genel"}]
 description: "Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken bir milli park"
 keywords: ["milli park","doğa","tarih","gezi","turizm","Balikesir","Bandirma","Gonen","Karacam"]

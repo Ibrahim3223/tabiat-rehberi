@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografcılık","tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Yıldız Sarayı Kameriye Köşkü","caption":"Yıldız Sarayı Kameriye Köşkü","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2023-11-04_Choban_beach_near_Ka%C5%9F_3.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_3.jpg","alt":"Yıldız Sarayı Kameriye Köşkü","caption":"Yıldız Sarayı Kameriye Köşkü","credit":"2023-11-04 Choban beach near Kaş 3","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Kameriye%20K%C3%B6%C5%9Fk%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133685512","tip":"genel"}]
 description: "Marmara Bölgesi'nde, İstanbul'un Beşiktaş ilçesinde yer alan tarihi Yıldız Sarayı Kameriye Köşkü"
 keywords: ["Yıldız Sarayı","Kameriye Köşkü","Beşiktaş","Marmara Bölgesi","İstanbul","tarih","mimari","doğa"]

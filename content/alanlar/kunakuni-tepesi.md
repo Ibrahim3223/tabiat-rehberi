@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Künakuni Tepesi","caption":"Künakuni Tepesi","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Künakuni Tepesi","caption":"Künakuni Tepesi","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCnakuni%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042810","tip":"genel"}]
 description: "Batman'da yer alan Künakuni Tepesi, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Künakuni Tepesi","Batman","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Doğa Harikası"]

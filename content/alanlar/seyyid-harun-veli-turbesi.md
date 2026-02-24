@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","tarihi araştırma","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Seyyid Harun Veli Türbesi","caption":"Seyyid Harun Veli Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pirlanta_beach%2C_without_waves_october_2009_5_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_5_-_panoramio.jpg","alt":"Seyyid Harun Veli Türbesi","caption":"Seyyid Harun Veli Türbesi","credit":"Pirlanta beach, without waves october 2009 5 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Harun%20Veli%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391746","tip":"genel"}]
 description: "Konya'nın Seydişehir ilçesinde bulunan Seyyid Harun Veli Türbesi, tarihi ve doğal güzellikleri bir arada sunan bir destinasyon."
 keywords: ["Seyyid Harun Veli Türbesi","Konya","Seydişehir","tarihi mekanlar","doğa güzellikleri","türbe","Konya gezilecek yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Turkey_Run_Gorge.JPG","alt":"Refanka Boğazı","caption":"Refanka Boğazı","credit":"Turkey Run Gorge.JPG","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f6/K%C3%BCre_Da%C4%9Flar%C4%B1_G%C3%BCll%C3%BCce_K%C3%B6y%C3%BC_Kanyonu_2014-06-15_19-58.jpeg","alt":"Refanka Boğazı","caption":"Refanka Boğazı","credit":"Küre Dağları Güllüce Köyü Kanyonu 2014-06-15 19-58","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Refanka%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49343185","tip":"genel"}]
 description: "Şırnak'ta bulunan Refanka Boğazı, 1200 hektarlık bir kanyon alanı sunar. Doğal güzelliği ile dikkat çeker."
 keywords: ["Refanka Boğazı","Şırnak","kanyon","doğa","gezi","turizm","Şırnak turistik yerler","kanyon gezi","doğal güzellikler"]

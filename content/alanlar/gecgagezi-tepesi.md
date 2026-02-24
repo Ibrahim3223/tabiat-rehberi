@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","kamp","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Gecgagezi Tepesi","caption":"Gecgagezi Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Gecgagezi Tepesi","caption":"Gecgagezi Tepesi","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gecgagezi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31545689","tip":"genel"}]
 description: "Batman'ın görkemli tepesi, doğa severlerin gözdesi. Güneydoğu Anadolu Bölgesi'nde yer alan Gecgagezi Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Gecgagezi Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

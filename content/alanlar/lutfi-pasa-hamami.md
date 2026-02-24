@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi hamam gezisi","doğa yürüyüşü","fotografcılık","tarih ve kültür deneyimleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Lütfi Paşa Hamamı","caption":"Lütfi Paşa Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sprinter_on_a_vase%2C_Fikellura_style_amphora_with_a_running_man%2C_Greek%2C_6th_century_BC%2C_from_Kamiros%2C_Rhodes%2C_Aegean_Sea%2C_Winning_at_the_ancient_Games%2C_British_Museum_%287667199008%29.jpg/960px-thumbnail.jpg","alt":"Lütfi Paşa Hamamı","caption":"Lütfi Paşa Hamamı","credit":"Sprinter on a vase, Fikellura style amphora with a running man, Greek, 6th century BC, from Kamiros, Rhodes, Aegean Sea, Winning at the ancient Games, British Museum (7667199008)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/L%C3%BCtfi%C2%A0Pa%C5%9Fa%C2%A0Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739124","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi hamam, Marmara Bölgesi'nin önemli kültür varlıklarından biri"
 keywords: ["Lütfi Paşa Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarihi hamam","kültür varlığı"]

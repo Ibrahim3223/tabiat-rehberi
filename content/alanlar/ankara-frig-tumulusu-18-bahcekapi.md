@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Tarih Gezisi","Fotoğrafçılık","Doğa İzleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Ankara Frig Tümülüsü 18, Bahçekapı","caption":"Ankara Frig Tümülüsü 18, Bahçekapı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_12.jpg","alt":"Ankara Frig Tümülüsü 18, Bahçekapı","caption":"Ankara Frig Tümülüsü 18, Bahçekapı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2018%2C%20Bah%C3%A7ekap%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728288","tip":"genel"}]
 description: "Ankara'nın Etimesgut ilçesinde yer alan tarihi bir bölge olan Ankara Frig Tümülüsü 18, Bahçekapı, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Etimesgut","Frig Tümülüsü","Bahçekapı","tarih","gezi","turizm","kültür","doğa"]

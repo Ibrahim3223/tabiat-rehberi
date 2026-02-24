@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","tarihî yerleri gezme","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kirazoluk Tepesi","caption":"Kirazoluk Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Kirazoluk Tepesi","caption":"Kirazoluk Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirazoluk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514997","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden Kütahya'da bulunan Kirazoluk Tepesi, doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Kirazoluk Tepesi","Kütahya","Ege Bölgesi","doğa","tepe","gezi","turizm","yerel"]

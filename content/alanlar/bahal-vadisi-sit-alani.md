@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Piknik","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Bahal Vadisi Sit Alanı","caption":"Bahal Vadisi Sit Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Bahal Vadisi Sit Alanı","caption":"Bahal Vadisi Sit Alanı","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bahal%20Vadisi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226506","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Bahal Vadisi Sit Alanı, 140 hektarlık geniş alanıyla ziyaretçilerini bekliyor."
 keywords: ["Bahal Vadisi","Sit Alanı","İç Anadolu Bölgesi","Doğa","Gezi","Türkiye"]

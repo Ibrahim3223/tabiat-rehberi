@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Güneyik Dağı","caption":"Güneyik Dağı","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Güneyik Dağı","caption":"Güneyik Dağı","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCneyik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873301","tip":"genel"}]
 description: "Konya'da bulunan Güneyik Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Güneyik Dağı","Konya","Dağ","Doğa","Turizm","Gezi","Konya gezilecek yerler","Doğal güzellikler","Yeşil alanlar"]

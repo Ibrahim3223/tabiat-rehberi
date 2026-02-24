@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Yıldız Adası","caption":"Yıldız Adası","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Piri_Reis_-_Map_of_the_Islands_of_Semendrek_and_Imroz_in_the_Aegean_Sea_-_Walters_W65844B_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Islands_of_Semendrek_and_Imroz_in_the_Aegean_Sea_-_Walters_W65844B_-_Full_Page.jpg","alt":"Yıldız Adası","caption":"Yıldız Adası","credit":"Piri Reis - Map of the Islands of Semendrek and Imroz in the Aegean Sea - Walters W65844B - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Adas%C4%B1%20(Mu%C4%9Fla)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34787856","tip":"genel"}]
 description: "Muğla'nın turistik adalarından biri olan Yıldız Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Yıldız Adası","Muğla","ada","turizm","doğa","tarih","gezi","seyahat","Ege"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/P_20180323_124555.jpg/960px-P_20180323_124555.jpg","alt":"Isparta-Bucak-Pamucak Kızılçam","caption":"Isparta-Bucak-Pamucak Kızılçam","credit":"P 20180323 124555.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Munzur_Valley_National_Park.jpg/960px-Munzur_Valley_National_Park.jpg","alt":"Isparta-Bucak-Pamucak Kızılçam","caption":"Isparta-Bucak-Pamucak Kızılçam","credit":"Munzur Valley National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Bucak-Pamucak%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227419","tip":"genel"}]
 description: "Isparta'nın doğal güzellikleri arasında yer alan Isparta-Bucak-Pamucak Kızılçam, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Isparta","Bucak","Pamucak","Kızılçam","milli park","doğa","çevre","turizm"]

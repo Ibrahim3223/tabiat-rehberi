@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Adapazari-Izmit-Gebze Karacam 2","caption":"Adapazari-Izmit-Gebze Karacam 2","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg/960px-Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg","alt":"Adapazari-Izmit-Gebze Karacam 2","caption":"Adapazari-Izmit-Gebze Karacam 2","credit":"Kuzuyayla Tabiat Parkı (2) 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Izmit-Gebze%20Karacam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227924","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Adapazari","Izmit","Gebze","Karacam","milli-park","doğa","gezi","turizm"]

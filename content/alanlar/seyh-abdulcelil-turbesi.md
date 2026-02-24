@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezinti","doğa yürüyüşü","fotografcılık","yaban hayatı gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Şeyh Abdülcelil Türbesi","caption":"Şeyh Abdülcelil Türbesi","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sprinter_on_a_vase%2C_Fikellura_style_amphora_with_a_running_man%2C_Greek%2C_6th_century_BC%2C_from_Kamiros%2C_Rhodes%2C_Aegean_Sea%2C_Winning_at_the_ancient_Games%2C_British_Museum_%287667199008%29.jpg/960px-thumbnail.jpg","alt":"Şeyh Abdülcelil Türbesi","caption":"Şeyh Abdülcelil Türbesi","credit":"Sprinter on a vase, Fikellura style amphora with a running man, Greek, 6th century BC, from Kamiros, Rhodes, Aegean Sea, Winning at the ancient Games, British Museum (7667199008)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Abd%C3%BClcelil%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391732","tip":"genel"}]
 description: "Tarihi ve doğanın birleştiği Sur'da bulunan Şeyh Abdülcelil Türbesi, ziyaretçiler için önemli bir destinasyon"
 keywords: ["Şeyh Abdülcelil Türbesi","Sur","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","doğa","türbe","gezi"]

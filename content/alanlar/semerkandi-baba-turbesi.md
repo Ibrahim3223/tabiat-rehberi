@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Semerkandi Baba Türbesi","caption":"Semerkandi Baba Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg","alt":"Semerkandi Baba Türbesi","caption":"Semerkandi Baba Türbesi","credit":"2023-11-04 Choban beach near Kaş 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Semerkandi%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391803","tip":"genel"}]
 description: "Denizli'nin Acıpayam ilçesinde bulunan tarihi bir mekan"
 keywords: ["Semerkandi Baba","Denizli","Acıpayam","Türbe","Tarih","Coğrafya","Doğa","Gezi"]

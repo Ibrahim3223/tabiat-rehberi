@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Göbel Dağı","caption":"Göbel Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/E%C5%9Fenler_Da%C4%9F%C4%B1_12_09_1983_s%C3%BCdlich_des_Su%C4%9Flasees.jpg/960px-E%C5%9Fenler_Da%C4%9F%C4%B1_12_09_1983_s%C3%BCdlich_des_Su%C4%9Flasees.jpg","alt":"Göbel Dağı","caption":"Göbel Dağı","credit":"Eşenler Dağı 12 09 1983 südlich des Suğlasees","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6bel%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34871835","tip":"genel"}]
 description: "Balıkesir'de yer alan Göbel Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi. Doğal güzellikleri keşfedin!"
 keywords: ["Göbel Dağı","Balıkesir","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Doğal Güzellik"]

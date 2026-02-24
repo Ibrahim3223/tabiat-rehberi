@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Coğrafi keşif","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Demiroluk Tepesi","caption":"Demiroluk Tepesi","credit":"Lake Meke (217872347).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Demiroluk Tepesi","caption":"Demiroluk Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demiroluk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390462","tip":"genel"}]
 description: "Konya'nın güzide tepelerinden biri olan Demiroluk Tepesi, İç Anadolu Bölgesi'nin doğal güzelliklerini sunar."
 keywords: ["Demiroluk Tepesi","Konya","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

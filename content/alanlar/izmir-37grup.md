@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","doğa yürüyüşü","kuş gözlemciliği","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Izmir 37.Grup","caption":"Izmir 37.Grup","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"Izmir 37.Grup","caption":"Izmir 37.Grup","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir%2037.Grup","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108225920","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 37. Grup milli parkı"
 keywords: ["İç Anadolu Bölgesi","milli park","doğa","gezi","yerel","çevre","ekosistem","flora","fauna"]

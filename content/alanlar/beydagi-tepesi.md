@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Fotoğraf çekme","Tarih hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Karamanbeli_Gecidi_20_08_1992_G%C3%B6l_Ovas%C4%B1_mit_Eren_Tepesi_2774_m_Getreide-Stoppelfelder.jpg","alt":"Beydağı Tepesi manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/East_elevation._View_looking_northwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-6.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Beydağı Tepesi","caption":"Beydağı Tepesi","credit":"East elevation. View looking northwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-6","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beyda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389146","tip":"genel"}]
 description: "Marmara Bölgesi'nin en önemli doğal güzelliklerinden biri olan Beydağı Tepesi, Balıkesir'in eşsiz manzarasına ev sahipliği yapıyor."

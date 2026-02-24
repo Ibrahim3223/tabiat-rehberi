@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/40/Yedide%C4%9Firmenler_Nature_Park.jpg","alt":"Değirmen Tepe manzarası","credit":"Metehanwow","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Değirmen Tepe","caption":"Değirmen Tepe","credit":"Vihorlat (v zime) 046","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/De%C4%9Firmen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526188","tip":"genel"}]
 description: "Van'da bulunan Değirmen Tepe, 1200 hektarlık yeşil alanıyla İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Doğal güzelliği ile dikkat çeken bu dağ, 2000 metre yüksekliğiyle trekking ve doğa yürüyüşü severlerin tercih ettiği bir nokta."

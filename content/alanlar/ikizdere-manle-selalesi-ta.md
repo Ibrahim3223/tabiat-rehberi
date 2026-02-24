@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","yürüyüş","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"İKİZDERE MANLE ŞELALESİ TA","caption":"İKİZDERE MANLE ŞELALESİ TA","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"İKİZDERE MANLE ŞELALESİ TA","caption":"İKİZDERE MANLE ŞELALESİ TA","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0K%C4%B0ZDERE%20MANLE%20%C5%9EELALES%C4%B0%20TA","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228995","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, İkizdere Manle Şelalesi. Doğanın mucizelerini keşfedin."
 keywords: ["İkizdere Manle Şelalesi","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","macera","keşif"]

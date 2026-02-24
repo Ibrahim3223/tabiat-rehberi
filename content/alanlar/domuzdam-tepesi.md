@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["trekking","kampçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Domuzdam Tepesi","caption":"Domuzdam Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Domuzdam Tepesi","caption":"Domuzdam Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Domuzdam%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538120","tip":"genel"}]
 description: "Hatay'ın güzide tepelerinden biri olan Domuzdam Tepesi, coğrafi güzellikleri ve tarihi geçmişi ile dikkat çekiyor."
 keywords: ["Domuzdam Tepesi","Hatay","Akdeniz Bölgesi","tepe","coğrafi güzellik","tarihi geçmişi"]

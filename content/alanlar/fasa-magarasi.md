@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Fasa Mağarası","caption":"Fasa Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Geological_map_marmara_island_-_hochstetter.jpg/960px-Geological_map_marmara_island_-_hochstetter.jpg","alt":"Fasa Mağarası","caption":"Fasa Mağarası","credit":"Geological map marmara island - hochstetter","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fasa%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319156","tip":"genel"}]
 description: "Batman'da yer alan Fasa Mağarası, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği ve tarihi değerleri ile ziyaretçilerini bekliyor."
 keywords: ["Fasa Mağarası","Batman Jeopark","Doğal Anıtlar","Mağara Gezileri","Jeoloji","Turizm","Batman Turistik Yerler","Doğa Harikaları","Gezilecek Yerler"]

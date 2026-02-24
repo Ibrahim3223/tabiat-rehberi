@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Küçükkargı","caption":"Küçükkargı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg/960px-Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg","alt":"Küçükkargı","caption":"Küçükkargı","credit":"Kuşadası tabiat parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkkarg%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228301","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Küçükkargı Milli Parkı, 140 hektarlık yeşil alanı, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor."
 keywords: ["Küçükkargı","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","bitki türleri","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Ballık Tepe","caption":"Ballık Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Ballık Tepe","caption":"Ballık Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ball%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557953","tip":"genel"}]
 description: "Ankara'nın görkemli dağlarından biri olan Ballık Tepe, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Ballık Tepe","Ankara","Dağ","Doğa","Turizm","Gezi","Ankara gezilecek yerler","Doğal güzellikler","Trekking"]

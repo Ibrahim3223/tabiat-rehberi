@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna","Manzara seyri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Samsat_district_Turkey_%281%29.jpg/960px-Samsat_district_Turkey_%281%29.jpg","alt":"Yürüme Tepe","caption":"Yürüme Tepe","credit":"Samsat district Turkey (1).jpg","license":"CC BY 3.0 pl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Yürüme Tepe","caption":"Yürüme Tepe","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCme%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196247","tip":"genel"}]
 description: "Adıyaman'da bulunan Yürüme Tepe, Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Yürüme Tepe","Adıyaman","Güneydoğu Anadolu Bölgesi","doğal alan","tepe","coğrafya","flora","fauna"]

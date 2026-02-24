@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Fotoğraf çekmek","Doğa yürüyüşü","Tarih gezisi","Kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Haydar Baba Türbesi","caption":"Haydar Baba Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alanya-Antalya_-_panoramio_%283%29.jpg/960px-Alanya-Antalya_-_panoramio_%283%29.jpg","alt":"Haydar Baba Türbesi","caption":"Haydar Baba Türbesi","credit":"Alanya-Antalya - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haydar%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391682","tip":"genel"}]
 description: "Kadıköy'de tarihi ve doğal güzelliklerin buluştuğu bir mekan"
 keywords: ["Haydar Baba Türbesi","Kadıköy","istanbul","tarih","doğa","gezi","türk kültürü","tarihçe","coğrafya","flora","fauna"]

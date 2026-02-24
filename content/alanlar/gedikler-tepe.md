@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî mekanları ziyaret","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Gedikler Tepe","caption":"Gedikler Tepe","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Gedikler Tepe","caption":"Gedikler Tepe","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gedikler%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390452","tip":"genel"}]
 description: "Konya'nın gizli güzelliği, Gedikler Tepe. Doğal zenginlikleri keşfedin."
 keywords: ["Gedikler Tepe","Konya","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

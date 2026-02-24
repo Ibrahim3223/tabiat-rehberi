@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","arkeoloji turu","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Bin Tepeler Tümülüsü 41","caption":"Bin Tepeler Tümülüsü 41","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Bin Tepeler Tümülüsü 41","caption":"Bin Tepeler Tümülüsü 41","credit":"Muğla - Dalyan - İztuzu Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2041","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728327","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Manisa'nın Salihli ilçesinde bulunan Bin Tepeler Tümülüsü 41, ziyaretçilerini bekliyor."
 keywords: ["Bin Tepeler Tümülüsü 41","Salihli","Manisa","Ege Bölgesi","tarih","tümülüs","arkeoloji","gezi","kültür"]

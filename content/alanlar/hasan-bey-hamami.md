@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşleri","Çocuklar için oyun alanları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Hasan Bey Hamamı","caption":"Hasan Bey Hamamı","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Hasan Bey Hamamı","caption":"Hasan Bey Hamamı","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasan%20Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738648","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Bursa'nın Mudanya ilçesinde yer alan Hasan Bey Hamamı, Marmara Denizi'nin serin sularına ve yeşilin her tonuna sahip doğasıyla ziyaretçilerini bekliyor."
 keywords: ["Mudanya","Bursa","Marmara Bölgesi","Marmara Denizi","doğa","plaj","deniz","yeşil","gezi","turizm","tatil"]

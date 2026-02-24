@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Örümcek Ormani Ladini 4","caption":"Örümcek Ormani Ladini 4","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg","alt":"Örümcek Ormani Ladini 4","caption":"Örümcek Ormani Ladini 4","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546845911)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96r%C3%BCmcek%20Ormani%20Ladini%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227175","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Örümcek Ormani Ladini 4, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Örümcek Ormani Ladini 4","İç Anadolu Bölgesi","doğal alan","orman","flora","fauna"]

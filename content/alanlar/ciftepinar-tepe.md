@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Çiftepınar Tepe","caption":"Çiftepınar Tepe","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg/960px-Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg","alt":"Çiftepınar Tepe","caption":"Çiftepınar Tepe","credit":"Aladağlara Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iftep%C4%B1nar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818950","tip":"genel"}]
 description: "Yozgat'ta bulunan Çiftepınar Tepe, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Çiftepınar Tepe","Yozgat","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Yozgat Turistik Yerler","Doğal Güzellikler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Duman Dağı","caption":"Duman Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg/960px-Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg","alt":"Duman Dağı","caption":"Duman Dağı","credit":"Erciyes Dağı 05 04 1999","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Duman%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31525232","tip":"genel"}]
 description: "Hakkari'de bulunan Duman Dağı, 1400 metre yüksekliğiyle bölgenin önemli coğrafi oluşumlarından biri"
 keywords: ["Duman Dağı","Hakkari","Dağ","Coğrafi Oluşum","Doğa","Türkiye","Gezi","Seyahat","Dağcılık"]

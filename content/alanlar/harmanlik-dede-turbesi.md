@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["denize girme","doğa yürüyüşü","tarihçe gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Harmanlık Dede Türbesi","caption":"Harmanlık Dede Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Harmanlık Dede Türbesi","caption":"Harmanlık Dede Türbesi","credit":"Muğla - Dalyan - İztuzu Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harmanl%C4%B1k%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391516","tip":"genel"}]
 description: "Gemlik'in güzide plajlarından biri olan Harmanlık Dede Türbesi, Marmara Bölgesi'nin en çok tercih edilen noktalarından."
 keywords: ["Harmanlık Dede Türbesi","Gemlik","Bursa","Marmara Bölgesi","plaj","tarihçe","coğrafya","flora","fauna","ziyaret"]

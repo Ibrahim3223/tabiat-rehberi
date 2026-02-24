@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğraf çekme","doğa keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Onat Cinari","caption":"Onat Cinari","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"Onat Cinari","caption":"Onat Cinari","credit":"MOKFC09","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Onat%20Cinari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228069","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti Onat Cinari, 140 hektarlık geniş alanıyla doğa severleri bekliyor."
 keywords: ["Onat Cinari","İç Anadolu Bölgesi","milli park","doğa","gezi","turizm","çevre","ekoloji","flora","fauna"]

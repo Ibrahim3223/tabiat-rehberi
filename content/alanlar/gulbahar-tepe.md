@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Gülbahar Tepe","caption":"Gülbahar Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Gülbahar Tepe","caption":"Gülbahar Tepe","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BClbahar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139027","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'ndeki Kilis'te bulunan Gülbahar Tepe, tarihi ve doğal güzellikleri birleştiren özel bir destinasyon."
 keywords: ["Gülbahar Tepe","Kilis","Güneydoğu Anadolu Bölgesi","Tarih","Doğa","Turizm"]

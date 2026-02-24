@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Açık hava etkinlikleri","Bitki ve hayvan türleri gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Akyokus_parki.jpg/960px-Akyokus_parki.jpg","alt":"Konya-Beyşehir Ardic","caption":"Konya-Beyşehir Ardic","credit":"Akyokus parki.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg","alt":"Konya-Beyşehir Ardic","caption":"Konya-Beyşehir Ardic","credit":"Bolu Yedigöller tabiat parkı iskeleli göl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Bey%C5%9Fehir%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227227","tip":"genel"}]
 description: "Konya'nın güzide doğal alanlarından biri olan Konya-Beyşehir Ardic, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Konya","Beyşehir","Ardiç","Milli Park","Doğal Alan","Yeşil Alan","Futbol Sahası","Konya-Beyşehir"]

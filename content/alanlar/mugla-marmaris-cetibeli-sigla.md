@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","piknik","doğa"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kavakarasi.jpg/960px-Kavakarasi.jpg","alt":"Mugla-Marmaris-Cetibeli Sigla","caption":"Mugla-Marmaris-Cetibeli Sigla","credit":"Kavakarasi.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Mugla-Marmaris-Cetibeli Sigla","caption":"Mugla-Marmaris-Cetibeli Sigla","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Marmaris-Cetibeli%20Sigla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227757","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden Muğla'da yer alan Marmaris Cetibeli Sigla, 140 hektarlık büyüklüğüyle yaklaşık 200 futbol sahası büyüklüğünde bir alana sahiptir."
 keywords: ["Marmaris","Cetibeli Sigla","Muğla","Ege Bölgesi","milli park","doğa","gezi","turizm"]

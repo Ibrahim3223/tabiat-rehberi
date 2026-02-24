@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Elazig-Mardin-Mardin Fidanligi Fistik Cami","caption":"Elazig-Mardin-Mardin Fidanligi Fistik Cami","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MOKFC03.jpg/960px-MOKFC03.jpg","alt":"Elazig-Mardin-Mardin Fidanligi Fistik Cami","caption":"Elazig-Mardin-Mardin Fidanligi Fistik Cami","credit":"MOKFC03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elazig-Mardin-Mardin%20Fidanligi%20Fistik%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228003","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin."
 keywords: ["Mardin","Elazig","Fidanligi","Fistik Cami","doğa","tarih","gezi","turizm","iç Anadolu Bölgesi"]

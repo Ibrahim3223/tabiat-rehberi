@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg/960px-Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg","alt":"İsabey Dağı","caption":"İsabey Dağı","credit":"Landschap met ruïnes en het aquaduct naar Efeze, RP-F-F00998-AV.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PeakUludag.jpg/960px-PeakUludag.jpg","alt":"İsabey Dağı","caption":"İsabey Dağı","credit":"PeakUludag","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0sabey%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520162","tip":"genel"}]
 description: "Van'da bulunan İsabey Dağı, doğa severlerin uğrak noktası. 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["İsabey Dağı","Van","Dağ","Doğa","Trekking","Kamp","Van Gezi","Doğa Sporları","Turizm"]

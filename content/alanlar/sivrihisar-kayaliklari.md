@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kaya tırmanışı","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"SİVRİHİSAR KAYALIKLARI","caption":"SİVRİHİSAR KAYALIKLARI","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"SİVRİHİSAR KAYALIKLARI","caption":"SİVRİHİSAR KAYALIKLARI","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B0VR%C4%B0H%C4%B0SAR%20KAYALIKLARI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228928","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Sivrihisar Kayalıkları","İç Anadolu Bölgesi","doğa","kayalık","milli park","gezi","turizm","çevre","ekoloji"]

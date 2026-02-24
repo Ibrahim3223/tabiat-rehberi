@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Kara-Tepe-Camp-Lesvos-Perimeter-%28c%29_O%27Leary-James.jpg","alt":"Kara Tepe (Elazığ) manzarası","credit":"Interface-Architect","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Kara Tepe (Elazığ)","caption":"Kara Tepe (Elazığ)","credit":"Sis dağı (3)","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Kara_Tepe%2C_Frieze_of_an_elephant.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Kara_Tepe%2C_Frieze_of_an_elephant.jpg","alt":"Kara Tepe (Elazığ) - Kara Tepe, Frieze of an elephant","credit":"Nicoletta Stofkoper","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Tepe%20(Elaz%C4%B1%C4%9F)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517644","tip":"genel"}]
 description: "Elazığ'da bulunan Kara Tepe, doğal güzellikleri ile dikkat çeken bir dağdır. 1200 hektarlık yeşil alanı ile İstanbul'un yarısı kadar bir alanı kaplar."

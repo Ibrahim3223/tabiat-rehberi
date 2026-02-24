@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","tepe tırmanışı","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Otrük Tepesi","caption":"Otrük Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Otrük Tepesi","caption":"Otrük Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Otr%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34888078","tip":"genel"}]
 description: "Hatay'da yer alan Otrük Tepesi, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Otrük Tepesi","Hatay","Akdeniz Bölgesi","doğal alan","tepe","coğrafya","flora","fauna"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi rehberli turlar","doğa yürüyüşleri","fotografcılık","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Antik Mezar Kalıntısı, Akçakeçili","caption":"Antik Mezar Kalıntısı, Akçakeçili","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Antik Mezar Kalıntısı, Akçakeçili","caption":"Antik Mezar Kalıntısı, Akçakeçili","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antik%20Mezar%20Kal%C4%B1nt%C4%B1s%C4%B1%2C%20Ak%C3%A7ake%C3%A7ili","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728083","tip":"genel"}]
 description: "Ezine'nin tarihi ve doğal güzelliklerini keşfedin. Antik Mezar Kalıntısı, Akçakeçili'de geçmişin izlerini takip edin."
 keywords: ["Antik Mezar Kalıntısı","Akçakeçili","Ezine","İç Anadolu Bölgesi","tarihi yerler","doğa güzellikleri","gezi rehberi","kültür turizmi"," tarihi mekanlar"]

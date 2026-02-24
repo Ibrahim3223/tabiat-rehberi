@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin etrafında bulunan tarihi eserleri gezme","Doğal güzellikleri izleme","Yeşil alanda piknik yapma","Tepenin yüksekliğine çıkarak manzara seyretme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Habip Tepesi","caption":"Habip Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/South_elevation._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-5.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Habip Tepesi","caption":"Habip Tepesi","credit":"South elevation. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-5","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Habip%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385789","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerinin birleştiği Habip Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Habip Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]

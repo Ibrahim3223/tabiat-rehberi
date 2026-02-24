@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Topanbaşı Tepesi","caption":"Topanbaşı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Topanbaşı Tepesi","caption":"Topanbaşı Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topanba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560866","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Tomanbaşı Tepesi, Zonguldak ilinin doğal güzelliklerinden biri. 140 hektarlık bir alana yayılan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Topanbaşı Tepesi","Zonguldak","Karadeniz Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre","iklim"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Manisa-Sarigol Kızılçam","caption":"Manisa-Sarigol Kızılçam","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/MOKFC04.jpg/960px-MOKFC04.jpg","alt":"Manisa-Sarigol Kızılçam","caption":"Manisa-Sarigol Kızılçam","credit":"MOKFC04","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manisa-Sarigol%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227655","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Manisa-Sarigol Kızılçam Milli Parkı, doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Manisa-Sarigol Kızılçam","Milli Park","İç Anadolu Bölgesi","doğal güzellik","kızılçam","orman"]

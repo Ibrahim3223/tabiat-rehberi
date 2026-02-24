@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Hamamın tarihi ve kültürel öneminin keşfedilmesi","Hamamın bulunduğu alanın keşfedilmesi","Hamamın flora ve faunasının keşfedilmesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Mahmutpaşa Hamamı","caption":"Mahmutpaşa Hamamı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg/960px-Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg","alt":"Mahmutpaşa Hamamı","caption":"Mahmutpaşa Hamamı","credit":"Marmaris ve Lodos (Aralik 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahmutpa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738558","tip":"genel"}]
 description: "Fatih'in tarihi hamamlarından biri olan Mahmutpaşa Hamamı, Marmara Bölgesi'nde yer alır."
 keywords: ["Mahmutpaşa Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarihi hamam","kültür","turizm","gezi"]

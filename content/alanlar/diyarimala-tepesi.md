@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik görüş","tarihi eserleri ziyaret","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Diyarımala Tepesi","caption":"Diyarımala Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg/960px-Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg","alt":"Diyarımala Tepesi","caption":"Diyarımala Tepesi","credit":"Ida B Wells High School San Francisco January 2013 002","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diyar%C4%B1mala%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550802","tip":"genel"}]
 description: "Mardin'in tarihi ve coğrafi güzellikleri ile çevrili Diyarımala Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mardin","Diyarımala Tepesi","Güneydoğu Anadolu Bölgesi","coğrafi güzellikler","tarihi mekanlar","doğa yürüyüşü","tepe","Mardin gezilecek yerler","Güneydoğu Anadolu"]

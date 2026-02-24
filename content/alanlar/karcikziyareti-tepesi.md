@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","coğrafi keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Karcıkziyareti Tepesi","caption":"Karcıkziyareti Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Karcıkziyareti Tepesi","caption":"Karcıkziyareti Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karc%C4%B1kziyareti%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31589014","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde bulunan Karcıkziyareti Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Karcıkziyareti Tepesi","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","Batman","tepe","coğrafya","flora","fauna"]

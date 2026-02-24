@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük ziyaret"
 aktiviteler: ["Denizde yüzmek","Güneşlenmek","Su sporları","Yelken"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg/960px-Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg","alt":"Sasalı Hamamı","caption":"Sasalı Hamamı","credit":"Wind direction has changed, now wind is coming from the sea - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Sasalı Hamamı","caption":"Sasalı Hamamı","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sasal%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738968","tip":"genel"}]
 description: "Ödemiş'te yer alan Sasalı Hamamı, Ege Bölgesi'nin önemli plajlarından biri"
 keywords: ["Sasalı Hamamı","Ödemiş","İzmir","Ege Bölgesi","plaj","deniz","kumsal"]

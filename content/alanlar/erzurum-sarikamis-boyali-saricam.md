@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Kampçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cilingoz_National_Park_Beach_with_waves.jpg/960px-Cilingoz_National_Park_Beach_with_waves.jpg","alt":"Erzurum-Sarikamis-Boyali Saricam","caption":"Erzurum-Sarikamis-Boyali Saricam","credit":"Cilingoz National Park Beach with waves","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kad%C4%B1nc%C4%B1k_Valley_5.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_5.jpg","alt":"Erzurum-Sarikamis-Boyali Saricam","caption":"Erzurum-Sarikamis-Boyali Saricam","credit":"Kadıncık Valley 5","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Sarikamis-Boyali%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227561","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide milli parkı"
 keywords: ["Erzurum","Sarikamis","Boyali Saricam","Milli Park","Doğu Anadolu Bölgesi","Doğal Alan","Turizm","Gezi","Seyahat"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","vahşi yaşam gözlemi","trekking"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Adana-Kadirli-Karaçam","caption":"Adana-Kadirli-Karaçam","credit":"Turkish nature reserve","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"Adana-Kadirli-Karaçam","caption":"Adana-Kadirli-Karaçam","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli-Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228447","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin gizli cenneti, doğa severler için bir tutku"
 keywords: ["Adana","Kadirli","Karaçam","milli park","doğa","gezi","yaban hayatı","çevre","ekoloji"]

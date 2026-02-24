@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_photos_of_Akda%C4%9F_2.jpg/960px-The_photos_of_Akda%C4%9F_2.jpg","alt":"Denizli-Usak-Sivasli-Turk Findigi","caption":"Denizli-Usak-Sivasli-Turk Findigi","credit":"The photos of Akdağ 2","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"Denizli-Usak-Sivasli-Turk Findigi","caption":"Denizli-Usak-Sivasli-Turk Findigi","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Usak-Sivasli-Turk%20Findigi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228577","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
 keywords: ["Denizli","Usak","Sivasli","Turk Findigi","milli park","Ege Bölgesi","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Eren Tepe","caption":"Eren Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg/960px-.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg","alt":"Eren Tepe","caption":"Eren Tepe","credit":".00 1627 Tuffsteinlandschaft von Göreme (Türkei)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eren%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385839","tip":"genel"}]
 description: "Denizli'de yer alan Eren Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri."
 keywords: ["Eren Tepe","Denizli","Dağ","Türkiye Coğrafyası","Doğa Alanları","Trekking","Dağcılık","Turizm","Gezi Rehberi","Coğrafi Özellikler"]

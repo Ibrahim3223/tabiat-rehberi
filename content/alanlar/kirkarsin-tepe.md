@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg/960px-Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg","alt":"Kırkarşın Tepe","caption":"Kırkarşın Tepe","credit":"Konya Akyokuş Nature Park Konya Landscape.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Kırkarşın Tepe","caption":"Kırkarşın Tepe","credit":"Sis dağı (3)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rkar%C5%9F%C4%B1n%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514850","tip":"genel"}]
 description: "Konya'da yer alan Kırkarşın Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Kırkarşın Tepe","Konya","Dağ","Doğa","Tarih","Turizm","Gezi","Konya gezilecek yerler","Doğal güzellikler"]

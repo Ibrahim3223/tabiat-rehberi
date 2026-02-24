@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kandil Tepesi","caption":"Kandil Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Kandil Tepesi","caption":"Kandil Tepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kandil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388404","tip":"genel"}]
 description: "Muş'un gizli güzelliği Kandil Tepesi, doğa severlerin buluşma noktası"
 keywords: ["Kandil Tepesi","Muş","Doğu Anadolu Bölgesi","doğa","gezi","tepe","manzara"]

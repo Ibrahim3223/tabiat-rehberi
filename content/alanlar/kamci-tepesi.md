@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kamçı Tepesi","caption":"Kamçı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Kamçı Tepesi","caption":"Kamçı Tepesi","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kam%C3%A7%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877671","tip":"genel"}]
 description: "Siirt'in yükse ve etkileyici tepesi, Kamçı Tepesi"
 keywords: ["Kamçı Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","flora","fauna","ziyaret","gezilecek yerler"]

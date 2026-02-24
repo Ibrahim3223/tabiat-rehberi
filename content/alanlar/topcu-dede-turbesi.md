@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Topçu Dede Türbesi","caption":"Topçu Dede Türbesi","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg","alt":"Topçu Dede Türbesi","caption":"Topçu Dede Türbesi","credit":"Piri Reis - Map of the Island of Cos Off the Anatolian Coast - Walters W65895A - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Top%C3%A7u%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390664","tip":"genel"}]
 description: "Merzifon'un tarihi ve doğal güzelliklerini keşfedin. Topçu Dede Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Merzifon","Topçu Dede Türbesi","tarih","doğa","gezi","türbe","İç Anadolu Bölgesi","Merzifon İlçesi"]

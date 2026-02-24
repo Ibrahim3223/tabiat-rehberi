@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları gezmek","doğal güzellikleri keşfetmek","kültürel etkinliklere katılmak","yöresel yemekleri denemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Halvet Baba Türbesi","caption":"Halvet Baba Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg","alt":"Halvet Baba Türbesi","caption":"Halvet Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halvet%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391494","tip":"genel"}]
 description: "Sur/Diyarbakır'da bulunan tarihi Halvet Baba Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve kültürel merkezlerinden biri."
 keywords: ["Halvet Baba Türbesi","Sur/Diyarbakır","Güneydoğu Anadolu Bölgesi","tarihi mekanlar","dini merkezler","kültürel miras","gezi noktaları","tarihçe","coğrafya"]

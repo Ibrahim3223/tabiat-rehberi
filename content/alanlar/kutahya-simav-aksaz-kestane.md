@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Kutahya-Simav-Aksaz-Kestane","caption":"Kutahya-Simav-Aksaz-Kestane","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg","alt":"Kutahya-Simav-Aksaz-Kestane","caption":"Kutahya-Simav-Aksaz-Kestane","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Simav-Aksaz-Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228220","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parkı, 140 hektarlık yeşil alan"
 keywords: ["milli park","Kutahya","Simav","Aksaz","Kestane","İç Anadolu Bölgesi","doğa","yeşil alan"]

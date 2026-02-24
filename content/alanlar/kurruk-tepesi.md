@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih keşfi","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kurruk Tepesi","caption":"Kurruk Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Kurruk Tepesi","caption":"Kurruk Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurruk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536642","tip":"genel"}]
 description: "Kilis'in gizli köşesi, tarihi ve doğal güzellikleri ile dikkat çeken Kurruk Tepesi"
 keywords: ["Kurruk Tepesi","Kilis","Güneydoğu Anadolu Bölgesi","tepe","doğa","tarih","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Erzincan_Refahiye.jpg","alt":"Kızıl Dağ (Isparta) manzarası","credit":"Salihsertbas","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg/960px-Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg","alt":"Kızıl Dağ","caption":"Kızıl Dağ","credit":"Hacıbaba dağı- batıdan - panoramio","license":"CC BY-SA 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/b/be/Dedeg%C3%B6l_Tepesi.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/1280px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Kızıl Dağ (Isparta) - Dedegöl Tepesi","credit":"Emre Can Güzel","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%20Da%C4%9F%20(Isparta)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514379","tip":"genel"}]
 description: "Isparta'da bulunan Kızıl Dağ, 2400 metre yüksekliğiyle bölgenin önemli dağlarından biri"

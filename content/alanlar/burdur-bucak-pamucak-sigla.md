@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Burdur-Bucak-Pamucak Sigla","caption":"Burdur-Bucak-Pamucak Sigla","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Burdur-Bucak-Pamucak Sigla","caption":"Burdur-Bucak-Pamucak Sigla","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Bucak-Pamucak%20Sigla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227715","tip":"genel"}]
 description: "Burdur iline bağlı Bucak ilçesinde yer alan milli park, zengin flora ve faunaya ev sahipliği yapıyor."
 keywords: ["Burdur","Bucak","Pamucak","milli park","flora","fauna","doğa","turizm","gezi"]

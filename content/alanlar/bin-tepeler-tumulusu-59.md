@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografcılık","-picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Bin Tepeler Tümülüsü 59","caption":"Bin Tepeler Tümülüsü 59","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg","alt":"Bin Tepeler Tümülüsü 59","caption":"Bin Tepeler Tümülüsü 59","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2059","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728313","tip":"genel"}]
 description: "Salihli'nin tarihi ve doğal güzelliklerini keşfedin. Bin Tepeler Tümülüsü 59, Ege Bölgesi'nin gizli kalmış bir hazine harika bir deneyim."
 keywords: ["Bin Tepeler Tümülüsü","Salihli","Manisa","Ege Bölgesi","tarih","doğa","gezi","tümülüs","plaj"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Kışır İni","caption":"Kışır İni","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bulletin_of_the_Geological_Society_of_America_%281923%29_%2814595083859%29.jpg/960px-Bulletin_of_the_Geological_Society_of_America_%281923%29_%2814595083859%29.jpg","alt":"Kışır İni","caption":"Kışır İni","credit":"Bulletin of the Geological Society of America (1923) (14595083859)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1%C5%9F%C4%B1r%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319373","tip":"genel"}]
 description: "Karaman'da yer alan Kışır İni, Türkiye'nin önemli jeoparklarından biri. Doğal güzellikleri ve jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Kışır İni","Karaman","Jeopark","Doğal Alan","Türkiye Jeoparkları","Karaman Turizm","Jeolojik Oluşumlar","Doğa Turizmi","Kışır İni Gezi"]

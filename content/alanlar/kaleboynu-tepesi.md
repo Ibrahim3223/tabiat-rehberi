@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Fotoğrafçılık"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kaleboynu Tepesi","caption":"Kaleboynu Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg/960px-Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg","alt":"Kaleboynu Tepesi","caption":"Kaleboynu Tepesi","credit":"Ida Husted Harper photograph by Aime Dupont","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaleboynu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390881","tip":"genel"}]
 description: "Yozgat'ın İç Anadolu Bölgesi'nde yer alan Kaleboynu Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kaleboynu Tepesi","Yozgat","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi"]

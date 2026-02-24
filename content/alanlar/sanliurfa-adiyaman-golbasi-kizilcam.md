@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Flora ve Fauna Gözlemi","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Siverek.jpg/960px-Siverek.jpg","alt":"Sanliurfa-Adiyaman-Golbasi-Kizilcam","caption":"Sanliurfa-Adiyaman-Golbasi-Kizilcam","credit":"Siverek.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg","alt":"Sanliurfa-Adiyaman-Golbasi-Kizilcam","caption":"Sanliurfa-Adiyaman-Golbasi-Kizilcam","credit":"Bolu Yedigöller tabiat parkı iskeleli göl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sanliurfa-Adiyaman-Golbasi-Kizilcam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228578","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Şanlıurfa ve Adıyaman'ın sınırında yer alan bu milli park, 140 hektarlık yeşil alanı ve zengin fauna ile ziyaretçilerini bekliyor."
 keywords: ["Şanlıurfa","Adıyaman","Güneydoğu Anadolu Bölgesi","Milli Park","Doğal Alan","Flora","Fauna"]

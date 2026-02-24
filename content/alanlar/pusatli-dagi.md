@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Pusatlı Dağı","caption":"Pusatlı Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Taurus_05_01_2012_Golf_von_Antalya_mit_Kuyucak_Da%C4%9F%C4%B1.jpg/960px-Taurus_05_01_2012_Golf_von_Antalya_mit_Kuyucak_Da%C4%9F%C4%B1.jpg","alt":"Pusatlı Dağı","caption":"Pusatlı Dağı","credit":"Taurus 05 01 2012 Golf von Antalya mit Kuyucak Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pusatl%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31508417","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, Pusatlı Dağı'nda doğa ile baş başa kalın."
 keywords: ["Pusatlı Dağı","Mersin","Dağ","Doğa","Turizm","Mersin Turistik Yerler","Pusatlı Dağı Mersin","Dağcılık","Mersin Gezi Rehberi"]

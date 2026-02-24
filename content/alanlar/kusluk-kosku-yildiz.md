@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarih gezisi","mimari keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kuşluk Köşkü, Yıldız","caption":"Kuşluk Köşkü, Yıldız","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_beach_near_Phaselis_2021-02-26-1.jpg/960px-A_beach_near_Phaselis_2021-02-26-1.jpg","alt":"Kuşluk Köşkü, Yıldız","caption":"Kuşluk Köşkü, Yıldız","credit":"A beach near Phaselis 2021-02-26-1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fluk%20K%C3%B6%C5%9Fk%C3%BC%2C%20Y%C4%B1ld%C4%B1z","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132082211","tip":"genel"}]
 description: "Beşiktaş'ta tarihi bir köşkün hikayesi"
 keywords: ["Kuşluk Köşkü","Yıldız","Beşiktaş","İstanbul","Marmara Bölgesi","tarih","doğa","gezi"]

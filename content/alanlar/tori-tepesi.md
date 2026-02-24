@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Tori Tepesi","caption":"Tori Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Tori Tepesi","caption":"Tori Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tori%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553856","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Tori Tepesi, Batman ilinin sınırları içerisinde yer alır."
 keywords: ["Tori Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

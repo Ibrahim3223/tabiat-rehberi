@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","manzara seyri","fotoğrafçılık","çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Perikaya Tepe","caption":"Perikaya Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Perikaya Tepe","caption":"Perikaya Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Perikaya%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386979","tip":"genel"}]
 description: "Artvin'in doğal güzelliklerini keşfedin. Perikaya Tepe, Karadeniz Bölgesi'nin saklı cenneti."
 keywords: ["Perikaya Tepe","Artvin","Karadeniz Bölgesi","doğa","gezi","turizm","tepe","manzara","çevre","ekoloji"]

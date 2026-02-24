@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Keyvanbey Hamamı","caption":"Keyvanbey Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg","alt":"Keyvanbey Hamamı","caption":"Keyvanbey Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keyvanbey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738471","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli cevheri, tarihi ve doğal güzelliklerin birleştiği şahane bir mekan."
 keywords: ["Gaziantep","Şahinbey","Keyvanbey Hamamı","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

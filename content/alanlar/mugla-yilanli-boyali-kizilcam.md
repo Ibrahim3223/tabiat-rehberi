@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Marmaris_Macera_Park.jpg/960px-Marmaris_Macera_Park.jpg","alt":"Mugla-Yilanli-Boyali Kızılçam","caption":"Mugla-Yilanli-Boyali Kızılçam","credit":"Marmaris Macera Park.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","alt":"Mugla-Yilanli-Boyali Kızılçam","caption":"Mugla-Yilanli-Boyali Kızılçam","credit":"Gölcük Tabiat Parkı Karlar Altında 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Yilanli-Boyali%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227465","tip":"genel"}]
 description: "Muğla'nın yeşili ile çevrili milli parkı"
 keywords: ["Mugla-Yilanli-Boyali Kızılçam","milli park","Muğla","Ege Bölgesi","doğa","yeşil","orman"]

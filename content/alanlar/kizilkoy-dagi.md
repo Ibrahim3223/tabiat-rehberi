@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Kızılköy Dağı","caption":"Kızılköy Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TRABZON_YAYLASI_VE_%C4%B0BADET.jpg/960px-TRABZON_YAYLASI_VE_%C4%B0BADET.jpg","alt":"Kızılköy Dağı","caption":"Kızılköy Dağı","credit":"TRABZON YAYLASI VE İBADET","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lk%C3%B6y%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041979","tip":"genel"}]
 description: "Gümüşhane'de yer alan Kızılköy Dağı, 1200 hektarlık yeşil cenneti ile doğa severlerin ilgi odağı"
 keywords: ["Kızılköy Dağı","Gümüşhane","Dağ","Doğa","Turizm","Gezi","Trekking","Doğa Yürüyüşü","Gümüşhane Turistik Yerler"]

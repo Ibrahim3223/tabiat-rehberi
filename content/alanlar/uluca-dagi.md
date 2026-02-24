@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Uluca Dağı","caption":"Uluca Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg/960px-Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg","alt":"Uluca Dağı","caption":"Uluca Dağı","credit":"Emir Dağları 25 09 2013 Landschaft","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uluca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560553","tip":"genel"}]
 description: "Amasya'da bulunan Uluca Dağı, 1200 hektarlık yeşil cenneti ve zengin florası ile dikkat çekiyor."
 keywords: ["Uluca Dağı","Amasya","Dağ","Doğa","Turizm","Yeşil Alan","Flora","Gezi","Seyahat"]

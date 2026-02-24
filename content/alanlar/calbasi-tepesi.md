@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çalbaşı Tepesi","caption":"Çalbaşı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Çalbaşı Tepesi","caption":"Çalbaşı Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87alba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823555","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin görkemli tepelerinden biri olan Çalbaşı Tepesi, Çorum'un doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon."
 keywords: ["Çalbaşı Tepesi","Çorum","Karadeniz Bölgesi","doğal güzellik","tepe","gezi","keşif"]

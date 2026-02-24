@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî eserleri gezmek","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Cumalıkızık Hamamı","caption":"Cumalıkızık Hamamı","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Cumalıkızık Hamamı","caption":"Cumalıkızık Hamamı","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cumal%C4%B1k%C4%B1z%C4%B1k%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739177","tip":"genel"}]
 description: "Bursa'nın tarihi ve kültürel zenginliklerini barındıran özel bir mekan"
 keywords: ["Cumalıkızık","Bursa","tarih","kültür","gezi","yazılık","mimarlık","doğa","turizm"]

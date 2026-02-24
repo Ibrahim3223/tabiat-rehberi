@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih turu","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Bin Tepeler Tümülüsü 50","caption":"Bin Tepeler Tümülüsü 50","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Bin Tepeler Tümülüsü 50","caption":"Bin Tepeler Tümülüsü 50","credit":"Elmasburnu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2050","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728338","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerinin bir arada bulunduğu bir bölge olan Bin Tepeler Tümülüsü 50, ziyaretçilerini bekliyor."
 keywords: ["Bin Tepeler Tümülüsü 50","Salihli","Manisa","Ege Bölgesi","tarihi mekanlar","doğa yürüyüşü","tümülüsler"]

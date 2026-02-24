@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","manzara seyri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Mount Çakmak","caption":"Mount Çakmak","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Mount Çakmak","caption":"Mount Çakmak","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mount%20%C3%87akmak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34827867","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli güzelliklerinden biri olan Mount Çakmak, Gaziantep'in eşsiz manzaralarına ev sahipliği yapıyor."
 keywords: ["Mount Çakmak","Gaziantep","Güneydoğu Anadolu Bölgesi","doğa","gezi","tepe"]

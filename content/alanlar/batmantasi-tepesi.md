@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Batmantası Tepesi","caption":"Batmantası Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/South_room_first_floor._View_looking_southwest._South_addition_visible_through_doorway._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_HABS_VA%2C42-CLOV.V%2C2A-13.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Batmantası Tepesi","caption":"Batmantası Tepesi","credit":"South room first floor. View looking southwest. South addition visible through doorway. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's HABS VA,42-CLOV.V,2A-13","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Batmantas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386389","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerinden biri olan Batmantası Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Batmantası Tepesi","Gaziantep","doğal güzellik","tepe","Güneydoğu Anadolu Bölgesi","gezi","turizm","yaban hayatı","çevre"]

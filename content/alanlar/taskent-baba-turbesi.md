@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","tarihî yapıları ziyaret","doğa gözlemi","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Taşkent Baba Türbesi","caption":"Taşkent Baba Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_beaches-_Sea_of_Marmara_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_02.jpg","alt":"Taşkent Baba Türbesi","caption":"Taşkent Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fkent%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390786","tip":"genel"}]
 description: "Edirne'nin tarihi ve doğal güzelliklerini bir arada sunan Taşkent Baba Türbesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Taşkent Baba Türbesi","Edirne","tarihi mekanlar","doğa güzellikleri","türk kültürü","marmara bölgesi","gezi noktaları","tarihçe","coğrafya"]

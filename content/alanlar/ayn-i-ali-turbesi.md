@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Ayn-i Ali Türbesi","caption":"Ayn-i Ali Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg/960px-Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg","alt":"Ayn-i Ali Türbesi","caption":"Ayn-i Ali Türbesi","credit":"Aerial view of destruction in Beach refugee camp, Gaza Strip","license":"CC BY-SA 3.0 igo"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayn-i%20Ali%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390919","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli kalmış bir hazine olan Ayn-i Ali Türbesi, Manisa'nın Yunusemre ilçesinde bulunmaktadır."
 keywords: ["Ayn-i Ali Türbesi","Manisa","Yunusemre","Ege Bölgesi","Türbe","Tarih","Doğa"]

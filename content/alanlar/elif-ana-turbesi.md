@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih ve kültür gezisi","Doğa yürüyüşü","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg","alt":"Elif Ana Türbesi","caption":"Elif Ana Türbesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg","alt":"Elif Ana Türbesi","caption":"Elif Ana Türbesi","credit":"Marmaris @ Lodos Storm (December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elif%20Ana%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390502","tip":"genel"}]
 description: "Kahramanmaraş'ın Pazarcık ilçesinde yer alan Elif Ana Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Elif Ana Türbesi","Pazarcık","Kahramanmaraş","tarihi mekanlar","doğal güzellikler","tarihçe","coğrafya","flora","fauna","ziyaret"]

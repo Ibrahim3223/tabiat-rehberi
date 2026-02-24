@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Tekkedağı Tepe","caption":"Tekkedağı Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg/960px-%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Tekkedağı Tepe","caption":"Tekkedağı Tepe","credit":"\"yazı\"dan koçaş bağları ve hacıbaba dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekkeda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385429","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Tekkedağı Tepe, Türkiye'de yer alan bir dağdır."
 keywords: ["Tekkedağı Tepe","Türkiye dağları","doğal güzellikler","gezi rehberi","Türkiye turizmi","dağcılık","doğa yürüyüşü","Türkiye'nin dağları","gezilecek yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Çekem Dağı","caption":"Çekem Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg/960px-Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg","alt":"Çekem Dağı","caption":"Çekem Dağı","credit":"Jebel Aqra (Kel Dağı, Mount Casius), 2008","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ekem%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818733","tip":"genel"}]
 description: "Şanlıurfa'nın doğal güzelliklerinden biri olan Çekem Dağı, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Çekem Dağı","Şanlıurfa","Doğal Alanlar","Dağ","Turizm","Gezi","Şanlıurfa Turistik Yerler","Çekem Dağı Şanlıurfa","Doğa Sporları"]

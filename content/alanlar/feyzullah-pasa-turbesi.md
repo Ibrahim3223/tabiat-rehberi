@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Plajda dinlenmek","Meriç Nehri'nin kıyısında yürüyüş yapmak","Şehrin tarihi mekanlarını keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Feyzullah Paşa Türbesi","caption":"Feyzullah Paşa Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Feyzullah Paşa Türbesi","caption":"Feyzullah Paşa Türbesi","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Feyzullah%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735172","tip":"genel"}]
 description: "Edirne'de bulunan tarihi türbe ve çevresindeki doğal güzellikler"
 keywords: ["Feyzullah Paşa","Edirne","Türbe","Doğal güzellik","Tarih","Marmara Bölgesi"]

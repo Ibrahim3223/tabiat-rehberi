@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Ziyaret İgnadzor","caption":"Ziyaret İgnadzor","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KackarDagi_fromNorth_hory.jpg/960px-KackarDagi_fromNorth_hory.jpg","alt":"Ziyaret İgnadzor","caption":"Ziyaret İgnadzor","credit":"KackarDagi fromNorth hory","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20%C4%B0gnadzor","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21210717","tip":"genel"}]
 description: "Kars'ta yer alan Ziyaret İgnadzor, 2919 metre yüksekliğiyle dikkat çeken bir dağdır. Doğal güzelliği ile ziyaretçilerini büyülüyor."
 keywords: ["Ziyaret İgnadzor","Kars","Dağ","Doğa","Türkiye","Seyahat","Gezi","Kars Dağları","Trekking"]

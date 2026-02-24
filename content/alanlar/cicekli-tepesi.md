@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","kayak","snowboard"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Çiçekli Tepesi","caption":"Çiçekli Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Çiçekli Tepesi","caption":"Çiçekli Tepesi","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87i%C3%A7ekli%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829377","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin en güzel tepelerinden biri olan Çiçekli Tepesi, Erzurum'un doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Çiçekli Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","türk doğası","coğrafya","flora","fauna"]

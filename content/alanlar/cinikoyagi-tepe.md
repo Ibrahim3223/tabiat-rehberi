@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotograf çekme","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Çinikoyağı Tepe","caption":"Çinikoyağı Tepe","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Çinikoyağı Tepe","caption":"Çinikoyağı Tepe","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87inikoya%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829201","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerinin başında gelen Çinikoyağı Tepe, ziyaretçilerini büyülemektedir."
 keywords: ["Konya","İç Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya","flora","fauna","ziyaret"]

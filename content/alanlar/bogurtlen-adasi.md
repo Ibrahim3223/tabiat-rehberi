@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/View_to_chios_island_5_-_panoramio.jpg/960px-View_to_chios_island_5_-_panoramio.jpg","alt":"Böğürtlen Adası","caption":"Böğürtlen Adası","credit":"View to chios island 5 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/G%C3%BCvercinada_Sea.jpg/960px-G%C3%BCvercinada_Sea.jpg","alt":"Böğürtlen Adası","caption":"Böğürtlen Adası","credit":"Güvercinada Sea","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%B6%C4%9F%C3%BCrtlen%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49634384","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Böğürtlen Adası, doğa severlerin ziyaret ettiği bir yer"
 keywords: ["Böğürtlen Adası","İzmir Adaları","Ege Adaları","Türkiye Adaları","İzmir Turizm","Ada Gezileri","Doğa Turizmi","Ege Denizi","İzmir Gezi Rehberi"]

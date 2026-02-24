@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa gezisi","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Ahmet Karahisari Türbesi","caption":"Ahmet Karahisari Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg","alt":"Ahmet Karahisari Türbesi","caption":"Ahmet Karahisari Türbesi","credit":"2023-11-04 Choban beach near Kaş 5","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahmet%20Karahisari%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390625","tip":"genel"}]
 description: "Afyonkarahisar'da tarihi ve doğal güzelliklerin buluştuğu Ahmet Karahisari Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Afyonkarahisar","Ahmet Karahisari Türbesi","tarih","doğa","gezi","türk kültürü","tarihçe","coğrafya","flora","fauna"]

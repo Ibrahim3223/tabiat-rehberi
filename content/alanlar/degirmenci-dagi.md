@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Değirmenci Dağı","caption":"Değirmenci Dağı","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Değirmenci Dağı","caption":"Değirmenci Dağı","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/De%C4%9Firmenci%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31587794","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin, Değirmenci Dağı'nın büyüleyici manzaraları ve yürüyüş rotaları"
 keywords: ["Değirmenci Dağı","Antalya","Dağ","Doğa","Yürüyüş","Manzara","Turizm","Gezi","Antalya Turistik Yerler"]

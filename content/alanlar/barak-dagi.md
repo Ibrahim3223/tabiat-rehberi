@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kamp","fotoğrafçılık","yöresel yemekler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Barak Dağı","caption":"Barak Dağı","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Barak Dağı","caption":"Barak Dağı","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Barak%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386166","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Barak Dağı, Gaziantep'in önemli coğrafi oluşumlarından biridir."
 keywords: ["Barak Dağı","Gaziantep","Güneydoğu Anadolu Bölgesi","coğrafi oluşumlar","doğa","gezi","tarih"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Hayrat Tepe","caption":"Hayrat Tepe","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Hayrat Tepe","caption":"Hayrat Tepe","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hayrat%20Tepe%20(%C5%9Eanl%C4%B1urfa)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31534581","tip":"genel"}]
 description: "Şanlıurfa'nın doğal güzelliklerini keşfedin. 1200 hektarlık yeşil alan, İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Hayrat Tepe","Şanlıurfa","Doğa","Yeşil Alan","Turizm","Gezi","Dag","Şanlıurfa Turistik Yerler","Doğal Güzellikler"]

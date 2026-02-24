@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%BCver_Canyon_Scene%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scene%28Antalya%29.jpg","alt":"Fosforlu Mağarası","caption":"Fosforlu Mağarası","credit":"Güver Canyon Scene(Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/72/EQ_storm_Turkey-he.png","alt":"Fosforlu Mağarası","caption":"Fosforlu Mağarası","credit":"EQ storm Turkey-he","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fosforlu%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319163","tip":"genel"}]
 description: "Antalya'da bulunan Fosforlu Mağarası, 1200 hektarlık bir jeopark alanı sunar ve doğa severler için bir cennettir."
 keywords: ["Fosforlu Mağarası","Antalya","Jeopark","Doğa Turizmi","Mağara Gezisi","Turistik Yerler","Antalya Turizm","Jeolojik Alanlar","Doğa Harikaları"]

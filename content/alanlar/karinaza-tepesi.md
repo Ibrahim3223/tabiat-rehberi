@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğraf çekme","tepeye tırmanma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Karınaza Tepesi","caption":"Karınaza Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Karınaza Tepesi","caption":"Karınaza Tepesi","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kar%C4%B1naza%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385676","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Karınaza Tepesi, Van şehrinin önemli doğal güzelliklerinden biri"
 keywords: ["Karınaza Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

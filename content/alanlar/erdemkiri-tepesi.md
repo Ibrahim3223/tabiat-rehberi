@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin zirvesine tırmanmak","Manzara seyretmek","Flora ve fauna gözlemlemek","Piknik yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Erdemkırı Tepesi","caption":"Erdemkırı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Erdemkırı Tepesi","caption":"Erdemkırı Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erdemk%C4%B1r%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568191","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Erdemkırı Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Erdemkırı Tepesi","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmiş","tepe","coğrafya","flora","fauna","ziyaret","gezi"]

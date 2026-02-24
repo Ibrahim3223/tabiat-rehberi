@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih araştırması"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Alraacık Tepesi","caption":"Alraacık Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/General_view_of_Fort_Hill_Farm%2C_view_looking_south-southeast._From_left_to_right%2C_buildings_visible_are_%28B%29_two-story_hall-and-parlor_house%3B_%28k%29_small_barn%3B_%28A%29_mansion%27_%28G%28_shed_HABS_VA%2C42-CLOV.V%2C2-1.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Alraacık Tepesi","caption":"Alraacık Tepesi","credit":"General view of Fort Hill Farm, view looking south-southeast. From left to right, buildings visible are (B) two-story hall-and-parlor house; (k) small barn; (A) mansion' (G( shed HABS VA,42-CLOV.V,2-1","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alraac%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535667","tip":"genel"}]
 description: "Hatay ilinde bulunan Alraacık Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. Tepenin eteklerinde çeşitli bitki türleri ve zengin fauna bulunur."
 keywords: ["Alraacık Tepesi","Hatay","Akdeniz Bölgesi","doğal güzellik","tepe","bitki türleri","fauna"]

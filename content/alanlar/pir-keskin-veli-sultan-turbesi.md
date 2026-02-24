@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Pir Keskin Veli Sultan Türbesi","caption":"Pir Keskin Veli Sultan Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg","alt":"Pir Keskin Veli Sultan Türbesi","caption":"Pir Keskin Veli Sultan Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 15","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pir%20Keskin%20Veli%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391687","tip":"genel"}]
 description: "Pendik'in tarihi ve doğal güzellikleri ile öne çıkan bir alanı keşfedin."
 keywords: ["Pir Keskin Veli Sultan Türbesi","Pendik","İstanbul","Marmara Bölgesi","tarih","doğa","gezi","türbe"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda güneşlenme","tarihi yapıları gezme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Yüzbaşi Agah Efendi Şehitliği","caption":"Yüzbaşi Agah Efendi Şehitliği","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/960px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg","alt":"Yüzbaşi Agah Efendi Şehitliği","caption":"Yüzbaşi Agah Efendi Şehitliği","credit":"Map of Greece, Archipelago and part of Anadoli; Louis Stanislas d'Arcy Delarochette 1791","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCzba%C5%9Fi%20Agah%20Efendi%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728255","tip":"genel"}]
 description: "Afyonkarahisar'da bulunan tarihi bir plaj"
 keywords: ["Afyonkarahisar","plaj","tarih","şehitlik","Ege Bölgesi"]

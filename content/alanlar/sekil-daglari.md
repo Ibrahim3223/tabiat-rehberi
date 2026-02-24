@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Sekil Dağları","caption":"Sekil Dağları","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salda_G%C3%B6l%C3%BC_09-1991.jpg/960px-Salda_G%C3%B6l%C3%BC_09-1991.jpg","alt":"Sekil Dağları","caption":"Sekil Dağları","credit":"Salda Gölü 09-1991","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sekil%20Da%C4%9Flar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31507108","tip":"genel"}]
 description: "Bitlis'in görkemli dağ silueti, Sekil Dağları 1200 hektarlık yeşil cenneti sunuyor"
 keywords: ["Sekil Dağları","Bitlis","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Doğal Güzellik"]

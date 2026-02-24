@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Crossing_the_horizon.jpg/960px-Crossing_the_horizon.jpg","alt":"Gremea Burnu","caption":"Gremea Burnu","credit":"Crossing the horizon","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eurasian_Collared-Dove_by_Tisha_Mukherjee_08.jpg/960px-Eurasian_Collared-Dove_by_Tisha_Mukherjee_08.jpg","alt":"Gremea Burnu","caption":"Gremea Burnu","credit":"Eurasian Collared-Dove by Tisha Mukherjee 08","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gremea%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34830646","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Gremea Burnu, çeşitli kuş türlerini barındırır ve doğal güzelliği ile dikkat çeker."
 keywords: ["Gremea Burnu","kuş cenneti","Türkiye","doğa","kuş türleri","turizm","gezi","yaban hayatı","korunan alanlar"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","deniz kıyısında dinlenme","tarihi yapı gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Burgaz Hamam Kilise Yapısı","caption":"Burgaz Hamam Kilise Yapısı","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gulf_of_Kastellorizon.jpg/960px-Gulf_of_Kastellorizon.jpg","alt":"Burgaz Hamam Kilise Yapısı","caption":"Burgaz Hamam Kilise Yapısı","credit":"Gulf of Kastellorizon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burgaz%20Hamam%20Kilise%20Yap%C4%B1s%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245875","tip":"genel"}]
 description: "Datça'da tarihi ve doğal güzelliklerin birleştiği Burgaz Hamam Kilise Yapısı, ziyaretçilerini bekliyor."
 keywords: ["Burgaz Hamam Kilise Yapısı","Datça","Muğla","Ege Bölgesi","tarihi yapı","kilise","hamam","plaj"]

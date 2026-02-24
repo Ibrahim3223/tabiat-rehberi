@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Yemiş Dağı","caption":"Yemiş Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg/960px-Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg","alt":"Yemiş Dağı","caption":"Yemiş Dağı","credit":"Tahtal Dağı 06 02 2013 Gipfel mit Bey Dağları","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yemi%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502528","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Yemiş Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alan, trekking ve kamp için ideal."
 keywords: ["Yemiş Dağı","Kahramanmaraş","Dağ","Trekking","Kamp","Doğa","Yeşil Alan","Turizm","Gezi"]

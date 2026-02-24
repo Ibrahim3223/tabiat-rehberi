@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî eserleri ziyaret","doğa yürüyüşü","fotografcılık","yerel yemekleri tatmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Manisa Saray Hamamı Kalıntısı (1)","caption":"Manisa Saray Hamamı Kalıntısı (1)","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg/960px-MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg.png","alt":"Manisa Saray Hamamı Kalıntısı (1)","caption":"Manisa Saray Hamamı Kalıntısı (1)","credit":"MapaTopográficoDeAsiaMenor-Caria","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manisa%20Saray%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1%20(1)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738744","tip":"genel"}]
 description: "Manisa'da tarihi bir eser: Saray Hamamı Kalıntısı"
 keywords: ["Manisa","Saray Hamamı","tarih","kalıntı","Ege Bölgesi","Şehzadeler","eser"]

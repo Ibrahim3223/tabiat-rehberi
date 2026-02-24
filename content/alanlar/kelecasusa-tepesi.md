@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Keleçasusa Tepesi","caption":"Keleçasusa Tepesi","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg/960px-Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg","alt":"Keleçasusa Tepesi","caption":"Keleçasusa Tepesi","credit":"Antitaurus 06 04 1988 Pozantı Dağı bei Niğde","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kele%C3%A7asusa%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041048","tip":"genel"}]
 description: "Batman'ın görkemli dağlarından biri olan Keleçasusa Tepesi, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Keleçasusa Tepesi","Batman","Dağ","Doğa","Tepeler","Turizm","Gezi","Doğa Yürüyüşü","Batman Turistik Yerler"]

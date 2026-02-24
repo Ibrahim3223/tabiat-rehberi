@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günün yarısı"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/View_to_chios_island_10_-_panoramio.jpg/960px-View_to_chios_island_10_-_panoramio.jpg","alt":"Hekim Adası","caption":"Hekim Adası","credit":"View to chios island 10 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/From_Rabbit_Island_-_panoramio.jpg/960px-From_Rabbit_Island_-_panoramio.jpg","alt":"Hekim Adası","caption":"Hekim Adası","credit":"From Rabbit Island - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hekim%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28222013","tip":"genel"}]
 description: "İzmir'de yer alan Hekim Adası, 1200 hektarlık yeşil cenneti ve tarihi yapılarıyla ziyaretçilerini bekliyor."
 keywords: ["Hekim Adası","İzmir Adaları","İzmir Turizm","Türkiye Adaları","Ege Denizi","İzmir Gezi","Ada Turu","Doğa Sporları","Tarihî Yerler"]

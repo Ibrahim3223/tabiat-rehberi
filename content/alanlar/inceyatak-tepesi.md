@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğrafçılık","manzara seyretme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"İnceyatak Tepesi","caption":"İnceyatak Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"İnceyatak Tepesi","caption":"İnceyatak Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0nceyatak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390026","tip":"genel"}]
 description: "Eskişehir'in doğal güzelliklerini keşfedin, İnceyatak Tepesi'ne çıkın ve şehrin muhteşem manzarasını seyredin."
 keywords: ["İnceyatak Tepesi","Eskişehir","doğa","tepe","manzara","gezi","turizm","İç Anadolu Bölgesi","coğrafya"]

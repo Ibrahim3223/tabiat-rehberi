@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin zirvesine tırmanmak","Çevreyi gezmek","Isparta şehir manzarasını izlemek","Tarihi eserleri ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Namazgâh Tepesi","caption":"Namazgâh Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Namazgâh Tepesi","caption":"Namazgâh Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Namazg%C3%A2h%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34884730","tip":"genel"}]
 description: "Isparta'nın gözde doğal güzelliği Namazgâh Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
 keywords: ["Namazgâh Tepesi","Isparta","Akdeniz Bölgesi","doğal güzellik","yeşil alan","gezilecek yerler"]

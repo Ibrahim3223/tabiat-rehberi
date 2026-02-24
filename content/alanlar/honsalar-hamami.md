@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Fotografcılık","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Honsalar Hamamı","caption":"Honsalar Hamamı","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg","alt":"Honsalar Hamamı","caption":"Honsalar Hamamı","credit":"Sunset at Aegean Sea, İzmir 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Honsalar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738818","tip":"genel"}]
 description: "Kastamonu'nun gizli cenneti, Karadeniz Bölgesi'nde yer alan Honsalar Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Kastamonu","Karadeniz Bölgesi","Honsalar Hamamı","plaj","yeşil alan","doğa","gezi"]

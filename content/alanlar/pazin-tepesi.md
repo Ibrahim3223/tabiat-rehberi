@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa keşfi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Pazın Tepesi","caption":"Pazın Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Pazın Tepesi","caption":"Pazın Tepesi","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Paz%C4%B1n%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538437","tip":"genel"}]
 description: "Hatay'da bulunan Pazın Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Pazın Tepesi","Hatay","Akdeniz Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

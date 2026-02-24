@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Mersin Bozyazi Toldag-Kızılçam","caption":"Mersin Bozyazi Toldag-Kızılçam","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"Mersin Bozyazi Toldag-Kızılçam","caption":"Mersin Bozyazi Toldag-Kızılçam","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin%20Bozyazi%20Toldag-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228058","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin. Bozyazi Toldag-Kızılçam milli parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Mersin","Bozyazi","Toldag-Kızılçam","milli park","doğa","yeşil alan","gezi","turizm"]

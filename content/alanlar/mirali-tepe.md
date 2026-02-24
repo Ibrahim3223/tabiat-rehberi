@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Flora ve fauna","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg","alt":"Miralı Tepe","caption":"Miralı Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Second_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-15.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Miralı Tepe","caption":"Miralı Tepe","credit":"Second floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-15","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Miral%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389498","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Miralı Tepe, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Miralı Tepe","Kahramanmaraş","Akdeniz Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

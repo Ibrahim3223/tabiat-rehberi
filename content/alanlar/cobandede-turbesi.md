@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","yürüyüş","fotoğraf çekimi","tarihi mekanları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_03.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_03.jpg","alt":"Çobandede Türbesi","caption":"Çobandede Türbesi","credit":"Harbiş Sahili, Karataş - Adana 03.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Çobandede Türbesi","caption":"Çobandede Türbesi","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87obandede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390504","tip":"genel"}]
 description: "Adana'nın gözde plajı, tarihi ve doğal güzellikleri"
 keywords: ["Çobandede Türbesi","Adana","plaj","tarihi mekan","doğa","gezi","tatil","Akdeniz Bölgesi","Çukurova"]

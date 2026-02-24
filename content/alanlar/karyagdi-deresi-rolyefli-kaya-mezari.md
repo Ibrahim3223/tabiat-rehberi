@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarihi geçmişi hakkında bilgi edinme","doğal güzellikleri keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Karyağdı Deresi Rölyefli Kaya Mezarı","caption":"Karyağdı Deresi Rölyefli Kaya Mezarı","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Latrans-Turkey_location_Aegean_Region.svg/960px-Latrans-Turkey_location_Aegean_Region.svg.png","alt":"Karyağdı Deresi Rölyefli Kaya Mezarı","caption":"Karyağdı Deresi Rölyefli Kaya Mezarı","credit":"Latrans-Turkey location Aegean Region","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karya%C4%9Fd%C4%B1%20Deresi%20R%C3%B6lyefli%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728183","tip":"genel"}]
 description: "Mersin'in Silifke ilçesinde bulunan Karyağdı Deresi Rölyefli Kaya Mezarı, tarihi geçmişi ile dikkat çekiyor."
 keywords: ["Karyağdı Deresi Rölyefli Kaya Mezarı","Silifke","Mersin","Akdeniz Bölgesi","tarihi geçmişi","kaya mezarı","rölyefli","doğa","tarih"]

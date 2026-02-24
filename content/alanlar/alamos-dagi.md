@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Alamos Dağı","caption":"Alamos Dağı","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"Alamos Dağı","caption":"Alamos Dağı","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alamos%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31532391","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin. Alamos Dağı, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Alamos Dağı","Mersin","Dağ","Doğa","Yeşil Alan","Mersin Turizm","Dağ Turizmi","Mersin Gezi","Doğa Sporları"]

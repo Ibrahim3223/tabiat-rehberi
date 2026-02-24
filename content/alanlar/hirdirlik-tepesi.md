@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih turu","manzara seyretme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Hırdırlık Tepesi","caption":"Hırdırlık Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Hırdırlık Tepesi","caption":"Hırdırlık Tepesi","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1rd%C4%B1rl%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390664","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzelliklerini bir araya getiren Hırdırlık Tepesi, ziyaretçiler için unutulmaz bir deneyim sunuyor."
 keywords: ["Amasya","Hırdırlık Tepesi","Karadeniz Bölgesi","doğa","tarih","gezi","tepe"]

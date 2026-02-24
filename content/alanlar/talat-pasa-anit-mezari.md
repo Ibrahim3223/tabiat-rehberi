@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Talat Paşa'nın hayatını öğrenmek","Mezarlık gezisi","Doğayı keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Talat Paşa Anıt Mezarı","caption":"Talat Paşa Anıt Mezarı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg/960px-35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg","alt":"Talat Paşa Anıt Mezarı","caption":"Talat Paşa Anıt Mezarı","credit":"35960 Hasseki-Karaburun-İzmir, Turkey - panoramio (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Talat%20Pa%C5%9Fa%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728158","tip":"genel"}]
 description: "Talat Paşa Anıt Mezarı, Şişli'de bulunan tarihi bir mezarlık"
 keywords: ["Talat Paşa","Anıt Mezarı","Şişli","İstanbul","Marmara Bölgesi","tarih","mezarlık","anıt"]

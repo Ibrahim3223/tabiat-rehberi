@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültür turu","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Sururi Mehmet Efendi Türbesi","caption":"Sururi Mehmet Efendi Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Adatepe_manzara.JPG/960px-Adatepe_manzara.JPG","alt":"Sururi Mehmet Efendi Türbesi","caption":"Sururi Mehmet Efendi Türbesi","credit":"Adatepe manzara","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sururi%20Mehmet%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135430359","tip":"genel"}]
 description: "Beyoğlu'nda tarihi bir mekan olan Sururi Mehmet Efendi Türbesi, ziyaretçilerini Marmara Bölgesi'nin kalbinde bekliyor."
 keywords: ["Sururi Mehmet Efendi Türbesi","Beyoğlu","İstanbul","Marmara Bölgesi","tarih","kültür","gezi"]

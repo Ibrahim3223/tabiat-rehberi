@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Gökca Tepesi","caption":"Gökca Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Gökca Tepesi","caption":"Gökca Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872059","tip":"genel"}]
 description: "Kilis'in doğal güzelliklerinden biri olan Gökca Tepesi, ziyaretçilerini  ve doğa ile baş başa bırakıyor."
 keywords: ["Gökca Tepesi","Kilis","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","tepe","manzara","coğrafya"]

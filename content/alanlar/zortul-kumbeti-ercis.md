@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_19.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_19.jpg","alt":"Zortul Kümbeti, Erciş","caption":"Zortul Kümbeti, Erciş","credit":"استانبول ترکیه - ساحل دریای مرمره در شهر استانبول 19","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dalyanbal%C4%B1ktuzak.jpg/960px-Dalyanbal%C4%B1ktuzak.jpg","alt":"Zortul Kümbeti, Erciş","caption":"Zortul Kümbeti, Erciş","credit":"Dalyanbalıktuzak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zortul%20K%C3%BCmbeti%2C%20Erci%C5%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582830","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide illerinden Van'ın Erciş ilçesinde bulunan Zortul Kümbeti, tarihi ve doğal güzellikleri bir arada sunan özel bir destinasyon."
 keywords: ["Zortul Kümbeti","Erciş","Van","Doğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","mimari"]

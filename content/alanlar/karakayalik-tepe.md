@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","manzara seyri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karakayalık Tepe","caption":"Karakayalık Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg/960px-Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg","alt":"Karakayalık Tepe","caption":"Karakayalık Tepe","credit":"Circle of Giorgione - Infant Paris Abandoned on Mount Ida, ca. 1510","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakayal%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388876","tip":"genel"}]
 description: "Kırklareli'nin doğal güzelliklerinden biri olan Karakayalık Tepe, ziyaretçilerini bekliyor."
 keywords: ["Karakayalık Tepe","Kırklareli","Marmara Bölgesi","doğa","gezi","tepe","manzara"]

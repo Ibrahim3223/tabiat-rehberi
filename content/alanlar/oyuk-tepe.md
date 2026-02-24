@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Oyuk Tepe","caption":"Oyuk Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Oyuk Tepe","caption":"Oyuk Tepe","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Oyuk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388426","tip":"genel"}]
 description: "Muğla'da yer alan Oyuk Tepe, Ege Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Oyuk Tepe","Muğla","Ege Bölgesi","doğal alan","tepe","coğrafya","flora","fauna"]

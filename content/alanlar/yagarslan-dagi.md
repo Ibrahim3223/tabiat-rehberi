@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam bir gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Yağarslan Dağı","caption":"Yağarslan Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Yağarslan Dağı","caption":"Yağarslan Dağı","credit":"Vihorlat (v zime) 046","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ya%C4%9Farslan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31503400","tip":"genel"}]
 description: "Eskişehir'in görkemli dağlarından biri olan Yağarslan Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Yağarslan Dağı","Eskişehir","Dağ","Doğa","Turizm","Gezi","Trekking","Kamp","Eskişehir Turistik Yerler"]

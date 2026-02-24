@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Yakındaki tarihi mekanları ziyaret etmek","Doğa yürüyüşü yapmak","Bölgede bulunan bitkiler ve hayvanlar hakkında bilgi sahibi olmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Baltasıgedik Mahmut Dede Türbesi","caption":"Baltasıgedik Mahmut Dede Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg/960px-Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg","alt":"Baltasıgedik Mahmut Dede Türbesi","caption":"Baltasıgedik Mahmut Dede Türbesi","credit":"Bodrum, Turkey (Unsplash savOaIMns3Y)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Baltas%C4%B1gedik%20Mahmut%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390684","tip":"genel"}]
 description: "Elmalı, Antalya'da bulunan Baltasıgedik Mahmut Dede Türbesi, Akdeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri"
 keywords: ["Baltasıgedik Mahmut Dede Türbesi","Elmalı","Antalya","Akdeniz Bölgesi","tarihi mekan","doğa","gezi","tarihçe"]

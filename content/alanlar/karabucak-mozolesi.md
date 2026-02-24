@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","fotoğraf çekimi","doğa yürüyüşü","tarihî eserleri ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Karabucak Mozolesi","caption":"Karabucak Mozolesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beach_Antakya_Turkey_-_panoramio.jpg/960px-Beach_Antakya_Turkey_-_panoramio.jpg","alt":"Karabucak Mozolesi","caption":"Karabucak Mozolesi","credit":"Beach Antakya Turkey - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karabucak%20Mozolesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728103","tip":"genel"}]
 description: "Demre/Antalya'da bulunan Karabucak Mozolesi, tarihi ve doğal güzellikleri bir arada sunan özel bir alan."
 keywords: ["Karabucak Mozolesi","Demre","Antalya","tarihi alan","doğal güzellik","Akdeniz Bölgesi","turistik yer","gezi noktaları","kültür mirası"]

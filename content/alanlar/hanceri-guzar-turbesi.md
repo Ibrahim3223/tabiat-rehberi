@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyareti","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Hançeri Güzar Türbesi","caption":"Hançeri Güzar Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Hançeri Güzar Türbesi","caption":"Hançeri Güzar Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Han%C3%A7eri%20G%C3%BCzar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391731","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerini keşfedin. Güneydoğu Anadolu Bölgesi'nin önemli mekanlarından biri olan Hançeri Güzar Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Hançeri Güzar Türbesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","Türbe","Tarih","Doğa","Kültür"]

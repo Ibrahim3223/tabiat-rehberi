@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çaltarla Tepesi","caption":"Çaltarla Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Çaltarla Tepesi","caption":"Çaltarla Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87altarla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823706","tip":"genel"}]
 description: "Ankara'nın güzide noktalarından biri olan Çaltarla Tepesi, şehrin kalabalığından kaçış için ideal bir destinasyon."
 keywords: ["Çaltarla Tepesi","Ankara","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara"]

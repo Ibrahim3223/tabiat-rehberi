@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Burunsuz Tepesi","caption":"Burunsuz Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Burunsuz Tepesi","caption":"Burunsuz Tepesi","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burunsuz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31529056","tip":"genel"}]
 description: "Ankara'nın görkemli tepelerinden biri, Burunsuz Tepesi"
 keywords: ["Ankara","İç Anadolu Bölgesi","Burunsuz Tepesi","tepe","doğa","gezi","turizm"]

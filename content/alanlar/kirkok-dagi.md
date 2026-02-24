@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kırkok Dağı","caption":"Kırkok Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Kırkok Dağı","caption":"Kırkok Dağı","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rkok%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514766","tip":"genel"}]
 description: "Burdur'un en önemli doğal güzelliklerinden biri olan Kırkok Dağı, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Kırkok Dağı","Burdur","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Burdur Gezilecek Yerler"]

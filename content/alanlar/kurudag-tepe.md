@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Kurudağ Tepe","caption":"Kurudağ Tepe","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Kurudağ Tepe","caption":"Kurudağ Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuruda%C4%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386276","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin, Kurudağ Tepe'de doğa ile baş başa kalın."
 keywords: ["Kurudağ Tepe","Gaziantep","Dağ","Doğa","Turizm","Gezi","Seyahat","Gaziantep Turistik Yerler","Kurudağ Tepe Manzarası"]

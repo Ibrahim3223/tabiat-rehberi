@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografcılık","deniz aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Antalya-Kas-Lengume Sedir","caption":"Antalya-Kas-Lengume Sedir","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg","alt":"Antalya-Kas-Lengume Sedir","caption":"Antalya-Kas-Lengume Sedir","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Kas-Lengume%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227599","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin en güzel milli parklarından biri olan Antalya-Kas-Lengume Sedir, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Antalya","Kas","Lengume Sedir","milli park","Akdeniz Bölgesi","doğa","gezi","turizm"]

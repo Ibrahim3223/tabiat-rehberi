@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["şelaleyi gezmek","ormanlık alanda yürüyüş yapmak","yaban hayvanlarını izlemek","yerel lezzetleri tatmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_Bal%C4%B1klar.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_Bal%C4%B1klar.jpg","alt":"Suatan Şelalesi","caption":"Suatan Şelalesi","credit":"Kurşunlu Şelalesi - Şelalesi Bölgesi - Manzara Fotoğrafı - Balıklar.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Seven_Watermills_Nature_Park%2C_Giresun_06.jpg/960px-Seven_Watermills_Nature_Park%2C_Giresun_06.jpg","alt":"Suatan Şelalesi","caption":"Suatan Şelalesi","credit":"Seven Watermills Nature Park, Giresun 06","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Suatan%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123562407","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Artvin'de bulunan Suatan Şelalesi"
 keywords: ["Suatan Şelalesi","Artvin","Karadeniz Bölgesi","şelale","doğa","gezi","turizm","çevre","ekosistem"]

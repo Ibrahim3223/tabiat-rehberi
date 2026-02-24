@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["tarihçi olmak","doğa yürüyüşü","fotografcılık","mimari incelemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Aslahaddin Türbesi","caption":"Aslahaddin Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mediterranean_-_panoramio_%283%29.jpg/960px-Mediterranean_-_panoramio_%283%29.jpg","alt":"Aslahaddin Türbesi","caption":"Aslahaddin Türbesi","credit":"Mediterranean - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aslahaddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390712","tip":"genel"}]
 description: "Bolu ilinin merkezinde bulunan tarihi bir mekan"
 keywords: ["Bolu","tarih","türbe","Aslahaddin","Karadeniz Bölgesi","Bolu il merkezi","tarihi mekanlar","gezi noktaları","kültür varlıkları"]

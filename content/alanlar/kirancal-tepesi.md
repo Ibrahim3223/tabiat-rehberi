@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","köy gezisi","nehir gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kırançal Tepesi","caption":"Kırançal Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Kırançal Tepesi","caption":"Kırançal Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1ran%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211185","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Karabük şehrinde yer alan Kırançal Tepesi, 140 hektarlık bir yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kırançal Tepesi","Karabük","Karadeniz Bölgesi","yeşil alan","tepe","doğa","gezi"]

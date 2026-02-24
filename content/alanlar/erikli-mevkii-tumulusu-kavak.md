@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Erikli Mevkıı Tümülüsü Kavak","caption":"Erikli Mevkıı Tümülüsü Kavak","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Istanbul_beaches-_Sea_of_Marmara_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_10.jpg","alt":"Erikli Mevkıı Tümülüsü Kavak","caption":"Erikli Mevkıı Tümülüsü Kavak","credit":"Istanbul beaches- Sea of Marmara 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erikli%20Mevk%C4%B1%C4%B1%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%20Kavak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728400","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun ilinde bulunan Erikli Mevkıı Tümülüsü Kavak, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta."
 keywords: ["Erikli Mevkıı","Tümülüsü Kavak","Samsun","Karadeniz Bölgesi","tarih","doğa","gezi","turizm"]

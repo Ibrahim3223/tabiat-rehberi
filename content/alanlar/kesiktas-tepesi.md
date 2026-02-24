@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%B6bekli_Tepe_-_landscape.jpg/960px-G%C3%B6bekli_Tepe_-_landscape.jpg","alt":"Kesiktaş Tepesi","caption":"Kesiktaş Tepesi","credit":"Göbekli Tepe - landscape.jpg","license":"CC BY 3.0 pl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/First_floor_hall._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-10.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kesiktaş Tepesi","caption":"Kesiktaş Tepesi","credit":"First floor hall. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-10","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kesikta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385647","tip":"genel"}]
 description: "Şanlıurfa'nın doğal güzelliklerini keşfedin, Kesiktaş Tepesi'ni ziyaret edin."
 keywords: ["Kesiktaş Tepesi","Şanlıurfa","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

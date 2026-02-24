@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotografçılık","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Eskigediz Gazanfer Ağa Hamamı","caption":"Eskigediz Gazanfer Ağa Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg","alt":"Eskigediz Gazanfer Ağa Hamamı","caption":"Eskigediz Gazanfer Ağa Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 18","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskigediz%20Gazanfer%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738436","tip":"genel"}]
 description: "Kütahya'nın tarihi ve doğal güzelliklerini bir araya getiren Eskigediz Gazanfer Ağa Hamamı, 1400'lerin başlarında inşa edilmiş tarihi bir hamam."
 keywords: ["Eskigediz","Gazanfer Ağa Hamamı","Kütahya","tarihi hamam","doğal güzellik","Ege Bölgesi","Gediz","hamam"]

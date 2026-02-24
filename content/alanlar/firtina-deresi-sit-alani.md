@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Photography","Picnic","Bisiklet turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Fırtına Deresi Sit Alanı","caption":"Fırtına Deresi Sit Alanı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Fırtına Deresi Sit Alanı","caption":"Fırtına Deresi Sit Alanı","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/F%C4%B1rt%C4%B1na%20Deresi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226711","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Fırtına Deresi Sit Alanı"
 keywords: ["Fırtına Deresi","Sit Alanı","İç Anadolu Bölgesi","doğa","turizm","gezi","yerel","kültür"]

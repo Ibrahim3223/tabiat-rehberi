@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","bitki ve hayvan gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karabel Tepesi","caption":"Karabel Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Karabel Tepesi","caption":"Karabel Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karabel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581462","tip":"genel"}]
 description: "Çorum'un Karadeniz Bölgesi'nde yer alan Karabel Tepesi, doğa severlerin ziyaret ettiği bir nokta"
 keywords: ["Karabel Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","çevre","iklim","flora","fauna"]

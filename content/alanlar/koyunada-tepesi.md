@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","manzara izleme","tarihî kalıntıları keşfetme","çevre düzenlemeleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Koyunada Tepesi","caption":"Koyunada Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Koyunada Tepesi","caption":"Koyunada Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koyunada%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390100","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde bulunan Koyunada Tepesi, zengin tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Koyunada Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tarih","gezi","tepe","manzara","ekoloji","çevre"]

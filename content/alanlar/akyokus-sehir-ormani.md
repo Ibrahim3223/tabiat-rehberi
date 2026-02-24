@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"AKYOKUŞ ŞEHİR ORMANI","caption":"AKYOKUŞ ŞEHİR ORMANI","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg","alt":"AKYOKUŞ ŞEHİR ORMANI","caption":"AKYOKUŞ ŞEHİR ORMANI","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843221)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/AKYOKU%C5%9E%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228699","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Akyokuş Şehir Ormanı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor. Doğal güzelliği ve zengin flora ile dikkat çekiyor."
 keywords: ["Akyokuş Şehir Ormanı","İç Anadolu Bölgesi","doğal alan","flora","fauna","şehir ormanı","yeşil alan","gezi","turizm"]

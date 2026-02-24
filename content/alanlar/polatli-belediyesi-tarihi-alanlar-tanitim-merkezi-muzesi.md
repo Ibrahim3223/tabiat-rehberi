@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Sergi gezisi","Tarihi eserleri incelemek","Müze etrafındaki restoranları keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi","caption":"Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi","credit":"A Geological Wonder in Nallıhan","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mystic_mountain.jpg/960px-Mystic_mountain.jpg","alt":"Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi","caption":"Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi","credit":"Mystic mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Polatl%C4%B1%20Belediyesi%20Tarihi%20Alanlar%20Tan%C4%B1t%C4%B1m%20Merkezi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950113","tip":"genel"}]
 description: "Ankara'nın tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Polatlı Belediyesi","Tarihi Alanlar","Tanıtım Merkezi","Müze","Ankara","İç Anadolu Bölgesi","Tarih","Kültür","Sanat"]

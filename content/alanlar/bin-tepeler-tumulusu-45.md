@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","arkeolojik kazı","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Bin Tepeler Tümülüsü 45","caption":"Bin Tepeler Tümülüsü 45","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 45","caption":"Bin Tepeler Tümülüsü 45","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2045","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728333","tip":"genel"}]
 description: "Salihli'nin tarihi ve doğal güzelliklerini keşfedin. Ege Bölgesi'nin en önemli arkeolojik sitelerinden biri olan Bin Tepeler Tümülüsü 45, ziyaretçilerini bekliyor."
 keywords: ["Bin Tepeler Tümülüsü 45","Salihli","Manisa","Ege Bölgesi","tarih","doğa","arkeoloji","tümülüs","gezi"]

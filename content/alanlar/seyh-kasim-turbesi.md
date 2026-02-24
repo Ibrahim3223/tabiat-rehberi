@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Dini ziyaret","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/ZEYN%C4%B0LER_KABR%C4%B0STANI_BURSA_-_panoramio_%281%29.jpg","alt":"Şeyh Kasım Türbesi manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Istanbul_beaches-_Sea_of_Marmara_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_12.jpg","alt":"Şeyh Kasım Türbesi","caption":"Şeyh Kasım Türbesi","credit":"Istanbul beaches- Sea of Marmara 12","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Kas%C4%B1m%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391229","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide mekanlarından biri olan Şeyh Kasım Türbesi, Diyarbakır'ın Çınar ilçesinde bulunmaktadır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."

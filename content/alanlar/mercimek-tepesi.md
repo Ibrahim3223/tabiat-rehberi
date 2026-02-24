@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Trekking","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Mercimek Tepesi","caption":"Mercimek Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Mercimek Tepesi","caption":"Mercimek Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mercimek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386586","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Şırnak ilinde bulunan Mercimek Tepesi, çevresi ile birlikte yaklaşık 140 hektarlık bir alanı kaplar."
 keywords: ["Mercimek Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","tepe","doğa","coğrafya"]

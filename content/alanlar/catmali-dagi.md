@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Çatmalı Dağı","caption":"Çatmalı Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Çatmalı Dağı","caption":"Çatmalı Dağı","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atmal%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824370","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Çatmalı Dağı, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Çatmalı Dağı","Türkiye dağları","doğa yürüyüşü","dağcılık","Türkiye coğrafyası","gezi rehberi","turizm","çevre","doğal güzellikler"]

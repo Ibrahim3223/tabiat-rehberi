@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["gezi","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Berberkaya Anıt Mezarı","caption":"Berberkaya Anıt Mezarı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Istanbul_beaches-_Sea_of_Marmara_11.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_11.jpg","alt":"Berberkaya Anıt Mezarı","caption":"Berberkaya Anıt Mezarı","credit":"Istanbul beaches- Sea of Marmara 11","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Berberkaya%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728105","tip":"genel"}]
 description: "İznik'in tarih kokan streetsinde gizlenen bir hazine"
 keywords: ["İznik","Bursa","Marmara Bölgesi","tarih","anıt mezar","gezi","turizm","kültür","doğa"]

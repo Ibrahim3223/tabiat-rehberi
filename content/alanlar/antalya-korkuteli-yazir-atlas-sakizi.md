@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Antalya-Korkuteli-Yazir-Atlas Sakizi","caption":"Antalya-Korkuteli-Yazir-Atlas Sakizi","credit":"Turkish nature reserve.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"Antalya-Korkuteli-Yazir-Atlas Sakizi","caption":"Antalya-Korkuteli-Yazir-Atlas Sakizi","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Korkuteli-Yazir-Atlas%20Sakizi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228580","tip":"genel"}]
 description: "Akdeniz Bölgesi'nde yer alan Atlas Sakızı Milli Parkı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Antalya","Korkuteli","Yazır","Atlas Sakızı","Milli Park","Akdeniz Bölgesi","doğa","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Koyunaçılı Tepesi","caption":"Koyunaçılı Tepesi","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg/960px-%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Koyunaçılı Tepesi","caption":"Koyunaçılı Tepesi","credit":"\"yazı\"dan koçaş bağları ve hacıbaba dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koyuna%C3%A7%C4%B1l%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042389","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin, Koyunaçılı Tepesi'ne çıkın ve şehrin panoramik manzarasını izleyin."
 keywords: ["Koyunaçılı Tepesi","Gaziantep","Dağ","Doğa","Turizm","Gezi","Manzara","Panorama","Tepeler"]

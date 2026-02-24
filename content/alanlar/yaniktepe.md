@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Yanıktepe","caption":"Yanıktepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Yanıktepe","caption":"Yanıktepe","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yan%C4%B1ktepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388860","tip":"genel"}]
 description: "Kırklareli'nin doğal güzelliklerinden biri olan Yanıktepe hakkında bilgiler"
 keywords: ["Yanıktepe","Kırklareli","Marmara Bölgesi","doğal alan","tepe","coğrafya","flora","fauna","ziyaret","gezi"]

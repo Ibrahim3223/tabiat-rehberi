@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","kampçılık","doğa yürüyüşleri","çiçek izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_photos_of_Akda%C4%9F_2.jpg/960px-The_photos_of_Akda%C4%9F_2.jpg","alt":"Denizli-Eskere-Cicekli-Karacam","caption":"Denizli-Eskere-Cicekli-Karacam","credit":"The photos of Akdağ 2","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Denizli-Eskere-Cicekli-Karacam","caption":"Denizli-Eskere-Cicekli-Karacam","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Eskere-Cicekli-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228272","tip":"genel"}]
 description: "Denizli'nin eşsiz doğal güzellikleri arasında yer alan milli park, ziyaretçilerini büyülüyor."
 keywords: ["Denizli","Eskere","Cicekli","Karacam","milli park","doğal güzellik","gezi","turizm","çevre"]

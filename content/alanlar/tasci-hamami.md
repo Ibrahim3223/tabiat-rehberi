@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi hamam gezisi","doğa yürüyüşü","kuş gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Taşçı Hamamı","caption":"Taşçı Hamamı","credit":"Erzincan Refahiye.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Espiye%2C_Giresun_07.JPG/960px-Espiye%2C_Giresun_07.JPG","alt":"Taşçı Hamamı","caption":"Taşçı Hamamı","credit":"Espiye, Giresun 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9F%C3%A7%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739004","tip":"genel"}]
 description: "Erzincan merkezinde yer alan Taşçı Hamamı, tarihi ve doğal güzellikleri bir arada sunan bir destinasyon."
 keywords: ["Taşçı Hamamı","Erzincan","Doğu Anadolu Bölgesi","tarihi hamam","doğal güzellik","gezi noktaları","kültür","tarihçe","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","deniz kenarında dinlenmek","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Çifte Hamam, Uzunköprü","caption":"Çifte Hamam, Uzunköprü","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg","alt":"Çifte Hamam, Uzunköprü","caption":"Çifte Hamam, Uzunköprü","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ifte%20Hamam%2C%20Uzunk%C3%B6pr%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739036","tip":"genel"}]
 description: "Uzunköprü'de yer alan doğal bir plaj olan Çifte Hamam, Marmara Bölgesi'nin güzide noktalarından biridir."
 keywords: ["Uzunköprü","Marmara Bölgesi","doğal plaj","Çifte Hamam","turizm","gezi","edinirne"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Emeji Dağı","caption":"Emeji Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"Emeji Dağı","caption":"Emeji Dağı","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emeji%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31524439","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Emeji Dağı, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Emeji Dağı","Türkiye dağları","doğa yürüyüşü","dağcılık","turizm","gezi rehberi","coğrafya","Türkiye coğrafyası","dağ rotaları"]

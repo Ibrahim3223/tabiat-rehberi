@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Zeynedek Tepe","caption":"Zeynedek Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Zeynedek Tepe","caption":"Zeynedek Tepe","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeynedek%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31542199","tip":"genel"}]
 description: "Diyarbakır'da bulunan Zeynedek Tepe, 1200 metre yüksekliğiyle bölgenin önemli doğal oluşumlarından biri"
 keywords: ["Zeynedek Tepe","Diyarbakır","Dağ","Doğa","Turizm","Gezi","Türkiye","Coğrafya","Seyahat"]

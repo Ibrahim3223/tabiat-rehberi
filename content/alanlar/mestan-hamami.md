@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yüzme","Su sporları","Güneşlenme","Piknik","Deniz yaşamını gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_03.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_03.jpg","alt":"Mestan Hamamı","caption":"Mestan Hamamı","credit":"Harbiş Sahili, Karataş - Adana 03","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_12.jpg","alt":"Mestan Hamamı","caption":"Mestan Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mestan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738475","tip":"genel"}]
 description: "Seyhan/Adana'da yer alan Mestan Hamamı, Akdeniz Bölgesi'nin en güzel plajlarından biri. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Mestan Hamamı","Seyhan","Adana","Akdeniz Bölgesi","Plaj","Deniz","Kumsal","Turizm","Seyahat"]

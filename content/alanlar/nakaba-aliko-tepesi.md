@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Nakaba Aliko Tepesi","caption":"Nakaba Aliko Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Nakaba Aliko Tepesi","caption":"Nakaba Aliko Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nakaba%20Aliko%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548581","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli hazinesi, Siirt'te bulunan Nakaba Aliko Tepesi"
 keywords: ["Nakaba Aliko Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

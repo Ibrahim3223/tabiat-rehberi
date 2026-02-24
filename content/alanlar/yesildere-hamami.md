@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekme"," Piknik","Tarihî yapıları gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Yeşildere Hamamı","caption":"Yeşildere Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Yeşildere Hamamı","caption":"Yeşildere Hamamı","credit":"Mediterranean ^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ye%C5%9Fildere%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245706","tip":"genel"}]
 description: "Karaman'ın doğal güzelliklerinden biri olan Yeşildere Hamamı, 140 hektarlık geniş alanıyla ziyaretçilerini bekliyor."
 keywords: ["Yeşildere Hamamı","Karaman","doğal güzellik","gezi","turizm","plaj","İç Anadolu Bölgesi"]

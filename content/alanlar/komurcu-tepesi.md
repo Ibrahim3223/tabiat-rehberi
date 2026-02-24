@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Kömürcü Tepesi","caption":"Kömürcü Tepesi","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Kömürcü Tepesi","caption":"Kömürcü Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6m%C3%BCrc%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042758","tip":"genel"}]
 description: "Isparta'da bulunan Kömürcü Tepesi, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri. Doğal güzelliği ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Kömürcü Tepesi","Isparta","Dağ","Trekking","Doğa","Gezi","Turizm","Isparta Turistik Yerler","Kömürcü Tepesi Manzarası"]

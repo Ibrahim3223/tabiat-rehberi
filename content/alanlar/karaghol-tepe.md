@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye tırmanmak","doğa yürüyüşü","flora ve fauna"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Karaghol Tepe","caption":"Karaghol Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Karaghol Tepe","caption":"Karaghol Tepe","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaghol%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391279","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli bir hazine olan Karaghol Tepe, tarihi ve doğal güzelliklerinin birleştiği bir noktadır."
 keywords: ["Karaghol Tepe","İç Anadolu Bölgesi","tarih","doğa","gezi","tepe","coğrafya","flora","fauna"]

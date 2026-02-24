@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografçılık","tarihî kalıntılar gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Çaylak Tepesi","caption":"Çaylak Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Çaylak Tepesi","caption":"Çaylak Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aylak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828827","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin görkemli doğası içinde yer alan Çaylak Tepesi, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Doğu Anadolu Bölgesi","Erzurum","Çaylak Tepesi","doğa","tepe","gezi","tarihçe","coğrafya","flora","fauna"]

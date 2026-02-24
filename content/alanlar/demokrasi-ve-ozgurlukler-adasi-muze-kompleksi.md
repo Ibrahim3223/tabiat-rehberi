@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Müze ziyaretleri","Doğa yürüyüşleri","Piknik","Eğlence etkinlikleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Goztepe_Park_and_beats_flowers.jpg/960px-Goztepe_Park_and_beats_flowers.jpg","alt":"Demokrasi ve Özgürlükler Adası Müze Kompleksi","caption":"Demokrasi ve Özgürlükler Adası Müze Kompleksi","credit":"Goztepe Park and beats flowers","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cloud_shadows_at_the_mountain.jpg/960px-Cloud_shadows_at_the_mountain.jpg","alt":"Demokrasi ve Özgürlükler Adası Müze Kompleksi","caption":"Demokrasi ve Özgürlükler Adası Müze Kompleksi","credit":"Cloud shadows at the mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demokrasi%20ve%20%C3%96zg%C3%BCrl%C3%BCkler%20Adas%C4%B1%20M%C3%BCze%20Kompleksi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949127","tip":"genel"}]
 description: "İstanbul'un kalbinde, Marmara Bölgesi'nde bulunan Demokrasi ve Özgürlükler Adası Müze Kompleksi"
 keywords: ["Demokrasi ve Özgürlükler Adası","Müze Kompleksi","İstanbul","Marmara Bölgesi","tarih","müze","doğa","gezi","eğlence"]

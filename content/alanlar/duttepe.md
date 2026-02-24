@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Duttepe","caption":"Duttepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg/960px-Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg","alt":"Duttepe","caption":"Duttepe","credit":"Mount Ararat and the Araratian plain (cropped)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Duttepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31524984","tip":"genel"}]
 description: "Bingöl'de yer alan Duttepe, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzelliği ve zengin florası ile ziyaretçilerini bekliyor."
 keywords: ["Duttepe","Bingöl","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Bingöl Turistik Yerler"]

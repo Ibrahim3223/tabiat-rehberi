@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","güneşlenme","deniz kıyısında yürüyüş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Perikle Heroonu","caption":"Perikle Heroonu","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Istanbul_beaches-_Sea_of_Marmara_13.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_13.jpg","alt":"Perikle Heroonu","caption":"Perikle Heroonu","credit":"Istanbul beaches- Sea of Marmara 13","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Perikle%20Heroonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728166","tip":"genel"}]
 description: "Finike'nin tarihi ve doğal güzelliklerinin birleştiği Perikle Heroonu, ziyaretçilerini bekliyor."
 keywords: ["Perikle Heroonu","Finike","Antalya","tarih","doğa","plaj"," Deniz","kültür"]

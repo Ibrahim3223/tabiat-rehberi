@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cloud_in_the_river.jpg/960px-Cloud_in_the_river.jpg","alt":"Boztepe Burnu","caption":"Boztepe Burnu","credit":"Cloud in the river","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eurasian_Collared-Dove.jpg/960px-Eurasian_Collared-Dove.jpg","alt":"Boztepe Burnu","caption":"Boztepe Burnu","credit":"Eurasian Collared-Dove","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boztepe%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6067558","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Boztepe Burnu, çeşitli kuş türlerini barındırır ve doğa severler için ideal bir destinasyon"
 keywords: ["Boztepe Burnu","kuş cenneti","Türkiye","doğa","kuş türleri","turizm","gezi","seyahat","çevre"]

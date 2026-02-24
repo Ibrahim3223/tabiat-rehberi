@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Gölde balık avı","Gölün etrafındaki manzaraları gözlemleme","Çeşitli bitki türlerini ve canlıları gözlemleme","Gölde birçok farklı su sporları","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"VAN BİTLİS BATMIŞ GÖLÜ","caption":"VAN BİTLİS BATMIŞ GÖLÜ","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg","alt":"VAN BİTLİS BATMIŞ GÖLÜ","caption":"VAN BİTLİS BATMIŞ GÖLÜ","credit":"Bolu Yedigöller tabiat parkı iskeleli göl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/VAN%20B%C4%B0TL%C4%B0S%20BATMI%C5%9E%20G%C3%96L%C3%9C","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228888","tip":"genel"}]
 description: "Doğal güzellikleriyle ön plana çıkan Van Bitlis Batmış Gölü, ziyaretçilerini büyülemektedir."
 keywords: ["Van Bitlis Batmış Gölü","Doğal Güzellikler","Milli Parklar","İç Anadolu Bölgesi","Göl","Turizm","Doğa","Gezi"]

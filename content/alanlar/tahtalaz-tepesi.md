@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Panoramik görüş","Tarih ve kültür turu","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Tahtalaz Tepesi","caption":"Tahtalaz Tepesi","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Tahtalaz Tepesi","caption":"Tahtalaz Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahtalaz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390937","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin. Tahtalaz Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Tahtalaz Tepesi","Kayseri","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

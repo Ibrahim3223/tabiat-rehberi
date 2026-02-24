@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Roma Hamamı'nı gezmek","Plajda deniz keyfi yapmak","Piknik yapmak","Çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Antandros Roma Hamamı","caption":"Antandros Roma Hamamı","credit":"Sunset in Erdek","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Antandros Roma Hamamı","caption":"Antandros Roma Hamamı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antandros%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738780","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, Edremit'in tarihi ve doğal güzelliği"
 keywords: ["Antandros Roma Hamamı","Edremit","Marmara Bölgesi","tarih","doğa","gezi","turizm","roma hamamı","plaj","deniz"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezme","doğal güzellikleri keşfetme","antik kentleri ziyaret etme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Patara Eksedralı Mezar","caption":"Patara Eksedralı Mezar","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beach_Karabashi_%28black_head%29_-_panoramio.jpg/960px-Beach_Karabashi_%28black_head%29_-_panoramio.jpg","alt":"Patara Eksedralı Mezar","caption":"Patara Eksedralı Mezar","credit":"Beach Karabashi (black head) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Patara%20Eksedral%C4%B1%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728232","tip":"genel"}]
 description: "Kaş/Antalya'da bulunan antik Patara kentinde yer alan tarihi mezar, turistik bir cazibe merkezi."
 keywords: ["Patara Eksedralı Mezar","Kaş","Antalya","tarihi mezar","turistik cazibe","antik kent","Patara","mezar","tarih"]

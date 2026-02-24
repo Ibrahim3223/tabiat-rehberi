@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültürel gezi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg/960px-Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg","alt":"Emir Sultan Zaviyesi Hamamı","caption":"Emir Sultan Zaviyesi Hamamı","credit":"Wind direction has changed, now wind is coming from the sea - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dalyanbal%C4%B1ktuzak.jpg/960px-Dalyanbal%C4%B1ktuzak.jpg","alt":"Emir Sultan Zaviyesi Hamamı","caption":"Emir Sultan Zaviyesi Hamamı","credit":"Dalyanbalıktuzak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20Sultan%20Zaviyesi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245780","tip":"genel"}]
 description: "İzmir'in Konak ilçesinde bulunan tarihi bir hamam"
 keywords: ["Emir Sultan Zaviyesi Hamamı","Konak","İzmir","tarih","hamam","gezi","turizm","Ege Bölgesi","kültür"]

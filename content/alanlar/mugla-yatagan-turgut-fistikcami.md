@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora gözlemi","fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Mugla-Yatagan-Turgut Fistikçami","caption":"Mugla-Yatagan-Turgut Fistikçami","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg","alt":"Mugla-Yatagan-Turgut Fistikçami","caption":"Mugla-Yatagan-Turgut Fistikçami","credit":"Gölcük Tabiat Parkı Piknik Alanı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Yatagan-Turgut%20Fistik%C3%A7ami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227735","tip":"genel"}]
 description: "Mugla-Yatagan-Turgut Fistikçami milli parkı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
 keywords: ["milli park","Mugla","Yatagan","Turgut","Fistikçami","doğa","flora","fauna","turizm","gezi"]

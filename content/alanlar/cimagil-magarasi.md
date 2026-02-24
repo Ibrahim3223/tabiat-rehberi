@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Çımağıl Mağarası","caption":"Çımağıl Mağarası","credit":"Aydıncık Cave.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mirror_Lake_inside_Gilindire_Cave.jpg/960px-Mirror_Lake_inside_Gilindire_Cave.jpg","alt":"Çımağıl Mağarası","caption":"Çımağıl Mağarası","credit":"Mirror Lake inside Gilindire Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1ma%C4%9F%C4%B1l%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319901","tip":"genel"}]
 description: "Bayburt ve Çorum'da bulunan Çımağıl Mağarası, Türkiye'nin en ilginç mağaralarından biri. Doğal güzelliği keşfedin!"
 keywords: ["Çımağıl Mağarası","Bayburt","Çorum","Mağara","Doğa","Türkiye","Gezi","Seyahat","Turizm"]

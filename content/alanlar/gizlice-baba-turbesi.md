@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Plaj aktivitelerı","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Gizlice Baba Türbesi","caption":"Gizlice Baba Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg","alt":"Gizlice Baba Türbesi","caption":"Gizlice Baba Türbesi","credit":"2023-11-04 Choban beach near Kaş 2","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gizlice%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390813","tip":"genel"}]
 description: "Eskişehir'in Seyitgazi ilçesinde bulunan tarihi türbe ve plaj alanı"
 keywords: ["Gizlice Baba Türbesi","Seyitgazi","Eskişehir","tarihi türbe","plaj","turizm","gezi","tarihçe"]

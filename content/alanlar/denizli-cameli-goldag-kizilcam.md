@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","vahşi yaşam gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snow_on_the_Lake_Abant.jpg/960px-Snow_on_the_Lake_Abant.jpg","alt":"Denizli-Cameli-Goldag Kızılçam","caption":"Denizli-Cameli-Goldag Kızılçam","credit":"Snow on the Lake Abant","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg","alt":"Denizli-Cameli-Goldag Kızılçam","caption":"Denizli-Cameli-Goldag Kızılçam","credit":"Bolu Yedigöller tabiat parkı iskeleli göl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cameli-Goldag%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227336","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Denizli","Cameli","Goldag Kızılçam","milli park","Ege Bölgesi","doğa","gezi","turizm"]

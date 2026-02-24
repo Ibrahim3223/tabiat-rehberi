@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Ohvam","caption":"Ohvam","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tahtal%C4%B1_Da%C4%9F%C4%B1_06_02_2013_Golf_von_Antalya_mit_westlichem_Mittel-Taurus.jpg/960px-Tahtal%C4%B1_Da%C4%9F%C4%B1_06_02_2013_Golf_von_Antalya_mit_westlichem_Mittel-Taurus.jpg","alt":"Ohvam","caption":"Ohvam","credit":"Tahtalı Dağı 06 02 2013 Golf von Antalya mit westlichem Mittel-Taurus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ohvam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21199094","tip":"genel"}]
 description: "Artvin'de bulunan Ohvam Dağı, 1200 hektarlık yeşil cenneti ve doğa güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Ohvam Dağı","Artvin","Doğa","Dağ","Yeşil Cennet","Turizm","Gezi","Doğa Sporları","Trekking"]

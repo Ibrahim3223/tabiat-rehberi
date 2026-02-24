@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Mengile Tepe","caption":"Mengile Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tahtal%C4%B1_Da%C4%9F%C4%B1_06_02_2013_Golf_von_Antalya_mit_westlichem_Mittel-Taurus.jpg/960px-Tahtal%C4%B1_Da%C4%9F%C4%B1_06_02_2013_Golf_von_Antalya_mit_westlichem_Mittel-Taurus.jpg","alt":"Mengile Tepe","caption":"Mengile Tepe","credit":"Tahtalı Dağı 06 02 2013 Golf von Antalya mit westlichem Mittel-Taurus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mengile%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550898","tip":"genel"}]
 description: "Mardin'de bulunan Mengile Tepe, doğa severlerin keşfetmeyi bekleyen bir dağ"
 keywords: ["Mengile Tepe","Mardin","Dağ","Doğa","Türkiye","Gezi","Seyahat","Mardin Gezilecek Yerler","Doğa Sporları"]

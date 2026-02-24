@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenme","doğal güzellikleri keşfetme","fotografi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Deruni Mehmet Efendi Türbesi","caption":"Deruni Mehmet Efendi Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_beach_near_Phaselis_2021-02-26-1.jpg/960px-A_beach_near_Phaselis_2021-02-26-1.jpg","alt":"Deruni Mehmet Efendi Türbesi","caption":"Deruni Mehmet Efendi Türbesi","credit":"A beach near Phaselis 2021-02-26-1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deruni%20Mehmet%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391646","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini barındıran Deruni Mehmet Efendi Türbesi, Marmara Bölgesi'nde bulunan önemli bir turizm merkezi."
 keywords: ["Deruni Mehmet Efendi Türbesi","İstanbul","Marmara Bölgesi","tarihi mekan","doğal güzellik","türbe","Fatih"]

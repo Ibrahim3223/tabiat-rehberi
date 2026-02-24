@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Alıçtaşı Tepe","caption":"Alıçtaşı Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Alıçtaşı Tepe","caption":"Alıçtaşı Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Al%C4%B1%C3%A7ta%C5%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35723970","tip":"genel"}]
 description: "Isparta'nın doğal güzelliklerini keşfedin. Alıçtaşı Tepe, 1200 hektarlık yeşil cennet"
 keywords: ["Alıçtaşı Tepe","Isparta","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Isparta Turistik Yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","trekking","kayak","snowboard"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Sofi Ahmet Türbesi","caption":"Sofi Ahmet Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Sofi Ahmet Türbesi","caption":"Sofi Ahmet Türbesi","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sofi%20Ahmet%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390806","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Narman'da bulunan Sofi Ahmet Türbesi, tarihi ve doğal güzelliklerinin birleştiği özel bir mekan."
 keywords: ["Sofi Ahmet Türbesi","Narman","Erzurum","Doğu Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","turbeler","gezi noktaları"]

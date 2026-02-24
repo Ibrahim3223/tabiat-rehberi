@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["antik kent gezi","tarih keşfi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg","alt":"Pergamon Küçük Gymnasium Hamamı","caption":"Pergamon Küçük Gymnasium Hamamı","credit":"Süzer Sun Dreams Beach 12 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Istanbul_beaches-_Sea_of_Marmara_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_09.jpg","alt":"Pergamon Küçük Gymnasium Hamamı","caption":"Pergamon Küçük Gymnasium Hamamı","credit":"Istanbul beaches- Sea of Marmara 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pergamon%20K%C3%BC%C3%A7%C3%BCk%20Gymnasium%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739093","tip":"genel"}]
 description: "Ege Bölgesi'nde tarihi ve doğal güzelliklerin birleştiği Pergamon Küçük Gymnasium Hamamı, Bergama'da bulunan önemli bir antik eser."
 keywords: ["Pergamon","Küçük Gymnasium Hamamı","Bergama","İzmir","Ege Bölgesi","antik eser","tarih","doğa"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yürüyüş","tırmanış","doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kocabayır Tepesi","caption":"Kocabayır Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Kocabayır Tepesi","caption":"Kocabayır Tepesi","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocabay%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388871","tip":"genel"}]
 description: "Kırklareli'nin doğal güzelliklerinden biri olan Kocabayır Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar."
 keywords: ["Kocabayır Tepesi","Kırklareli","Marmara Bölgesi","doğal güzellik","tepe","manzara","gezi","turizm","coğrafya"]

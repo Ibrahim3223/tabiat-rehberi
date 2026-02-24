@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kös Dağı","caption":"Kös Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Avc%C4%B1lar_05_04_1999_Erciyes_Da%C4%9F%C4%B1.jpg/960px-Avc%C4%B1lar_05_04_1999_Erciyes_Da%C4%9F%C4%B1.jpg","alt":"Kös Dağı","caption":"Kös Dağı","credit":"Avcılar 05 04 1999 Erciyes Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6s%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042778","tip":"genel"}]
 description: "Çorum'un önemli dağlarından biri olan Kös Dağı, 1200 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["Kös Dağı","Çorum","Dağ","Doğa","Yeşil Alan","Turizm","Çorum Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

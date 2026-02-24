@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","dini gezi","doğa gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg","alt":"Cabbar Dede Türbesi","caption":"Cabbar Dede Türbesi","credit":"Harbiş Sahili, Karataş - Adana 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Altincamp_20140729_Sunset.jpg/960px-Altincamp_20140729_Sunset.jpg","alt":"Cabbar Dede Türbesi","caption":"Cabbar Dede Türbesi","credit":"Altincamp 20140729 Sunset","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cabbar%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390503","tip":"genel"}]
 description: "Yüreğir, Adana'da bulunan Cabbar Dede Türbesi, Akdeniz Bölgesi'nin önemli dini ve tarihi noktalarından biridir."
 keywords: ["Cabbar Dede Türbesi","Yüreğir","Adana","Akdeniz Bölgesi","tarih","din","gezi","turizm"]

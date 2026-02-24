@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Hevrist Tepe","caption":"Hevrist Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg/960px-Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg","alt":"Hevrist Tepe","caption":"Hevrist Tepe","credit":"Kars Yaylası 06 1989 Dumanlı Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hevrist%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555123","tip":"genel"}]
 description: "Batman'ın görkemli dağlarından biri, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Hevrist Tepe","Batman","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Turizm"]

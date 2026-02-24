@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet turu","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Adapazari-Sogutlu Karacam","caption":"Adapazari-Sogutlu Karacam","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg","alt":"Adapazari-Sogutlu Karacam","caption":"Adapazari-Sogutlu Karacam","credit":"Karagöl Tabiat Parkı (İzmir)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Sogutlu%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227919","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Adapazari-Sogutlu Karacam","İç Anadolu Bölgesi","doğa","gezi","milli park"]

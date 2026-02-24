@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Dikkulak Dağı","caption":"Dikkulak Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/960px-Moraine_Lake_17092005.jpg","alt":"Dikkulak Dağı","caption":"Dikkulak Dağı","credit":"Moraine Lake 17092005","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikkulak%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31525748","tip":"genel"}]
 description: "Sivas'ta yer alan Dikkulak Dağı, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Dikkulak Dağı","Sivas","Dağ","Doğa","Yürüyüş Rotaları","Sivas Turizm","Dağcılık","Trekking","Sivas Gezi"]

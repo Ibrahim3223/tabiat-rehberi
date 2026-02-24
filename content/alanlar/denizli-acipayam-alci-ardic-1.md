@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki ve hayvan gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Denizli-Acipayam-Alci Ardic 1","caption":"Denizli-Acipayam-Alci Ardic 1","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Denizli-Acipayam-Alci Ardic 1","caption":"Denizli-Acipayam-Alci Ardic 1","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Acipayam-Alci%20Ardic%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227221","tip":"genel"}]
 description: "Denizli'de yer alan 140 hektarlık milli park, Ege Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Denizli","Acipayam","Alci Ardic","milli park","doğa","Ege Bölgesi"]

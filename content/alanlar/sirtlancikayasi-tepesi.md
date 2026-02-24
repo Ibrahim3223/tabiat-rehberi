@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sırtlançıkayası Tepesi","caption":"Sırtlançıkayası Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Sırtlançıkayası Tepesi","caption":"Sırtlançıkayası Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1rtlan%C3%A7%C4%B1kayas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34906234","tip":"genel"}]
 description: "Hatay'da, Akdeniz Bölgesi'nin güzide noktalarından biri olan Sırtlançıkayası Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar."
 keywords: ["Sırtlançıkayası Tepesi","Hatay","Akdeniz Bölgesi","doğal güzellik","tarihi mekan","tepe","gezi","yürüyüş"]

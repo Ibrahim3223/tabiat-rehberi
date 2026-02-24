@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kürbaşı Tepesi","caption":"Kürbaşı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg/960px-Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg","alt":"Kürbaşı Tepesi","caption":"Kürbaşı Tepesi","credit":"Ida Husted Harper photograph by Aime Dupont","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCrba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210806","tip":"genel"}]
 description: "Erzurum'un gizli cenneti, Kürbaşı Tepesi"
 keywords: ["Erzurum","Kürbaşı Tepesi","Doğu Anadolu Bölgesi","tepe","doğa","gezi"]

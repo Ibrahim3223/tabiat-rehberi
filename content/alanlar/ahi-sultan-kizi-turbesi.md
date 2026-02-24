@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezinti","doğa yürüyüşü","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Ahi Sultan Kızı Türbesi","caption":"Ahi Sultan Kızı Türbesi","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Maden_Koyu_Beach_2021-11-13-4.jpg/960px-Maden_Koyu_Beach_2021-11-13-4.jpg","alt":"Ahi Sultan Kızı Türbesi","caption":"Ahi Sultan Kızı Türbesi","credit":"Maden Koyu Beach 2021-11-13-4","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20Sultan%20K%C4%B1z%C4%B1%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390687","tip":"genel"}]
 description: "Antalya'nın Muratpaşa ilçesinde bulunan Ahi Sultan Kızı Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Ahi Sultan Kızı Türbesi","Muratpaşa","Antalya","tarih","doğa","gezi","türbe","Akdeniz Bölgesi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Denize girme","Güneşin tadını çıkarma","Tarihi yerleri ziyaret etme","Doğal güzellikleri keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Şeyh Bedreddin Türbesi, Şenköy","caption":"Şeyh Bedreddin Türbesi, Şenköy","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg/960px-Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg","alt":"Şeyh Bedreddin Türbesi, Şenköy","caption":"Şeyh Bedreddin Türbesi, Şenköy","credit":"Manzara Aralik 2009 (GÖKOVA) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Bedreddin%20T%C3%BCrbesi%2C%20%C5%9Eenk%C3%B6y","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735184","tip":"genel"}]
 description: "Ege Bölgesi'nin güzelliklerini keşfedin. Şeyh Bedreddin Türbesi ve Şenköy plajı, Muğla'nın Milas ilçesinde yer alır."
 keywords: ["Şeyh Bedreddin Türbesi","Şenköy plajı","Muğla","Milas","Ege Bölgesi","tarih","doğa","gezi","plaj","türbe"]

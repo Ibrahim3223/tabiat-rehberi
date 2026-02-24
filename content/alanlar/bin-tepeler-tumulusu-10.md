@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçi rehberli turlar","Doğa yürüyüşleri","Fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Bin Tepeler Tümülüsü 10","caption":"Bin Tepeler Tümülüsü 10","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg","alt":"Bin Tepeler Tümülüsü 10","caption":"Bin Tepeler Tümülüsü 10","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2010","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728367","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli k incisi, Salihli/Manisa'da yer alan Bin Tepeler Tümülüsü 10, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bin Tepeler","Tümülüs","Salihli","Manisa","Ege Bölgesi","yeşil alan","fiziksel veriler","tarihçe","coğrafya"]

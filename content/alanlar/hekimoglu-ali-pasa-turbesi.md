@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Yeşilliklerde yürüyüş","Kuş gözlemciliği","Tarihi ve kültürel zenginliklerin keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Hekimoğlu Ali Paşa Türbesi","caption":"Hekimoğlu Ali Paşa Türbesi","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Maden_Koyu_Beach_2021-11-13-4.jpg/960px-Maden_Koyu_Beach_2021-11-13-4.jpg","alt":"Hekimoğlu Ali Paşa Türbesi","caption":"Hekimoğlu Ali Paşa Türbesi","credit":"Maden Koyu Beach 2021-11-13-4","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hekimo%C4%9Flu%20Ali%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391071","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel zenginliklerini keşfedin. Fatih'te bulunan Hekimoğlu Ali Paşa Türbesi, 15. yüzyılda inşa edilmiştir."
 keywords: ["Hekimoğlu Ali Paşa","Türbe","Fatih","İstanbul","Tarih","Kültür","Mimarlık"]

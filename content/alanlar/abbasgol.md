@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Abbasgöl","caption":"Abbasgöl","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/S%C3%9CNNET_G%C3%96L%C3%9C3.jpg/960px-S%C3%9CNNET_G%C3%96L%C3%9C3.jpg","alt":"Abbasgöl","caption":"Abbasgöl","credit":"SÜNNET GÖLÜ3","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abbasg%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20514762","tip":"genel"}]
 description: "Iğdır'ın Tuzluca ilçesinde yer alan Abbasgöl, doğal güzellikleri ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Abbasgöl","Iğdır","Tuzluca","göl","doğal alan","yeşil cennet","turizm","gezi","Iğdır gezilecek yerler","Tuzluca turizm"]

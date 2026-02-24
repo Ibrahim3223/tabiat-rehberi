@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","tarihî alan gezisi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Yünlü Tepe","caption":"Yünlü Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg","alt":"Yünlü Tepe","caption":"Yünlü Tepe","credit":"Ankara asv2021-10 img14 view from Atakule mall","license":"FAL"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCnl%C3%BC%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196198","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli köşelerinden biri olan Yünlü Tepe, tarihi ve coğrafi zenginlikleriyle ziyaretçilerini bekliyor."
 keywords: ["Yünlü Tepe","İç Anadolu Bölgesi","tarih","coğrafya","doğa","gezi","keşif"]

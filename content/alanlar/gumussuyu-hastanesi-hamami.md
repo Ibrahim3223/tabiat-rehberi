@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Gümüşsuyu Hastanesi Hamamı","caption":"Gümüşsuyu Hastanesi Hamamı","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/G%C3%B6kceada_fort_1.jpg/960px-G%C3%B6kceada_fort_1.jpg","alt":"Gümüşsuyu Hastanesi Hamamı","caption":"Gümüşsuyu Hastanesi Hamamı","credit":"Gökceada fort 1","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fsuyu%20Hastanesi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738606","tip":"genel"}]
 description: "İstanbul'un tarihi dokusunu taşıyan bir plaj"
 keywords: ["Gümüşsuyu","Hastanesi Hamamı","İstanbul","Marmara Bölgesi","plaj","tarihçe","coğrafya","doğa"]

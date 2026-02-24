@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Serkan_%C3%B6d%C3%BCl_t%C3%B6reni.jpg","alt":"Ulu Tepe manzarası","credit":"Serkan Aydın Oyuncu","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg/960px-Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg","alt":"Ulu Tepe","caption":"Ulu Tepe","credit":"Antitaurus 06 04 1988 Pozantı Dağı bei Niğde","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31503719","tip":"genel"}]
 description: "Türkiye'de bulunan Ulu Tepe, ülkenin doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon."

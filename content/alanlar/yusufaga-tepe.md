@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş Gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Yusufağa Tepe","caption":"Yusufağa Tepe","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Olympos_Peak.jpg/960px-Olympos_Peak.jpg","alt":"Yusufağa Tepe","caption":"Yusufağa Tepe","credit":"Olympos Peak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yusufa%C4%9Fa%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31501805","tip":"genel"}]
 description: "Van'da yer alan Yusufağa Tepe, doğa severlerin ziyaret ettiği bir dağdır. 1400 metre yüksekliğiyle dikkat çeker."
 keywords: ["Yusufağa Tepe","Van","Dağ","Doğa","Trekking","Turizm","Gezi","Yolculuk","Van'ın dağları"]

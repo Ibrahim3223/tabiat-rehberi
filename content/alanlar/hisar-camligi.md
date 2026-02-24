@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük gezi"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","hayvan gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Hisar Çamlığı","caption":"Hisar Çamlığı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Hisar Çamlığı","caption":"Hisar Çamlığı","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hisar%20%C3%87aml%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228161","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Hisar Çamlığı","İç Anadolu Bölgesi","milli park","doğa","çevre","gezi","turizm"]

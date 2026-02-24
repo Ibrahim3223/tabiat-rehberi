@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Haruni Mağaraları","caption":"Haruni Mağaraları","credit":"Goreme National Park, Turkey","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-2.jpg/960px-Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-2.jpg","alt":"Haruni Mağaraları","caption":"Haruni Mağaraları","credit":"Geological formation, Şebinkarahisar 2016 01-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haruni%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319238","tip":"genel"}]
 description: "Batman'da yer alan Haruni Mağaraları, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Haruni Mağaraları","Batman","Jeopark","Doğal Alanlar","Mağara Gezileri","Turizm","Doğa","Gezi Rehberi","Güneydoğu Anadolu"]

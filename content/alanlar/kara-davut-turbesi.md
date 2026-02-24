@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["tarihi mekanları gezmek","plajda dinlenmek","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Kara Davut Türbesi","caption":"Kara Davut Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gallipoli_ANZAC_Cove_3.JPG/960px-Gallipoli_ANZAC_Cove_3.JPG","alt":"Kara Davut Türbesi","caption":"Kara Davut Türbesi","credit":"Gallipoli ANZAC Cove 3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Davut%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391612","tip":"genel"}]
 description: "Ankara'nın Beypazarı ilçesinde bulunan Kara Davut Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Kara Davut Türbesi","Beypazarı","Ankara","tarih","doğa","türbe","plaj"]

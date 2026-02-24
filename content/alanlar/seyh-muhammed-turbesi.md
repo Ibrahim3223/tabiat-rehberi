@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları incelemek","Doğal güzellikleri keşfetmek","Fotograf çekmek","Yerel yemekleri denemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/ZEYN%C4%B0LER_KABR%C4%B0STANI_BURSA_-_panoramio_%281%29.jpg","alt":"Şeyh Muhammed Türbesi manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg","alt":"Şeyh Muhammed Türbesi","caption":"Şeyh Muhammed Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 17","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhammed%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582869","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Mardin'in Artuklu ilçesinde yer alan Şeyh Muhammed Türbesi, tarihi ve doğal güzellikleri bir arada sunan önemli bir turizm merkezidir."

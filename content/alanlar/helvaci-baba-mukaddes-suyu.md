@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["plaj","deniz","güneş","tarih","kültür"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg","alt":"Helvacı Baba Mukaddes Suyu","caption":"Helvacı Baba Mukaddes Suyu","credit":"Süzer Sun Dreams Beach 12 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Maden_Koyu_Beach_2021-11-13-6.jpg/960px-Maden_Koyu_Beach_2021-11-13-6.jpg","alt":"Helvacı Baba Mukaddes Suyu","caption":"Helvacı Baba Mukaddes Suyu","credit":"Maden Koyu Beach 2021-11-13-6","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Helvac%C4%B1%20Baba%20Mukaddes%20Suyu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390831","tip":"genel"}]
 description: "İzmir'in Bergama ilçesinde bulunan Helvacı Baba Mukaddes Suyu, tarihi ve doğası ile dikkat çekiyor."
 keywords: ["Helvacı Baba Mukaddes Suyu","Bergama","İzmir","doğa","tarih","turizm","gezi","seyahat","plaj"]

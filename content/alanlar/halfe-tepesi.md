@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Köy Gezisi","Tarihî Yerleşim Yerleri","Flora ve Fauna Gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Halfe Tepesi","caption":"Halfe Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Halfe Tepesi","caption":"Halfe Tepesi","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halfe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386444","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde yer alan Halfe Tepesi, coğrafi konumu ve doğal güzellikleriyle dikkat çeker."
 keywords: ["Halfe Tepesi","Kilis","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","doğa","gezi","turizm","kültür"]

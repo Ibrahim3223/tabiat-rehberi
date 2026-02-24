@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","tarih turu","flora/fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Aşağıkurt Tepesi","caption":"Aşağıkurt Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Aşağıkurt Tepesi","caption":"Aşağıkurt Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9Fa%C4%9F%C4%B1kurt%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389091","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli güzelliği, Aşağıkurt Tepesi'ni keşfedin"
 keywords: ["Aşağıkurt Tepesi","Doğu Anadolu Bölgesi","Bingöl","tepe","coğrafya","flora","fauna","ziyaret","turizm"]

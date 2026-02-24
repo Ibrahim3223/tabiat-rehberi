@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["su sporları","plaj etkinlikleri","tarih gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Kazlıçeşme Hamamı","caption":"Kazlıçeşme Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_beaches-_Sea_of_Marmara_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_02.jpg","alt":"Kazlıçeşme Hamamı","caption":"Kazlıçeşme Hamamı","credit":"Istanbul beaches- Sea of Marmara 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazl%C4%B1%C3%A7e%C5%9Fme%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738561","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren Kazlıçeşme Hamamı, Marmara Bölgesi'nde yer alan önemli bir turizm noktasıdır."
 keywords: ["Kazlıçeşme Hamamı","İstanbul","Marmara Bölgesi","tarih","doğa","turizm"]

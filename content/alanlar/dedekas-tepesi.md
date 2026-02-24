@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tepe tırmanışı","flora ve fauna","geleneksel köy ziyaretleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Dedekaş Tepesi","caption":"Dedekaş Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Dedekaş Tepesi","caption":"Dedekaş Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedeka%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389830","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, Çankırı'da yer alan Dedekaş Tepesi"
 keywords: ["Dedekaş Tepesi","Çankırı","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

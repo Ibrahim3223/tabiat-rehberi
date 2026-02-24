@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Deniz kenarında dinlenmek","Doğa yürüyüşü yapmak","Çevredeki tarihi ve kültürel yerleri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Servili Baba Türbesi","caption":"Servili Baba Türbesi","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ba%C4%9Flar_Burnu.jpg/960px-Ba%C4%9Flar_Burnu.jpg","alt":"Servili Baba Türbesi","caption":"Servili Baba Türbesi","credit":"Bağlar Burnu","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Servili%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391480","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi türbe ve plaj"
 keywords: ["Servili Baba Türbesi","Fatih","İstanbul","tarih","türbe","plaj","Marmara Bölgesi","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["swim","yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Solon ve Na Anıt Mezarı","caption":"Solon ve Na Anıt Mezarı","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beach_Antakya_Turkey_-_panoramio.jpg/960px-Beach_Antakya_Turkey_-_panoramio.jpg","alt":"Solon ve Na Anıt Mezarı","caption":"Solon ve Na Anıt Mezarı","credit":"Beach Antakya Turkey - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Solon%20ve%20Na%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134727951","tip":"genel"}]
 description: "Konyaaltı'nda tarihi ve doğal güzelliklerin birleştiği bir plaj"
 keywords: ["Konyaaltı","Antalya","Akdeniz Bölgesi","plaj","tarih","doğa","gezi","turizm","kültür","anıt mezar"]

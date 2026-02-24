@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","manzara seyretme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Çavuşkalesi Tepesi","caption":"Çavuşkalesi Tepesi","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg/960px-Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg","alt":"Çavuşkalesi Tepesi","caption":"Çavuşkalesi Tepesi","credit":"Ida B Wells High School San Francisco January 2013 002","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avu%C5%9Fkalesi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828733","tip":"genel"}]
 description: "Ankara'nın gizli güzelliği: Çavuşkalesi Tepesi"
 keywords: ["Çavuşkalesi Tepesi","Ankara","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","çevre"]

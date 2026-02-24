@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğa yürüyüşleri yapmak","Fotograf çekmek","Yerel yemekleri denemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Gazi Gündüz Alp Türbesi","caption":"Gazi Gündüz Alp Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio.jpg","alt":"Gazi Gündüz Alp Türbesi","caption":"Gazi Gündüz Alp Türbesi","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazi%20G%C3%BCnd%C3%BCz%20Alp%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391657","tip":"genel"}]
 description: "Ankara'nın Beypazarı ilçesinde yer alan tarihi bir mekan."
 keywords: ["Gazi Gündüz Alp Türbesi","Beypazarı","Ankara","Türbe","Tarih","Kültür","Gezi"]

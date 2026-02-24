@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yüzme","su sporları","doğa yürüyüşleri","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Ahmet ve Mehmet Efendiler Türbesi","caption":"Ahmet ve Mehmet Efendiler Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Al-Samra_beach.jpg/960px-Al-Samra_beach.jpg","alt":"Ahmet ve Mehmet Efendiler Türbesi","caption":"Ahmet ve Mehmet Efendiler Türbesi","credit":"Al-Samra beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahmet%20ve%20Mehmet%20Efendiler%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390622","tip":"genel"}]
 description: "Afyonkarahisar'da bulunan tarihi türbe ve plaj alanı"
 keywords: ["Ahmet ve Mehmet Efendiler Türbesi","Afyonkarahisar","Ege Bölgesi","tarih","plaj","türbe","gezi","turizm","doğa"]

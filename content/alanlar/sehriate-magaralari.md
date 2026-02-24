@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Şehriate Mağaraları","caption":"Şehriate Mağaraları","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Geological_formation_near_Karalar.jpg/960px-Geological_formation_near_Karalar.jpg","alt":"Şehriate Mağaraları","caption":"Şehriate Mağaraları","credit":"Geological formation near Karalar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehriate%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319941","tip":"genel"}]
 description: "Mardin'de yer alan Şehriate Mağaraları, 1200 hektarlık bir jeopark alanıdır. Doğal güzellikleri ve tarihi önemi ile dikkat çeker."
 keywords: ["Şehriate Mağaraları","Mardin","Jeopark","Doğal Alan","Tarih","Turizm","Mardin Turistik Yerler","Jeolojik Özellikler","Mağara Gezisi"]

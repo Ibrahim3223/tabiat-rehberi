@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Antalya-Duzlercami Kızılçam 2","caption":"Antalya-Duzlercami Kızılçam 2","credit":"Turkish nature reserve.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Antalya-Duzlercami Kızılçam 2","caption":"Antalya-Duzlercami Kızılçam 2","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Duzlercami%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227852","tip":"genel"}]
 description: "Antalya'nın doğal güzellikleri arasında yer alan milli park, ziyaretçilerini bekliyor."
 keywords: ["Antalya","milli park","doğal güzellik","kızılçam","Akdeniz Bölgesi","turizm","gezi","doğa"]

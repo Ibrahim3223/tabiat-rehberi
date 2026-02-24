@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları ziyaret","Dini yapıları keşfet","Kültürel zenginlikleri öğren","Doğal güzellikleri keşfet"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Seyyid Battal Gazi Türbesi, Kayseri","caption":"Seyyid Battal Gazi Türbesi, Kayseri","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Pirlanta_beach%2C_without_waves_october_2009_2_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_2_-_panoramio.jpg","alt":"Seyyid Battal Gazi Türbesi, Kayseri","caption":"Seyyid Battal Gazi Türbesi, Kayseri","credit":"Pirlanta beach, without waves october 2009 2 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Battal%20Gazi%20T%C3%BCrbesi%2C%20Kayseri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582336","tip":"genel"}]
 description: "Kayseri'nin Melikgazi ilçesinde bulunan Seyyid Battal Gazi Türbesi, tarihsel ve kültürel önem taşıyan bir dini yapıdır. Ziyaretçilerini tarihin derinliklerine götürerek, dini ve kültürel zenginliklerin keşfedildiği bir mekan sunar."
 keywords: ["Seyyid Battal Gazi","Kayseri","Melikgazi","tarihi mekanlar","dini yapılar","türk kültürü","ziyaret noktaları","tarihsel yerler","kültürel miras"]

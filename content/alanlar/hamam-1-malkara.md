@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Hamam 1, Malkara","caption":"Hamam 1, Malkara","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg","alt":"Hamam 1, Malkara","caption":"Hamam 1, Malkara","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%201%2C%20Malkara","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245860","tip":"genel"}]
 description: "Malkara'da yer alan Hamam 1, İstanbul Vilayeti'nin güzelliklerinin sergilendiği bir nokta, 140 karakter"
 keywords: ["Malkara","Hamam 1","İstanbul Vilayeti","plaj","doğal güzellik","gezi","turizm","coğrafya","flora","fauna"]

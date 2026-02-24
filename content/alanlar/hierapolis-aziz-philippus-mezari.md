@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültür turu","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Hierapolis Aziz Philippus Mezarı","caption":"Hierapolis Aziz Philippus Mezarı","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg/960px-Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg","alt":"Hierapolis Aziz Philippus Mezarı","caption":"Hierapolis Aziz Philippus Mezarı","credit":"Aerial view of destruction in Beach refugee camp, Gaza Strip","license":"CC BY-SA 3.0 igo"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hierapolis%20Aziz%20Philippus%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728121","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Denizli'nin Pamukkale ilçesinde yer alan Hierapolis Aziz Philippus Mezarı, ziyaretçilerini bekliyor."
 keywords: ["Hierapolis","Aziz Philippus Mezarı","Pamukkale","Denizli","Ege Bölgesi","tarih","kültür","mezar","aziz"]

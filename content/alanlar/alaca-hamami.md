@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yüzme","Güneşlenme","Su sporları","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Alaca Hamamı","caption":"Alaca Hamamı","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BOAT-Turkey_-_panoramio.jpg/960px-BOAT-Turkey_-_panoramio.jpg","alt":"Alaca Hamamı","caption":"Alaca Hamamı","credit":"BOAT-Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alaca%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738802","tip":"genel"}]
 description: "Afyonkarahisar'da yer alan Alaca Hamamı, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Alaca Hamamı","Afyonkarahisar","Ege Bölgesi","Doğal güzellikler","Plaj","Turizm"]

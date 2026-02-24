@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Yeşil alanlarda dinlenme","Tarihi yapıları incelemek","Dini etkinliklere katılım"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hacı İbrahim Veli Sultan Türbesi","caption":"Hacı İbrahim Veli Sultan Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg/960px-MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg.png","alt":"Hacı İbrahim Veli Sultan Türbesi","caption":"Hacı İbrahim Veli Sultan Türbesi","credit":"MapaTopográficoDeAsiaMenor-Caria","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20%C4%B0brahim%20Veli%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582361","tip":"genel"}]
 description: "Konya'nın Akşehir ilçesinde bulunan Hacı İbrahim Veli Sultan Türbesi, tarihi ve kültürel önem taşıyan bir mekan."
 keywords: ["Hacı İbrahim Veli Sultan","Türbe","Konya","Akşehir","Tarih","Kültür","Mekan","İslam"]

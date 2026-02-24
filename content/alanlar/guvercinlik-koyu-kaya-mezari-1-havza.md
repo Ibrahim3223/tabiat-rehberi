@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık","yürüyüş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Güvercinlik Köyü Kaya Mezarı 1, Havza","caption":"Güvercinlik Köyü Kaya Mezarı 1, Havza","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kabak_Valley%2C_Turkey.JPG/960px-Kabak_Valley%2C_Turkey.JPG","alt":"Güvercinlik Köyü Kaya Mezarı 1, Havza","caption":"Güvercinlik Köyü Kaya Mezarı 1, Havza","credit":"Kabak Valley, Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCvercinlik%20K%C3%B6y%C3%BC%20Kaya%20Mezar%C4%B1%201%2C%20Havza","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728194","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin tarihi ve doğal güzellikleri ile bilinen Havza'da yer alan Güvercinlik Köyü Kaya Mezarı 1, ziyaretçilerini bekliyor."
 keywords: ["Havza","Karadeniz Bölgesi","Güvercinlik Köyü","Kaya Mezarı","tarih","doğa","gezi","turizm"]

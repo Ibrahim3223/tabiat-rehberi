@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abandoned_blue.jpg/960px-Abandoned_blue.jpg","alt":"Carambis","caption":"Carambis","credit":"Abandoned blue","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eurasian_Collared-Dove_by_Tisha_Mukherjee_04.jpg/960px-Eurasian_Collared-Dove_by_Tisha_Mukherjee_04.jpg","alt":"Carambis","caption":"Carambis","credit":"Eurasian Collared-Dove by Tisha Mukherjee 04","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Carambis","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q17624165","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Carambis, 1200 hektarlık bir alanı kaplayan önemli bir kuş cenneti"
 keywords: ["Carambis","Karadeniz Bölgesi","kuş cenneti","Türkiye'nin doğal alanları","doğal yaşam","vahşi yaşam","kuş gözlemciliği","ekoturizm","Karadeniz turizmi"]

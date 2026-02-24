@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Yayık Dağı","caption":"Yayık Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg/960px-Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg","alt":"Yayık Dağı","caption":"Yayık Dağı","credit":"Antitaurus 06 04 1988 Pozantı Dağı bei Niğde","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yay%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574874","tip":"genel"}]
 description: "Ağrı'da bulunan Yayık Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Yayık Dağı","Ağrı","Dağ","Trekking","Doğa","Turizm","Gezi","Ağrı Dağları","Yayık Dağı trekking"]

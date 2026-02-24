@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çarşela Tepesi","caption":"Çarşela Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Çarşela Tepesi","caption":"Çarşela Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ar%C5%9Fela%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828425","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Çarşela Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar."
 keywords: ["Çarşela Tepesi","İç Anadolu Bölgesi","doğal güzellik","tepe","manzara","gezi","turizm","çevre","coğrafya"]

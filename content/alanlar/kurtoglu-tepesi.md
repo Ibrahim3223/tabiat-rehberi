@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Doğa Gözlemi","Fotoğrafçılık","Manzara İzleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fairy_Chimneys_-_panoramio_%282%29.jpg/960px-Fairy_Chimneys_-_panoramio_%282%29.jpg","alt":"Kurtoğlu Tepesi","caption":"Kurtoğlu Tepesi","credit":"Fairy Chimneys - panoramio (2).jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kurtoğlu Tepesi","caption":"Kurtoğlu Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurto%C4%9Flu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390593","tip":"genel"}]
 description: "Nevşehir'in İç Anadolu Bölgesi'nde yer alan Kurtoğlu Tepesi, coğrafyası ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kurtoğlu Tepesi","Nevşehir","İç Anadolu Bölgesi","coğrafya","tarih","doğa","gezi","tepe"]

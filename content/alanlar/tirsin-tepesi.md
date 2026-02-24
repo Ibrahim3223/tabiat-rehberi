@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","geleneksel yaşam kültürü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Tirşin Tepesi","caption":"Tirşin Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Tirşin Tepesi","caption":"Tirşin Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tir%C5%9Fin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386578","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Van kentinde yer alan Tirşin Tepesi, coğrafi güzelliği ve zengin fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Tirşin Tepesi","Van","Doğu Anadolu Bölgesi","coğrafi güzellik","zengin fauna","doğa","gezi","türler"]

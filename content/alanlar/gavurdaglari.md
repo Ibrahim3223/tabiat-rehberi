@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Gavurdağları","caption":"Gavurdağları","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Gavurdağları","caption":"Gavurdağları","credit":"Gelincik Dagi Manzara","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gavurda%C4%9Flar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6052814","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin, Gavurdağları'nda doğa ile baş başa kalın."
 keywords: ["Gavurdağları","Erzurum","Dağ","Doğa","Turizm","Gezi","Seyahat","Erzurum Turistik Yerler","Gavurdağları Erzurum"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Flora ve fauna gözlemi","Gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"EDİRNE NASUHBEY TEKKE BAYIRI","caption":"EDİRNE NASUHBEY TEKKE BAYIRI","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"EDİRNE NASUHBEY TEKKE BAYIRI","caption":"EDİRNE NASUHBEY TEKKE BAYIRI","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ED%C4%B0RNE%20NASUHBEY%20TEKKE%20BAYIRI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228902","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Edirne Nasuhbey Tekke Bayırı, zengin flora ve fauna çeşitliliğiyle dikkat çekiyor."
 keywords: ["Edirne Nasuhbey Tekke Bayırı","İç Anadolu Bölgesi","milli park","flora","fauna","doğa","gezi","turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Dağ tırmanma","Orman gezisi","Balık tutma","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sis_da%C4%9F%C4%B1_%281%29.jpg/960px-Sis_da%C4%9F%C4%B1_%281%29.jpg","alt":"Giresun-Sebinkarahisar-T.Kavak","caption":"Giresun-Sebinkarahisar-T.Kavak","credit":"Sis dağı (1).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg/960px-Bal%C4%B1kesir_De%C4%9Firmenbo%C4%9Faz%C4%B1_tabiat_park%C4%B1.jpg","alt":"Giresun-Sebinkarahisar-T.Kavak","caption":"Giresun-Sebinkarahisar-T.Kavak","credit":"Balıkesir Değirmenboğazı tabiat parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Sebinkarahisar-T.Kavak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228504","tip":"genel"}]
 description: "Giresun'un doğal güzelliklerini keşfedin, Sebinkarahisar-T.Kavak Milli Parkı'nın zengin florası ve faunası ile buluşun."
 keywords: ["Giresun","Sebinkarahisar","T.Kavak","Milli Park","Doğa","Flora","Fauna","Gezi","Türkiye"]

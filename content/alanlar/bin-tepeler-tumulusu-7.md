@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Bin Tepeler Tümülüsü 7","caption":"Bin Tepeler Tümülüsü 7","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 7","caption":"Bin Tepeler Tümülüsü 7","credit":"Mediterranean.^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%207","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728363","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinelerinden biri olan Bin Tepeler Tümülüsü 7, zengin geçmişi ve etkileyici coğrafyası ile ziyaretçilerini bekliyor."
 keywords: ["Bin Tepeler","Tümülüs","Ege Bölgesi","Manisa","Salihli","Tarih","Coğrafya","Doğa"]

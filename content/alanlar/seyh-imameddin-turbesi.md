@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih keşfi","Doğa yürüyüşü","Fotoğraf çekimi","Kültürel gözlem"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Şeyh İmameddin Türbesi","caption":"Şeyh İmameddin Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Istanbul_beaches-_Sea_of_Marmara_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_08.jpg","alt":"Şeyh İmameddin Türbesi","caption":"Şeyh İmameddin Türbesi","credit":"Istanbul beaches- Sea of Marmara 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C4%B0mameddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582875","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan tarihi bir mekan"
 keywords: ["Mardin","Artuklu","Türbe","Tarih","Coğrafya","Doğa","Gezi","Kültür"]

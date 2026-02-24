@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg/960px-Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg","alt":"Karaçı Mağarası","caption":"Karaçı Mağarası","credit":"Olsberg (DE), Bruchhauser Steine -- 2023 -- 0262","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Geological_map_marmara_island_-_hochstetter.jpg/960px-Geological_map_marmara_island_-_hochstetter.jpg","alt":"Karaçı Mağarası","caption":"Karaçı Mağarası","credit":"Geological map marmara island - hochstetter","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%C3%A7%C4%B1%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319332","tip":"genel"}]
 description: "Batman'da yer alan Karaçı Mağarası, 1200 hektarlık bir jeopark alanı sunar. Doğal güzellikleri keşfedin."
 keywords: ["Karaçı Mağarası","Batman","Jeopark","Doğal Alanlar","Mağara Gezisi","Turizm","Gezi Rehberi","Doğa","Jeolojik Özellikler"]

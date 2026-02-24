@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/G%C3%BCver_Cliff_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Scenery_%28Antalya%29.jpg","alt":"Oyak Tepe","caption":"Oyak Tepe","credit":"Güver Cliff Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Oyak Tepe","caption":"Oyak Tepe","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Oyak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390163","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerinden biri olan Oyak Tepe, ziyaretçilerini bekliyor."
 keywords: ["Oyak Tepe","Antalya","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","yatırım","çevre"]

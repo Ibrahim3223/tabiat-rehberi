@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg/960px-Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg","alt":"Salucin Mağarası","caption":"Salucin Mağarası","credit":"Olsberg (DE), Bruchhauser Steine -- 2023 -- 0262","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Subduction-en.svg/960px-Subduction-en.svg.png","alt":"Salucin Mağarası","caption":"Salucin Mağarası","credit":"Subduction-en","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Salucin%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319727","tip":"genel"}]
 description: "Mersin'de yer alan Salucin Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Salucin Mağarası","Mersin","Jeopark","Doğal Alan","Mağara","Turizm","Mersin Turistik Yerler","Jeolojik Özellikler","Doğa"]

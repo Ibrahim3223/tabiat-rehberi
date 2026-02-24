@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe araştırma","doğa yürüyüşü","fotograf çekme","ekosistem gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Manisa Saray Hamamı Kalıntısı (2)","caption":"Manisa Saray Hamamı Kalıntısı (2)","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff/lossy-page1-900px-Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff.jpg","alt":"Manisa Saray Hamamı Kalıntısı (2)","caption":"Manisa Saray Hamamı Kalıntısı (2)","credit":"Sea of Marmara - Admiralty Chart No 2836 Mediterranean Archipelago, Published 1863, Corrections to 1918 (cropped)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manisa%20Saray%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1%20(2)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738745","tip":"genel"}]
 description: "Manisa'da tarihi bir yer olan Saray Hamamı Kalıntısı, 140 hektarlık bir alana yayılmaktadır."
 keywords: ["Manisa","Saray Hamamı","tarih","kültür","gezi","Ege Bölgesi","Şehzadeler","historik yerler","turizm","doğa"]

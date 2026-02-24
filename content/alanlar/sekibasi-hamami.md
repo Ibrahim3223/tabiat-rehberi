@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda güneşlenmek","denizde yüzmek","doğa yürüyüşleri yapmak","tarihi yerleri gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Sekibaşı Hamamı","caption":"Sekibaşı Hamamı","credit":"Muğla - Dalyan - İztuzu Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mediterranean_-_panoramio_%283%29.jpg/960px-Mediterranean_-_panoramio_%283%29.jpg","alt":"Sekibaşı Hamamı","caption":"Sekibaşı Hamamı","credit":"Mediterranean - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sekiba%C5%9F%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738809","tip":"genel"}]
 description: "Muğla'nın Menteşe ilçesinde yer alan Sekibaşı Hamamı, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Sekibaşı Hamamı","Menteşe","Muğla","doğal güzellik","tarihi geçmişi","plaj","Ege Bölgesi","turizm","gezi","seyahat"]

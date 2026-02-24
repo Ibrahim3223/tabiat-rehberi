@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","mimari keşif","doğa yürüyüşü","fotografi","kültürel deneyim"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Arapzade Mustafa Efendi Türbesi","caption":"Arapzade Mustafa Efendi Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Arapzade Mustafa Efendi Türbesi","caption":"Arapzade Mustafa Efendi Türbesi","credit":"Antalya Serik Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arapzade%20Mustafa%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390958","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından Arapzade Mustafa Efendi Türbesi, Marmara Bölgesi'nde yer alıyor."
 keywords: ["Arapzade Mustafa Efendi Türbesi","İstanbul","Marmara Bölgesi","tarih","mimari","kültür","gezi","turizm","Beyoğlu"]

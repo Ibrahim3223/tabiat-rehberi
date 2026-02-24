@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%D8%A7%D8%B3%D8%AA%D8%A7%D9%85%D8%A8%D9%88%D9%84.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%85%D8%A8%D9%88%D9%84.jpg","alt":"Evliya Bey Medresesi, Gürpınar","caption":"Evliya Bey Medresesi, Gürpınar","credit":"استامبول","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg","alt":"Evliya Bey Medresesi, Gürpınar","caption":"Evliya Bey Medresesi, Gürpınar","credit":"Piri Reis - Map of the Island of Cos Off the Anatolian Coast - Walters W65895A - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Evliya%20Bey%20Medresesi%2C%20G%C3%BCrp%C4%B1nar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582818","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Evliya Bey Medresesi","Gürpınar","Van","Doğu Anadolu Bölgesi","tarih","doğa","gezi"]

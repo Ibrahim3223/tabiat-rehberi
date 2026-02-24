@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yüzme","güneşlenmek","çevre gezisi","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg","alt":"Zindancıkült Alanı","caption":"Zindancıkült Alanı","credit":"Süzer Sun Dreams Beach 10 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Zindancıkült Alanı","caption":"Zindancıkült Alanı","credit":"Altinkum in the evening","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zindanc%C4%B1k%20K%C3%BClt%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728230","tip":"genel"}]
 description: "Dikili'nin en güzel plajlarından biri olan Zindancıkült Alanı, Ege Bölgesi'nin önemli turizm noktalarından biridir."
 keywords: ["Dikili","İzmir","Ege Bölgesi","plaj","turizm","doğa","gezi","seyahat","tatil","deniz"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Trekking","Kampçılık","Balık avı","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"DENİZLİ SALBAKOS DAĞLARI","caption":"DENİZLİ SALBAKOS DAĞLARI","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg/960px-Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg","alt":"DENİZLİ SALBAKOS DAĞLARI","caption":"DENİZLİ SALBAKOS DAĞLARI","credit":"Kuzuyayla Tabiat Parkı (2) 02","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Kale-i_Tavas_14_09_1994_Stadtgel%C3%A4nde.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kale-i_Tavas_14_09_1994_Stadtgel%C3%A4nde.jpg/1280px-Kale-i_Tavas_14_09_1994_Stadtgel%C3%A4nde.jpg","alt":"DENİZLİ SALBAKOS DAĞLARI - Kale-i Tavas 14 09 1994 Stadtgelände","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/DEN%C4%B0ZL%C4%B0%20SALBAKOS%20DA%C4%9ELARI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228891","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Denizli Salbakos Dağları"

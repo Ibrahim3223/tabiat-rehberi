@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Doğançay Dağı","caption":"Doğançay Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MOKM41.jpg/960px-MOKM41.jpg","alt":"Doğançay Dağı","caption":"Doğançay Dağı","credit":"MOKM41","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fan%C3%A7ay%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49025761","tip":"genel"}]
 description: "Van'da bulunan Doğançay Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Doğançay Dağı","Van","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Doğal Güzellik","Van Turistik Yerler"]

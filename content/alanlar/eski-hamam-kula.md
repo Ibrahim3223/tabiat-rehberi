@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Güneşlenmek","Denizde yüzme","Su sporları","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Eski Hamam, Kula","caption":"Eski Hamam, Kula","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg","alt":"Eski Hamam, Kula","caption":"Eski Hamam, Kula","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 15","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%20Hamam%2C%20Kula","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245825","tip":"genel"}]
 description: "Manisa'nın Kula ilçesinde, Ege Bölgesi'nin doğal güzellikleri arasında yer alan Eski Hamam, Plaj"
 keywords: ["Eski Hamam","Kula","Manisa","Ege Bölgesi","plaj","doğal güzellik","gezi","seyahat","turizm"]

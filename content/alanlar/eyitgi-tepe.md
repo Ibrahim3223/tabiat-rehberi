@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Eyitgi Tepe","caption":"Eyitgi Tepe","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yukar%C4%B1_bunarlar_mevkiinden_do%C4%9Fu_y%C3%B6n%C3%BC%2C_yukar%C4%B1_ko%C3%A7a%C5%9F_k%C3%B6y%C3%BC_mevkii_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg/960px-Yukar%C4%B1_bunarlar_mevkiinden_do%C4%9Fu_y%C3%B6n%C3%BC%2C_yukar%C4%B1_ko%C3%A7a%C5%9F_k%C3%B6y%C3%BC_mevkii_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Eyitgi Tepe","caption":"Eyitgi Tepe","credit":"Yukarı bunarlar mevkiinden doğu yönü, yukarı koçaş köyü mevkii ve eşşek dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eyitgi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546467","tip":"genel"}]
 description: "Batman'da yer alan Eyitgi Tepe, doğal güzellikleri ile dikkat çeken bir dağdır.  Batman'ın önemli coğrafi oluşumlarından biri olan Eyitgi Tepe, bölgenin jeolojik yapısını şekillendiren önemli bir noktadır."
 keywords: ["Eyitgi Tepe","Batman","dağ","doğal güzellik","coğrafi oluşum","jeolojik yapı","turizm","gezi","seyahat","Batman gezilecek yerler"]

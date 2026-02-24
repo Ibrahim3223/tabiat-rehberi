@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi gezisi","doğa yürüyüşü","kültürel etkinlikler","mimari incelemesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ferhat Paşa Hamamı","caption":"Ferhat Paşa Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Ferhat Paşa Hamamı","caption":"Ferhat Paşa Hamamı","credit":"Muğla - Dalyan - İztuzu Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ferhat%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738817","tip":"genel"}]
 description: "Kastamonu'nun tarihi ve doğal güzelliklerinin birleştiği nokta: Ferhat Paşa Hamamı"
 keywords: ["Kastamonu","Ferhat Paşa Hamamı","tarih","doğa","gezi","karadeniz","kültür","mimari","turizm"]

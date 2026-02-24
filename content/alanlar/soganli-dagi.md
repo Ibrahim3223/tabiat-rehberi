@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Soğanlı Dağı","caption":"Soğanlı Dağı","credit":"Erzincan Refahiye.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg/960px-Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg","alt":"Soğanlı Dağı","caption":"Soğanlı Dağı","credit":"Hacıbaba dağı- batıdan - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fanl%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31577832","tip":"genel"}]
 description: "Erzincan'da bulunan Soğanlı Dağı, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Soğanlı Dağı","Erzincan","Doğa","Dağ","Yeşil Alan","Türkiye","Gezi","Seyahat","Doğa Sporları"]

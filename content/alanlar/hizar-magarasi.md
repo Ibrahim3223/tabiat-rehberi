@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Hızar Mağarası","caption":"Hızar Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Geol_Anatolia-fr.jpg/960px-Geol_Anatolia-fr.jpg","alt":"Hızar Mağarası","caption":"Hızar Mağarası","credit":"Geol Anatolia-fr","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1zar%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319261","tip":"genel"}]
 description: "Karabük'te bulunan Hızar Mağarası, 1200 metre uzunluğuyla Türkiye'nin en uzun mağaralarından biri. Jeopark olarak bilinen bu doğal alan, yeraltı dünyasını keşfetmek isteyenler için ideal."
 keywords: ["Hızar Mağarası","Karabük","Jeopark","Mağara","Doğa","Yeraltı","Turizm","Gezi","Keşif","Türkiye"]

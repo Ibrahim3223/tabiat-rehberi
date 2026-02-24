@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Turkey_Run_Gorge.JPG","alt":"Manda Boğazı","caption":"Manda Boğazı","credit":"Turkey Run Gorge","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Catawba_rhododendrons_bloom_on_the_rim_of_the_gorge_at_Turkey_Spur._%282b6fd307-c9b4-480d-994c-d9bfd063168c%29.JPG/960px-Catawba_rhododendrons_bloom_on_the_rim_of_the_gorge_at_Turkey_Spur._%282b6fd307-c9b4-480d-994c-d9bfd063168c%29.JPG","alt":"Manda Boğazı","caption":"Manda Boğazı","credit":"Catawba rhododendrons bloom on the rim of the gorge at Turkey Spur. (2b6fd307-c9b4-480d-994c-d9bfd063168c)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manda%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34909953","tip":"genel"}]
 description: "Karaman'da yer alan Manda Boğazı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Manda Boğazı","Karaman","kanyon","doğa","turizm","gezi","yerel","coğrafya","Karaman gezilecek yerler"]

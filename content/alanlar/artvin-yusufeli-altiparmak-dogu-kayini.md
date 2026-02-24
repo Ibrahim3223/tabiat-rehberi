@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kamp","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Artvin-Yusufeli-Altiparmak Dogu Kayini","caption":"Artvin-Yusufeli-Altiparmak Dogu Kayini","credit":"Akdag 01","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Munzur_Valley_National_Park.jpg/960px-Munzur_Valley_National_Park.jpg","alt":"Artvin-Yusufeli-Altiparmak Dogu Kayini","caption":"Artvin-Yusufeli-Altiparmak Dogu Kayini","credit":"Munzur Valley National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Yusufeli-Altiparmak%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228591","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Artvin-Yusufeli-Altiparmak Dogu Kayini, doğa severler için bir cennet."
 keywords: ["Artvin","Yusufeli","Altiparmak Dogu Kayini","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

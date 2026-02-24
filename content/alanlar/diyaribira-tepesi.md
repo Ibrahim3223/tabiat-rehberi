@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğraf çekimi","kuş gözlemi","kampçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Diyarıbira Tepesi","caption":"Diyarıbira Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Diyarıbira Tepesi","caption":"Diyarıbira Tepesi","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diyar%C4%B1bira%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31544630","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli cenneti,  Batman'ın doğal güzellikleri"
 keywords: ["Diyarıbira Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret","gezilecek yerler"]

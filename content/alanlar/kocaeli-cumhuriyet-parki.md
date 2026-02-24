@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"KOCAELİ CUMHURİYET PARKI","caption":"KOCAELİ CUMHURİYET PARKI","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg.png","alt":"KOCAELİ CUMHURİYET PARKI","caption":"KOCAELİ CUMHURİYET PARKI","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks logo","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KOCAEL%C4%B0%20CUMHUR%C4%B0YET%20PARKI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228911","tip":"genel"}]
 description: "Kocaeli'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile dikkat çeker."
 keywords: ["Kocaeli","Cumhuriyet Parkı","doğal alan","bitki türleri","fauna","gezi","turizm","çevre"]

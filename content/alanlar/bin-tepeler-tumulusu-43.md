@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Bin Tepeler Tümülüsü 43","caption":"Bin Tepeler Tümülüsü 43","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Bin Tepeler Tümülüsü 43","caption":"Bin Tepeler Tümülüsü 43","credit":"Antalya Serik Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2043","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728330","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli kalmış cenneti, Manisa'nın Salihli ilçesinde yer alan Bin Tepeler Tümülüsü 43, ziyaretçilerini tarih ve doğanın kucaklaşmasıyla büyülüyor."
 keywords: ["Bin Tepeler Tümülüsü 43","Salihli","Manisa","Ege Bölgesi","tarih","doğa","gezi","tümülüs"]

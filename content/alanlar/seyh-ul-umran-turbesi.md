@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî araştırma","fotografcılık","dinî ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Şeyh ül Ümran Türbesi","caption":"Şeyh ül Ümran Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cracking_The_Glass_%28124289325%29.jpeg/960px-Cracking_The_Glass_%28124289325%29.jpeg","alt":"Şeyh ül Ümran Türbesi","caption":"Şeyh ül Ümran Türbesi","credit":"Cracking The Glass (124289325)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C3%BCl%20%C3%9Cmran%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390720","tip":"genel"}]
 description: "Mudurnu'nun tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Mudurnu","Bolu","Karadeniz Bölgesi","tarihi mekanlar","doğa turizmi","türk kültürü","şeyh ül ümran","tarihçe","coğrafya"]

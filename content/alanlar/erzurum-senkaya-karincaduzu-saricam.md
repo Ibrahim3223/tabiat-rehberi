@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa keşfi","kültürel miras keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Erzurum-Senkaya-Karincaduzu Saricam","caption":"Erzurum-Senkaya-Karincaduzu Saricam","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Erzurum-Senkaya-Karincaduzu Saricam","caption":"Erzurum-Senkaya-Karincaduzu Saricam","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Senkaya-Karincaduzu%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227564","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Erzurum-Senkaya-Karincaduzu Saricam, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Erzurum","Doğu Anadolu Bölgesi","Karincaduzu Saricam","milli park","doğal güzellik","yeşil alan"]

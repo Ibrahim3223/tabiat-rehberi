@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Çevre gezileri","Fotoğrafçılık","Doğa"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ye%C5%9Fil_Deniz.jpg/960px-Ye%C5%9Fil_Deniz.jpg","alt":"Artvin-Yusufeli-Kilickaya Saricam","caption":"Artvin-Yusufeli-Kilickaya Saricam","credit":"Yeşil Deniz.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg.png","alt":"Artvin-Yusufeli-Kilickaya Saricam","caption":"Artvin-Yusufeli-Kilickaya Saricam","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks logo","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Yusufeli-Kilickaya%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227553","tip":"genel"}]
 description: "Artvin'in güzide milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Artvin","Yusufeli","Kilickaya Saricam","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

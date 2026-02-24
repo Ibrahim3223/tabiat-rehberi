@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","picnic","doğa"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kursunlu_Waterfall_Nature_Park%2C_Antalya.jpg/960px-Kursunlu_Waterfall_Nature_Park%2C_Antalya.jpg","alt":"Güzeltepe Şelalesi","caption":"Güzeltepe Şelalesi","credit":"Kursunlu Waterfall Nature Park, Antalya.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_02.JPG/960px-Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_02.JPG","alt":"Güzeltepe Şelalesi","caption":"Güzeltepe Şelalesi","credit":"Spring to Pağnık Stream, Kızılağaç - Saimbeyli 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCzeltepe%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118929894","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en çekici doğal güzelliklerinden biri olan Güzeltepe Şelalesi, ziyaretçilerini büyülüyor."
 keywords: ["Güzeltepe Şelalesi","İç Anadolu Bölgesi","doğal güzellik","şelale","turizm","gezi","doğa","çevre","ekosistem"]

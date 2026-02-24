@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Odan Dağı","caption":"Odan Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salda_G%C3%B6l%C3%BC_09-1991.jpg/960px-Salda_G%C3%B6l%C3%BC_09-1991.jpg","alt":"Odan Dağı","caption":"Odan Dağı","credit":"Salda Gölü 09-1991","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Odan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509747","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, 1200 hektarlık yeşil cennet Odan Dağı'nda doğa yürüyüşleri ve manzaraları keşfedin"
 keywords: ["Odan Dağı","Mersin","Dağ","Doğa Yürüyüşleri","Mersin Turizm","Odan Dağı Manzaraları","Mersin Gezi Rehberi","Doğal Alanlar","Turizm"]

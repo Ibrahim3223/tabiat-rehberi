@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Mustacep İni","caption":"Mustacep İni","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Veliki_Slap_--_2022_--_0285.jpg/960px-Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Veliki_Slap_--_2022_--_0285.jpg","alt":"Mustacep İni","caption":"Mustacep İni","credit":"Lika-Senj (HR), Plitvicer Seen, Veliki Slap -- 2022 -- 0285","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustacep%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319604","tip":"genel"}]
 description: "Mersin'de yer alan Mustacep İni, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzelliği ve jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Mustacep İni","Mersin","Jeopark","Doğal Alan","Turizm","Mersin Gezilecek Yerler","Jeolojik Oluşumlar","Doğa Sporları","Mersin Turistik Yerler"]

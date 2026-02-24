@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları gezmek","doğa yürüyüşü","fotograf çekmek","piknik yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Ardys Tümülüsü","caption":"Ardys Tümülüsü","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Ardys Tümülüsü","caption":"Ardys Tümülüsü","credit":"Down by the sea - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ardys%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728382","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Manisa'nın Salihli ilçesinde bulunan Ardys Tümülüsü"
 keywords: ["Ardys Tümülüsü","Manisa","Salihli","Ege Bölgesi","tarih","tümülüs","arkeoloji","gezi","turizm"]

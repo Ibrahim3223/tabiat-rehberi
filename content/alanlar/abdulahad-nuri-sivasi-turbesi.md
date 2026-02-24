@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezi","doğa yürüyüşü","plaj","yeme içme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Abdülahad Nuri Sivasi Türbesi","caption":"Abdülahad Nuri Sivasi Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Abdülahad Nuri Sivasi Türbesi","caption":"Abdülahad Nuri Sivasi Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abd%C3%BClahad%20Nuri%20Sivasi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391178","tip":"genel"}]
 description: "Eyüpsultan'da tarihi bir türbe ve plaj"
 keywords: ["Eyüpsultan","İstanbul","Marmara Bölgesi","tarih","plaj","türbe","gezi","seyahat"]

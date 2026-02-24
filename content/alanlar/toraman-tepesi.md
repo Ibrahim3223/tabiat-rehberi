@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara seyri","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Toraman Tepesi","caption":"Toraman Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Toraman Tepesi","caption":"Toraman Tepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toraman%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538103","tip":"genel"}]
 description: "Hatay'da yer alan Toraman Tepesi, coğrafi güzelliği ve tarihi geçmişiyle dikkat çekiyor"
 keywords: ["Toraman Tepesi","Hatay","Akdeniz Bölgesi","coğrafi güzellik","tarihi geçmişi","turizm","doğa","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg","alt":"Kırıkbakır Tepesi","caption":"Kırıkbakır Tepesi","credit":"The Landscape of Sıklık Gates.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Kırıkbakır Tepesi","caption":"Kırıkbakır Tepesi","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1kbak%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582137","tip":"genel"}]
 description: "Çorum'un tarihi ve doğal güzelliklerini keşfedin. Kırıkbakır Tepesi, Karadeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kırıkbakır Tepesi","Çorum","Karadeniz Bölgesi","doğal güzellik","tarih","gezi","turizm","çevre","iklim"]

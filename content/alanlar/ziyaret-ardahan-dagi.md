@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Ata_oca%C4%9F%C4%B1_k%C3%BClt%C3%BCr_ve_sanat_evi.jpg","alt":"Ziyaret (Ardahan Dağı) manzarası","credit":"Atabey seyhan","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg/960px-Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg","alt":"Ziyaret (Ardahan Dağı)","caption":"Ziyaret (Ardahan Dağı)","credit":"Antitaurus 06 04 1988 Pozantı Dağı bei Niğde","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20(Ardahan%20Da%C4%9F%C4%B1)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21211475","tip":"genel"}]
 description: "Kars'ta bulunan Ziyaret (Ardahan Dağı), 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"

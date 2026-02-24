@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Hacı Mehmet Ağa Camii Hamamı","caption":"Hacı Mehmet Ağa Camii Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Hacı Mehmet Ağa Camii Hamamı","caption":"Hacı Mehmet Ağa Camii Hamamı","credit":"Altinkum in the evening","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Mehmet%20A%C4%9Fa%20Camii%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738951","tip":"genel"}]
 description: "Keşan'da tarihi ve doğal güzelliklerin buluştuğu Hacı Mehmet Ağa Camii Hamamı, ziyaretçilerini bekliyor."
 keywords: ["Hacı Mehmet Ağa Camii Hamamı","Keşan","Edirne","Marmara Bölgesi","tarihi mekanlar","doğal güzellikler","gezi noktaları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["hamamın tarihi geçmişi","doğal güzellikleri","plajda dinlenme","yerel yemekleri deneme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Reyhan Paşa Hamamı","caption":"Reyhan Paşa Hamamı","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29_%28cropped%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29_%28cropped%29.jpg","alt":"Reyhan Paşa Hamamı","caption":"Reyhan Paşa Hamamı","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (1) (cropped)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Reyhan%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738820","tip":"genel"}]
 description: "Osmangazi, Bursa'da bulunan tarihi hamam ve plaj"
 keywords: ["Reyhan Paşa Hamamı","Osmangazi","Bursa","tarih","hamam","plaj","Marmara Bölgesi","turizm","gezi"]

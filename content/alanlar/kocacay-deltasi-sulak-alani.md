@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Kocaçay Deltası Sulak Alanı","caption":"Kocaçay Deltası Sulak Alanı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg.png","alt":"Kocaçay Deltası Sulak Alanı","caption":"Kocaçay Deltası Sulak Alanı","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks Regional Directorates","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%C3%A7ay%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229013","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Kocaçay Deltası Sulak Alanı"
 keywords: ["Kocaçay Deltası","Sulak Alan","İç Anadolu Bölgesi","Doğa","Çevre","Turizm","Ekosistem","Korunan Alan"]

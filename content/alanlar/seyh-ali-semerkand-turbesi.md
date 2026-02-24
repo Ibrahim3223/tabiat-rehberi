@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa yürüyüşü","Tarihçe araştırması","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Şeyh Ali Semerkandî Türbesi","caption":"Şeyh Ali Semerkandî Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/960px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg","alt":"Şeyh Ali Semerkandî Türbesi","caption":"Şeyh Ali Semerkandî Türbesi","credit":"Map of Greece, Archipelago and part of Anadoli; Louis Stanislas d'Arcy Delarochette 1791","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Ali%20Semerkand%C3%AE%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390671","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli bir incisi, Ankara'nın Çamlıdere ilçesinde bulunan Şeyh Ali Semerkandî Türbesi"
 keywords: ["Şeyh Ali Semerkandî","Türbe","Çamlıdere","Ankara","İç Anadolu Bölgesi","Tarih","Doğa","Türkiye"]

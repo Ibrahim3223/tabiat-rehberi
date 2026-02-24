@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografcılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_01.jpg","alt":"Kurukandil Tepesi","caption":"Kurukandil Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Detail_of_north_%28front%29_entrance._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_HABS_VA%2C42-CLOV.V%2C2A-7.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kurukandil Tepesi","caption":"Kurukandil Tepesi","credit":"Detail of north (front) entrance. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, HABS VA,42-CLOV.V,2A-7","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurukandil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385568","tip":"genel"}]
 description: "Kahramanmaraş'ta, Akdeniz Bölgesi'nde yer alan Kurukandil Tepesi, eşsiz doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Kurukandil Tepesi","Kahramanmaraş","Akdeniz Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

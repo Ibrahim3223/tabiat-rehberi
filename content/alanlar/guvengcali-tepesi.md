@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg","alt":"Güvenğçalı Tepesi","caption":"Güvenğçalı Tepesi","credit":"The Landscape of Sıklık Gate park Çorum.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Güvenğçalı Tepesi","caption":"Güvenğçalı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCven%C4%9F%C3%A7al%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34873582","tip":"genel"}]
 description: "Çorum'un gözde doğal güzelliklerinden biri olan Güvenğçalı Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Güvenğçalı Tepesi","Çorum","Karadeniz Bölgesi","doğa","turizm","tepe","gezilecek yerler"]

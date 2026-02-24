@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşleri","Fotoğrafçılık","Tarihi mekanları gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Hacı Dede Türbesi","caption":"Hacı Dede Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg/960px-Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg","alt":"Hacı Dede Türbesi","caption":"Hacı Dede Türbesi","credit":"Karaburun, İzmir, Turkey - panoramio (8)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391769","tip":"genel"}]
 description: "Kastamonu'nun tarihi ve doğal güzelliklerinin birleştiği Hacı Dede Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Kastamonu","Hacı Dede Türbesi","tarihi mekan","doğal güzellik","Karadeniz Bölgesi","turizm","gezi","tarihçe","coğrafya"]

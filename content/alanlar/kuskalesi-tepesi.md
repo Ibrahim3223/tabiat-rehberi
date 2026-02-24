@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","tarih kalıntıları gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kuşkalesi Tepesi","caption":"Kuşkalesi Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Kuşkalesi Tepesi","caption":"Kuşkalesi Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fkalesi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386366","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Kuşkalesi Tepesi, Kilis ilinin önemli doğal güzelliklerinden biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kuşkalesi Tepesi","Kilis","Güneydoğu Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]

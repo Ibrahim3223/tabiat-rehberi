@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","panoramik manzara izleme","yaban hayatı gözlemleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kalagoz Tepesi","caption":"Kalagoz Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Kalagoz Tepesi","caption":"Kalagoz Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalagoz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385644","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Kalagoz Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kalagoz Tepesi","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","yerel tarih"]

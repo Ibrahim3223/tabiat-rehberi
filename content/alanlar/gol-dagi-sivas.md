@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Göl Dağı","caption":"Göl Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg/960px-%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_1%29.jpg","alt":"Göl Dağı","caption":"Göl Dağı","credit":"\"Lost\" lakes , near Meigs Peak, Col. Lakes 9,500 feet above sea-level - DPLA - a574e1d02197947f5bd63dffe370dd0d (page 1)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6l%20Da%C4%9F%C4%B1%20(Sivas)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872372","tip":"genel"}]
 description: "Sivas'ta bulunan Göl Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Göl Dağı","Sivas","Dağ","Doğa","Yeşil Alan","Turizm","Sivas Turistik Yerler","Göl Dağı Sivas","Doğal Güzellikler"]

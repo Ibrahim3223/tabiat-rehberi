@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denize girme","Güneşlenme","Su sporları","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Cık Cık Hamamı","caption":"Cık Cık Hamamı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_19.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_19.jpg","alt":"Cık Cık Hamamı","caption":"Cık Cık Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 19","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/C%C4%B1k%20C%C4%B1k%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738643","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde yer alan Cık Cık Hamamı, Marmara Bölgesi'nin önemli plajlarından biridir."
 keywords: ["Cık Cık Hamamı","Bursa","Osmangazi","Marmara Bölgesi","plaj","deniz","turizm"]

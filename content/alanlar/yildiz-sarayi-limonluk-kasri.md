@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Sarayı gezmek","Limonluk Kasrı'nı ziyaret etmek","Sarayın tarihi atmosferini soluyarak geçmişe yolculuk yapmak","Sarayın bulunduğu tepeye çıkarak İstanbul'un manzarasını izlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Yıldız Sarayı Limonluk Kasrı","caption":"Yıldız Sarayı Limonluk Kasrı","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2023-11-19_A_view_from_Ufakdere_Port_Beach.jpg/960px-2023-11-19_A_view_from_Ufakdere_Port_Beach.jpg","alt":"Yıldız Sarayı Limonluk Kasrı","caption":"Yıldız Sarayı Limonluk Kasrı","credit":"2023-11-19 A view from Ufakdere Port Beach","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Limonluk%20Kasr%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133683985","tip":"genel"}]
 description: "Beşiktaş'ta bulunan tarihi bir yapı olan Yıldız Sarayı Limonluk Kasrı, Marmara Bölgesi'nin önemli noktalarından biri."
 keywords: ["Yıldız Sarayı","Limonluk Kasrı","Beşiktaş","Marmara Bölgesi","tarihi yapı","İstanbul","gezi","turizm"]

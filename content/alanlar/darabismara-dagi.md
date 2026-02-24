@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Darabismara Dağı","caption":"Darabismara Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg/960px-Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg","alt":"Darabismara Dağı","caption":"Darabismara Dağı","credit":"Aladağlara Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Darabismara%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556457","tip":"genel"}]
 description: "Mardin'de yer alan Darabismara Dağı, 1200 hektarlık yeşil cenneti ile ziyaretçilerini bekliyor. Doğal güzellikleri keşfedin!"
 keywords: ["Darabismara Dağı","Mardin","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Mardin Gezilecek Yerler","Doğal Güzellikler"]

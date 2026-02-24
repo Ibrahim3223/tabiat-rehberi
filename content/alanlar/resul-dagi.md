@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Resul Dağı","caption":"Resul Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/E%C5%9Fenler_Da%C4%9F%C4%B1_12_09_1983_s%C3%BCdlich_des_Su%C4%9Flasees.jpg/960px-E%C5%9Fenler_Da%C4%9F%C4%B1_12_09_1983_s%C3%BCdlich_des_Su%C4%9Flasees.jpg","alt":"Resul Dağı","caption":"Resul Dağı","credit":"Eşenler Dağı 12 09 1983 südlich des Suğlasees","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Resul%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385502","tip":"genel"}]
 description: "Van'da bulunan Resul Dağı, doğa severlerin ziyaret ettiği bir dağdır. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Resul Dağı","Van","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Van Gezilecek Yerler"]

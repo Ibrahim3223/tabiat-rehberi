@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MOKFC07.jpg/960px-MOKFC07.jpg","alt":"Izmir-Bergama-Poyracıkızılçam 3","caption":"Izmir-Bergama-Poyracıkızılçam 3","credit":"MOKFC07.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg","alt":"Izmir-Bergama-Poyracıkızılçam 3","caption":"Izmir-Bergama-Poyracıkızılçam 3","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Bergama-Poyrac%C4%B1k%20K%C4%B1z%C4%B1l%C3%A7am%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227891","tip":"genel"}]
 description: "İzmir'in Bergama ilçesinde bulunan İzmir-Bergama-Poyracıkızılçam 3 milli parkı, Ege Bölgesi'nin doğal güzelliklerini sunar."
 keywords: ["İzmir","Bergama","Poyracık","Kızılçam","milli park","Ege Bölgesi","doğa","gezi","turizm"]

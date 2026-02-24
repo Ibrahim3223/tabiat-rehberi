@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["gezi","tarih öğrenimi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Anonim Türbe-3, Altındağ","caption":"Anonim Türbe-3, Altındağ","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg/960px-Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg","alt":"Anonim Türbe-3, Altındağ","caption":"Anonim Türbe-3, Altındağ","credit":"Panoramic view from hotel room in Rhodes island, Trianta, Greece","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20T%C3%BCrbe-3%2C%20Alt%C4%B1nda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582362","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Ankara","Altındağ","Anonim Türbe-3","tarih","doğa","gezi","turizm","kültür","miras"]

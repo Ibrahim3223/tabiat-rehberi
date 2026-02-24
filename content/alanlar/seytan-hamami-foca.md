@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg","alt":"Şeytan Hamamı, Foça","caption":"Şeytan Hamamı, Foça","credit":"Süzer Sun Dreams Beach 12 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arsuf_-_the_cavalry_dash_along_the_sea_coast_on_the_morning_of_the_19th_September_1918_Art.IWMART2511.jpg/960px-Arsuf_-_the_cavalry_dash_along_the_sea_coast_on_the_morning_of_the_19th_September_1918_Art.IWMART2511.jpg","alt":"Şeytan Hamamı, Foça","caption":"Şeytan Hamamı, Foça","credit":"Arsuf - the cavalry dash along the sea coast on the morning of the 19th September 1918 Art.IWMART2511","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeytan%20Hamam%C4%B1%2C%20Fo%C3%A7a","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728101","tip":"genel"}]
 description: "Foça'da yer alan Şeytan Hamamı, İzmir'in gizli cennetlerinden biri. Doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Foça","İzmir","Şeytan Hamamı","doğal güzellik","tarihi geçmişi","gezi","turizm","Ege Bölgesi"]

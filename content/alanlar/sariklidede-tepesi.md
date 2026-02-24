@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","çevre gezisi","tarihsel eserleri ziyaret","bitki ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Sarıklıdede Tepesi","caption":"Sarıklıdede Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/General_view_of_Fort_Hill_Farm%2C_view_looking_south-southeast._From_left_to_right%2C_buildings_visible_are_%28B%29_two-story_hall-and-parlor_house%3B_%28k%29_small_barn%3B_%28A%29_mansion%27_%28G%28_shed_HABS_VA%2C42-CLOV.V%2C2-1.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Sarıklıdede Tepesi","caption":"Sarıklıdede Tepesi","credit":"General view of Fort Hill Farm, view looking south-southeast. From left to right, buildings visible are (B) two-story hall-and-parlor house; (k) small barn; (A) mansion' (G( shed HABS VA,42-CLOV.V,2-1","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1kl%C4%B1dede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390370","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden Afyonkarahisar'da bulunan Sarıklıdede Tepesi, yaklaşık 140 hektarlık bir alanı kapsar ve ziyaretçilerini büyüleyen bir doğal güzelliğe sahiptir."
 keywords: ["Sarıklıdede Tepesi","Afyonkarahisar","Ege Bölgesi","doğal güzellik","turizm","gezi","yaban hayatı","çevre","iklim","coğrafya"]

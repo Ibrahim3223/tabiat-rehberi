@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Kısır Dağı (Ardahan)","caption":"Kısır Dağı (Ardahan)","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg/960px-Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg","alt":"Kısır Dağı (Ardahan)","caption":"Kısır Dağı (Ardahan)","credit":"Erciyes Dağı 05 04 1999","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1s%C4%B1r%20Da%C4%9F%C4%B1%20(Ardahan)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6028654","tip":"genel"}]
 description: "Ardahan'da yer alan Kısır Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kısır Dağı","Ardahan","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Ardahan Turistik Yerler","Doğal Güzellikler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Küçüktavşan Adası","caption":"Küçüktavşan Adası","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rabbit_Island_%28G%C3%BCm%C3%BCsl%C3%BCk%2C_Turkey%29.jpg/960px-Rabbit_Island_%28G%C3%BCm%C3%BCsl%C3%BCk%2C_Turkey%29.jpg","alt":"Küçüktavşan Adası","caption":"Küçüktavşan Adası","credit":"Rabbit Island (Gümüslük, Turkey)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCktav%C5%9Fan%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6454222","tip":"genel"}]
 description: "Muğla'da bulunan Küçüktavşan Adası, doğal güzellikleri ve sakin atmosferi ile ziyaretçilerini bekliyor."
 keywords: ["Küçüktavşan Adası","Muğla","ada","deniz","doğa","gezi","tatil","seyahat","turizm"]

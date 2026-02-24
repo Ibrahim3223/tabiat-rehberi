@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["su sporları","doğa yürüyüşleri","tarih gezileri","plaj aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ayazma Hamamı","caption":"Ayazma Hamamı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-19_Ufakdere_Port_Beach_1.jpg/960px-2023-11-19_Ufakdere_Port_Beach_1.jpg","alt":"Ayazma Hamamı","caption":"Ayazma Hamamı","credit":"2023-11-19 Ufakdere Port Beach 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayazma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20470940","tip":"genel"}]
 description: "Üsküdar'ın tarihi ve doğal güzellikleri arasında yer alan Ayazma Hamamı, Marmara Bölgesi'nde bulunan özel bir yer."
 keywords: ["Ayazma Hamamı","Üsküdar","Marmara Bölgesi","tarih","doğa","gezi"," İstanbul","plaj"]

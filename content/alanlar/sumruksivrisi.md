@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Sümrüksivrisi","caption":"Sümrüksivrisi","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TRABZON_YAYLASI_VE_%C4%B0BADET.jpg/960px-TRABZON_YAYLASI_VE_%C4%B0BADET.jpg","alt":"Sümrüksivrisi","caption":"Sümrüksivrisi","credit":"TRABZON YAYLASI VE İBADET","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCmr%C3%BCksivrisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811273","tip":"genel"}]
 description: "Yozgat'ta bulunan Sümrüksivrisi, doğa severlerin ziyaret ettiği bir dağdır. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Sümrüksivrisi","Yozgat","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Yozgat Turistik Yerler","Doğa Sporları"]

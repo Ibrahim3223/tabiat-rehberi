@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarihi yapıları gezme","konaklama"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Atatürk Orman Çiftliği Hamamı","caption":"Atatürk Orman Çiftliği Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/A_beach_near_Phaselis_2021-02-26-3.jpg/960px-A_beach_near_Phaselis_2021-02-26-3.jpg","alt":"Atatürk Orman Çiftliği Hamamı","caption":"Atatürk Orman Çiftliği Hamamı","credit":"A beach near Phaselis 2021-02-26-3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atat%C3%BCrk%20Orman%20%C3%87iftli%C4%9Fi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738838","tip":"genel"}]
 description: "Atatürk Orman Çiftliği Hamamı, İç Anadolu Bölgesi'nde yer alan bir doğa harikası"
 keywords: ["Atatürk Orman Çiftliği","Hamamı","İç Anadolu Bölgesi","doğa","gezi","yazlık","kamp"]

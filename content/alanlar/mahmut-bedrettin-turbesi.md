@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Yeşil alan gezintisi","Historik yapı inceleme","Kültür ve tarih öğrenimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Mahmut Bedrettin Türbesi","caption":"Mahmut Bedrettin Türbesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg/960px-Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg","alt":"Mahmut Bedrettin Türbesi","caption":"Mahmut Bedrettin Türbesi","credit":"Cool waters of the turquoise blue Aegean Sea - Ayvalık - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahmut%20Bedrettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391089","tip":"genel"}]
 description: "İstanbul'un tarihi semtlerinden biri olan Fatih'te yer alan Mahmut Bedrettin Türbesi, şehrin zengin tarihsel mirasını yansıtan önemli bir eser."
 keywords: ["Mahmut Bedrettin Türbesi","Fatih","İstanbul","tarihi eser","türbe","Marmara Bölgesi","kültürel miras","İstanbul'un tarihi","Fatih semti"]

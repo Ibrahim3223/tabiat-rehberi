@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Milanovac_--_2022_--_0257.jpg/960px-Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Milanovac_--_2022_--_0257.jpg","alt":"Seyir Mağarası","caption":"Seyir Mağarası","credit":"Lika-Senj (HR), Plitvicer Seen, Milanovac -- 2022 -- 0257","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/GeologicTimeScale-WikiLeadImage-tr.svg/960px-GeologicTimeScale-WikiLeadImage-tr.svg.png","alt":"Seyir Mağarası","caption":"Seyir Mağarası","credit":"GeologicTimeScale-WikiLeadImage-tr","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyir%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319754","tip":"genel"}]
 description: "Batman'da yer alan Seyir Mağarası, 1200 hektarlık bir alana yayılmış jeoparktur. Doğal güzelliği ve tarihi önemiyle dikkat çeker."
 keywords: ["Seyir Mağarası","Batman","Jeopark","Doğal Alan","Turizm","Mağara","Jeolojik Özellikler","Doğa Seyirliği","Batman Turistik Yerler"]

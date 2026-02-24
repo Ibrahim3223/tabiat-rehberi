@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Söğütözü Krateri","caption":"Söğütözü Krateri","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salda_G%C3%B6l%C3%BC_09-1991.jpg/960px-Salda_G%C3%B6l%C3%BC_09-1991.jpg","alt":"Söğütözü Krateri","caption":"Söğütözü Krateri","credit":"Salda Gölü 09-1991","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%B6%C4%9F%C3%BCt%C3%B6z%C3%BC%20Krateri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573859","tip":"genel"}]
 description: "Mardin'in Derik ilçesinde bulunan Söğütözü Krateri, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzelliği ve coğrafi özellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Söğütözü Krateri","Mardin","Derik","Doğa","Krater","Turizm","Coğrafya","Yeşil Alan","Gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Gyursi Dağı","caption":"Gyursi Dağı","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Gyursi Dağı","caption":"Gyursi Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gyursi%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539941","tip":"genel"}]
 description: "Türkiye'de bulunan Gyursi Dağı, doğa severlerin keşfetmeyi bekleyen bir hazine. Dağcılık ve trekking için ideal bir destinasyon."
 keywords: ["Gyursi Dağı","Türkiye dağları","Dağcılık","Trekking","Doğa turizmi","Türkiye'nin dağları","Gyursi Dağı trekking","Dağcılık rotaları","Doğa yürüyüşü"]

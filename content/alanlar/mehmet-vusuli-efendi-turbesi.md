@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Yeşil alanlarda dinlenmek","Çevreyi keşfetmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Mehmet Vusuli Efendi Türbesi","caption":"Mehmet Vusuli Efendi Türbesi","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Istanbul_beaches-_Sea_of_Marmara_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_08.jpg","alt":"Mehmet Vusuli Efendi Türbesi","caption":"Mehmet Vusuli Efendi Türbesi","credit":"Istanbul beaches- Sea of Marmara 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehmet%20Vusuli%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391055","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerinin birleştiği noktalardan biri olan Mehmet Vusuli Efendi Türbesi, Marmara Bölgesi'nde Eyüpsultan'da yer alır."
 keywords: ["Mehmet Vusuli Efendi Türbesi","Eyüpsultan","İstanbul","Marmara Bölgesi","tarih","doğa","türbe"]

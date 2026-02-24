@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Buz Mağarası (Halaç, Doğubayazıt)","caption":"Buz Mağarası (Halaç, Doğubayazıt)","credit":"Aydıncık Cave","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Yedide%C4%9Firmenler_Nature_Park.jpg/960px-Yedide%C4%9Firmenler_Nature_Park.jpg","alt":"Buz Mağarası (Halaç, Doğubayazıt)","caption":"Buz Mağarası (Halaç, Doğubayazıt)","credit":"Yedideğirmenler Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buz%20Ma%C4%9Faras%C4%B1%20(Hala%C3%A7%2C%20Do%C4%9Fubayaz%C4%B1t)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Ağrı'nın Doğubayazıt ilçesinde bulunan Buz Mağarası, 1200 metre yükseklikte yer alan bir magara"
 keywords: ["Buz Mağarası","Halaç","Doğubayazıt","Ağrı","Magara","Doğal Alan","Turizm","Gezi","Mağara"]

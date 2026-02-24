@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Black_and_white_Paris_landscape.jpg/960px-Black_and_white_Paris_landscape.jpg","alt":"Polonezköy Tabiat Parkı","caption":"Polonezköy Tabiat Parkı","credit":"Black and white Paris landscape.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ulug%C3%B6l_Nature_Park-_Ordu.jpg/960px-Ulug%C3%B6l_Nature_Park-_Ordu.jpg","alt":"Polonezköy Tabiat Parkı","caption":"Polonezköy Tabiat Parkı","credit":"Ulugöl Nature Park- Ordu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%BCrkiye'deki%20tabiat%20parklar%C4%B1%20listesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "İstanbul'un doğal güzelliklerini keşfedin. Polonezköy Tabiat Parkı, Marmara Bölgesi'nin en önemli doğal alanlarından biri."
 keywords: ["Polonezköy","Tabiat Parkı","İstanbul","Marmara Bölgesi","doğa","gezi","turizm"]

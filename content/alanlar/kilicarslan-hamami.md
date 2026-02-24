@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","dinlenme","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Kılıçarslan Hamamı","caption":"Kılıçarslan Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_08.jpg","alt":"Kılıçarslan Hamamı","caption":"Kılıçarslan Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1%C3%A7arslan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739238","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, Afyonkarahisar'da bulunan Kılıçarslan Hamamı"
 keywords: ["Kılıçarslan Hamamı","Sinanpaşa","Afyonkarahisar","Ege Bölgesi","doğal alan","gezi","turizm","plaj","tatil"]

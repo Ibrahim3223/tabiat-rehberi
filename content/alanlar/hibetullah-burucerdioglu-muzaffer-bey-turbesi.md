@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe öğrenme","mimari özellikleri inceleme","flora ve fauna çeşitliliği gözlemleme","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Hibetullah Burucerdioğlu Muzaffer Bey Türbesi","caption":"Hibetullah Burucerdioğlu Muzaffer Bey Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2023-11-19_A_view_from_Ufakdere_Port_Beach.jpg/960px-2023-11-19_A_view_from_Ufakdere_Port_Beach.jpg","alt":"Hibetullah Burucerdioğlu Muzaffer Bey Türbesi","caption":"Hibetullah Burucerdioğlu Muzaffer Bey Türbesi","credit":"2023-11-19 A view from Ufakdere Port Beach","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hibetullah%20Burucerdio%C4%9Flu%20Muzaffer%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582368","tip":"genel"}]
 description: "Sivas'ın merkezinde, tarihin izlerini taşıyan bir türbe. 14. yüzyılda yapılmış, Sivas'ın önemli dini yapılarından biri."
 keywords: ["Hibetullah Burucerdioğlu Muzaffer Bey Türbesi","Sivas","tarih","tarihi yapı","türbe","dini yapı","İç Anadolu Bölgesi","Sivas merkezinde","14. yüzyıl"]

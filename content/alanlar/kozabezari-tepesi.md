@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Manzara seyri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kozabezari Tepesi","caption":"Kozabezari Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Kozabezari Tepesi","caption":"Kozabezari Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kozabezari%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386812","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Kozabezari Tepesi, Batman'ın doğal zenginliklerini sunuyor."
 keywords: ["Kozabezari Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya"]

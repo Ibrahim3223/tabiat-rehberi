@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih turu","manzara seyri","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Doblak Tepesi","caption":"Doblak Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Doblak Tepesi","caption":"Doblak Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Doblak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390668","tip":"genel"}]
 description: "Amasya'nın doğal güzelliklerini keşfedin, Doblak Tepesi'ni ziyaret edin ve bölgenin tarihi geçmişi hakkında bilgi edinin."
 keywords: ["Doblak Tepesi","Amasya","Karadeniz Bölgesi","doğal güzellikler","tarihçe","coğrafya","flora","fauna"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Türbe gezi","Plaj aktiviteleri","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Çaşnıgir Osman Ağa Türbesi","caption":"Çaşnıgir Osman Ağa Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_beaches-_Sea_of_Marmara_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_02.jpg","alt":"Çaşnıgir Osman Ağa Türbesi","caption":"Çaşnıgir Osman Ağa Türbesi","credit":"Istanbul beaches- Sea of Marmara 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87a%C5%9Fn%C4%B1gir%20Osman%20A%C4%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391168","tip":"genel"}]
 description: "Fatih, İstanbul'da tarihi bir figura ait türbe ve plaj"
 keywords: ["İstanbul","Fatih","tarih","türbe","plaj","Marmara Bölgesi","Osman Ağa","Çaşnıgir"]

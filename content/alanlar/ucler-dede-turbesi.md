@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Plajda güneşlenmek","Denize girmek","Türbeyi ziyaret etmek","Doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Üçler Dede Türbesi","caption":"Üçler Dede Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_10.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_10.jpg","alt":"Üçler Dede Türbesi","caption":"Üçler Dede Türbesi","credit":"استانبول ترکیه - ساحل دریای مرمره در شهر استانبول 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7ler%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134734789","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide yerlerinden biri olan Üçler Dede Türbesi, Edremit'te bulunan bir plaj."
 keywords: ["Üçler Dede Türbesi","Edremit","Balıkesir","Marmara Bölgesi","Plaj","Türbe","Doğa","Tarih"]

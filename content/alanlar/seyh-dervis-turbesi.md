@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","tarihi eserleri ziyaret","ekolojik aktiviteler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/ZEYN%C4%B0LER_KABR%C4%B0STANI_BURSA_-_panoramio_%281%29.jpg","alt":"Şeyh Derviş Türbesi manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg/960px-Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg","alt":"Şeyh Derviş Türbesi","caption":"Şeyh Derviş Türbesi","credit":"Karaburun, İzmir, Turkey - panoramio (8)","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Dervi%C5%9F%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391781","tip":"genel"}]
 description: "Yüreğir, Adana'da bulunan Şeyh Derviş Türbesi, ziyaretçilerini büyüleyen bir doğal güzellik"

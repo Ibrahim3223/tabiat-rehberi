@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Sinop-Ayancik-Kumluk Cinar 2","caption":"Sinop-Ayancik-Kumluk Cinar 2","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"Sinop-Ayancik-Kumluk Cinar 2","caption":"Sinop-Ayancik-Kumluk Cinar 2","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Ayancik-Kumluk%20Cinar%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227717","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzellikleri içinde yer alan Sinop-Ayancik-Kumluk Cinar 2, ziyaretçilerini bekliyor."
 keywords: ["Sinop","Ayancik","Kumluk Cinar 2","Karadeniz Bölgesi","doğal alanlar","milli parklar","turizm","gezi"]

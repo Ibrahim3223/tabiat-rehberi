@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Şah Ardic","caption":"Şah Ardic","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Akdag_pano.jpg/960px-Akdag_pano.jpg","alt":"Şah Ardic","caption":"Şah Ardic","credit":"Akdag pano","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eah%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227172","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Şah Ardic, ziyaretçiler için bir doğa cenneti."
 keywords: ["doğa","milli park","İç Anadolu Bölgesi","gezi","turizm","çevre","ekosistem","yaban hayatı","flora","fauna"]

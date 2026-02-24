@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg/960px-Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg","alt":"Madırga Mağaraları","caption":"Madırga Mağaraları","credit":"Korfu (GR), Kassiopi -- 2018 -- 1068","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Salome_marble%2C_Turkey.jpg/960px-Salome_marble%2C_Turkey.jpg","alt":"Madırga Mağaraları","caption":"Madırga Mağaraları","credit":"Salome marble, Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mad%C4%B1rga%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319420","tip":"genel"}]
 description: "Batman'da yer alan Madırga Mağaraları, jeolojik oluşumlarıyla dikkat çeken bir jeopark alanıdır. Doğal güzelliği ve tarihi önemiyle ziyaretçilerini bekliyor."
 keywords: ["Madırga Mağaraları","Batman","Jeopark","Doğal Alanlar","Mağara Gezisi","Jeolojik Oluşumlar","Turizm","Batman Turistik Yerler","Doğa Harikaları"]

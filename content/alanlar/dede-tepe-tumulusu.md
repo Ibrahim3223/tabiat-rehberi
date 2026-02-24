@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Dede Tepe Tümülüsü","caption":"Dede Tepe Tümülüsü","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg/960px-Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg","alt":"Dede Tepe Tümülüsü","caption":"Dede Tepe Tümülüsü","credit":"Karadouran village, Syria-Turkey boarderline, Kessab","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dede%20Tepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728306","tip":"genel"}]
 description: "Biga'nın tarihi zenginliklerini keşfedin"
 keywords: ["Dede Tepe","Tümülüs","Biga","Çanakkale","Marmara Bölgesi","Tarih","Arkeoloji","Doğa","Turizm"]

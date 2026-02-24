@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["denize girme","güneşlenme","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Yüzbaşı Şekip Efendi Şehitliği","caption":"Yüzbaşı Şekip Efendi Şehitliği","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg/960px-Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg","alt":"Yüzbaşı Şekip Efendi Şehitliği","caption":"Yüzbaşı Şekip Efendi Şehitliği","credit":"Cool waters of the turquoise blue Aegean Sea - Ayvalık - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCzba%C5%9F%C4%B1%20%C5%9Eekip%20Efendi%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728262","tip":"genel"}]
 description: "Ege Bölgesi'nin Kütahya iline bağlı Altıntaş'ta bulunan Yüzbaşı Şekip Efendi Şehitliği, tarihi bir plaj"
 keywords: ["Yüzbaşı Şekip Efendi Şehitliği","Altıntaş","Kütahya","Ege Bölgesi","tarihi plaj","deniz","kumsal","turizm","gezi"]

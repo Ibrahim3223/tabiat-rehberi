@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Amasya-Erbaaga-Catalan Sedir","caption":"Amasya-Erbaaga-Catalan Sedir","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"Amasya-Erbaaga-Catalan Sedir","caption":"Amasya-Erbaaga-Catalan Sedir","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Erbaaga-Catalan%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227595","tip":"genel"}]
 description: "Amasya'nın doğal güzelliklerini keşfedin, Erbaa ve Catalan Sedir milli parkı"
 keywords: ["Amasya","Erbaa","Catalan Sedir","milli park","doğa","gezi","turizm"]

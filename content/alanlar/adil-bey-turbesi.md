@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","doğa yürüyüşleri","fotografçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Adil Bey Türbesi","caption":"Adil Bey Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Adil Bey Türbesi","caption":"Adil Bey Türbesi","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adil%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391292","tip":"genel"}]
 description: "Kastamonu'nun tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Kastamonu","Adil Bey Türbesi","Karadeniz Bölgesi","tarihi mekanlar","doğa güzellikleri","gezi rehberi","turizm","kültür"]

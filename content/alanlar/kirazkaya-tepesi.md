@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kirazkaya Tepesi","caption":"Kirazkaya Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Kirazkaya Tepesi","caption":"Kirazkaya Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirazkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389749","tip":"genel"}]
 description: "Marmara Bölgesi'nin gözde mekanlarından Kirazkaya Tepesi, Kocaeli'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Kirazkaya Tepesi","Kocaeli","Marmara Bölgesi","doğal güzellik","tepe","gezi"]

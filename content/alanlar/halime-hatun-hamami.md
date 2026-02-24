@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yüzme","güneşlenme","doğa yürüyüşleri","balık avı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Halime Hatun Hamamı","caption":"Halime Hatun Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_07.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_07.jpg","alt":"Halime Hatun Hamamı","caption":"Halime Hatun Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 07","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halime%20Hatun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738670","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, Gölmarmara'da bulunan Halime Hatun Hamamı"
 keywords: ["Halime Hatun Hamamı","Gölmarmara","Manisa","Ege Bölgesi","plaj","doğa","gezi"]

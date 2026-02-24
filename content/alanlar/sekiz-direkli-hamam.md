@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","tarihî mekan ziyaretleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Sekiz Direkli Hamam","caption":"Sekiz Direkli Hamam","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mediterranean_Sea%28Alanya%29%D0%BC%D1%8B%D1%81_%D0%94%D0%B6%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B4%D0%B0_-_panoramio_%281%29.jpg/960px-Mediterranean_Sea%28Alanya%29%D0%BC%D1%8B%D1%81_%D0%94%D0%B6%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B4%D0%B0_-_panoramio_%281%29.jpg","alt":"Sekiz Direkli Hamam","caption":"Sekiz Direkli Hamam","credit":"Mediterranean Sea(Alanya)мыс Джильварда - panoramio (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sekiz%20Direkli%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738515","tip":"genel"}]
 description: "Trabzon'un Ortahisar ilçesinde yer alan Sekiz Direkli Hamam, Karadeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Sekiz Direkli Hamam","Ortahisar","Trabzon","Karadeniz Bölgesi","doğal alanlar","plaj","turizm"]

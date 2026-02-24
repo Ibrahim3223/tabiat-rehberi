@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Balikesir-Bandirma-Erdek Kestane","caption":"Balikesir-Bandirma-Erdek Kestane","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg","alt":"Balikesir-Bandirma-Erdek Kestane","caption":"Balikesir-Bandirma-Erdek Kestane","credit":"Gölcük Tabiat Parkı Bolu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Bandirma-Erdek%20Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227722","tip":"genel"}]
 description: "Balikesir-Bandirma-Erdek Kestane milli parkı, doğa severlerin ziyaret etmesi gereken bir destinasyon."
 keywords: ["milli park","doğa","kestane","Balikesir","Bandirma","Erdek","turizm","gezi","yaban hayatı"]

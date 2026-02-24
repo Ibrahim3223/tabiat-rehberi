@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","tarihi mekanları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Büyük Yatır Türbesi","caption":"Büyük Yatır Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fethiye_2.JPG/960px-Fethiye_2.JPG","alt":"Büyük Yatır Türbesi","caption":"Büyük Yatır Türbesi","credit":"Fethiye 2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Yat%C4%B1r%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390709","tip":"genel"}]
 description: "Bolu'nun tarihi ve doğal güzelliklerini keşfedin. Büyük Yatır Türbesi, Karadeniz Bölgesi'nin önemli mekanlarından biri"
 keywords: ["Büyük Yatır Türbesi","Bolu","Karadeniz Bölgesi","tarihi mekanlar","doğal güzellikler","gezi noktaları","turizm","kültür"]

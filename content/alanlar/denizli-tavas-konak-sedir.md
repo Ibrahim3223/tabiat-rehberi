@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","bitki","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Denizli-Tavas-Konak Sedir","caption":"Denizli-Tavas-Konak Sedir","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg/960px-Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Denizli-Tavas-Konak Sedir","caption":"Denizli-Tavas-Konak Sedir","credit":"Kayabaşı Tabiat Parkı - 360° Panorama","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Tavas-Konak%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227210","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin. Denizli-Tavas-Konak Sedir milli parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Denizli","Tavas","Konak Sedir","milli park","Ege Bölgesi","doğal güzellik","yeşil alan","turizm"]

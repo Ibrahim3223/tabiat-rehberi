@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Horoz Dağı","caption":"Horoz Dağı","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg/960px-%22yaz%C4%B1%22dan_ko%C3%A7a%C5%9F_ba%C4%9Flar%C4%B1_ve_hac%C4%B1baba_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Horoz Dağı","caption":"Horoz Dağı","credit":"\"yazı\"dan koçaş bağları ve hacıbaba dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Horoz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520514","tip":"genel"}]
 description: "Kayseri'nin önemli dağlarından biri olan Horoz Dağı, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Horoz Dağı","Kayseri","Dağ","Doğa","Turizm","Gezi","Kayseri Turistik Yerler","Dağcılık","Kayseri Doğal Alanlar"]

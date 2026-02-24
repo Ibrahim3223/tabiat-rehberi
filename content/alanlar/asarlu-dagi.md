@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Asarlu Dağı","caption":"Asarlu Dağı","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Asarlu Dağı","caption":"Asarlu Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Asarlu%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531714","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin, Asarlu Dağı'nın heybetli manzaraları ve yürüyüş rotaları sizi bekliyor."
 keywords: ["Asarlu Dağı","Konya","Dağ","Doğa","Yürüyüş Rotaları","Konya Turizm","Asarlu Dağı Gezi","Konya Doğal Alanlar","Turizm"]

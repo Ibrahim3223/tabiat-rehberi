@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["müze gezisi","sanat çalışması","flora ve fauna keşfi","gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Medusa Cam Eserler Müzesi","caption":"Medusa Cam Eserler Müzesi","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mystic_mountain.jpg/960px-Mystic_mountain.jpg","alt":"Medusa Cam Eserler Müzesi","caption":"Medusa Cam Eserler Müzesi","credit":"Mystic mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Medusa%20Cam%20Eserler%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6010620","tip":"genel"}]
 description: "Gaziantep'te yer alan Medusa Cam Eserler Müzesi, cam sanatının önemli merkezlerinden biri"
 keywords: ["cam eserler","Gaziantep","müze","sanat","Güneydoğu Anadolu Bölgesi","kültür","turizm","gezi","seyahat"]

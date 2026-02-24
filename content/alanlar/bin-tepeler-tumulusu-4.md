@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Bin Tepeler Tümülüsü 4","caption":"Bin Tepeler Tümülüsü 4","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Bin Tepeler Tümülüsü 4","caption":"Bin Tepeler Tümülüsü 4","credit":"Karaburun - panoramio (2)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728380","tip":"genel"}]
 description: "Manisa'nın Salihli ilçesinde yer alan Bin Tepeler Tümülüsü 4, tarihin derinliklerinde gizli bir hazine"
 keywords: ["Bin Tepeler","Tümülüs","Manisa","Salihli","tarih","arkeoloji","Ege Bölgesi","gezi","turizm"]

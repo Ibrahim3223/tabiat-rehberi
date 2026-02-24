@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kırmızıdağ","caption":"Kırmızıdağ","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_2315_Tufa_landscape_of_Goreme_%28Turkey%29.jpg/960px-00_2315_Tufa_landscape_of_Goreme_%28Turkey%29.jpg","alt":"Kırmızıdağ","caption":"Kırmızıdağ","credit":"00 2315 Tufa landscape of Goreme (Turkey)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548203","tip":"genel"}]
 description: "Siirt'te bulunan Kırmızıdağ, doğa severlerin ziyaret ettiği bir dağdır. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Kırmızıdağ","Siirt","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Doğa Sporları"]

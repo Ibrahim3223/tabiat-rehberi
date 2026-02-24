@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Kartüz Dağı","caption":"Kartüz Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/960px-Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","alt":"Kartüz Dağı","caption":"Kartüz Dağı","credit":"Dağ tepesinden Uzungöl görünümü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kart%C3%BCz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878312","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Kartüz Dağı, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kartüz Dağı","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezi Rehberi","Dağ Keşfi","Yeşil Alanlar","İstanbul Çevresi","Doğa Harikaları"]

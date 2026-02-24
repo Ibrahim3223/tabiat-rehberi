@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük ziyaret"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Kumsal gezintisi","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Geyikli Hamamı","caption":"Geyikli Hamamı","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Maden_Koyu_Beach_2021-11-13-6.jpg/960px-Maden_Koyu_Beach_2021-11-13-6.jpg","alt":"Geyikli Hamamı","caption":"Geyikli Hamamı","credit":"Maden Koyu Beach 2021-11-13-6","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geyikli%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738703","tip":"genel"}]
 description: "Ezine'nin doğal güzelliklerinin başında gelen Geyikli Hamamı, 140 hektarlık alanıyla ziyaretçilerini büyülüyor"
 keywords: ["Geyikli Hamamı","Ezine","doğal güzellik","plaj"," İç Anadolu Bölgesi","gezi","tatil","deniz","kumsal"]

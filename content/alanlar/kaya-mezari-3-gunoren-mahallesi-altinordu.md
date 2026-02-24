@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","güneşlenme","kumsalda yürüyüş","çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Kaya Mezarı 3 (Günören Mahallesi), Altınordu","caption":"Kaya Mezarı 3 (Günören Mahallesi), Altınordu","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg/960px-Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg","alt":"Kaya Mezarı 3 (Günören Mahallesi), Altınordu","caption":"Kaya Mezarı 3 (Günören Mahallesi), Altınordu","credit":"Karaburun, İzmir, Turkey - panoramio (8)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%203%20(G%C3%BCn%C3%B6ren%20Mahallesi)%2C%20Alt%C4%B1nordu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728216","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin en güzel plajlarından biri olan Kaya Mezarı 3, Altınordu'nun Günören Mahallesi'nde yer alıyor."
 keywords: ["Kaya Mezarı 3","Altınordu","Günören Mahallesi","Karadeniz Bölgesi","plaj","deniz","kumsal","turizm"]

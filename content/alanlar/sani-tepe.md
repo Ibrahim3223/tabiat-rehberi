@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Şani Tepe","caption":"Şani Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kessab30.jpg","alt":"Şani Tepe","caption":"Şani Tepe","credit":"Kessab30","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eani%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554005","tip":"genel"}]
 description: "Batman'da yer alan Şani Tepe, 1200 metre yüksekliğiyle dikkat çeker. Doğal güzellikleri ve trekking rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Şani Tepe","Batman","Dağ","Doğa","Trekking","Turizm","Gezi","Yürüyüş","Doğal Güzellik"]

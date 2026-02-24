@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Huruz Tepe","caption":"Huruz Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/E%C5%9Fenler_Da%C4%9F%C4%B1_12_09_1983_s%C3%BCdlich_des_Su%C4%9Flasees.jpg/960px-E%C5%9Fenler_Da%C4%9F%C4%B1_12_09_1983_s%C3%BCdlich_des_Su%C4%9Flasees.jpg","alt":"Huruz Tepe","caption":"Huruz Tepe","credit":"Eşenler Dağı 12 09 1983 südlich des Suğlasees","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Huruz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554625","tip":"genel"}]
 description: "Mardin'de bulunan Huruz Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çeker."
 keywords: ["Huruz Tepe","Mardin","Dağ","Doğa","Tarih","Turizm","Gezi","Mardin Gezilecek Yerler","Dağ Turizmi"]

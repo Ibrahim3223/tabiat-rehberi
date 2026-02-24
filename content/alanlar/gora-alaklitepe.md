@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Gora Alaklıtepe","caption":"Gora Alaklıtepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Gora Alaklıtepe","caption":"Gora Alaklıtepe","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Alakl%C4%B1tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385371","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Gora Alaklıtepe","İç Anadolu Bölgesi","doğa","tepe","gezi","türkiye"]

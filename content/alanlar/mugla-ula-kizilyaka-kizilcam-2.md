@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Marmaris_National_Park.jpg/960px-Marmaris_National_Park.jpg","alt":"Mugla-Ula-Kizilyaka Kızılçam 2","caption":"Mugla-Ula-Kizilyaka Kızılçam 2","credit":"Marmaris National Park.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg","alt":"Mugla-Ula-Kizilyaka Kızılçam 2","caption":"Mugla-Ula-Kizilyaka Kızılçam 2","credit":"Gölcük Tabiat Parkı Nilüferler","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Ula-Kizilyaka%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227913","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerinin bir arada olduğu milli park"
 keywords: ["Mugla","Ula","Kizilyaka","Kızılçam","milli park","Ege Bölgesi","doğa","turizm"]

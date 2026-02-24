@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe öğrenme","doğa yürüyüşü","fotoğraf çekme","yemek yeme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Fatih Ahmet Baba Türbesi","caption":"Fatih Ahmet Baba Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Fatih Ahmet Baba Türbesi","caption":"Fatih Ahmet Baba Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fatih%20Ahmet%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390802","tip":"genel"}]
 description: "Elazığ'ın tarihi ve kültürel zenginliklerini keşfedin. Fatih Ahmet Baba Türbesi'ni ziyaret edin."
 keywords: ["Elazığ","tarih","kültür","türbe","Fatih Ahmet Baba","Doğu Anadolu Bölgesi"]

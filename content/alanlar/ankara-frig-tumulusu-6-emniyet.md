@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları keşfetmek","Doğal güzellikleri görmek","Bitki ve hayvan gözlemciliği yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Ankara Frig Tümülüsü 6, Emniyet","caption":"Ankara Frig Tümülüsü 6, Emniyet","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg","alt":"Ankara Frig Tümülüsü 6, Emniyet","caption":"Ankara Frig Tümülüsü 6, Emniyet","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 16","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%206%2C%20Emniyet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728286","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. 140 hektarlık bir alan üzerinde kurulmuş bu önemli tümülüs, ziyaretçilerine zengin bir tarih ve doğa deneyimi sunuyor."
 keywords: ["Ankara","Frig","Tümülüs","Emniyet","Tarih","Doğa","Yenimahalle","İç Anadolu Bölgesi"]

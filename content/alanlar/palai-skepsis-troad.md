@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarihi yapıları incelemek","bölgenin güzelliklerini keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Palai Skepsis (Troad)","caption":"Palai Skepsis (Troad)","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg/960px-ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg","alt":"Palai Skepsis (Troad)","caption":"Palai Skepsis (Troad)","credit":"ISS-57 Aegean Sea with Turkish and Greek Coasts","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Palai%20Skepsis%20(Troad)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728426","tip":"genel"}]
 description: "Marmara Bölgesi'nin Çanakkale iline bağlı Bayramiç ilçesinde bulunan Palai Skepsis, tarihi ve doğal güzellikleri bir arada sunan özel bir mekan."
 keywords: ["Palai Skepsis","Troad","Çanakkale","Bayramiç","Marmara Bölgesi","tarih","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Damlacık Mağarası","caption":"Damlacık Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Geol_Anatolia-fr.jpg/960px-Geol_Anatolia-fr.jpg","alt":"Damlacık Mağarası","caption":"Damlacık Mağarası","credit":"Geol Anatolia-fr","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Damlac%C4%B1k%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319114","tip":"genel"}]
 description: "Şırnak'ta bulunan Damlacık Mağarası, jeopark olarak bilinen doğal bir harikadır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Damlacık Mağarası","Şırnak","Jeopark","Doğal Harika","Turistik Yerler","Mağara Gezisi","Şırnak Turizm","Jeolojik Oluşumlar","Doğa Harikaları"]

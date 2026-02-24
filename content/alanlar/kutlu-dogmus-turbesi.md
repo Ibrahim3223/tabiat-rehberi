@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Tarihi yapıları keşfetmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Kutlu Doğmuş Türbesi","caption":"Kutlu Doğmuş Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Maden_Koyu_Beach_2021-11-13-2.jpg/960px-Maden_Koyu_Beach_2021-11-13-2.jpg","alt":"Kutlu Doğmuş Türbesi","caption":"Kutlu Doğmuş Türbesi","credit":"Maden Koyu Beach 2021-11-13-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutlu%20Do%C4%9Fmu%C5%9F%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391326","tip":"genel"}]
 description: "Aybastı'nın tarihi ve doğal güzelliklerini keşfedin. Karadeniz Bölgesi'nin önemli noktalarından biri olan Kutlu Doğmuş Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Kutlu Doğmuş Türbesi","Aybastı","Ordu","Karadeniz Bölgesi","tarihi mekanlar","doğa","turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Kastamonu-Cide-Sehdag Dogu Kayini","caption":"Kastamonu-Cide-Sehdag Dogu Kayini","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/De%C4%9Firmenbo%C4%9Faz%C4%B1_Tabiat_Park%C4%B1.jpg/960px-De%C4%9Firmenbo%C4%9Faz%C4%B1_Tabiat_Park%C4%B1.jpg","alt":"Kastamonu-Cide-Sehdag Dogu Kayini","caption":"Kastamonu-Cide-Sehdag Dogu Kayini","credit":"Değirmenboğazı Tabiat Parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Cide-Sehdag%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227794","tip":"genel"}]
 description: "Kastamonu ilinin doğal güzelliklerini keşfedin. 140 hektarlık milli parkta yer alan Sehdag Dogu Kayini, ziyaretçilerini bekliyor."
 keywords: ["Kastamonu","Cide","Sehdag Dogu Kayini","milli park","doğa","gezi","turizm","Kastamonu ilinin doğal güzellikleri"]

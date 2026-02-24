@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Şeyhseyit Tepesi","caption":"Şeyhseyit Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Şeyhseyit Tepesi","caption":"Şeyhseyit Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhseyit%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582418","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide illerinden Siirt'te yer alan Şeyhseyit Tepesi, 140 hektarlık geniş bir alana sahiptir. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar."
 keywords: ["Şeyhseyit Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

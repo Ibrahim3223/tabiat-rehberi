@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotografı","Manzara izleme","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Nogay Tepesi","caption":"Nogay Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Nogay Tepesi","caption":"Nogay Tepesi","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nogay%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558324","tip":"genel"}]
 description: "Ankara'nın gözde doğal alanı Nogay Tepesi, İç Anadolu Bölgesi'nin güzide yerlerinden biri."
 keywords: ["Nogay Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","yerel","coğrafya"]

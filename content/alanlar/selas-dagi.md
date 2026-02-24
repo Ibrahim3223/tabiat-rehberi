@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Şelaş Dağı","caption":"Şelaş Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ta%C5%9Feli-Plateau_12_08_1999_Y%C3%BC%C4%9Fl%C3%BCk_Da%C4%9F%C4%B1_zwischen_Ta%C5%9Fkale_und_K%C4%B1robas%C4%B1.jpg/960px-Ta%C5%9Feli-Plateau_12_08_1999_Y%C3%BC%C4%9Fl%C3%BCk_Da%C4%9F%C4%B1_zwischen_Ta%C5%9Fkale_und_K%C4%B1robas%C4%B1.jpg","alt":"Şelaş Dağı","caption":"Şelaş Dağı","credit":"Taşeli-Plateau 12 08 1999 Yüğlük Dağı zwischen Taşkale und Kırobası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eela%C5%9F%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31507091","tip":"genel"}]
 description: "Türkiye'nin görkemli dağlarından biri olan Şelaş Dağı, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Şelaş Dağı","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezilecek Yerler","Doğal Alanlar","Yeşil Cennet","İstanbul","Türkiye"]

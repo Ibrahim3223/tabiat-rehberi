@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["denize girme","güneşlenme","su sporları","tarihî yerleri gezi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Abdülfettah Veli Türbesi","caption":"Abdülfettah Veli Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Abdülfettah Veli Türbesi","caption":"Abdülfettah Veli Türbesi","credit":"Karaburun - panoramio (2)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abd%C3%BClfettah%20Veli%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582712","tip":"genel"}]
 description: "Kastamonu'da yer alan tarihi türbe ve plaj"
 keywords: ["Abdülfettah Veli Türbesi","Kastamonu","Karadeniz Bölgesi","tarih","coğrafya","flora","fauna","ziyaret","plaj"]

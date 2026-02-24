@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih keşfi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kızlar Sarayı Hamamı","caption":"Kızlar Sarayı Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Kızlar Sarayı Hamamı","caption":"Kızlar Sarayı Hamamı","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1zlar%20Saray%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738864","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzelliklerinin buluştuğu nokta"
 keywords: ["Amasya","Kızlar Sarayı Hamamı","Karadeniz Bölgesi","tarih","doğa","gezi","turizm"]

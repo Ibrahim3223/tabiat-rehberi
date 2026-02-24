@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["fotoğraf çekmek","tarihî araştırma","doğa yürüyüşü","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Sofular Türbesi","caption":"Sofular Türbesi","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg","alt":"Sofular Türbesi","caption":"Sofular Türbesi","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sofular%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391336","tip":"genel"}]
 description: "Merzifon'un tarihi ve doğal güzellikleri ile ön plana çıkan Sofular Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Merzifon","Sofular Türbesi","tarih","doğa","gezi","türbe","Merzifon gezisi","İç Anadolu Bölgesi","turizm"]

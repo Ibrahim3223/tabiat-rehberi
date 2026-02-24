@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Tarih gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Avlanmaz Tepe","caption":"Avlanmaz Tepe","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Avlanmaz Tepe","caption":"Avlanmaz Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avlanmaz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388651","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, Avlanmaz Tepe'nin büyüleyici manzarası ve tarihi geçmişiyle"
 keywords: ["Avlanmaz Tepe","Muğla","Ege Bölgesi","doğa","tepe","gezi","tarih","coğrafya"]

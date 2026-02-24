@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Fotoğraf çekme","Doğa"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"İkizce Tepesi","caption":"İkizce Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"İkizce Tepesi","caption":"İkizce Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0kizce%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388013","tip":"genel"}]
 description: "Uşak'ta bulunan İkizce Tepesi, Ege Bölgesi'nin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["İkizce Tepesi","Uşak","Ege Bölgesi","doğal güzellik","tepeler","coğrafya","flora","fauna","ziyaret"]

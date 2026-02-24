@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Ardeayşe Tepesi","caption":"Ardeayşe Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/General_view_of_Fort_Hill_Farm%2C_view_looking_south-southeast._From_left_to_right%2C_buildings_visible_are_%28B%29_two-story_hall-and-parlor_house%3B_%28k%29_small_barn%3B_%28A%29_mansion%27_%28G%28_shed_HABS_VA%2C42-CLOV.V%2C2-1.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Ardeayşe Tepesi","caption":"Ardeayşe Tepesi","credit":"General view of Fort Hill Farm, view looking south-southeast. From left to right, buildings visible are (B) two-story hall-and-parlor house; (k) small barn; (A) mansion' (G( shed HABS VA,42-CLOV.V,2-1","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ardeay%C5%9Fe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550569","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerini bir arada sunan Ardeayşe Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Ardeayşe Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","tepe","manzara","turizm"]

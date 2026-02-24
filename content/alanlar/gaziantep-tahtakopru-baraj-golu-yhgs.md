@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Gaziantep Tahtaköprü Baraj Gölü YHGS","caption":"Gaziantep Tahtaköprü Baraj Gölü YHGS","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Gaziantep Tahtaköprü Baraj Gölü YHGS","caption":"Gaziantep Tahtaköprü Baraj Gölü YHGS","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gaziantep%20Tahtak%C3%B6pr%C3%BC%20Baraj%20G%C3%B6l%C3%BC%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228377","tip":"genel"}]
 description: "Gaziantep Tahtaköprü Baraj Gölü YHGS, İç Anadolu Bölgesi'nde yer alan doğal bir alan"
 keywords: ["Gaziantep","Tahtaköprü Baraj Gölü","YHGS","İç Anadolu Bölgesi","doğal alan","baraj gölü","yaban hayatı"]

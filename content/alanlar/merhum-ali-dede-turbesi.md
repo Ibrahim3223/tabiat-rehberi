@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Plaj activities","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg","alt":"Merhum Ali Dede Türbesi","caption":"Merhum Ali Dede Türbesi","credit":"Harbiş Sahili, Karataş - Adana 01","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg","alt":"Merhum Ali Dede Türbesi","caption":"Merhum Ali Dede Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Merhum%20Ali%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391784","tip":"genel"}]
 description: "Adana'nın tarihi ve doğal güzelliklerini bir arada sunan Merhum Ali Dede Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Merhum Ali Dede Türbesi","Adana","Seyhan","Akdeniz Bölgesi","tarihi mekanlar","doğal güzellikler","turistik yerler","plajlar","türk kültürü"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Diyaradengız Tepesi","caption":"Diyaradengız Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Diyaradengız Tepesi","caption":"Diyaradengız Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diyaradeng%C4%B1z%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31544842","tip":"genel"}]
 description: "Güneydoğu Anadolu'nun gizli hazinevi, Batman'ın görkemli tepesi"
 keywords: ["Diyaradengız Tepesi","Batman","Güneydoğu Anadolu","tepe","doğa","gezi","tarih","coğrafya","flora","fauna"]

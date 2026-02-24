@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğraf çekimi","Bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Çifte Hüyük","caption":"Çifte Hüyük","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Çifte Hüyük","caption":"Çifte Hüyük","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ifte%20H%C3%BCy%C3%BCk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829083","tip":"genel"}]
 description: "Hatay ilinde yer alan tarihi ve doğal güzellikleri ile dikkat çeken Çifte Hüyük, ziyaretçilerini bekliyor."
 keywords: ["Çifte Hüyük","Hatay","Akdeniz Bölgesi","Tarih","Doğa","Gezi","Türkiye","Kültür"]

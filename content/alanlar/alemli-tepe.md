@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Alemli Tepe","caption":"Alemli Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Alemli Tepe","caption":"Alemli Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alemli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388776","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Alemli Tepe, ziyaretçilerini tarihi ve doğal zenginlikleriyle karşılar."
 keywords: ["Alemli Tepe","İç Anadolu Bölgesi","doğal güzellikler","tarihi mekanlar","gezi noktaları","tepe","coğrafya","flora","fauna","ziyaret"]

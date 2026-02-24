@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Köse Dağı","caption":"Köse Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Aksaray_1998_01.jpg/960px-Aksaray_1998_01.jpg","alt":"Köse Dağı","caption":"Köse Dağı","credit":"Aksaray 1998 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6se%20Da%C4%9F%C4%B1%20(Manisa)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042782","tip":"genel"}]
 description: "Manisa'nın görkemli dağlarından biri olan Köse Dağı, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Köse Dağı","Manisa","Dağ","Doğa","Yeşil Alan","Trekking","Manisa Turizm","Köse Dağı Manisa","Dağcılık"]

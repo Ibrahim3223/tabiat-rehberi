@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük gezi"
 aktiviteler: ["Denizde yüzme","Kumda güneşlenme","Çevreyi keşfetme","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg","alt":"Kadıoğlu Hamamı","caption":"Kadıoğlu Hamamı","credit":"Süzer Sun Dreams Beach 8 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Kadıoğlu Hamamı","caption":"Kadıoğlu Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kad%C4%B1o%C4%9Flu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739002","tip":"genel"}]
 description: "İzmir'in Kemalpaşa ilçesinde yer alan Kadıoğlu Hamamı, Ege Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Kadıoğlu Hamamı","Kemalpaşa","İzmir","Ege Bölgesi","doğal güzellik","plaj","deniz","tatil","gezi"]

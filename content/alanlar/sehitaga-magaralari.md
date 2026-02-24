@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Şehitağa Mağaraları","caption":"Şehitağa Mağaraları","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/45/2020_February_23_0553_Iran-Turkey_border_region_earthquake_intensity.jpg","alt":"Şehitağa Mağaraları","caption":"Şehitağa Mağaraları","credit":"2020 February 23 0553 Iran-Turkey border region earthquake intensity","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehita%C4%9Fa%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319939","tip":"genel"}]
 description: "Şırnak'ta yer alan Şehitağa Mağaraları, 1200 hektarlık bir jeopark alanı sunar. Doğal güzellikleri keşfedin."
 keywords: ["Şehitağa Mağaraları","Şırnak","Jeopark","Doğa","Mağara","Turizm","Şırnak Turistik Yerler","Jeolojik Alanlar","Doğal Anıtlar"]

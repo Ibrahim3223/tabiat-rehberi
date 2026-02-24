@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi kale kalıntılarını gezme","doğal güzelliği izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Alanya Kalesi Sit Alanı","caption":"Alanya Kalesi Sit Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MOKFC01.jpg/960px-MOKFC01.jpg","alt":"Alanya Kalesi Sit Alanı","caption":"Alanya Kalesi Sit Alanı","credit":"MOKFC01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alanya%20Kalesi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226656","tip":"genel"}]
 description: "Tarihi geçmişi ve doğal güzelliği ile dikkat çeken Alanya Kalesi Sit Alanı, ziyaretçilerini bekliyor."
 keywords: ["Alanya Kalesi","Sit Alanı","tarihi","doğal güzellik","gezi","turizm","kültür","çevre","ekoloji"]

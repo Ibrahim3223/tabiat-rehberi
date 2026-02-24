@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","tarihi eserleri ziyaret","flora ve fauna"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Adapazari-Akyazi-Dokurcun Mese 1","caption":"Adapazari-Akyazi-Dokurcun Mese 1","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Adapazari-Akyazi-Dokurcun Mese 1","caption":"Adapazari-Akyazi-Dokurcun Mese 1","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Akyazi-Dokurcun%20Mese%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227275","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzellikleri ve tarihi geçmişi"
 keywords: ["İç Anadolu Bölgesi","doğal alanlar","tarihi geçmişi","milli parklar","coğrafya","flora","fauna","ziyaret"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihçe keşfi","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Eshebe Tepesi","caption":"Eshebe Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Eshebe Tepesi","caption":"Eshebe Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eshebe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31545189","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve coğrafi güzelliğini keşfedin. Eshebe Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Eshebe Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","coğrafya","tarihçe","doğa","turizm","gezilecek yerler","tepe"]

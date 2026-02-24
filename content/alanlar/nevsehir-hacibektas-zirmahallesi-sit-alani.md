@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nature_of_Cappadocia.jpg/960px-Nature_of_Cappadocia.jpg","alt":"Nevsehir-Hacibektas-ZirMahallesi Sit Alanı","caption":"Nevsehir-Hacibektas-ZirMahallesi Sit Alanı","credit":"Nature of Cappadocia.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg","alt":"Nevsehir-Hacibektas-ZirMahallesi Sit Alanı","caption":"Nevsehir-Hacibektas-ZirMahallesi Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5515332844)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nevsehir-Hacibektas-ZirMahallesi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226221","tip":"genel"}]
 description: "Nevşehir'de yer alan doğal ve tarihi sit alanı, ziyaretçilerini bekliyor."
 keywords: ["Nevşehir","Hacibektas","ZirMahallesi","Sit Alanı","Doğa","Tarih","Kültür"]

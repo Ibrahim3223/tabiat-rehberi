@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"Bakırlıdağı Tepe","caption":"Bakırlıdağı Tepe","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Bakırlıdağı Tepe","caption":"Bakırlıdağı Tepe","credit":"Sis dağı (3)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bak%C4%B1rl%C4%B1da%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31530876","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin, Bakırlıdağı Tepe'nin büyüleyici manzaralarına hayran kalın."
 keywords: ["Bakırlıdağı Tepe","Antalya","Dağ","Doğa","Manzara","Turizm","Gezi","Seyahat","Antalya Turistik Yerler"]

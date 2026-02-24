@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","şelaleleri görmek","ormanlık alanda gezmek","bölgenin fauna ve florasını keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kursunlu_Waterfall_Nature_Park%2C_Antalya.jpg/960px-Kursunlu_Waterfall_Nature_Park%2C_Antalya.jpg","alt":"Salma Şelaleleri","caption":"Salma Şelaleleri","credit":"Kursunlu Waterfall Nature Park, Antalya","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%9CZELDERE_WATERFALL_NATURE_PARK%2C_G%C3%B6lyaka%2C_D%C3%BCzce%2C_Turkey_-_Murat_%C3%96zsoy_02.jpg/960px-G%C3%9CZELDERE_WATERFALL_NATURE_PARK%2C_G%C3%B6lyaka%2C_D%C3%BCzce%2C_Turkey_-_Murat_%C3%96zsoy_02.jpg","alt":"Salma Şelaleleri","caption":"Salma Şelaleleri","credit":"GÜZELDERE WATERFALL NATURE PARK, Gölyaka, Düzce, Turkey - Murat Özsoy 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Salma%20%C5%9Eelaleleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97212552","tip":"genel"}]
 description: "Rize'nin doğal güzellikleri arasında yer alan Salma Şelaleleri, ziyaretçilerini etkileyen bir doğa harikası"
 keywords: ["Salma Şelaleleri","Rize","Karadeniz Bölgesi","doğa harikaları","turistik yerler","şelaleler","gezi noktaları","Rize'nin güzellikleri"]

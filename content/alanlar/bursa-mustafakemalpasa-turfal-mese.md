@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Bursa-Mustafakemalpaşa-Turfal Mese","caption":"Bursa-Mustafakemalpaşa-Turfal Mese","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"Bursa-Mustafakemalpaşa-Turfal Mese","caption":"Bursa-Mustafakemalpaşa-Turfal Mese","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Turfal%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227703","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli doğal alanlarından biri olan Bursa-Mustafakemalpaşa-Turfal Mese, ziyaretçilerini bekliyor."
 keywords: ["Bursa","Marmara Bölgesi","doğal alan","milli park","turizm","çevre","ekoloji","yaban hayatı","gezi","ziyaret"]

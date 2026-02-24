@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Acısu Dağı","caption":"Acısu Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Acısu Dağı","caption":"Acısu Dağı","credit":"Gelincik Dagi Manzara","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ac%C4%B1su%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572216","tip":"genel"}]
 description: "Kastamonu'da bulunan Acısu Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile dikkat çekiyor"
 keywords: ["Acısu Dağı","Kastamonu","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Kastamonu Turistik Yerler","Dağcılık"]

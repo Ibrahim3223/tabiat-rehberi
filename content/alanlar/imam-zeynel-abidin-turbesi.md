@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresi hakkında bilgi edinmek","Flora ve fauna hakkında bilgi almak","Bölgenin coğrafi özelliklerini tanımak","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"İmam Zeynel Abidin Türbesi","caption":"İmam Zeynel Abidin Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg","alt":"İmam Zeynel Abidin Türbesi","caption":"İmam Zeynel Abidin Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 13","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mam%20Zeynel%20Abidin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391674","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren İmam Zeynel Abidin Türbesi, Battalgazi/Malatya'da ziyaretçilerini bekliyor."
 keywords: ["İmam Zeynel Abidin","Türbe","Battalgazi","Malatya","Doğu Anadolu Bölgesi","Tarih","Doğal güzellik","Turizm","Kültür"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Yaban hayatı gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"İslibucak","caption":"İslibucak","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg/960px-Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg","alt":"İslibucak","caption":"İslibucak","credit":"Melchior de Hondecoeter (1636-1695) - A Cock and Turkey Fighting, in a Park Setting, with Other Fowl - 453773 - National Trust","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0slibucak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228127","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleriyle dolu bir alanı olan İslibucak, ziyaretçilerini bekliyor."
 keywords: ["İslibucak","İç Anadolu Bölgesi","doğa","gezi","milli park","çevre","flora","fauna"]

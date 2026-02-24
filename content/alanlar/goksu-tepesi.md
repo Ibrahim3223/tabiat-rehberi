@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Göksu Tepesi","caption":"Göksu Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Göksu Tepesi","caption":"Göksu Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6ksu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32223526","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin en güzel manzaralarından birini sunan Göksu Tepesi, Erzurum'un önemli doğal alanlarından biri."
 keywords: ["Göksu Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal alan","tepe","manzara"]

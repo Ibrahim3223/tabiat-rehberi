@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğraf Çekimi","Tarihi Yerleri Ziyaret","Çevre Gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"İncir Hamamı ve Çeşmesi","caption":"İncir Hamamı ve Çeşmesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg/960px-Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg","alt":"İncir Hamamı ve Çeşmesi","caption":"İncir Hamamı ve Çeşmesi","credit":"Giresun, Merkez, Sahilde. 9 Şubat 2020","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ncir%20Hamam%C4%B1%20ve%20%C3%87e%C5%9Fmesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738769","tip":"genel"}]
 description: "Burdur'un Bucak ilçesinde yer alan İncir Hamamı ve Çeşmesi, tarihi ve doğal güzelliklerin bir arada olduğu özel bir mekan."
 keywords: ["Burdur","Bucak","İncir Hamamı","Çeşme","Tarih","Doğa","Turizm","Gezi","Mekan"]

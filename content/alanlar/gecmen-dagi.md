@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/960px-Kursunlu_Waterfall_Autumn.jpg","alt":"Geçmen Dağı","caption":"Geçmen Dağı","credit":"Kursunlu Waterfall Autumn.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_at_sunset%2C_December_2020.jpg/960px-A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1_at_sunset%2C_December_2020.jpg","alt":"Geçmen Dağı","caption":"Geçmen Dağı","credit":"Ağrı Dağı at sunset, December 2020","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ge%C3%A7men%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34916126","tip":"genel"}]
 description: "Antalya'da bulunan Geçmen Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi. Dağcılık ve trekking için ideal."
 keywords: ["Geçmen Dağı","Antalya","Dağcılık","Trekking","Doğa","Yeşil Alan","Turizm","Gezi","Macera"]

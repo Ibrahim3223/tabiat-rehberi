@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Nar Adası","caption":"Nar Adası","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Princes%27_Islands_104.JPG/960px-Princes%27_Islands_104.JPG","alt":"Nar Adası","caption":"Nar Adası","credit":"Princes' Islands 104","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nar%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49661781","tip":"genel"}]
 description: "Muğla'da bulunan Nar Adası, doğanın güzelliğini keşfedin. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Nar Adası","Muğla","ada","doğa","yeşil cennet","gezi","seyahat","turizm","Muğla turizm"]

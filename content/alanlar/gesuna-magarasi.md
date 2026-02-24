@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lower_Antelope_Canyon_November_2018_017.jpg/960px-Lower_Antelope_Canyon_November_2018_017.jpg","alt":"Gesuna Mağarası","caption":"Gesuna Mağarası","credit":"Lower Antelope Canyon November 2018 017","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/97/March_2010_Turkey_earthquake_intensity_USGS.jpg","alt":"Gesuna Mağarası","caption":"Gesuna Mağarası","credit":"March 2010 Turkey earthquake intensity USGS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gesuna%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319176","tip":"genel"}]
 description: "Batman'da yer alan Gesuna Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Gesuna Mağarası","Batman","Jeopark","Doğa","Mağara","Turizm","Gezi","Doğal Alanlar","Türkiye"]

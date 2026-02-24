@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Kahramanmaras-Kilis-Islahiye Kızılçam","caption":"Kahramanmaras-Kilis-Islahiye Kızılçam","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"Kahramanmaras-Kilis-Islahiye Kızılçam","caption":"Kahramanmaras-Kilis-Islahiye Kızılçam","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Kilis-Islahiye%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227908","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşillendirilmiş bir köşesi olan Kahramanmaras-Kilis-Islahiye Kızılçam Milli Parkı, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["Kahramanmaras-Kilis-Islahiye Kızılçam","Milli Park","İç Anadolu Bölgesi","Doğa","Yeşil Alan","Kızılçam","Turizm","Gezi","Ziyaret"]

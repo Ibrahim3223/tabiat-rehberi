@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Erzincan_Refahiye.jpg","alt":"Kızıl Dağ (Karaman) manzarası","credit":"Salihsertbas","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mehmetali_k%C3%B6y%C3%BC_yak%C4%B1nlar%C4%B1ndan_sumakl%C4%B1k_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg/960px-Mehmetali_k%C3%B6y%C3%BC_yak%C4%B1nlar%C4%B1ndan_sumakl%C4%B1k_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Kızıl Dağ (Karaman)","caption":"Kızıl Dağ (Karaman)","credit":"Mehmetali köyü yakınlarından sumaklık ve eşşek dağı - panoramio","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%20Da%C4%9F%20(Karaman)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31585717","tip":"genel"}]
 description: "Karaman'da bulunan Kızıl Dağ, bölgenin önemli coğrafi oluşumlarından biri. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."

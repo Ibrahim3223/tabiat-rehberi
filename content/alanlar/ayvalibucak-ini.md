@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Ayvalıbucak İni","caption":"Ayvalıbucak İni","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sugar_Creek_Turkey_Run_SP%2C_IN_1.jpg/960px-Sugar_Creek_Turkey_Run_SP%2C_IN_1.jpg","alt":"Ayvalıbucak İni","caption":"Ayvalıbucak İni","credit":"Sugar Creek Turkey Run SP, IN 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayval%C4%B1bucak%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319043","tip":"genel"}]
 description: "Mersin'de yer alan Ayvalıbucak İni, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Ayvalıbucak İni","Mersin Jeopark","Doğal Alanlar","Mersin Turizm","Jeopark","Turistik Yerler","Mersin Gezi","Doğa Sporları","Mersin Doğal Güzellikleri"]

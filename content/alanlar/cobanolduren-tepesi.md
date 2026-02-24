@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çobanöldüren Tepesi","caption":"Çobanöldüren Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Çobanöldüren Tepesi","caption":"Çobanöldüren Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87oban%C3%B6ld%C3%BCren%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819568","tip":"genel"}]
 description: "Ankara'nın göbeğinde yer alan Çobanöldüren Tepesi, şehrin kalbinde bir doğa harikası"
 keywords: ["Ankara","Çobanöldüren Tepesi","doğa","gezi","turizm","şehir merkezi","tepe","manzara","yürüyüş"]

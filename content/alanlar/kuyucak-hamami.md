@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Yüzme","Güneşlenme","Doğa Yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg","alt":"Kuyucak Hamamı","caption":"Kuyucak Hamamı","credit":"Kayaözü Creek Valley, Kahramanmaraş 05.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Maden_Koyu_Beach_2021-11-13-4.jpg/960px-Maden_Koyu_Beach_2021-11-13-4.jpg","alt":"Kuyucak Hamamı","caption":"Kuyucak Hamamı","credit":"Maden Koyu Beach 2021-11-13-4","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyucak%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739133","tip":"genel"}]
 description: "Kahramanmaraş'ın Dulkadiroğlu ilçesinde yer alan Kuyucak Hamamı, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Kuyucak Hamamı","Kahramanmaraş","Dulkadiroğlu","Akdeniz Bölgesi","doğal güzellik","plaj","deniz"]

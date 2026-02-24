@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/S%C3%BCzer_Sun_Dreams_Beach_22_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_22_-_panoramio.jpg","alt":"Bozdağ Hamamı","caption":"Bozdağ Hamamı","credit":"Süzer Sun Dreams Beach 22 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg","alt":"Bozdağ Hamamı","caption":"Bozdağ Hamamı","credit":"2023-11-04 Choban beach near Kaş 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozda%C4%9F%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739020","tip":"genel"}]
 description: "Ödemiş'in gizli cenneti, Ege Bölgesi'nin en güzel plajlarından biri"
 keywords: ["Ödemiş","Ege Bölgesi","plaj","deniz","doğa","gezi","tatil","turizm","İzmir"]

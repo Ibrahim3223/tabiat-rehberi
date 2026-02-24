@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Zonguldak Maden Müzesi","caption":"Zonguldak Maden Müzesi","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mystic_mountain.jpg/960px-Mystic_mountain.jpg","alt":"Zonguldak Maden Müzesi","caption":"Zonguldak Maden Müzesi","credit":"Mystic mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak%20Maden%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118958363","tip":"genel"}]
 description: "Karadeniz Bölgesi'ndeki Zonguldak ilinde yer alan Zonguldak Maden Müzesi, madencilik tarihini ve bölgenin doğal zenginliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Zonguldak","Maden Müzesi","Karadeniz Bölgesi","madencilik","tarih","doğa","müze","gezi","turizm"]

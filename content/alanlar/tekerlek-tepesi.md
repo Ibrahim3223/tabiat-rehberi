@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Tekerlek Tepesi","caption":"Tekerlek Tepesi","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/South_room_first_floor._View_looking_south._East_porch_visible_through_window._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_HABS_VA%2C42-CLOV.V%2C2A-14.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Tekerlek Tepesi","caption":"Tekerlek Tepesi","credit":"South room first floor. View looking south. East porch visible through window. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, HABS VA,42-CLOV.V,2A-14","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekerlek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390935","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin. Tekerlek Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biridir."
 keywords: ["Kayseri","İç Anadolu Bölgesi","Tekerlek Tepesi","doğa","gezi","turizm","tepe","manzara"]

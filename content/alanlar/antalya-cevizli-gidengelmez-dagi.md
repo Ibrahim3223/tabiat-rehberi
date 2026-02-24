@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","yaban hayatı gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snow_on_the_Lake_Abant.jpg/960px-Snow_on_the_Lake_Abant.jpg","alt":"Antalya-Cevizli Gidengelmez Dagi","caption":"Antalya-Cevizli Gidengelmez Dagi","credit":"Snow on the Lake Abant","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Antalya-Cevizli Gidengelmez Dagi","caption":"Antalya-Cevizli Gidengelmez Dagi","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Cevizli%20Gidengelmez%20Dagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227074","tip":"genel"}]
 description: "Antalya'nın güzide milli parklarından biri olan Cevizli Gidengelmez Dağı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["milli park","Antalya","Cevizli Gidengelmez Dağı","doğa","turizm","gezi","yaban hayatı","ekosistem"]

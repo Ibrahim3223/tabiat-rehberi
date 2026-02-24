@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "en az iki saat"
 aktiviteler: ["tarihi yapıları gezmek","yeşil alanlarda dinlenmek","kültür merkezlerini keşfetmek","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Oğlanlar Tekkesi Türbesi","caption":"Oğlanlar Tekkesi Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gulf_of_Kastellorizon.jpg/960px-Gulf_of_Kastellorizon.jpg","alt":"Oğlanlar Tekkesi Türbesi","caption":"Oğlanlar Tekkesi Türbesi","credit":"Gulf of Kastellorizon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/O%C4%9Flanlar%20Tekkesi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391463","tip":"genel"}]
 description: "Fatih'in tarihi mekanlarından Oğlanlar Tekkesi Türbesi, İstanbul'un Marmara Bölgesi'nde yer alır."
 keywords: ["Oğlanlar Tekkesi Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarihi mekanlar","türk kültürü","gezi rehberi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Süveğen Dağı","caption":"Süveğen Dağı","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"Süveğen Dağı","caption":"Süveğen Dağı","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCve%C4%9Fen%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811378","tip":"genel"}]
 description: "Kayseri'nin görkemli dağlarından biri olan Süveğen Dağı, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Süveğen Dağı","Kayseri","Dağ","Doğa","Turizm","Gezi","Trekking","Kayseri Turistik Yerler","Dağcılık"]

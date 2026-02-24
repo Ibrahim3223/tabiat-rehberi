@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cracking_The_Glass_%28124289325%29.jpeg/960px-Cracking_The_Glass_%28124289325%29.jpeg","alt":"Eşek Adası","caption":"Eşek Adası","credit":"Cracking The Glass (124289325).jpeg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Istanbul_and_Bosporus_big.jpg/960px-Istanbul_and_Bosporus_big.jpg","alt":"Eşek Adası","caption":"Eşek Adası","credit":"Istanbul and Bosporus big","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Fek%20Adas%C4%B1%20(%C4%B0stanbul)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49637771","tip":"genel"}]
 description: "İstanbul'da bulunan Eşek Adası, 1200 hektarlık yeşil alanı ile şehrin doğal güzelliklerini keşfedin."
 keywords: ["Eşek Adası","İstanbul Adaları","Doğal Alanlar","Yeşil Alanlar","İstanbul Turizm","Ada Gezileri","İstanbul Doğal Güzellikleri","Turistik Yerler","İstanbul Gezi Rehberi"]

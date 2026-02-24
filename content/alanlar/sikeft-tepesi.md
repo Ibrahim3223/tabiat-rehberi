@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","doğa yürüyüşü","fotografcılık","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Sikeft Tepesi","caption":"Sikeft Tepesi","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Sikeft Tepesi","caption":"Sikeft Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sikeft%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31542573","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerini keşfedin. Sikeft Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Diyarbakır","Sikeft Tepesi","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]

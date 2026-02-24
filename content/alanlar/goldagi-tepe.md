@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","İki tekerlekli araç turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Göldağı Tepe","caption":"Göldağı Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Göldağı Tepe","caption":"Göldağı Tepe","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lda%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138453","tip":"genel"}]
 description: "Bilecik'in doğal güzellikleri arasında yer alan Göldağı Tepe, Marmara Bölgesi'nin önemli coğrafi oluşumlarından biridir. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Göldağı Tepe","Bilecik","Marmara Bölgesi","doğal güzellik","coğrafi oluşum","yeşil alan"]

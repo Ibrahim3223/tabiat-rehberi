@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük gezi"
 aktiviteler: ["doğa yürüyüşü","piknik","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Adana-Feke-Bahcecik Sedir","caption":"Adana-Feke-Bahcecik Sedir","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Adana-Feke-Bahcecik Sedir","caption":"Adana-Feke-Bahcecik Sedir","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Feke-Bahcecik%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227199","tip":"genel"}]
 description: "Adana'nın Feke ilçesindeki Bahcecik Sedir ormanları, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Adana","Feke","Bahcecik Sedir","orman","yeşil alan","doğa","gezi","turizm","Akdeniz Bölgesi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları gezmek","doğa yürüyüşleri","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Kaya Halil Kümbeti","caption":"Kaya Halil Kümbeti","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Altincamp_20140729_Sunset.jpg/960px-Altincamp_20140729_Sunset.jpg","alt":"Kaya Halil Kümbeti","caption":"Kaya Halil Kümbeti","credit":"Altincamp 20140729 Sunset","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Halil%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582376","tip":"genel"}]
 description: "Karaman'ın tarihi ve doğal güzelliklerinin birleştiği Kaya Halil Kümbeti, ziyaretçilerini bekliyor."
 keywords: ["Kaya Halil Kümbeti","Karaman","İç Anadolu Bölgesi","tarihi mekan","doğa","gezi","turizm","kültür"]

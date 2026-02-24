@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["Hamamın keyfini çıkarmak","Plajda dinlenmek","Denizde yüzme","Çevre gezileri yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Tahta Minare Hamamı","caption":"Tahta Minare Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BOAT-Turkey_-_panoramio.jpg/960px-BOAT-Turkey_-_panoramio.jpg","alt":"Tahta Minare Hamamı","caption":"Tahta Minare Hamamı","credit":"BOAT-Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahta%20Minare%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738559","tip":"genel"}]
 description: "Fatih, İstanbul'da yer alan tarihi hamam ve plaj"
 keywords: ["Tahta Minare Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarihi hamam","plaj"]

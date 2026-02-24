@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kutahya-Dumlupinar Karacam","caption":"Kutahya-Dumlupinar Karacam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Kutahya-Dumlupinar Karacam","caption":"Kutahya-Dumlupinar Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Dumlupinar%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227684","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["milli park","İç Anadolu Bölgesi","Kutahya","Dumlupinar","Karacam","doğa","yeşil alan","flora","fauna"]

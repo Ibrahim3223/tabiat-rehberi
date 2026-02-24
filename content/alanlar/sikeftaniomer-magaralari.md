@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Şikeftaniömer Mağaraları","caption":"Şikeftaniömer Mağaraları","credit":"A Geological Wonder in Nallıhan","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/09/2023-02-06_Central_Turkey_M6.7_earthquake_shakemap_%28USGS%29.jpg","alt":"Şikeftaniömer Mağaraları","caption":"Şikeftaniömer Mağaraları","credit":"2023-02-06 Central Turkey M6.7 earthquake shakemap (USGS)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eikeftani%C3%B6mer%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319945","tip":"genel"}]
 description: "Batman'da yer alan Şikeftaniömer Mağaraları, jeolojik oluşumlarıyla dikkat çeken bir jeopark alanıdır."
 keywords: ["Şikeftaniömer Mağaraları","Batman","Jeopark","Mağara","Jeolojik Oluşum","Doğa","Turizm","Gezi","Batman Turistik Yerler"]

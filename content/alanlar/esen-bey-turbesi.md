@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî yapı gezisi","flora ve fauna gözlemi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yelatan_Alada%C4%9Flar_Lake.jpg/960px-Yelatan_Alada%C4%9Flar_Lake.jpg","alt":"Esen Bey Türbesi","caption":"Esen Bey Türbesi","credit":"Yelatan Aladağlar Lake.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg","alt":"Esen Bey Türbesi","caption":"Esen Bey Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esen%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390476","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin. Esen Bey Türbesi, Niğde'nin önemli tarihi mekanlarından biri."
 keywords: ["Niğde","Esen Bey Türbesi","tarih","doğa","gezi","turizm","İç Anadolu Bölgesi","kültür","miras"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezi","doğa yürüyüşü","fotografcılık","dinî ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Şeyh Yusuf Reyhani Türbesi","caption":"Şeyh Yusuf Reyhani Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg","alt":"Şeyh Yusuf Reyhani Türbesi","caption":"Şeyh Yusuf Reyhani Türbesi","credit":"Harbiş Sahili, Karataş - Adana 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Yusuf%20Reyhani%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391640","tip":"genel"}]
 description: "Mersin'in tarihi ve doğal güzellikleri arasında yer alan Şeyh Yusuf Reyhani Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Mersin","tarihi mekanlar","doğal güzellikler","türk turizmi","Şeyh Yusuf Reyhani","türbe","Akdeniz Bölgesi","gezi rehberi","kültür mirası","doğa severler"]

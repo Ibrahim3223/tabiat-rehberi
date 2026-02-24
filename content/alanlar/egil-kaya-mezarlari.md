@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih öğrenme","doğa yürüyüşü","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Eğil Kaya Mezarları","caption":"Eğil Kaya Mezarları","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gerence_K%C3%B6rfezinden_-_panoramio.jpg/960px-Gerence_K%C3%B6rfezinden_-_panoramio.jpg","alt":"Eğil Kaya Mezarları","caption":"Eğil Kaya Mezarları","credit":"Gerence Körfezinden - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Fil%20Kaya%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728222","tip":"genel"}]
 description: "Diyarbakır'ın Eğilçesinde bulunan tarihi kaya mezarları, ziyaretçilerini geçmişe götürüyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Eğil Kaya Mezarları","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarihi kaya mezarları","gezi","tarih","coğrafya","doğa","flora","fauna"]

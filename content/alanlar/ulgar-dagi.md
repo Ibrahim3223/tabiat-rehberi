@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Ulgar Dağı","caption":"Ulgar Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Aksaray_1998_01.jpg/960px-Aksaray_1998_01.jpg","alt":"Ulgar Dağı","caption":"Ulgar Dağı","credit":"Aksaray 1998 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulgar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560568","tip":"genel"}]
 description: "Ardahan'da yer alan Ulgar Dağı, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Ulgar Dağı","Ardahan","Dağ","Trekking","Doğa","Turizm","Ardahan Turistik Yerler","Ulgar Dağı Trekking","Doğa Sporları"]

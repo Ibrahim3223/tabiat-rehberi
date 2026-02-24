@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg","alt":"Delihöbek Dağı","caption":"Delihöbek Dağı","credit":"Kayaözü Creek Valley, Kahramanmaraş 03.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PeakUludag.jpg/960px-PeakUludag.jpg","alt":"Delihöbek Dağı","caption":"Delihöbek Dağı","credit":"PeakUludag","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Delih%C3%B6bek%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49024215","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Delihöbek Dağı, doğa severlerin ziyaret ettiği önemli bir dağ"
 keywords: ["Delihöbek Dağı","Kahramanmaraş","Dağ","Doğa","Türkiye","Seyahat","Gezi","Trekking","Dağcılık","Kahramanmaraş Turizm"]

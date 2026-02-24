@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["Hamamın tarihi yapısını keşfetmek","Plajda güneşlenmek","Yeşil alanlarda yürüyüş yapmak","Bölgenin flora ve faunasınılemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Germiyanoğulları Tarihi Vakıflar Hamamı","caption":"Germiyanoğulları Tarihi Vakıflar Hamamı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/A_beach_near_Phaselis_2021-02-26-2.jpg/960px-A_beach_near_Phaselis_2021-02-26-2.jpg","alt":"Germiyanoğulları Tarihi Vakıflar Hamamı","caption":"Germiyanoğulları Tarihi Vakıflar Hamamı","credit":"A beach near Phaselis 2021-02-26-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Germiyano%C4%9Fullar%C4%B1%20Tarihi%20Vak%C4%B1flar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738484","tip":"genel"}]
 description: "Tarihi bir hamam ve plaj deneyimi için ideal bir destinasyon"
 keywords: ["Germiyanoğulları","Tarihi Vakıflar Hamamı","Merkezefendi","Denizli","Ege Bölgesi","tarihi hamam","plaj"]

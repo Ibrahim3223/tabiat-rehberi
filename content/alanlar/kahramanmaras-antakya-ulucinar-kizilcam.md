@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kahramanmaras-Antakya-Ulucinar Kızılçam","caption":"Kahramanmaras-Antakya-Ulucinar Kızılçam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Kahramanmaras-Antakya-Ulucinar Kızılçam","caption":"Kahramanmaras-Antakya-Ulucinar Kızılçam","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Antakya-Ulucinar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227428","tip":"genel"}]
 description: "Kahramanmaras-Antakya-Ulucinar Kızılçam milli parkı, doğa severlerin keşfetmek için harika bir yer."
 keywords: ["milli park","Kahramanmaras","Antakya","Ulucinar","Kızılçam","doğa","turizm","gezi","çevre"]

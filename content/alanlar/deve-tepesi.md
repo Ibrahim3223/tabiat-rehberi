@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara seyretme","tarih öğrenme","doğa keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Deve Tepesi","caption":"Deve Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/First_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-9.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Deve Tepesi","caption":"Deve Tepesi","credit":"First floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-9","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deve%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385873","tip":"genel"}]
 description: "Mersin'de, Akdeniz Bölgesi'nde yer alan Deve Tepesi, doğa severler için bir cennet."
 keywords: ["Deve Tepesi","Mersin","Akdeniz Bölgesi","doğa","tepeler","coğrafya","turizm","gezi","yerel","kültür"]

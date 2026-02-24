@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarih keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Holduca Tepesi","caption":"Holduca Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Holduca Tepesi","caption":"Holduca Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Holduca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389806","tip":"genel"}]
 description: "Çankırı'nın doğal güzellikleri arasında yer alan Holduca Tepesi, İç Anadolu Bölgesi'nin zengin coğrafyasını keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Çankırı","Holduca Tepesi","İç Anadolu Bölgesi","doğa","coğrafya","gezi","keşif"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kutahya-Simav-Korucuk Karacam","caption":"Kutahya-Simav-Korucuk Karacam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"Kutahya-Simav-Korucuk Karacam","caption":"Kutahya-Simav-Korucuk Karacam","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Simav-Korucuk%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227685","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["milli park","doğa","gezi","İç Anadolu Bölgesi","Kutahya","Simav","Korucuk Karacam"]

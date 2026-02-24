@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","kültürel faaliyetler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Cemalettin Efendi Türbesi","caption":"Cemalettin Efendi Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Istanbul_beaches-_Sea_of_Marmara_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_12.jpg","alt":"Cemalettin Efendi Türbesi","caption":"Cemalettin Efendi Türbesi","credit":"Istanbul beaches- Sea of Marmara 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cemalettin%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134734794","tip":"genel"}]
 description: "Kastamonu'nun tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Kastamonu","tarih","doğa","türbe","Karadeniz Bölgesi","gezi","turizm","kültür"]

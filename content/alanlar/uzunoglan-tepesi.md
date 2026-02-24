@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","çiçek toplama"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Uzunoğlan Tepesi","caption":"Uzunoğlan Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Uzunoğlan Tepesi","caption":"Uzunoğlan Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzuno%C4%9Flan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558107","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Uzunoğlan Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Ankara","İç Anadolu Bölgesi","Uzunoğlan Tepesi","yeşil alan","fiziksel veriler","coğrafya","tarihçe","doğa","gezi"]

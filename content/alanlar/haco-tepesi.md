@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%B6bekli_Tepe_-_landscape.jpg/960px-G%C3%B6bekli_Tepe_-_landscape.jpg","alt":"Haco Tepesi","caption":"Haco Tepesi","credit":"Göbekli Tepe - landscape.jpg","license":"CC BY 3.0 pl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Haco Tepesi","caption":"Haco Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haco%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385778","tip":"genel"}]
 description: "Şanlıurfa'nın tarihi ve doğal güzelliklerinin birleştiği Haco Tepesi, Güneydoğu Anadolu Bölgesi'nde yer alan bir tepe"
 keywords: ["Şanlıurfa","Güneydoğu Anadolu Bölgesi","Haco Tepesi","tarih","doğa","tepe","gezi","turizm"]

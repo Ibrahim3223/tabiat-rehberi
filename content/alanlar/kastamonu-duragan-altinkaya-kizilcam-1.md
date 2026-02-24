@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Kastamonu-Duragan-Altınkaya-Kızılcam 1","caption":"Kastamonu-Duragan-Altınkaya-Kızılcam 1","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg","alt":"Kastamonu-Duragan-Altınkaya-Kızılcam 1","caption":"Kastamonu-Duragan-Altınkaya-Kızılcam 1","credit":"Gölcük Tabiat Parkı Piknik Alanı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Duragan-Alt%C4%B1nkaya-K%C4%B1z%C4%B1lcam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228277","tip":"genel"}]
 description: "Kastamonu'nun doğal güzellikleri ve zengin tarihi ile tanınan milli parkı"
 keywords: ["Kastamonu","milli park","doğa","yaban hayatı","gezi","tarih"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi gezisi","plaj aktiviteleri","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hayrettin Hoca Türbesi","caption":"Hayrettin Hoca Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Hayrettin Hoca Türbesi","caption":"Hayrettin Hoca Türbesi","credit":"Mediterranean.^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hayrettin%20Hoca%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391726","tip":"genel"}]
 description: "Karesi, Balıkesir'de yer alan tarihi türbe ve plaj alanı"
 keywords: ["Hayrettin Hoca Türbesi","Karesi","Balıkesir","Marmara Bölgesi","tarih","plaj","turizm"]

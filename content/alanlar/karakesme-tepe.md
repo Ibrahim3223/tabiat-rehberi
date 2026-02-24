@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa keşfi","tarih hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Karakesme Tepe","caption":"Karakesme Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Karakesme Tepe","caption":"Karakesme Tepe","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakesme%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385700","tip":"genel"}]
 description: "Adana'da yer alan Karakesme Tepe, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir. Zengin fauna ve flora çeşitliliği ile dikkat çekmektedir."
 keywords: ["Karakesme Tepe","Adana","Akdeniz Bölgesi","doğa","flora","fauna"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Balık avı","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Tödürge Gölü Sulak Alanı","caption":"Tödürge Gölü Sulak Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG/960px-Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG","alt":"Tödürge Gölü Sulak Alanı","caption":"Tödürge Gölü Sulak Alanı","credit":"Prise de l'Hôtel de ville - le Pont d'Arcole","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%B6d%C3%BCrge%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228840","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Tödürge Gölü Sulak Alanı"
 keywords: ["Tödürge Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Turizm","Sulak Alanlar","Korunan Alanlar","Ekosistem","Çevre"]

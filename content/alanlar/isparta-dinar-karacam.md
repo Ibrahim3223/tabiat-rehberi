@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dipoyraz%2C_auch_Dedeg%C3%B6l_genannt%2C_2980_m.jpg/960px-Dipoyraz%2C_auch_Dedeg%C3%B6l_genannt%2C_2980_m.jpg","alt":"Isparta-Dinar Karacam","caption":"Isparta-Dinar Karacam","credit":"Dipoyraz, auch Dedegöl genannt, 2980 m.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg.png","alt":"Isparta-Dinar Karacam","caption":"Isparta-Dinar Karacam","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks Regional Directorates","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Dinar%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227945","tip":"genel"}]
 description: "Isparta'nın doğal güzelliklerini barındıran milli park"
 keywords: ["Isparta","Dinar","Karacam","milli park","doğa","turizm","Akdeniz Bölgesi","Isparta-Dinar Karacam"]

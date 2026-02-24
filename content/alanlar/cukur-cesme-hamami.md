@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Hamam gezisi","Plaj etkinlikleri","Doğa yürüyüşü","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Çukur Çeşme Hamamı","caption":"Çukur Çeşme Hamamı","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Çukur Çeşme Hamamı","caption":"Çukur Çeşme Hamamı","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ukur%20%C3%87e%C5%9Fme%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738814","tip":"genel"}]
 description: "Fatih/İstanbul'da bulunan tarihi hamam ve plaj"
 keywords: ["Çukur Çeşme Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarihi hamam","plaj","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi mekan ziyaretleri","doğa"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg/960px-N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg","alt":"Kelakızyarı Tepesi","caption":"Kelakızyarı Tepesi","credit":"Nêzîkî Qilwanê 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg/960px-Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg","alt":"Kelakızyarı Tepesi","caption":"Kelakızyarı Tepesi","credit":"Ida B Wells High School San Francisco January 2013 002","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelak%C4%B1zyar%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552087","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin birleştiği nokta, Güneydoğu Anadolu Bölgesi'nde yer alan Kelakızyarı Tepesi"
 keywords: ["Kelakızyarı Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarihi mekan","tepe","coğrafya","flora","fauna","ziyaret","gezilecek yer"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Tarih Gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Güneyinbüyüksivri Tepe","caption":"Güneyinbüyüksivri Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Güneyinbüyüksivri Tepe","caption":"Güneyinbüyüksivri Tepe","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCneyinb%C3%BCy%C3%BCksivri%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139413","tip":"genel"}]
 description: "Sivas'ta bulunan Güneyinbüyüksivri Tepe, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri."
 keywords: ["Sivas","İç Anadolu Bölgesi","Coğrafi Oluşumlar","Tarihçe","Doğa","Flora","Fauna","Ziyaret","Gezi"]

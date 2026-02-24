@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarih hakkında bilgi sahibi olmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Üçdede Tepesi","caption":"Üçdede Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ida_Flooding_%289%29.jpg/960px-Ida_Flooding_%289%29.jpg","alt":"Üçdede Tepesi","caption":"Üçdede Tepesi","credit":"Ida Flooding (9)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7dede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820487","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Üçdede Tepesi, doğal güzelliği ve tarihi geçmişi ile ziyaretçilerini bekliyor."
 keywords: ["Üçdede Tepesi","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara","çevre"]

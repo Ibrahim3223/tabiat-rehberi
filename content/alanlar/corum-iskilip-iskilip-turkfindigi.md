@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Rehberli tur"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Corum-İskilip-İskilip-Turkfindigi","caption":"Corum-İskilip-İskilip-Turkfindigi","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"Corum-İskilip-İskilip-Turkfindigi","caption":"Corum-İskilip-İskilip-Turkfindigi","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Corum-%C4%B0skilip-%C4%B0skilip-Turkfindigi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228202","tip":"genel"}]
 description: "Çorum'un İskilip ilçesinde bulunan Türkfindigi Milli Parkı, doğal güzellikleri ve tarihi zenginlikleriyle ziyaretçilerini bekliyor."
 keywords: ["Çorum","İskilip","Türkfindigi","Milli Park","Doğa","Tarih","Gezi"]

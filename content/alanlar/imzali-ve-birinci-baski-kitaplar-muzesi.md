@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kitap koleksiyonunu gezme","etkinliklere katılma","müzenin bahçesinde dinlenme","İstanbul'un kültürel ve tarihi zenginliklerini keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"İmzalı ve Birinci Baskı Kitaplar Müzesi","caption":"İmzalı ve Birinci Baskı Kitaplar Müzesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mystic_mountain.jpg/960px-Mystic_mountain.jpg","alt":"İmzalı ve Birinci Baskı Kitaplar Müzesi","caption":"İmzalı ve Birinci Baskı Kitaplar Müzesi","credit":"Mystic mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mzal%C4%B1%20ve%20Birinci%20Bask%C4%B1%20Kitaplar%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949575","tip":"genel"}]
 description: "İstanbul'un kalbinde, kitap severlerin buluşma noktası"
 keywords: ["kitap","müze","İstanbul","kitap severler","imzalı kitaplar","birinci baskı kitaplar","edebiyat","sanat"]

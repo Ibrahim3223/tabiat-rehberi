@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kiremitçi Hamamı","caption":"Kiremitçi Hamamı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg","alt":"Kiremitçi Hamamı","caption":"Kiremitçi Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kiremit%C3%A7i%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738877","tip":"genel"}]
 description: "Marmara Bölgesi'nin en güzel plajlarından biri olan Kiremitçi Hamamı, Osmangazi/Bursa'da yer alıyor."
 keywords: ["Kiremitçi Hamamı","Osmangazi","Bursa","Marmara Bölgesi","Plaj","Deniz","Kum"]

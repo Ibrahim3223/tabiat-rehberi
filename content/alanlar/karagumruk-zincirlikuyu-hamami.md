@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["hamamın tarihi hakkında bilgi edinme","hamamın iç mekanlarını ziyaret etme","hamamın bahçesinde dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Karagümrük Zincirlikuyu Hamamı","caption":"Karagümrük Zincirlikuyu Hamamı","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/A_beach_near_Phaselis_2021-02-26-3.jpg/960px-A_beach_near_Phaselis_2021-02-26-3.jpg","alt":"Karagümrük Zincirlikuyu Hamamı","caption":"Karagümrük Zincirlikuyu Hamamı","credit":"A beach near Phaselis 2021-02-26-3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karag%C3%BCmr%C3%BCk%20Zincirlikuyu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738568","tip":"genel"}]
 description: "Fatih, İstanbul'da yer alan tarihi hamam"
 keywords: ["Fatih","İstanbul","hamam","tarih","Marmara Bölgesi","karagümrük","zincirlikuyu"]

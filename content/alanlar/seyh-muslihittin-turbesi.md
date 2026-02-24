@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Plaj aktiviteleri","Doğa yürüyüşleri","Göl gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Şeyh Muslihittin Türbesi","caption":"Şeyh Muslihittin Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg/960px-Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg","alt":"Şeyh Muslihittin Türbesi","caption":"Şeyh Muslihittin Türbesi","credit":"Giresun, Merkez, Sahilde. 9 Şubat 2020","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muslihittin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582631","tip":"genel"}]
 description: "Eğirdir'de bulunan tarihi türbe ve plaj, Akdeniz Bölgesi'nin önemli noktalarından biri"
 keywords: ["Eğirdir","Isparta","Akdeniz Bölgesi","Türbe","Plaj","Tarih","Kültür"]

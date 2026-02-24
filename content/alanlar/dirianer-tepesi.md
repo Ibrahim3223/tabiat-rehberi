@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kamp","balık avı","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Dirianer Tepesi","caption":"Dirianer Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Dirianer Tepesi","caption":"Dirianer Tepesi","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dirianer%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547745","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerinin başında gelen Dirianer Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Dirianer Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

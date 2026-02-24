@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Hendek Tepe","caption":"Hendek Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg/960px-.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg","alt":"Hendek Tepe","caption":"Hendek Tepe","credit":".00 1627 Tuffsteinlandschaft von Göreme (Türkei)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hendek%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520819","tip":"genel"}]
 description: "Van'da yer alan Hendek Tepe, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Hendek Tepe","Van","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Van Gezilecek Yerler"]

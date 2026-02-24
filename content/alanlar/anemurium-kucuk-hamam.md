@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denize girme","Tarihi kalıntıları gezme","Doğa yürüyüşleri","Güneşlenme","Su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Anemurium Küçük Hamam","caption":"Anemurium Küçük Hamam","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Istanbul_beaches-_Sea_of_Marmara_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_10.jpg","alt":"Anemurium Küçük Hamam","caption":"Anemurium Küçük Hamam","credit":"Istanbul beaches- Sea of Marmara 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anemurium%20K%C3%BC%C3%A7%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739103","tip":"genel"}]
 description: "Anamur'un tarihi plajı, doğal güzellikleri ve tarihi kalıntılarıyla dikkat çekiyor."
 keywords: ["Anemurium","Küçük Hamam","Anamur","Mersin","Akdeniz Bölgesi","tarihi plaj","doğal güzellikler","tarihi kalıntılar"]

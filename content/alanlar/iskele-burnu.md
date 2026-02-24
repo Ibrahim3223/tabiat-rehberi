@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Istanbul_and_Bosporus_big.jpg/960px-Istanbul_and_Bosporus_big.jpg","alt":"İskele Burnu","caption":"İskele Burnu","credit":"Istanbul and Bosporus big","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio.jpg/960px-B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio.jpg","alt":"İskele Burnu","caption":"İskele Burnu","credit":"Büyükada island, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0skele%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21209643","tip":"genel"}]
 description: "Bitlis'te yer alan İskele Burnu, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["İskele Burnu","Bitlis","Ada","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Türkiye"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeyi keşfetmek","bölgenin tarihi yapılarını ziyaret etmek","tepe etrafındaki yerleşim yerlerini keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Küçükkepez Tepe","caption":"Küçükkepez Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Detail_of_west_elevation_bay_window%2C_exterior._View_looking_southwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-8.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Küçükkepez Tepe","caption":"Küçükkepez Tepe","credit":"Detail of west elevation bay window, exterior. View looking southwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-8","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkkepez%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211023","tip":"genel"}]
 description: "Karaman'da bulunan Küçükkepez Tepe, bölgenin tarihi ve doğal güzelliklerini keşfetmek için ideal bir yer."
 keywords: ["Küçükkepez Tepe","Karaman","İç Anadolu Bölgesi","tarih","doğa","gezi","tepe","coğrafya"]

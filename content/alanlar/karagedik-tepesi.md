@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarihî kalıntıları ziyaret","Manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Karagedik Tepesi","caption":"Karagedik Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Karagedik Tepesi","caption":"Karagedik Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karagedik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385704","tip":"genel"}]
 description: "Adana'nın gizli cenneti Karagedik Tepesi, doğal güzelliği ve tarihi değerleriyle ziyaretçilerini bekliyor."
 keywords: ["Karagedik Tepesi","Adana","Akdeniz Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]

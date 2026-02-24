@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["plajda dinlenmek","tarihi mekanları gezmek","doğa yürüyüşü yapmak","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Aşıklı Sultan Türbesi","caption":"Aşıklı Sultan Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg","alt":"Aşıklı Sultan Türbesi","caption":"Aşıklı Sultan Türbesi","credit":"Akdeniz- the mediterranean-silence beach resort hotel - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9F%C4%B1kl%C4%B1%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390855","tip":"genel"}]
 description: "Kastamonu'nun tarihi ve doğası ile çevrili bir plaj"
 keywords: ["Aşıklı Sultan Türbesi","Kastamonu","Karadeniz Bölgesi","plaj","tarih","doğa","gezi","turizm","kültür"]

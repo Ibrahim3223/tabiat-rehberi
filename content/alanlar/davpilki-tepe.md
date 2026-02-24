@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Davpilki Tepe","caption":"Davpilki Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kessab30.jpg","alt":"Davpilki Tepe","caption":"Davpilki Tepe","credit":"Kessab30","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davpilki%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573415","tip":"genel"}]
 description: "Mardin'de bulunan Davpilki Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri. Doğal güzelliği ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Davpilki Tepe","Mardin","Dağ","Doğa","Tarih","Gezi","Seyahat","Mardin Gezilecek Yerler","Davpilki Tepe Hakkında"]

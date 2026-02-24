@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Tarihi araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Ferah Baba Türbesi","caption":"Ferah Baba Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Ferah Baba Türbesi","caption":"Ferah Baba Türbesi","credit":"Karaburun - panoramio (2)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ferah%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391380","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini keşfedin. Eyüpsultan'da bulunan Ferah Baba Türbesi, Marmara Bölgesi'nin önemli noktalarından biri."
 keywords: ["Ferah Baba Türbesi","Eyüpsultan","İstanbul","Marmara Bölgesi","tarih","doğa","gezi","türbe"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda güneşlenmek","denizde yüzmek","ormanlarda yürüyüş yapmak","tarihi değirmenleri ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Hamam, Değirmencik","caption":"Hamam, Değirmencik","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg","alt":"Hamam, Değirmencik","caption":"Hamam, Değirmencik","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 15","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20De%C4%9Firmencik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245786","tip":"genel"}]
 description: "Kırklareli'nin doğal güzelliklerini keşfedin"
 keywords: ["Kırklareli","Değirmencik","Hamam","plaj","Marmara Bölgesi","doğa","gezi"]

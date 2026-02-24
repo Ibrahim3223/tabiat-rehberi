@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["türbe ziyaret","plaj","güneşlenme","denize girme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Herdane Bahar Baba Türbesi","caption":"Herdane Bahar Baba Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg","alt":"Herdane Bahar Baba Türbesi","caption":"Herdane Bahar Baba Türbesi","credit":"2023-11-04 Choban beach near Kaş 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Herdane%20Bahar%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582191","tip":"genel"}]
 description: "İhsaniye, Afyonkarahisar'da yer alan tarihi türbe ve plaj"
 keywords: ["Herdane Bahar Baba Türbesi","İhsaniye","Afyonkarahisar","tarih","türbe","plaj","doğa","gezi","seyahat"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","su sporları","kamp","ekolojik gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Sivas Altınkale","caption":"Sivas Altınkale","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Sivas Altınkale","caption":"Sivas Altınkale","credit":"Old Pier","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sivas%20Alt%C4%B1nkale","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q127603891","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti Sivas Altınkale, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Sivas","Altınkale","İç Anadolu Bölgesi","yeşil alan","futbol sahası","doğa","gezi"]

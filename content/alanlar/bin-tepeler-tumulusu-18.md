@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Bin Tepeler Tümülüsü 18","caption":"Bin Tepeler Tümülüsü 18","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg","alt":"Bin Tepeler Tümülüsü 18","caption":"Bin Tepeler Tümülüsü 18","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 17","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2018","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728379","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli k incisi, tarihi ve doğal güzellikleri bir araya getiren özel bir alan"
 keywords: ["Bin Tepeler","Tümülüs","Salihli","Manisa","Ege Bölgesi","tarih","doğa","gezi","keşif"]

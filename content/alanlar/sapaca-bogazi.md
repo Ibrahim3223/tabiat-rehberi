@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doga_yuruyusu","fotografcilik","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Turkey_Run_Gorge.JPG","alt":"Sapaca Boğazı","caption":"Sapaca Boğazı","credit":"Turkey Run Gorge","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gorge%281%29.jpg/960px-Gorge%281%29.jpg","alt":"Sapaca Boğazı","caption":"Sapaca Boğazı","credit":"Gorge(1)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sapaca%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34923615","tip":"genel"}]
 description: "Denizli'de yer alan Sapaca Boğazı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi. Kanyonun derinliklerinde keşfedilecek birçok güzellik var."
 keywords: ["Sapaca Boğazı","Denizli","kanyon","doğa turizmi","yeşil alan","gezi noktaları","turistik yerler","Denizli gezilecek yerler","kanyonlar"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çangallı Tepesi","caption":"Çangallı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Çangallı Tepesi","caption":"Çangallı Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87angall%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828329","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzellikleri ile bilinen bir bölgesi olan Çangallı Tepesi, ziyaretçilerine tarihi ve coğrafi açıdan zengin bir deneyim sunar."
 keywords: ["Amasya","Karadeniz Bölgesi","tarih","doğa","gezi","tepe","coğrafya"]

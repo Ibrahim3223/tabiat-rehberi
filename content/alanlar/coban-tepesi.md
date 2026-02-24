@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","coğrafi konum keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Çoban Tepesi","caption":"Çoban Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg/960px-Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg","alt":"Çoban Tepesi","caption":"Çoban Tepesi","credit":"Circle of Giorgione - Infant Paris Abandoned on Mount Ida, ca. 1510","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87oban%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819474","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Çoban Tepesi, 140 hektarlık genişlikte bir doğal alan sunuyor."
 keywords: ["Çoban Tepesi","Ankara","İç Anadolu Bölgesi","doğal alan","gezi","turizm","coğrafya","flora","fauna"]

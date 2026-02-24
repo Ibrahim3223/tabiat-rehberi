@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğrafçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Peliban Tepesi","caption":"Peliban Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Peliban Tepesi","caption":"Peliban Tepesi","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Peliban%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386803","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en güzel doğal alanlarından biri olan Peliban Tepesi, Siirt ilinin önemli bir turizm merkezi"
 keywords: ["Peliban Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğa turizmi","tepe","manzara","gezi","turizm","yerel kültür"]

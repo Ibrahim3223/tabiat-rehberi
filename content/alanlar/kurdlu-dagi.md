@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Kürdlü Dağı","caption":"Kürdlü Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg/960px-Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg","alt":"Kürdlü Dağı","caption":"Kürdlü Dağı","credit":"Erciyes Dağı 05 04 1999","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCrdl%C3%BC%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042824","tip":"genel"}]
 description: "Burdur'un doğal güzelliklerini keşfedin, Kürdlü Dağı'nın büyüleyici manzaraları ve yürüyüş rotaları"
 keywords: ["Kürdlü Dağı","Burdur","Dağ","Doğa","Yürüyüş Rotaları","Manzara","Turizm","Gezi","Türkiye"]

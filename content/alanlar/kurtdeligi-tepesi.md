@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kurtdeliği Tepesi","caption":"Kurtdeliği Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Kurtdeliği Tepesi","caption":"Kurtdeliği Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtdeli%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387490","tip":"genel"}]
 description: "Van'ın eşsiz doğal güzellikleri arasında yer alan Kurtdeliği Tepesi, yüksek bir konumdate yer alır."
 keywords: ["Kurtdeliği Tepesi","Van","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi"]

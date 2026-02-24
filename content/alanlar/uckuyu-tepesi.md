@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg","alt":"Üçkuyu Tepesi","caption":"Üçkuyu Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 05.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Üçkuyu Tepesi","caption":"Üçkuyu Tepesi","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7kuyu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820542","tip":"genel"}]
 description: "Kahramanmaraş'ın önemli doğal güzelliklerinden biri olan Üçkuyu Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Üçkuyu Tepesi","Kahramanmaraş","Akdeniz Bölgesi","doğal güzellik","tepe","gezi","yaban hayatı","ekosistem"]

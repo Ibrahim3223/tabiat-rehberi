@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Tarihi yapıları incelemek","Par ve bahçeleri ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Serasker Rıza Paşa Türbesi","caption":"Serasker Rıza Paşa Türbesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2023-11-19_Ufakdere_Port_Beach_3.jpg/960px-2023-11-19_Ufakdere_Port_Beach_3.jpg","alt":"Serasker Rıza Paşa Türbesi","caption":"Serasker Rıza Paşa Türbesi","credit":"2023-11-19 Ufakdere Port Beach 3","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Serasker%20R%C4%B1za%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391153","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi bir türbe"
 keywords: ["Serasker Rıza Paşa Türbesi","Fatih","İstanbul","tarih","türbe","Marmara Bölgesi","gezi","turizm"]

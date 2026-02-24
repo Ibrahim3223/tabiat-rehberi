@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi hamamı ziyaret etmek","Doğa yürüyüşü","Ormanlık alanları keşfetmek","Kuş türlerini gözlemlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Köprühisar Hamamı","caption":"Köprühisar Hamamı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Köprühisar Hamamı","caption":"Köprühisar Hamamı","credit":"Karaburun - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6pr%C3%BChisar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245877","tip":"genel"}]
 description: "Bursa'nın Yenişehir ilçesinde yer alan Köprühisar Hamamı, tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Köprühisar Hamamı","Bursa","Yenişehir","tarihi hamam","doğal güzellik","gezi rehberi","turizm","Marmara Bölgesi"]

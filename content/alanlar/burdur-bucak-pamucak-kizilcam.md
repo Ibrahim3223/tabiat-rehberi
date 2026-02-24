@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa Gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Burdur-Bucak-Pamucak Kızılçam","caption":"Burdur-Bucak-Pamucak Kızılçam","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cilingoz_National_Park_Beach_Cave.jpg/960px-Cilingoz_National_Park_Beach_Cave.jpg","alt":"Burdur-Bucak-Pamucak Kızılçam","caption":"Burdur-Bucak-Pamucak Kızılçam","credit":"Cilingoz National Park Beach Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Bucak-Pamucak%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227649","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşilliği, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Burdur","Bucak","Pamucak","Kızılçam","Milli Park","İç Anadolu Bölgesi","Doğa","Yeşil Alan"]

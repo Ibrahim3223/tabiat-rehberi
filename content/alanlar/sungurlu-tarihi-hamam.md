@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihçi olmak","Kültürü keşfetmek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Sungurlu Tarihi Hamam","caption":"Sungurlu Tarihi Hamam","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ba%C4%9Flar_Burnu.jpg/960px-Ba%C4%9Flar_Burnu.jpg","alt":"Sungurlu Tarihi Hamam","caption":"Sungurlu Tarihi Hamam","credit":"Bağlar Burnu","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sungurlu%20Tarihi%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738706","tip":"genel"}]
 description: "Sungurlu'nun tarihi ve kültürel zenginliklerini keşfedin. Çorum'un merkezinde yer alan bu tarihi hamam, şehrin önemli bir parçası."
 keywords: ["Sungurlu","Tarihi Hamam","Çorum","Karadeniz Bölgesi","Tarih","Kültür","Turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","vahşi yaşam gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Burdur-Bucak-Kestel Ardic","caption":"Burdur-Bucak-Kestel Ardic","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"Burdur-Bucak-Kestel Ardic","caption":"Burdur-Bucak-Kestel Ardic","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Bucak-Kestel%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227224","tip":"genel"}]
 description: "Doğal güzellikleri ile dikkat çeken Burdur-Bucak-Kestel Ardic milli parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Burdur","milli park","doğal güzellik","Kestel Ardic","Bucak","Akdeniz Bölgesi"]

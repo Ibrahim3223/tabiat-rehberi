@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","plaj gezisi","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Yalman Dede Türbesi","caption":"Yalman Dede Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Yalman Dede Türbesi","caption":"Yalman Dede Türbesi","credit":"Harbiş Sahili, Karataş - Adana 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yalman%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391609","tip":"genel"}]
 description: "Mersin'in Silifke ilçesinde bulunan tarihi ve doğal güzelliklerin buluştuğu önemli bir destinasyon"
 keywords: ["Yalman Dede Türbesi","Silifke","Mersin","tarih","doğa","gezi","tarihçe","coğrafya","flora","fauna","ziyaret"]

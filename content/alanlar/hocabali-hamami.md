@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Güneşlenmek","Denize girmek","Doğa yürüyüşü","Fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Hocabali Hamamı","caption":"Hocabali Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg","alt":"Hocabali Hamamı","caption":"Hocabali Hamamı","credit":"Sunset at Aegean Sea, İzmir 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hocabali%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739213","tip":"genel"}]
 description: "Burdur'un tatil cenneti, Hocabali Hamamı Plajı, misafirlerini güneşin ve denizin tadını çıkarmaya davet ediyor."
 keywords: ["Burdur","Hocabali Hamamı","plaj","tatil","deniz","güneş"]

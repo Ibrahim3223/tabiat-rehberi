@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["höyüğü ziyaret etmek","bitki türlerini keşfetmek","hayvanları gözlemlemek","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg","alt":"Maltepe Tümülüsü, Tire","caption":"Maltepe Tümülüsü, Tire","credit":"Süzer Sun Dreams Beach 11 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg/960px-Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg","alt":"Maltepe Tümülüsü, Tire","caption":"Maltepe Tümülüsü, Tire","credit":"Bodrum, Turkey (Unsplash savOaIMns3Y)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Maltepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Tire","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728292","tip":"genel"}]
 description: "İzmir'in Tire ilçesinde bulunan Maltepe Tümülüsü, tarihi ve coğrafi açıdan önemli bir noktadır."
 keywords: ["Maltepe Tümülüsü","Tire","İzmir","tarih","coğrafya","arkeoloji","gezi","turizm","Ege Bölgesi","kültür"]

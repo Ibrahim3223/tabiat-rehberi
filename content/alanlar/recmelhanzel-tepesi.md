@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Recmelhanzel Tepesi","caption":"Recmelhanzel Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Recmelhanzel Tepesi","caption":"Recmelhanzel Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Recmelhanzel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31541174","tip":"genel"}]
 description: "Şanlıurfa'nın tarihi ve doğal güzelliklerini bir arada sunan önemli bir destinasyon"
 keywords: ["Recmelhanzel Tepesi","Şanlıurfa","Güneydoğu Anadolu Bölgesi","Tarih","Doğa","Turizm","Gezi","Tepeler","Coğrafya"]

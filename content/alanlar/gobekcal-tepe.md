@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","keşif","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg","alt":"Göbekçal Tepe","caption":"Göbekçal Tepe","credit":"Güver Canyon Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Second_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-15.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Göbekçal Tepe","caption":"Göbekçal Tepe","credit":"Second floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-15","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6bek%C3%A7al%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32223281","tip":"genel"}]
 description: "Antalya'nın tarihi ve doğal güzellikleri arasında yer alan Göbekçal Tepe, ziyaretçilerini bekliyor."
 keywords: ["Göbekçal Tepe","Antalya","tarih","doğa","gezi","turizm","Akdeniz Bölgesi","kültür","coğrafya"]

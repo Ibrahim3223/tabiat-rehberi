@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Akbıyık Sultan Ahmet Şemsettin Türbesi","caption":"Akbıyık Sultan Ahmet Şemsettin Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Latrans-Turkey_location_Aegean_Region.svg/960px-Latrans-Turkey_location_Aegean_Region.svg.png","alt":"Akbıyık Sultan Ahmet Şemsettin Türbesi","caption":"Akbıyık Sultan Ahmet Şemsettin Türbesi","credit":"Latrans-Turkey location Aegean Region","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akb%C4%B1y%C4%B1k%20Sultan%20Ahmet%20%C5%9Eemsettin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391369","tip":"genel"}]
 description: "Marmara Bölgesi'nin tarihi mirası"
 keywords: ["tarih","mimarlık","İnegöl","Bursa","türbe","Sultan Ahmet","Şemsettin"]

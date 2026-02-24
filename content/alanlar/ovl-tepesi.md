@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","tarihî yapılar gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Ovl Tepesi","caption":"Ovl Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Ovl Tepesi","caption":"Ovl Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ovl%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386757","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerini bir arada sunan Ovl Tepesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Diyarbakır","Ovl Tepesi","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","tepe","manzara"]

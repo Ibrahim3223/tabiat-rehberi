@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hamamın tarihi değerlerini deneyimlemek","Bahçesini gezmek","Çevresindeki tarihi eserleri ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Üsküdar Sinan Paşa Hamamı","caption":"Üsküdar Sinan Paşa Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Pirlanta_beach%2C_without_waves_october_2009_6_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_6_-_panoramio.jpg","alt":"Üsküdar Sinan Paşa Hamamı","caption":"Üsküdar Sinan Paşa Hamamı","credit":"Pirlanta beach, without waves october 2009 6 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Csk%C3%BCdar%20Sinan%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245728","tip":"genel"}]
 description: "Üsküdar'ın tarihi hamamlarından biri olan Sinan Paşa Hamamı, Marmara Bölgesi'nde bulunan önemli bir kültürel miras."
 keywords: ["Üsküdar","Sinan Paşa Hamamı","Marmara Bölgesi","tarihi hamam","İstanbul","kültürel miras"]

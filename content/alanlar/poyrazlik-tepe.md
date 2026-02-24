@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotografcilik","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Poyrazlık Tepe","caption":"Poyrazlık Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ta%C5%9Feli-Plateau_12_08_1999_Y%C3%BC%C4%9Fl%C3%BCk_Da%C4%9F%C4%B1_zwischen_Ta%C5%9Fkale_und_K%C4%B1robas%C4%B1.jpg/960px-Ta%C5%9Feli-Plateau_12_08_1999_Y%C3%BC%C4%9Fl%C3%BCk_Da%C4%9F%C4%B1_zwischen_Ta%C5%9Fkale_und_K%C4%B1robas%C4%B1.jpg","alt":"Poyrazlık Tepe","caption":"Poyrazlık Tepe","credit":"Taşeli-Plateau 12 08 1999 Yüğlük Dağı zwischen Taşkale und Kırobası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Poyrazl%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386977","tip":"genel"}]
 description: "Tokat'ta bulunan Poyrazlık Tepe, doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Poyrazlık Tepe","Tokat","Dağ","Trekking","Doğa","Turizm","Tokat Turistik Yerler","Poyrazlık Tepe Trekking","Tokat Dağları"]

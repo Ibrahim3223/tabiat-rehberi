@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Kalekiran Mağaraları","caption":"Kalekiran Mağaraları","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg/960px-NASA-Apollo8-Dec24-Earthrise.jpg","alt":"Kalekiran Mağaraları","caption":"Kalekiran Mağaraları","credit":"NASA-Apollo8-Dec24-Earthrise","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalekiran%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319305","tip":"genel"}]
 description: "Batman'da yer alan Kalekiran Mağaraları, 1200 hektarlık yeşil cennet, jeopark özellikleri ile dikkat çekiyor."
 keywords: ["Kalekiran Mağaraları","Batman","Jeopark","Doğal Alan","Mağara Gezisi","Turizm","Batman Turistik Yerler","Jeolojik Özellikler","Doğa Harikaları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Karadiken Dağı","caption":"Karadiken Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/960px-Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","alt":"Karadiken Dağı","caption":"Karadiken Dağı","credit":"Dağ tepesinden Uzungöl görünümü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karadiken%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31518295","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, Karadiken Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Karadiken Dağı","Mersin","Dağ","Doğa","Turizm","Gezi","Mersin Gezilecek Yerler","Dağ Turizmi","Mersin Turistik Yerler"]

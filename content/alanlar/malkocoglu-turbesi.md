@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Malkoçoğlu Türbesi","caption":"Malkoçoğlu Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg/960px-Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg","alt":"Malkoçoğlu Türbesi","caption":"Malkoçoğlu Türbesi","credit":"Karaburun, İzmir, Turkey - panoramio (8)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Malko%C3%A7o%C4%9Flu%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391556","tip":"genel"}]
 description: "Kocaeli'nin Gebze ilçesinde bulunan Malkoçoğlu Türbesi, tarihin izlerini taşıyan bir mekan."
 keywords: ["Malkoçoğlu Türbesi","Gebze","Kocaeli","tarihi mekan","tarih","coğrafya","doğa","ziyaret"]

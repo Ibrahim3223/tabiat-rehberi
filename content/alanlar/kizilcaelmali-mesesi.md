@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Kizilcaelmali Mesesi","caption":"Kizilcaelmali Mesesi","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"Kizilcaelmali Mesesi","caption":"Kizilcaelmali Mesesi","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kizilcaelmali%20Mesesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227144","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kizilcaelmali Mesesi, eşsiz doğası ve tarihi geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["Kizilcaelmali Mesesi","milli park","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm"]

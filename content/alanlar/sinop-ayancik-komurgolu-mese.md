@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Sinop-Ayancik-Komurgölü Mese","caption":"Sinop-Ayancik-Komurgölü Mese","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Sinop-Ayancik-Komurgölü Mese","caption":"Sinop-Ayancik-Komurgölü Mese","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Ayancik-Komurg%C3%B6l%C3%BC%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227707","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Sinop","Ayancık","Komurgölü","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

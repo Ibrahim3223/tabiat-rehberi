@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ahi Muhyiddin Zaviyesi","caption":"Ahi Muhyiddin Zaviyesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/A_beach_near_Phaselis_2021-02-26-3.jpg/960px-A_beach_near_Phaselis_2021-02-26-3.jpg","alt":"Ahi Muhyiddin Zaviyesi","caption":"Ahi Muhyiddin Zaviyesi","credit":"A beach near Phaselis 2021-02-26-3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20Muhyiddin%20Zaviyesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582720","tip":"genel"}]
 description: "Tokat'ta tarihi ve doğal güzelliklerin birleştiği Ahi Muhyiddin Zaviyesi, ziyaretçiler için önemli bir destinasyon"
 keywords: ["Ahi Muhyiddin Zaviyesi","Tokat","Karadeniz Bölgesi","tarihi mekanlar","doğa alanları","zaviye","plaj"]

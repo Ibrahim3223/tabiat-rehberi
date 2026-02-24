@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Kocababa Dağı","caption":"Kocababa Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Avc%C4%B1lar_05_04_1999_Erciyes_Da%C4%9F%C4%B1.jpg/960px-Avc%C4%B1lar_05_04_1999_Erciyes_Da%C4%9F%C4%B1.jpg","alt":"Kocababa Dağı","caption":"Kocababa Dağı","credit":"Avcılar 05 04 1999 Erciyes Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocababa%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387055","tip":"genel"}]
 description: "Amasya'nın doğal güzelliklerini keşfedin, Kocababa Dağı'nda doğa yürüyüşü ve panorama manzaraları"
 keywords: ["Kocababa Dağı","Amasya","Dağ","Doğa Yürüyüşü","Panorama Manzaraları","Turizm","Gezi Rehberi","Amasya Turistik Yerler","Dağcılık"]

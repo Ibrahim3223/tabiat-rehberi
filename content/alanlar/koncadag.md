@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","flora ve fauna gözlemi","coğrafi keşif","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Koncadağ","caption":"Koncadağ","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Koncadağ","caption":"Koncadağ","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koncada%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386448","tip":"genel"}]
 description: "Kilis'in doğal güzelliklerini keşfedin. Koncadağ, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kilis","Koncadağ","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

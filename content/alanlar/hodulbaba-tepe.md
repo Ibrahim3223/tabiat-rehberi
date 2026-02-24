@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Hodulbaba Tepe","caption":"Hodulbaba Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Hodulbaba Tepe","caption":"Hodulbaba Tepe","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hodulbaba%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390382","tip":"genel"}]
 description: "Afyonkarahisar'da yer alan Hodulbaba Tepe, Ege Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Hodulbaba Tepe","Afyonkarahisar","Ege Bölgesi","doğal güzellik","tepe","coğrafya"]

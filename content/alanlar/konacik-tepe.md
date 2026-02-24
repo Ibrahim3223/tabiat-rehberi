@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Fotoğraf çekme","Yeme içme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Konacık Tepe","caption":"Konacık Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Konacık Tepe","caption":"Konacık Tepe","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konac%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387529","tip":"genel"}]
 description: "Çanakkale'nin tarihi ve doğal güzelliklerini keşfedin. Marmara Bölgesi'nde yer alan Konacık Tepe, ziyaretçilerini bekliyor."
 keywords: ["Konacık Tepe","Çanakkale","Marmara Bölgesi","tarih","doğa","gezi","turizm","kültür"]

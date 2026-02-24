@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Tiğtepe","caption":"Tiğtepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/E%C5%9Fenler_Da%C4%9F%C4%B1_12_09_1983_s%C3%BCdlich_des_Su%C4%9Flasees.jpg/960px-E%C5%9Fenler_Da%C4%9F%C4%B1_12_09_1983_s%C3%BCdlich_des_Su%C4%9Flasees.jpg","alt":"Tiğtepe","caption":"Tiğtepe","credit":"Eşenler Dağı 12 09 1983 südlich des Suğlasees","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ti%C4%9Ftepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504757","tip":"genel"}]
 description: "Malatya'da yer alan Tiğtepe, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor"
 keywords: ["Tiğtepe","Malatya","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Malatya Gezilecek Yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî araştırma","kültürel etkinlikler","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Pir Seyyid Hasan Hüsamettin Uşşaki Türbesi","caption":"Pir Seyyid Hasan Hüsamettin Uşşaki Türbesi","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg","alt":"Pir Seyyid Hasan Hüsamettin Uşşaki Türbesi","caption":"Pir Seyyid Hasan Hüsamettin Uşşaki Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 17","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pir%20Seyyid%20Hasan%20H%C3%BCsamettin%20U%C5%9F%C5%9Faki%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390986","tip":"genel"}]
 description: "İstanbul'un tarihî sembollerinden biri olan Pir Seyyid Hasan Hüsamettin Uşşaki Türbesi, ziyaretçiler için önemli bir kültür merkezidir."
 keywords: ["Pir Seyyid Hasan Hüsamettin Uşşaki Türbesi","İstanbul","Beyoğlu","Marmara Bölgesi","tarih","kültür","türbe","ziyaret"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Guhara Sırtı","caption":"Guhara Sırtı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ta%C5%9Feli-Plateau_12_08_1999_Y%C3%BC%C4%9Fl%C3%BCk_Da%C4%9F%C4%B1_zwischen_Ta%C5%9Fkale_und_K%C4%B1robas%C4%B1.jpg/960px-Ta%C5%9Feli-Plateau_12_08_1999_Y%C3%BC%C4%9Fl%C3%BCk_Da%C4%9F%C4%B1_zwischen_Ta%C5%9Fkale_und_K%C4%B1robas%C4%B1.jpg","alt":"Guhara Sırtı","caption":"Guhara Sırtı","credit":"Taşeli-Plateau 12 08 1999 Yüğlük Dağı zwischen Taşkale und Kırobası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Guhara%20S%C4%B1rt%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549255","tip":"genel"}]
 description: "Batman'da bulunan Guhara Sırtı, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Guhara Sırtı","Batman","Dağ","Doğa Yürüyüşü","Turizm","Gezi","Seyahat","Batman Turistik Yerler","Guhara Sırtı Yürüyüş"]

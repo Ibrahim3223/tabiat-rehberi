@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe experiencia","coğrafi güzelliklerin keşfi","flora ve fauna incelemesi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Erzen Hatun Kümbeti","caption":"Erzen Hatun Kümbeti","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Istanbul_beaches-_Sea_of_Marmara_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_14.jpg","alt":"Erzen Hatun Kümbeti","caption":"Erzen Hatun Kümbeti","credit":"Istanbul beaches- Sea of Marmara 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzen%20Hatun%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582838","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi zenginliklerini keşfedin. Ahlat/Bitlis'te bulunan Erzen Hatun Kümbeti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Erzen Hatun Kümbeti","Ahlat","Bitlis","Doğu Anadolu Bölgesi","tarihi mekanlar","kültürel miras","gezi rehberi","turistik yerler","coğrafi özellikleri","flora ve fauna"]

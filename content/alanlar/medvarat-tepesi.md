@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihi yerleri gezme","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Medvarat Tepesi","caption":"Medvarat Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Medvarat Tepesi","caption":"Medvarat Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Medvarat%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555249","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini bir araya getiren Medvarat Tepesi, 140 hektarlık geniş bir alanı kapsıyor."
 keywords: ["Mardin","Medvarat Tepesi","Güneydoğu Anadolu Bölgesi","tarihi yerler","doğa yürüyüşü","tepe","manzara","gezi"]

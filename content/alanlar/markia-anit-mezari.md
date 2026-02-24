@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Gezme","Keşif","Fotoğraf çekme","Tarih öğrenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Markia Anıt Mezarı","caption":"Markia Anıt Mezarı","credit":"Antalya Serik Plajı","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Markia Anıt Mezarı","caption":"Markia Anıt Mezarı","credit":"Altinkum in the evening","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Markia%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728145","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin eşsiz köşesi, Kaş'ta bulunan Markia Anıt Mezarı"
 keywords: ["Markia Anıt Mezarı","Kaş","Antalya","Akdeniz Bölgesi","Anıt Mezar","Tarih","Doğa","Gezi"]

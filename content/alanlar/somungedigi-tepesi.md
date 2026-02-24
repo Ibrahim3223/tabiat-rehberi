@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Somungediği Tepesi","caption":"Somungediği Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Somungediği Tepesi","caption":"Somungediği Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Somungedi%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391133","tip":"genel"}]
 description: "Sivas'ın İç Anadolu Bölgesi'nde yer alan Somungediği Tepesi, ziyaretçilerini natuurun güzelliği ile baş başa bırakıyor"
 keywords: ["Somungediği Tepesi","Sivas","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]

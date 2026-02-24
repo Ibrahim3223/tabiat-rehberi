@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda güneşlenmek","hamamın sıcacık suyunda rahatlamak","çevredeki tarihi mekanları gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Gazi Mihal Hamamı","caption":"Gazi Mihal Hamamı","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg","alt":"Gazi Mihal Hamamı","caption":"Gazi Mihal Hamamı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazi%20Mihal%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131370491","tip":"genel"}]
 description: "Edirne'nin tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Edirne","tarih","doğa","gezi","turizm","Marmara Bölgesi","plaj","hamam"]

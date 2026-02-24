@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Crossing_the_horizon.jpg/960px-Crossing_the_horizon.jpg","alt":"Rumeli Burnu","caption":"Rumeli Burnu","credit":"Crossing the horizon.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Eurasian_Collared-Dove_by_Tisha_Mukherjee_12.jpg/960px-Eurasian_Collared-Dove_by_Tisha_Mukherjee_12.jpg","alt":"Rumeli Burnu","caption":"Rumeli Burnu","credit":"Eurasian Collared-Dove by Tisha Mukherjee 12","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rumeli%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6016000","tip":"genel"}]
 description: "Türkiye'nin önemli kuş cennetlerinden biri olan Rumeli Burnu, çeşitli kuş türlerine ev sahipliği yapıyor."
 keywords: ["Rumeli Burnu","kuş cenneti","Türkiye","doğa","kuş gözlem","turizm","çevre","koruma alanı","vahşi yaşam"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğrafçılık","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kızıldoruk Tepesi","caption":"Kızıldoruk Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Kızıldoruk Tepesi","caption":"Kızıldoruk Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1ldoruk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390017","tip":"genel"}]
 description: "Eskişehir'in doğal güzelliklerini keşfedin, Kızıldoruk Tepesi'nin tarihi ve coğrafyasını öğrenin."
 keywords: ["Eskişehir","Kızıldoruk Tepesi","doğa","gezi","tarih","coğrafya","flora","fauna","ziyaret"]

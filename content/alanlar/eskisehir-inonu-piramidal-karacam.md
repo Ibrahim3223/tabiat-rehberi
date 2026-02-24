@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","bitki ve hayvan gözlemi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Eskişehir-Inonu Piramidal Karacam","caption":"Eskişehir-Inonu Piramidal Karacam","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Eskişehir-Inonu Piramidal Karacam","caption":"Eskişehir-Inonu Piramidal Karacam","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Inonu%20Piramidal%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227965","tip":"genel"}]
 description: "Eskişehir'in doğal güzelliklerini keşfedin, Inonu Piramidal Karacam milli parkında huzuru bulun."
 keywords: ["Eskişehir","Inonu Piramidal Karacam","milli park","doğa","gezi","turizm","İç Anadolu Bölgesi","çevre","ekosistem"]

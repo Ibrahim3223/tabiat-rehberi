@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yüzme","güneşlenme","deniz sporları","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Zeytinlik Köyü Aşağı Türbe","caption":"Zeytinlik Köyü Aşağı Türbe","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg/960px-Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg","alt":"Zeytinlik Köyü Aşağı Türbe","caption":"Zeytinlik Köyü Aşağı Türbe","credit":"Bodrum, Turkey (Unsplash savOaIMns3Y)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeytinlik%20K%C3%B6y%C3%BC%20A%C5%9Fa%C4%9F%C4%B1%20T%C3%BCrbe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391317","tip":"genel"}]
 description: "Karadeniz'in doğal güzelliklerini keşfedin, Zeytinlik Köyü Aşağı Türbe"
 keywords: ["Zeytinlik Köyü","Aşağı Türbe","Karadeniz","doğa","gezi","tatil","plaj","Artvin","Kutaisi Guberniyası","İç Anadolu Bölgesi"]

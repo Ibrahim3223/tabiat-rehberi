@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa seyretme","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Büyükkülek Tepesi","caption":"Büyükkülek Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg","alt":"Büyükkülek Tepesi","caption":"Büyükkülek Tepesi","credit":"Ankara asv2021-10 img14 view from Atakule mall","license":"FAL"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkk%C3%BClek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731404","tip":"genel"}]
 description: "Hatay'ın doğal güzelliklerinden biri olan Büyükkülek Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Büyükkülek Tepesi","Hatay","Akdeniz Bölgesi","doğa","gezi","tepe"]

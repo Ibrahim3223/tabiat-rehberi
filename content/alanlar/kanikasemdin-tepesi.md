@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kamp","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kanıkaşemdın Tepesi","caption":"Kanıkaşemdın Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kanıkaşemdın Tepesi","caption":"Kanıkaşemdın Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kan%C4%B1ka%C5%9Femd%C4%B1n%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31544692","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide illerinden biri olan Batman'da bulunan Kanıkaşemdın Tepesi, doğal güzellikleri ve tarihi zenginlikleriyle dikkat çekiyor."
 keywords: ["Kanıkaşemdın Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarihi zenginlik"]

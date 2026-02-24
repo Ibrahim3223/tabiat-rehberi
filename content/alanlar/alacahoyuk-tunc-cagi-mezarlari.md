@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mezarları gezmek","tarihi geçmişi keşfetmek","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Alacahöyük Tunç Çağı Mezarları","caption":"Alacahöyük Tunç Çağı Mezarları","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg/960px-Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg","alt":"Alacahöyük Tunç Çağı Mezarları","caption":"Alacahöyük Tunç Çağı Mezarları","credit":"Karaburun, İzmir, Turkey - panoramio (8)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alacah%C3%B6y%C3%BCk%20Tun%C3%A7%20%C3%87a%C4%9F%C4%B1%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728106","tip":"genel"}]
 description: "Tarihi geçmişi ve zengin kültürel mirası ile dikkat çeken Alacahöyük Tunç Çağı Mezarları, Karadeniz Bölgesi'nde ziyaretçilerini bekliyor."
 keywords: ["Alacahöyük","Tunç Çağı Mezarları","Karadeniz Bölgesi","tarih","kültür","mezarlar","Çorum","Alaca"]

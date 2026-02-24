@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lower_Antelope_Canyon_November_2018_017.jpg/960px-Lower_Antelope_Canyon_November_2018_017.jpg","alt":"Güvenli Mağaraları","caption":"Güvenli Mağaraları","credit":"Lower Antelope Canyon November 2018 017","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/960px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg","alt":"Güvenli Mağaraları","caption":"Güvenli Mağaraları","credit":"Pluto-01 Stern 03 Pluto Color TXT","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCvenli%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319218","tip":"genel"}]
 description: "Mardin'de yer alan Güvenli Mağaraları, 1200 hektarlık bir jeopark alanı sunar. Doğal güzelliği ve tarihi önemi ile dikkat çeker."
 keywords: ["Güvenli Mağaraları","Mardin","Jeopark","Doğa","Tarih","Turizm","Mağara","Gezi","Mardin Turistik Yerler"]

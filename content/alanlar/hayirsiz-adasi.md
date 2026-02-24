@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/View_to_chios_island_8_-_panoramio.jpg/960px-View_to_chios_island_8_-_panoramio.jpg","alt":"Hayırsız Adası","caption":"Hayırsız Adası","credit":"View to chios island 8 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nelson_from_Rabbit_Island.jpg/960px-Nelson_from_Rabbit_Island.jpg","alt":"Hayırsız Adası","caption":"Hayırsız Adası","credit":"Nelson from Rabbit Island","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hay%C4%B1rs%C4%B1z%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49640594","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Hayırsız Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Hayırsız Adası","İzmir Adaları","Ege Denizi","Türkiye Adaları","İzmir Turizm","Ada Gezileri","Doğal Güzellikler","Tarihî Yerler","Deniz Turizmi"]

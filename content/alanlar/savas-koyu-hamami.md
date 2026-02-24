@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük ziyaret"
 aktiviteler: ["Plaj aktiviteleri","Doğa yürüyüşü","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Savaş Köyü Hamamı","caption":"Savaş Köyü Hamamı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Savaş Köyü Hamamı","caption":"Savaş Köyü Hamamı","credit":"Down by the sea - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sava%C5%9F%20K%C3%B6y%C3%BC%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245689","tip":"genel"}]
 description: "Konya'nın Akşehir ilçesinde yer alan Savaş Köyü Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Savaş Köyü Hamamı","Konya","Akşehir","yeşil alan","doğa","gezi"]

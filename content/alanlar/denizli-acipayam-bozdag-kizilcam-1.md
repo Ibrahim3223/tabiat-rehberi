@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Bir gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Denizli-Acipayam-Bozdag Kızılçam 1","caption":"Denizli-Acipayam-Bozdag Kızılçam 1","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg/960px-Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg","alt":"Denizli-Acipayam-Bozdag Kızılçam 1","caption":"Denizli-Acipayam-Bozdag Kızılçam 1","credit":"Melchior de Hondecoeter (1636-1695) - A Cock and Turkey Fighting, in a Park Setting, with Other Fowl - 453773 - National Trust","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Acipayam-Bozdag%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227330","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, 140 hektarlık ormanlık alan"
 keywords: ["Denizli","Acipayam","Bozdag","Kızılçam","Milli Park","Ege Bölgesi","ormanlık alan","doğal güzellik"]

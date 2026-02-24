@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","çayır ve otlak alanlarında dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Buzağı Tepesi","caption":"Buzağı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Buzağı Tepesi","caption":"Buzağı Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buza%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387701","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Buzağı Tepesi, Erzurum'un görülmeye değer yerlerinden."
 keywords: ["Buzağı Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

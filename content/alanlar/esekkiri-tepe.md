@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih turu","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Eşekkırı Tepe","caption":"Eşekkırı Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg/960px-Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg","alt":"Eşekkırı Tepe","caption":"Eşekkırı Tepe","credit":"Ida B Wells High School San Francisco January 2013 002","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Fekk%C4%B1r%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390131","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerinden biri olan Eşekkırı Tepe, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle bekliyor."
 keywords: ["Eşekkırı Tepe","Antalya","Akdeniz Bölgesi","doğal güzellik","tarih","coğrafya"]

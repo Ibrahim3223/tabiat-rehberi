@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Manisa-Alaşehir Karacam","caption":"Manisa-Alaşehir Karacam","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Manisa-Alaşehir Karacam","caption":"Manisa-Alaşehir Karacam","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manisa-Ala%C5%9Fehir%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227680","tip":"genel"}]
 description: "Manisa'nın doğal güzellikleri arasında yer alan Karacam Milli Parkı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Manisa","Alaşehir","Karacam","Milli Park","Doğa","Turizm","Ege Bölgesi","Yeşil Alan","Flora","Fauna"]

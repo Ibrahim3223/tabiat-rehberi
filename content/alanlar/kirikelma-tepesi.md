@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","manzara seyri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kırıkelma Tepesi","caption":"Kırıkelma Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Kırıkelma Tepesi","caption":"Kırıkelma Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1kelma%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535588","tip":"genel"}]
 description: "Hatay ilinin doğal güzelliklerinden biri olan Kırıkelma Tepesi, Akdeniz Bölgesi'nde yer alan önemli bir coğrafi oluşum."
 keywords: ["Kırıkelma Tepesi","Hatay","Akdeniz Bölgesi","coğrafi oluşum","doğa","tepe","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kazımkarabekirpaşa Tepesi","caption":"Kazımkarabekirpaşa Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Kazımkarabekirpaşa Tepesi","caption":"Kazımkarabekirpaşa Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaz%C4%B1mkarabekirpa%C5%9Fa%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387795","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Kazımkarabekirpaşa Tepesi, Erzurum'un yükse ve geniş alanlarından biridir."
 keywords: ["Kazımkarabekirpaşa Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","doğa"]

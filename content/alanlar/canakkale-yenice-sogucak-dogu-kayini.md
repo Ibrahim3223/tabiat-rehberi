@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki ve hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Canakkale-Yenice-Sogucak Dogu Kayini","caption":"Canakkale-Yenice-Sogucak Dogu Kayini","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Canakkale-Yenice-Sogucak Dogu Kayini","caption":"Canakkale-Yenice-Sogucak Dogu Kayini","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Yenice-Sogucak%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227789","tip":"genel"}]
 description: "Canakkale-Yenice-Sogucak Dogu Kayini milli parkı, doğal güzellikleri ve zengin fauna ile ziyaretçilerini bekliyor."
 keywords: ["Canakkale","Yenice","Sogucak Dogu Kayini","milli park","doğa","flora","fauna","turizm","gezi"]

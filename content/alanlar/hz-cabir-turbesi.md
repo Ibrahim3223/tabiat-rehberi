@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih keşfi","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Hz. Cabir Türbesi","caption":"Hz. Cabir Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dodecanese_%26_Anatolian_Coasts%2C_2016.jpg/960px-Dodecanese_%26_Anatolian_Coasts%2C_2016.jpg","alt":"Hz. Cabir Türbesi","caption":"Hz. Cabir Türbesi","credit":"Dodecanese & Anatolian Coasts, 2016","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hz.%20Cabir%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390974","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren bir mekan"
 keywords: ["Hz. Cabir Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarih","doğa","turizm"]

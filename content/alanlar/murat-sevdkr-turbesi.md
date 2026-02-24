@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları incelemek","Doğa güzelliklerini keşfetmek","Tokat'ın kültürel mirasını deneyimlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Murat Sevdâkâr Türbesi","caption":"Murat Sevdâkâr Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Murat Sevdâkâr Türbesi","caption":"Murat Sevdâkâr Türbesi","credit":"Elmasburnu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Murat%20Sevd%C3%A2k%C3%A2r%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391508","tip":"genel"}]
 description: "Tokat'ta tarihi ve doğal güzelliklerin buluştuğu Murat Sevdâkâr Türbesi'ni keşfedin"
 keywords: ["Murat Sevdâkâr Türbesi","Tokat","Karadeniz Bölgesi","tarihi mekanlar","doğa güzellikleri","gezi rehberi","türk kültürü","tarihçe","coğrafya"]

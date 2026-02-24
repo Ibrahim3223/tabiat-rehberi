@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşü","Yaban Hayatı İzleme","Çevre Gezisi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/14/Saklikent_Rocks_and_Sky.jpg","alt":"Antalya-Akseki Ibradi Uzumdere","caption":"Antalya-Akseki Ibradi Uzumdere","credit":"Saklikent Rocks and Sky.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Antalya-Akseki Ibradi Uzumdere","caption":"Antalya-Akseki Ibradi Uzumdere","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Akseki%20Ibradi%20Uzumdere","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227096","tip":"genel"}]
 description: "Antalya'nın Akseki ilçesinde yer alan Ibradi Uzumdere Milli Parkı, doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Antalya","Akseki","Ibradi Uzumdere","Milli Park","Doğa","Turizm","Gezi","Yaban Hayatı","Çevre"]

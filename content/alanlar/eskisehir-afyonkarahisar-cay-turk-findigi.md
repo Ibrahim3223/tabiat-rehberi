@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Eskişehir Afyonkarahisar-Cay Turk Findigi","caption":"Eskişehir Afyonkarahisar-Cay Turk Findigi","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Eskişehir Afyonkarahisar-Cay Turk Findigi","caption":"Eskişehir Afyonkarahisar-Cay Turk Findigi","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir%20Afyonkarahisar-Cay%20Turk%20Findigi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227712","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Eskişehir Afyonkarahisar-Cay Turk Findigi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler","hikaye"]

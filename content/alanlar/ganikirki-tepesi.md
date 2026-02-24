@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","Yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Ganikırki Tepesi","caption":"Ganikırki Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Ganikırki Tepesi","caption":"Ganikırki Tepesi","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ganik%C4%B1rki%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546501","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli güzelliklerinden biri olan Ganikırki Tepesi, Batman'ın doğal alanları arasında önemli bir yere sahiptir."
 keywords: ["Ganikırki Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal alanlar","tepe","coğrafya","flora","fauna","ziyaret"]

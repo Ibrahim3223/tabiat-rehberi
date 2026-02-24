@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["yürüyüş","doğa seyretme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Kastamonu-Duragan-Altınkaya-Kızılcam 2","caption":"Kastamonu-Duragan-Altınkaya-Kızılcam 2","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","alt":"Kastamonu-Duragan-Altınkaya-Kızılcam 2","caption":"Kastamonu-Duragan-Altınkaya-Kızılcam 2","credit":"Gölcük Tabiat Parkı Karlar Altında 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Duragan-Alt%C4%B1nkaya-K%C4%B1z%C4%B1lcam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228276","tip":"genel"}]
 description: "Kastamonu'da yer alan milli park, Karadeniz Bölgesi'nin doğal güzelliklerini sunar."
 keywords: ["Kastamonu","milli park","Karadeniz Bölgesi","doğa","gezi","turizm","çevre","ekoloji"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denize girme","Doğada yürüyüş","Dağları keşfetme","Tarihi ve kültürel zenginlikleri deneyimleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Yeni Hamam, Zile","caption":"Yeni Hamam, Zile","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Yeni Hamam, Zile","caption":"Yeni Hamam, Zile","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam%2C%20Zile","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245804","tip":"genel"}]
 description: "Tokat'ın Zile ilçesinde yer alan Yeni Hamam, Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri"
 keywords: ["Yeni Hamam","Zile","Tokat","Karadeniz Bölgesi","doğal güzellik","plaj","gezi","turizm"]

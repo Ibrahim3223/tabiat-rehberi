@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/View_to_chios_island_10_-_panoramio.jpg/960px-View_to_chios_island_10_-_panoramio.jpg","alt":"Yolluca Ada","caption":"Yolluca Ada","credit":"View to chios island 10 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rabbit_Island.JPG/960px-Rabbit_Island.JPG","alt":"Yolluca Ada","caption":"Yolluca Ada","credit":"Rabbit Island","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yolluca%20Ada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49631371","tip":"genel"}]
 description: "İzmir'in Urla ilçesinde bulunan Yolluca Ada, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Yolluca Ada","İzmir","Urla","Ada","Doğal Alan","Yeşil Cennet","Turizm","Seyahat","İzmir Turistik Yerler"]

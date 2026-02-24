@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","photografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"VARSAK OBRUĞU","caption":"VARSAK OBRUĞU","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fatih_tabiat_park%C4%B1_Yozgat.jpg/960px-Fatih_tabiat_park%C4%B1_Yozgat.jpg","alt":"VARSAK OBRUĞU","caption":"VARSAK OBRUĞU","credit":"Fatih tabiat parkı Yozgat","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/VARSAK%20OBRU%C4%9EU","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228963","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parklarından Varsak Obruğu, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Varsak Obruğu","milli park","İç Anadolu Bölgesi","doğal güzellik","gezi","turizm"]

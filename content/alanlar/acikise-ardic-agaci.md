@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Balık avlama","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Acikise Ardic Agaci","caption":"Acikise Ardic Agaci","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg","alt":"Acikise Ardic Agaci","caption":"Acikise Ardic Agaci","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843429)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Acikise%20Ardic%20Agaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227360","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Acikise Ardic Agaci milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Acikise Ardic Agaci","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna"]

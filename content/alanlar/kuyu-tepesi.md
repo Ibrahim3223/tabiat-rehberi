@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg/960px-N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg","alt":"Kuyu Tepesi","caption":"Kuyu Tepesi","credit":"Nêzîkî Qilwanê 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Kuyu Tepesi","caption":"Kuyu Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuyu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31511445","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin birleştiği Kuyu Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kuyu Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","doğal alan","tarih","coğrafya","flora","fauna","ziyaret"]

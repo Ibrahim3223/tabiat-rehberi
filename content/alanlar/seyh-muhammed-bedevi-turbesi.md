@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültürel gezi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Şeyh Muhammed Bedevi Türbesi","caption":"Şeyh Muhammed Bedevi Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg","alt":"Şeyh Muhammed Bedevi Türbesi","caption":"Şeyh Muhammed Bedevi Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhammed%20Bedevi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390871","tip":"genel"}]
 description: "Kilis'in tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Kilis","tarih","doğa","türbe","gezi","seyahat","güneydoğu anadolu","kültür"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hamamın tarihi odalarını gezmek","Çevresinin doğal güzelliğini deneyimlemek","Marmara Denizi'ne açılan sahilini seyretmek","Yakındaki restoran ve kafelerde yemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Humbarahane Hamamı","caption":"Humbarahane Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg/960px-Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg","alt":"Humbarahane Hamamı","caption":"Humbarahane Hamamı","credit":"Manzara Aralik 2009 (GÖKOVA) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Humbarahane%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739130","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Humbarahane Hamamı, Beyoğlu'nda yer alır ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Humbarahane Hamamı","Beyoğlu","İstanbul","Marmara Bölgesi","Tarihi Hamam","Doğal Alan","Turizm"]

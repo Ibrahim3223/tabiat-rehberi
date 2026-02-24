@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yapı ve çevresini gezmek","dini ve tarihi önemi hakkında bilgi edinmek","bölgenin flora ve faunasınılemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Cemel Ali Dede Camii ve Türbesi","caption":"Cemel Ali Dede Camii ve Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Istanbul_beaches-_Sea_of_Marmara_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_14.jpg","alt":"Cemel Ali Dede Camii ve Türbesi","caption":"Cemel Ali Dede Camii ve Türbesi","credit":"Istanbul beaches- Sea of Marmara 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cemel%20Ali%20Dede%20Camii%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132134437","tip":"genel"}]
 description: "Meram, Konya'da tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Cemel Ali Dede Camii","Meram","Konya","tarih","doğa","türbe","camii"]

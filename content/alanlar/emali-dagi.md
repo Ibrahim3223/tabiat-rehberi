@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg","alt":"Emalı Dağı","caption":"Emalı Dağı","credit":"The Landscape of Sıklık Gate.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Emalı Dağı","caption":"Emalı Dağı","credit":"Sis dağı (3)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emal%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568254","tip":"genel"}]
 description: "Çorum'un görkemli dağlarından biri olan Emalı Dağı, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Emalı Dağı","Çorum","Dağ","Doğa","Yeşil Alan","Turizm","Çorum Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

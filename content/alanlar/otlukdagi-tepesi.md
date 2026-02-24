@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["gezi","doğa yürüyüşü","fotoğrafçılık","yürüyüş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Otlukdağı Tepesi","caption":"Otlukdağı Tepesi","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Otlukdağı Tepesi","caption":"Otlukdağı Tepesi","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Otlukda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390969","tip":"genel"}]
 description: "Kayseri'nin İç Anadolu Bölgesi'nde yer alan Otlukdağı Tepesi, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır."
 keywords: ["Otlukdağı Tepesi","Kayseri","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

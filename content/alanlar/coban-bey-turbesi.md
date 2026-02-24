@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Tarihi yapıları incelemek","Doğal güzellikleri izlemek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Çoban Bey Türbesi","caption":"Çoban Bey Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg/960px-Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg","alt":"Çoban Bey Türbesi","caption":"Çoban Bey Türbesi","credit":"Panoramic view from hotel room in Rhodes island, Trianta, Greece","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87oban%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q20476815","tip":"genel"}]
 description: "Bursa'nın Yıldırım ilçesinde bulunan tarihi bir mekan"
 keywords: ["Çoban Bey Türbesi","Yıldırım","Bursa","tarih","mimarlık","kültür","gezi","turizm","Marmara Bölgesi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Güntutan Dağı","caption":"Güntutan Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/960px-Adams_The_Tetons_and_the_Snake_River.jpg","alt":"Güntutan Dağı","caption":"Güntutan Dağı","credit":"Adams The Tetons and the Snake River","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCntutan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139548","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin, Güntutan Dağı'nda doğa yürüyüşü ve panorama manzaraları"
 keywords: ["Güntutan Dağı","Muğla","Dağ","Doğa Yürüyüşü","Panorama Manzaraları","Trekking","Turizm","Muğla Turistik Yerler","Dağcılık"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","kuş gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Alçı Tepesi","caption":"Alçı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Alçı Tepesi","caption":"Alçı Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Al%C3%A7%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32127900","tip":"genel"}]
 description: "Erzurum'un doğal güzellikleri arasında yer alan Alçı Tepesi, 140 hektarlık geniş alanı ile ziyaretçilerini büyülüyor."
 keywords: ["Alçı Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre","iklim"]

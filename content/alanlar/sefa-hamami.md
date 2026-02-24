@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihçi rehberli turlar","Mimari incelemeler","Fotoğraf çekimi","Tarihi mekanları gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Sefa Hamamı","caption":"Sefa Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Sefa Hamamı","caption":"Sefa Hamamı","credit":"Elmasburnu2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sefa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738619","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Sefa Hamamı, Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunur."
 keywords: ["Sefa Hamamı","Fatih","İstanbul","Marmara Bölgesi","Tarihi mekanlar","Hamam","Gezi","Tarih"]

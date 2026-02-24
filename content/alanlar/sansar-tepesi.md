@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["doğa yürüyüşü","tarihçe turu","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sansar Tepesi","caption":"Sansar Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Sansar Tepesi","caption":"Sansar Tepesi","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sansar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388021","tip":"genel"}]
 description: "Kütahya'nın Ege Bölgesi'nde yer alan Sansar Tepesi, bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Sansar Tepesi","Kütahya","Ege Bölgesi","doğa","tepe","gezi","tarihçe","coğrafya","flora","fauna"]

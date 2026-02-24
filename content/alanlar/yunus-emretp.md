@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Bisiklet","Kamp","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"YUNUS EMRE_TP","caption":"YUNUS EMRE_TP","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"YUNUS EMRE_TP","caption":"YUNUS EMRE_TP","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/YUNUS%20EMRE_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228787","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["YUNUS EMRE_TP","İç Anadolu Bölgesi","doğal güzellikler","milli park","çevre","ekoloji","turizm"]

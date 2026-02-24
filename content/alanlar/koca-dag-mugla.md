@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/5b/%D0%92%D0%B5%D1%80%D1%88%D0%B8%D0%BD%D0%B0_Koca_Da%C4%9F._H%C4%B1z%C4%B1r%C5%9Fah_K%C3%B6y%C3%BC._Dat%C3%A7a._Mu%C4%9Fla._Turkey._%D0%98%D1%8E%D0%BD%D1%8C_2015_-_panoramio.jpg","alt":"Koca Dağ (Muğla) manzarası","credit":"Vadim Indeikin","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"Koca Dağ","caption":"Koca Dağ","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Da%C4%9F%20(Mu%C4%9Fla)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513859","tip":"genel"}]
 description: "Muğla'nın görkemli dağlarından biri olan Koca Dağ, doğal güzellikleri ve zengin florası ile dikkat çekiyor."

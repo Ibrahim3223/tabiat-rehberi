@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kaysan Tepesi","caption":"Kaysan Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Kaysan Tepesi","caption":"Kaysan Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaysan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505257","tip":"genel"}]
 description: "Manisa'nın gizli cenneti Kaysan Tepesi, 140 hektarlık yeşil alanıyla doğa severlerin buluşma noktası."
 keywords: ["Kaysan Tepesi","Manisa","Ege Bölgesi","doğa","tepe","gezi","turizm"]

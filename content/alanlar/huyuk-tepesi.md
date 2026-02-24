@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","gözlem","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/6/65/Neolithic_and_chalcholithic_sites_in_near_east_1_1.png","alt":"Hüyük Tepesi manzarası","credit":"Merikanto","license":"cc-by-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Hüyük Tepesi","caption":"Hüyük Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCy%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34875207","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Hüyük Tepesi, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."

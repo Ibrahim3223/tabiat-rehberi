@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","manzara izleme","yürüyüş","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Hüseyindede Tepesi","caption":"Hüseyindede Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Hüseyindede Tepesi","caption":"Hüseyindede Tepesi","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCseyindede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34875161","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerinden biri olan Hüseyindede Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Hüseyindede Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","gezi"]

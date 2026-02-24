@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wild_horses1_%28cropped%29.jpg/960px-Wild_horses1_%28cropped%29.jpg","alt":"Köroğluağılı Tepesi","caption":"Köroğluağılı Tepesi","credit":"Wild horses1 (cropped).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kessab30.jpg","alt":"Köroğluağılı Tepesi","caption":"Köroğluağılı Tepesi","credit":"Kessab30","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6ro%C4%9Flua%C4%9F%C4%B1l%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042777","tip":"genel"}]
 description: "Kayseri'nin önemli dağlarından biri olan Köroğluağılı Tepesi, 1200 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Köroğluağılı Tepesi","Kayseri","Dağ","Doğa","Turizm","Gezi","Tepeler","Kayseri Turistik Yerler","Köroğluağılı"]

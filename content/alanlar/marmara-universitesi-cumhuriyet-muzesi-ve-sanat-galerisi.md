@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Sanat galerisi ziyareti","Kampüs turu","Yeşil alanlarda dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Goztepe_Park_and_beats_flowers.jpg/960px-Goztepe_Park_and_beats_flowers.jpg","alt":"Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi","caption":"Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi","credit":"Goztepe Park and beats flowers.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cloud_shadows_at_the_mountain.jpg/960px-Cloud_shadows_at_the_mountain.jpg","alt":"Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi","caption":"Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi","credit":"Cloud shadows at the mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Marmara%20%C3%9Cniversitesi%20Cumhuriyet%20M%C3%BCzesi%20ve%20Sanat%20Galerisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949430","tip":"genel"}]
 description: "İstanbul'un kalbinde yer alan Marmara Üniversitesi'nin önemli kültür merkezlerinden biri"
 keywords: ["Marmara Üniversitesi","Cumhuriyet Müzesi","Sanat Galerisi","İstanbul","Müze","Sanat","Kültür","Eğitim"]

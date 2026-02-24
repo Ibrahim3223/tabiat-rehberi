@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","flora ve fauna keşfi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Yanıkdağ Tepesi","caption":"Yanıkdağ Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Yanıkdağ Tepesi","caption":"Yanıkdağ Tepesi","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yan%C4%B1kda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386156","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Yanıkdağ Tepesi, Gaziantep'in sınırları içerisinde yer alır. Bu tepe, bölgenin coğrafi yapısını şekillendiren önemli bir oluşumdur."
 keywords: ["Yanıkdağ Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","doğal güzellik","coğrafi yapı","tepe"]

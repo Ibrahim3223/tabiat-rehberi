@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Eskişehir-Kalabak Karacam","caption":"Eskişehir-Kalabak Karacam","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Munzur_Valley_National_Park.jpg/960px-Munzur_Valley_National_Park.jpg","alt":"Eskişehir-Kalabak Karacam","caption":"Eskişehir-Kalabak Karacam","credit":"Munzur Valley National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Kalabak%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227942","tip":"genel"}]
 description: "Eskişehir'in doğal güzelliklerini keşfedin. Kalabak Karacam milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Eskişehir","Kalabak Karacam","milli park","doğa","gezi","yaban hayatı","çevre"]

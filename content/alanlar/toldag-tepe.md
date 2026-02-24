@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Toldağ Tepe","caption":"Toldağ Tepe","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Toldağ Tepe","caption":"Toldağ Tepe","credit":"Gelincik Dagi Manzara","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tolda%C4%9F%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504519","tip":"genel"}]
 description: "Mersin'de yer alan Toldağ Tepe, doğal güzellikleri ve panoramik manzaralarıyla dikkat çekiyor."
 keywords: ["Toldağ Tepe","Mersin","Dağ","Doğa","Manzara","Turizm","Gezi","Mersin gezilecek yerler","Toldağ Tepe hakkında"]

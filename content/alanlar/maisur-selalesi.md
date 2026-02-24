@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Şelaleyi ziyaret etmek","Doğa yürüyüşü","Fotoğraf çekmek","Bölgenin flora ve faunasını keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_A%C4%9Fa%C3%A7.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_A%C4%9Fa%C3%A7.jpg","alt":"Maisur Şelalesi","caption":"Maisur Şelalesi","credit":"Kurşunlu Şelalesi - Şelalesi Bölgesi - Manzara Fotoğrafı - Ağaç.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tortum2.jpg/960px-Tortum2.jpg","alt":"Maisur Şelalesi","caption":"Maisur Şelalesi","credit":"Tortum2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Maisur%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118946732","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerinden biri olan Maisur Şelalesi, Artvin ilinin merkezinde yer alır."
 keywords: ["Maisur Şelalesi","Artvin","Karadeniz Bölgesi","Doğa","Şelale","Turizm","Gezi","Doğal güzellik"]

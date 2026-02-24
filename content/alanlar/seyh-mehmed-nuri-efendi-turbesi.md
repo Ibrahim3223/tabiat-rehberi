@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Türbe ziyaretleri","Plaj aktiviteleri","Yeşil alanlarda dinlenme","Deniz manzarası izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Şeyh Mehmed Nuri Efendi Türbesi","caption":"Şeyh Mehmed Nuri Efendi Türbesi","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg","alt":"Şeyh Mehmed Nuri Efendi Türbesi","caption":"Şeyh Mehmed Nuri Efendi Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Mehmed%20Nuri%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391667","tip":"genel"}]
 description: "Üsküdar'da bulunan tarihi türbe ve plaj"
 keywords: ["Üsküdar","Şeyh Mehmed Nuri Efendi","Türbe","Plaj","İstanbul","Marmara Bölgesi","Tarih","Doğa"]

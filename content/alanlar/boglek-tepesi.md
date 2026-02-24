@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Fotoğrafçılık","Doğa gözlemi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Böğlek Tepesi","caption":"Böğlek Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/South_room_first_floor._View_looking_southwest._South_addition_visible_through_doorway._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_HABS_VA%2C42-CLOV.V%2C2A-13.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Böğlek Tepesi","caption":"Böğlek Tepesi","credit":"South room first floor. View looking southwest. South addition visible through doorway. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's HABS VA,42-CLOV.V,2A-13","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%B6%C4%9Flek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731182","tip":"genel"}]
 description: "Ankara'nın en önemli doğal güzellikleri arasında yer alan Böğlek Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
 keywords: ["Ankara","doğa","tepe","yeşil alan","gezi","turizm","çevre","ekoloji","gezgin"]

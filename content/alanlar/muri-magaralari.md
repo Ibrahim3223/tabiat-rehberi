@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg/960px-Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg","alt":"Müri Mağaraları","caption":"Müri Mağaraları","credit":"Olsberg (DE), Bruchhauser Steine -- 2023 -- 0262","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MiddleEast.A2003031.0820.250m.jpg/960px-MiddleEast.A2003031.0820.250m.jpg","alt":"Müri Mağaraları","caption":"Müri Mağaraları","credit":"MiddleEast.A2003031.0820.250m","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%BCri%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319606","tip":"genel"}]
 description: "Batman'da yer alan Müri Mağaraları, jeopark olarak bilinen doğal güzellik alanıdır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Müri Mağaraları","Batman","Jeopark","Doğal Güzellik","Turizm","Mağara","Gezi","Seyahat","Doğa"]

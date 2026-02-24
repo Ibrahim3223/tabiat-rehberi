@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Büyük Adatlu","caption":"Büyük Adatlu","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Büyük Adatlu","caption":"Büyük Adatlu","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Adatlu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21199323","tip":"genel"}]
 description: "Iğdır'da bulunan Büyük Adatlu, doğa severler için önemli bir dağ"
 keywords: ["Büyük Adatlu","Iğdır","Dağ","Doğa","Türkiye","Seyahat","Gezi","Macera","Dağcılık"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["güneşlenmek","denizde yüzmek","çevredeki dağları keşfetmek","tarihî yerleri ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg/960px-Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg","alt":"Anonim Türbe (2)","caption":"Anonim Türbe (2)","credit":"Wind direction has changed, now wind is coming from the sea - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff/lossy-page1-900px-A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff.jpg","alt":"Anonim Türbe (2)","caption":"Anonim Türbe (2)","credit":"A Ship Wrecked in a Storm off a Rocky Coast RMG BHC0883","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20T%C3%BCrbe%20(2)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391389","tip":"genel"}]
 description: "Selçuk'taki Anonim Türbe (2) plajı, Ege Bölgesi'nin güzide yerlerinden biri. İzmir'in tarihi ve doğal güzellikleri arasında yer alıyor."
 keywords: ["Selçuk","İzmir","Ege Bölgesi","plaj","doğal güzellik","tarih","gezi"]

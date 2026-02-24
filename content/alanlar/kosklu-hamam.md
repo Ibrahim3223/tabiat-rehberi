@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["denizde yüzme","güneşlenme","su sporları","plajın coğrafi yapısını keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Köşklü Hamam","caption":"Köşklü Hamam","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Köşklü Hamam","caption":"Köşklü Hamam","credit":"Sunset in Erdek","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6%C5%9Fkl%C3%BC%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738916","tip":"genel"}]
 description: "İstanbul'un tarihi plajlarından biri olan Köşklü Hamam, Marmara Bölgesi'nde yer alan bir doğal güzellik"
 keywords: ["Köşklü Hamam","İstanbul","Marmara Bölgesi","plaj","doğal güzellik","Fatih","deniz","kumsal"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Mezarlık gezisi","Kültür varlıkları incelemesi","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Hisar Anıt Mezarı","caption":"Hisar Anıt Mezarı","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Adatepe_manzara.JPG/960px-Adatepe_manzara.JPG","alt":"Hisar Anıt Mezarı","caption":"Hisar Anıt Mezarı","credit":"Adatepe manzara","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hisar%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728157","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Araban ilçesinde bulunan tarihi mezar"
 keywords: ["Hisar Anıt Mezarı","Araban","Gaziantep","Güneydoğu Anadolu Bölgesi","tarihi mezar","anıt mezar","kültür varlığı","tarih","coğrafya"]

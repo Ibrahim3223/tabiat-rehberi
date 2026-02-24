@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Danaağzı Tabiat Parkı","caption":"Danaağzı Tabiat Parkı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Akdag-6256.jpg/960px-Akdag-6256.jpg","alt":"Danaağzı Tabiat Parkı","caption":"Danaağzı Tabiat Parkı","credit":"Akdag-6256","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Danaa%C4%9Fz%C4%B1%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228474","tip":"genel"}]
 description: "Zonguldak'ta yer alan Danaağzı Tabiat Parkı, Karadeniz Bölgesi'nin güzide doğal alanlarından biri"
 keywords: ["Danaağzı Tabiat Parkı","Zonguldak","Karadeniz Bölgesi","doğal alan","tabiat parkı","iç Anadolu Bölgesi","turizm","gezi","doğa"]

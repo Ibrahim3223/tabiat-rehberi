@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Köklü Tepe","caption":"Köklü Tepe","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg/960px-Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg","alt":"Köklü Tepe","caption":"Köklü Tepe","credit":"Tahtal Dağı 06 02 2013 Gipfel mit Bey Dağları","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6kl%C3%BC%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042748","tip":"genel"}]
 description: "Diyarbakır'da yer alan Köklü Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Köklü Tepe","Diyarbakır","Dağ","Doğa","Tarih","Yeşil Alan","Turizm","Gezi","Seyahat"]

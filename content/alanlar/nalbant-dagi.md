@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Nalbant Dağı","caption":"Nalbant Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Aksaray_1998_01.jpg/960px-Aksaray_1998_01.jpg","alt":"Nalbant Dağı","caption":"Nalbant Dağı","credit":"Aksaray 1998 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nalbant%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509954","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Nalbant Dağı, doğa severler için bir cennet. 1200 hektarlık alanı ile İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Nalbant Dağı","Türkiye Dağları","Doğa Turizmi","İstanbul","Dağcılık","Trekking","Doğa Yürüyüşü","Gezi Rehberi","Turizm"]

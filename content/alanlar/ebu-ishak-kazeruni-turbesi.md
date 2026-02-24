@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Ebu İshak Kazeruni Türbesi","caption":"Ebu İshak Kazeruni Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Altincamp_20140729_Sunset.jpg/960px-Altincamp_20140729_Sunset.jpg","alt":"Ebu İshak Kazeruni Türbesi","caption":"Ebu İshak Kazeruni Türbesi","credit":"Altincamp 20140729 Sunset","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ebu%20%C4%B0shak%20Kazeruni%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390804","tip":"genel"}]
 description: "Erzurum'un tarihi ve doğal güzelliklerini keşfedin. Ebu İshak Kazeruni Türbesi, Doğu Anadolu Bölgesi'nin önemli dini merkezlerinden biri."
 keywords: ["Ebu İshak Kazeruni","Türbe","Erzurum","Doğu Anadolu Bölgesi","Tarih","Din","Kültür"]

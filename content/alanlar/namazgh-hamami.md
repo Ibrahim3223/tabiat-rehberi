@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Denize girme","Yürüyüş","Bisiklet sürme","Tarihi yapıları ziyaret etme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg/960px-Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg","alt":"Namazgâh Hamamı","caption":"Namazgâh Hamamı","credit":"Wind direction has changed, now wind is coming from the sea - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beach_Antakya_Turkey_-_panoramio.jpg/960px-Beach_Antakya_Turkey_-_panoramio.jpg","alt":"Namazgâh Hamamı","caption":"Namazgâh Hamamı","credit":"Beach Antakya Turkey - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Namazg%C3%A2h%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q5994617","tip":"genel"}]
 description: "İzmir'in tarihi plajlarından biri olan Namazgâh Hamamı, Konak ilçesinde yer alır. Şehir merkezine yakınlığı ve tarihi önemiyle dikkat çeker."
 keywords: ["Namazgâh Hamamı","İzmir plajları","Konak","tarih","deniz","turizm","gezi","seyahat","Ege Bölgesi"]

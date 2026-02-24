@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Yartaşı Tepesi","caption":"Yartaşı Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Yartaşı Tepesi","caption":"Yartaşı Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yarta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388380","tip":"genel"}]
 description: "Muş'un doğal güzellikleri arasında yer alan Yartaşı Tepesi, ziyaretçilerini kendine çağıran bir destinasyon."
 keywords: ["Yartaşı Tepesi","Muş","Doğu Anadolu Bölgesi","doğa","gezi","tepe","manzara","gezilecek yerler"]

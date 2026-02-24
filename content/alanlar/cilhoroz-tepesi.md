@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Çilhoroz Tepesi","caption":"Çilhoroz Tepesi","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Çilhoroz Tepesi","caption":"Çilhoroz Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ilhoroz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819037","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide şehirlerinden Erzincan'da yer alan Çilhoroz Tepesi, 140 hektarlık genişliğinde ve yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplıyor."
 keywords: ["Çilhoroz Tepesi","Erzincan","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarih gezileri","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Maltepe Tümülüsü, Sivas","caption":"Maltepe Tümülüsü, Sivas","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg/960px-35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg","alt":"Maltepe Tümülüsü, Sivas","caption":"Maltepe Tümülüsü, Sivas","credit":"35960 Hasseki-Karaburun-İzmir, Turkey - panoramio (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Maltepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Sivas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728412","tip":"genel"}]
 description: "Sivas'ta tarihi bir tümülüs, 140 hektarlık yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Sivas","Maltepe Tümülüsü","tarih","doğa","gezi","Sivas gezilecek yerler","tümülüs","Sivas tarihi"]

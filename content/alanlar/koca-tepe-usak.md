@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Koca Tepe (Uşak)","caption":"Koca Tepe (Uşak)","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg/960px-.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg","alt":"Koca Tepe (Uşak)","caption":"Koca Tepe (Uşak)","credit":".00 1627 Tuffsteinlandschaft von Göreme (Türkei)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Tepe%20(U%C5%9Fak)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513715","tip":"genel"}]
 description: "Uşak'ta bulunan Koca Tepe, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çeker. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Koca Tepe","Uşak","Dağ","Doğa","Yürüyüş Rotası","Yeşil Alan","Turizm","Gezi","Uşak Turistik Yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Şeyh Muhammed Arabkendi Türbesi","caption":"Şeyh Muhammed Arabkendi Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg","alt":"Şeyh Muhammed Arabkendi Türbesi","caption":"Şeyh Muhammed Arabkendi Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Muhammed%20Arabkendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391230","tip":"genel"}]
 description: "Diyarbakır'ın Bismil ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Şeyh Muhammed Arabkendi Türbesi","Bismil","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","kültür","doğa"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Kasris-Seri","caption":"Kasris-Seri","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Taurus_05_01_2012_Golf_von_Antalya_mit_Kuyucak_Da%C4%9F%C4%B1.jpg/960px-Taurus_05_01_2012_Golf_von_Antalya_mit_Kuyucak_Da%C4%9F%C4%B1.jpg","alt":"Kasris-Seri","caption":"Kasris-Seri","credit":"Taurus 05 01 2012 Golf von Antalya mit Kuyucak Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kasris-Seri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21696534","tip":"genel"}]
 description: "Gürcistan'ın Samtshe-Cavaheti bölgesinde yer alan Kasris-Seri Dağı, doğal güzelliği ile dikkat çekiyor."
 keywords: ["Kasris-Seri","Gürcistan","Samtshe-Cavaheti","Dağ","Doğa","Gürcistan Dağları","Samtshe-Cavaheti Bölgesi","Turizm"]

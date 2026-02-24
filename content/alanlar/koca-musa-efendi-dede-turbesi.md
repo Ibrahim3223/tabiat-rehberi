@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihi mekanları ziyaret","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Koca Musa Efendi Dede Türbesi","caption":"Koca Musa Efendi Dede Türbesi","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Koca Musa Efendi Dede Türbesi","caption":"Koca Musa Efendi Dede Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Musa%20Efendi%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391624","tip":"genel"}]
 description: "Nazilli/Aydın'da bulunan Koca Musa Efendi Dede Türbesi, Ege Bölgesi'nin önemli dini ve turistik mekanlarından biridir."
 keywords: ["Koca Musa Efendi Dede Türbesi","Nazilli","Aydın","Ege Bölgesi","tarihi mekan","dini mekan","turistik mekan","gezi","türbe"]

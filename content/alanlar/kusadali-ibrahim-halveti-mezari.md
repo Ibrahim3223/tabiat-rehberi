@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["mezarlık gezisi","tarihi araştırma","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Kuşadalı İbrahim Halveti Mezarı","caption":"Kuşadalı İbrahim Halveti Mezarı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Kuşadalı İbrahim Halveti Mezarı","caption":"Kuşadalı İbrahim Halveti Mezarı","credit":"Mediterranean.^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fadal%C4%B1%20%C4%B0brahim%20Halveti%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390688","tip":"genel"}]
 description: "Kuşadası'nda bulunan İbrahim Halveti Mezarı, tarihi ve doğal güzellikleri bir arada sunan özel bir destinasyon"
 keywords: ["Kuşadalı İbrahim Halveti Mezarı","Kuşadası","tarihi mekanlar","doğal güzellikler","mezar","İbrahim Halveti","Kuşadası gezilecek yerler","tarih","doğa"]

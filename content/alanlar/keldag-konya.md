@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Keldağ","caption":"Keldağ","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg/960px-Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg","alt":"Keldağ","caption":"Keldağ","credit":"Kars Yaylası 06 1989 Dumanlı Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelda%C4%9F%20(Konya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515863","tip":"genel"}]
 description: "Konya'da yer alan Keldağ, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Keldağ","Konya","Dağ","Doğa","Yürüyüş Rotası","Yeşil Alan","Konya Turizm","Turistik Yerler","Doğal Güzellikler"]

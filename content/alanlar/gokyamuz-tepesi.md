@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Gökyamuz Tepesi","caption":"Gökyamuz Tepesi","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Gökyamuz Tepesi","caption":"Gökyamuz Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kyamuz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138318","tip":"genel"}]
 description: "Antalya'da doğal güzelliklerin buluşma noktası olan Gökyamuz Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğündedir."
 keywords: ["Gökyamuz Tepesi","Antalya","doğal güzellik","yeşil alan","akdeniz bölgesi","tepe","gezi","doğa","flora","fauna"]

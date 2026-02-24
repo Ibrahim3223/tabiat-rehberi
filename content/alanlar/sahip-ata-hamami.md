@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Tarihi hamamın gezilmesi","Plaj alanında dinlenmek","Meram'ın tarihi yerlerini ziyaret etmek","Doğal güzelliğin deneyimlenmesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Sahip Ata Hamamı","caption":"Sahip Ata Hamamı","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pirlanta_beach%2C_without_waves_october_2009_3_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_3_-_panoramio.jpg","alt":"Sahip Ata Hamamı","caption":"Sahip Ata Hamamı","credit":"Pirlanta beach, without waves october 2009 3 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sahip%20Ata%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738676","tip":"genel"}]
 description: "Meram'da tarihi bir hamam ve plaj alanı"
 keywords: ["Sahip Ata Hamamı","Meram","Konya","tarihi hamam","plaj","İç Anadolu Bölgesi"]

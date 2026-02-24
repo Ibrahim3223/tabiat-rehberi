@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kalaçagir Tepesi","caption":"Kalaçagir Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg","alt":"Kalaçagir Tepesi","caption":"Kalaçagir Tepesi","credit":"Ankara asv2021-10 img14 view from Atakule mall","license":"FAL"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kala%C3%A7agir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877443","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzellikleriyle dikkat çeken Kalaçagir Tepesi, yaklaşık 140 hektarlık bir alanı kaplar ve bölgeye özgü flora ile fauna çeşitliliğini sunar."
 keywords: ["Mardin","Kalaçagir Tepesi","doğa","tarih","gezi","tepe","Güneydoğu Anadolu Bölgesi","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","doğa yürüyüşü","manzara seyretmek","tarihî kalıntıları keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kurtkıracı Tepesi","caption":"Kurtkıracı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Kurtkıracı Tepesi","caption":"Kurtkıracı Tepesi","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtk%C4%B1rac%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31541313","tip":"genel"}]
 description: "Diyarbakır'ın doğal güzelliklerinin başında gelen Kurtkıracı Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kurtkıracı Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","gezi","tepe"]

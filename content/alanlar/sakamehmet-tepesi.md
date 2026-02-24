@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg","alt":"Şakamehmet Tepesi","caption":"Şakamehmet Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 07.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Şakamehmet Tepesi","caption":"Şakamehmet Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eakamehmet%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391022","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Şakamehmet Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Şakamehmet Tepesi","Kahramanmaraş","Akdeniz Bölgesi","tepe","doğa","gezi","turizm"]

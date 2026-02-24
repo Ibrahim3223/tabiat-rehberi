@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Piknik","Fauna Gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Eskişehir-Kalabak Saricam 2","caption":"Eskişehir-Kalabak Saricam 2","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_logo.svg.png","alt":"Eskişehir-Kalabak Saricam 2","caption":"Eskişehir-Kalabak Saricam 2","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks logo","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Kalabak%20Saricam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227980","tip":"genel"}]
 description: "Eskişehir'in doğal güzelliklerini keşfedin. 140 hektarlık milli parkta doğa ile baş başa kalın."
 keywords: ["Eskişehir","Kalabak Saricam","Milli Park","Doğa","Yeşil Alan","Turizm","Gezi","İç Anadolu"]

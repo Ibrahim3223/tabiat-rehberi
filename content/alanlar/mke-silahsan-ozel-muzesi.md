@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Bahçe turu","Eğitim programları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"MKE Silahsan Özel Müzesi","caption":"MKE Silahsan Özel Müzesi","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio_%281%29.jpg/960px-B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio_%281%29.jpg","alt":"MKE Silahsan Özel Müzesi","caption":"MKE Silahsan Özel Müzesi","credit":"Büyükada island, Turkey - panoramio (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/MKE%20Silahsan%20%C3%96zel%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28136374","tip":"genel"}]
 description: "Kırıkkale'de yer alan MKE Silahsan Özel Müzesi, tarihi silah koleksiyonlarıyla ziyaretçilerini bekliyor."
 keywords: ["MKE Silahsan","Özel Müze","Kırıkkale","İç Anadolu Bölgesi","Silah Koleksiyonu","Tarih","Müze"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Ziyaret Tepesi (Kars, 40.37 Kuzey)","caption":"Ziyaret Tepesi (Kars, 40.37 Kuzey)","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Ziyaret Tepesi (Kars, 40.37 Kuzey)","caption":"Ziyaret Tepesi (Kars, 40.37 Kuzey)","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20Tepesi%20(Kars%2C%2040.37%20Kuzey)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388281","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Kars şehrinde yer alan Ziyaret Tepesi, tarihi ve coğrafi güzellikleri bir araya getiren bir destinasyon"
 keywords: ["Kars","Doğu Anadolu Bölgesi","Ziyaret Tepesi","tarih","coğrafya","doğa","gezi","turizm"]

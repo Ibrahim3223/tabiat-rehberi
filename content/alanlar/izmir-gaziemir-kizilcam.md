@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Izmir-Gaziemir Kızılçam","caption":"Izmir-Gaziemir Kızılçam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg","alt":"Izmir-Gaziemir Kızılçam","caption":"Izmir-Gaziemir Kızılçam","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru - 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Gaziemir%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227893","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. İzmir-Gaziemir Kızılçam milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["İzmir","Gaziemir","Kızılçam","milli park","doğa","yeşil alan","futbol sahası"]

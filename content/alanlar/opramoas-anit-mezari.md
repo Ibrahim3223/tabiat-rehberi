@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih turu","doğa yürüyüşü","fotografi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Opramoas Anıt Mezarı","caption":"Opramoas Anıt Mezarı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg","alt":"Opramoas Anıt Mezarı","caption":"Opramoas Anıt Mezarı","credit":"Sunset at Aegean Sea, İzmir 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Opramoas%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728429","tip":"genel"}]
 description: "Kumluca'da bulunan tarihi mezar, Akdeniz'in güzelliğini keşfet"
 keywords: ["Opramoas Anıt Mezarı","Kumluca","Antalya","Akdeniz Bölgesi","tarihi mezar","anıt mezar","kültür turizmi"]

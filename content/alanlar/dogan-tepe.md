@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Serkan_%C3%B6d%C3%BCl_t%C3%B6reni.jpg","alt":"Doğan Tepe manzarası","credit":"Serkan Aydın Oyuncu","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Doğan Tepe","caption":"Doğan Tepe","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/9/96/Heroism_behind_a_hill.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Heroism_behind_a_hill.jpg/1280px-Heroism_behind_a_hill.jpg","alt":"Doğan Tepe - Heroism behind a hill","credit":"Gallipolifocus","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fa/%C3%87avu%C5%9F_K%C3%B6y%C3%BC-Do%C4%9Fan_Tepe-_Ahmet_YAZAR_-_panoramio.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%C3%87avu%C5%9F_K%C3%B6y%C3%BC-Do%C4%9Fan_Tepe-_Ahmet_YAZAR_-_panoramio.jpg/1280px-%C3%87avu%C5%9F_K%C3%B6y%C3%BC-Do%C4%9Fan_Tepe-_Ahmet_YAZAR_-_panoramio.jpg","alt":"Doğan Tepe - Çavuş Köyü-Doğan Tepe- Ahmet YAZAR - panoramio","credit":"İlyas YAZAR","license":"cc-by-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388030","tip":"genel"}]
 description: "Afyonkarahisar'ın Ege Bölgesi'nde yer alan doğal güzellik"

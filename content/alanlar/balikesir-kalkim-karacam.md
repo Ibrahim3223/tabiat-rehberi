@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Balıkesir-Kalkim Karacam","caption":"Balıkesir-Kalkim Karacam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Balıkesir-Kalkim Karacam","caption":"Balıkesir-Kalkim Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1kesir-Kalkim%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227675","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, doğa severler için bir hazine. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Balıkesir","Kalkim Karacam","milli park","doğa","gezi","turizm","iç anadolu","çevre","ekosistem"]

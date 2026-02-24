@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Dondurmanınbaşı Tepesi","caption":"Dondurmanınbaşı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Dondurmanınbaşı Tepesi","caption":"Dondurmanınbaşı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dondurman%C4%B1nba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390718","tip":"genel"}]
 description: "Yozgat'ın gizli güzelliği, Dondurmanınbaşı Tepesi'ni keşfedin!"
 keywords: ["Dondurmanınbaşı Tepesi","Yozgat","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya"]

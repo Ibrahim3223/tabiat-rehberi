@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenmek","doğa yürüyüşü","fotografi","mola vermek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Murad-ı Münzavi Türbesi","caption":"Murad-ı Münzavi Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Murad-ı Münzavi Türbesi","caption":"Murad-ı Münzavi Türbesi","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Murad-%C4%B1%20M%C3%BCnzavi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390984","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Murad-ı Münzavi Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Murad-ı Münzavi Türbesi","Eyüpsultan","İstanbul","Marmara Bölgesi","tarihi mekan","doğa","gezi","tarihçe","coğrafya"]

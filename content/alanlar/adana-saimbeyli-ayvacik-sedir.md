@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg/960px-Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg","alt":"Adana-Saimbeyli-Ayvacik Sedir","caption":"Adana-Saimbeyli-Ayvacik Sedir","credit":"Aladağlar Milli Parkı - Aladaglar National Park 01","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Adana-Saimbeyli-Ayvacik Sedir","caption":"Adana-Saimbeyli-Ayvacik Sedir","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Saimbeyli-Ayvacik%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227206","tip":"genel"}]
 description: "Adana'da yer alan Sedir Ormanı, 140 hektarlık genişlikte ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
 keywords: ["Adana","Saimbeyli","Ayvacik","Sedir Ormanı","Doğa","Yeşil Alan","Futbol Sahanı","Orman","Çevre"]

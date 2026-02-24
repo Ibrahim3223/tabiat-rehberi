@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/K%C3%A2hta_district_landscape.jpg/960px-K%C3%A2hta_district_landscape.jpg","alt":"Kedolan Tepesi","caption":"Kedolan Tepesi","credit":"Kâhta district landscape.jpg","license":"CC BY 3.0 pl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Kedolan Tepesi","caption":"Kedolan Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kedolan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31588814","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli güzelliği, Adıyaman'ın Sincik ilçesinde yer alan Kedolan Tepesi, doğa severlerin keşfetmeyi çok sevdiği bir destinasyon"
 keywords: ["Kedolan Tepesi","Sincik","Adıyaman","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","keşif"]

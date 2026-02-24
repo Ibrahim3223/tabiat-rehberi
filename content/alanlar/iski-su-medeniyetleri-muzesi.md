@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Su medeniyetleri hakkında bilgi alma","Eser ve belgelerin incelenmesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Black_and_white_Paris_landscape.jpg/960px-Black_and_white_Paris_landscape.jpg","alt":"İSKİ Su Medeniyetleri Müzesi","caption":"İSKİ Su Medeniyetleri Müzesi","credit":"Black and white Paris landscape","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"İSKİ Su Medeniyetleri Müzesi","caption":"İSKİ Su Medeniyetleri Müzesi","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0SK%C4%B0%20Su%20Medeniyetleri%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949412","tip":"genel"}]
 description: "İstanbul'un tarihine ışık tutan İSKİ Su Medeniyetleri Müzesi, suyun şehre kazandırdıklarını gözler önüne seriyor."
 keywords: ["İSKİ Su Medeniyetleri Müzesi","su medeniyetleri","İstanbul","müze","su","tarih","şehir","kültür"]

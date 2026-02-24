@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültür turu","fotografcılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Çifte Gelinler Türbesi","caption":"Çifte Gelinler Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_12.jpg","alt":"Çifte Gelinler Türbesi","caption":"Çifte Gelinler Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ifte%20Gelinler%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135430366","tip":"genel"}]
 description: "İstanbul'un Eyüpsultan ilçesinde yer alan tarihi bir mekan"
 keywords: ["Çifte Gelinler Türbesi","Eyüpsultan","İstanbul","tarih","mimari","turizm","gezi","kültür","Marmara Bölgesi"]

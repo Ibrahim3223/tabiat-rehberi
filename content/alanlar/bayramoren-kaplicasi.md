@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Bir gün veya birkaç gün"
 aktiviteler: ["Termal su tedavisi","Doğa yürüyüşü","Yaban hayatı gözlemleme","Çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Arif_solak_BanazHamambogazi1.jpg","alt":"Bayramören Kaplıcası","caption":"Bayramören Kaplıcası","credit":"Arif solak BanazHamambogazi1","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pamukkale%2C_Turkey_%28ASTER%29.jpg/960px-Pamukkale%2C_Turkey_%28ASTER%29.jpg","alt":"Bayramören Kaplıcası","caption":"Bayramören Kaplıcası","credit":"Pamukkale, Turkey (ASTER)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bayram%C3%B6ren%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741892","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli bir hazine olan Bayramören Kaplıcası, 140 hektarlık geniş bir alana kurulmuştur. Doğal güzellikleri ve sağlık açısından önemi nedeniyle ziyaretçilerini bekliyor."
 keywords: ["Bayramören Kaplıcası","İç Anadolu Bölgesi","Termal Kaynak","Sağlık Turizmi","Doğa","Kaplıca","Çankırı"]

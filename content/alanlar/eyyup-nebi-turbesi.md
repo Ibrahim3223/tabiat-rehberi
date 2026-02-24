@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Eyyup Nebi Türbesi","caption":"Eyyup Nebi Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Eyyup Nebi Türbesi","caption":"Eyyup Nebi Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eyyup%20Nebi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390947","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Eyyup Nebi Türbesi","Şanlıurfa","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","türbe","kültür"]

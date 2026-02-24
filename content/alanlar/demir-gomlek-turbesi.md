@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Tarihî bölge turu","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Demir Gömlek Türbesi","caption":"Demir Gömlek Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg","alt":"Demir Gömlek Türbesi","caption":"Demir Gömlek Türbesi","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demir%20G%C3%B6mlek%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390491","tip":"genel"}]
 description: "Karaman'da tarihi ve doğal güzellikleri bir arada sunan Demir Gömlek Türbesi, 1400'lerden kalma önemli bir tarihi yapı"
 keywords: ["Demir Gömlek Türbesi","Karaman","Türbe","Tarih","Doğa","Gezi","Türkiye"]

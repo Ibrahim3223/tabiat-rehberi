@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg/960px-Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg","alt":"Koç Dağı","caption":"Koç Dağı","credit":"Landschap met ruïnes en het aquaduct naar Efeze, RP-F-F00998-AV.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"Koç Dağı","caption":"Koç Dağı","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7%20Da%C4%9F%C4%B1%20(Van%2C%2038.19%20N)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042408","tip":"genel"}]
 description: "Van ilinde yer alan Koç Dağı, 38.19 N enleminde bulunmaktadır. Doğal güzellikleri ve trekking rotalarıyla dikkat çekmektedir."
 keywords: ["Koç Dağı","Van","Dağ","Trekking","Doğa","Gezi","Seyahat","Turizm","Van Gezilecek Yerler"]

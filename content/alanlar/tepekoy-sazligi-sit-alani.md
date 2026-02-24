@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kuş gözlemciliği","sulak alan keşfi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Tepeköy Sazlığı Sit Alanı","caption":"Tepeköy Sazlığı Sit Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MOKFC01.jpg/960px-MOKFC01.jpg","alt":"Tepeköy Sazlığı Sit Alanı","caption":"Tepeköy Sazlığı Sit Alanı","credit":"MOKFC01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepek%C3%B6y%20Sazl%C4%B1%C4%9F%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226227","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Tepeköy Sazlığı, zengin fauna ve flora çeşitliliğiyle dikkat çekiyor."
 keywords: ["Tepeköy Sazlığı Sit Alanı","İç Anadolu Bölgesi","doğal güzellikler","zengin fauna","flora çeşitliliği"]

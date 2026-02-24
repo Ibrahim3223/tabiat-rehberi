@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg/960px-Olsberg_%28DE%29%2C_Bruchhauser_Steine_--_2023_--_0262.jpg","alt":"Derindatga Mağarası","caption":"Derindatga Mağarası","credit":"Olsberg (DE), Bruchhauser Steine -- 2023 -- 0262","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/MapAnatolia1920-1122.jpg/960px-MapAnatolia1920-1122.jpg","alt":"Derindatga Mağarası","caption":"Derindatga Mağarası","credit":"MapAnatolia1920-1122","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Derindatga%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319122","tip":"genel"}]
 description: "Batman'da yer alan 1200 hektarlık jeopark, Türkiye'nin en önemli doğal alanlarından biri"
 keywords: ["Derindatga Mağarası","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Doğa","Jeoloji"]

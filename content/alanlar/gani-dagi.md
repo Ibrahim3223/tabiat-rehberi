@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg","alt":"Gani Dağı","caption":"Gani Dağı","credit":"Kayaözü Creek Valley, Kahramanmaraş 07.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Gani Dağı","caption":"Gani Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gani%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31523712","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Gani Dağı, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Gani Dağı","Kahramanmaraş","Dağ","Doğa","Trekking","Coğrafi Oluşum","Turizm","Gezi","Doğal Güzellik"]

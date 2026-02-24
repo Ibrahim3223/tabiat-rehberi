@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Divanlı Mağaraları","caption":"Divanlı Mağaraları","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MiddleEast.A2003031.0820.250m.jpg/960px-MiddleEast.A2003031.0820.250m.jpg","alt":"Divanlı Mağaraları","caption":"Divanlı Mağaraları","credit":"MiddleEast.A2003031.0820.250m","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Divanl%C4%B1%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319129","tip":"genel"}]
 description: "Yozgat'ta bulunan jeopark, doğa harikaları ve tarihi zenginlikleriyle dikkat çekiyor."
 keywords: ["Divanlı Mağaraları","Yozgat","Jeopark","Doğa Harikaları","Tarih","Turizm","Yozgat Turistik Yerler","Mağara","Jeolojik Oluşumlar"]

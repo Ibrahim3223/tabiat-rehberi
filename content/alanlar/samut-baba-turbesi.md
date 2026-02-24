@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları ziyaret etmek","Denize girerek serinlemek","Doğa yürüyüşü yapmak","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Samut Baba Türbesi","caption":"Samut Baba Türbesi","credit":"Beach view - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Samut Baba Türbesi","caption":"Samut Baba Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Samut%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390564","tip":"genel"}]
 description: "İzmir'in Urla ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği Samut Baba Türbesi"
 keywords: ["Samut Baba Türbesi","Urla","İzmir","Ege Bölgesi","Türbe","Plaj","Deniz","Tarih"]

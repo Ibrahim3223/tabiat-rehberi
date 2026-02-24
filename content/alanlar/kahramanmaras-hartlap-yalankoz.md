@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Kampçılık","Yaban hayatı izleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Kahramanmaras-Hartlap Yalankoz","caption":"Kahramanmaras-Hartlap Yalankoz","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Kahramanmaras-Hartlap Yalankoz","caption":"Kahramanmaras-Hartlap Yalankoz","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Hartlap%20Yalankoz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227710","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Kahramanmaras-Hartlap Yalankoz Milli Parkı"
 keywords: ["Kahramanmaras","Hartlap Yalankoz","Milli Park","İç Anadolu Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı"]

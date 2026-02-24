@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["plajda güneşlenmek","tarihî türbeyi ziyaret etmek","doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Seyfullah Dede Türbesi","caption":"Seyfullah Dede Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Latrans-Turkey_location_Aegean_Region.svg/960px-Latrans-Turkey_location_Aegean_Region.svg.png","alt":"Seyfullah Dede Türbesi","caption":"Seyfullah Dede Türbesi","credit":"Latrans-Turkey location Aegean Region","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyfullah%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582627","tip":"genel"}]
 description: "Eğirdir'de bulunan tarihi türbe ve plaj"
 keywords: ["Seyfullah Dede Türbesi","Eğirdir","Isparta","Akdeniz Bölgesi","tarih","plaj","turizm"]

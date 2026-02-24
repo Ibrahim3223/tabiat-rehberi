@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî türbe gezisi","doğa yürüyüşü","fotograf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ahi Yusuf Türbesi","caption":"Ahi Yusuf Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg","alt":"Ahi Yusuf Türbesi","caption":"Ahi Yusuf Türbesi","credit":"2023-11-04 Choban beach near Kaş 2","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20Yusuf%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391658","tip":"genel"}]
 description: "Sivas'ın Divriği ilçesinde bulunan tarihi türbe ve çevresi hakkında bilgi"
 keywords: ["Ahi Yusuf Türbesi","Divriği","Sivas","tarih","türbe","coğrafya","flora","fauna"]

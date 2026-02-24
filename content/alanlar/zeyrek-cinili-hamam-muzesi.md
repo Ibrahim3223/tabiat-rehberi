@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi hamam gezisi","Mimari keşif","Kültürel deneyim","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Goztepe_Park_and_beats_flowers.jpg/960px-Goztepe_Park_and_beats_flowers.jpg","alt":"Zeyrek Çinili Hamam Müzesi","caption":"Zeyrek Çinili Hamam Müzesi","credit":"Goztepe Park and beats flowers","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cloud_shadows_at_the_mountain.jpg/960px-Cloud_shadows_at_the_mountain.jpg","alt":"Zeyrek Çinili Hamam Müzesi","caption":"Zeyrek Çinili Hamam Müzesi","credit":"Cloud shadows at the mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeyrek%20%C3%87inili%20Hamam%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949560","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Zeyrek Çinili Hamam Müzesi, ziyaretçiler için önemli bir kültürel destinasyon."
 keywords: ["Zeyrek Çinili Hamam Müzesi","İstanbul","Marmara Bölgesi","tarihi hamam","müze","kültürel destinasyon","gezi","tarih","mimari"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Gora Algvnet","caption":"Gora Algvnet","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Gora Algvnet","caption":"Gora Algvnet","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Algvnet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386202","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği Gora Algvnet, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Gora Algvnet","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Nergis Tepesi","caption":"Nergis Tepesi","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg/960px-H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg","alt":"Nergis Tepesi","caption":"Nergis Tepesi","credit":"Hürmetçi ve Erciyes","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nergis%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572683","tip":"genel"}]
 description: "Van'da bulunan Nergis Tepesi, 1200 metre yüksekliğiyle bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Nergis Tepesi","Van","Dağ","Doğa","Turizm","Gezi","Trekking","Van gezilecek yerler","Nergis Tepesi hakkında"]

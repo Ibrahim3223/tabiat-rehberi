@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî hamam gezisi","plaj activities","bitki ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Hızır Paşa Hamamı","caption":"Hızır Paşa Hamamı","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sprinter_on_a_vase%2C_Fikellura_style_amphora_with_a_running_man%2C_Greek%2C_6th_century_BC%2C_from_Kamiros%2C_Rhodes%2C_Aegean_Sea%2C_Winning_at_the_ancient_Games%2C_British_Museum_%287667202636%29.jpg/960px-thumbnail.jpg","alt":"Hızır Paşa Hamamı","caption":"Hızır Paşa Hamamı","credit":"Sprinter on a vase, Fikellura style amphora with a running man, Greek, 6th century BC, from Kamiros, Rhodes, Aegean Sea, Winning at the ancient Games, British Museum (7667202636)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1z%C4%B1r%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738954","tip":"genel"}]
 description: "Amasya'da bulunan tarihi hamam ve plaj alanı"
 keywords: ["Hızır Paşa Hamamı","Amasya","Karadeniz Bölgesi","tarihi hamam","plaj","gezi","turizm","kültür"]

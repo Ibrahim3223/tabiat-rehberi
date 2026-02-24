@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","picnic","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_A%C4%9Fa%C3%A7.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_A%C4%9Fa%C3%A7.jpg","alt":"Senavat Şelalesi","caption":"Senavat Şelalesi","credit":"Kurşunlu Şelalesi - Şelalesi Bölgesi - Manzara Fotoğrafı - Ağaç.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Eingang_Wasserfall_Kursunlu.JPG/960px-Eingang_Wasserfall_Kursunlu.JPG","alt":"Senavat Şelalesi","caption":"Senavat Şelalesi","credit":"Eingang Wasserfall Kursunlu","license":"CC BY-SA 2.0 de"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Senavat%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97212596","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti Senavat Şelalesi, doğa severlerin ziyaret etmesi gereken bir destinasyon."
 keywords: ["Senavat Şelalesi","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","doğa harikası","yerel turizm","Türkiye'nin gizli cennetleri"]

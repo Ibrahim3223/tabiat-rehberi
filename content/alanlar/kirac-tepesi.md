@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kıraç Tepesi","caption":"Kıraç Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Kıraç Tepesi","caption":"Kıraç Tepesi","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1ra%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211205","tip":"genel"}]
 description: "Eskişehir'de yer alan doğal bir güzellik olan Kıraç Tepesi, İç Anadolu Bölgesi'nin eşsiz manzaralarına ev sahipliği yapar."
 keywords: ["Kıraç Tepesi","Eskişehir","İç Anadolu Bölgesi","doğal güzellik","tepe","manzara","gezi","turizm","yerel tarih"]

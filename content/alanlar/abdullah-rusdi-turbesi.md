@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihî yapıları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abdullah Rüşdi Türbesi","caption":"Abdullah Rüşdi Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Abdullah Rüşdi Türbesi","caption":"Abdullah Rüşdi Türbesi","credit":"Sunset in Erdek","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdullah%20R%C3%BC%C5%9Fdi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390715","tip":"genel"}]
 description: "Bolu'nun Mudurnu ilçesinde bulunan Abdullah Rüşdi Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir yer."
 keywords: ["Abdullah Rüşdi Türbesi","Mudurnu","Bolu","tarih","doğa","turizm","gezi","karadeniz"]

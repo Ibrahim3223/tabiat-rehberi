@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Bitki gözlemi","Hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MOKFC06.jpg/960px-MOKFC06.jpg","alt":"Gümüldür Tabiat Parkı","caption":"Gümüldür Tabiat Parkı","credit":"MOKFC06.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-3.jpg","alt":"Gümüldür Tabiat Parkı","caption":"Gümüldür Tabiat Parkı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-3","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BCld%C3%BCr%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228154","tip":"genel"}]
 description: "İzmir'in Menderes ilçesinde yer alan Gümüldür Tabiat Parkı, 140 hektarlık geniş bir yeşil alan sunar."
 keywords: ["Gümüldür Tabiat Parkı","Menderes","İzmir","Ege Bölgesi","Tabiat Parkı","Yeşil Alan","Doğa"]

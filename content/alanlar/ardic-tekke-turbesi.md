@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["doğa yürüyüşü","tarihî yerleri ziyaret","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Ardıç Tekke Türbesi","caption":"Ardıç Tekke Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Ardıç Tekke Türbesi","caption":"Ardıç Tekke Türbesi","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ard%C4%B1%C3%A7%20Tekke%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391578","tip":"genel"}]
 description: "Honaz'da yer alan Ardıç Tekke Türbesi, Denizli'nin tarihi ve doğal güzelliklerinin birleştiği bir nokta."
 keywords: ["Ardıç Tekke Türbesi","Honaz","Denizli","tarih","doğa","gezi","türbe","Ege Bölgesi"]

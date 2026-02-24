@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Örümcek Ormani Goknari 3","caption":"Örümcek Ormani Goknari 3","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"Örümcek Ormani Goknari 3","caption":"Örümcek Ormani Goknari 3","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96r%C3%BCmcek%20Ormani%20Goknari%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227154","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Örümcek Ormani Goknari 3, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","orman"]

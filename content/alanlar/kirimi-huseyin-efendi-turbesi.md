@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları keşfetmek","tarihi binaları ziyaret etmek","flora ve fauna açısından zengin bir bölgeyi keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kırımi Hüseyin Efendi Türbesi","caption":"Kırımi Hüseyin Efendi Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg","alt":"Kırımi Hüseyin Efendi Türbesi","caption":"Kırımi Hüseyin Efendi Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 15","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1mi%20H%C3%BCseyin%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391078","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından Kırımi Hüseyin Efendi Türbesi, Eyüpsultan'da bulunmakta"
 keywords: ["Kırımi Hüseyin Efendi Türbesi","Eyüpsultan","İstanbul","tarih","türbe","mimari"]

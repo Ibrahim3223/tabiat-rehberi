@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşleri","Kuş Gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Iron Sazlıkları Sulak Alanı","caption":"Iron Sazlıkları Sulak Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Iron Sazlıkları Sulak Alanı","caption":"Iron Sazlıkları Sulak Alanı","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Iron%20Sazl%C4%B1klar%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228833","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Iron Sazlıkları Sulak Alanı, 140 hektarlık bir doğa harikası"
 keywords: ["Iron Sazlıkları","Sulak Alanı","İç Anadolu Bölgesi","Doğa Harikası","Sulak Alan","Doğal Güzellik"]

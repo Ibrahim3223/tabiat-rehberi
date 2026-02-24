@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Fields_of_Kirsehir_-_panoramio.jpg/960px-The_Fields_of_Kirsehir_-_panoramio.jpg","alt":"Muhterem Hatun Türbesi","caption":"Muhterem Hatun Türbesi","credit":"The Fields of Kirsehir - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Muhterem Hatun Türbesi","caption":"Muhterem Hatun Türbesi","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Muhterem%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391790","tip":"genel"}]
 description: "Kırşehir'in tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Kırşehir","Muhterem Hatun Türbesi","tarih","doğa","gezi","türbe","İç Anadolu Bölgesi"]

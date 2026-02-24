@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"İhtiyarbaşı Tepesi","caption":"İhtiyarbaşı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"İhtiyarbaşı Tepesi","caption":"İhtiyarbaşı Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0htiyarba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386597","tip":"genel"}]
 description: "Şırnak'ta bulunan İhtiyarbaşı Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Şırnak","İhtiyarbaşı Tepesi","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","dağ"]

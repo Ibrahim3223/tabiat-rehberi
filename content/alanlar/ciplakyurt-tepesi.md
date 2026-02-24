@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa fotoğrafçılığı","manzara izleme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çıplakyurt Tepesi","caption":"Çıplakyurt Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg/960px-Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg","alt":"Çıplakyurt Tepesi","caption":"Çıplakyurt Tepesi","credit":"Ida Husted Harper photograph by Aime Dupont","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1plakyurt%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21702986","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Çıplakyurt Tepesi, Iğdır'ın güzelliklerini keşfetmek için ideal bir nokta."
 keywords: ["Iğdır","Doğu Anadolu Bölgesi","Çıplakyurt Tepesi","doğa","gezi","tepe","manzara"]

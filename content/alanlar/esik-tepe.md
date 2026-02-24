@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü","tarih ve kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Eşik Tepe","caption":"Eşik Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Eşik Tepe","caption":"Eşik Tepe","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Fik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391210","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, Eşik Tepe'de tarih ve doğa bir araya geliyor."
 keywords: ["Eşik Tepe","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]

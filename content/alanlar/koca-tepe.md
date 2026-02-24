@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/75/Tisna_Antik_Kenti%2C_Koca_Kale_Tepe.jpg","alt":"Koca Tepe manzarası","credit":"Ferit BAYCUMAN","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/00_2315_Tufa_landscape_of_Goreme_%28Turkey%29.jpg/960px-00_2315_Tufa_landscape_of_Goreme_%28Turkey%29.jpg","alt":"Koca Tepe","caption":"Koca Tepe","credit":"00 2315 Tufa landscape of Goreme (Turkey)","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/4/49/Tisna_Antik_Kenti%2C_Koca_Kale_Tepe_01.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tisna_Antik_Kenti%2C_Koca_Kale_Tepe_01.jpg/1280px-Tisna_Antik_Kenti%2C_Koca_Kale_Tepe_01.jpg","alt":"Koca Tepe - Tisna Antik Kenti, Koca Kale Tepe 01","credit":"Ferit BAYCUMAN","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Tisna_Antik_Kenti%2C_Koca_Kale_Tepe_02.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Tisna_Antik_Kenti%2C_Koca_Kale_Tepe_02.jpg/1280px-Tisna_Antik_Kenti%2C_Koca_Kale_Tepe_02.jpg","alt":"Koca Tepe - Tisna Antik Kenti, Koca Kale Tepe 02","credit":"Ferit BAYCUMAN","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574304","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. Koca Tepe, şehrin panoramik manzarasını sunar."

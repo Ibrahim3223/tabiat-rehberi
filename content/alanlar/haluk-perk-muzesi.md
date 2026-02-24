@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["sergi gezisi","doğa yürüyüşü","rehberli turlar","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Haluk Perk Müzesi","caption":"Haluk Perk Müzesi","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ski_mountain_under_clouds.jpg/960px-Ski_mountain_under_clouds.jpg","alt":"Haluk Perk Müzesi","caption":"Haluk Perk Müzesi","credit":"Ski mountain under clouds","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haluk%20Perk%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949083","tip":"genel"}]
 description: "Gümüşpala/Avcılar'da yer alan müze, İç Anadolu Bölgesi'nin zengin tarihini ve kültürünü sergiliyor."
 keywords: ["müze","Gümüşpala","Avcılar","İç Anadolu Bölgesi","tarih","kültür","yayla","doğa"]

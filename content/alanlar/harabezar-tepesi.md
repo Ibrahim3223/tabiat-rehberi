@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Harabezar Tepesi","caption":"Harabezar Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Harabezar Tepesi","caption":"Harabezar Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harabezar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31521215","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerini keşfedin. Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri olan Harabezar Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Diyarbakır","Güneydoğu Anadolu Bölgesi","Harabezar Tepesi","tarih","doğal güzellik","gezi","turizm"]

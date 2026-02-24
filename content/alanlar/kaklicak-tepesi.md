@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["doğa yürüyüşü","kamp","fotoğrafçılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kaklıcak Tepesi","caption":"Kaklıcak Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Kaklıcak Tepesi","caption":"Kaklıcak Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kakl%C4%B1cak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31566180","tip":"genel"}]
 description: "Karabük'ün doğal güzelliklerinden biri olan Kaklıcak Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kaklıcak Tepesi","Karabük","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","çevre","ekoloji"]

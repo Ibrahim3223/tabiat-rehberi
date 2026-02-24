@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaretleri","Şehir merkezini gezmek","Yerel yemekleri denemek","Tarihi yapıları keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Canbolat Türbesi","caption":"Canbolat Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg/960px-Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg","alt":"Canbolat Türbesi","caption":"Canbolat Türbesi","credit":"Piri Reis. Map of the Black Sea (Samsun)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canbolat%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391333","tip":"genel"}]
 description: "Kilis'te tarihi bir dini yapı olan Canbolat Türbesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Kilis","Canbolat Türbesi","tarihi yapı","dini mekan","Kilis gezilecek yerler","tarih","mimari","din","kültür"]

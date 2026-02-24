@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","doğa yürüyüşü","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Buğday Dede Türbesi","caption":"Buğday Dede Türbesi","credit":"Beach view - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg","alt":"Buğday Dede Türbesi","caption":"Buğday Dede Türbesi","credit":"2023-11-04 Choban beach near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bu%C4%9Fday%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390835","tip":"genel"}]
 description: "İzmir'in Tire ilçesinde yer alan Buğday Dede Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan"
 keywords: ["Tire","İzmir","Buğday Dede Türbesi","tarih","doğa","gezi","turizm","plaj","Ege Bölgesi","kültür"]

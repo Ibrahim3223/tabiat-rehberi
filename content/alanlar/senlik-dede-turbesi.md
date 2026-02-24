@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Şenlik Dede Türbesi","caption":"Şenlik Dede Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-19_Ufakdere_Port_Beach_1.jpg/960px-2023-11-19_Ufakdere_Port_Beach_1.jpg","alt":"Şenlik Dede Türbesi","caption":"Şenlik Dede Türbesi","credit":"2023-11-19 Ufakdere Port Beach 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eenlik%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391631","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Şenlik Dede Türbesi","Beşiktaş","İstanbul","Marmara Bölgesi","tarihi mekan","doğal güzellik","tarihçe","coğrafya","flora","fauna"]

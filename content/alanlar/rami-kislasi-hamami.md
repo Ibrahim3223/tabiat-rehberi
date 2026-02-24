@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","picnic","fotoğraf çekimi","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Rami Kışlası Hamamı","caption":"Rami Kışlası Hamamı","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%40_babaylon_beach_%28ekim_2009%29_-_panoramio.jpg/960px-%40_babaylon_beach_%28ekim_2009%29_-_panoramio.jpg","alt":"Rami Kışlası Hamamı","caption":"Rami Kışlası Hamamı","credit":"@ babaylon beach (ekim 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rami%20K%C4%B1%C5%9Flas%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739148","tip":"genel"}]
 description: "Eyüpsultan'da yer alan Rami Kışlası Hamamı, tarihi ve doğal güzellikleriyle dikkat çekiyor"
 keywords: ["Rami Kışlası Hamamı","Eyüpsultan","İstanbul","Marmara Bölgesi","tarihi mekanlar","doğal güzellikler"]

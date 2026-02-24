@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Güneşlenmek","Denize girmek","Su sporları","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Havuzlu Hamam","caption":"Havuzlu Hamam","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg","alt":"Havuzlu Hamam","caption":"Havuzlu Hamam","credit":"Akdeniz- the mediterranean-silence beach resort hotel - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Havuzlu%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738720","tip":"genel"}]
 description: "Giresun'un görkemli plajlarından biri olan Havuzlu Hamam, 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar."
 keywords: ["Giresun","Karadeniz Bölgesi","plaj","Havuzlu Hamam","yeşil alan","turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MOKFC02.jpg/960px-MOKFC02.jpg","alt":"Ankara-Beypazari-Egriova Saricam","caption":"Ankara-Beypazari-Egriova Saricam","credit":"MOKFC02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg/960px-Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg","alt":"Ankara-Beypazari-Egriova Saricam","caption":"Ankara-Beypazari-Egriova Saricam","credit":"Melchior de Hondecoeter (1636-1695) - A Cock and Turkey Fighting, in a Park Setting, with Other Fowl - 453773 - National Trust","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Beypazari-Egriova%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227548","tip":"genel"}]
 description: "Ankara'nın doğal güzellikleri arasında yer alan milli park"
 keywords: ["milli park","Ankara","doğa","gezi","turizm","çevre","yaban hayatı","ekosistem","korunan alan","iç Anadolu Bölgesi"]

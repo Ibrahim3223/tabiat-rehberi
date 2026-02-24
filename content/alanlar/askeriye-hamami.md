@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","yaban hayatı gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Askeriye Hamamı","caption":"Askeriye Hamamı","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alanya-Antalya_-_panoramio_%283%29.jpg/960px-Alanya-Antalya_-_panoramio_%283%29.jpg","alt":"Askeriye Hamamı","caption":"Askeriye Hamamı","credit":"Alanya-Antalya - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Askeriye%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738420","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Erzurum'un Yakutiye ilçesinde yer alan Askeriye Hamamı, doğa severlerin yeni adresi."
 keywords: ["Askeriye Hamamı","Erzurum","Yakutiye","Doğu Anadolu Bölgesi","doğa","gezi","turizm","yerel","kültürel"]

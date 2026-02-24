@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotoğrafçılık","doğa gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kur%C5%9Funlu_waterfall.JPG/960px-Kur%C5%9Funlu_waterfall.JPG","alt":"Erikli Şelalesi (Yalova-Teşvikiye)","caption":"Erikli Şelalesi (Yalova-Teşvikiye)","credit":"Kurşunlu waterfall","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dominguez-Escalante_NCA_%288931002471%29.jpg/960px-Dominguez-Escalante_NCA_%288931002471%29.jpg","alt":"Erikli Şelalesi (Yalova-Teşvikiye)","caption":"Erikli Şelalesi (Yalova-Teşvikiye)","credit":"Dominguez-Escalante NCA (8931002471)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erikli%20%C5%9Eelalesi%20(Yalova-Te%C5%9Fvikiye)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134592335","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, Yalova'da yer alan Erikli Şelalesi, doğa severlerin ziyaret etmesi gereken bir destinasyon."
 keywords: ["Erikli Şelalesi","Yalova","Marmara Bölgesi","doğa","şelale","gezi","turizm"]

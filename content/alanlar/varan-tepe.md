@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","doğa yürüyüşü","piknik","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Varan Tepe","caption":"Varan Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Varan Tepe","caption":"Varan Tepe","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Varan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385375","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Varan Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar."
 keywords: ["Varan Tepe","Doğu Anadolu Bölgesi","Bitlis","tarihi alan","doğa","gezi","turizm","kültür"]

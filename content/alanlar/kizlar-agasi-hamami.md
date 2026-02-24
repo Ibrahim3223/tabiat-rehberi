@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi mekan gezmek","fotograf çekmek","yerel lezzetler denemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Kızlar Ağası Hamamı","caption":"Kızlar Ağası Hamamı","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Kızlar Ağası Hamamı","caption":"Kızlar Ağası Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1zlar%20A%C4%9Fas%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738539","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Kızlar Ağası Hamamı, Fatih'te yer alır. Marmara Bölgesi'nin önemli noktalarından biri olarak kabul edilir."
 keywords: ["Kızlar Ağası Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarihi mekanlar","hamamlar","gezi noktaları"]

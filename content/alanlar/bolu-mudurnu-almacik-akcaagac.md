@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Picnic","Yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Bolu Mudurnu Almacik-Akcaagac","caption":"Bolu Mudurnu Almacik-Akcaagac","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"Bolu Mudurnu Almacik-Akcaagac","caption":"Bolu Mudurnu Almacik-Akcaagac","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu%20Mudurnu%20Almacik-Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228093","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Bolu Mudurnu Almacik-Akcaagac, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil cennet sunuyor."
 keywords: ["Bolu","Mudurnu","Almacik-Akcaagac","Milli Park","İç Anadolu Bölgesi","Doğa","Yeşil Alan","Turizm"]

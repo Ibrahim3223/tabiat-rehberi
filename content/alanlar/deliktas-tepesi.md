@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","kamp","fotoğrafçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Deliktaş Tepesi","caption":"Deliktaş Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Deliktaş Tepesi","caption":"Deliktaş Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Delikta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387210","tip":"genel"}]
 description: "Kars'ta bulunan Deliktaş Tepesi, doğa severlerin ziyaret ettiği bir bölge. Doğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kars","Doğu Anadolu Bölgesi","Deliktaş Tepesi","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

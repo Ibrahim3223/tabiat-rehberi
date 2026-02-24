@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Konya-Beyşehir Goktepe-Karacam","caption":"Konya-Beyşehir Goktepe-Karacam","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Konya-Beyşehir Goktepe-Karacam","caption":"Konya-Beyşehir Goktepe-Karacam","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Bey%C5%9Fehir%20Goktepe-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228104","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin. Beyşehir Gölü'nün kıyısında yer alan milli park, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Konya","Beyşehir Gölü","Milli Park","Doğa","Yeşil Alan","Göktepe","Karacam"]

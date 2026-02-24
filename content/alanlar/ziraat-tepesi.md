@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Ziraat Tepesi","caption":"Ziraat Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Ziraat Tepesi","caption":"Ziraat Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziraat%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386893","tip":"genel"}]
 description: "Kırıkkale'nin güzide noktalarından biri olan Ziraat Tepesi, ziyaretçilerini büyüleyen bir doğal güzelliğe sahiptir."
 keywords: ["Ziraat Tepesi","Kırıkkale","doğal güzellik","tepe","manzara","gezi","İç Anadolu Bölgesi","coğrafya"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","hayvan izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MOKFC02.jpg/960px-MOKFC02.jpg","alt":"Ankara-Ankara-Bala-Karaçam","caption":"Ankara-Ankara-Bala-Karaçam","credit":"MOKFC02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg","alt":"Ankara-Ankara-Bala-Karaçam","caption":"Ankara-Ankara-Bala-Karaçam","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Ankara-Bala-Kara%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228255","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Ankara'nın doğal güzellikleri"
 keywords: ["Ankara","milli park","doğa","gezi","turizm","çevre","ekosistem","flora","fauna","gezgin"]

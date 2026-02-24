@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Bin Tepeler Tümülüsü 24","caption":"Bin Tepeler Tümülüsü 24","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff/lossy-page1-900px-A_Ship_Wrecked_in_a_Storm_off_a_Rocky_Coast_RMG_BHC0883.tiff.jpg","alt":"Bin Tepeler Tümülüsü 24","caption":"Bin Tepeler Tümülüsü 24","credit":"A Ship Wrecked in a Storm off a Rocky Coast RMG BHC0883","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2024","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728346","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli hazinesi, tarih ve doğanın birleştiği bir nokta"
 keywords: ["Bin Tepeler","Tümülüs","Ege Bölgesi","Salihli","Manisa","tarih","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Kızılelma Mağarası","caption":"Kızılelma Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Subduction-en.svg/960px-Subduction-en.svg.png","alt":"Kızılelma Mağarası","caption":"Kızılelma Mağarası","credit":"Subduction-en","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lelma%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915663","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Kızılelma Mağarası, jeopark olarak bilinen bu alan, yerli ve yabancı turistlerin ilgisini çekiyor."
 keywords: ["Kızılelma Mağarası","Jeopark","Türkiye","Doğal Alanlar","Mağara","Turizm","Gezi","Yerli Turist","Yabancı Turist","Doğa"]

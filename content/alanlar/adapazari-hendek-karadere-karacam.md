@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","çevre eğitimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Adapazari-Hendek-Karadere Karacam","caption":"Adapazari-Hendek-Karadere Karacam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg/960px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","alt":"Adapazari-Hendek-Karadere Karacam","caption":"Adapazari-Hendek-Karadere Karacam","credit":"Bafa Gölü Tabiat Parkı (bilgekorkmaz)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Hendek-Karadere%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227921","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti: Adapazari-Hendek-Karadere Karacam"
 keywords: ["İç Anadolu Bölgesi","milli park","doğal alan","gezi","turizm","çevre","ekoloji","flora","fauna"]

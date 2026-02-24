@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"İnüstü Tepesi","caption":"İnüstü Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/South_room_first_floor._View_looking_south._East_porch_visible_through_window._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_HABS_VA%2C42-CLOV.V%2C2A-14.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"İnüstü Tepesi","caption":"İnüstü Tepesi","credit":"South room first floor. View looking south. East porch visible through window. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, HABS VA,42-CLOV.V,2A-14","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0n%C3%BCst%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810520","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin. İnüstü Tepesi, İç Anadolu Bölgesi'nde yer alan bir tepe"
 keywords: ["Kayseri","İnüstü Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","kayseri gezilecek yerler","kayseri turizm"]

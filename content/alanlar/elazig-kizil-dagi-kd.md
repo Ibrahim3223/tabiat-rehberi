@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Erzincan_Refahiye.jpg","alt":"Elazığ Kızıl Dağı (KD) manzarası","credit":"Salihsertbas","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Elazığ Kızıl Dağı (KD)","caption":"Elazığ Kızıl Dağı (KD)","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elaz%C4%B1%C4%9F%20K%C4%B1z%C4%B1l%20Da%C4%9F%C4%B1%20(KD)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514244","tip":"genel"}]
 description: "Elazığ'ın görkemli dağlarından biri olan Elazığ Kızıl Dağı (KD), şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon."

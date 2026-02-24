@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Tarihi yapıları incelemek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Maksut Efendi Türbesi","caption":"Maksut Efendi Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg","alt":"Maksut Efendi Türbesi","caption":"Maksut Efendi Türbesi","credit":"Marmaris @ LODOS Firtina-Lodos Sturm (Aralik-December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Maksut%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391717","tip":"genel"}]
 description: "Erzurum'un Palandöken ilçesinde bulunan tarihi ve doğal güzellikleri bir arada sunan Maksut Efendi Türbesi"
 keywords: ["Maksut Efendi Türbesi","Erzurum","Palandöken","Doğu Anadolu Bölgesi","tarih","doğa","türbe","gezi","seyahat"]

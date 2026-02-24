@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","denize girme","restoranlarda yemek yeme","otel ve pansiyonlarda konaklama"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Balık Pazarı Hamamı","caption":"Balık Pazarı Hamamı","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg","alt":"Balık Pazarı Hamamı","caption":"Balık Pazarı Hamamı","credit":"Marmaris @ Lodos Storm (December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bal%C4%B1k%20Pazar%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738895","tip":"genel"}]
 description: "Antalya'nın Muratpaşa ilçesinde bulunan Balık Pazarı Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahip."
 keywords: ["Antalya","Muratpaşa","Balık Pazarı Hamamı","yeşil alan","doğal güzellik","gezi","turizm","Akdeniz Bölgesi"]

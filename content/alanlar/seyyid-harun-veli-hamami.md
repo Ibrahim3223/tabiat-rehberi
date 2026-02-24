@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Seyyid Harun Veli Hamamı","caption":"Seyyid Harun Veli Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pirlanta_beach%2C_without_waves_october_2009_3_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_3_-_panoramio.jpg","alt":"Seyyid Harun Veli Hamamı","caption":"Seyyid Harun Veli Hamamı","credit":"Pirlanta beach, without waves october 2009 3 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Harun%20Veli%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739169","tip":"genel"}]
 description: "Konya'nın Seydişehir ilçesinde yer alan tarihi hamam"
 keywords: ["Seyyid Harun Veli Hamamı","Konya","Seydişehir","tarihi hamam","İç Anadolu Bölgesi","turizm","gezi","tarih"]

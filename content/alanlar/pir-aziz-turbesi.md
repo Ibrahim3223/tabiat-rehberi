@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih ve kültür turu","doğa yürüyüşü","flora ve fauna gözlemi","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Pir Aziz Türbesi","caption":"Pir Aziz Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg","alt":"Pir Aziz Türbesi","caption":"Pir Aziz Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 11","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pir%20Aziz%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391794","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Giresun'da bulunan Piraziz'de yer alan tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Pir Aziz Türbesi","Giresun","Karadeniz Bölgesi","tarih","doğa","gezi","türk kültürü","din","coğrafya","ekoloji"]

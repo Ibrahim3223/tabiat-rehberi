@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Eskişehir-Catacik-Degirmendere Sarıcam 2","caption":"Eskişehir-Catacik-Degirmendere Sarıcam 2","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg","alt":"Eskişehir-Catacik-Degirmendere Sarıcam 2","caption":"Eskişehir-Catacik-Degirmendere Sarıcam 2","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Catacik-Degirmendere%20Sar%C4%B1cam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227573","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Eskişehir","Catacik","Degirmendere","Sarıcam","milli park","doğal alan","İç Anadolu Bölgesi"]

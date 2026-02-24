@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Kuş gözlemciliği","Fotoğrafçılık","Yürüyüş parkurları"," Piknik alanları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Sakarya-Hendek-Hendek-Dogu Kayini","caption":"Sakarya-Hendek-Hendek-Dogu Kayini","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Sakarya-Hendek-Hendek-Dogu Kayini","caption":"Sakarya-Hendek-Hendek-Dogu Kayini","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-Hendek-Hendek-Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227770","tip":"genel"}]
 description: "Sakarya'da doğal güzelliklerin buluştuğu bir alan olan Sakarya-Hendek-Hendek-Dogu Kayini, ziyaretçilerini bekliyor."
 keywords: ["Sakarya","Hendek","Doğu Kayını","milli park","doğal güzellik","turizm","Marmara Bölgesi","gezi","yaban hayatı"]

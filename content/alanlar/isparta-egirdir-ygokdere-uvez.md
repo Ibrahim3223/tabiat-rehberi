@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fauna","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"İsparta-Egirdir-Y.Gokdere-Uvez","caption":"İsparta-Egirdir-Y.Gokdere-Uvez","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"İsparta-Egirdir-Y.Gokdere-Uvez","caption":"İsparta-Egirdir-Y.Gokdere-Uvez","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0sparta-Egirdir-Y.Gokdere-Uvez","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228218","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. İsparta-Egirdir-Y.Gokdere-Uvez milli parkı, 140 hektarlık yeşil alanı ve zengin faunasıyla ziyaretçilerini bekliyor."
 keywords: ["İsparta","Egirdir","Y.Gokdere","Uvez","milli park","doğa","yeşil alan","fauna"]

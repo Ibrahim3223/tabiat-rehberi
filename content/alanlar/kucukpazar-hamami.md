@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hamamın tarihi yapısını keşfetmek","Hamamın aroundunda yürüyüş yapmak","Hamamın çevresinde bulunan restoran ve kafelerde yemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Küçükpazar Hamamı","caption":"Küçükpazar Hamamı","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Küçükpazar Hamamı","caption":"Küçükpazar Hamamı","credit":"Old Pier","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkpazar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738597","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Küçükpazar Hamamı, Marmara Bölgesi'nde yer alan önemli bir turistik cazibe merkezi."
 keywords: ["Küçükpazar Hamamı","İstanbul","Marmara Bölgesi","tarihi hamam","turistik cazibe","Fatih"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","bisiklet","kuş gözlemciliği","bitki gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"BARMA YAYLASI","caption":"BARMA YAYLASI","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"BARMA YAYLASI","caption":"BARMA YAYLASI","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BARMA%20YAYLASI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228940","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Barma Yaylası, 140 hektarlık geniş alanda ziyaretçilerini ağırlıyor."
 keywords: ["Barma Yaylası","İç Anadolu Bölgesi","doğal güzellikler","yayla","çevre","ekosistem"]

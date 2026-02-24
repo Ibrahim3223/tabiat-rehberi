@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Eş Şeyh Aliyyü-l Müslahiddin Hazretleri","caption":"Eş Şeyh Aliyyü-l Müslahiddin Hazretleri","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg","alt":"Eş Şeyh Aliyyü-l Müslahiddin Hazretleri","caption":"Eş Şeyh Aliyyü-l Müslahiddin Hazretleri","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9F%20%C5%9Eeyh%20Aliyy%C3%BC-l%20M%C3%BCslahiddin%20Hazretleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391707","tip":"genel"}]
 description: "Düzce'nin Çilimli ilçesinde yer alan Eş Şeyh Aliyyü-l Müslahiddin Hazretleri, ziyaretçilerini Karadeniz Bölgesi'nin güzelliği ile baş başa bırakıyor."
 keywords: ["Eş Şeyh Aliyyü-l Müslahiddin Hazretleri","Çilimli","Düzce","Karadeniz Bölgesi","plaj","deniz","doğa","gezi","tarih"]

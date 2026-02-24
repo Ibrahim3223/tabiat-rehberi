@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Koramaz Vadisi","caption":"Koramaz Vadisi","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Extended_caption-_Near_Dumar_Stations%2C_on_the_outskirts_of_Damascus%2C_a_Turkish_column_was_escaping_by_the_Beyrout_road%2C_which_winds_through_the_gorge_alongside_the_Abana_river._When_word_was_brought_to_the_Aust_Art.IWMART1563.jpg/960px-thumbnail.jpg","alt":"Koramaz Vadisi","caption":"Koramaz Vadisi","credit":"Extended caption- Near Dumar Stations, on the outskirts of Damascus, a Turkish column was escaping by the Beyrout road, which winds through the gorge alongside the Abana river. When word was brought to the Aust Art.IWMART1563","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koramaz%20Vadisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6005258","tip":"genel"}]
 description: "Kayseri'nin Melikgazi ilçesinde bulunan Koramaz Vadisi, 1200 hektarlık yeşil cenneti ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Koramaz Vadisi","Kayseri","Melikgazi","kanyon","doğa","turizm","gezi","yürüyüş","kaya tırmanışı","doğal güzellik"]

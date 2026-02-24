@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Koç Tepe","caption":"Koç Tepe","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"Koç Tepe","caption":"Koç Tepe","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042410","tip":"genel"}]
 description: "Diyarbakır'da bulunan Koç Tepe, 1200 metre yüksekliğiyle dikkat çeker. Doğal güzellikleri ve tarihi önemiyle ziyaretçilerini bekliyor."
 keywords: ["Koç Tepe","Diyarbakır","Dağ","Doğal Alan","Tarih","Gezi","Seyahat","Turizm","Coğrafya"]

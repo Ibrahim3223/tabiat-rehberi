@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/View_to_chios_island_-_panoramio.jpg/960px-View_to_chios_island_-_panoramio.jpg","alt":"Çifteada","caption":"Çifteada","credit":"View to chios island - panoramio","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Small_Island_-_panoramio.jpg/960px-Small_Island_-_panoramio.jpg","alt":"Çifteada","caption":"Çifteada","credit":"Small Island - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ifteada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34789917","tip":"genel"}]
 description: "İzmir'in güzel ada destinasyonlarından biri olan Çifteada, doğa severler için keyifli bir kaçış noktası"
 keywords: ["Çifteada","İzmir Adaları","Ada Turu","Doğa Gezileri","İzmir Gezi","Türkiye Adaları","Deniz Turu","İzmir Turizm","Ege Adaları"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Bin Tepeler Tümülüsü 65","caption":"Bin Tepeler Tümülüsü 65","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alanya-Antalya_-_panoramio_%283%29.jpg/960px-Alanya-Antalya_-_panoramio_%283%29.jpg","alt":"Bin Tepeler Tümülüsü 65","caption":"Bin Tepeler Tümülüsü 65","credit":"Alanya-Antalya - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2065","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728299","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cevheri, Ahmetli'de bulunan Bin Tepeler Tümülüsü 65, tarihin derinliklerine ışık tutuyor."
 keywords: ["Bin Tepeler","Tümülüsü","Ahmetli","Manisa","Ege Bölgesi","tarih","gezi","doğa","kültür"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"İncüvez Çamlığı","caption":"İncüvez Çamlığı","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"İncüvez Çamlığı","caption":"İncüvez Çamlığı","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0nc%C3%BCvez%20%C3%87aml%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228195","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerinden biri olan İncüvez Çamlığı, Zonguldak ilinin Alaplı ilçesinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["İncüvez Çamlığı","Karadeniz Bölgesi","Zonguldak","Alaplı","doğal alan","çam ormanı","turizm"]

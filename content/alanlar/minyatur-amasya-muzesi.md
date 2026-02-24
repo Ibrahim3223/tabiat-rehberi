@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["müze gezisi","rehberli tur","dinlenme","gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Minyatür Amasya Müzesi","caption":"Minyatür Amasya Müzesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Piri_Reis_-_Map_of_the_Northeastern_Tip_of_Rhodes_Island_Facing_the_Anatolian_Coast_with_the_Island_of_Syme_-_Walters_W658100B_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Northeastern_Tip_of_Rhodes_Island_Facing_the_Anatolian_Coast_with_the_Island_of_Syme_-_Walters_W658100B_-_Full_Page.jpg","alt":"Minyatür Amasya Müzesi","caption":"Minyatür Amasya Müzesi","credit":"Piri Reis - Map of the Northeastern Tip of Rhodes Island Facing the Anatolian Coast with the Island of Syme - Walters W658100B - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Minyat%C3%BCr%20Amasya%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q116739730","tip":"genel"}]
 description: "Amasya'nın tarihi ve kültürel zenginliğini yansıtan özel bir mekan"
 keywords: ["Amasya","tarih","kültür","müze","minyatür","Karadeniz Bölgesi","gezi","turizm","Amasya ilimiz"]

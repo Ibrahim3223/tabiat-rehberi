@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Amasya-Almus-Baraj Sedir","caption":"Amasya-Almus-Baraj Sedir","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg","alt":"Amasya-Almus-Baraj Sedir","caption":"Amasya-Almus-Baraj Sedir","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843429)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Almus-Baraj%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227208","tip":"genel"}]
 description: "Amasya-Almus-Baraj Sedir, Karadeniz Bölgesi'nde bulunan bir milli parktır. Doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çekmektedir."
 keywords: ["Amasya","Almus Barajı","Sedir Ormanı","milli park","Karadeniz Bölgesi","doğa","fauna","flora"]

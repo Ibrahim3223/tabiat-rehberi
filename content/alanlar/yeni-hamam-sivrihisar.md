@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Yeni Hamam, Sivrihisar","caption":"Yeni Hamam, Sivrihisar","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg","alt":"Yeni Hamam, Sivrihisar","caption":"Yeni Hamam, Sivrihisar","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam%2C%20Sivrihisar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738991","tip":"genel"}]
 description: "Eskişehir'in Sivrihisar ilçesinde bulunan Yeni Hamam, natuur severlerin gözdesi. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor."
 keywords: ["Yeni Hamam","Sivrihisar","Eskişehir","doğa","yeşil alan","bitki türleri","fauna"]

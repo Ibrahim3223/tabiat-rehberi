@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Şengül Dağı","caption":"Şengül Dağı","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Taurus_05_01_2012_Golf_von_Antalya_mit_Kuyucak_Da%C4%9F%C4%B1.jpg/960px-Taurus_05_01_2012_Golf_von_Antalya_mit_Kuyucak_Da%C4%9F%C4%B1.jpg","alt":"Şengül Dağı","caption":"Şengül Dağı","credit":"Taurus 05 01 2012 Golf von Antalya mit Kuyucak Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeng%C3%BCl%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34821000","tip":"genel"}]
 description: "Erzincan'da yer alan Şengül Dağı, 1200 hektarlık yeşil alanı ile doğaseverler için önemli bir destinasyon"
 keywords: ["Şengül Dağı","Erzincan","Dağ","Doğa","Trekking","Kamp","Doğal Alan","Yeşil Alan","Turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi hamam gezisi","Bahçe gezisi","Yakındaki tarihi noktaları keşfetme","Rehberli turlara katılma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kapıağası Yakup Ağa Hamamı","caption":"Kapıağası Yakup Ağa Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Kapıağası Yakup Ağa Hamamı","caption":"Kapıağası Yakup Ağa Hamamı","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kap%C4%B1a%C4%9Fas%C4%B1%20Yakup%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738560","tip":"genel"}]
 description: "Fatih'in tarihi hamamlarından biri olan Kapıağası Yakup Ağa Hamamı, Marmara Bölgesi'nde yer alır."
 keywords: ["Kapıağası Yakup Ağa Hamamı","Fatih","Marmara Bölgesi","tarihi hamam","İstanbul","gezi","tarih","mimari"]

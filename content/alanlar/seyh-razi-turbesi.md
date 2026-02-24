@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Tarihi araştırma","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Şeyh Razi Türbesi","caption":"Şeyh Razi Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Altinkum_Beaches_50_%28October2009%29_-_panoramio.jpg/960px-Altinkum_Beaches_50_%28October2009%29_-_panoramio.jpg","alt":"Şeyh Razi Türbesi","caption":"Şeyh Razi Türbesi","credit":"Altinkum Beaches 50 (October2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Razi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391156","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Şeyh Razi Türbesi, Marmara Bölgesi'nin kalbinde yer alır."
 keywords: ["Şeyh Razi","Türbe","İstanbul","Fatih","Marmara Bölgesi","Tarih","Mekan","Gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"Pınarcık Dağı","caption":"Pınarcık Dağı","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg/960px-Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg","alt":"Pınarcık Dağı","caption":"Pınarcık Dağı","credit":"Antitaurus 06 04 1988 Pozantı Dağı bei Niğde","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/P%C4%B1narc%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31587856","tip":"genel"}]
 description: "Antalya'da bulunan Pınarcık Dağı, 1200 hektarlık yeşil cenneti ile ziyaretçilerini bekliyor. Doğal güzelliği ve zengin florası ile dikkat çekiyor."
 keywords: ["Pınarcık Dağı","Antalya","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg","alt":"Susuz Dağ","caption":"Susuz Dağ","credit":"The Landscape of Çorum Sıklık.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Conquering_the_Mountain_Nemrut.jpg/960px-Conquering_the_Mountain_Nemrut.jpg","alt":"Susuz Dağ","caption":"Susuz Dağ","credit":"Conquering the Mountain Nemrut","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Susuz%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34933154","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin, Susuz Dağ'ın büyüleyici manzaraları ve tarihi zenginlikleri ile buluşun."
 keywords: ["Susuz Dağ","Çorum","Dağ","Doğa","Turizm","Gezi","Tarih","Manzara","Çorum Turistik Yerler"]

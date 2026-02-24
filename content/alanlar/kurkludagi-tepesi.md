@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Kürklüdağı Tepesi","caption":"Kürklüdağı Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mehmetali_k%C3%B6y%C3%BC_yak%C4%B1nlar%C4%B1ndan_sumakl%C4%B1k_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg/960px-Mehmetali_k%C3%B6y%C3%BC_yak%C4%B1nlar%C4%B1ndan_sumakl%C4%B1k_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Kürklüdağı Tepesi","caption":"Kürklüdağı Tepesi","credit":"Mehmetali köyü yakınlarından sumaklık ve eşşek dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCrkl%C3%BCda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042833","tip":"genel"}]
 description: "Ankara'nın önemli doğal güzelliklerinden biri olan Kürklüdağı Tepesi, şehrin panoramik manzarasını sunar."
 keywords: ["Kürklüdağı Tepesi","Ankara","Dağ","Doğa","Turizm","Gezi","Manzara","Panorama","Ankara Turistik Yerler"]

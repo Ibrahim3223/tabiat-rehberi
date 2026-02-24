@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Ermeni Dağı","caption":"Ermeni Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg/960px-Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg","alt":"Ermeni Dağı","caption":"Ermeni Dağı","credit":"Nevşehir Ürgüp","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ermeni%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31524172","tip":"genel"}]
 description: "Burdur'un önemli coğrafi oluşumlarından biri olan Ermeni Dağı, 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Ermeni Dağı","Burdur","Dağ","Coğrafi Oluşum","Yeşil Alan","Doğa","Türkiye","Gezi","Seyahat"]

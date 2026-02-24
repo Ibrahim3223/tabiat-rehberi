@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Konya-Beyşehir-Kurucuova Karacam","caption":"Konya-Beyşehir-Kurucuova Karacam","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fatih_tabiat_park%C4%B1_Yozgat.jpg/960px-Fatih_tabiat_park%C4%B1_Yozgat.jpg","alt":"Konya-Beyşehir-Kurucuova Karacam","caption":"Konya-Beyşehir-Kurucuova Karacam","credit":"Fatih tabiat parkı Yozgat","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Bey%C5%9Fehir-Kurucuova%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227524","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin. Beyşehir ve Kurucuova arasındaki milli park."
 keywords: ["Konya","Beyşehir","Kurucuova","milli park","doğa","gezi","turizm","Konya-Beyşehir-Kurucuova Karacam"]

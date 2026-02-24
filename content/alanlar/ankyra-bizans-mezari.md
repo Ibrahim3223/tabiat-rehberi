@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ankyra Bizans Mezarı","caption":"Ankyra Bizans Mezarı","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg","alt":"Ankyra Bizans Mezarı","caption":"Ankyra Bizans Mezarı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 18","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankyra%20Bizans%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728132","tip":"genel"}]
 description: "Ankara'nın tarihi zenginliklerini keşfedin, Ankyra Bizans Mezarı'nda geçmişle buluşun."
 keywords: ["Ankyra Bizans Mezarı","Ankara","tarih","mezar","Bizans","Anadolu","gezi","kültür","miras"]

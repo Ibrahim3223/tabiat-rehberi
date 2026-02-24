@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Karakısrak Dağı","caption":"Karakısrak Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Karakısrak Dağı","caption":"Karakısrak Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karak%C4%B1srak%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31565421","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Karakısrak Dağı, doğa severler için bir çekim merkezi"
 keywords: ["Karakısrak Dağı","Türkiye dağları","doğa turizmi","dağcılık","turizm","gezi rehberi","coğrafya","Türkiye'nin dağları","Karakısrak"]

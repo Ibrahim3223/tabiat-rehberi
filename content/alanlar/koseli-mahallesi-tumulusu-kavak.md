@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî yapıları gezmek","bitki ve hayvan türlerini gözlemlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Köseli Mahallesi Tümülüsü Kavak","caption":"Köseli Mahallesi Tümülüsü Kavak","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Köseli Mahallesi Tümülüsü Kavak","caption":"Köseli Mahallesi Tümülüsü Kavak","credit":"Muğla - Dalyan - İztuzu Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6seli%20Mahallesi%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%20Kavak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728394","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun iline bağlı Kavak'ta bulunan Köseli Mahallesi Tümülüsü Kavak, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Köseli Mahallesi","Tümülüsü Kavak","Kavak","Samsun","Karadeniz Bölgesi","yeşil alan","futbol sahası"]

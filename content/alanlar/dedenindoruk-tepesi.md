@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["manzara izleme","doğa yürüyüşü","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Dedenindoruk Tepesi","caption":"Dedenindoruk Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Dedenindoruk Tepesi","caption":"Dedenindoruk Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedenindoruk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390030","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, Dedenindoruk Tepesi'ne çıkın ve şehrin panoramik manzarasını izleyin."
 keywords: ["Ankara","Dedenindoruk Tepesi","doğal güzellik","tepe","manzara","gezi","turizm","çevre"]

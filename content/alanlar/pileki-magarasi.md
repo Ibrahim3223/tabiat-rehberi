@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Doğa yürüyüşü","Mağara keşfi","Fotoğrafçılık","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Pileki Mağarası","caption":"Pileki Mağarası","credit":"Aydıncık Cave","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cave-Rock%2C_Saimbeyli_01.jpg/960px-Cave-Rock%2C_Saimbeyli_01.jpg","alt":"Pileki Mağarası","caption":"Pileki Mağarası","credit":"Cave-Rock, Saimbeyli 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pileki%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Rize'de yer alan Pileki Mağarası, Karadeniz Bölgesi'nin gizli güzelliklerinden biri"
 keywords: ["Pileki Mağarası","Rize","Karadeniz Bölgesi","Mağara","Doğa","Turizm","Gezi","Tarih"]

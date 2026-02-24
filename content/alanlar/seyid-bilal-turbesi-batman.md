@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Bölgenin doğal güzelliklerini keşfetmek","Yerel halkla iletişime geçmek","Tarihi ve kültürel bilgileri öğrenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Seyid Bilal Türbesi, Batman","caption":"Seyid Bilal Türbesi, Batman","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_20.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87_-_%D8%B3%D8%A7%D8%AD%D9%84_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84_20.jpg","alt":"Seyid Bilal Türbesi, Batman","caption":"Seyid Bilal Türbesi, Batman","credit":"استانبول ترکیه - ساحل دریای مرمره در شهر استانبول 20","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyid%20Bilal%20T%C3%BCrbesi%2C%20Batman","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582876","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Seyid Bilal Türbesi, Batman'ın tarihi ve doğal güzelliklerini keşfetmek isteyenler için önemli bir destinasyon."
 keywords: ["Seyid Bilal Türbesi","Batman","Güneydoğu Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","türk kültür mirası","dinî tesisler","coğrafi özellikler"]

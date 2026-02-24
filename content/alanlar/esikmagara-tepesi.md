@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Eşikmağara Tepesi","caption":"Eşikmağara Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg/960px-Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg","alt":"Eşikmağara Tepesi","caption":"Eşikmağara Tepesi","credit":"Circle of Giorgione - Infant Paris Abandoned on Mount Ida, ca. 1510","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Fikma%C4%9Fara%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31544392","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli hazinesi, Eşikmağara Tepesi'ni keşfedin"
 keywords: ["Eşikmağara Tepesi","Batman","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi"]

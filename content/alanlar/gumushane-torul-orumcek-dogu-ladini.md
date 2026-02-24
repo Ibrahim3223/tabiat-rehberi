@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Gumushane-Torul-Orumcek Dogu Ladini","caption":"Gumushane-Torul-Orumcek Dogu Ladini","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg","alt":"Gumushane-Torul-Orumcek Dogu Ladini","caption":"Gumushane-Torul-Orumcek Dogu Ladini","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gumushane-Torul-Orumcek%20Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227737","tip":"genel"}]
 description: "Gumushane-Torul-Orumcek Dogu Ladini milli parkı, doğa severler için bir cennet"
 keywords: ["Gumushane","Torul","Orumcek","Dogu Ladini","milli park","doğa","gezi","turizm"]

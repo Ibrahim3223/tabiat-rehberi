@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora gözlemi","fauna gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Ortataş Tepesi","caption":"Ortataş Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ida_Flooding_%2823%29.jpg/960px-Ida_Flooding_%2823%29.jpg","alt":"Ortataş Tepesi","caption":"Ortataş Tepesi","credit":"Ida Flooding (23)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ortata%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388797","tip":"genel"}]
 description: "Marmara Bölgesi'nin en dikkat çekici noktalarından biri olan Ortataş Tepesi, Edirne'nin güzide bir bölgesinde yer alır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Ortataş Tepesi","Edirne","Marmara Bölgesi","tepe","doğa","gezi","ziyaret"]

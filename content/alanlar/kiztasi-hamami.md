@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","tarih gezisi","doğa gözlemi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Kıztaşı Hamamı","caption":"Kıztaşı Hamamı","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Kıztaşı Hamamı","caption":"Kıztaşı Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1zta%C5%9F%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739142","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan tarihi ve doğal güzelliklerin birleştiği bir mekan"
 keywords: ["Kıztaşı Hamamı","Fatih","İstanbul","tarih","doğa","plaj","Marmara Bölgesi"]

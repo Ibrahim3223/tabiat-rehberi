@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","plaj","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet","caption":"Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet","caption":"Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazi%20Orman%20Fidanl%C4%B1%C4%9F%C4%B1%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Emniyet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728280","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini bir arada sunan Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet, ziyaretçilerini bekliyor."
 keywords: ["Gazi Orman Fidanlığı","Frig Tümülüsü","Emniyet","Ankara","tarih","doğa","gezi","ziyaret"]

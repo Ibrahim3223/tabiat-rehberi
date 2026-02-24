@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Kaplıca ve içme suyu kullanımı","Doğa yürüyüşleri","Flora ve fauna gözlemi","Tarihi mekan gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ayaş İçmeleri ve Kaplıcaları","caption":"Ayaş İçmeleri ve Kaplıcaları","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg","alt":"Ayaş İçmeleri ve Kaplıcaları","caption":"Ayaş İçmeleri ve Kaplıcaları","credit":"2023-11-04 Choban beach near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aya%C5%9F%20%C4%B0%C3%A7meleri%20ve%20Kapl%C4%B1calar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738533","tip":"genel"}]
 description: "Ayaş İçmeleri ve Kaplıcaları, Ankara'nın Ayaş ilçesinde bulunan tarihi ve doğal bir destinasyon"
 keywords: ["Ayaş İçmeleri","Kaplıcaları","Ankara","tarihi mekan","doğal alan","sağlık turizmi","kaplıca","içme suyu","Ayaş"]

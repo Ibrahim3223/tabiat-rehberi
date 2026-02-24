@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Osmaniye Hacı Dağı","caption":"Osmaniye Hacı Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Osmaniye Hacı Dağı","caption":"Osmaniye Hacı Dağı","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Osmaniye%20Hac%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31521593","tip":"genel"}]
 description: "Osmaniye'nin önemli doğal güzelliklerinden biri olan Hacı Dağı, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Osmaniye Hacı Dağı","Hacı Dağı","Osmaniye dağları","doğal güzellikler","yeşil alanlar","Osmaniye turizm","Hacı Dağı ziyaret","Osmaniye gezilecek yerler","Osmaniye dağ turizmi"]

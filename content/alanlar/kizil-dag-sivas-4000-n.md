@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Erzincan_Refahiye.jpg","alt":"Kızıl Dağ (Sivas, 40.00 N) manzarası","credit":"Salihsertbas","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tahtal%C4%B1_Da%C4%9F%C4%B1_06_02_2013_Golf_von_Antalya_mit_westlichem_Mittel-Taurus.jpg/960px-Tahtal%C4%B1_Da%C4%9F%C4%B1_06_02_2013_Golf_von_Antalya_mit_westlichem_Mittel-Taurus.jpg","alt":"Kızıl Dağ","caption":"Kızıl Dağ","credit":"Tahtalı Dağı 06 02 2013 Golf von Antalya mit westlichem Mittel-Taurus","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%20Da%C4%9F%20(Sivas%2C%2040.00%20N)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514128","tip":"genel"}]
 description: "Sivas'ta yer alan 40.00 N enlemindeki dağ, doğal güzellikleri ve tarihi önemi ile dikkat çekiyor."

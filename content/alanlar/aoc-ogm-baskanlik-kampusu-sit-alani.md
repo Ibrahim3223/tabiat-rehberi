@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihi yapıları gezme","bitki ve hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"AOÇ OGM Başkanlık Kampüsü Sit Alanı","caption":"AOÇ OGM Başkanlık Kampüsü Sit Alanı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546845911%29.jpg","alt":"AOÇ OGM Başkanlık Kampüsü Sit Alanı","caption":"AOÇ OGM Başkanlık Kampüsü Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546845911)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/AO%C3%87%20OGM%20Ba%C5%9Fkanl%C4%B1k%20Kamp%C3%BCs%C3%BC%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226609","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan AOÇ OGM Başkanlık Kampüsü Sit Alanı, tarihi ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["AOÇ OGM Başkanlık Kampüsü Sit Alanı","İç Anadolu Bölgesi","doğal güzellikler","tarihi alan","sit alanı","kampüs","başkanlık","gezi","turizm"]

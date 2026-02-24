@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Karatunasivrisi","caption":"Karatunasivrisi","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Karatunasivrisi","caption":"Karatunasivrisi","credit":"Olavbunuten seen from Olavsbu in Jotunheimen","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karatunasivrisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517380","tip":"genel"}]
 description: "Kütahya'da bulunan Karatunasivrisi, doğal güzellikleri ve trekking rotalarıyla dikkat çeken bir dağ"
 keywords: ["Karatunasivrisi","Kütahya","Dağ","Doğa","Trekking","Turizm","Gezi","Kütahya gezilecek yerler","Dağcılık"]

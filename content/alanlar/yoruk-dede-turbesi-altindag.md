@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezi","Doğa yürüyüşü","Fotoğrafçılık","Kültürel araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Yörük Dede Türbesi, Altındağ","caption":"Yörük Dede Türbesi, Altındağ","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Adatepe_manzara.JPG/960px-Adatepe_manzara.JPG","alt":"Yörük Dede Türbesi, Altındağ","caption":"Yörük Dede Türbesi, Altındağ","credit":"Adatepe manzara","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%B6r%C3%BCk%20Dede%20T%C3%BCrbesi%2C%20Alt%C4%B1nda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582401","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. Yörük Dede Türbesi, Altındağ'da yer alan önemli bir tarihi mekan."
 keywords: ["Yörük Dede Türbesi","Altındağ","Ankara","tarihi mekan","doğal güzellik","gezi","tarihçe","coğrafya"]

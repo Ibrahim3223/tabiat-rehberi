@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Karaleylik Tepesi","caption":"Karaleylik Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Karaleylik Tepesi","caption":"Karaleylik Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaleylik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581272","tip":"genel"}]
 description: "Çorum'un doğal güzellikleri arasında yer alan Karaleylik Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Karaleylik Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

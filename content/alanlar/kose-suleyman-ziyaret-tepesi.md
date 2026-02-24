@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Köse Süleyman Ziyaret Tepesi","caption":"Köse Süleyman Ziyaret Tepesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Köse Süleyman Ziyaret Tepesi","caption":"Köse Süleyman Ziyaret Tepesi","credit":"Muğla Province (45034554)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6se%20S%C3%BCleyman%20Ziyaret%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391765","tip":"genel"}]
 description: "Sivas'ın Suşehri ilçesinde bulunan Köse Süleyman Ziyaret Tepesi, doğa severlerin uğrak noktası."
 keywords: ["Köse Süleyman Ziyaret Tepesi","Suşehri","Sivas","doğa","turizm","gezi","ziyaret","tepe"]

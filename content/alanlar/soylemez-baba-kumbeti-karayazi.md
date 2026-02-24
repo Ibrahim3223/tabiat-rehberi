@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih keşfi","doğa yürüyüşü","fotoğraf çekimi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Söylemez Baba Kümbeti, Karayazı","caption":"Söylemez Baba Kümbeti, Karayazı","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mediterranean_-_panoramio_%283%29.jpg/960px-Mediterranean_-_panoramio_%283%29.jpg","alt":"Söylemez Baba Kümbeti, Karayazı","caption":"Söylemez Baba Kümbeti, Karayazı","credit":"Mediterranean - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%B6ylemez%20Baba%20K%C3%BCmbeti%2C%20Karayaz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582821","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli köşesi, Karayazı'da yer alan Söylemez Baba Kümbeti"
 keywords: ["Karayazı","Erzurum","Doğu Anadolu Bölgesi","Söylemez Baba Kümbeti","tarih","coğrafya","flora","fauna","ziyaret"]

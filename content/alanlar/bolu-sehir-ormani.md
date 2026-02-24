@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["yürüyüş","bisiklet sürme","doğa fotoğrafçılığı"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"BOLU ŞEHİR ORMANI","caption":"BOLU ŞEHİR ORMANI","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"BOLU ŞEHİR ORMANI","caption":"BOLU ŞEHİR ORMANI","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BOLU%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228646","tip":"genel"}]
 description: "Bolu Şehir Ormanı, 140 hektarlık yeşil alanıyla, yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
 keywords: ["Bolu Şehir Ormanı","doğa","orman","yeşil alan","fiziksel aktivite","gezi","turizm","çevre","ekosistem"]

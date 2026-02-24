@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Hurlar Dağı","caption":"Hurlar Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg/960px-Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg","alt":"Hurlar Dağı","caption":"Hurlar Dağı","credit":"Tahtal Dağı 06 02 2013 Gipfel mit Bey Dağları","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hurlar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31566633","tip":"genel"}]
 description: "Gümüşhane'nin doğal güzelliklerini keşfedin, Hurlar Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["Hurlar Dağı","Gümüşhane","Dağ","Doğa","Turizm","Gezi","Manzara","Gümüşhane Turistik Yerler","Dağcılık"]

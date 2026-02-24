@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Yaban hayatı gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ordu_Cenneti.jpg/960px-Ordu_Cenneti.jpg","alt":"Teveklik Tepesi","caption":"Teveklik Tepesi","credit":"Ordu Cenneti.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Teveklik Tepesi","caption":"Teveklik Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Teveklik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560911","tip":"genel"}]
 description: "Ordu'nun dağlık bölgesinde yer alan Teveklik Tepesi, Karadeniz Bölgesi'nin önemli coğrafi oluşumlarından biridir."
 keywords: ["Ordu","Karadeniz Bölgesi","Teveklik Tepesi","coğrafi oluşumlar","dağlık bölge","doğa","gezi"]

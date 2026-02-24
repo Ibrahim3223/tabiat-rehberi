@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","deniz kenarında dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Dikilitaş Türbesi","caption":"Dikilitaş Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Maden_Koyu_Beach_2021-11-13-4.jpg/960px-Maden_Koyu_Beach_2021-11-13-4.jpg","alt":"Dikilitaş Türbesi","caption":"Dikilitaş Türbesi","credit":"Maden Koyu Beach 2021-11-13-4","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikilita%C5%9F%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390528","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun iline bağlı Ladik ilçesinde bulunan Dikilitaş Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Dikilitaş Türbesi","Ladik","Samsun","Karadeniz Bölgesi","tarihi mekanlar","doğa turizmi","turizm","gezi"]

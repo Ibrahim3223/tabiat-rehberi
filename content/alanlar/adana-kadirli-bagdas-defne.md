@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","picnic","fotoğrafçılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_photos_of_Akda%C4%9F_2.jpg/960px-The_photos_of_Akda%C4%9F_2.jpg","alt":"Adana-Kadirli-Bagdas-Defne","caption":"Adana-Kadirli-Bagdas-Defne","credit":"The photos of Akdağ 2","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"Adana-Kadirli-Bagdas-Defne","caption":"Adana-Kadirli-Bagdas-Defne","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli-Bagdas-Defne","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228534","tip":"genel"}]
 description: "Adana'nın doğal güzellikleri arasında yer alan Adana-Kadirli-Bagdas-Defne milli parkı"
 keywords: ["Adana","Kadirli","Bagdas","Defne","milli park","doğa","gezi","turizm","çevre","ekoloji"]

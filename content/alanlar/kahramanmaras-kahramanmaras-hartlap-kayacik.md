@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","çevre gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Kahramanmaras-Kahramanmaras-Hartlap Kayacik","caption":"Kahramanmaras-Kahramanmaras-Hartlap Kayacik","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"Kahramanmaras-Kahramanmaras-Hartlap Kayacik","caption":"Kahramanmaras-Kahramanmaras-Hartlap Kayacik","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Kahramanmaras-Hartlap%20Kayacik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228492","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerine ev sahipliği yapan Hartlap Kayacik, ziyaretçilerini bekliyor."
 keywords: ["Kahramanmaras","Hartlap Kayacik","İç Anadolu Bölgesi","doğa","milli park","gezi","turizm"]

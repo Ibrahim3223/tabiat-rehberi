@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","bitki gözlemi","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG/960px-Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG","alt":"Alaşar Dağı","caption":"Alaşar Dağı","credit":"Fairy Chimneys 2, Nevşehir Province, Turkey.JPG","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/East_room%2C_second_floor._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-19.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Alaşar Dağı","caption":"Alaşar Dağı","credit":"East room, second floor. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ala%C5%9Far%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386065","tip":"genel"}]
 description: "Nevşehir'in gizli güzelliği, İç Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biri"
 keywords: ["Alaşar Dağı","Nevşehir","İç Anadolu Bölgesi","coğrafi oluşum","doğa","gezi","turizm"]

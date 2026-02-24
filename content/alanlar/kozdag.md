@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kozdağ","caption":"Kozdağ","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Taurus_05_01_2012_Golf_von_Antalya_mit_Kuyucak_Da%C4%9F%C4%B1.jpg/960px-Taurus_05_01_2012_Golf_von_Antalya_mit_Kuyucak_Da%C4%9F%C4%B1.jpg","alt":"Kozdağ","caption":"Kozdağ","credit":"Taurus 05 01 2012 Golf von Antalya mit Kuyucak Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kozda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31549502","tip":"genel"}]
 description: "Batman'da yer alan Kozdağ, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Kozdağ","Batman","Dağ","Doğa","Yürüyüş Rotası","Turizm","Gezi","Türkiye'nin Dağları","Batman Turistik Yerler"]

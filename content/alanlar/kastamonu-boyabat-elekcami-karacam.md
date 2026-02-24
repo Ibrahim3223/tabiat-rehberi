@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kastamonu-Boyabat-Elekcami Karacam","caption":"Kastamonu-Boyabat-Elekcami Karacam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Kastamonu-Boyabat-Elekcami Karacam","caption":"Kastamonu-Boyabat-Elekcami Karacam","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Boyabat-Elekcami%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227826","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin, 140 hektarlık milli parkta yürüyüş ve doğa gözlemi yapın."
 keywords: ["Kastamonu","milli park","doğa","yürüyüş","gözlem","Karadeniz Bölgesi","boyabat","elekcami","karacam"]

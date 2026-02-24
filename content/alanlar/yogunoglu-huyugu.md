@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["höyük gezi","tarih keşfi","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Yoğunoğlu Hüyüğü","caption":"Yoğunoğlu Hüyüğü","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/East_elevation._View_looking_northwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-6.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Yoğunoğlu Hüyüğü","caption":"Yoğunoğlu Hüyüğü","credit":"East elevation. View looking northwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-6","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yo%C4%9Funo%C4%9Flu%20H%C3%BCy%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32195291","tip":"genel"}]
 description: "Gaziantep'in tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Gaziantep","Yoğunoğlu Hüyüğü","tarih","kültür","gezi","Güneydoğu Anadolu Bölgesi","arkeoloji","höyük"]

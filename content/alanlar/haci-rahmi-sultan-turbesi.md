@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Yeşil alan yürüyüşü","Piknik","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Hacı Rahmi Sultan Türbesi","caption":"Hacı Rahmi Sultan Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_beaches-_Sea_of_Marmara_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_02.jpg","alt":"Hacı Rahmi Sultan Türbesi","caption":"Hacı Rahmi Sultan Türbesi","credit":"Istanbul beaches- Sea of Marmara 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Rahmi%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390721","tip":"genel"}]
 description: "Burdur'un tarihi ve doğal güzellikleri arasında yer alan Hacı Rahmi Sultan Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Hacı Rahmi Sultan Türbesi","Burdur","tarih","doğa","türbe","gezi","turizm","kültür","miras"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","orman gezi","vahşi yaşam gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Gumushane-Trabzon-Tonya-Doguladini","caption":"Gumushane-Trabzon-Tonya-Doguladini","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"Gumushane-Trabzon-Tonya-Doguladini","caption":"Gumushane-Trabzon-Tonya-Doguladini","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gumushane-Trabzon-Tonya-Doguladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228219","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Gümüşhane","Trabzon","Tonya","Doğuladini","Milli Park","Karadeniz Bölgesi","doğa","gezi","turizm"]

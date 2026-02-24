@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğrafçılık","Tarih keşifi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Sığırkuyruğu Tepe","caption":"Sığırkuyruğu Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Sığırkuyruğu Tepe","caption":"Sığırkuyruğu Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1%C4%9F%C4%B1rkuyru%C4%9Fu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386960","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinelesi Sığırkuyruğu Tepe, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası"
 keywords: ["Sığırkuyruğu Tepe","İç Anadolu Bölgesi","doğa harikası","tepe","turizm","gezi","keşif"]

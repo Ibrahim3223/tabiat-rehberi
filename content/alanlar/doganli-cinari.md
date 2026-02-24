@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Doğanli Cinari","caption":"Doğanli Cinari","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Manzaras%C4%B1.jpg","alt":"Doğanli Cinari","caption":"Doğanli Cinari","credit":"Değirmenburnu Tabiat Parkı Manzarası","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Do%C4%9Fanli%20Cinari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228082","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Doğanli Cinari, ziyaretçilerini etkileyen bir milli park."
 keywords: ["Doğanli Cinari","milli park","İç Anadolu Bölgesi","doğal güzellik","gezi","turizm"]

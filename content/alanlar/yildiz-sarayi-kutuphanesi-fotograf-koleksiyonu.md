@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Fotoğraf çekmek","Rehberli turlara katılmak","Bahçeleri gezmek","Koleksiyonun tarihi hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu","caption":"Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-19_Ufakdere_Port_Beach_1.jpg/960px-2023-11-19_Ufakdere_Port_Beach_1.jpg","alt":"Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu","caption":"Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu","credit":"2023-11-19 Ufakdere Port Beach 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20K%C3%BCt%C3%BCphanesi%20Foto%C4%9Fraf%20Koleksiyonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6055563","tip":"genel"}]
 description: "Marmara Bölgesi'nin kalbinde, Beşiktaş'ta bulunan Yıldız Sarayı Kütüphanesi Fotoğraf Koleksiyonu, tarihi değerlerle dolu bir hazine."
 keywords: ["Yıldız Sarayı","Kütüphanesi","Fotoğraf Koleksiyonu","Beşiktaş","Marmara Bölgesi","tarih","kültür","sanat"]

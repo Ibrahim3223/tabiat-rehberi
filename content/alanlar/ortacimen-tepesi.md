@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğafotoğrafçılığı","Kuş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Ortaçimen Tepesi","caption":"Ortaçimen Tepesi","credit":"Erzincan Refahiye.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Ortaçimen Tepesi","caption":"Ortaçimen Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Orta%C3%A7imen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34887856","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli hazinelesi, Erzincan'da yer alan Ortaçimen Tepesi"
 keywords: ["Ortaçimen Tepesi","Erzincan","Doğu Anadolu Bölgesi","tepe","doğa","gezi","turizm"]

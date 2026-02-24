@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Mimari özellikleri incelemek","Tarihi ve dini önemi hakkında bilgi edinmek","Bölgenin doğal güzelliklerini keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Yunus Emre Camii ve Türbesi","caption":"Yunus Emre Camii ve Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sprinter_on_a_vase%2C_Fikellura_style_amphora_with_a_running_man%2C_Greek%2C_6th_century_BC%2C_from_Kamiros%2C_Rhodes%2C_Aegean_Sea%2C_Winning_at_the_ancient_Games%2C_British_Museum_%287667202636%29.jpg/960px-thumbnail.jpg","alt":"Yunus Emre Camii ve Türbesi","caption":"Yunus Emre Camii ve Türbesi","credit":"Sprinter on a vase, Fikellura style amphora with a running man, Greek, 6th century BC, from Kamiros, Rhodes, Aegean Sea, Winning at the ancient Games, British Museum (7667202636)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yunus%20Emre%20Camii%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132134423","tip":"genel"}]
 description: "Karaman'da tarihi ve dini öneme sahip bir mekan"
 keywords: ["Yunus Emre","Karaman","Camii","Türbe","İç Anadolu Bölgesi","Tarih","Din","Mimari"]

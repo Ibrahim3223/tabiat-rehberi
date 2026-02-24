@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Gecedağ","caption":"Gecedağ","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PeakUludag.jpg/960px-PeakUludag.jpg","alt":"Gecedağ","caption":"Gecedağ","credit":"PeakUludag","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geceda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21696529","tip":"genel"}]
 description: "Kars'ta yer alan Gecedağ, doğa severlerin ziyaret ettiği bir dağdır. 1400 metre yüksekliğiyle dikkat çeker."
 keywords: ["Gecedağ","Kars","Dağ","Doğa","Trekking","Kars Gezilecek Yerler","Doğa Yürüyüşü","Türkiye Dağları","Kars Turizm"]

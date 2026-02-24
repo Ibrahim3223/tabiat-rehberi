@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kurtbaba Tepesi","caption":"Kurtbaba Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Kurtbaba Tepesi","caption":"Kurtbaba Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtbaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386143","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Kurtbaba Tepesi, Gaziantep'in eşsiz manzaralarına ev sahipliği yapan bir tepe."
 keywords: ["Kurtbaba Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","manzara","gezi","turizm"]

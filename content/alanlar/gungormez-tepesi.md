@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Güngörmez Tepesi","caption":"Güngörmez Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Güngörmez Tepesi","caption":"Güngörmez Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCng%C3%B6rmez%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139534","tip":"genel"}]
 description: "Bayburt'un doğal güzelliklerinin başında gelen Güngörmez Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Güngörmez Tepesi","Bayburt","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","tarih","coğrafya"]

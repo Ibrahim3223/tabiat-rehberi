@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg","alt":"Kütüklütarla Tepe","caption":"Kütüklütarla Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 05.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Kütüklütarla Tepe","caption":"Kütüklütarla Tepe","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCt%C3%BCkl%C3%BCtarla%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210871","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Kütüklütarla Tepe, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Kütüklütarla Tepe","Kahramanmaraş","tarih","doğa","tepe","gezi","turizm","Akdeniz Bölgesi","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğal güzellikleri keşfetmek","Fotoğrafçılık yapmak","Tarihi ve kültürel değerleri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abdullah Garibi Bosnavi Türbesi","caption":"Abdullah Garibi Bosnavi Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Abdullah Garibi Bosnavi Türbesi","caption":"Abdullah Garibi Bosnavi Türbesi","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdullah%20Garibi%20Bosnavi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390891","tip":"genel"}]
 description: "Meram'da bulunan tarihi türbe ve plaj"
 keywords: ["Abdullah Garibi Bosnavi","Meram","Konya","İç Anadolu Bölgesi","Türbe","Plaj","Tarihi mekanlar","Doğa","Kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Eskikazıklı Tepesi","caption":"Eskikazıklı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Eskikazıklı Tepesi","caption":"Eskikazıklı Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskikaz%C4%B1kl%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386364","tip":"genel"}]
 description: "Gaziantep'in tarihi ve doğal güzelliklerini birleştiren Eskikazıklı Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Eskikazıklı Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","tepe","manzara"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ulug%C3%B6l_Nature_Park.jpg/960px-Ulug%C3%B6l_Nature_Park.jpg","alt":"Abaz Dağı","caption":"Abaz Dağı","credit":"Ulugöl Nature Park.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Abaz Dağı","caption":"Abaz Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abaz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572232","tip":"genel"}]
 description: "Ordu'da yer alan Abaz Dağı, doğa severlerin ziyaret ettiği önemli bir dağdır. 1200 hektarlık yeşil alanıyla dikkat çeker."
 keywords: ["Abaz Dağı","Ordu","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Ordu Gezilecek Yerler","Dağcılık"]

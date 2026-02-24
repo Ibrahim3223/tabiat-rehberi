@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Kuramaz Dağı","caption":"Kuramaz Dağı","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yol_ve_demirkaz%C4%B1k.jpg/960px-Yol_ve_demirkaz%C4%B1k.jpg","alt":"Kuramaz Dağı","caption":"Kuramaz Dağı","credit":"Yol ve demirkazık","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuramaz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31512083","tip":"genel"}]
 description: "Kayseri'nin önemli dağlarından biri olan Kuramaz Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin tercih ettiği bir destinasyon."
 keywords: ["Kuramaz Dağı","Kayseri","Dağ","Doğa","Türkiye","Seyahat","Gezi","Turizm","Kayseri Turistik Yerler"]

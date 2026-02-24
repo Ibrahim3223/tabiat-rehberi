@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Tekkoz-Kengerliduz","caption":"Tekkoz-Kengerliduz","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"Tekkoz-Kengerliduz","caption":"Tekkoz-Kengerliduz","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekkoz-Kengerliduz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227061","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Tekkoz-Kengerliduz","İç Anadolu Bölgesi","doğal alan","milli park","çevre","ekosistem","flora","fauna","gezgin","turizm"]

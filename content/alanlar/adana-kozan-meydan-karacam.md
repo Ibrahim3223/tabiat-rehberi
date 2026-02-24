@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","yaban hayatı gözlemi","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg/960px-Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg","alt":"Adana-Kozan-Meydan Karacam","caption":"Adana-Kozan-Meydan Karacam","credit":"Aladağlar Milli Parkı - Aladaglar National Park 01.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Munzur_Valley_National_Park.jpg/960px-Munzur_Valley_National_Park.jpg","alt":"Adana-Kozan-Meydan Karacam","caption":"Adana-Kozan-Meydan Karacam","credit":"Munzur Valley National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kozan-Meydan%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227469","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin güzide milli parkı, Meydan Karacam"
 keywords: ["Adana","Kozan","Meydan Karacam","milli park","Akdeniz Bölgesi","doğa","turizm","gezi"]

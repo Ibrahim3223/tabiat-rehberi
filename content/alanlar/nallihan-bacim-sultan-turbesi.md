@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","fotografçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Nallıhan Bacım Sultan Türbesi","caption":"Nallıhan Bacım Sultan Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg","alt":"Nallıhan Bacım Sultan Türbesi","caption":"Nallıhan Bacım Sultan Türbesi","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (4)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nall%C4%B1han%20Bac%C4%B1m%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391214","tip":"genel"}]
 description: "Ankara'nın Nallıhan ilçesinde bulunan tarihi türbe ve çevresindeki doğal güzellikler"
 keywords: ["Nallıhan","Bacım Sultan Türbesi","Ankara","İç Anadolu Bölgesi","tarih","doğa","turizm"]

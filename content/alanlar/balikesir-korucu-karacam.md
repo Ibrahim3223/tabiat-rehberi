@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Rehberli turlar","Fotoğrafçılık","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Balikesir-Korucu Karacam","caption":"Balikesir-Korucu Karacam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg","alt":"Balikesir-Korucu Karacam","caption":"Balikesir-Korucu Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Korucu%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227485","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Korucu Karacam Milli Parkı, doğal güzelliği ve zengin faunası ile dikkat çekiyor."
 keywords: ["Korucu Karacam Milli Parkı","İç Anadolu Bölgesi","Doğal güzellik","Zengin fauna","Milli park","Turizm","Doğa","Çevre"]

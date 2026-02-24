@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["anıt mezarı ziyaret etmek","çevresindeki doğal güzelliği deneyimlemek","fotograf çekmek","picnic yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Aratos’un Anıt Mezarı","caption":"Aratos’un Anıt Mezarı","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Aratos’un Anıt Mezarı","caption":"Aratos’un Anıt Mezarı","credit":"Harbiş Sahili, Karataş - Adana 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aratos%E2%80%99un%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728086","tip":"genel"}]
 description: "Mersin'in Mezitli ilçesinde bulunan Aratos’un Anıt Mezarı, Akdeniz'in eşsiz kıyılarından biri"
 keywords: ["Aratos’un Anıt Mezarı","Mersin","Mezitli","Akdeniz","plaj","kıyı","gezi","turizm","doğa","tarih"]

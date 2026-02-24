@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Büyükhüyük Tepesi","caption":"Büyükhüyük Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Büyükhüyük Tepesi","caption":"Büyükhüyük Tepesi","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkh%C3%BCy%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731366","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Büyükhüyük Tepesi, yaklaşık 140 hektarlık bir alanı kaplayan bir tepe"
 keywords: ["Ankara","İç Anadolu Bölgesi","Büyükhüyük Tepesi","tepe","doğa","gezi","turizm"]

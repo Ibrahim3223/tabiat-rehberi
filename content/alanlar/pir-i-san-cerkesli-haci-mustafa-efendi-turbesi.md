@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi","caption":"Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg","alt":"Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi","caption":"Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pir-i%20San%C3%AE%20%C3%87erke%C5%9Fli%20Hac%C4%B1%20Mustafa%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391815","tip":"genel"}]
 description: "Çerkeş'te bulunan tarihi türbe ve çevresi"
 keywords: ["Çerkeş","Çankırı","İç Anadolu Bölgesi","tarih","türbe","doğa","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kampçılık","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Erlielhelb Tepesi","caption":"Erlielhelb Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Erlielhelb Tepesi","caption":"Erlielhelb Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erlielhelb%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553695","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Erlielhelb Tepesi, Batman'ın eşsiz manzarasına ev sahipliği yapıyor."
 keywords: ["Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","manzara","gezi","doğa","çevre","ekosistem"]

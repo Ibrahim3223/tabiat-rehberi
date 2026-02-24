@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Girbeşik Tepe","caption":"Girbeşik Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yukar%C4%B1_bunarlar_mevkiinden_do%C4%9Fu_y%C3%B6n%C3%BC%2C_yukar%C4%B1_ko%C3%A7a%C5%9F_k%C3%B6y%C3%BC_mevkii_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg/960px-Yukar%C4%B1_bunarlar_mevkiinden_do%C4%9Fu_y%C3%B6n%C3%BC%2C_yukar%C4%B1_ko%C3%A7a%C5%9F_k%C3%B6y%C3%BC_mevkii_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Girbeşik Tepe","caption":"Girbeşik Tepe","credit":"Yukarı bunarlar mevkiinden doğu yönü, yukarı koçaş köyü mevkii ve eşşek dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Girbe%C5%9Fik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574098","tip":"genel"}]
 description: "Diyarbakır'da yer alan Girbeşik Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri. Doğal güzelliği ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Girbeşik Tepe","Diyarbakır","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Coğrafya"]

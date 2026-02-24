@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","manzara gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tea_and_Istanbul_-_panoramio.jpg/960px-Tea_and_Istanbul_-_panoramio.jpg","alt":"Mandıra Tepesi","caption":"Mandıra Tepesi","credit":"Tea and Istanbul - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Mandıra Tepesi","caption":"Mandıra Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mand%C4%B1ra%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389212","tip":"genel"}]
 description: "İstanbul'un Marmara Bölgesi'nde yer alan Mandıra Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Mandıra Tepesi","İstanbul","Marmara Bölgesi","doğa","gezi","tepe","manzara","çevre","flora","fauna"]

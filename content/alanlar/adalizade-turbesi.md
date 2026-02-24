@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Adalızade Türbesi","caption":"Adalızade Türbesi","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gallipoli_ANZAC_Cove_2.JPG/960px-Gallipoli_ANZAC_Cove_2.JPG","alt":"Adalızade Türbesi","caption":"Adalızade Türbesi","credit":"Gallipoli ANZAC Cove 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adal%C4%B1zade%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391540","tip":"genel"}]
 description: "Kuşadası'nın tarihi ve doğal güzellikleri ile ön plana çıkan bir bölgesidir."
 keywords: ["Kuşadası","Aydın","Ege Bölgesi","tarih","doğa","gezi","tarihçe","coğrafya","flora","fauna"]

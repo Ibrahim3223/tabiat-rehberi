@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Keleşçeşmesi Tepesi","caption":"Keleşçeşmesi Tepesi","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Develi_Ovas%C4%B1_15_06_1988_mit_Erciyes_Da%C4%9F%C4%B1.jpg/960px-Develi_Ovas%C4%B1_15_06_1988_mit_Erciyes_Da%C4%9F%C4%B1.jpg","alt":"Keleşçeşmesi Tepesi","caption":"Keleşçeşmesi Tepesi","credit":"Develi Ovası 15 06 1988 mit Erciyes Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kele%C5%9F%C3%A7e%C5%9Fmesi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041050","tip":"genel"}]
 description: "Ankara'nın önemli dağlarından biri olan Keleşçeşmesi Tepesi, şehrin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Keleşçeşmesi Tepesi","Ankara Dağları","Doğa Turizmi","Trekking","Ankara Gezilecek Yerler","Dağcılık","Keleşçeşmesi","Ankara Turizm","Doğal Alanlar"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğrafçılık","tarihî araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Banikul Tepesi","caption":"Banikul Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Banikul Tepesi","caption":"Banikul Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Banikul%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547831","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Banikul Tepesi, Siirt'in doğal güzellikleriyle dolu bir alanı sunuyor."
 keywords: ["Banikul Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya"]

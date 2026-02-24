@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","kampçılık","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Toprakkale Tepesi","caption":"Toprakkale Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Toprakkale Tepesi","caption":"Toprakkale Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toprakkale%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386550","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Toprakkale Tepesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Toprakkale Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tarih","doğa","tepe","gezi","turizm"]

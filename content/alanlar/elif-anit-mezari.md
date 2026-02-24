@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","fotoğrafçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Elif Anıt Mezarı","caption":"Elif Anıt Mezarı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg/960px-Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg","alt":"Elif Anıt Mezarı","caption":"Elif Anıt Mezarı","credit":"Marmaris ve Lodos (Aralik 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elif%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728156","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Elif Anıt Mezarı, Gaziantep'in Araban ilçesinde bulunmaktadır. 140 hektarlık bir alanı kapsayan bu mezar, bölgenin tarihi ve kültürel zenginliğine önemli bir katkıda bulunmaktadır."
 keywords: ["Elif Anıt Mezarı","Araban","Gaziantep","Güneydoğu Anadolu Bölgesi","tarih","kültür","mezar","anıt"]

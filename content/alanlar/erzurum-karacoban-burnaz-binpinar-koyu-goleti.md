@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik","balık avı","doğa yürüyüşü","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"ERZURUM KARAÇOBAN BURNAZ BİNPINAR KÖYÜ GÖLETİ","caption":"ERZURUM KARAÇOBAN BURNAZ BİNPINAR KÖYÜ GÖLETİ","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg","alt":"ERZURUM KARAÇOBAN BURNAZ BİNPINAR KÖYÜ GÖLETİ","caption":"ERZURUM KARAÇOBAN BURNAZ BİNPINAR KÖYÜ GÖLETİ","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547427074)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ERZURUM%20KARA%C3%87OBAN%20BURNAZ%20B%C4%B0NPINAR%20K%C3%96Y%C3%9C%20G%C3%96LET%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228938","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleriyle dolu bir alanı"
 keywords: ["Erzurum","Karaçoban","Burnaz","Bınpınar","Köyü Göleti","İç Anadolu Bölgesi","doğal alan","gölet","gezi","yaban hayatı"]

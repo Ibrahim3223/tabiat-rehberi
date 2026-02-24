@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["denize girme","güneşlenme","tarihi yapıları keşfetme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Anonim Türbe 1","caption":"Anonim Türbe 1","credit":"Muğla - Dalyan - İztuzu Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Beach_and_cows_I%C4%9Fneada_floodplain.jpg/960px-Beach_and_cows_I%C4%9Fneada_floodplain.jpg","alt":"Anonim Türbe 1","caption":"Anonim Türbe 1","credit":"Beach and cows Iğneada floodplain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20T%C3%BCrbe%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391534","tip":"genel"}]
 description: "Ege Bölgesi'nin Muğla iline bağlı Milas'ta bulunan Anonim Türbe 1,histori ve doğal güzellikleri bir arada sunan bir plaj"
 keywords: ["Anonim Türbe 1","Milas","Muğla","Ege Bölgesi","plaj","tarih","doğa"]

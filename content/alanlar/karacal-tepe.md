@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Karaçal Tepe","caption":"Karaçal Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Aksaray_1998_01.jpg/960px-Aksaray_1998_01.jpg","alt":"Karaçal Tepe","caption":"Karaçal Tepe","credit":"Aksaray 1998 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%C3%A7al%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878132","tip":"genel"}]
 description: "Mersin'in görkemli dağlarından biri olan Karaçal Tepe, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Karaçal Tepe","Mersin","Dağ","Doğa","Turizm","Mersin Turistik Yerler","Karaçal Tepe Mersin","Mersin Gezi Rehberi","Doğa Sporları"]

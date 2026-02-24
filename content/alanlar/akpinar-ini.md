@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Akpınar İni","caption":"Akpınar İni","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg/960px-NASA-Apollo8-Dec24-Earthrise.jpg","alt":"Akpınar İni","caption":"Akpınar İni","credit":"NASA-Apollo8-Dec24-Earthrise","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akp%C4%B1nar%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319028","tip":"genel"}]
 description: "Mersin'de yer alan Akpınar İni, 1200 hektarlık bir jeopark alanıdır. Doğal güzellikleri ve tarihi önemiyle dikkat çeker."
 keywords: ["Akpınar İni","Mersin","Jeopark","Doğal Alan","Tarih","Mersin Turizm","Jeolojik Özellikler","Turistik Yerler","Mersin Gezilecek Yerler"]

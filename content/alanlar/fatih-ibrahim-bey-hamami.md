@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Hamamın tarihi geçmişi hakkında bilgi edinme","Çevre gezintisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg","alt":"Fatih İbrahim Bey Hamamı","caption":"Fatih İbrahim Bey Hamamı","credit":"Süzer Sun Dreams Beach 13 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Fatih İbrahim Bey Hamamı","caption":"Fatih İbrahim Bey Hamamı","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fatih%20%C4%B0brahim%20Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245820","tip":"genel"}]
 description: "Urla, İzmir'de bulunan tarihi hamam ve plaj"
 keywords: ["Urla","İzmir","tarihi hamam","plaj","Ege Bölgesi","Fatih İbrahim Bey","hamam"]

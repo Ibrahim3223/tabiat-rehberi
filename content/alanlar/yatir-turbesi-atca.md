@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih keşfi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Yatır Türbesi, Atça","caption":"Yatır Türbesi, Atça","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Yatır Türbesi, Atça","caption":"Yatır Türbesi, Atça","credit":"Black Sea - Turkey","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yat%C4%B1r%20T%C3%BCrbesi%2C%20At%C3%A7a","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582184","tip":"genel"}]
 description: "Sultanhisar'ın tarihi ve doğal güzelliklerinin buluştuğu Yatır Türbesi, Atça"
 keywords: ["Yatır Türbesi","Atça","Sultanhisar","Aydın","Ege Bölgesi","tarih","doğa","gezi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Gaziantep-Gaziantep Yalankoz","caption":"Gaziantep-Gaziantep Yalankoz","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg","alt":"Gaziantep-Gaziantep Yalankoz","caption":"Gaziantep-Gaziantep Yalankoz","credit":"Abant Gölü Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gaziantep-Gaziantep%20Yalankoz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227709","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Gaziantep Yalankoz Milli Parkı, zengin flora ve fauna ile büyüleyici bir destinasyon."
 keywords: ["Gaziantep","Yalankoz Milli Parkı","Güneydoğu Anadolu Bölgesi","doğa","flora","fauna","milli park","gezi","turizm"]

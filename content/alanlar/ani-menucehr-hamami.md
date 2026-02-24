@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ani Menuçehr Hamamı","caption":"Ani Menuçehr Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Istanbul_beaches-_Sea_of_Marmara_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_14.jpg","alt":"Ani Menuçehr Hamamı","caption":"Ani Menuçehr Hamamı","credit":"Istanbul beaches- Sea of Marmara 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ani%20Menu%C3%A7ehr%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738756","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren Ani Menuçehr Hamamı, Kars ilinin Ani ilçesinde yer alır."
 keywords: ["Ani Menuçehr Hamamı","Kars","Doğu Anadolu Bölgesi","tarihi eserler","doğal güzellikler","gezi rehberi","turizm","kültür","tarih"]

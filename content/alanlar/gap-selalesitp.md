@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["trekking","yürüyüş","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"GAP ŞELALESİ_TP","caption":"GAP ŞELALESİ_TP","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kocakoru_Tabiat_Park%C4%B1_03.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_03.jpg","alt":"GAP ŞELALESİ_TP","caption":"GAP ŞELALESİ_TP","credit":"Kocakoru Tabiat Parkı 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/GAP%20%C5%9EELALES%C4%B0_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228800","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli köşelerinden biri olan GAP Şelalesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["GAP Şelalesi","İç Anadolu Bölgesi","doğal güzellik","şelale","yeşil alan","fiziksel veriler","coğrafya"]

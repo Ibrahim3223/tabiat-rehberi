@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Üskütdağı Tepesi","caption":"Üskütdağı Tepesi","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salda_G%C3%B6l%C3%BC_09-1991.jpg/960px-Salda_G%C3%B6l%C3%BC_09-1991.jpg","alt":"Üskütdağı Tepesi","caption":"Üskütdağı Tepesi","credit":"Salda Gölü 09-1991","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Csk%C3%BCtda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820467","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Üskütdağı Tepesi, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un yarısı kadar bir alanı kaplıyor."
 keywords: ["Üskütdağı Tepesi","Türkiye dağları","doğa turizmi","yeşil alanlar","İstanbul","dağcılık","turizm","gezi rehberi","coğrafya"]

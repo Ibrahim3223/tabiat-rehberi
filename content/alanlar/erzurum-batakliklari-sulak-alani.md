@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","gözleme faaliyetleri","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Erzurum Bataklıkları Sulak Alanı","caption":"Erzurum Bataklıkları Sulak Alanı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Erzurum Bataklıkları Sulak Alanı","caption":"Erzurum Bataklıkları Sulak Alanı","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum%20Batakl%C4%B1klar%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229022","tip":"genel"}]
 description: "Erzurum'un doğal güzellikleri arasında yer alan sulak alan, 140 hektarlık geniş bir alanı kapsıyor. Burada çeşitli bitki türleri ve zengin fauna bulunmakta."
 keywords: ["Erzurum Bataklıkları Sulak Alanı","sulak alan","doğal güzellik","bitki türleri","fauna","doğa","çevre"]

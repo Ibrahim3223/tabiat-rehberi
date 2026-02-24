@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları ziyaret","doğa yürüyüşleri","fotografcılık","çevre gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Selçuk Hatun Türbesi","caption":"Selçuk Hatun Türbesi","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Maden_Koyu_Beach_2021-11-13-2.jpg/960px-Maden_Koyu_Beach_2021-11-13-2.jpg","alt":"Selçuk Hatun Türbesi","caption":"Selçuk Hatun Türbesi","credit":"Maden Koyu Beach 2021-11-13-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sel%C3%A7uk%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391692","tip":"genel"}]
 description: "Ege Bölgesi'nin gözde mekanlarından biri olan Selçuk Hatun Türbesi, Nazilli'de ziyaretçilerini bekliyor."
 keywords: ["Selçuk Hatun Türbesi","Nazilli","Aydın","Ege Bölgesi","tarih","doğa","gezi","türk kültürü","tarihi mekanlar","turizm"]

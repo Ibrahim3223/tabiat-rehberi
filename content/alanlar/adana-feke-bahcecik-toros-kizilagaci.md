@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","bitki gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Adana-Feke-Bahcecik Toros Kizilagaci","caption":"Adana-Feke-Bahcecik Toros Kizilagaci","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Adana-Feke-Bahcecik Toros Kizilagaci","caption":"Adana-Feke-Bahcecik Toros Kizilagaci","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Feke-Bahcecik%20Toros%20Kizilagaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228459","tip":"genel"}]
 description: "Doğal güzellikleri ve tarihi geçmişiyle dikkat çeken Adana-Feke-Bahcecik Toros Kizilagaci milli parkı"
 keywords: ["Adana","milli park","Toros Kizilagaci","doğal güzellik","tarihi geçmişi","Akdeniz Bölgesi","çevre","ekoloji"]

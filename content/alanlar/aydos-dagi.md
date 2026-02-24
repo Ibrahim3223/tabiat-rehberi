@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Aydos Dağı","caption":"Aydos Dağı","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kessab30.jpg","alt":"Aydos Dağı","caption":"Aydos Dağı","credit":"Kessab30","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aydos%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571223","tip":"genel"}]
 description: "Ankara'nın en önemli doğal güzelliklerinden biri olan Aydos Dağı, 1400 metre yüksekliğiyle şehrin panoramik manzarasını sunar."
 keywords: ["Aydos Dağı","Ankara","Dağ","Doğa","Trekking","Panorama","Manzara","Gezi","Turizm","Ankara Turistik Yerler"]

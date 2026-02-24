@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Kocagünerovi Tepesi","caption":"Kocagünerovi Tepesi","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg/960px-Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg","alt":"Kocagünerovi Tepesi","caption":"Kocagünerovi Tepesi","credit":"Antitaurus 06 04 1988 Pozantı Dağı bei Niğde","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocag%C3%BCnerovi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042253","tip":"genel"}]
 description: "Siirt'in görkemli dağlarından biri olan Kocagünerovi Tepesi, doğal güzellikleri ve yürüyüş rotaları ile dikkat çekiyor."
 keywords: ["Kocagünerovi Tepesi","Siirt","Dağ","Doğa","Yürüyüş Rotaları","Turizm","Gezi","Seyahat","Doğal Güzellikler"]

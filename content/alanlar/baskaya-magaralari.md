@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg/960px-N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg","alt":"Baskaya Mağaraları","caption":"Baskaya Mağaraları","credit":"Nêzîkî Qilwanê 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/72/EQ_storm_Turkey-he.png","alt":"Baskaya Mağaraları","caption":"Baskaya Mağaraları","credit":"EQ storm Turkey-he","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Baskaya%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319058","tip":"genel"}]
 description: "Mardin'de yer alan Baskaya Mağaraları, 1200 hektarlık bir jeopark alanı sunar. Doğal güzellikleri keşfedin!"
 keywords: ["Baskaya Mağaraları","Mardin","Jeopark","Doğal Alanlar","Turizm","Mağara Gezisi","Mardin Turistik Yerler","Jeolojik Özellikler","Doğa Sporları"]

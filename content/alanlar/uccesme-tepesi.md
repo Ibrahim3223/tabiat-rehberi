@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["fotoğraf çekmek","piknik yapmak","doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Üççeşme Tepesi","caption":"Üççeşme Tepesi","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Üççeşme Tepesi","caption":"Üççeşme Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7%C3%A7e%C5%9Fme%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810170","tip":"genel"}]
 description: "Kayseri'nin güzide bir noktası olan Üççeşme Tepesi, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Üççeşme Tepesi","Kayseri","İç Anadolu Bölgesi","doğa","tarih","gezi","tepe","manzara"]

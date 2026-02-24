@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Kampçılık","Fotoğrafçılık","Doğa"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kad%C4%B1nc%C4%B1k_Valley_3.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_3.jpg","alt":"Mersin-Hisardag ve Gedik Dagi","caption":"Mersin-Hisardag ve Gedik Dagi","credit":"Kadıncık Valley 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"Mersin-Hisardag ve Gedik Dagi","caption":"Mersin-Hisardag ve Gedik Dagi","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Hisardag%20ve%20Gedik%20Dagi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227397","tip":"genel"}]
 description: "Mersin'de yer alan milli park, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Mersin","Hisardag","Gedik Dagi","milli park","doğa","yeşil alan","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî hamam gezisi","doğa yürüyüşü","kuş gözlemciliği","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Zağanos Paşa Hamamı","caption":"Zağanos Paşa Hamamı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gerence_K%C3%B6rfezinden_-_panoramio.jpg/960px-Gerence_K%C3%B6rfezinden_-_panoramio.jpg","alt":"Zağanos Paşa Hamamı","caption":"Zağanos Paşa Hamamı","credit":"Gerence Körfezinden - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Za%C4%9Fanos%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738680","tip":"genel"}]
 description: "Marmara Bölgesi'nin Karesi ilçesindeki Zağanos Paşa Hamamı, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Zağanos Paşa Hamamı","Marmara Bölgesi","Karesi","tarihi hamam","doğal güzellik","gezi","turizm"]

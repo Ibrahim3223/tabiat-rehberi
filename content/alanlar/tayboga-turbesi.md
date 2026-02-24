@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","mimari keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Tayboğa Türbesi","caption":"Tayboğa Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Istanbul_beaches-_Sea_of_Marmara_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_09.jpg","alt":"Tayboğa Türbesi","caption":"Tayboğa Türbesi","credit":"Istanbul beaches- Sea of Marmara 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Taybo%C4%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391625","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Sinop'ta yer alan Tayboğa Türbesi, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Sinop","Karadeniz Bölgesi","Tayboğa Türbesi","tarihi mekanlar","doğa","gezi","turizm"]

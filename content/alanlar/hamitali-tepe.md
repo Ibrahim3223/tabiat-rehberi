@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Hamitali Tepe","caption":"Hamitali Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg/960px-Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg","alt":"Hamitali Tepe","caption":"Hamitali Tepe","credit":"Mount Ararat and the Araratian plain (cropped)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamitali%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574082","tip":"genel"}]
 description: "Diyarbakır'da yer alan Hamitali Tepe, bölgeye özgü coğrafi özellikler sunar."
 keywords: ["Hamitali Tepe","Diyarbakır","Dağ","Coğrafya","Türkiye","Doğal Alanlar","Seyahat","Gezi","Turizm"]

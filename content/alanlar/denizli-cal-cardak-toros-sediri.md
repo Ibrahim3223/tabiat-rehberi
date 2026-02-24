@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cilingoz_National_Park_Beach_with_waves.jpg/960px-Cilingoz_National_Park_Beach_with_waves.jpg","alt":"Denizli-Cal-Cardak Toros Sediri","caption":"Denizli-Cal-Cardak Toros Sediri","credit":"Cilingoz National Park Beach with waves","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg/960px-A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg","alt":"Denizli-Cal-Cardak Toros Sediri","caption":"Denizli-Cal-Cardak Toros Sediri","credit":"A Turkey Vulture and Molly Hogan of NatureWorks (26178312449)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Cal-Cardak%20Toros%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227996","tip":"genel"}]
 description: "Denizli'de yer alan Cal-Cardak Toros Sediri milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde ve Ege Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Denizli","Cal-Cardak","Toros Sediri","milli park","Ege Bölgesi","doğa","gezi","yaban hayatı"]

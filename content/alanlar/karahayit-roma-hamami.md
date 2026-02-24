@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","rehberli tur"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Karahayıt Roma Hamamı","caption":"Karahayıt Roma Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Maden_Koyu_Beach_2021-11-13-2.jpg/960px-Maden_Koyu_Beach_2021-11-13-2.jpg","alt":"Karahayıt Roma Hamamı","caption":"Karahayıt Roma Hamamı","credit":"Maden Koyu Beach 2021-11-13-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karahay%C4%B1t%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739013","tip":"genel"}]
 description: "Pamukkale'nin tarihi ve doğal güzellikleri arasında yer alan Karahayıt Roma Hamamı, Ege Bölgesi'nin önemli turizm merkezlerinden biri"
 keywords: ["Pamukkale","Roma Hamamı","Ege Bölgesi","Denizli","tarih","doğa","turizm","gezi","kültür"]

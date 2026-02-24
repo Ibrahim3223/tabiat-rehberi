@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Karaca Dağı","caption":"Karaca Dağı","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9_%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9.jpg/960px-%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9_%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9.jpg","alt":"Karaca Dağı","caption":"Karaca Dağı","credit":"Зимний Таганай","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaca%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31518991","tip":"genel"}]
 description: "Şırnak'ta yer alan Karaca Dağı, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzelliği ve zengin florası ile dikkat çekiyor."
 keywords: ["Karaca Dağı","Şırnak","Dağ","Doğa","Coğrafya","Turizm","Gezi","Şırnak Gezilecek Yerler","Dağcılık"]

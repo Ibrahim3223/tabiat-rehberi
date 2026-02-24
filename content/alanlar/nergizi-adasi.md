@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Istanbul_and_Bosporus_big.jpg/960px-Istanbul_and_Bosporus_big.jpg","alt":"Nergizi Adası","caption":"Nergizi Adası","credit":"Istanbul and Bosporus big","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Princes%27_Islands_108.JPG/960px-Princes%27_Islands_108.JPG","alt":"Nergizi Adası","caption":"Nergizi Adası","credit":"Princes' Islands 108","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nergizi%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49662390","tip":"genel"}]
 description: "Adana'da bulunan Nergizi Adası, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Nergizi Adası","Adana","ada","doğal güzellik","tarih","yeşil cennet","gezi","seyahat","turizm"]

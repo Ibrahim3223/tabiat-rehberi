@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"EDİRNE MERKEZ SARAYİÇİ TAVUK ORMANI","caption":"EDİRNE MERKEZ SARAYİÇİ TAVUK ORMANI","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"EDİRNE MERKEZ SARAYİÇİ TAVUK ORMANI","caption":"EDİRNE MERKEZ SARAYİÇİ TAVUK ORMANI","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ED%C4%B0RNE%20MERKEZ%20SARAY%C4%B0%C3%87%C4%B0%20TAVUK%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228935","tip":"genel"}]
 description: "Doğal güzelliklerin buluşma noktası Edirne Merkez Sarayıçı Tavuk Ormanı, ziyaretçilerini bekliyor."
 keywords: ["Edirne","Sarayıçı Tavuk Ormanı","milli park","doğa","turizm","gezi","yaban hayatı","orman"]

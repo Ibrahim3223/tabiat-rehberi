@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Piknik","Doğal güzellikleri keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Nene Hatun TMP","caption":"Nene Hatun TMP","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"Nene Hatun TMP","caption":"Nene Hatun TMP","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nene%20Hatun%20TMP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228130","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Nene Hatun TMP, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Nene Hatun TMP","İç Anadolu Bölgesi","doğal güzellik","tarihi değer","milli park","turizm","gezi","yaban hayatı","ekoloji"]

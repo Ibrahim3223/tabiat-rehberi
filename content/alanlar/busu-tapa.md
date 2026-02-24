@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Busu Tapa","caption":"Busu Tapa","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TRABZON_YAYLASI_VE_%C4%B0BADET.jpg/960px-TRABZON_YAYLASI_VE_%C4%B0BADET.jpg","alt":"Busu Tapa","caption":"Busu Tapa","credit":"TRABZON YAYLASI VE İBADET","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Busu%20Tapa","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21210393","tip":"genel"}]
 description: "Kars'ta bulunan Busu Tapa, doğa severler için 1200 hektarlık bir yeşil cennet"
 keywords: ["Busu Tapa","Kars","Doğa","Yeşil Alan","Turizm","Dağ","Kars Turistik Yerler","Doğa Harikaları","Yeşil Cennet"]

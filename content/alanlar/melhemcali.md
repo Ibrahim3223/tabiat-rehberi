@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Melhemçalı","caption":"Melhemçalı","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Melhemçalı","caption":"Melhemçalı","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melhem%C3%A7al%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32125809","tip":"genel"}]
 description: "Konya'da yer alan Melhemçalı, İç Anadolu Bölgesi'nin doğal güzellikleriyle dikkat çeken bir tepe"
 keywords: ["Melhemçalı","Konya","İç Anadolu Bölgesi","tepe","doğal güzellik","gezi","turizm","coğrafya","flora","fauna"]

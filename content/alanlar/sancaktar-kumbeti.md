@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kültür turu","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Sancaktar Kümbeti","caption":"Sancaktar Kümbeti","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Sancaktar Kümbeti","caption":"Sancaktar Kümbeti","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sancaktar%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582380","tip":"genel"}]
 description: "Kayseri'nin Pınarbaşı ilçesinde bulunan Sancaktar Kümbeti, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Sancaktar Kümbeti","Kayseri","Pınarbaşı","tarihi mekan","doğal güzellik","gezi","turizm","kültür","İç Anadolu Bölgesi"]

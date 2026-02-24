@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Kelebekli Dağı","caption":"Kelebekli Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Aksaray_1998_01.jpg/960px-Aksaray_1998_01.jpg","alt":"Kelebekli Dağı","caption":"Kelebekli Dağı","credit":"Aksaray 1998 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelebekli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515604","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin, Kelebekli Dağı'nda doğa ile baş başa kalın."
 keywords: ["Kelebekli Dağı","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezi","Doğal Alanlar","Keşif","Macera","Turizm"]

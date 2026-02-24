@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["gezi","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Esirüddin Ebheri Kümbeti","caption":"Esirüddin Ebheri Kümbeti","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg","alt":"Esirüddin Ebheri Kümbeti","caption":"Esirüddin Ebheri Kümbeti","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esir%C3%BCddin%20Ebheri%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582195","tip":"genel"}]
 description: "Afyonkarahisar'ın Çay ilçesinde bulunan tarihi kümbet, yüzyılların gizemini taşıyor"
 keywords: ["Esirüddin Ebheri Kümbeti","Çay","Afyonkarahisar","tarihi kümbet","Ege Bölgesi","gezi","tarih","kültür"]

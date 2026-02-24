@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih turu","Doğa yürüyüşü","Flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Terlemez Baba Türbesi","caption":"Terlemez Baba Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg","alt":"Terlemez Baba Türbesi","caption":"Terlemez Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 01","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Terlemez%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391791","tip":"genel"}]
 description: "Aksaray'da bulunan Terlemez Baba Türbesi, tarihi ve doğal güzellikleri sunar."
 keywords: ["Aksaray","Terlemez Baba Türbesi","tarihi mekan","doğal güzellik","tarihçe","coğrafya","flora","fauna","ziyaret"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepeye çıkma","gezinti","piknik","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Abdüsselâmdağı Tepesi","caption":"Abdüsselâmdağı Tepesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/General_view_of_Fort_Hill_Farm%2C_view_looking_south-southeast._From_left_to_right%2C_buildings_visible_are_%28B%29_two-story_hall-and-parlor_house%3B_%28k%29_small_barn%3B_%28A%29_mansion%27_%28G%28_shed_HABS_VA%2C42-CLOV.V%2C2-1.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Abdüsselâmdağı Tepesi","caption":"Abdüsselâmdağı Tepesi","credit":"General view of Fort Hill Farm, view looking south-southeast. From left to right, buildings visible are (B) two-story hall-and-parlor house; (k) small barn; (A) mansion' (G( shed HABS VA,42-CLOV.V,2-1","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abd%C3%BCssel%C3%A2mda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35723426","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Abdüsselâmdağı Tepesi, doğal güzellikleriyle dikkat çekiyor. 140 hektarlık bir alan kaplayan tepe, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Abdüsselâmdağı Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm"]

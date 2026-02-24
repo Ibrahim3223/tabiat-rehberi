@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi mekanları gezmek","Doğa yürüyüşleri yapmak","Bölgenin kültürel zenginliğini keşfetmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abdi Dede Türbesi","caption":"Abdi Dede Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Abdi Dede Türbesi","caption":"Abdi Dede Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdi%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390858","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde bulunan Abdi Dede Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir mekan."
 keywords: ["Abdi Dede Türbesi","İç Anadolu Bölgesi","Kayseri","İncesu","tarihi mekan","doğal güzellik","türbe","gezi","turizm"]

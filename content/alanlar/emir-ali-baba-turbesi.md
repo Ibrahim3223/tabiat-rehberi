@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Birkaç saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Tarihçe araştırması","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/ZEYN%C4%B0LER_KABR%C4%B0STANI_BURSA_-_panoramio_%281%29.jpg","alt":"Emir Ali Baba Türbesi manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg/960px-Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg","alt":"Emir Ali Baba Türbesi","caption":"Emir Ali Baba Türbesi","credit":"Piri Reis. Map of the Black Sea (Samsun)","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emir%20Ali%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390759","tip":"genel"}]
 description: "Çanakkale'nin Gelibolu ilçesinde bulunan Emir Ali Baba Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."

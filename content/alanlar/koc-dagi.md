@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Ata_oca%C4%9F%C4%B1_k%C3%BClt%C3%BCr_ve_sanat_evi.jpg","alt":"Koç Dağı manzarası","credit":"Atabey seyhan","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Koç Dağı","caption":"Koç Dağı","credit":"Sis dağı (3)","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32200817","tip":"genel"}]
 description: "Kayseri'nin görkemli dağlarından biri olan Koç Dağı, 1200 hektarlık yeşil cenneti ve zengin florasıyla dikkat çekiyor."

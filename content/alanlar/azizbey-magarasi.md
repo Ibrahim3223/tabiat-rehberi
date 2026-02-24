@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Azizbey Mağarası","caption":"Azizbey Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Geological_map_marmara_island_-_hochstetter.jpg/960px-Geological_map_marmara_island_-_hochstetter.jpg","alt":"Azizbey Mağarası","caption":"Azizbey Mağarası","credit":"Geological map marmara island - hochstetter","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Azizbey%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319046","tip":"genel"}]
 description: "Kars'ta bulunan Azizbey Mağarası, 1200 hektarlık bir jeopark alanı sunar. Doğal güzelliği ve jeolojik oluşumlarıyla dikkat çeker."
 keywords: ["Azizbey Mağarası","Kars","Jeopark","Doğal Alan","Mağara","Turizm","Kars Turistik Yerler","Jeolojik Oluşumlar","Doğa"]

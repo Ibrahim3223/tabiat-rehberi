@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Gökdağ Tepesi","caption":"Gökdağ Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Gökdağ Tepesi","caption":"Gökdağ Tepesi","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kda%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872094","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Gökdağ Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Gökdağ Tepesi","Ankara","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Bölgeye özgü ürün satın alma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Nallıhan Tapduk Emre Türbesi","caption":"Nallıhan Tapduk Emre Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg","alt":"Nallıhan Tapduk Emre Türbesi","caption":"Nallıhan Tapduk Emre Türbesi","credit":"Akdeniz- the mediterranean-silence beach resort hotel - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nall%C4%B1han%20Tapduk%20Emre%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390677","tip":"genel"}]
 description: "Ankara'nın Nallıhan ilçesinde bulunan tarihi bir türbe"
 keywords: ["Nallıhan","Tapduk Emre","Türbe","Ankara","İç Anadolu Bölgesi","Tarihi mekan","Dini yapılardan","Gezi noktaları"]

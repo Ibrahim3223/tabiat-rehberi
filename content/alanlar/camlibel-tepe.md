@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","bitki gözlemi","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%BCver_Canyon_Scene%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scene%28Antalya%29.jpg","alt":"Çamlıbel Tepe","caption":"Çamlıbel Tepe","credit":"Güver Canyon Scene(Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/South_room_first_floor._View_looking_southwest._South_addition_visible_through_doorway._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_HABS_VA%2C42-CLOV.V%2C2A-13.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Çamlıbel Tepe","caption":"Çamlıbel Tepe","credit":"South room first floor. View looking southwest. South addition visible through doorway. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's HABS VA,42-CLOV.V,2A-13","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1bel%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828197","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin, Çamlıbel Tepe'ye doğru bir yolculuğa çıkın"
 keywords: ["Akdeniz Bölgesi","Antalya","doğa","tepe","gezi","turizm","çevre","ekoloji","flora","fauna"]

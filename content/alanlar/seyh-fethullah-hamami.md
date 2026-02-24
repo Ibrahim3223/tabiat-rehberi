@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Kumda dinlenme","Deniz suyu sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Şeyh Fethullah Hamamı","caption":"Şeyh Fethullah Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg/960px-Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg","alt":"Şeyh Fethullah Hamamı","caption":"Şeyh Fethullah Hamamı","credit":"Piri Reis. Map of the Black Sea (Samsun)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Fethullah%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738679","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en güzel plajlarından biri olan Şeyh Fethullah Hamamı, Şahinbey/Gaziantep'te yer alır."
 keywords: ["Şeyh Fethullah Hamamı","Gaziantep","Şahinbey","Güneydoğu Anadolu Bölgesi","plaj","deniz","kumsal","turizm"]

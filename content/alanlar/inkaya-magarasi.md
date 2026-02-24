@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"İnkaya Mağarası","caption":"İnkaya Mağarası","credit":"Aydıncık Cave","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zindan_Ma%C4%9Faras%C4%B1%2C_Aksu%2C_Provinz_Isparta.jpg/960px-Zindan_Ma%C4%9Faras%C4%B1%2C_Aksu%2C_Provinz_Isparta.jpg","alt":"İnkaya Mağarası","caption":"İnkaya Mağarası","credit":"Zindan Mağarası, Aksu, Provinz Isparta","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0nkaya%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q18165020","tip":"genel"}]
 description: "İzmir'in Güzelbahçe ilçesinde bulunan İnkaya Mağarası, 1200 hektarlık yeşil alan içinde yer alır ve doğa severler için önemli bir destinasyondur."
 keywords: ["İnkaya Mağarası","İzmir","Güzelbahçe","mağara","doğa","gezi","turizm","İzmir turistik yerler","Güzelbahçe gezilecek yerler"]

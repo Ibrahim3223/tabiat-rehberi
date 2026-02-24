@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbenin dini önemi hakkında bilgi edinme","Tarihi değerleri keşfetme","Çevresindeki doğal güzellikleri izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Nebi Yahya Nebi Hamza Türbesi","caption":"Nebi Yahya Nebi Hamza Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Nebi Yahya Nebi Hamza Türbesi","caption":"Nebi Yahya Nebi Hamza Türbesi","credit":"Mediterranean.^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nebi%20Yahya%20Nebi%20Hamza%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391734","tip":"genel"}]
 description: "Samandağ'da bulunan tarihi Nebi Yahya Nebi Hamza Türbesi, Akdeniz Bölgesi'nin önemli dini merkezlerinden biri."
 keywords: ["Nebi Yahya Nebi Hamza Türbesi","Samandağ","Hatay","Akdeniz Bölgesi","tarihi mekan","dini merkez","turistik yer","gezi","tarih"]

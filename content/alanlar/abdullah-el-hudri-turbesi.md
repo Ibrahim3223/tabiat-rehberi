@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe öğrenme","kültürel miras keşfi","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abdullah El-Hudri Türbesi","caption":"Abdullah El-Hudri Türbesi","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Abdullah El-Hudri Türbesi","caption":"Abdullah El-Hudri Türbesi","credit":"Muğla - Dalyan - İztuzu Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdullah%20El-Hudri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391029","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Abdullah El-Hudri Türbesi, Fatih ilçesinde yer almaktadır."
 keywords: ["Abdullah El-Hudri Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarih","kültür","türbe"]

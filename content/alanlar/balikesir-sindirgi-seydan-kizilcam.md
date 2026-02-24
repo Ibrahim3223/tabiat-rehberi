@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekme","picnic","flora ve fauna gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Balikesir-Sindirgi-Seydan-Kızılçam","caption":"Balikesir-Sindirgi-Seydan-Kızılçam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Balikesir-Sindirgi-Seydan-Kızılçam","caption":"Balikesir-Sindirgi-Seydan-Kızılçam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Sindirgi-Seydan-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228434","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
 keywords: ["Balikesir","Sindirgi","Seydan","Kızılçam","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotograf çekme","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Barrow_-_panoramio.jpg/960px-The_Barrow_-_panoramio.jpg","alt":"Ayrıdağ Tepesi","caption":"Ayrıdağ Tepesi","credit":"The Barrow - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/General_view_of_Fort_Hill_Farm%2C_view_looking_west_from_%28B%29_two-story_hall-and-parlor_house._Buildings_visible%2C_from_left_to_right%2C_are_%28B%29_parlor_house_porch%3B_%28E%29_one-room_cabin%3B_HABS_VA%2C42-CLOV.V%2C2-3.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Ayrıdağ Tepesi","caption":"Ayrıdağ Tepesi","credit":"General view of Fort Hill Farm, view looking west from (B) two-story hall-and-parlor house. Buildings visible, from left to right, are (B) parlor house porch; (E) one-room cabin; HABS VA,42-CLOV.V,2-3","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayr%C4%B1da%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390648","tip":"genel"}]
 description: "Kırşehir'in doğal güzelliklerinden biri olan Ayrıdağ Tepesi, İç Anadolu Bölgesi'nde yer alıyor."
 keywords: ["Ayrıdağ Tepesi","Kırşehir","İç Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

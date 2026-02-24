@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Turgut Alp Türbesi","caption":"Turgut Alp Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29_%28cropped%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29_%28cropped%29.jpg","alt":"Turgut Alp Türbesi","caption":"Turgut Alp Türbesi","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (1) (cropped)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turgut%20Alp%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391362","tip":"genel"}]
 description: "İnegöl'ün tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Turgut Alp Türbesi","İnegöl","Bursa","Marmara Bölgesi","tarih","doğa","gezi","türbe","kültür"]

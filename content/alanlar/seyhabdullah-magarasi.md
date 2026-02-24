@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lower_Antelope_Canyon_November_2018_017.jpg/960px-Lower_Antelope_Canyon_November_2018_017.jpg","alt":"Şeyhabdullah Mağarası","caption":"Şeyhabdullah Mağarası","credit":"Lower Antelope Canyon November 2018 017","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Geologic_Clock_with_events_and_periods_tr.svg/960px-Geologic_Clock_with_events_and_periods_tr.svg.png","alt":"Şeyhabdullah Mağarası","caption":"Şeyhabdullah Mağarası","credit":"Geologic Clock with events and periods tr","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhabdullah%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319943","tip":"genel"}]
 description: "Batman'da yer alan Şeyhabdullah Mağarası, jeopark olarak bilinen doğal güzelliği ile dikkat çekiyor."
 keywords: ["Şeyhabdullah Mağarası","Batman","Jeopark","Doğal Güzellik","Mağara","Turizm","Gezi","Doğa","Jeolojik Alan"]

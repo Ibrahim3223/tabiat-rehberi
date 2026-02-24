@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenme","dini değerleri keşfetme","yöresel lezzetleri tatma","yerel ürünler satın alma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Fakih Dede Türbesi, Karatay","caption":"Fakih Dede Türbesi, Karatay","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Fakih Dede Türbesi, Karatay","caption":"Fakih Dede Türbesi, Karatay","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fakih%20Dede%20T%C3%BCrbesi%2C%20Karatay","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582377","tip":"genel"}]
 description: "Konya'nın Karatay ilçesinde bulunan Fakih Dede Türbesi, tarihi ve kültürel öneme sahip bir dini mekan."
 keywords: ["Fakih Dede Türbesi","Karatay","Konya","İç Anadolu Bölgesi","tarihi mekanlar","dini mekanlar","türk kültürü","tarihçe","coğrafya"]

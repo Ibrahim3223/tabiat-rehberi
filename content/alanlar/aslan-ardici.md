@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Aslan Ardici","caption":"Aslan Ardici","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Aslan Ardici","caption":"Aslan Ardici","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aslan%20Ardici","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227171","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti Aslan Ardici milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Aslan Ardici","milli park","İç Anadolu Bölgesi","doğa","gezi","yaban hayatı","ekosistem","çevre","turizm"]

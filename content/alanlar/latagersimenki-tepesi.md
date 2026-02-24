@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Latagersimenki Tepesi","caption":"Latagersimenki Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Latagersimenki Tepesi","caption":"Latagersimenki Tepesi","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Latagersimenki%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553727","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Latagersimenki Tepesi, Batman ilinde yer alır ve 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
 keywords: ["Latagersimenki Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","yeşil alan","tepeler"]

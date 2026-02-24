@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mezarı gezmek","tarihi bilgileri öğrenmek","doğal alanı keşfetmek","manzara izlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Publius Varius Aquila Mezarı","caption":"Publius Varius Aquila Mezarı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ilica_plaj_-_beach_October_2009_2_-_panoramio.jpg/960px-Ilica_plaj_-_beach_October_2009_2_-_panoramio.jpg","alt":"Publius Varius Aquila Mezarı","caption":"Publius Varius Aquila Mezarı","credit":"Ilica plaj - beach October 2009 2 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Publius%20Varius%20Aquila%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728085","tip":"genel"}]
 description: "Çanakkale'nin Ayvacık ilçesinde bulunan tarihi mezar, Marmara Bölgesi'nin önemli tarihi noktalarından biri."
 keywords: ["Publius Varius Aquila Mezarı","Ayvacık","Çanakkale","Marmara Bölgesi","tarihi mezar","antik dönem","arkeolojik alan","turizm","gezi"]

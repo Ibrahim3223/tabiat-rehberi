@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Antalya-Duzlercami Kızılçam","caption":"Antalya-Duzlercami Kızılçam","credit":"Akdag 01","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg","alt":"Antalya-Duzlercami Kızılçam","caption":"Antalya-Duzlercami Kızılçam","credit":"Değirmenburnu Tabiat Parkı Giriş","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Duzlercami%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227415","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin doğal güzellikleri arasında yer alan Antalya-Duzlercami Kızılçam Milli Parkı, 140 hektarlık yeşil alanıyla khong 200 futbol sahası büyüklüğünde."
 keywords: ["Antalya","Duzlercami Kızılçam","Milli Park","Akdeniz Bölgesi","Doğa","Kızılçam","Yeşil Alan"]

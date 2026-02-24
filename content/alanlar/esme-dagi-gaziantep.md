@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Eşme Dağı","caption":"Eşme Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg/960px-H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg","alt":"Eşme Dağı","caption":"Eşme Dağı","credit":"Hürmetçi ve Erciyes","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Fme%20Da%C4%9F%C4%B1%20(Gaziantep)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31534442","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin, Eşme Dağı'nda doğa yürüyüşleri ve tarihi alanları keşfedin."
 keywords: ["Eşme Dağı","Gaziantep","doğa yürüyüşü","tarih","turizm","gezi","dağ","Gaziantep turistik yerler","Eşme Dağı gezisi"]

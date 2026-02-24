@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezmek","Doğa yürüyüşü yapmak","Flora ve fauna çeşitliliği hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Mersin Dede Türbesi","caption":"Mersin Dede Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_07.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_07.jpg","alt":"Mersin Dede Türbesi","caption":"Mersin Dede Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 07","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391197","tip":"genel"}]
 description: "Çanakkale'nin tarihi ve doğal güzellikleri arasında yer alan Mersin Dede Türbesi, önemli bir ziyaret noktasıdır."
 keywords: ["Mersin Dede Türbesi","Çanakkale","tarih","doğa","tabela","gezi","ziyaret"]

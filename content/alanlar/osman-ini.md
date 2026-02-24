@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Osman İni","caption":"Osman İni","credit":"Goreme National Park, Turkey","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sugar_Creek_Turkey_Run_SP%2C_IN_2.jpg/960px-Sugar_Creek_Turkey_Run_SP%2C_IN_2.jpg","alt":"Osman İni","caption":"Osman İni","credit":"Sugar Creek Turkey Run SP, IN 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Osman%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319634","tip":"genel"}]
 description: "Karaman'da yer alan Osman İni jeopark, 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Osman İni","Karaman","Jeopark","Doğa Alanı","Yeşil Alan","Turizm","Gezi","Karaman Gezilecek Yerler","Jeolojik Alan"]

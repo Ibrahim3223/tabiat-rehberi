@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günde 4-6 saat"
 aktiviteler: ["Denizde serinlemek","Güneşin tadını çıkarmak","Su sporları yapmak","Yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Silivri Belediye Hamamı","caption":"Silivri Belediye Hamamı","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Silivri Belediye Hamamı","caption":"Silivri Belediye Hamamı","credit":"Karaburun - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Silivri%20Belediye%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739140","tip":"genel"}]
 description: "İstanbul'un Silivri ilçesinde bulunan plaj, Marmara Denizi'nin güzelliğini sunar."
 keywords: ["Silivri","Belediye Hamamı","Marmara Denizi","plaj","İstanbul","tatil","deniz","kumsal"]

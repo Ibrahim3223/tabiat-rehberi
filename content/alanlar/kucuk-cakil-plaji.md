@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","picnic","fotoğraf çekme","doğa"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Küçük Çakıl Plajı","caption":"Küçük Çakıl Plajı","credit":"The joy of nature.JPG","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Küçük Çakıl Plajı","caption":"Küçük Çakıl Plajı","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20%C3%87ak%C4%B1l%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6010141","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık geniş alanıyla ziyaretçilerini bekliyor."
 keywords: ["Küçük Çakıl Plajı","İç Anadolu Bölgesi","plaj","doğa","gezi","turizm","çevre","ekoloji","gezgin"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Kızılkırma Tepesi","caption":"Kızılkırma Tepesi","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg/960px-Spil_Da%C4%9F%C4%B1%27ndan_Manisa%27ya_ku%C5%9F_bak%C4%B1%C5%9F%C4%B1.jpg","alt":"Kızılkırma Tepesi","caption":"Kızılkırma Tepesi","credit":"Spil Dağı'ndan Manisa'ya kuş bakışı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lk%C4%B1rma%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558750","tip":"genel"}]
 description: "Ankara'nın önemli dağlarından biri olan Kızılkırma Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir nokta"
 keywords: ["Kızılkırma Tepesi","Ankara dağları","doğa yürüyüşü","turizm","gezi rehberi","Ankara gezilecek yerler","dağcılık","şehir dışı aktiviteleri","Ankara doğal güzellikleri"]

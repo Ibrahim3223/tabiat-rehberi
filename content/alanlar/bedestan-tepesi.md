@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Piknik","Kuş Gözlemciliği","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bedestan Tepesi","caption":"Bedestan Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Bedestan Tepesi","caption":"Bedestan Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bedestan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389140","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Yalova'da yer alan Bedestan Tepesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor. 200 futbol sahası büyüklüğünde bu doğa harikası, şehrininde yer alıyor."
 keywords: ["Yalova","Marmara Bölgesi","Bedestan Tepesi","doğa","yeşil alan","gezi","turizm"]

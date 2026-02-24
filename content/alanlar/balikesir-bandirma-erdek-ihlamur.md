@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Balikesir-Bandirma-Erdek Ihlamur","caption":"Balikesir-Bandirma-Erdek Ihlamur","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg/960px-Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Balikesir-Bandirma-Erdek Ihlamur","caption":"Balikesir-Bandirma-Erdek Ihlamur","credit":"Kayabaşı Tabiat Parkı - 360° Panorama","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Bandirma-Erdek%20Ihlamur","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227719","tip":"genel"}]
 description: "140 hektarlık yeşil alan, Marmara'nın güzelliğini keşfedin"
 keywords: ["Balikesir","Bandirma","Erdek","Ihlamur","Marmara","yeşil alan","doğa","gezi"]

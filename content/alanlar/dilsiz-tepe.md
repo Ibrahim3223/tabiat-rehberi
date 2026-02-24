@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Dilsiz Tepe","caption":"Dilsiz Tepe","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PeakUludag.jpg/960px-PeakUludag.jpg","alt":"Dilsiz Tepe","caption":"Dilsiz Tepe","credit":"PeakUludag","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dilsiz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31525653","tip":"genel"}]
 description: "Mersin'de yer alan Dilsiz Tepe, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Dilsiz Tepe","Mersin","Dağ","Doğa","Türkiye","Gezi","Seyahat","Mersin Gezilecek Yerler","Dağcılık"]

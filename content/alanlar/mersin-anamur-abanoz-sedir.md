@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","kamp","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Mersin-Anamur-Abanoz Sedir","caption":"Mersin-Anamur-Abanoz Sedir","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Mersin-Anamur-Abanoz Sedir","caption":"Mersin-Anamur-Abanoz Sedir","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mersin-Anamur-Abanoz%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227613","tip":"genel"}]
 description: "Mersin-Anamur-Abanoz Sedir milli parkı, doğal güzellikleri ve biyolojik çeşitliliği ile dikkat çekiyor."
 keywords: ["Mersin-Anamur-Abanoz Sedir","milli park","doğa","biyolojik çeşitlilik","Mersin","Anamur","Abanoz Sedir","orman","flora","fauna"]

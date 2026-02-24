@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","tarihî noktalara ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/G%C3%BCver_Canyon_Landscape_%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Landscape_%28Antalya%29.jpg","alt":"Çığlıkdede Tepesi","caption":"Çığlıkdede Tepesi","credit":"Güver Canyon Landscape (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Çığlıkdede Tepesi","caption":"Çığlıkdede Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1%C4%9Fl%C4%B1kdede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819424","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerinden biri olan Çığlıkdede Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Antalya","doğa","tepe","gezi","turizm","çevre","iklim","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Çayırönü Düden Mağarası","caption":"Çayırönü Düden Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Department_of_Geological_Engineering_-_panoramio.jpg/960px-Department_of_Geological_Engineering_-_panoramio.jpg","alt":"Çayırönü Düden Mağarası","caption":"Çayırönü Düden Mağarası","credit":"Department of Geological Engineering - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ay%C4%B1r%C3%B6n%C3%BC%20D%C3%BCden%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319908","tip":"genel"}]
 description: "Antalya'da bulunan Çayırönü Düden Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Çayırönü Düden Mağarası","Antalya","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Antalya Turistik Yerler","Jeolojik Oluşumlar"]

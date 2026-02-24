@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snow_on_the_Lake_Abant.jpg/960px-Snow_on_the_Lake_Abant.jpg","alt":"Erzurum-Erzurum-Titrek Kavak","caption":"Erzurum-Erzurum-Titrek Kavak","credit":"Snow on the Lake Abant","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/MOKFC04.jpg/960px-MOKFC04.jpg","alt":"Erzurum-Erzurum-Titrek Kavak","caption":"Erzurum-Erzurum-Titrek Kavak","credit":"MOKFC04","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Erzurum-Titrek%20Kavak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228812","tip":"genel"}]
 description: "Doğu Anadolu'nun kalbinde yer alan Titrek Kavak, doğal güzelliği ve zengin fauna ile dikkat çekiyor."
 keywords: ["Doğu Anadolu","Erzurum","Titrek Kavak","milli park","doğa","flora","fauna","turizm","gezi","yerel"]

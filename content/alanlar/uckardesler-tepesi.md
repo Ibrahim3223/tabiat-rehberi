@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarihî eserleri ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Üçkardeşler Tepesi","caption":"Üçkardeşler Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Üçkardeşler Tepesi","caption":"Üçkardeşler Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7karde%C5%9Fler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820510","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Üçkardeşler Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir."
 keywords: ["Üçkardeşler Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]

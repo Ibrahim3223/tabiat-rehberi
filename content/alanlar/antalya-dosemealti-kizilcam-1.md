@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_photos_of_Akda%C4%9F_3.jpg/960px-The_photos_of_Akda%C4%9F_3.jpg","alt":"Antalya-Döşemealtı Kızılçam 1","caption":"Antalya-Döşemealtı Kızılçam 1","credit":"The photos of Akdağ 3","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"Antalya-Döşemealtı Kızılçam 1","caption":"Antalya-Döşemealtı Kızılçam 1","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-D%C3%B6%C5%9Femealt%C4%B1%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227839","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin güzide illerinden Antalya'da yer alan milli park"
 keywords: ["Antalya","Döşemealtı","Kızılçam","milli park","Akdeniz Bölgesi","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","fotografcilik","tarih öğrenimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Yüceören Nekropolü","caption":"Yüceören Nekropolü","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/G%C3%B6kceada_fort_1.jpg/960px-G%C3%B6kceada_fort_1.jpg","alt":"Yüceören Nekropolü","caption":"Yüceören Nekropolü","credit":"Gökceada fort 1","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C3%BCce%C3%B6ren%20Nekropol%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728242","tip":"genel"}]
 description: "Ceyhan'da tarihi bir alan olan Yüceören Nekropolü, ziyaretçilerini geçmişe götürür."
 keywords: ["Yüceören Nekropolü","Ceyhan","Adana","tarih","gezi","mekan","alan","ziyaret"]

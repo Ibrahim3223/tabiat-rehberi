@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","çevre gezisi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Kahramanmaras-Andirin-Yesilova Citlenbik","caption":"Kahramanmaras-Andirin-Yesilova Citlenbik","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg","alt":"Kahramanmaras-Andirin-Yesilova Citlenbik","caption":"Kahramanmaras-Andirin-Yesilova Citlenbik","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546842503)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Andirin-Yesilova%20Citlenbik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228489","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, doğa severler için bir."
 keywords: ["Kahramanmaras","Andirin","Yesilova","Citlenbik","milli park","doğa","gezi","turizm"]

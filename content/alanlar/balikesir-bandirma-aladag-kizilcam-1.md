@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Yaban hayatı gözlemi","Çiçek toplama","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Balikesir-Bandirma-Aladag Kızılçam 1","caption":"Balikesir-Bandirma-Aladag Kızılçam 1","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg/960px-Kuzuyayla_Tabiat_Park%C4%B1_%282%29_02.jpg","alt":"Balikesir-Bandirma-Aladag Kızılçam 1","caption":"Balikesir-Bandirma-Aladag Kızılçam 1","credit":"Kuzuyayla Tabiat Parkı (2) 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Bandirma-Aladag%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227857","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
 keywords: ["Balikesir","Bandirma","Aladag","Kızılçam","Milli Park","İç Anadolu Bölgesi","Doğa","Yeşil Alan","Kızılçam Ağacı"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Kızılçam 2","caption":"Bursa-Mustafakemalpaşa-Karacabey Kızılçam 2","credit":"IMG-20210119-WA0093.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/960px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Bursa-Mustafakemalpaşa-Karacabey Kızılçam 2","caption":"Bursa-Mustafakemalpaşa-Karacabey Kızılçam 2","credit":"Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Mustafakemalpa%C5%9Fa-Karacabey%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227862","tip":"genel"}]
 description: "Marmara Bölgesi'nin yeşillendirilmiş alanlarından biri olan Bursa-Mustafakemalpaşa-Karacabey Kızılçam 2 milli parkı"
 keywords: ["Bursa","Marmara Bölgesi","milli park","Kızılçam","doğa","yeşil alan"]

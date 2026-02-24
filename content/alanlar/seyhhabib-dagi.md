@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Şeyhhabib Dağı","caption":"Şeyhhabib Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Şeyhhabib Dağı","caption":"Şeyhhabib Dağı","credit":"Gelincik Dagi Manzara","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhhabib%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31583863","tip":"genel"}]
 description: "Bitlis'te yer alan Şeyhhabib Dağı, doğa severler için önemli bir destinasyon. 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Şeyhhabib Dağı","Bitlis","Dağ","Doğa","Turizm","Gezi","Trekking","Doğa Yürüyüşü","Bitlis Turistik Yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotografi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Rüstem Paşa Hamamı","caption":"Rüstem Paşa Hamamı","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84.jpg","alt":"Rüstem Paşa Hamamı","caption":"Rüstem Paşa Hamamı","credit":"استانبول","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/R%C3%BCstem%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738675","tip":"genel"}]
 description: "Tekirdağ'ın Süleymanpaşa ilçesinde yer alan Rüstem Paşa Hamamı, tarihi ve doğal güzellikleri bir arada sunan özel bir yer."
 keywords: ["Rüstem Paşa Hamamı","Süleymanpaşa","Tekirdağ","tarihi hamam","doğal güzellik","Marmara Bölgesi","turizm","gezi"]

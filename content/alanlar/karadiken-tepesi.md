@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karadiken Tepesi","caption":"Karadiken Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Karadiken Tepesi","caption":"Karadiken Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karadiken%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385706","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Karadiken Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Karadiken Tepesi","İç Anadolu Bölgesi","doğa","tepe","gezi","manzara","turizm","yerel","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Bin Tepeler Tümülüsü 70","caption":"Bin Tepeler Tümülüsü 70","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_beach_near_Phaselis_2021-02-26-1.jpg/960px-A_beach_near_Phaselis_2021-02-26-1.jpg","alt":"Bin Tepeler Tümülüsü 70","caption":"Bin Tepeler Tümülüsü 70","credit":"A beach near Phaselis 2021-02-26-1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2070","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728294","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerinin bir arada bulunduğu bir nokta"
 keywords: ["Bin Tepeler Tümülüsü 70","Salihli","Manisa","Ege Bölgesi","tarih","doğa","gezi","tümülüs"]

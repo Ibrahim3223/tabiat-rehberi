@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"ALLEBEN_TP","caption":"ALLEBEN_TP","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG/960px-Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG","alt":"ALLEBEN_TP","caption":"ALLEBEN_TP","credit":"Prise de l'Hôtel de ville - le Pont d'Arcole","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ALLEBEN_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228776","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["ALLEBEN_TP","İç Anadolu Bölgesi","doğa","yeşil alan","gezi","turizm","çevre","ekoloji"]

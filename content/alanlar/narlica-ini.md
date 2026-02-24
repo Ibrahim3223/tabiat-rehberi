@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"Narlıca İni","caption":"Narlıca İni","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Kozjak_--_2022_--_0248.jpg/960px-Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Kozjak_--_2022_--_0248.jpg","alt":"Narlıca İni","caption":"Narlıca İni","credit":"Lika-Senj (HR), Plitvicer Seen, Kozjak -- 2022 -- 0248","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Narl%C4%B1ca%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319610","tip":"genel"}]
 description: "Antalya'da yer alan Narlıca İni, doğal güzellikleri ve jeolojik oluşumlarıyla dikkat çeken bir jeopark alanıdır."
 keywords: ["Narlıca İni","Antalya","Jeopark","Doğal Alan","Turizm","Gezi","Jeolojik Oluşum","Antalya Turistik Yerler","Doğa"]

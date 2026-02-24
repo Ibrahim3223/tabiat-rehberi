@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Trekking","Doğa yürüyüşü","Çevre gezisi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kastamonu-Arac Karacam","caption":"Kastamonu-Arac Karacam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg","alt":"Kastamonu-Arac Karacam","caption":"Kastamonu-Arac Karacam","credit":"Gölcük Tabiat Parkı Bolu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Arac%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227521","tip":"genel"}]
 description: "Kastamonu'nun doğal güzellikleri arasında yer alan milli park, ziyaretçilerini bekliyor."
 keywords: ["Kastamonu","milli park","Arac Karacam","doğa","turizm","gezi","karadeniz","yeşil","çevre"]

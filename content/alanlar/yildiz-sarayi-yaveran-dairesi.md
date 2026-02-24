@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Yıldız Sarayı Yaveran Dairesi","caption":"Yıldız Sarayı Yaveran Dairesi","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nea_Moni_and_the_Aegean_Sea.JPG/960px-Nea_Moni_and_the_Aegean_Sea.JPG","alt":"Yıldız Sarayı Yaveran Dairesi","caption":"Yıldız Sarayı Yaveran Dairesi","credit":"Nea Moni and the Aegean Sea","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Yaveran%20Dairesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133684790","tip":"genel"}]
 description: "İstanbul'un kalbinde, Marmara Bölgesi'nin güzelliğini sunan Yıldız Sarayı Yaveran Dairesi"
 keywords: ["Yıldız Sarayı","Yaveran Dairesi","Marmara Bölgesi","İstanbul","Beşiktaş","tarih","doğa","gezi","plaj","sahil"]

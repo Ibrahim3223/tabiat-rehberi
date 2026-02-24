@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Mehmet Yusuf Dağı","caption":"Mehmet Yusuf Dağı","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg/960px-Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg","alt":"Mehmet Yusuf Dağı","caption":"Mehmet Yusuf Dağı","credit":"Hacıbaba dağı- batıdan - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehmet%20Yusuf%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515780","tip":"genel"}]
 description: "Şırnak'ta bulunan Mehmet Yusuf Dağı, bölgenin önemli coğrafi oluşumlarından biridir. Doğal güzelliği ve jeolojik özellikleri ile dikkat çeker."
 keywords: ["Mehmet Yusuf Dağı","Şırnak","Dağ","Doğa","Coğrafya","Jeoloji","Turizm","Gezi","Şırnak Turistik Yerler"]

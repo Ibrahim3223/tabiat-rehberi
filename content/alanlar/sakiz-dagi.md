@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Sakız Dağı","caption":"Sakız Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Sakız Dağı","caption":"Sakız Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sak%C4%B1z%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31583368","tip":"genel"}]
 description: "Diyarbakır'da yer alan Sakız Dağı, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzellikleri ve tarihi zenginlikleri ile ziyaretçilerini bekliyor."
 keywords: ["Sakız Dağı","Diyarbakır","Doğa","Tarih","Turizm","Dağ","Yeşil Alan","Diyarbakır Gezi","Sakız Dağı Turu"]

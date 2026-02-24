@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotografçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Adapazari-Geyve-Tarakli Kızılçam 1","caption":"Adapazari-Geyve-Tarakli Kızılçam 1","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg","alt":"Adapazari-Geyve-Tarakli Kızılçam 1","caption":"Adapazari-Geyve-Tarakli Kızılçam 1","credit":"Abant Gölü Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Geyve-Tarakli%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227295","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Adapazari-Geyve-Tarakli Kızılçam 1 milli parkı, zengin fauna ve flora çeşitliliği ile dikkat çekiyor."
 keywords: ["milli park","doğa","flora","fauna","İç Anadolu Bölgesi","Adapazari","Geyve","Taraklı","Kızılçam"]

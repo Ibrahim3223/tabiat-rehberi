@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Hatip Boğazı","caption":"Hatip Boğazı","credit":"VallesMarinerisHuge","license":"Attribution"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Akhurian_River_Gorge.jpg/960px-Akhurian_River_Gorge.jpg","alt":"Hatip Boğazı","caption":"Hatip Boğazı","credit":"Akhurian River Gorge","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatip%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49342930","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerinden biri olan Hatip Boğazı, 1200 hektarlık bir alan üzerinde yer alan bir kanyon"
 keywords: ["Hatip Boğazı","Çorum","Kanyon","Doğal Alan","Turizm","Çorum Turistik Yerler","Kanyon Gezileri","Doğa Yürüyüşleri","Çorum Gezi Rehberi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Altıkardesler","caption":"Altıkardesler","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Altıkardesler","caption":"Altıkardesler","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1kardesler","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227354","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan Altıkardesler, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler","tarihçe","coğrafya","flora","fauna"]

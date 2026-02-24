@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Çobankara Tepe","caption":"Çobankara Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Conquering_the_Mountain_Nemrut.jpg/960px-Conquering_the_Mountain_Nemrut.jpg","alt":"Çobankara Tepe","caption":"Çobankara Tepe","credit":"Conquering the Mountain Nemrut","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87obankara%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819532","tip":"genel"}]
 description: "Türkiye'de bulunan Çobankara Tepe, ülkenin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon"
 keywords: ["Çobankara Tepe","Türkiye dağları","doğa turizmi","dağcılık","Türkiye'nin yüksek noktaları","coğrafi oluşumlar","turistik yerler","gezi rehberi","doğal güzellikler"]

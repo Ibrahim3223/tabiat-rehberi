@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Manit Dağı","caption":"Manit Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg/960px-Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg","alt":"Manit Dağı","caption":"Manit Dağı","credit":"Kars Yaylası 06 1989 Dumanlı Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Manit%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31584458","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, 1200 hektarlık yeşil cennet Manit Dağı'nda doğayı keşfedin"
 keywords: ["Manit Dağı","Mersin","Dağ","Doğa","Yeşil Alan","Mersin Turizm","Dağ Turizmi","Mersin Gezi","Doğa Sporları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Hamitseydi Boğazı","caption":"Hamitseydi Boğazı","credit":"VallesMarinerisHuge","license":"Attribution"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kemaliye_Ta%C5%9F_Yolu_and_Karanlik_Kanyon.jpg/960px-Kemaliye_Ta%C5%9F_Yolu_and_Karanlik_Kanyon.jpg","alt":"Hamitseydi Boğazı","caption":"Hamitseydi Boğazı","credit":"Kemaliye Taş Yolu and Karanlik Kanyon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamitseydi%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35502516","tip":"genel"}]
 description: "Karaman'da yer alan Hamitseydi Boğazı, 1200 hektarlık yeşil alanı ile doğa severlerin ziyaret ettiği bir kanyon"
 keywords: ["Hamitseydi Boğazı","Karaman","kanyon","doğa","turizm","gezi","yeşil alan","Karaman gezilecek yerler","kanyonlar"]

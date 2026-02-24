@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Arkeolojik kazı alanı gezisi","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Magnesia Roma Hamamı","caption":"Magnesia Roma Hamamı","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kabak_Valley%2C_Turkey.JPG/960px-Kabak_Valley%2C_Turkey.JPG","alt":"Magnesia Roma Hamamı","caption":"Magnesia Roma Hamamı","credit":"Kabak Valley, Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Magnesia%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739001","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Aydın'ın Germencik ilçesinde bulunan Magnesia Roma Hamamı"
 keywords: ["Magnesia Roma Hamamı","Germencik","Aydın","Ege Bölgesi","Roma Hamamları","Tarih","Arkeoloji","Gezi","Turizm"]

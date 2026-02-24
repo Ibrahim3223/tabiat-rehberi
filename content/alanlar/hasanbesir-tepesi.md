@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kampçılık"," turizmi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Hasanbeşir Tepesi","caption":"Hasanbeşir Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Hasanbeşir Tepesi","caption":"Hasanbeşir Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasanbe%C5%9Fir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387430","tip":"genel"}]
 description: "Doğu Anadolu'nun görkemli tepelerinden biri olan Hasanbeşir Tepesi, Van ilinin doğal güzelliklerini sunar."
 keywords: ["Hasanbeşir Tepesi","Van","Doğu Anadolu","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]

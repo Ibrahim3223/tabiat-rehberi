@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Ahlat Sazlığı","caption":"Ahlat Sazlığı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg","alt":"Ahlat Sazlığı","caption":"Ahlat Sazlığı","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahlat%20Sazl%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228831","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan natuur alanı"
 keywords: ["Ahlat Sazlığı","İç Anadolu Bölgesi","doğa","sazlık","korunan alan"]

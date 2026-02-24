@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"TÜRKBELENİ","caption":"TÜRKBELENİ","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg","alt":"TÜRKBELENİ","caption":"TÜRKBELENİ","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C3%9CRKBELEN%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228742","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık Türkbeleni milli parkı, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["İç Anadolu Bölgesi","doğal güzellik","milli park","Türkbeleni","çevre","ekosistem","flora","fauna","gezi"]

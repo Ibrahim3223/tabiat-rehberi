@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Derbent Boğazı","caption":"Derbent Boğazı","credit":"VallesMarinerisHuge","license":"Attribution"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Extended_caption-_Near_Dumar_Stations%2C_on_the_outskirts_of_Damascus%2C_a_Turkish_column_was_escaping_by_the_Beyrout_road%2C_which_winds_through_the_gorge_alongside_the_Abana_river._When_word_was_brought_to_the_Aust_Art.IWMART1563.jpg/960px-thumbnail.jpg","alt":"Derbent Boğazı","caption":"Derbent Boğazı","credit":"Extended caption- Near Dumar Stations, on the outskirts of Damascus, a Turkish column was escaping by the Beyrout road, which winds through the gorge alongside the Abana river. When word was brought to the Aust Art.IWMART1563","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Derbent%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49342858","tip":"genel"}]
 description: "Afyonkarahisar'da yer alan Derbent Boğazı, Türkiye'nin en önemli kanyonlarından biri. Doğal güzelliği ve tarihi önemiyle dikkat çekiyor."

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["güneşlenmek","denizde yüzmek","doğayı keşfetmek","yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Demirciler Hamamı","caption":"Demirciler Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg","alt":"Demirciler Hamamı","caption":"Demirciler Hamamı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (4)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirciler%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739157","tip":"genel"}]
 description: "Gebze'nin doğal güzelliklerini keşfedin"
 keywords: ["Gebze","Kocaeli","Marmara Bölgesi","plaj","doğal güzellik","turizm","gezi","seyahat"]

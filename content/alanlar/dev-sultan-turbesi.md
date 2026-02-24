@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Dev Sultan Türbesi","caption":"Dev Sultan Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/A_beach_near_Phaselis_2021-02-26-2.jpg/960px-A_beach_near_Phaselis_2021-02-26-2.jpg","alt":"Dev Sultan Türbesi","caption":"Dev Sultan Türbesi","credit":"A beach near Phaselis 2021-02-26-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dev%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390678","tip":"genel"}]
 description: "Polatlı'da tarihi ve doğal güzelliklerin buluştuğu Dev Sultan Türbesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Polatlı","Ankara","İç Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","gezi noktaları","türbeler","yeşil alanlar","futbol sahaları büyüklüğünde","zengin fauna"]

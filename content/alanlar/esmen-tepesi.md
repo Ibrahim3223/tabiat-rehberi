@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","yaban hayatı gözlemi","tarihî yerleri gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Esmen Tepesi","caption":"Esmen Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Esmen Tepesi","caption":"Esmen Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esmen%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388947","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Bingöl'ün dağlarıyla çevrilmiş Esmen Tepesi, 140 hektarlık yeşil alanı ve yaban hayatıyla ziyaretçilerini bekliyor."
 keywords: ["Esmen Tepesi","Bingöl","Doğu Anadolu Bölgesi","doğa","yaban hayatı","gezi","turizm"]

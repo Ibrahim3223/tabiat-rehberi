@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük gezi"
 aktiviteler: ["doğa yürüyüşü","picnic","fotografcılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Bursa M.K. Paşa Paşalar-Cataldaggoknari","caption":"Bursa M.K. Paşa Paşalar-Cataldaggoknari","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Bursa M.K. Paşa Paşalar-Cataldaggoknari","caption":"Bursa M.K. Paşa Paşalar-Cataldaggoknari","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa%20M.K.%20pa%C5%9Fa%20pa%C5%9Falar-Cataldaggoknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228095","tip":"genel"}]
 description: "Bursa'da yer alan milli park, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["milli park","Bursa","yeşil alan","doğa","gezi","turizm","çevre","ekoloji","flora","fauna"]

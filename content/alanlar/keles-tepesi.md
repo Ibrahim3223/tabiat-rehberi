@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Keleş Tepesi","caption":"Keleş Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Keleş Tepesi","caption":"Keleş Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kele%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564589","tip":"genel"}]
 description: "Karabük'ün yemyeşil doğası içinde yer alan Keleş Tepesi, 140 hektarlık bir alanı kaplıyor ve yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Karabük","Keleş Tepesi","doğa","yürüyüş","manzara","gezi","Karadeniz Bölgesi","tepe","gezinti"]

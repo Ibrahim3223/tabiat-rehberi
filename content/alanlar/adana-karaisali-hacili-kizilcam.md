@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Trekking","Kamp","Doğa fotoğrafçılığı","Tarihi mekan gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Adana-Karaisali-Hacili Kızılçam","caption":"Adana-Karaisali-Hacili Kızılçam","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg/960px-Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg","alt":"Adana-Karaisali-Hacili Kızılçam","caption":"Adana-Karaisali-Hacili Kızılçam","credit":"Melchior de Hondecoeter (1636-1695) - A Cock and Turkey Fighting, in a Park Setting, with Other Fowl - 453773 - National Trust","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Karaisali-Hacili%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227632","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Adana-Karaisali-Hacili Kızılçam Milli Parkı, 1200 hektarlık yeşil cenneti ve zengin ekosistemiyle dikkat çekiyor."
 keywords: ["Adana-Karaisali-Hacili Kızılçam","Milli Park","İç Anadolu Bölgesi","Kızılçam","Doğa","Ekosistem","Turizm","Gezi"]

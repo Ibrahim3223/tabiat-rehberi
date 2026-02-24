@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları gezmek","Doğal güzelliklerine tanık olmak","Çevre gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Harabat Sultan Türbesi","caption":"Harabat Sultan Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Harabat Sultan Türbesi","caption":"Harabat Sultan Türbesi","credit":"Muğla Province (45034554)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harabat%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390914","tip":"genel"}]
 description: "Şehzadeler, Manisa'da bulunan tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Harabat Sultan Türbesi","Şehzadeler","Manisa","Ege Bölgesi","tarihi mekanlar","doğa alanları","turistik yerler"]

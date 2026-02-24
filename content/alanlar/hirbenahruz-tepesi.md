@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Hırbenahruz Tepesi","caption":"Hırbenahruz Tepesi","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Hırbenahruz Tepesi","caption":"Hırbenahruz Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1rbenahruz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554167","tip":"genel"}]
 description: "Mardin'de bulunan Hırbenahruz Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Hırbenahruz Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","doğal alan","tepe","coğrafya","flora","fauna","ziyaret"]

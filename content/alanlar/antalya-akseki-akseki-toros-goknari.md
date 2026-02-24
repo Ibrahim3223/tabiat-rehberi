@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tam gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Antalya-Akseki-Akseki-Toros Goknari","caption":"Antalya-Akseki-Akseki-Toros Goknari","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"Antalya-Akseki-Akseki-Toros Goknari","caption":"Antalya-Akseki-Akseki-Toros Goknari","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Akseki-Akseki-Toros%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228539","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin gözde milli parkı, Toros dağlarındaki güzellikler"
 keywords: ["milli park","Toros dağları","Akdeniz Bölgesi","Antalya","doğa","gezi","turizm"]

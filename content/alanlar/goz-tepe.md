@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Serkan_%C3%B6d%C3%BCl_t%C3%B6reni.jpg","alt":"Göz Tepe manzarası","credit":"Serkan Aydın Oyuncu","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/960px-Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","alt":"Göz Tepe","caption":"Göz Tepe","credit":"Dağ tepesinden Uzungöl görünümü","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Giresun_%C4%B0l_%C3%96zel_%C4%B0daresi_Konservatuvar%C4%B1.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Giresun_%C4%B0l_%C3%96zel_%C4%B0daresi_Konservatuvar%C4%B1.jpg/1280px-Giresun_%C4%B0l_%C3%96zel_%C4%B0daresi_Konservatuvar%C4%B1.jpg","alt":"Göz Tepe - Giresun İl Özel İdaresi Konservatuvarı","credit":"Girtab2828","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6z%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872668","tip":"genel"}]
 description: "Çorum'un görkemli dağlarından biri olan Göz Tepe, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."

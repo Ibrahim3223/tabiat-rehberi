@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","plaj gezi","tarihi mekanları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Karaatlı Türbesi, Söke","caption":"Karaatlı Türbesi, Söke","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Karaatlı Türbesi, Söke","caption":"Karaatlı Türbesi, Söke","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaatl%C4%B1%20T%C3%BCrbesi%2C%20S%C3%B6ke","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735177","tip":"genel"}]
 description: "Ege Bölgesi'nde yer alan Söke'nin tarihi ve doğal güzellikleri"
 keywords: ["Söke","Aydın","Ege Bölgesi","Karaatlı Türbesi","tarihi mekanlar","doğa yürüyüşü","plajlar","gezi rehberi"]

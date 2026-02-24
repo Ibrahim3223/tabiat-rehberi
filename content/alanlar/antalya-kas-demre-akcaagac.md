@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Antalya Kas Demre-Akcaagac","caption":"Antalya Kas Demre-Akcaagac","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Karlar_Alt%C4%B1nda_2015.jpg","alt":"Antalya Kas Demre-Akcaagac","caption":"Antalya Kas Demre-Akcaagac","credit":"Gölcük Tabiat Parkı Karlar Altında 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya%20Kas%20Demre-Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228090","tip":"genel"}]
 description: "Doğal güzellikleri ve tarihi zenginlikleriyle dikkat çeken bir milli park"
 keywords: ["Antalya","Kas","Demre-Akcaagac","milli park","doğa","tarih","gezi","turizm","çevre"]

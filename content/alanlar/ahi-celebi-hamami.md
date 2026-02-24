@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi hamamı gezmek","Edirne'nin tarihi dokusunu keşfetmek","farklı bitki türlerini görmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ahi Çelebi Hamamı","caption":"Ahi Çelebi Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg","alt":"Ahi Çelebi Hamamı","caption":"Ahi Çelebi Hamamı","credit":"Akdeniz- the mediterranean-silence beach resort hotel - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20%C3%87elebi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739233","tip":"genel"}]
 description: "Edirne'nin tarihi hamamlarından biri, Marmara Bölgesi'nde yer alır."
 keywords: ["Ahi Çelebi Hamamı","Edirne","Marmara Bölgesi","tarihi hamam","turizm","gezi","kültürel miras"]

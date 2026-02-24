@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Picnic","Macera sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Diyaramam Tepesi","caption":"Diyaramam Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Diyaramam Tepesi","caption":"Diyaramam Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diyaramam%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31544858","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en güzel doğa noktalarından biri olan Diyaramam Tepesi, Batman'ın güzelliğini gözler önüne seriyor."
 keywords: ["Diyaramam Tepesi","Batman","Güneydoğu Anadolu Bölgesi","Doğa","Tepeler","Coğrafya","Flora","Fauna","Ziyaret"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Kocaçal Tepesi","caption":"Kocaçal Tepesi","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg/960px-Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg","alt":"Kocaçal Tepesi","caption":"Kocaçal Tepesi","credit":"Kars Yaylası 06 1989 Dumanlı Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%C3%A7al%20Tepesi%20(Samsun)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042261","tip":"genel"}]
 description: "Samsun'un en yüksek noktalarından biri olan Kocaçal Tepesi, 1200 metrelik zirvesiyle şehrin panoramik manzarasını sunuyor."
 keywords: ["Kocaçal Tepesi","Samsun","Dağ","Tepeler","Doğa","Manzara","Panorama","Samsun Gezi","Türkiye Dağları"]

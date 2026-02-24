@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","tarih araştırması","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Enüş Peygamber Türbesi","caption":"Enüş Peygamber Türbesi","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Istanbul_beaches-_Sea_of_Marmara_01.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_01.jpg","alt":"Enüş Peygamber Türbesi","caption":"Enüş Peygamber Türbesi","credit":"Istanbul beaches- Sea of Marmara 01","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/En%C3%BC%C5%9F%20Peygamber%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390772","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli köşelerinden biri olan Enüş Peygamber Türbesi, ziyaretçilerini tarihi ve coğrafi güzelliği ile büyülüyor."
 keywords: ["Enüş Peygamber Türbesi","Ergani","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","doğa","türbe"]

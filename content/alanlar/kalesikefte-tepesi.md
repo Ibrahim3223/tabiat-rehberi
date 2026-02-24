@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kalesikefte Tepesi","caption":"Kalesikefte Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Kalesikefte Tepesi","caption":"Kalesikefte Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalesikefte%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548545","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan Kalesikefte Tepesi, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta"
 keywords: ["Kalesikefte Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğa","tarih","tepe","gezi","turizm"]

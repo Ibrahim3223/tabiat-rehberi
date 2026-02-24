@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["denizde yüzmek","güneşlenmek","doğa yürüyüşü","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg","alt":"Eski Hamam, Bağyurdu","caption":"Eski Hamam, Bağyurdu","credit":"Süzer Sun Dreams Beach 10 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg","alt":"Eski Hamam, Bağyurdu","caption":"Eski Hamam, Bağyurdu","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 11","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%20Hamam%2C%20Ba%C4%9Fyurdu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245829","tip":"genel"}]
 description: "Kemalpaşa'nın gizli cenneti, Ege Bölgesi'nin saklı plajı"
 keywords: ["Eski Hamam","Bağyurdu","Kemalpaşa","İzmir","Ege Bölgesi","plaj","deniz","tatil"]

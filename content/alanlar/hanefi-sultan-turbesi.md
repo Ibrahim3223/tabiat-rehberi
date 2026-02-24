@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Plajda denize girmek","Doğada yürüyüş yapmak","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Hanefi Sultan Türbesi","caption":"Hanefi Sultan Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Hanefi Sultan Türbesi","caption":"Hanefi Sultan Türbesi","credit":"Karaburun - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hanefi%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390909","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide yerlerinden biri olan Hanefi Sultan Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor. 140 hektarlık bir alanı kapsayan bu özel yer, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Hanefi Sultan Türbesi","Gölmarmara","Manisa","Ege Bölgesi","tarih","doğa","gezi","türbe","plaj"]

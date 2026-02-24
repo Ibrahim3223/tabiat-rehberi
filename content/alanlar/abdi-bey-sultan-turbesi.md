@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografçılık","mimari gözlem"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abdi Bey Sultan Türbesi","caption":"Abdi Bey Sultan Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Abdi Bey Sultan Türbesi","caption":"Abdi Bey Sultan Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdi%20Bey%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391802","tip":"genel"}]
 description: "Ege Bölgesi'nin güzel illerinden biri olan Denizli'nin Serinhisar ilçesinde yer alan Abdi Bey Sultan Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir mekan."
 keywords: ["Abdi Bey Sultan Türbesi","Serinhisar","Denizli","Ege Bölgesi","tarih","doğa","gezi","türbe"]

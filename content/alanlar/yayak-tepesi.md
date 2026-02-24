@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","panoramik manzara","tarihçe gezisi","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg","alt":"Yayak Tepesi","caption":"Yayak Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 04.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Yayak Tepesi","caption":"Yayak Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yayak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31503014","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Yayak Tepesi, doğal güzelliği ile dikkat çekiyor. Tarihçesi ve coğrafyası bakımından önemli bir bölgedir."
 keywords: ["Yayak Tepesi","Kahramanmaraş","Akdeniz Bölgesi","doğal güzellik","tarihçe","coğrafya"]

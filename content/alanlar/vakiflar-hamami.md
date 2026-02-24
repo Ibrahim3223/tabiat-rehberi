@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi hamam gezisi","doğa yürüyüşü","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Vakıflar Hamamı","caption":"Vakıflar Hamamı","credit":"Muğla - Dalyan - İztuzu Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Vakıflar Hamamı","caption":"Vakıflar Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Vak%C4%B1flar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739032","tip":"genel"}]
 description: "Menteşe, Muğla'da yer alan tarihi ve doğal güzelliklerin birleştiği bir alan."
 keywords: ["Vakıflar Hamamı","Menteşe","Muğla","tarihi hamam","doğal güzellik","Ege Bölgesi","turistik alan","kültür mirası"]

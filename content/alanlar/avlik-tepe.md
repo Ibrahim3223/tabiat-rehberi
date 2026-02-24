@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Avlık Tepe","caption":"Avlık Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MOKM41.jpg/960px-MOKM41.jpg","alt":"Avlık Tepe","caption":"Avlık Tepe","credit":"MOKM41","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avl%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531435","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin, Avlık Tepe'nin büyüleyici manzaralarına hayran kalın."
 keywords: ["Avlık Tepe","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezilecek Yerler","Avlık Tepe Manzaraları","Dağ Keşfi","Türkiye'nin Doğal Alanları"]

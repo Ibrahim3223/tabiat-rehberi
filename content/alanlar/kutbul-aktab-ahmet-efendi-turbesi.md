@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğal güzellikleri keşfetmek","Tarihi eserleri incelemek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Kutbul Aktab Ahmet Efendi Türbesi","caption":"Kutbul Aktab Ahmet Efendi Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/A_beach_near_Phaselis_2021-02-26-2.jpg/960px-A_beach_near_Phaselis_2021-02-26-2.jpg","alt":"Kutbul Aktab Ahmet Efendi Türbesi","caption":"Kutbul Aktab Ahmet Efendi Türbesi","credit":"A beach near Phaselis 2021-02-26-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutbul%20Aktab%20Ahmet%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390494","tip":"genel"}]
 description: "Karaman'ın Başyayla ilçesinde yer alan Kutbul Aktab Ahmet Efendi Türbesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Kutbul Aktab Ahmet Efendi Türbesi","Başyayla","Karaman","tarih","doğa","türbe","gezi","seyahat","İç Anadolu Bölgesi"]

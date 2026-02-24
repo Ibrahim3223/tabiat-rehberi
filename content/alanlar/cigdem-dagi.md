@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%BCver_Canyon_Scene%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scene%28Antalya%29.jpg","alt":"Çiğdem Dağı","caption":"Çiğdem Dağı","credit":"Güver Canyon Scene(Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MOKM41.jpg/960px-MOKM41.jpg","alt":"Çiğdem Dağı","caption":"Çiğdem Dağı","credit":"MOKM41","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87i%C4%9Fdem%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819386","tip":"genel"}]
 description: "Antalya'da yer alan Çiğdem Dağı, doğa severler için ideal bir destinasyon. 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Çiğdem Dağı","Antalya","Dağ","Doğa","Trekking","Kamp","Turizm","Gezi","Doğa Sporları","Antalya Turistik Yerler"]

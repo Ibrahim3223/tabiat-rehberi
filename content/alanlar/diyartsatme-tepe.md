@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarihi mekanları ziyaret","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Diyartsatme Tepe","caption":"Diyartsatme Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg/960px-Circle_of_Giorgione_-_Infant_Paris_Abandoned_on_Mount_Ida%2C_ca._1510.jpg","alt":"Diyartsatme Tepe","caption":"Diyartsatme Tepe","credit":"Circle of Giorgione - Infant Paris Abandoned on Mount Ida, ca. 1510","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diyartsatme%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386838","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide mekanlarından biri olan Diyartsatme Tepe, tarihi ve coğrafi açıdan önemli bir nokta"
 keywords: ["Diyartsatme Tepe","Güneydoğu Anadolu Bölgesi","Batman","tarihi mekanlar","coğrafi güzellikler","doğa yürüyüşleri","tarihçe","coğrafya","flora","fauna"]

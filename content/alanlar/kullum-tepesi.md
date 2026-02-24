@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","fotoğrafçılık","tarihi yerleri ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Küllüm Tepesi","caption":"Küllüm Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Küllüm Tepesi","caption":"Küllüm Tepesi","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCll%C3%BCm%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32210771","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Küllüm Tepesi, doğa severlerin ziyaret ettiği önemli bir nokta."
 keywords: ["Küllüm Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

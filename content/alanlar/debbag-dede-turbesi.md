@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi","Kültürel deneyim"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Debbağ Dede Türbesi","caption":"Debbağ Dede Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Debbağ Dede Türbesi","caption":"Debbağ Dede Türbesi","credit":"Elmasburnu2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Debba%C4%9F%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390705","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Debbağ Dede Türbesi, Göynük ilçesinde bulunan önemli bir turistik noktadır."
 keywords: ["Debbağ Dede Türbesi","Göynük","Bolu","Karadeniz Bölgesi","Türbe","Plaj","Turizm","Doğa"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Türbe Ziyareti","Flora ve Fauna Gözlemi","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Saya Baba Türbesi","caption":"Saya Baba Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Saya Baba Türbesi","caption":"Saya Baba Türbesi","credit":"Old Pier","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saya%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391378","tip":"genel"}]
 description: "İhsaniye Afyonkarahisar'da tarihi ve doğal güzelliklerin buluştuğu Saya Baba Türbesi, Ege Bölgesi'nin önemli turistik noktalarından."
 keywords: ["Saya Baba Türbesi","İhsaniye","Afyonkarahisar","Ege Bölgesi","Türbe","Tarih","Doğa"]

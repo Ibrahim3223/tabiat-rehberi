@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğraf çekimi","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Çardaklı Hamamı","caption":"Çardaklı Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aegean_Sea_%28MODIS_2017-07-04%29.jpg/960px-Aegean_Sea_%28MODIS_2017-07-04%29.jpg","alt":"Çardaklı Hamamı","caption":"Çardaklı Hamamı","credit":"Aegean Sea (MODIS 2017-07-04)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ardakl%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q87817716","tip":"genel"}]
 description: "Diyarbakır'ın gizli cenneti, 140 hektarlık yeşil alan, tarihi geçmişi ve zengin fauna."
 keywords: ["Diyarbakır","Güneydoğu Anadolu Bölgesi","çevre","iklim","doğa","flora","fauna","tarihçe","ziyaret"]

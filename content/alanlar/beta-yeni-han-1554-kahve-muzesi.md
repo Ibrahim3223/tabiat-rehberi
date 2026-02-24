@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["müze gezisi","kahve tadımı","tarihî han gezisi","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tea_and_Istanbul_-_panoramio.jpg/960px-Tea_and_Istanbul_-_panoramio.jpg","alt":"Beta Yeni Han 1554 Kahve Müzesi","caption":"Beta Yeni Han 1554 Kahve Müzesi","credit":"Tea and Istanbul - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mystic_mountain.jpg/960px-Mystic_mountain.jpg","alt":"Beta Yeni Han 1554 Kahve Müzesi","caption":"Beta Yeni Han 1554 Kahve Müzesi","credit":"Mystic mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beta%20Yeni%20Han%201554%20Kahve%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949605","tip":"genel"}]
 description: "Tarihi bir han içerisinde yer alan Beta Yeni Han 1554 Kahve Müzesi, İstanbul'un tarihi dokusunu keşfetmek isteyenler için özel bir destinasyon."
 keywords: ["Beta Yeni Han","1554 Kahve Müzesi","İstanbul","tarih","müze","kahve kültürü","Marmara Bölgesi","gezi","turizm"]

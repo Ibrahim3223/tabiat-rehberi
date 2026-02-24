@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/14/Saklikent_Rocks_and_Sky.jpg","alt":"Çığlıkara Tabiatı Koruma Alanı","caption":"Çığlıkara Tabiatı Koruma Alanı","credit":"Saklikent Rocks and Sky.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Çığlıkara Tabiatı Koruma Alanı","caption":"Çığlıkara Tabiatı Koruma Alanı","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1%C4%9Fl%C4%B1kara%20Tabiat%C4%B1%20Koruma%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q28220197","tip":"genel"}]
 description: "Antalya'da yer alan, 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Çığlıkara Tabiatı Koruma Alanı","Antalya","Tabiatı Koruma Alanı","Akdeniz Bölgesi","Doğa","Turizm","Korunan Alanlar","Çevre"]

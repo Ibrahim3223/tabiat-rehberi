@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları ziyaret etmek","doğa yürüyüşleri","kültürel mirası keşfetmek","fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Hüseyin Timur-Esen Tekin Kümbeti","caption":"Hüseyin Timur-Esen Tekin Kümbeti","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg/960px-Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg","alt":"Hüseyin Timur-Esen Tekin Kümbeti","caption":"Hüseyin Timur-Esen Tekin Kümbeti","credit":"Piri Reis. Map of the Black Sea (Samsun)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCseyin%20Timur-Esen%20Tekin%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582808","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde tarihi bir yapı olan Hüseyin Timur-Esen Tekin Kümbeti, Ahlat/Bitlis'te bulunmaktadır. Tarihi ve coğrafi özellikleri ile dikkat çekmektedir."
 keywords: ["Hüseyin Timur-Esen Tekin Kümbeti","Ahlat","Bitlis","Doğu Anadolu Bölgesi","tarihi yapı","coğrafi özellikler","kültürel miras","gezi rehberi","turizm","Doğu Anadolu"]

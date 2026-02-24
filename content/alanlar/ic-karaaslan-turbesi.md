@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa gezisi","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"İç Karaaslan Türbesi","caption":"İç Karaaslan Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Istanbul_beaches-_Sea_of_Marmara_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_09.jpg","alt":"İç Karaaslan Türbesi","caption":"İç Karaaslan Türbesi","credit":"Istanbul beaches- Sea of Marmara 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0%C3%A7%20Karaaslan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582372","tip":"genel"}]
 description: "Karatay, Konya'da bulunan tarihi türbe ve plaj"
 keywords: ["Karatay","Konya","İç Anadolu Bölgesi","tarih","türbe","plaj","gezi","tatil","doğa"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih öncesi dönemi incelemek","coğrafi yapıyı gözlemlemek","flora ve faunayı incelemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Ankara Frig Tümülüsü 4, Yücetepe","caption":"Ankara Frig Tümülüsü 4, Yücetepe","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg","alt":"Ankara Frig Tümülüsü 4, Yücetepe","caption":"Ankara Frig Tümülüsü 4, Yücetepe","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%204%2C%20Y%C3%BCcetepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728281","tip":"genel"}]
 description: "Çankaya'da bulunan tarihi tümülüs, Ankara'nın tarihi geçmişi hakkında bilgi veren önemli bir eser"
 keywords: ["Ankara","Frig Tümülüsü","Yücetepe","Çankaya","tarih","eser","İç Anadolu Bölgesi"]

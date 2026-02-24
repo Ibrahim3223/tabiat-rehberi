@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültür gezisi","doğa gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Demirtaş Paşa Türbesi","caption":"Demirtaş Paşa Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Demirtaş Paşa Türbesi","caption":"Demirtaş Paşa Türbesi","credit":"Mediterranean ^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirta%C5%9F%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391247","tip":"genel"}]
 description: "Seyitgazi'nin tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Demirtaş Paşa Türbesi","Seyitgazi","Eskişehir","tarih","kültür","türbe","gezi","seyahat"]

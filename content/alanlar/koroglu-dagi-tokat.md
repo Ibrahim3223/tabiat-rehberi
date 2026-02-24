@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Köroğlu Dağı","caption":"Köroğlu Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"Köroğlu Dağı","caption":"Köroğlu Dağı","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6ro%C4%9Flu%20Da%C4%9F%C4%B1%20(Tokat)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042772","tip":"genel"}]
 description: "Tokat'ta bulunan Köroğlu Dağı, 2400 metre yüksekliği ile bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Köroğlu Dağı","Tokat","Dağ","Doğa","Turizm","Gezi","Yürüyüş","Tokat Turistik Yerler","Köroğlu Dağı Zirvesi"]

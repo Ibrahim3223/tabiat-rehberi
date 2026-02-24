@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","çayır ve mera gezi","orman yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Amasya-Vezirkopru-Golkoy Karacam","caption":"Amasya-Vezirkopru-Golkoy Karacam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"Amasya-Vezirkopru-Golkoy Karacam","caption":"Amasya-Vezirkopru-Golkoy Karacam","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Vezirkopru-Golkoy%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227474","tip":"genel"}]
 description: "Amasya'nın doğal güzellikleri arasında yer alan milli park"
 keywords: ["Amasya","Vezirkopru","Golkoy","Karacam","milli park","doğa","gezi","turizm","Karadeniz Bölgesi"]

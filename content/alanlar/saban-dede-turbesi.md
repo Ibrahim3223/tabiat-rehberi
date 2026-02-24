@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih keşfi","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Şaban Dede Türbesi","caption":"Şaban Dede Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_03.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_03.jpg","alt":"Şaban Dede Türbesi","caption":"Şaban Dede Türbesi","credit":"Harbiş Sahili, Karataş - Adana 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eaban%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391575","tip":"genel"}]
 description: "Pamukkale'nin tarihi ve doğal güzelliklerini keşfedin. Şaban Dede Türbesi, Denizli'de ziyaretçilerini bekliyor."
 keywords: ["Pamukkale","Denizli","Şaban Dede Türbesi","tarih","doğa","turizm","gezi","ziyaret","Ege Bölgesi"]

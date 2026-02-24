@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Eskibağlar Tepe","caption":"Eskibağlar Tepe","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg/960px-Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg","alt":"Eskibağlar Tepe","caption":"Eskibağlar Tepe","credit":"Erciyes Dağı 05 04 1999","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskiba%C4%9Flar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31574130","tip":"genel"}]
 description: "Mardin'de bulunan Eskibağlar Tepe, şehrin tarihi ve doğal güzelliklerini keşfetmek için ideal bir nokta."
 keywords: ["Eskibağlar Tepe","Mardin","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Mardin Gezilecek Yerler"]

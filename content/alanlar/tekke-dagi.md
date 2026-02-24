@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Colors_of_nature_in_Goreme_Valley.jpg/960px-Colors_of_nature_in_Goreme_Valley.jpg","alt":"Tekke Dağı","caption":"Tekke Dağı","credit":"Colors of nature in Goreme Valley.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yukar%C4%B1_bunarlar_mevkiinden_do%C4%9Fu_y%C3%B6n%C3%BC%2C_yukar%C4%B1_ko%C3%A7a%C5%9F_k%C3%B6y%C3%BC_mevkii_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg/960px-Yukar%C4%B1_bunarlar_mevkiinden_do%C4%9Fu_y%C3%B6n%C3%BC%2C_yukar%C4%B1_ko%C3%A7a%C5%9F_k%C3%B6y%C3%BC_mevkii_ve_e%C5%9F%C5%9Fek_da%C4%9F%C4%B1_-_panoramio.jpg","alt":"Tekke Dağı","caption":"Tekke Dağı","credit":"Yukarı bunarlar mevkiinden doğu yönü, yukarı koçaş köyü mevkii ve eşşek dağı - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekke%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31504955","tip":"genel"}]
 description: "Nevşehir'de yer alan Tekke Dağı, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi"
 keywords: ["Tekke Dağı","Nevşehir","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Nevşehir Turistik Yerler","Doğa Yürüyüşü"]

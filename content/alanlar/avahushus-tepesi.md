@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","keşif","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg/960px-N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg","alt":"Avahuşhuş Tepesi","caption":"Avahuşhuş Tepesi","credit":"Nêzîkî Qilwanê 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/First_floor_hall._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-10.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Avahuşhuş Tepesi","caption":"Avahuşhuş Tepesi","credit":"First floor hall. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-10","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avahu%C5%9Fhu%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552730","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Avahuşhuş Tepesi, Mardin'in doğal güzelliklerini sunar."
 keywords: ["Mardin","Güneydoğu Anadolu","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret","gezi"]

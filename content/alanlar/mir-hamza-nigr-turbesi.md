@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","piknik","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Mir Hamza Nigârî Türbesi","caption":"Mir Hamza Nigârî Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg","alt":"Mir Hamza Nigârî Türbesi","caption":"Mir Hamza Nigârî Türbesi","credit":"Piri Reis - Map of the Island of Cos Off the Anatolian Coast - Walters W65895A - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mir%20Hamza%20Nig%C3%A2r%C3%AE%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391464","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzelliklerinin buluşma noktası, Mir Hamza Nigârî Türbesi"
 keywords: ["Amasya","Karadeniz Bölgesi","tarih","doğa","türbe","gezi","seyahat","miras","kültür","mimari"]

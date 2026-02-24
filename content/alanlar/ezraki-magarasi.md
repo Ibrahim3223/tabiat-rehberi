@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Ezrakı Mağarası","caption":"Ezrakı Mağarası","credit":"Goreme National Park, Turkey","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sugar_Creek_Turkey_Run_SP%2C_IN_2.jpg/960px-Sugar_Creek_Turkey_Run_SP%2C_IN_2.jpg","alt":"Ezrakı Mağarası","caption":"Ezrakı Mağarası","credit":"Sugar Creek Turkey Run SP, IN 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ezrak%C4%B1%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319153","tip":"genel"}]
 description: "Batman'da yer alan Ezrakı Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Ezrakı Mağarası","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Doğa","Jeolojik Oluşum"]

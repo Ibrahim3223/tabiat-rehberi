@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kevrabuk Tepesi","caption":"Kevrabuk Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ida_Flooding_%289%29.jpg/960px-Ida_Flooding_%289%29.jpg","alt":"Kevrabuk Tepesi","caption":"Kevrabuk Tepesi","credit":"Ida Flooding (9)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kevrabuk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552762","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin. Kevrabuk Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli bir noktası"
 keywords: ["Mardin","Kevrabuk Tepesi","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]

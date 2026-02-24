@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Mustafa Mehi Efendi Türbesi","caption":"Mustafa Mehi Efendi Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gallipoli_ANZAC_Cove_2.JPG/960px-Gallipoli_ANZAC_Cove_2.JPG","alt":"Mustafa Mehi Efendi Türbesi","caption":"Mustafa Mehi Efendi Türbesi","credit":"Gallipoli ANZAC Cove 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustafa%20Mehi%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391715","tip":"genel"}]
 description: "Erzurum'un Yakutiye ilçesinde bulunan tarihi bir türbe"
 keywords: ["Mustafa Mehi Efendi Türbesi","Erzurum","Yakutiye","tarih","türbe","Doğu Anadolu Bölgesi","kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lower_Antelope_Canyon_November_2018_017.jpg/960px-Lower_Antelope_Canyon_November_2018_017.jpg","alt":"Bida Mağarası","caption":"Bida Mağarası","credit":"Lower Antelope Canyon November 2018 017","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Quarterly_journal_of_the_Geological_Society_of_London_%281904%29_%2814762074146%29.jpg/960px-The_Quarterly_journal_of_the_Geological_Society_of_London_%281904%29_%2814762074146%29.jpg","alt":"Bida Mağarası","caption":"Bida Mağarası","credit":"The Quarterly journal of the Geological Society of London (1904) (14762074146)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bida%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319075","tip":"genel"}]
 description: "Batman'da yer alan Bida Mağarası, jeopark özellikleriyle dikkat çekiyor. Doğal güzelliği keşfedin!"
 keywords: ["Bida Mağarası","Batman","Jeopark","Doğa","Mağara","Gezi","Seyahat","Turizm","Doğal Güzellik"]

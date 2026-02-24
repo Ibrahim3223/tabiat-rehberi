@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Batman Baraj Gölü","caption":"Batman Baraj Gölü","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/S%C3%BCnnet_Lake.jpg/960px-S%C3%BCnnet_Lake.jpg","alt":"Batman Baraj Gölü","caption":"Batman Baraj Gölü","credit":"Sünnet Lake","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Batman%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32827542","tip":"genel"}]
 description: "Batman Baraj Gölü, Güneydoğu Anadolu Bölgesi'nde yer alan bir göl ve önemli bir su kaynağı. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Batman Baraj Gölü","Güneydoğu Anadolu Bölgesi","su kaynağı","göl","doğal alan","Batman","turizm","gezi","yerel ekonomi","çevre"]

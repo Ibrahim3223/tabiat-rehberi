@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğraf çekimi"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Tepesidelik Tepe","caption":"Tepesidelik Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Tepesidelik Tepe","caption":"Tepesidelik Tepe","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepesidelik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388649","tip":"genel"}]
 description: "Muğla'nın Ege Bölgesi'nde yer alan Tepesidelik Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Tepesidelik Tepe","Muğla","Ege Bölgesi","Doğa","Tarih","Gezi","Turizm","Kültür"]

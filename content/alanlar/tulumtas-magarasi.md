@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Tulumtaş Mağarası","caption":"Tulumtaş Mağarası","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Geological_map_marmara_island_-_hochstetter.jpg/960px-Geological_map_marmara_island_-_hochstetter.jpg","alt":"Tulumtaş Mağarası","caption":"Tulumtaş Mağarası","credit":"Geological map marmara island - hochstetter","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tulumta%C5%9F%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6032063","tip":"genel"}]
 description: "Ankara'nın Gölbaşı ilçesinde yer alan Tulumtaş Mağarası, 1200 hektarlık yeşil cennet içinde doğa severleri bekliyor."
 keywords: ["Tulumtaş Mağarası","Ankara","Gölbaşı","Jeopark","Doğa","Mağara","Turizm","Gezi","Ankara gezilecek yerler"]

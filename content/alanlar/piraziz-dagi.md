@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Piraziz Dağı","caption":"Piraziz Dağı","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg/960px-H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg","alt":"Piraziz Dağı","caption":"Piraziz Dağı","credit":"Hürmetçi ve Erciyes","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Piraziz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31508590","tip":"genel"}]
 description: "Piraziz Dağı, Türkiye'nin doğal güzelliklerini keşfedin. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Piraziz Dağı","Türkiye","Doğal Alan","Yeşil Cennet","İstanbul","Dağ","Turizm","Seyahat","Gezi"]

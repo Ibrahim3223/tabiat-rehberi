@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaretleri","Tarihi yapıları incelemek","Çevresindeki yeşil alanları gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Nureddin Cerrahi Türbesi","caption":"Nureddin Cerrahi Türbesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg","alt":"Nureddin Cerrahi Türbesi","caption":"Nureddin Cerrahi Türbesi","credit":"2023-11-04 Choban beach near Kaş 5","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nureddin%20Cerrahi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390985","tip":"genel"}]
 description: "Fatih, İstanbul'da yer alan tarihi Nureddin Cerrahi Türbesi"
 keywords: ["Nureddin Cerrahi Türbesi","Fatih","İstanbul","Türbe","Tarih","Mimarlık","Marmara Bölgesi"]

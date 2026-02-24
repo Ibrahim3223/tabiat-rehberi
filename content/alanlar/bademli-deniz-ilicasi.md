@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["deniz sporları","doğa yürüyüşü","dinlenme","yerel lezzetler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/S%C3%BCzer_Sun_Dreams_Beach_14_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_14_-_panoramio.jpg","alt":"Bademli Deniz Ilıcası","caption":"Bademli Deniz Ilıcası","credit":"Süzer Sun Dreams Beach 14 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fethiye_2.JPG/960px-Fethiye_2.JPG","alt":"Bademli Deniz Ilıcası","caption":"Bademli Deniz Ilıcası","credit":"Fethiye 2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bademli%20Deniz%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738526","tip":"genel"}]
 description: "Dikili'nin doğal güzellikleri arasında yer alan Bademli Deniz Ilıcası, Ege Bölgesi'nin en önemli turizm noktalarından biri."
 keywords: ["Bademli Deniz Ilıcası","Dikili","İzmir","Ege Bölgesi","deniz ılıcası","turizm","doğa","gezi","tatil"]

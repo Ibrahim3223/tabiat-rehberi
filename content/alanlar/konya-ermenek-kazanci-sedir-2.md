@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşleri","Bitki ve hayvan türleri gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_photos_of_Akda%C4%9F_3.jpg/960px-The_photos_of_Akda%C4%9F_3.jpg","alt":"Konya-Ermenek-Kazanci Sedir 2","caption":"Konya-Ermenek-Kazanci Sedir 2","credit":"The photos of Akdağ 3","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Konya-Ermenek-Kazanci Sedir 2","caption":"Konya-Ermenek-Kazanci Sedir 2","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Ermenek-Kazanci%20Sedir%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227612","tip":"genel"}]
 description: "Konya'nın Ermenek ilçesinde yer alan milli park, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle dikkat çekiyor."
 keywords: ["Konya","Ermenek","Kazancı","Sedir","Milli Park","Doğa","Yeşil Alan","Bitki Türleri"]

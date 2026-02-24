@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık","çadır kurma","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Adapazari-Sogutlu Saricam","caption":"Adapazari-Sogutlu Saricam","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"Adapazari-Sogutlu Saricam","caption":"Adapazari-Sogutlu Saricam","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Sogutlu%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227970","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, büyüleyici doğası ile ziyaretçilerini bekliyor."
 keywords: ["Adapazari-Sogutlu Saricam","milli park","İç Anadolu Bölgesi","doğa","gezi","türkiye"," milli parklar","doğa rezervleri","gezilecek yerler"]

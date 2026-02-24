@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","tarihî gezinti"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Diyarkurre Tepesi","caption":"Diyarkurre Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Diyarkurre Tepesi","caption":"Diyarkurre Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diyarkurre%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550500","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin. Diyarbakır'da bulunan Diyarkurre Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Diyarkurre Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","tepe","doğa","tarih"]

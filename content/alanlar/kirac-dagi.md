@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg","alt":"Kıraç Dağı","caption":"Kıraç Dağı","credit":"Güver Cliff Landscape (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PeakUludag.jpg/960px-PeakUludag.jpg","alt":"Kıraç Dağı","caption":"Kıraç Dağı","credit":"PeakUludag","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1ra%C3%A7%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041861","tip":"genel"}]
 description: "Antalya'da bulunan Kıraç Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Kıraç Dağı","Antalya","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

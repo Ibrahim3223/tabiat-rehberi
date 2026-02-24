@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sapıkısa Tepesi","caption":"Sapıkısa Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Sapıkısa Tepesi","caption":"Sapıkısa Tepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sap%C4%B1k%C4%B1sa%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535297","tip":"genel"}]
 description: "Hatay'da yer alan Sapıkısa Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Sapıkısa Tepesi","Hatay","Akdeniz Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

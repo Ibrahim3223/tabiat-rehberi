@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresi gezisi","Plajda dinlenme","Yüzme","Çevre köyleri ve tarihi mekanları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Şeyh Ali Semerkandi Türbesi","caption":"Şeyh Ali Semerkandi Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg/960px-Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg","alt":"Şeyh Ali Semerkandi Türbesi","caption":"Şeyh Ali Semerkandi Türbesi","credit":"Cool waters of the turquoise blue Aegean Sea - Ayvalık - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Ali%20Semerkandi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390488","tip":"genel"}]
 description: "Mersin'in Gülnar ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Şeyh Ali Semerkandi","Gülnar","Mersin","Türbe","Plaj","Akdeniz Bölgesi","Tarih","Doğa"]

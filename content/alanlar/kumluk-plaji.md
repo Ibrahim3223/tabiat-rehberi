@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denize girmek","Güneşlenmek","Kumda oturmak","Deniz havasını solumak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Kumluk Plajı","caption":"Kumluk Plajı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg","alt":"Kumluk Plajı","caption":"Kumluk Plajı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kumluk%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49321665","tip":"genel"}]
 description: "Muğla'nın güzel plajlarından biri olan Kumluk Plajı, denize girmek isteyenler için ideal bir yer."
 keywords: ["Kumluk Plajı","Muğla","Ege Bölgesi","plaj","deniz","kum","güneş"]

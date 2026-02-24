@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Mescid ve türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Tahir ile Zühre Mescidi ve Türbesi","caption":"Tahir ile Zühre Mescidi ve Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg","alt":"Tahir ile Zühre Mescidi ve Türbesi","caption":"Tahir ile Zühre Mescidi ve Türbesi","credit":"Marmaris @ LODOS Firtina-Lodos Sturm (Aralik-December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tahir%20ile%20Z%C3%BChre%20Mescidi%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132134426","tip":"genel"}]
 description: "Meram, Konya'da tarihi ve doğal güzelliğin birleştiği Tahir ile Zühre Mescidi ve Türbesi"
 keywords: ["Meram","Konya","Tarih","Doğa","Mescid","Türbe","İç Anadolu Bölgesi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Üçgözlüklü Dağ","caption":"Üçgözlüklü Dağ","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg/960px-.00_1627_Tuffsteinlandschaft_von_G%C3%B6reme_%28T%C3%BCrkei%29.jpg","alt":"Üçgözlüklü Dağ","caption":"Üçgözlüklü Dağ","credit":".00 1627 Tuffsteinlandschaft von Göreme (Türkei)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7g%C3%B6zl%C3%BCkl%C3%BC%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820498","tip":"genel"}]
 description: "Kars'ta yer alan Üçgözlüklü Dağ, 1200 hektarlık yeşil cenneti ve doğa güzellikleriyle dikkat çekiyor."
 keywords: ["Üçgözlüklü Dağ","Kars","Doğa","Dağ","Yeşil Alan","Turizm","Kars Turistik Yerler","Doğa Sporları","Trekking"]

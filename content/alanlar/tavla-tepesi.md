@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","flora ve fauna keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Tavla Tepesi","caption":"Tavla Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Tavla Tepesi","caption":"Tavla Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tavla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388949","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin görkemli tepelerinden biri olan Tavla Tepesi, doğa severlerin gözdesi."
 keywords: ["Tavla Tepesi","Doğu Anadolu Bölgesi","Bingöl","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

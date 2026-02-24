@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Canakkale-Biga-Karabiga Karacam","caption":"Canakkale-Biga-Karabiga Karacam","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg","alt":"Canakkale-Biga-Karabiga Karacam","caption":"Canakkale-Biga-Karabiga Karacam","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5515332844)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Biga-Karabiga%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227940","tip":"genel"}]
 description: "Türkiye'nin güzellikleri arasında yer alan Canakkale-Biga-Karabiga Karacam, ziyaretçilerine doğanın tüm renklerini sunuyor."
 keywords: ["Canakkale-Biga-Karabiga Karacam","milli park","doğa","turizm","gezi","yaban hayatı","çevre","ekoloji"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Gündor Mağarası","caption":"Gündor Mağarası","credit":"Goreme National Park, Turkey","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tectonic_Map_of_Turkey.png/960px-Tectonic_Map_of_Turkey.png","alt":"Gündor Mağarası","caption":"Gündor Mağarası","credit":"Tectonic Map of Turkey","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCndor%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319217","tip":"genel"}]
 description: "Batman'da yer alan Gündor Mağarası, jeopark olarak bilinen doğal bir harikadır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Gündor Mağarası","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Doğa","Gezi","Batman Turistik Yerler"]

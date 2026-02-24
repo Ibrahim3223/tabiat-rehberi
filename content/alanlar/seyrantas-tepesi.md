@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Seyrantaş Tepesi","caption":"Seyrantaş Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Seyrantaş Tepesi","caption":"Seyrantaş Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyranta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387799","tip":"genel"}]
 description: "Erzurum'un doğusunda yer alan Seyrantaş Tepesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Erzurum","Doğu Anadolu Bölgesi","Seyrantaş Tepesi","tarih","doğa","gezi","turizm"]

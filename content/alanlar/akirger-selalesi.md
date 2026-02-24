@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","yaban hayatı gözlemi","manzaralı noktalara ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg","alt":"Akırger Şelalesi","caption":"Akırger Şelalesi","credit":"Kurşunlu Şelalesi Tabiat Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Eingang_Wasserfall_Kursunlu.JPG/960px-Eingang_Wasserfall_Kursunlu.JPG","alt":"Akırger Şelalesi","caption":"Akırger Şelalesi","credit":"Eingang Wasserfall Kursunlu","license":"CC BY-SA 2.0 de"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C4%B1rger%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076482","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cennetlerinden biri olan Akırger Şelalesi, doğa severlerin ziyaret etmesi gereken bir destinasyon."
 keywords: ["Akırger Şelalesi","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","çevre","ekoloji","yaban hayatı"]

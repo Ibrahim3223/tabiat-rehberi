@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih turu","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Ciridimse Tepesi","caption":"Ciridimse Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Ciridimse Tepesi","caption":"Ciridimse Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ciridimse%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386737","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerini bir arada sunan Ciridimse Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Ciridimse Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]

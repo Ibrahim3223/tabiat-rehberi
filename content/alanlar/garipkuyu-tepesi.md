@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["yürüyüş","bisiklet sürme","doğa yürüyüşü","manzara seyretme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Black_and_white_Paris_landscape.jpg/960px-Black_and_white_Paris_landscape.jpg","alt":"Garipkuyu Tepesi","caption":"Garipkuyu Tepesi","credit":"Black and white Paris landscape.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Garipkuyu Tepesi","caption":"Garipkuyu Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Garipkuyu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568047","tip":"genel"}]
 description: "İstanbul'un Marmara Bölgesi'ndeki Garipkuyu Tepesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Garipkuyu Tepesi","İstanbul","Marmara Bölgesi","yeşil alan","fiziksel veriler","coğrafya","tarihçe","flora","fauna","ziyaret"]

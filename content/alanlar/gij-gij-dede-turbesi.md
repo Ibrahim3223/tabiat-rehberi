@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Gıj Gıj Dede Türbesi","caption":"Gıj Gıj Dede Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mediterranean_Swim_-_Imperal_Camel_Corps_%2816879047617%29.jpg/960px-Mediterranean_Swim_-_Imperal_Camel_Corps_%2816879047617%29.jpg","alt":"Gıj Gıj Dede Türbesi","caption":"Gıj Gıj Dede Türbesi","credit":"Mediterranean Swim - Imperal Camel Corps (16879047617)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C4%B1j%20G%C4%B1j%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390951","tip":"genel"}]
 description: "Tokat'ta tarihi ve doğal güzelliğin birleştiği Gıj Gıj Dede Türbesi'ni keşfedin"
 keywords: ["Gıj Gıj Dede Türbesi","Tokat","Karadeniz Bölgesi","tarihi mekanlar","doğa turizmi","türk kültürü","gezi rehberi","tarihçe"]

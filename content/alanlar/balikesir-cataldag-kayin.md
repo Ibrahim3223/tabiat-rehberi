@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki türleri keşfi","fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Balikesir-Cataldag Kayin","caption":"Balikesir-Cataldag Kayin","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg","alt":"Balikesir-Cataldag Kayin","caption":"Balikesir-Cataldag Kayin","credit":"Gölcük Tabiat Parkı Genel Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Cataldag%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227234","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor."
 keywords: ["Balikesir-Cataldag Kayin","İç Anadolu Bölgesi","doğa","bitki türleri","fauna","milli park","gezi","keşif"]

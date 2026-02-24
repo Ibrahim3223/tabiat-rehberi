@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/View_to_chios_island_8_-_panoramio.jpg/960px-View_to_chios_island_8_-_panoramio.jpg","alt":"Bahadır Adası","caption":"Bahadır Adası","credit":"View to chios island 8 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/K%C4%B1z%C4%B1l_Adalar_002.jpg/960px-K%C4%B1z%C4%B1l_Adalar_002.jpg","alt":"Bahadır Adası","caption":"Bahadır Adası","credit":"Kızıl Adalar 002","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bahad%C4%B1r%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49632207","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Bahadır Adası, 1200 hektarlık yeşil cenneti ve tarihi güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Bahadır Adası","İzmir Adaları","Ege Denizi","Türkiye Adaları","İzmir Turizm","Ada Tatili","Doğa Turizmi","Tarihî Yerler","Gezi Rehberi"]

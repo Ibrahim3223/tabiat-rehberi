@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Kurtluçal Tepesi","caption":"Kurtluçal Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tahtal%C4%B1_Da%C4%9F%C4%B1_06_02_2013_Golf_von_Antalya_mit_westlichem_Mittel-Taurus.jpg/960px-Tahtal%C4%B1_Da%C4%9F%C4%B1_06_02_2013_Golf_von_Antalya_mit_westlichem_Mittel-Taurus.jpg","alt":"Kurtluçal Tepesi","caption":"Kurtluçal Tepesi","credit":"Tahtalı Dağı 06 02 2013 Golf von Antalya mit westlichem Mittel-Taurus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtlu%C3%A7al%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042658","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, Kurtluçal Tepesi'ne çıkın ve şehrin panoramik manzarasını izleyin."
 keywords: ["Kurtluçal Tepesi","Ankara","Dağ","Doğa","Trekking","Manzara","Panorama","Gezi","Seyahat"]

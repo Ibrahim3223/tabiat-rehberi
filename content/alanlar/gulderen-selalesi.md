@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","kamp yapma","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/-ayder_-turkey_-trabzon_-waterfalls_-nature_%2814251987354%29.jpg","alt":"Gülderen Şelalesi","caption":"Gülderen Şelalesi","credit":"-ayder -turkey -trabzon -waterfalls -nature (14251987354).jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ward_and_Lock%27s_descriptive_and_pictorial_guide_to_the_Isle_of_Man_-_towns%2C_mountains%2C_glens%2C_waterfalls%2C_legends%2C_romantic_associations%2C_and_history_-_how_to_reach_the_island%2C_routes%2C_distances%2C_%2814785058495%29.jpg/960px-thumbnail.jpg","alt":"Gülderen Şelalesi","caption":"Gülderen Şelalesi","credit":"Ward and Lock's descriptive and pictorial guide to the Isle of Man - towns, mountains, glens, waterfalls, legends, romantic associations, and history - how to reach the island, routes, distances, (14785058495)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BClderen%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130367210","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerini keşfedin, Gülderen Şelalesi'ni ziyaret edin."
 keywords: ["Gülderen Şelalesi","Trabzon","Karadeniz Bölgesi","doğal güzellikler","şelale","gezi","turizm","Trabzon gezilecek yerler"]

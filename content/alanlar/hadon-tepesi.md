@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","manzara seyretme","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Hadon Tepesi","caption":"Hadon Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Hadon Tepesi","caption":"Hadon Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hadon%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31550535","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzelliklerini keşfedin. Hadon Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Hadon Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","tepe","manzara"]

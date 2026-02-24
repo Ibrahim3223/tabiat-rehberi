@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg/960px-Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg","alt":"Yalancı Burnu Bankı","caption":"Yalancı Burnu Bankı","credit":"Water surface of Mediterrenean sea near Kameriye island, Marmaris, Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Silver_sunset%2C_small_islands%27_park.jpg/960px-Silver_sunset%2C_small_islands%27_park.jpg","alt":"Yalancı Burnu Bankı","caption":"Yalancı Burnu Bankı","credit":"Silver sunset, small islands' park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yalanc%C4%B1%20Burnu%20Bank%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34754507","tip":"genel"}]
 description: "Aydın'da bulunan Yalancı Burnu Bankı, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Yalancı Burnu Bankı","Aydın","ada","doğa","gezi","seyahat","turizm","deniz","kıyı"]

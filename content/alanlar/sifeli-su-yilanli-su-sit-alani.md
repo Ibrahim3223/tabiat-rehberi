@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Şifelı Su Yılanlı Su Sit Alanı","caption":"Şifelı Su Yılanlı Su Sit Alanı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg","alt":"Şifelı Su Yılanlı Su Sit Alanı","caption":"Şifelı Su Yılanlı Su Sit Alanı","credit":"Gölcük Tabiat Parkı Bolu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eifel%C4%B1%20Su%20Y%C4%B1lanl%C4%B1%20Su%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226257","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Şifelı Su Yılanlı Su Sit Alanı, ziyaretçilerini büyüleyici bir doğa deneyimi sunuyor."
 keywords: ["Şifelı Su Yılanlı Su Sit Alanı","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","korunan alan","yaban hayatı"]

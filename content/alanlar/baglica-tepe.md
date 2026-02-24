@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Picnic","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bağlıca Tepe","caption":"Bağlıca Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Bağlıca Tepe","caption":"Bağlıca Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C4%9Fl%C4%B1ca%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389346","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin. Bağlıca Tepe, Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Bağlıca Tepe","Mersin","Akdeniz Bölgesi","doğa","gezi","turizm","coğrafya","flora","fauna"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Doğa gözlemi","Fotoğraf çekimi","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Kastamonu-Sinop-Sivri Meyveli Dişbudak","caption":"Kastamonu-Sinop-Sivri Meyveli Dişbudak","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nature_photo_of_trabzon.jpg/960px-Nature_photo_of_trabzon.jpg","alt":"Kastamonu-Sinop-Sivri Meyveli Dişbudak","caption":"Kastamonu-Sinop-Sivri Meyveli Dişbudak","credit":"Nature photo of trabzon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Sinop-Sivri%20Meyveli%20Di%C5%9Fbudak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228514","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin, Sivri Meyveli Dişbudak milli parkı"
 keywords: ["Kastamonu","Sinop","Sivri Meyveli Dişbudak","Milli Park","Doğa","Karadeniz Bölgesi","Turizm","Gezi","Doğa Yürüyüşü"]

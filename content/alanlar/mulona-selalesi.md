@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","piknik","keşif gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg","alt":"Mulona Şelalesi","caption":"Mulona Şelalesi","credit":"Kurşunlu Şelalesi Tabiat Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/G%C3%9CZELDERE_WATERFALL_NATURE_PARK%2C_G%C3%B6lyaka%2C_D%C3%BCzce%2C_Turkey_-_Murat_%C3%96zsoy_01.jpg/960px-G%C3%9CZELDERE_WATERFALL_NATURE_PARK%2C_G%C3%B6lyaka%2C_D%C3%BCzce%2C_Turkey_-_Murat_%C3%96zsoy_01.jpg","alt":"Mulona Şelalesi","caption":"Mulona Şelalesi","credit":"GÜZELDERE WATERFALL NATURE PARK, Gölyaka, Düzce, Turkey - Murat Özsoy 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mulona%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076488","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti,Mulona Şelalesi'ni keşfedin"
 keywords: ["Mulona Şelalesi","İç Anadolu Bölgesi","şelale","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]

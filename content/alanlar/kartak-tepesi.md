@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Hiking","Manzara izleme","Tarihi yapılar gezisi","Orman gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kartak Tepesi","caption":"Kartak Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Kartak Tepesi","caption":"Kartak Tepesi","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390666","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzelliklerini keşfedin.  Kartak Tepesi, şehrin merkezine yakın bir konumda yer alır."
 keywords: ["Kartak Tepesi","Amasya","tarih","doğa","gezi","turizm","Karadeniz Bölgesi","tepe"]

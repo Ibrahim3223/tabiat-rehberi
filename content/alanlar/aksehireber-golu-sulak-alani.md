@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kuş gözlemciliği","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Aksehir,Eber Golu Sulak Alanı","caption":"Aksehir,Eber Golu Sulak Alanı","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MOKFC03.jpg/960px-MOKFC03.jpg","alt":"Aksehir,Eber Golu Sulak Alanı","caption":"Aksehir,Eber Golu Sulak Alanı","credit":"MOKFC03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aksehir%2CEber%20Golu%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228862","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide yerlerinden biri olan Aksehir,Eber Golu Sulak Alanı, doğal güzellikleri ve zengin fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Aksehir","Eber Golu","Sulak Alanı","İç Anadolu Bölgesi","doğa","fauna","flora"]

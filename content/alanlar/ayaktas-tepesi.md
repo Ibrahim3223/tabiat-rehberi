@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fairy_Chimneys_-_panoramio_%283%29.jpg/960px-Fairy_Chimneys_-_panoramio_%283%29.jpg","alt":"Ayaktaş Tepesi","caption":"Ayaktaş Tepesi","credit":"Fairy Chimneys - panoramio (3).jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Ayaktaş Tepesi","caption":"Ayaktaş Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayakta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390587","tip":"genel"}]
 description: "Nevşehir'in doğal güzelliklerinden biri olan Ayaktaş Tepesi, İç Anadolu Bölgesi'nde yer alır."
 keywords: ["Ayaktaş Tepesi","Nevşehir","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi"]

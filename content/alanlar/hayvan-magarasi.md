@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Hayvan Mağarası","caption":"Hayvan Mağarası","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/45/2020_February_23_0553_Iran-Turkey_border_region_earthquake_intensity.jpg","alt":"Hayvan Mağarası","caption":"Hayvan Mağarası","credit":"2020 February 23 0553 Iran-Turkey border region earthquake intensity","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hayvan%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319247","tip":"genel"}]
 description: "Muş'ta bulunan jeopark, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Hayvan Mağarası","Muş","Jeopark","Doğal Alan","Tarih","Turizm","Mağara","Jeoloji","Doğa"]

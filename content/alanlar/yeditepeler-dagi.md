@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg/960px-G%C3%B6zede_K%C3%B6y%C3%BC%27nden_Uluda%C4%9F_Manzaras%C4%B1_-_3_Eyl%C3%BCl_2006.jpg","alt":"Yeditepeler Dağı","caption":"Yeditepeler Dağı","credit":"Gözede Köyü'nden Uludağ Manzarası - 3 Eylül 2006","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg/960px-Mount_Ararat_and_the_Yerevan_skyline.jpg","alt":"Yeditepeler Dağı","caption":"Yeditepeler Dağı","credit":"Mount Ararat and the Yerevan skyline","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeditepeler%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31575622","tip":"genel"}]
 description: "Şırnak'ta bulunan Yeditepeler Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alan, trekking ve kamp için ideal."
 keywords: ["Yeditepeler Dağı","Şırnak","Dağ","Doğa","Trekking","Kamp","Yeşil Alan","Doğa Turizmi","Şırnak Turizmi"]

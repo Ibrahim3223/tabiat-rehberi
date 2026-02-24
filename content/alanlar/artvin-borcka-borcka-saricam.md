@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","vadi geçişi","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Artvin-Borcka-Borcka-Saricam","caption":"Artvin-Borcka-Borcka-Saricam","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Akdag-6256.jpg/960px-Akdag-6256.jpg","alt":"Artvin-Borcka-Borcka-Saricam","caption":"Artvin-Borcka-Borcka-Saricam","credit":"Akdag-6256","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Borcka-Borcka-Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228554","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Artvin'in Borcka ilçesinde yer alan milli park."
 keywords: ["Artvin","Borcka","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

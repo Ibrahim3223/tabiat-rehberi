@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Piknik","Su sporları","Doğa gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Uluabat Gölü Sulak Alanı","caption":"Uluabat Gölü Sulak Alanı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg/960px-A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg","alt":"Uluabat Gölü Sulak Alanı","caption":"Uluabat Gölü Sulak Alanı","credit":"A Turkey Vulture and Molly Hogan of NatureWorks (26178312449)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uluabat%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228823","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
 keywords: ["Uluabat Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Turizm","Sulak Alanları","Korunan Alanlar","Göl","Doğa Sporları"]

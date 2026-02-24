@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşleri","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Düz Mahallesi Hamamı","caption":"Düz Mahallesi Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sprinter_on_a_vase%2C_Fikellura_style_amphora_with_a_running_man%2C_Greek%2C_6th_century_BC%2C_from_Kamiros%2C_Rhodes%2C_Aegean_Sea%2C_Winning_at_the_ancient_Games%2C_British_Museum_%287667199008%29.jpg/960px-thumbnail.jpg","alt":"Düz Mahallesi Hamamı","caption":"Düz Mahallesi Hamamı","credit":"Sprinter on a vase, Fikellura style amphora with a running man, Greek, 6th century BC, from Kamiros, Rhodes, Aegean Sea, Winning at the ancient Games, British Museum (7667199008)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCz%20Mahallesi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738726","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde bulunan Düz Mahallesi Hamamı, 140 hektarlık bir alan üzerinde kurulmuştur. Zengin fauna ve flora çeşitliliğine sahiptir."
 keywords: ["Düz Mahallesi Hamamı","Karadeniz Bölgesi","Ordu","Altınordu","doğal alan","flora","fauna"]

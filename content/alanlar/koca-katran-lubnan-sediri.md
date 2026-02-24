@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","gözlem"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Koca Katran Lubnan Sediri","caption":"Koca Katran Lubnan Sediri","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Koca Katran Lubnan Sediri","caption":"Koca Katran Lubnan Sediri","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Katran%20Lubnan%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227163","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en önemli doğal alanlarından biri olan Koca Katran Lubnan Sediri, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Koca Katran Lubnan Sediri","İç Anadolu Bölgesi","doğal alan","Lubnan sediri","orman","flora","fauna"]

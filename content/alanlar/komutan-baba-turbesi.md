@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî eserleri ziyaret","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Komutan Baba Türbesi","caption":"Komutan Baba Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Komutan Baba Türbesi","caption":"Komutan Baba Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Komutan%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390776","tip":"genel"}]
 description: "Düzce'nin Akçakoca ilçesinde yer alan tarihi ve doğal güzelliği bir arada sunan Komutan Baba Türbesi"
 keywords: ["Komutan Baba Türbesi","Akçakoca","Düzce","Karadeniz Bölgesi","tarihi mekan","doğa","turizm"]

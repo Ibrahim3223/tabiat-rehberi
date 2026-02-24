@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografcılık","yaban hayatı gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Kahramanmaras-Goksun Karacam2","caption":"Kahramanmaras-Goksun Karacam2","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kad%C4%B1nc%C4%B1k_Valley_5.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_5.jpg","alt":"Kahramanmaras-Goksun Karacam2","caption":"Kahramanmaras-Goksun Karacam2","credit":"Kadıncık Valley 5","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Goksun%20Karacam2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227520","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kahramanmaras","Goksun","Karacam2","milli park","doğa","yeşil alan","İç Anadolu Bölgesi"]

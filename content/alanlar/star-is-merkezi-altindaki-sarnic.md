@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih keşfi","Bitki ve hayvan türleri gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Star İş Merkezi Altındaki Sarnıç","caption":"Star İş Merkezi Altındaki Sarnıç","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean_%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Star İş Merkezi Altındaki Sarnıç","caption":"Star İş Merkezi Altındaki Sarnıç","credit":"Mediterranean ^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Star%20%C4%B0%C5%9F%20Merkezi%20Alt%C4%B1ndaki%20Sarn%C4%B1%C3%A7","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135429075","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren Star İş Merkezi Altındaki Sarnıç, ziyaretçilerini bekliyor."
 keywords: ["Star İş Merkezi","Sarnıç","Fatih","İstanbul","Marmara Bölgesi","doğa","tarih"]

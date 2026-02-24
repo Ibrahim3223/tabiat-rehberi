@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denize girme","Güneşlenme","Su sporları","Yürüyüş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Saray Hamamı, Ordu","caption":"Saray Hamamı, Ordu","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Saray Hamamı, Ordu","caption":"Saray Hamamı, Ordu","credit":"Muğla Province (45034554)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saray%20Hamam%C4%B1%2C%C2%A0Ordu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245852","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Saray Hamamı, Ordu'nun en güzel plajlarından biri"
 keywords: ["Ordu","Saray Hamamı","Karadeniz Bölgesi","plaj","deniz","kumsal","turizm","gezi"]

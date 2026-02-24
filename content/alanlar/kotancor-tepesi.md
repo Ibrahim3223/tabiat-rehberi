@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Keşif","Doğa fotoğrafçılığı","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kotançor Tepesi","caption":"Kotançor Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Kotançor Tepesi","caption":"Kotançor Tepesi","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kotan%C3%A7or%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32200643","tip":"genel"}]
 description: "Erzurum'un doğa harikalarından biri olan Kotançor Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Kotançor Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğa","Tepeler","Gezilecek Yerler","Erzurum Gezi","Doğu Anadolu Gezi","Kotançor"]

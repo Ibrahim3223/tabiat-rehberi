@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg","alt":"Karaoluktepeleri","caption":"Karaoluktepeleri","credit":"Kayaözü Creek Valley, Kahramanmaraş 03.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Karaoluktepeleri","caption":"Karaoluktepeleri","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaoluktepeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517917","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Karaoluktepeleri, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Karaoluktepeleri","Kahramanmaraş","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

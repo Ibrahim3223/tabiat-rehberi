@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["denize girerek güneşin tadını çıkarmak","yürüyüş yapmak","doğayı keşfetmek","tarihi yapıları incelemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Kelenderis Liman Hamamı","caption":"Kelenderis Liman Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Istanbul_beaches-_Sea_of_Marmara_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_04.jpg","alt":"Kelenderis Liman Hamamı","caption":"Kelenderis Liman Hamamı","credit":"Istanbul beaches- Sea of Marmara 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelenderis%20Liman%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739102","tip":"genel"}]
 description: "Aydıncık'ta bulunan tarihi plaj ve hamam kompleksi"
 keywords: ["Kelenderis","Liman Hamamı","Aydıncık","Mersin","Akdeniz Bölgesi","tarihi plaj","hamam kompleksi","turistik alan"]

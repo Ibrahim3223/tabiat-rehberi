@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kunerovi Tepesi","caption":"Kunerovi Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ida_Flooding_%2823%29.jpg/960px-Ida_Flooding_%2823%29.jpg","alt":"Kunerovi Tepesi","caption":"Kunerovi Tepesi","credit":"Ida Flooding (23)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kunerovi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547284","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en dikkat çekici noktalarından biri olan Kunerovi Tepesi, Siirt ilinin güzide bir bölgesinde yer alır."
 keywords: ["Kunerovi Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya"]

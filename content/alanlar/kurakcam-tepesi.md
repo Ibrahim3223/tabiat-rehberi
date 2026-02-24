@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kurakçam Tepesi","caption":"Kurakçam Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Kurakçam Tepesi","caption":"Kurakçam Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurak%C3%A7am%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32206009","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin önemli doğal alanlarından biri olan Kurakçam Tepesi, Hatay'da yer alır ve 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğündedir."
 keywords: ["Kurakçam Tepesi","Hatay","Akdeniz Bölgesi","doğal alan","tepe","gezi","yaban hayatı"]

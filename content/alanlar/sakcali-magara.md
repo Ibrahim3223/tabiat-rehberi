@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lower_Antelope_Canyon_November_2018_017.jpg/960px-Lower_Antelope_Canyon_November_2018_017.jpg","alt":"Sakçali Mağara","caption":"Sakçali Mağara","credit":"Lower Antelope Canyon November 2018 017","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Geological_magazine_%281878%29_%2814741258826%29.jpg/960px-Geological_magazine_%281878%29_%2814741258826%29.jpg","alt":"Sakçali Mağara","caption":"Sakçali Mağara","credit":"Geological magazine (1878) (14741258826)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sak%C3%A7ali%20Ma%C4%9Fara","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319725","tip":"genel"}]
 description: "Hatay'da yer alan Sakçali Mağara, 1200 hektarlık bir jeopark alanı sunar. Doğal güzellikleri keşfedin!"
 keywords: ["Sakçali Mağara","Hatay Jeopark","Doğal Alanlar","Mağara Gezileri","Jeopark","Hatay Turizm","Doğa Sporları","Turistik Yerler","Jeolojik Miras"]

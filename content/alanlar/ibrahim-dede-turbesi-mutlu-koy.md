@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Tarihi gezi","Köy turu","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"İbrahim Dede Türbesi (Mutlu Köy)","caption":"İbrahim Dede Türbesi (Mutlu Köy)","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Istanbul_beaches-_Sea_of_Marmara_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_04.jpg","alt":"İbrahim Dede Türbesi (Mutlu Köy)","caption":"İbrahim Dede Türbesi (Mutlu Köy)","credit":"Istanbul beaches- Sea of Marmara 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0brahim%20Dede%20T%C3%BCrbesi%20(Mutlu%20K%C3%B6y)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390573","tip":"genel"}]
 description: "Ayvalık'ta tarihi ve doğal güzellikleri bir arada sunan İbrahim Dede Türbesi ve Mutlu Köyü."
 keywords: ["Ayvalık","Mutlu Köy","İbrahim Dede Türbesi","tarih","doğa","gezi","Marmara Bölgesi","Balıkesir"]

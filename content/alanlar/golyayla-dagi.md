@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Asagi_Cagirankaya_Yaylasi.jpg/960px-Asagi_Cagirankaya_Yaylasi.jpg","alt":"Gölyayla Dağı","caption":"Gölyayla Dağı","credit":"Asagi Cagirankaya Yaylasi.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg/960px-Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg","alt":"Gölyayla Dağı","caption":"Gölyayla Dağı","credit":"Aladağlara Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lyayla%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872488","tip":"genel"}]
 description: "Rize'de bulunan Gölyayla Dağı, 1200 hektarlık yeşil cenneti ve doğa güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Gölyayla Dağı","Rize","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Rize Turistik Yerler","Dağcılık"]

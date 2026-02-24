@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["doğa yürüyüşleri","flora ve fauna keşfi","tarihî geçmişi keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Adana-Kozan-Horzum Kızılçam","caption":"Adana-Kozan-Horzum Kızılçam","credit":"Akdag 01","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Adana-Kozan-Horzum Kızılçam","caption":"Adana-Kozan-Horzum Kızılçam","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kozan-Horzum%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227294","tip":"genel"}]
 description: "140 hektarlık bu yeşil cennet, yaklaşık 200 futbol sahası büyüklüğünde ve Akdeniz Bölgesi'nin en önemli doğal alanlarından biri"
 keywords: ["Adana","Kozan","Horzum","Kızılçam","milli park","doğa","yeşil alan","Akdeniz Bölgesi"]

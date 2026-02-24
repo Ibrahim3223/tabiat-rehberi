@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Dündar Bey Hamamı","caption":"Dündar Bey Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Adatepe_manzara.JPG/960px-Adatepe_manzara.JPG","alt":"Dündar Bey Hamamı","caption":"Dündar Bey Hamamı","credit":"Adatepe manzara","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/D%C3%BCndar%20Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738767","tip":"genel"}]
 description: "Isparta'nın Eğirdir ilçesinde bulunan Dündar Bey Hamamı, tarihi ve doğal güzellikleri bir arada sunan bir destinasyon."
 keywords: ["Dündar Bey Hamamı","Eğirdir","Isparta","Akdeniz Bölgesi","tarih","doğa","gezi"]

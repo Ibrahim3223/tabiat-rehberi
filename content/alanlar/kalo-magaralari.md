@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Kalo Mağaraları","caption":"Kalo Mağaraları","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Glacial_lakes%2C_Bhutan.jpg/960px-Glacial_lakes%2C_Bhutan.jpg","alt":"Kalo Mağaraları","caption":"Kalo Mağaraları","credit":"Glacial lakes, Bhutan","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalo%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319307","tip":"genel"}]
 description: "Batman'da yer alan Kalo Mağaraları, jeopark olarak bilinen doğal güzellikleriyle dikkat çekiyor. 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Kalo Mağaraları","Batman","Jeopark","Doğal Güzellik","Turizm","Mağara","Gezi","Seyahat","Doğa"]

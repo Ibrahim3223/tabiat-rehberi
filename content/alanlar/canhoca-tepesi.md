@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çanhoca Tepesi","caption":"Çanhoca Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Çanhoca Tepesi","caption":"Çanhoca Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87anhoca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828353","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinelerinden biri olan Çanhoca Tepesi, doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["Çanhoca Tepesi","İç Anadolu Bölgesi","doğal güzellikler","tarihi geçmişi","tepe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg/960px-Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg","alt":"Ekinlik Dağı","caption":"Ekinlik Dağı","credit":"Konya Akyokuş Nature Park Konya Landscape.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Ekinlik Dağı","caption":"Ekinlik Dağı","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ekinlik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31589213","tip":"genel"}]
 description: "Konya'da yer alan Ekinlik Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Ekinlik Dağı","Konya","Dağ","Doğa","Yeşil Alan","Konya Turizm","Dağcılık","Doğa Yürüyüşü","Konya Gezi"]

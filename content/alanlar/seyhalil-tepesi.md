@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","kampçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Şeyhalil Tepesi","caption":"Şeyhalil Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg/960px-Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg","alt":"Şeyhalil Tepesi","caption":"Şeyhalil Tepesi","credit":"Ida Husted Harper photograph by Aime Dupont","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhalil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553871","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en güzel tepelerinden biri olan Şeyhalil Tepesi, Batman'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Şeyhalil Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","ekoloji"]

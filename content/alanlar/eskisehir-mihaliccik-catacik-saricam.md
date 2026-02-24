@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doga yürüyüşü","Kuş gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Eskisehir-Mihaliccik-Catacik-Saricam","caption":"Eskisehir-Mihaliccik-Catacik-Saricam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"Eskisehir-Mihaliccik-Catacik-Saricam","caption":"Eskisehir-Mihaliccik-Catacik-Saricam","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskisehir-Mihaliccik-Catacik-Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228564","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin bir araya geldiği milli park"
 keywords: ["Doğa","Milli Park","İç Anadolu","Eskisehir","Mihaliccik","Catacik","Saricam","Turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Konakgörmez Dağı","caption":"Konakgörmez Dağı","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Konakgörmez Dağı","caption":"Konakgörmez Dağı","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konakg%C3%B6rmez%20Da%C4%9F%C4%B1%20(39.73%20N%2041.02%20E)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042335","tip":"genel"}]
 description: "Erzurum'un görkemli dağlarından biri olan Konakgörmez Dağı, 39.73 N 41.02 E koordinatlarında yer alır. Doğa severler için bir cennet."
 keywords: ["Konakgörmez Dağı","Erzurum","Dağ","Doğa","Trekking","Koordinat","Gezi","Seyahat","Turizm"]

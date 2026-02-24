@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Bisiklet turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Çakmaklı Tepe","caption":"Çakmaklı Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Çakmaklı Tepe","caption":"Çakmaklı Tepe","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87akmakl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34827879","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cevheri, tarihi ve doğal güzelliklerin birleştiği Çakmaklı Tepe"
 keywords: ["Çakmaklı Tepe","İç Anadolu Bölgesi","Çankırı","doğal güzellik","tarihi mekanlar","coğrafi oluşumlar","flora","fauna","gezilecek yerler"]

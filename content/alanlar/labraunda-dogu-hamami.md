@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "en az birkaç saat"
 aktiviteler: ["tarihî kalıntıları gezmek","yeşillikte yürüyüş yapmak","çevreyi keşfetmek","fotografi yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Labraunda Doğu Hamamı","caption":"Labraunda Doğu Hamamı","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg/960px-2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg","alt":"Labraunda Doğu Hamamı","caption":"Labraunda Doğu Hamamı","credit":"2023-11-04 A view from Lycian Way near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Labraunda%20Do%C4%9Fu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738856","tip":"genel"}]
 description: "Milas'ta bulunan Labraunda Doğu Hamamı, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri."
 keywords: ["Labraunda","Doğu Hamamı","Milas","Muğla","Ege Bölgesi","tarih","doğa","gezi","turizm"]

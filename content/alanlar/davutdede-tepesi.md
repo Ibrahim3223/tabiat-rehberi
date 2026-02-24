@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Manzara seyri","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Davutdede Tepesi","caption":"Davutdede Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Davutdede Tepesi","caption":"Davutdede Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davutdede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389595","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli tepe noktalarından biri olan Davutdede Tepesi, Balıkesir'de yer alır. Zengin bir tarihi geçmişi ve çeşitli bitki türleriyle dikkat çeker."
 keywords: ["Davutdede Tepesi","Balıkesir","Marmara Bölgesi","tepe","doğa","flora","fauna"]

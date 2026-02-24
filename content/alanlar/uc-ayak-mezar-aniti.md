@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Üç Ayak Mezar Anıtı","caption":"Üç Ayak Mezar Anıtı","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg","alt":"Üç Ayak Mezar Anıtı","caption":"Üç Ayak Mezar Anıtı","credit":"Harbiş Sahili, Karataş - Adana 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7%20Ayak%20Mezar%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728082","tip":"genel"}]
 description: "Mersin'in Erdemli ilçesinde bulunan Üç Ayak Mezar Anıtı, doğal güzelliği ve tarihi önemiyle dikkat çeker."
 keywords: ["Üç Ayak Mezar Anıtı","Erdemli","Mersin","Akdeniz Bölgesi","doğa","tarih","mezar anıtı"]

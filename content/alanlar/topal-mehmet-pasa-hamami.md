@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihçe hakkında bilgi edinme","Plaj alanında dinlenme","Botanik turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Topal Mehmet Paşa Hamamı","caption":"Topal Mehmet Paşa Hamamı","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg/960px-Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg","alt":"Topal Mehmet Paşa Hamamı","caption":"Topal Mehmet Paşa Hamamı","credit":"Panoramic view from hotel room in Rhodes island, Trianta, Greece","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topal%20Mehmet%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738719","tip":"genel"}]
 description: "Şebinkarahisar'da tarihi bir hamam ve plaj alanı"
 keywords: ["Topal Mehmet Paşa Hamamı","Şebinkarahisar","Giresun","Karadeniz Bölgesi","tarihi hamam","plaj"]

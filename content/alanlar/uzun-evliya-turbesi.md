@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Picnic","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Uzun Evliya Türbesi","caption":"Uzun Evliya Türbesi","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Altinkum_Beaches_10_%28October2009%29_-_panoramio.jpg/960px-Altinkum_Beaches_10_%28October2009%29_-_panoramio.jpg","alt":"Uzun Evliya Türbesi","caption":"Uzun Evliya Türbesi","credit":"Altinkum Beaches 10 (October2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Uzun%20Evliya%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390976","tip":"genel"}]
 description: "İstanbul'un doğal güzellikleri arasında yer alan Uzun Evliya Türbesi, tarihi ve coğrafi özellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Uzun Evliya Türbesi","Beykoz","İstanbul","Marmara Bölgesi","Türbe","Plaj","Doğal Alan"]

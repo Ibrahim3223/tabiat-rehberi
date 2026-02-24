@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğraf çekme","Doğa gözlemi","Çadır kurma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Kars-Kuyucuk Golu","caption":"Kars-Kuyucuk Golu","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Kars-Kuyucuk Golu","caption":"Kars-Kuyucuk Golu","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kars-Kuyucuk%20Golu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228383","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzellikleriyle dolu bir alanı"
 keywords: ["Kars","Kuyucuk Golu","Doğu Anadolu Bölgesi","Doğal Alan","Milli Park","Göl","Turizm","Doğa"]

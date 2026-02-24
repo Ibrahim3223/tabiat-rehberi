@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Sivingasibi Mağarası","caption":"Sivingasibi Mağarası","credit":"Goreme National Park, Turkey","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/2023-02-06_Central_Turkey_M6_earthquake_intensity_map_%28USGS%29.jpg","alt":"Sivingasibi Mağarası","caption":"Sivingasibi Mağarası","credit":"2023-02-06 Central Turkey M6 earthquake intensity map (USGS)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sivingasibi%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319682","tip":"genel"}]
 description: "Batman'da yer alan Sivingasibi Mağarası, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği keşfedin!"
 keywords: ["Sivingasibi Mağarası","Batman","Jeopark","Doğa","Mağara","Gezi","Turizm","Batman Turistik Yerler","Doğal Alanlar"]

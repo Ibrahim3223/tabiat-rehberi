@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg","alt":"Çukurlu Dağ","caption":"Çukurlu Dağ","credit":"Güver Canyon Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Çukurlu Dağ","caption":"Çukurlu Dağ","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ukurlu%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819814","tip":"genel"}]
 description: "Antalya'da yer alan Çukurlu Dağ, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğal güzellikleri keşfedin!"
 keywords: ["Çukurlu Dağ","Antalya","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Doğal Güzellik"]

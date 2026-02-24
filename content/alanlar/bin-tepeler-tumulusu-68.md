@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","doğa yürüyüşü","tarih incelemesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Bin Tepeler Tümülüsü 68","caption":"Bin Tepeler Tümülüsü 68","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mediterranean_Sea%28Alanya%29%D0%BC%D1%8B%D1%81_%D0%94%D0%B6%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B4%D0%B0_-_panoramio_%281%29.jpg/960px-Mediterranean_Sea%28Alanya%29%D0%BC%D1%8B%D1%81_%D0%94%D0%B6%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B4%D0%B0_-_panoramio_%281%29.jpg","alt":"Bin Tepeler Tümülüsü 68","caption":"Bin Tepeler Tümülüsü 68","credit":"Mediterranean Sea(Alanya)мыс Джильварда - panoramio (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2068","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728296","tip":"genel"}]
 description: "Ege Bölgesi'nde yer alan Ahmetli'ninhistori ve doğal güzelliklerini keşfedin"
 keywords: ["Ahmetli","Manisa","Ege Bölgesi","tarih","doğa","gezi","tümülüs","kültür"]

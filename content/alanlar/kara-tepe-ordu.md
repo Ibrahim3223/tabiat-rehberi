@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Kara-Tepe-Camp-Lesvos-Perimeter-%28c%29_O%27Leary-James.jpg","alt":"Kara Tepe (Ordu) manzarası","credit":"Interface-Architect","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Kara Tepe","caption":"Kara Tepe","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Kara_Tepe%2C_Frieze_of_an_elephant.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Kara_Tepe%2C_Frieze_of_an_elephant.jpg","alt":"Kara Tepe (Ordu) - Kara Tepe, Frieze of an elephant","credit":"Nicoletta Stofkoper","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Tepe%20(Ordu)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31565280","tip":"genel"}]
 description: "Ordu'nun önemli dağlarından biri olan Kara Tepe, 1200 hektarlık yeşil alanı ile dikkat çekiyor."

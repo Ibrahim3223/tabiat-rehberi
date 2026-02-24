@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg","alt":"Ürküten Dağı","caption":"Ürküten Dağı","credit":"Güver Cliff Landscape (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg/960px-Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg","alt":"Ürküten Dağı","caption":"Ürküten Dağı","credit":"Hacıbaba dağı- batıdan - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Crk%C3%BCten%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820434","tip":"genel"}]
 description: "Antalya'da yer alan Ürküten Dağı, doğal güzelliği ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Ürküten Dağı","Antalya","dağ","doğa","yürüyüş rotaları","turizm","gezi","Antalya gezilecek yerler","Ürküten Dağı hakkında"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg","alt":"Kışlak Dağı","caption":"Kışlak Dağı","credit":"Kayaözü Creek Valley, Kahramanmaraş 05.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/960px-Da%C4%9F_tepesinden_Uzung%C3%B6l_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg","alt":"Kışlak Dağı","caption":"Kışlak Dağı","credit":"Dağ tepesinden Uzungöl görünümü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1%C5%9Flak%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514540","tip":"genel"}]
 description: "Kahramanmaraş'ın Onikişubat ilçesinde yer alan Kışlak Dağı, 1200 hektarlık yeşil alanı ile şehrin doğal güzelliklerini keşfetmeye davet ediyor."
 keywords: ["Kışlak Dağı","Kahramanmaraş","Onikişubat","Doğa","Yeşil Alan","Dağ","Türkiye","Seyahat","Gezi","Kışlak Dağı Kahramanmaraş"]

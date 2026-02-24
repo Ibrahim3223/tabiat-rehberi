@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"Beldibi Mağarası","caption":"Beldibi Mağarası","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/97/March_2010_Turkey_earthquake_intensity_USGS.jpg","alt":"Beldibi Mağarası","caption":"Beldibi Mağarası","credit":"March 2010 Turkey earthquake intensity USGS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beldibi%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6073348","tip":"genel"}]
 description: "Antalya'da yer alan Beldibi Mağarası, 1200 metre uzunluğuyla dikkat çeker. Jeopark olarak bilinen bu doğal oluşum, ziyaretçilerine benzersiz bir deneyim sunar."
 keywords: ["Beldibi Mağarası","Antalya","Jeopark","Mağara","Doğa","Turizm","Gezi","Antalya Turistik Yerler","Mağara Gezisi"]

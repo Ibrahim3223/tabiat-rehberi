@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kyuchyuk-Kebes Dağı","caption":"Kyuchyuk-Kebes Dağı","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Kyuchyuk-Kebes Dağı","caption":"Kyuchyuk-Kebes Dağı","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kyuchyuk-Kebes%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386656","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cevheri, Kyuchyuk-Kebes Dağı"
 keywords: ["Kyuchyuk-Kebes Dağı","İç Anadolu Bölgesi","doğa","coğrafya","tarihçe","flora","fauna","ziyaret"]

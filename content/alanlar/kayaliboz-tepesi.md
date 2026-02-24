@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Ormanlık alanları keşfetmek","Tarihi kalıntıları ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kayalıboz Tepesi","caption":"Kayalıboz Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Detail_of_west_elevation_bay_window%2C_interior._View_looking_northwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-12.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kayalıboz Tepesi","caption":"Kayalıboz Tepesi","credit":"Detail of west elevation bay window, interior. View looking northwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-12","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayal%C4%B1boz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558016","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, İç Anadolu Bölgesi'nin yüksek noktalarından biri olan Kayalıboz Tepesi'ni ziyaret edin"
 keywords: ["Kayalıboz Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

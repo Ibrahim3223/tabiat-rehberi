@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/P_20180323_124555.jpg/960px-P_20180323_124555.jpg","alt":"Isparta-Sutculer-Tota Karacam","caption":"Isparta-Sutculer-Tota Karacam","credit":"P 20180323 124555.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Isparta-Sutculer-Tota Karacam","caption":"Isparta-Sutculer-Tota Karacam","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Sutculer-Tota%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227508","tip":"genel"}]
 description: "Isparta'da yer alan milli park, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor."
 keywords: ["Isparta","milli park","doğa","yeşil alan","fauna","flora","ekosistem","çevre","koruma"]

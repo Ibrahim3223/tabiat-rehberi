@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Sergi alanlarını gezmek","Tarım araçlarını incelemek","Üretim tesislerini ziyaret etmek","Müze rehberli turuna katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Toprak Mahsulleri Ofisi Müzesi","caption":"Toprak Mahsulleri Ofisi Müzesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cloud_shadows_at_the_mountain.jpg/960px-Cloud_shadows_at_the_mountain.jpg","alt":"Toprak Mahsulleri Ofisi Müzesi","caption":"Toprak Mahsulleri Ofisi Müzesi","credit":"Cloud shadows at the mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toprak%20Mahsulleri%20Ofisi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97214772","tip":"genel"}]
 description: "Ankara'da yer alan Toprak Mahsulleri Ofisi Müzesi, tarım ve üretim geçmişini keşfetmek için ideal bir destinasyon."
 keywords: ["Toprak Mahsulleri Ofisi Müzesi","Ankara","İç Anadolu Bölgesi","tarım","üretim","müze","tarih","gezi"]

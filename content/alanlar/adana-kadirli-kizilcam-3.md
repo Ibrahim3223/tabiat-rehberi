@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["Yürüyüş","Piknik","Doğa Gözlemi","Fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg/960px-Alada%C4%9Flar_Milli_Park%C4%B1_-_Aladaglar_National_Park_01.jpg","alt":"Adana-Kadirli Kızılçam 3","caption":"Adana-Kadirli Kızılçam 3","credit":"Aladağlar Milli Parkı - Aladaglar National Park 01","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cilingoz_National_Park_Entry_Gate.jpg/960px-Cilingoz_National_Park_Entry_Gate.jpg","alt":"Adana-Kadirli Kızılçam 3","caption":"Adana-Kadirli Kızılçam 3","credit":"Cilingoz National Park Entry Gate","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227829","tip":"genel"}]
 description: "Adana'nın doğal güzelliklerinin keşfedildiği bir bölge"
 keywords: ["Adana","Kadirli","Kızılçam","Milli Park","Doğa","Turizm","Yeşil Alan","Akdeniz Bölgesi"]

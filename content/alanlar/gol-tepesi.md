@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","piknik yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Karamanbeli_Gecidi_20_08_1992_G%C3%B6l_Ovas%C4%B1_mit_Eren_Tepesi_2774_m_Getreide-Stoppelfelder.jpg","alt":"Göl Tepesi manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Göl Tepesi","caption":"Göl Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138395","tip":"genel"}]
 description: "Kırklareli'nin doğal güzellikleri arasında yer alan Göl Tepesi, yaklaşık 140 hektarlık bir alanı kapsıyor. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşdeğer."

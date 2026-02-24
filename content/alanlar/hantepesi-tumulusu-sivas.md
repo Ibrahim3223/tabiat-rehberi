@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarih gezisi","Arkeolojik kazılar","Flora ve fauna gözlemi","Şehir turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Hantepesi Tümülüsü, Sivas","caption":"Hantepesi Tümülüsü, Sivas","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Hantepesi Tümülüsü, Sivas","caption":"Hantepesi Tümülüsü, Sivas","credit":"Karaburun - panoramio (2)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hantepesi%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Sivas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728410","tip":"genel"}]
 description: "Sivas'ta bulunan tarihi Hantepesi Tümülüsü, zengin geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["Sivas","Hantepesi","Tümülüs","Tarih","Arkeoloji","Gezi","Sivas'ta gezilecek yerler","Tümülüsler","Sivas tarihi"]

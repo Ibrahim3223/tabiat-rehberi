@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","vahşi yaşam gözlemi","fotografçılık","çevre eğitimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kahramanmaras-Antakya-Samandağ Şimşir","caption":"Kahramanmaras-Antakya-Samandağ Şimşir","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"Kahramanmaras-Antakya-Samandağ Şimşir","caption":"Kahramanmaras-Antakya-Samandağ Şimşir","credit":"MOKFC09","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Antakya-Samanda%C4%9F%20%C5%9Eim%C5%9Fir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227711","tip":"genel"}]
 description: "Doğal güzelliklerin bir arada olduğu milli park"
 keywords: ["milli park","doğa","flora","fauna","gezi","turizm","çevre","koruma"]

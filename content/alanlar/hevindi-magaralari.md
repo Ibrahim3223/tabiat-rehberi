@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Hevindi Mağaraları","caption":"Hevindi Mağaraları","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Geologic_Clock_with_events_and_periods_tr.svg/960px-Geologic_Clock_with_events_and_periods_tr.svg.png","alt":"Hevindi Mağaraları","caption":"Hevindi Mağaraları","credit":"Geologic Clock with events and periods tr","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hevindi%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319255","tip":"genel"}]
 description: "Şırnak'ta yer alan Hevindi Mağaraları, jeolojik oluşumlarıyla dikkat çeken bir jeoparktır. Doğal güzelliği ve tarihi önemiyle ziyaretçilerini bekliyor."
 keywords: ["Hevindi Mağaraları","Şırnak","Jeopark","Doğal Alanlar","Mağara Gezileri","Jeolojik Oluşumlar","Tarih","Doğa","Turizm"]

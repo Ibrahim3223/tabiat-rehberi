@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Giresun Bulancak Bicik-Doguladini","caption":"Giresun Bulancak Bicik-Doguladini","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Giresun Bulancak Bicik-Doguladini","caption":"Giresun Bulancak Bicik-Doguladini","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun%20Bulancak%20Bicik-Doguladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228054","tip":"genel"}]
 description: "Giresun'un Bulancak ilçesinde yer alan Bicik-Doguladini milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Giresun","Bulancak","Bicik-Doguladini","milli park","çevre","doğa","turizm","gezi","yaban hayatı"]

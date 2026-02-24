@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Çakıroluk Ormanı","caption":"Çakıroluk Ormanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg","alt":"Çakıroluk Ormanı","caption":"Çakıroluk Ormanı","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ak%C4%B1roluk%20Orman%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228996","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, doğa severlerin rotası"
 keywords: ["Çakıroluk Ormanı","İç Anadolu Bölgesi","doğa","orman","gezi","turizm","çevre","ekosistem","flora","fauna"]

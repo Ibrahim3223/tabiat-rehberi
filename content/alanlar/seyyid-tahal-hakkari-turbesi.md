@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Seyyid Taha’l Hakkari Türbesi","caption":"Seyyid Taha’l Hakkari Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Altinkum_Beaches_29_%28October2009%29_-_panoramio.jpg/960px-Altinkum_Beaches_29_%28October2009%29_-_panoramio.jpg","alt":"Seyyid Taha’l Hakkari Türbesi","caption":"Seyyid Taha’l Hakkari Türbesi","credit":"Altinkum Beaches 29 (October2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Taha%E2%80%99l%20Hakkari%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390826","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal zenginliklerini keşfedin"
 keywords: ["Hakkari","Seyyid Taha’l Hakkari Türbesi","Doğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","inanc"]

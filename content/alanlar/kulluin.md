@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Küllüin","caption":"Küllüin","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Salome_Marble_%28Supren_Marble%29_%28brecciated_marble%2C_metamorphosed_during_the_Cimmeride_Orogeny%2C_Late_Triassic_to_Early_Jurassic%3B_quarry_at_or_near_Supren%2C_northwestern_Turkey%29_1_%2814999205781%29.jpg/960px-thumbnail.jpg","alt":"Küllüin","caption":"Küllüin","credit":"Salome Marble (Supren Marble) (brecciated marble, metamorphosed during the Cimmeride Orogeny, Late Triassic to Early Jurassic; quarry at or near Supren, northwestern Turkey) 1 (14999205781)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCll%C3%BCin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319402","tip":"genel"}]
 description: "Mersin'de yer alan Küllüin Jeopark, 1200 hektarlık yeşil alanı ve jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Küllüin Jeopark","Mersin","Jeopark","Doğa Alanı","Yeşil Alan","Jeolojik Oluşum","Mersin Turizm","Turistik Yerler","Doğa Harikaları"]

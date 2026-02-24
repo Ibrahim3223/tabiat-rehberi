@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Çimenlik Tepesi","caption":"Çimenlik Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Çimenlik Tepesi","caption":"Çimenlik Tepesi","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87imenlik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819122","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Çimenlik Tepesi, Siirt'in doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Siirt","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre","iklim","flora","fauna"]

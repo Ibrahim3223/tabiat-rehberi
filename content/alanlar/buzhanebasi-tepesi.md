@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Buzhanebaşı Tepesi","caption":"Buzhanebaşı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Buzhanebaşı Tepesi","caption":"Buzhanebaşı Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buzhaneba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391242","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, Buzhanebaşı Tepesi"
 keywords: ["Buzhanebaşı Tepesi","İç Anadolu Bölgesi","doğa","tepe","gezi","yerel","coğrafya","flora","fauna","turizm"]

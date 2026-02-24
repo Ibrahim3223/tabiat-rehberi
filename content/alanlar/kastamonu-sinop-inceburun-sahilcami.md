@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","sahil gezi","bitki ve hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Kastamonu-Sinop-İnceburun-Sahilcami","caption":"Kastamonu-Sinop-İnceburun-Sahilcami","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg","alt":"Kastamonu-Sinop-İnceburun-Sahilcami","caption":"Kastamonu-Sinop-İnceburun-Sahilcami","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546842503)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Sinop-%C4%B0nceburun-Sahilcami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228496","tip":"genel"}]
 description: "Kastamonu ve Sinop arasındaki İnceburun ve Sahilcami milli parkı, Karadeniz'in en güzel sahillerini sunar."
 keywords: ["Kastamonu","Sinop","İnceburun","Sahilcami","milli park","Karadeniz","sahil","doğa","gezi"]

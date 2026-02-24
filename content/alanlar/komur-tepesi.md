@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Komur Tepesi","caption":"Komur Tepesi","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Komur Tepesi","caption":"Komur Tepesi","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Komur%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513361","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Komur Tepesi, doğa severlerin ziyaret ettiği bir destinasyon."
 keywords: ["Komur Tepesi","Türkiye dağları","doğa turizmi","dağcılık","turistik yerler","Türkiye coğrafyası","gezi rehberi","dağ rotaları","yayla turizmi"]

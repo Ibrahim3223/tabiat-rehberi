@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Çakraz Seyhler Sit Alanı","caption":"Çakraz Seyhler Sit Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg","alt":"Çakraz Seyhler Sit Alanı","caption":"Çakraz Seyhler Sit Alanı","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru - 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87akraz%20Seyhler%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226611","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Çakraz Seyhler Sit Alanı, zengin fauna ve florasıyla dikkat çekiyor."
 keywords: ["Çakraz Seyhler Sit Alanı","İç Anadolu Bölgesi","doğa","flora","fauna","turizm","gezi","çevre","koruma"]

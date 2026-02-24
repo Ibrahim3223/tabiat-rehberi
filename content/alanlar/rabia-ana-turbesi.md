@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçesi hakkında bilgi edinmek","doğal güzellikleri keşfetmek","manevi bir merkez olarak kabul edilen Rabia Ana Türbesi'ni ziyaret etmek","çevre gezileri yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Rabia Ana Türbesi","caption":"Rabia Ana Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ilica_plaj_-_beach_October_2009_3_-_panoramio.jpg/960px-Ilica_plaj_-_beach_October_2009_3_-_panoramio.jpg","alt":"Rabia Ana Türbesi","caption":"Rabia Ana Türbesi","credit":"Ilica plaj - beach October 2009 3 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rabia%20Ana%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582805","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde tarihi ve doğal güzelliklerin bir arada bulunduğu Rabia Ana Türbesi, ziyaretçiler için önemli bir destinasyon"
 keywords: ["Rabia Ana Türbesi","Erzurum","Yakutiye","Doğu Anadolu Bölgesi","tarih","doğal güzellik","türbe","gezi"]

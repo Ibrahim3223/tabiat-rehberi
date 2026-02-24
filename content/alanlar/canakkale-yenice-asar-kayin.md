@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gallipoli_Peninsula_Historical_National_Park_%281%29.jpg/960px-Gallipoli_Peninsula_Historical_National_Park_%281%29.jpg","alt":"Canakkale-Yenice-Asar Kayin","caption":"Canakkale-Yenice-Asar Kayin","credit":"Gallipoli Peninsula Historical National Park (1).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"Canakkale-Yenice-Asar Kayin","caption":"Canakkale-Yenice-Asar Kayin","credit":"MOKFC09","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Yenice-Asar%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227255","tip":"genel"}]
 description: "Marmara Bölgesi'nde yer alan Canakkale-Yenice-Asar Kayin milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Çanakkale","Marmara Bölgesi","milli park","Asar Kayin","Yenice","doğa","turizm"]

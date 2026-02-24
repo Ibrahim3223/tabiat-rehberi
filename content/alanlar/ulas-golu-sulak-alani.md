@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Kuş gözlemciliği","Fotografçılık","Bilim investigaciónları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Ulaş Gölü Sulak Alanı","caption":"Ulaş Gölü Sulak Alanı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Munzur_Valley_National_Park.jpg/960px-Munzur_Valley_National_Park.jpg","alt":"Ulaş Gölü Sulak Alanı","caption":"Ulaş Gölü Sulak Alanı","credit":"Munzur Valley National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ula%C5%9F%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228839","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Ulaş Gölü Sulak Alanı"
 keywords: ["Ulaş Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Turizm","Sulak Alanları Koruma","Çevre","Ekosistem"]

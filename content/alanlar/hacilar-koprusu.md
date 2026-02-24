@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekme","tarih gezisi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Hacılar Köprüsü","caption":"Hacılar Köprüsü","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_06.jpg","alt":"Hacılar Köprüsü","caption":"Hacılar Köprüsü","credit":"Istanbul beaches- Sea of Marmara 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1lar%20K%C3%B6pr%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123651934","tip":"genel"}]
 description: "Ankara'nın Beypazarı ilçesinde yer alan Hacılar Köprüsü, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Doğal güzelliği ve tarihi geçmişi ile dikkat çeker."
 keywords: ["Hacılar Köprüsü","Beypazarı","Ankara","doğa","tarih","gezi","turizm","köprü","plaj"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Cemali Sultan Türbesi","caption":"Cemali Sultan Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Istanbul_beaches-_Sea_of_Marmara_13.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_13.jpg","alt":"Cemali Sultan Türbesi","caption":"Cemali Sultan Türbesi","credit":"Istanbul beaches- Sea of Marmara 13","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cemali%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390873","tip":"genel"}]
 description: "Kilis'in tarihi ve doğal güzelliklerinin birleştiği özel bir nokta"
 keywords: ["Kilis","Cemali Sultan Türbesi","tarih","doğa","gezi","turizm","tarihçe","coğrafya","flora","fauna"]

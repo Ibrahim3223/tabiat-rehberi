@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["tarihi mekanları gezmek","doğa yürüyüşleri","fotoğraf çekmek","dinlenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Ümmi Kemal Türbesi","caption":"Ümmi Kemal Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arsuf_-_the_cavalry_dash_along_the_sea_coast_on_the_morning_of_the_19th_September_1918_Art.IWMART2511.jpg/960px-Arsuf_-_the_cavalry_dash_along_the_sea_coast_on_the_morning_of_the_19th_September_1918_Art.IWMART2511.jpg","alt":"Ümmi Kemal Türbesi","caption":"Ümmi Kemal Türbesi","credit":"Arsuf - the cavalry dash along the sea coast on the morning of the 19th September 1918 Art.IWMART2511","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cmmi%20Kemal%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390708","tip":"genel"}]
 description: "Bolu ilinin merkezinde yer alan Ümmi Kemal Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir yer."
 keywords: ["Ümmi Kemal Türbesi","Bolu","Karadeniz Bölgesi","tarihi mekanlar","doğa alanları","turbeler","kültürel miras","turizm","gezi rehberi"]

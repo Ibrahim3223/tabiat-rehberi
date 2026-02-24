@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","vahşi yaşam gözlemi","fotoğrafçılık","kampçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg/960px-City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg","alt":"Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari","caption":"Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari","credit":"City of Artvin, Borçka Karagöl","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg/960px-Republic_of_Turkey_General_Directorate_of_Nature_Conservation_and_National_Parks_Regional_Directorates.svg.png","alt":"Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari","caption":"Artvin-Yusufeli-Kilickaya-Dogu Karadeniz Goknari","credit":"Republic of Turkey General Directorate of Nature Conservation and National Parks Regional Directorates","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Yusufeli-Kilickaya-Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228555","tip":"genel"}]
 description: "Doğu Karadeniz'in yeşil cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Artvin","Yusufeli","Kilickaya","Doğu Karadeniz","Goknari","milli park","doğa","gezi"]

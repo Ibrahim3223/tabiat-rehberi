@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","fotografçılık","bitki ve hayvan gözlemi","kampçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Hatilla Vadisi","caption":"Hatilla Vadisi","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843429%29.jpg","alt":"Hatilla Vadisi","caption":"Hatilla Vadisi","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843429)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatilla%20Vadisi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227097","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Hatilla Vadisi","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","futbol sahası","milli park","turizm","gezi","doğa"]

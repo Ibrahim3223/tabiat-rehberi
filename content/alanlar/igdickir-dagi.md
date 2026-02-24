@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"İğdiçkır Dağı","caption":"İğdiçkır Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"İğdiçkır Dağı","caption":"İğdiçkır Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0%C4%9Fdi%C3%A7k%C4%B1r%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34820826","tip":"genel"}]
 description: "Burdur'un doğal güzelliklerini keşfedin, İğdiçkır Dağı'nın büyüleyici manzaralarına hayran kalın."
 keywords: ["İğdiçkır Dağı","Burdur","Dağ","Doğa","Turizm","Gezi","Manzara","Burdur gezilecek yerler","İğdiçkır Dağı hakkında"]

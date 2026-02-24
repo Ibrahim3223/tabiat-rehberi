@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","kültürel gezi","şehir turu","mimari gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Ahi Evran Sultan Türbesi","caption":"Ahi Evran Sultan Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alanya-Antalya_-_panoramio_%283%29.jpg/960px-Alanya-Antalya_-_panoramio_%283%29.jpg","alt":"Ahi Evran Sultan Türbesi","caption":"Ahi Evran Sultan Türbesi","credit":"Alanya-Antalya - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20Evran%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390894","tip":"genel"}]
 description: "Kütahya'nın merkezinde yer alan Ahi Evran Sultan Türbesi, tarihi ve kültürel önem taşıyan bir mekan"
 keywords: ["Ahi Evran Sultan","Kütahya","tarih","kültür","türbe","gezi","seyahat","Ege Bölgesi","Kütahya ili"]

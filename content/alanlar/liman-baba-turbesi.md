@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Liman Baba Türbesi","caption":"Liman Baba Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Port_G%C3%B6cek_early_evening.jpg/960px-Port_G%C3%B6cek_early_evening.jpg","alt":"Liman Baba Türbesi","caption":"Liman Baba Türbesi","credit":"Port Göcek early evening","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Liman%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390865","tip":"genel"}]
 description: "Demirköy'de bulunan Liman Baba Türbesi, Marmara Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri"
 keywords: ["Liman Baba Türbesi","Demirköy","Kırklareli","Marmara Bölgesi","Türbe","Doğal Güzellik","Tarih","Coğrafya"]

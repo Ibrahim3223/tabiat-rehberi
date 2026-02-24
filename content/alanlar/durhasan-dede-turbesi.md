@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Plajda dinlenmek","Tarihi türbeyi ziyaret etmek","Doğa yürüyüşü yapmak","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Durhasan Dede Türbesi","caption":"Durhasan Dede Türbesi","credit":"Harbiş Sahili, Karataş - Adana 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Latrans-Turkey_location_Aegean_Region.svg/960px-Latrans-Turkey_location_Aegean_Region.svg.png","alt":"Durhasan Dede Türbesi","caption":"Durhasan Dede Türbesi","credit":"Latrans-Turkey location Aegean Region","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Durhasan%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391772","tip":"genel"}]
 description: "Ceyhan'da tarihi ve doğal güzellikleri bir arada sunan Durhasan Dede Türbesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Durhasan Dede Türbesi","Ceyhan","Adana","Akdeniz Bölgesi","tarihi mekanlar","doğal güzellikler","plajlar","tarihçe","coğrafya"]

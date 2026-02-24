@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","piknik","balık avı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kartal Gölü","caption":"Kartal Gölü","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Kartal Gölü","caption":"Kartal Gölü","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartal%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227191","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Kartal Gölü, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir. Bu bölge, hem yerli hem de yabancı ziyaretçiler için bir cazibe merkezidir."
 keywords: ["Kartal Gölü","İç Anadolu Bölgesi","doğal alan","milli park","göl","flora","fauna","ziyaret","gezinti"]

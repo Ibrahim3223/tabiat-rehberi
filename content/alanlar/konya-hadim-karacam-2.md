@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","vahşi yaşam gözlemi","fotoğrafçılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Konya-Hadim-Karacam 2","caption":"Konya-Hadim-Karacam 2","credit":"Turkish nature reserve","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kocakoru_Tabiat_Park%C4%B1_03.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_03.jpg","alt":"Konya-Hadim-Karacam 2","caption":"Konya-Hadim-Karacam 2","credit":"Kocakoru Tabiat Parkı 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Hadim-Karacam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228115","tip":"genel"}]
 description: "Konya'nın doğa harikası milli parkı"
 keywords: ["Konya","milli park","doğa","gezi","turizm","Konya-Hadim-Karacam 2","iç anadolu","çevre","ekoloji"]

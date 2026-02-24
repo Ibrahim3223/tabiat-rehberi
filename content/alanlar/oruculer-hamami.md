@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Hamamın tarihi kısmını gezmek","Yeşil alanda yürümek","Çevresindeki restoran ve kafelerde yemek","Hamamın yakınındaki tarihi yapılara ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Örücüler Hamamı","caption":"Örücüler Hamamı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gerence_K%C3%B6rfezinden_-_panoramio.jpg/960px-Gerence_K%C3%B6rfezinden_-_panoramio.jpg","alt":"Örücüler Hamamı","caption":"Örücüler Hamamı","credit":"Gerence Körfezinden - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96r%C3%BCc%C3%BCler%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738602","tip":"genel"}]
 description: "Fatih, İstanbul'da yer alan tarihi hamam ve plaj alanı"
 keywords: ["Örücüler Hamamı","Fatih","İstanbul","tarih","hamam","plaj","Marmara Bölgesi","gezi","turizm"]

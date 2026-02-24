@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Kocadağ","caption":"Kocadağ","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Aksaray_1998_01.jpg/960px-Aksaray_1998_01.jpg","alt":"Kocadağ","caption":"Kocadağ","credit":"Aksaray 1998 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocada%C4%9F%20(K%C3%BCtahya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042252","tip":"genel"}]
 description: "Kütahya'da bulunan Kocadağ, 1200 hektarlık yeşil alanı ile şehrin önemli doğal güzelliklerinden biri"
 keywords: ["Kocadağ","Kütahya","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Kütahya Turistik Yerler","Kocadağ Kütahya"]

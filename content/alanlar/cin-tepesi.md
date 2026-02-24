@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tepenin zirvesine çıkmak","vadiyi gezmek","tarihi kalıntıları ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Cin Tepesi","caption":"Cin Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Cin Tepesi","caption":"Cin Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539200","tip":"genel"}]
 description: "Siirt'in doğal güzellikleri arasında yer alan Cin Tepesi, tarihi ve coğrafi özellikleriyle dikkat çekiyor."
 keywords: ["Cin Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarih","coğrafya"]

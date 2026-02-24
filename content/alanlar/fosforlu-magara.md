@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg/960px-Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg","alt":"Fosforlu Mağara","caption":"Fosforlu Mağara","credit":"Korfu (GR), Kassiopi -- 2018 -- 1068","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Olympus_Mons_alt.jpg/960px-Olympus_Mons_alt.jpg","alt":"Fosforlu Mağara","caption":"Fosforlu Mağara","credit":"Olympus Mons alt","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fosforlu%20Ma%C4%9Fara","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q11721202","tip":"genel"}]
 description: "Türkiye'de yer alan Fosforlu Mağara, doğal güzelliği ile dikkat çekiyor. Jeopark olarak bilinen bu alan, ziyaretçilerini bekliyor."
 keywords: ["Fosforlu Mağara","Jeopark","Türkiye","Doğal Alan","Mağara","Gezi","Seyahat","Turizm","Doğa"]

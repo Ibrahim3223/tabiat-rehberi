@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Köşeninarkac Tepesi","caption":"Köşeninarkac Tepesi","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg/960px-Emir_Da%C4%9Flar%C4%B1_25_09_2013_Landschaft.jpg","alt":"Köşeninarkac Tepesi","caption":"Köşeninarkac Tepesi","credit":"Emir Dağları 25 09 2013 Landschaft","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6%C5%9Feninarkac%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042799","tip":"genel"}]
 description: "Ankara'nın önemli dağlarından biri olan Köşeninarkac Tepesi, 1200 hektarlık yeşil alanı ile şehrin doğal güzelliğini sunar."
 keywords: ["Köşeninarkac Tepesi","Ankara","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Trekking","Ankara Turistik Yerler"]

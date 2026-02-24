@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihi mekanları gezmek","Doğa yürüyüşleri","Fotografcılık","Kültürel etkinliklere katılım"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Celal Baba Türbesi","caption":"Celal Baba Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Istanbul_beaches-_Sea_of_Marmara_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_08.jpg","alt":"Celal Baba Türbesi","caption":"Celal Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Celal%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390854","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde Kars ilinin güzide bir noktası olan Celal Baba Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Celal Baba Türbesi","Kars","Doğu Anadolu Bölgesi","tarihi mekan","doğal güzellik","tarihçe","coğrafya","flora","fauna","ziyaret"]

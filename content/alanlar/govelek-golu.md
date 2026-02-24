@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Bondhus_Norway_2862.jpg/960px-Lake_Bondhus_Norway_2862.jpg","alt":"Gövelek Gölü","caption":"Gövelek Gölü","credit":"Lake Bondhus Norway 2862.jpg","license":"FAL"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Artvin_Karag%C3%B6l.jpg/960px-Artvin_Karag%C3%B6l.jpg","alt":"Gövelek Gölü","caption":"Gövelek Gölü","credit":"Artvin Karagöl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6velek%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q1529378","tip":"genel"}]
 description: "Van'ın İpekyolu ilçesinde bulunan Gövelek Gölü, doğal güzellikleri ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Gövelek Gölü","Van","İpekyolu","Doğal Alanlar","Göller","Turizm","Gezi Rehberi","Van Gezilecek Yerler","İpekyolu Turistik Yerler"]

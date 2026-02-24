@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Mihraplı Dağı","caption":"Mihraplı Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/960px-Adams_The_Tetons_and_the_Snake_River.jpg","alt":"Mihraplı Dağı","caption":"Mihraplı Dağı","credit":"Adams The Tetons and the Snake River","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mihrapl%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31510386","tip":"genel"}]
 description: "Mersin'de yer alan Mihraplı Dağı, 1200 hektarlık yeşil alanıyla İstanbul'un yarısı kadar bir alanı kaplıyor."
 keywords: ["Mihraplı Dağı","Mersin","Dağ","Yeşil Alan","Doğa","Türkiye","Gezi","Seyahat","Mersin Gezilecek Yerler"]

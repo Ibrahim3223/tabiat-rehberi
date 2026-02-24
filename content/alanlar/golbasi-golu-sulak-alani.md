@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotografçılık","Bilim investigación"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Gölbası Gölü Sulak Alanı","caption":"Gölbası Gölü Sulak Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Gölbası Gölü Sulak Alanı","caption":"Gölbası Gölü Sulak Alanı","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lbas%C4%B1%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228863","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık sulak alan"
 keywords: ["Gölbası Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa","Turizm","Çevre","Koruma","Sulak Alan Ekosistemi"]

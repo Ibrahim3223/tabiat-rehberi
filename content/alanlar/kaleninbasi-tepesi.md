@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","coğrafi yapı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kaleninbaşı Tepesi","caption":"Kaleninbaşı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Kaleninbaşı Tepesi","caption":"Kaleninbaşı Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaleninba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536491","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Kaleninbaşı Tepesi, Gaziantep'in güzide noktalarından biri"
 keywords: ["Gaziantep","Kaleninbaşı Tepesi","doğal alan","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","flora","fauna"]

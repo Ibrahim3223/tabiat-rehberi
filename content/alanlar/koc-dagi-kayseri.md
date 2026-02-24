@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Koç Dağı (Kayseri)","caption":"Koç Dağı (Kayseri)","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Olympos_Peak.jpg/960px-Olympos_Peak.jpg","alt":"Koç Dağı (Kayseri)","caption":"Koç Dağı (Kayseri)","credit":"Olympos Peak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7%20Da%C4%9F%C4%B1%20(Kayseri)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042404","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin, Koç Dağı'nda doğa yürüyüşü ve kayak keyfi yaşayın."
 keywords: ["Koç Dağı","Kayseri","Dağ","Doğa Yürüyüşü","Kayak","Turizm","Gezi","Kayseri Turistik Yerler","Doğa Sporları"]

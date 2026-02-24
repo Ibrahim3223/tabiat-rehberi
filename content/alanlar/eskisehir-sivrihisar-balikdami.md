@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekme","balık avı","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Eskisehir-Sivrihisar Balıkdamı","caption":"Eskisehir-Sivrihisar Balıkdamı","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fatih_tabiat_park%C4%B1_Yozgat.jpg/960px-Fatih_tabiat_park%C4%B1_Yozgat.jpg","alt":"Eskisehir-Sivrihisar Balıkdamı","caption":"Eskisehir-Sivrihisar Balıkdamı","credit":"Fatih tabiat parkı Yozgat","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eskisehir-Sivrihisar%20Bal%C4%B1kdam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228375","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Eskisehir-Sivrihisar Balıkdamı, ziyaretçilerini büyülemektedir."
 keywords: ["Eskisehir","Sivrihisar","Balıkdamı","İç Anadolu Bölgesi","doğal güzellik","turizm","gezi"]

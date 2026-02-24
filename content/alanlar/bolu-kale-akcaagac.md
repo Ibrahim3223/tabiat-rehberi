@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimi","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Bolu Kale-Akcaagac","caption":"Bolu Kale-Akcaagac","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg/960px-A_georgeus_look_of_Beyda%C4%9Flar%C4%B1_Coastal_National_Park.jpg","alt":"Bolu Kale-Akcaagac","caption":"Bolu Kale-Akcaagac","credit":"A georgeus look of Beydağları Coastal National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bolu%20Kale-Akcaagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228092","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Bolu Kale-Akcaagac, 140 hektarlık geniş bir alanı kapsıyor."
 keywords: ["Bolu Kale-Akcaagac","İç Anadolu Bölgesi","doğa","milli park","gezilecek yerler","turizm","çevre","ekoloji"]

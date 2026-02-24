@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/G%C3%B6lba%C5%9F%C4%B1%2Cbursa_-_panoramio.jpg/960px-G%C3%B6lba%C5%9F%C4%B1%2Cbursa_-_panoramio.jpg","alt":"Üsküp Tepesi","caption":"Üsküp Tepesi","credit":"Gölbaşı,bursa - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Üsküp Tepesi","caption":"Üsküp Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Csk%C3%BCp%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34810080","tip":"genel"}]
 description: "Bursa'nın önemli natural güzelliklerinden biri olan Üsküp Tepesi, 140 hektarlık bir alanı kaplıyor. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerine geniş bir yeşil alan sunuyor."
 keywords: ["Üsküp Tepesi","Bursa","Marmara Bölgesi","doğal alan","yeşil alan","gezi","turizm"]

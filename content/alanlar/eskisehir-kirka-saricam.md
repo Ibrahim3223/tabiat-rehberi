@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Kuş Gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Eskişehir-Kirka Saricam","caption":"Eskişehir-Kirka Saricam","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Eskişehir-Kirka Saricam","caption":"Eskişehir-Kirka Saricam","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Kirka%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227979","tip":"genel"}]
 description: "Eskişehir'in doğal güzelliklerinin buluşma noktası: Kirka Saricam Milli Parkı"
 keywords: ["Eskişehir","Kirka Saricam","Milli Park","Doğa","Turizm","İç Anadolu Bölgesi","Yeşil Alanlar","Çevre","Ekosistem","Flora","Fauna"]

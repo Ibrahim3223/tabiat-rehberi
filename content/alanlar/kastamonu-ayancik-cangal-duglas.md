@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Kastamonu-Ayancik-Cangal Duglas","caption":"Kastamonu-Ayancik-Cangal Duglas","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Kastamonu-Ayancik-Cangal Duglas","caption":"Kastamonu-Ayancik-Cangal Duglas","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Ayancik-Cangal%20Duglas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227282","tip":"genel"}]
 description: "Kastamonu'da yer alan milli park, doğal güzelliği ve zengin faunası ile dikkat çekiyor."
 keywords: ["Kastamonu-Ayancik-Cangal Duglas","milli park","Kastamonu","Karadeniz Bölgesi","doğa","flora","fauna","gezi","turizm"]

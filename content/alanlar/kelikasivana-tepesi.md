@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kelikaşivana Tepesi","caption":"Kelikaşivana Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ida_Flooding_%282%29.jpg/960px-Ida_Flooding_%282%29.jpg","alt":"Kelikaşivana Tepesi","caption":"Kelikaşivana Tepesi","credit":"Ida Flooding (2)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelika%C5%9Fivana%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31544948","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Kelikaşivana Tepesi, Batman ilinin güzide noktalarından biridir."
 keywords: ["Kelikaşivana Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal alan","tepe","coğrafya","flora","fauna","ziyaret"]

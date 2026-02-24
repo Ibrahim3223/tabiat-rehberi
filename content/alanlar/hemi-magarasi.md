@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Hemi Mağarası","caption":"Hemi Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Salome_marble%2C_Turkey.jpg/960px-Salome_marble%2C_Turkey.jpg","alt":"Hemi Mağarası","caption":"Hemi Mağarası","credit":"Salome marble, Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hemi%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319253","tip":"genel"}]
 description: "Mardin'de yer alan Hemi Mağarası, jeopark özellikleri ile dikkat çeker. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini bekliyor."
 keywords: ["Hemi Mağarası","Mardin","Jeopark","Doğal Alanlar","Turizm","Mardin Gezilecek Yerler","Mağaralar","Jeolojik Özellikler","Turistik Yerler"]

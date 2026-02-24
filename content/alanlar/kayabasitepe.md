@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Kayabaşıtepe","caption":"Kayabaşıtepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Kayabaşıtepe","caption":"Kayabaşıtepe","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayaba%C5%9F%C4%B1tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572985","tip":"genel"}]
 description: "Elazığ'da bulunan Kayabaşıtepe, doğa severlerin ziyaret ettiği bir dağ"
 keywords: ["Kayabaşıtepe","Elazığ","Dağ","Doğa","Türkiye","Gezi","Seyahat","Turizm","Coğrafya"]

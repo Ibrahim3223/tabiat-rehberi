@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Savese","caption":"Savese","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg/960px-H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg","alt":"Savese","caption":"Savese","credit":"Hürmetçi ve Erciyes","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Savese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21199392","tip":"genel"}]
 description: "Artvin'de bulunan Savese Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Savese","Artvin","Dağ","Doğa","Yeşil Cennet","Turizm","Gezi","Trekking","Doğal Güzellik"]

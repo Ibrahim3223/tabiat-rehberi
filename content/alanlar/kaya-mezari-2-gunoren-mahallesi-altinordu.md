@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yüzme","Güneşlenme","Doğa Yürüyüşü","Balık Avı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Kaya Mezarı 2 (Günören Mahallesi), Altınordu","caption":"Kaya Mezarı 2 (Günören Mahallesi), Altınordu","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_Lodos_Storm_%28December_2009%29_-_panoramio.jpg","alt":"Kaya Mezarı 2 (Günören Mahallesi), Altınordu","caption":"Kaya Mezarı 2 (Günören Mahallesi), Altınordu","credit":"Marmaris @ Lodos Storm (December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%202%20(G%C3%BCn%C3%B6ren%20Mahallesi)%2C%20Alt%C4%B1nordu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728214","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Altınordu'nun Kaya Mezarı 2 plajı"
 keywords: ["Altınordu plajları","Karadeniz Bölgesi turizm","Kaya Mezarı 2","Günören Mahallesi","Ordu turistik yerler","Karadeniz sahilleri","Altınordu gezilecek yerler","Plaj tatili"]

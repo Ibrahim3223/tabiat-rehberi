@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["dinî ziyaret","doğa yürüyüşü","deniz kenarında dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Karabıyık Dede Türbesi","caption":"Karabıyık Dede Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg","alt":"Karabıyık Dede Türbesi","caption":"Karabıyık Dede Türbesi","credit":"Akdeniz- the mediterranean-silence beach resort hotel - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karab%C4%B1y%C4%B1k%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390501","tip":"genel"}]
 description: "Dörtyol/Hatay'da yer alan Karabıyık Dede Türbesi, tarihi geçmişe sahip önemli bir dini mekân."
 keywords: ["Karabıyık Dede Türbesi","Dörtyol","Hatay","tarih","din","gezi","türbe","plaj"]

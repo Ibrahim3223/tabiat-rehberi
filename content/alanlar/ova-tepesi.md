@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["trekking","doğa yürüyüşü","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f0/Karamanbeli_Gecidi_20_08_1992_G%C3%B6l_Ovas%C4%B1_mit_Eren_Tepesi_2774_m_Getreide-Stoppelfelder.jpg","alt":"Ova Tepesi manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Ova Tepesi","caption":"Ova Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ova%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388487","tip":"genel"}]
 description: "Rize ilinin doğal güzelliklerini keşfedin, Ova Tepesi'ni ziyaret edin"

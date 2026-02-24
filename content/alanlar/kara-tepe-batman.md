@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotografcilik","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Kara-Tepe-Camp-Lesvos-Perimeter-%28c%29_O%27Leary-James.jpg","alt":"Kara Tepe (Batman) manzarası","credit":"Interface-Architect","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"Kara Tepe (Batman)","caption":"Kara Tepe (Batman)","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Kara_Tepe%2C_Frieze_of_an_elephant.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Kara_Tepe%2C_Frieze_of_an_elephant.jpg","alt":"Kara Tepe (Batman) - Kara Tepe, Frieze of an elephant","credit":"Nicoletta Stofkoper","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Tepe%20(Batman)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517660","tip":"genel"}]
 description: "Batman'da yer alan Kara Tepe, doğa severler için önemli bir destinasyon. 1200 hektarlık yeşil alanıyla dikkat çeker."

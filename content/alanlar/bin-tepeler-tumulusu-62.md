@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tümülüs gezisi","flora ve fauna gözlemi","rehberli turlar"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Bin Tepeler Tümülüsü 62","caption":"Bin Tepeler Tümülüsü 62","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg","alt":"Bin Tepeler Tümülüsü 62","caption":"Bin Tepeler Tümülüsü 62","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (4)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2062","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728302","tip":"genel"}]
 description: "Ahmetli, Manisa'da bulunan Bin Tepeler Tümülüsü 62, Ege Bölgesi'nin tarihi ve doğal güzelliklerini sunar."
 keywords: ["Bin Tepeler Tümülüsü 62","Ahmetli","Manisa","Ege Bölgesi","tarih","doğa","tümülüs","arkeoloji","gezi"]

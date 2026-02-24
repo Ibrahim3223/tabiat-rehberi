@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günde 4-5 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/14/Saklikent_Rocks_and_Sky.jpg","alt":"Antalya-Kas-Lengume Kızılçam 2","caption":"Antalya-Kas-Lengume Kızılçam 2","credit":"Saklikent Rocks and Sky.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg","alt":"Antalya-Kas-Lengume Kızılçam 2","caption":"Antalya-Kas-Lengume Kızılçam 2","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Kas-Lengume%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227304","tip":"genel"}]
 description: "Antalya'nın güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Antalya","Kas","Lengume Kızılçam 2","milli park","doğa","gezi","turizm","çevre","ekoloji"]

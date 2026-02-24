@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","manzara seyretme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece_at_Golden_Hour.jpg/960px-Lake_K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece_at_Golden_Hour.jpg","alt":"Gürgen Tepe","caption":"Gürgen Tepe","credit":"Lake Küçükçekmece at Golden Hour.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Gürgen Tepe","caption":"Gürgen Tepe","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrgen%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139581","tip":"genel"}]
 description: "İstanbul'un Marmara Bölgesi'nde yer alan Gürgen Tepe, ziyaretçilerine doğanın güzelliğini sunuyor."
 keywords: ["Gürgen Tepe","İstanbul","Marmara Bölgesi","doğa","gezi","tepe","manzara"]

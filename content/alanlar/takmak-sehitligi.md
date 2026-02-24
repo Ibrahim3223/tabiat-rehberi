@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["plajda güneşlenmek","denizde yüzmek","doğa yürüyüşleri yapmak","su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Takmak Şehitliği","caption":"Takmak Şehitliği","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg/960px-Karaburun%2C_%C4%B0zmir%2C_Turkey_-_panoramio_%288%29.jpg","alt":"Takmak Şehitliği","caption":"Takmak Şehitliği","credit":"Karaburun, İzmir, Turkey - panoramio (8)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Takmak%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728244","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden Uşak'ın Eşme ilçesinde bulunan Takmak Şehitliği, 140 hektarlık geniş bir alana yayılmış bir doğa harikası"
 keywords: ["Uşak","Eşme","Takmak Şehitliği","doğa","gezi","Ege Bölgesi","plaj","deniz"]

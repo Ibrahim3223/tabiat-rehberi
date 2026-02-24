@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Kabaağaçlı Tepe","caption":"Kabaağaçlı Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kessab30.jpg","alt":"Kabaağaçlı Tepe","caption":"Kabaağaçlı Tepe","credit":"Kessab30","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabaa%C4%9Fa%C3%A7l%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877373","tip":"genel"}]
 description: "Balıkesir'in doğal güzelliklerini keşfedin, Kabaağaçlı Tepe'de doğa ile baş başa kalın."
 keywords: ["Kabaağaçlı Tepe","Balıkesir","Dağ","Doğa","Turizm","Gezi","Seyahat","Balıkesir Gezilecek Yerler","Kabaağaçlı Tepe Nerede"]

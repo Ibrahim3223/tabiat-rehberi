@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Kızıl Mağara","caption":"Kızıl Mağara","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Geological_magazine_%281878%29_%2814741258826%29.jpg/960px-Geological_magazine_%281878%29_%2814741258826%29.jpg","alt":"Kızıl Mağara","caption":"Kızıl Mağara","credit":"Geological magazine (1878) (14741258826)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%20Ma%C4%9Fara","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319370","tip":"genel"}]
 description: "Hatay'da bulunan jeopark, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Kızıl Mağara","Hatay","Jeopark","Doğal Alan","Tarih","Turizm","Gezi","Mağara","Jeolojik Özellikler"]

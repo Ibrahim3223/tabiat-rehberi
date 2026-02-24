@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","trekking","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kırkamber Tepesi","caption":"Kırkamber Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Kırkamber Tepesi","caption":"Kırkamber Tepesi","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rkamber%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391202","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin önemli doğal alanlarından biri olan Kırkamber Tepesi, coğrafi güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kırkamber Tepesi","İç Anadolu Bölgesi","doğal alan","coğrafi güzellik","tarihi geçmişi","tepe","gezi","turizm","doğa"]

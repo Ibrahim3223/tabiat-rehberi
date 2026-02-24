@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kapuzbasi_Waterfall_-_panoramio.jpg/960px-Kapuzbasi_Waterfall_-_panoramio.jpg","alt":"Elbistan Tepesi","caption":"Elbistan Tepesi","credit":"Kapuzbasi Waterfall - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Elbistan Tepesi","caption":"Elbistan Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elbistan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385853","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerinden biri olan Elbistan Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Elbistan Tepesi","Kayseri","İç Anadolu Bölgesi","doğa","turizm","gezi","tepe"]

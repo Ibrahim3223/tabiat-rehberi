@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezme","Plajda dinlenme","Doğa yürüyüşü","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Şeyh Sinan Türbesi","caption":"Şeyh Sinan Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29_%28cropped%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%281%29_%28cropped%29.jpg","alt":"Şeyh Sinan Türbesi","caption":"Şeyh Sinan Türbesi","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (1) (cropped)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Sinan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390545","tip":"genel"}]
 description: "Antalya'nın Muratpaşa ilçesinde bulunan tarihi bir turbe ve plaj"
 keywords: ["Şeyh Sinan Türbesi","Muratpaşa","Antalya","Akdeniz Bölgesi","tarih","plaj","turizm","doğa","kültür"]

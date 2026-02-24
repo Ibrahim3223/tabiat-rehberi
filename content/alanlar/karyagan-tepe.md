@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg","alt":"Karyağan Tepe","caption":"Karyağan Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 07.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Karyağan Tepe","caption":"Karyağan Tepe","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karya%C4%9Fan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391000","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Karyağan Tepe, Akdeniz Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Karyağan Tepe","Kahramanmaraş","Akdeniz Bölgesi","doğal alan","tepe","coğrafya","flora","fauna"]

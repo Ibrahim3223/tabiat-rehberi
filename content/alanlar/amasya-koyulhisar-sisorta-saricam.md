@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Amasya-Koyulhisar-Sisorta Saricam","caption":"Amasya-Koyulhisar-Sisorta Saricam","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akdag_bridge.jpg/960px-Akdag_bridge.jpg","alt":"Amasya-Koyulhisar-Sisorta Saricam","caption":"Amasya-Koyulhisar-Sisorta Saricam","credit":"Akdag bridge","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Koyulhisar-Sisorta%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227545","tip":"genel"}]
 description: "Amasya'nın doğal güzellikleri arasında yer alan milli park"
 keywords: ["Amasya","milli park","Koyulhisar","Sisorta Saricam","Karadeniz Bölgesi","doğa","gezi","turizm"]

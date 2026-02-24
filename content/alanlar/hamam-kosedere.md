@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Denize girme","Güneşlenme","Doğa yürüyüşleri","Su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Hamam, Kösedere","caption":"Hamam, Kösedere","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg/960px-Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg","alt":"Hamam, Kösedere","caption":"Hamam, Kösedere","credit":"Panoramic view from hotel room in Rhodes island, Trianta, Greece","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20K%C3%B6sedere","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245857","tip":"genel"}]
 description: "Ayvacık'ın güzide plajlarından biri olan Hamam, Kösedere, Marmara Bölgesi'nde yer alır ve ziyaretçilerini büyüler."
 keywords: ["Hamam","Kösedere","Ayvacık","Çanakkale","Marmara Bölgesi","plaj","deniz","kumsal","turizm","gezi"]

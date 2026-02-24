@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda dinlenmek","tarihî yerleri gezmek","bitki türlerini keşfetmek","fauna ile karşılaşmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Muin-i Mustafa Dede Türbesi","caption":"Muin-i Mustafa Dede Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Muin-i Mustafa Dede Türbesi","caption":"Muin-i Mustafa Dede Türbesi","credit":"Sunset in Erdek","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Muin-i%20Mustafa%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390606","tip":"genel"}]
 description: "Afyonkarahisar'da historical bir plaj, Muin-i Mustafa Dede Türbesi'ni keşfedin"
 keywords: ["Muin-i Mustafa Dede Türbesi","Afyonkarahisar","Ege Bölgesi","plaj","tarih","doğa"]

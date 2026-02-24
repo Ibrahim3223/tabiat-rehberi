@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Kesikbaş Türbesi, Kastamonu","caption":"Kesikbaş Türbesi, Kastamonu","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg","alt":"Kesikbaş Türbesi, Kastamonu","caption":"Kesikbaş Türbesi, Kastamonu","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 03","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kesikba%C5%9F%20T%C3%BCrbesi%2C%20Kastamonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582716","tip":"genel"}]
 description: "Kastamonu'nun tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Kesikbaş Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Kesikbaş Türbesi","Kastamonu","Karadeniz Bölgesi","tarih","doğa","turizm","gezi","türk kültürü"]

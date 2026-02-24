@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Karpuz Tepesi","caption":"Karpuz Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Karpuz Tepesi","caption":"Karpuz Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karpuz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390086","tip":"genel"}]
 description: "Kırıkkale'nin görkemli doğası, Karpuz Tepesi"
 keywords: ["Karpuz Tepesi","Kırıkkale","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

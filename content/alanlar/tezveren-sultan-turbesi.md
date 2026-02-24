@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Yeşil alan gezintisi","Plaj aktiviteleri","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Tezveren Sultan Türbesi","caption":"Tezveren Sultan Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg","alt":"Tezveren Sultan Türbesi","caption":"Tezveren Sultan Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 16","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tezveren%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391677","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzellikleri arasında yer alan Tezveren Sultan Türbesi, ziyaretçiler için önemli bir destinasyon"
 keywords: ["Ankara","Türbe","Tarih","Doğa","Gezi","Türkiye","Anıtlar","Kültür"]

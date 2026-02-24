@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/G%C3%BCver_Canyon_Landscape_%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Landscape_%28Antalya%29.jpg","alt":"Geren Tepesi","caption":"Geren Tepesi","credit":"Güver Canyon Landscape (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Geren Tepesi","caption":"Geren Tepesi","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geren%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390175","tip":"genel"}]
 description: "Antalya'nın doğal güzellikleri arasında yer alan Geren Tepesi, ziyaretçilerini bekliyor. Doğal güzelliği ve tarihi önemiyle dikkat çeken bu tepe, ziyaretçilerine unutulmaz anlar yaşatıyor."
 keywords: ["Geren Tepesi","Antalya","doğa","tarih","gezi","turizm","tepe","manzara","ekoloji"]

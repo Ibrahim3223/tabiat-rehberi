@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_photos_of_Akda%C4%9F_2.jpg/960px-The_photos_of_Akda%C4%9F_2.jpg","alt":"Konya-Hadim Ardic","caption":"Konya-Hadim Ardic","credit":"The photos of Akdağ 2","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Konya-Hadim Ardic","caption":"Konya-Hadim Ardic","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Hadim%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227228","tip":"genel"}]
 description: "Konya'da yer alan Konya-Hadim Ardic, doğa severlerin ziyaret ettiği bir milli parktır."
 keywords: ["Konya-Hadim Ardic","milli park","Konya","doğa","turizm","gezi","çevre","ekosistem"]

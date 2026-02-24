@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihleme","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg","alt":"Karakoç Roma Hamamı","caption":"Karakoç Roma Hamamı","credit":"Süzer Sun Dreams Beach 13 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg/960px-2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg","alt":"Karakoç Roma Hamamı","caption":"Karakoç Roma Hamamı","credit":"2023-11-04 A view from Lycian Way near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karako%C3%A7%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739079","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin. Karakoç Roma Hamamı, Seferihisar'da yer alan tarihi bir mekan."
 keywords: ["Karakoç Roma Hamamı","Seferihisar","İzmir","Ege Bölgesi","tarih","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe öğrenmek","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Şehzadeler Türbesi ve Türbedar Odası","caption":"Şehzadeler Türbesi ve Türbedar Odası","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg","alt":"Şehzadeler Türbesi ve Türbedar Odası","caption":"Şehzadeler Türbesi ve Türbedar Odası","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (4)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehzadeler%20T%C3%BCrbesi%20ve%20T%C3%BCrbedar%20Odas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391693","tip":"genel"}]
 description: "Beşiktaş'ta bulunan tarihi türbe ve odası"
 keywords: ["türbe","tarih","Beşiktaş","İstanbul","Marmara Bölgesi","şehzadeler","tarihçe","coğrafya"]

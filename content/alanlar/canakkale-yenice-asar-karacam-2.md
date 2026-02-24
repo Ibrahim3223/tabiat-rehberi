@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Kuş İzleme","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gallipoli_Peninsula_Historical_National_Park_%286%29.jpg/960px-Gallipoli_Peninsula_Historical_National_Park_%286%29.jpg","alt":"Canakkale-Yenice-Asar Karacam 2","caption":"Canakkale-Yenice-Asar Karacam 2","credit":"Gallipoli Peninsula Historical National Park (6).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MOKFC01.jpg/960px-MOKFC01.jpg","alt":"Canakkale-Yenice-Asar Karacam 2","caption":"Canakkale-Yenice-Asar Karacam 2","credit":"MOKFC01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Yenice-Asar%20Karacam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227496","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan Canakkale-Yenice-Asar Karacam 2 Milli Parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Marmara Bölgesi","Çanakkale","Milli Park","Doğa","Yeşil Alan","Futbol Sahası"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Plaj","Deniz","Yürüyüş","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Sinan-ı Erdebilî Türbesi","caption":"Sinan-ı Erdebilî Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Sinan-ı Erdebilî Türbesi","caption":"Sinan-ı Erdebilî Türbesi","credit":"Muğla Province (45034554)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinan-%C4%B1%20Erdebil%C3%AE%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391679","tip":"genel"}]
 description: "İstanbul'un Zeytinburnu ilçesinde bulunan tarihi türbe ve plaj alanı"
 keywords: ["Sinan-ı Erdebilî","Türbe","Zeytinburnu","İstanbul","Marmara Bölgesi","Tarihi mekan","Plaj","Deniz"]

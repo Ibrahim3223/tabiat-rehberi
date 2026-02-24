@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe keşfi","doğa yürüyüşü","fotoğrafçılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Davud-i Kayseri Türbesi","caption":"Davud-i Kayseri Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Davud-i Kayseri Türbesi","caption":"Davud-i Kayseri Türbesi","credit":"Down by the sea - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davud-i%20Kayseri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390728","tip":"genel"}]
 description: "İznik'in tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["İznik","Davud-i Kayseri Türbesi","tarih","doğa","Marmara Bölgesi","Bursa","türbe","gezi"]

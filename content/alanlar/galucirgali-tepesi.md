@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","manzara izleme","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Galucirgali Tepesi","caption":"Galucirgali Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ida_Flooding_%289%29.jpg/960px-Ida_Flooding_%289%29.jpg","alt":"Galucirgali Tepesi","caption":"Galucirgali Tepesi","credit":"Ida Flooding (9)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Galucirgali%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554964","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin en yüksek noktalarından biri olan Galucirgali Tepesi, Batman ilinin doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Galucirgali Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","türkiye","coğrafya","flora","fauna"]

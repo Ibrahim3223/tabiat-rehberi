@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["plajda dinlenmek","doğayı seyretmek","tarihî mekanları ziyaret etmek","denizde yüzmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"İnadiye Baba Türbesi","caption":"İnadiye Baba Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_18.jpg","alt":"İnadiye Baba Türbesi","caption":"İnadiye Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 18","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0nadiye%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735154","tip":"genel"}]
 description: "İstanbul'un Fatih ilçesinde bulunan tarihi bir plaj ve türbe"
 keywords: ["İnadiye Baba Türbesi","Fatih","İstanbul","Marmara Bölgesi","plaj","tarih","turizm","gezi","doğa"]

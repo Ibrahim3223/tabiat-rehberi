@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Kaya Mezarı 2 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 2 (Tikenlice Mahallesi) Gürgentepe","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg","alt":"Kaya Mezarı 2 (Tikenlice Mahallesi) Gürgentepe","caption":"Kaya Mezarı 2 (Tikenlice Mahallesi) Gürgentepe","credit":"Marmaris @ LODOS Firtina-Lodos Sturm (Aralik-December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%202%20(Tikenlice%20Mahallesi)%20G%C3%BCrgentepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728203","tip":"genel"}]
 description: "Gürgentepe'nin doğal güzelliklerini keşfedin. Kaya Mezarı 2, Tikenlice Mahallesi'nde yer alan bir plaj"
 keywords: ["Kaya Mezarı 2","Tikenlice Mahallesi","Gürgentepe","Ordu","Karadeniz Bölgesi","plaj","doğal güzellik"]

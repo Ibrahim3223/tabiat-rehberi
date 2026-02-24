@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Baruthane Tümülüsleri İlkadım","caption":"Baruthane Tümülüsleri İlkadım","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff/lossy-page1-900px-Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff.jpg","alt":"Baruthane Tümülüsleri İlkadım","caption":"Baruthane Tümülüsleri İlkadım","credit":"Sea of Marmara - Admiralty Chart No 2836 Mediterranean Archipelago, Published 1863, Corrections to 1918 (cropped)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Baruthane%20T%C3%BCm%C3%BCl%C3%BCsleri%20%C4%B0lkad%C4%B1m","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728399","tip":"genel"}]
 description: "Samsun'un İlkadım ilçesinde yer alan Baruthane Tümülüsleri, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Baruthane Tümülüsleri","İlkadım","Samsun","tarihi yerler","doğa","turizm"]

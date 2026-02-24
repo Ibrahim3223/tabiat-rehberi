@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları gezmek","doğa yürüyüşü yapmak","bölgeyi tanımak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Hz. Zülkifl Türbesi","caption":"Hz. Zülkifl Türbesi","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dalyanbal%C4%B1ktuzak.jpg/960px-Dalyanbal%C4%B1ktuzak.jpg","alt":"Hz. Zülkifl Türbesi","caption":"Hz. Zülkifl Türbesi","credit":"Dalyanbalıktuzak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hz.%20Z%C3%BClkifl%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390770","tip":"genel"}]
 description: "Diyarbakır'ın Eğilçesinde bulunan Hz. Zülkifl Türbesi, coğrafi güzellikleri ve tarihi önemi ile dikkat çekiyor."
 keywords: ["Hz. Zülkifl Türbesi","Eğil","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","coğrafya","doğa","gezi"]

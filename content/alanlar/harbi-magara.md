@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Harbi Mağara","caption":"Harbi Mağara","credit":"A Geological Wonder in Nallıhan","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Subduction-en.svg/960px-Subduction-en.svg.png","alt":"Harbi Mağara","caption":"Harbi Mağara","credit":"Subduction-en","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Harbi%20Ma%C4%9Fara","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319232","tip":"genel"}]
 description: "Batman'da yer alan Harbi Mağara, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği keşfedin."
 keywords: ["Harbi Mağara","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Doğa","Batman Turistik Yerler"]

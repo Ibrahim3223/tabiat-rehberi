@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["Türbe gezisi","Plaj aktiviteleri","Doğa yürüyüşleri","Tarihi alan keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Şair Ahmet Paşa Türbesi","caption":"Şair Ahmet Paşa Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pirlanta_beach%2C_without_waves_october_2009_7_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_7_-_panoramio.jpg","alt":"Şair Ahmet Paşa Türbesi","caption":"Şair Ahmet Paşa Türbesi","credit":"Pirlanta beach, without waves october 2009 7 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eair%20Ahmet%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391702","tip":"genel"}]
 description: "Osmangazi, Bursa'da bulunan tarihi türbe ve plaj"
 keywords: ["Şair Ahmet Paşa","Türbe","Plaj","Osmangazi","Bursa","Marmara Bölgesi","Tarih","Doğa"]

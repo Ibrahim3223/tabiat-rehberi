@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Zonguldak-Bartin-Kurucasile Kestane","caption":"Zonguldak-Bartin-Kurucasile Kestane","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru_-_2.jpg","alt":"Zonguldak-Bartin-Kurucasile Kestane","caption":"Zonguldak-Bartin-Kurucasile Kestane","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru - 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Bartin-Kurucasile%20Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228502","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzellikleri arasında yer alan milli park."
 keywords: ["Zonguldak","Bartin","Kurucasile","Kestane","Milli Park","Karadeniz Bölgesi","Doğa","Turizm"]

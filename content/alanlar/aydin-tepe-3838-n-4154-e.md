@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Aydın Tepe","caption":"Aydın Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sis_da%C4%9F%C4%B1_%283%29.jpg/960px-Sis_da%C4%9F%C4%B1_%283%29.jpg","alt":"Aydın Tepe","caption":"Aydın Tepe","credit":"Sis dağı (3)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayd%C4%B1n%20Tepe%20(38.38%C2%B0%20N%2041.54%C2%B0%20E)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531301","tip":"genel"}]
 description: "Aydın Tepe, Türkiye'de 38.38° N 41.54° E koordinatlarında yer alan bir dağdır. Doğal güzellikleri ve coğrafi konumuyla dikkat çeker."
 keywords: ["Aydın Tepe","Dağ","Türkiye","Doğa","Coğrafya","Gezi","Seyahat","Türkiye'nin dağları","Doğal güzellikler"]

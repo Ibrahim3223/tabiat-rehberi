@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara izleme","Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg/960px-N%C3%AAz%C3%AEk%C3%AE_Qilwan%C3%AA_2.jpg","alt":"Hisadero Tepesi","caption":"Hisadero Tepesi","credit":"Nêzîkî Qilwanê 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Hisadero Tepesi","caption":"Hisadero Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hisadero%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554245","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerini keşfedin. Hisadero Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Mardin","Hisadero Tepesi","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","coğrafya","flora","fauna"]

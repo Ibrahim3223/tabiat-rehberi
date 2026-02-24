@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","canlı gözlem"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"ALTINAPA ŞEHİR ORMANI","caption":"ALTINAPA ŞEHİR ORMANI","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"ALTINAPA ŞEHİR ORMANI","caption":"ALTINAPA ŞEHİR ORMANI","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ALTINAPA%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228700","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğa harikalarından biri olan Altınapa Şehir Ormanı, 140 hektarlık geniş bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alandır."
 keywords: ["Altınapa Şehir Ormanı","İç Anadolu Bölgesi","şehir ormanı","doğa alanı","yeşil alan","orman","doğal yaşam","çevre"]

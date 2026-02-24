@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Turbe ziyaret","Plaj keyfi","Doğa yürüyüşü","Deniz suyu aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Hacım Sultan Türbesi","caption":"Hacım Sultan Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Istanbul_beaches-_Sea_of_Marmara_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_05.jpg","alt":"Hacım Sultan Türbesi","caption":"Hacım Sultan Türbesi","credit":"Istanbul beaches- Sea of Marmara 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1m%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391391","tip":"genel"}]
 description: "Ege Bölgesi'nde yer alan Hacım Sultan Türbesi, Uşak'ın Sivaslı ilçesinde bulunmaktadır. Tarihi ve doğal güzellikleri bir araya getiren bu bölge, ziyaretçilerine unutulmaz anlar sunar."
 keywords: ["Hacım Sultan Türbesi","Uşak","Sivaslı","Ege Bölgesi","tarih","doğa","gezi","turizm","kültür"]

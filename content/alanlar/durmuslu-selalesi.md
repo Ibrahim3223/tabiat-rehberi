@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["şelale gezi","doğa yürüyüşü","yaban hayatı gözlemi","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_ve_Etraf%C4%B1ndaki_Ya%C5%9Fl%C4%B1_A%C4%9Fa%C3%A7lar.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_ve_Etraf%C4%B1ndaki_Ya%C5%9Fl%C4%B1_A%C4%9Fa%C3%A7lar.jpg","alt":"Durmuşlu Şelalesi","caption":"Durmuşlu Şelalesi","credit":"Kurşunlu Şelalesi Tabiat Parkı ve Etrafındaki Yaşlı Ağaçlar.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Aksu_%C3%87ay%C4%B1_-_Giresun_01.JPG/960px-Aksu_%C3%87ay%C4%B1_-_Giresun_01.JPG","alt":"Durmuşlu Şelalesi","caption":"Durmuşlu Şelalesi","credit":"Aksu Çayı - Giresun 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Durmu%C5%9Flu%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130367069","tip":"genel"}]
 description: "Gümüşhane'nin doğal güzelliklerinden biri olan Durmuşlu Şelalesi, ziyaretçilerini büyülemektedir."
 keywords: ["Gümüşhane","Karadeniz Bölgesi","şelale","doğa","gezi","turizm","Gümüşhane gezilecek yerler","şelaleler","doğal güzellikler"]

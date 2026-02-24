@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Darülhadis Camii Açık Türbe","caption":"Darülhadis Camii Açık Türbe","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Darülhadis Camii Açık Türbe","caption":"Darülhadis Camii Açık Türbe","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dar%C3%BClhadis%20Camii%20A%C3%A7%C4%B1k%20T%C3%BCrbe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391252","tip":"genel"}]
 description: "Edirne'nin tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Edirne","tarih","doğa","Darülhadis Camii","Açık Türbe","Marmara Bölgesi","plaj","gezi"]

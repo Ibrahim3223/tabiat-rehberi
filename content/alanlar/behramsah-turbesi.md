@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğraf çekme","doğa ile iç içe olma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Behramşah Türbesi","caption":"Behramşah Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Istanbul_beaches-_Sea_of_Marmara_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_04.jpg","alt":"Behramşah Türbesi","caption":"Behramşah Türbesi","credit":"Istanbul beaches- Sea of Marmara 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Behram%C5%9Fah%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391370","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli hazinesi, Kemah'ta tarihi ve doğal güzelliğin birleştiği yer"
 keywords: ["Behramşah Türbesi","Kemah","Erzincan","Doğu Anadolu Bölgesi","tarihi mekan","doğal güzellik","tarihçe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Gökgören Dağı","caption":"Gökgören Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Gökgören Dağı","caption":"Gökgören Dağı","credit":"Gelincik Dagi Manzara","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kg%C3%B6ren%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872127","tip":"genel"}]
 description: "Bitlis'in görkemli dağlarından biri olan Gökgören Dağı, 1200 hektarlık yeşil cenneti ve doğa güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Gökgören Dağı","Bitlis","Dağ","Doğa","Yeşil Cennet","Turizm","Gezi","Seyahat","Doğa Sporları"]

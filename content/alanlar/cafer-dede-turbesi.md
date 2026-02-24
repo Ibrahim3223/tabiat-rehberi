@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî mekanları gezmek","Doğa yürüyüşü","Fotoğraf çekmek","Kültürel etkinliklere katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Cafer Dede Türbesi","caption":"Cafer Dede Türbesi","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/960px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg","alt":"Cafer Dede Türbesi","caption":"Cafer Dede Türbesi","credit":"Map of Greece, Archipelago and part of Anadoli; Louis Stanislas d'Arcy Delarochette 1791","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cafer%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391536","tip":"genel"}]
 description: "Kütahya'nın tarihi ve doğal güzellikleri arasında yer alan Cafer Dede Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Cafer Dede Türbesi","Kütahya","Ege Bölgesi","tarih","doğa","gezi","türk kültürü","tarihî mekanlar"]

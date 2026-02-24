@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Ömer Sıkkini Türbesi","caption":"Ömer Sıkkini Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Altincamp_20140729_Sunset.jpg/960px-Altincamp_20140729_Sunset.jpg","alt":"Ömer Sıkkini Türbesi","caption":"Ömer Sıkkini Türbesi","credit":"Altincamp 20140729 Sunset","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96mer%20S%C4%B1kkini%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390706","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Ömer Sıkkini Türbesi, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Ömer Sıkkini Türbesi","Göynük","Bolu","Karadeniz Bölgesi","tarih","doğa","gezi"]

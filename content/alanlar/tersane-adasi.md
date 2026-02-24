@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Tersane Adası","caption":"Tersane Adası","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sunset_at_Sapl%C4%B1_Adas%C4%B1_-_Flickr_-_faktor1komma5.jpg/960px-Sunset_at_Sapl%C4%B1_Adas%C4%B1_-_Flickr_-_faktor1komma5.jpg","alt":"Tersane Adası","caption":"Tersane Adası","credit":"Sunset at Saplı Adası - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tersane%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30632378","tip":"genel"}]
 description: "Muğla'da bulunan Tersane Adası, Q207998 bölgesinde yer alıyor. Doğal güzellikleri keşfedin!"
 keywords: ["Tersane Adası","Muğla","Q207998","ada","doğal güzellik","gezi","seyahat","turizm","Muğla adaları"]

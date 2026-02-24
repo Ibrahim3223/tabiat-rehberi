@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşü","Flora gözlemi","Fauna gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Kastamonu-Golkoy Piramidal Karacam","caption":"Kastamonu-Golkoy Piramidal Karacam","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Kastamonu-Golkoy Piramidal Karacam","caption":"Kastamonu-Golkoy Piramidal Karacam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Golkoy%20Piramidal%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227682","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin. 140 hektarlık bu milli park, yaban hayatının zenginliğini sunar."
 keywords: ["Kastamonu","Golkoy","Piramidal Karacam","milli park","yaban hayatı","doğa","gezi"]

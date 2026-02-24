@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Helva Köyü Buz Mağarası","caption":"Helva Köyü Buz Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Caucasus_Geology_EN.svg/960px-Caucasus_Geology_EN.svg.png","alt":"Helva Köyü Buz Mağarası","caption":"Helva Köyü Buz Mağarası","credit":"Caucasus Geology EN","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Helva%20K%C3%B6y%C3%BC%20Buz%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319251","tip":"genel"}]
 description: "Bayburt'ta yer alan Helva Köyü Buz Mağarası, Türkiye'nin en önemli jeoparklarından biri. Doğal güzelliği ve jeolojik özellikleri ile dikkat çekiyor."
 keywords: ["Helva Köyü Buz Mağarası","Bayburt","Jeopark","Doğal Anıtlar","Mağara","Turizm","Gezi","Doğa","Jeoloji","Türkiye"]

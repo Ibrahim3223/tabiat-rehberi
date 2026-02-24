@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Kabak Tepe","caption":"Kabak Tepe","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Kabak Tepe","caption":"Kabak Tepe","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabak%20Tepe%20(Hatay%2C%2036.61%2C%2036.23)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538374","tip":"genel"}]
 description: "Hatay'da bulunan Kabak Tepe, 36.61 ve 36.23 koordinatlarında yer alan bir dağdır. Doğal güzelliği ve tarihi önemiyle dikkat çeker."
 keywords: ["Kabak Tepe","Hatay","Dağ","Doğa","Tarih","Gezi","Seyahat","Koordinat","Harita","Turizm"]

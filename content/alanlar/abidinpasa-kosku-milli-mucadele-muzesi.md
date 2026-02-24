@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Rehberli tur","Tarih öğrenimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Abidinpaşa Köşkü Milli Mücadele Müzesi","caption":"Abidinpaşa Köşkü Milli Mücadele Müzesi","credit":"..... - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Anti-Taurus_Mountains_-_panoramio.jpg/960px-Anti-Taurus_Mountains_-_panoramio.jpg","alt":"Abidinpaşa Köşkü Milli Mücadele Müzesi","caption":"Abidinpaşa Köşkü Milli Mücadele Müzesi","credit":"Anti-Taurus Mountains - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abidinpa%C5%9Fa%20K%C3%B6%C5%9Fk%C3%BC%20Milli%20M%C3%BCcadele%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950216","tip":"genel"}]
 description: "Ankara'nın tarihini keşfedin, Abidinpaşa Köşkü Milli Mücadele Müzesi'ni ziyaret edin"
 keywords: ["Ankara","Milli Mücadele","Müze","Tarih","Abidinpaşa Köşkü","Kurtuluş Savaşı"]

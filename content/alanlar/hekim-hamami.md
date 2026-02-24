@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","güneşlenme","su sporları","deniz kenarında yürüyüş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/S%C3%BCzer_Sun_Dreams_Beach_14_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_14_-_panoramio.jpg","alt":"Hekim Hamamı","caption":"Hekim Hamamı","credit":"Süzer Sun Dreams Beach 14 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Maden_Koyu_Beach_2021-11-13-2.jpg/960px-Maden_Koyu_Beach_2021-11-13-2.jpg","alt":"Hekim Hamamı","caption":"Hekim Hamamı","credit":"Maden Koyu Beach 2021-11-13-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hekim%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738410","tip":"genel"}]
 description: "İzmir'in Tire ilçesinde bulunan Hekim Hamamı, Ege Bölgesi'nin en güzel plajlarından biri"
 keywords: ["Tire","İzmir","Ege Bölgesi","plaj","deniz","kum","güneş"]

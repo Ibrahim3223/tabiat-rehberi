@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MOKM63.jpg/960px-MOKM63.jpg","alt":"Movri Şelalesi","caption":"Movri Şelalesi","credit":"MOKM63.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kursunlu_Waterfall_2.jpg/960px-Kursunlu_Waterfall_2.jpg","alt":"Movri Şelalesi","caption":"Movri Şelalesi","credit":"Kursunlu Waterfall 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Movri%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97212083","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerinin başında gelen Movri Şelalesi, ziyaretçilerini büyülüyor."
 keywords: ["Movri Şelalesi","Rize","Karadeniz Bölgesi","şelale","doğa","gezi","turizm"]

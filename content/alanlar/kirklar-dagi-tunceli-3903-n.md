@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Kırklar Dağı","caption":"Kırklar Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kessab30.jpg","alt":"Kırklar Dağı","caption":"Kırklar Dağı","credit":"Kessab30","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rklar%20Da%C4%9F%C4%B1%20(Tunceli%2C%2039.03%20N)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514816","tip":"genel"}]
 description: "Tunceli'nin en önemli doğal güzelliklerinden biri olan Kırklar Dağı, 39.03 N enleminde yer alır."
 keywords: ["Kırklar Dağı","Tunceli","Dağ","Doğa","Tunceli Turizm","Kırklar Dağı Tunceli","Tunceli Doğal Güzellikleri","Dağcılık","Tunceli Gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Dedeköy Camii Türbesi","caption":"Dedeköy Camii Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gallipoli_ANZAC_Cove_2.JPG/960px-Gallipoli_ANZAC_Cove_2.JPG","alt":"Dedeköy Camii Türbesi","caption":"Dedeköy Camii Türbesi","credit":"Gallipoli ANZAC Cove 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedek%C3%B6y%20Camii%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391393","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzellikleriyle dolu Çivril'de bulunan Dedeköy Camii Türbesi, tarihi ve coğrafi zenginlikleriyle dikkat çekiyor."
 keywords: ["Dedeköy Camii Türbesi","Çivril","Denizli","Ege Bölgesi","doğa","tarih","gezi","turizm","kültür"]

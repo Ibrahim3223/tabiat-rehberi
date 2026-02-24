@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2514.jpg","alt":"Eşmekaya Bataklığı Sit Alanı","caption":"Eşmekaya Bataklığı Sit Alanı","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Eşmekaya Bataklığı Sit Alanı","caption":"Eşmekaya Bataklığı Sit Alanı","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C5%9Fmekaya%20Batakl%C4%B1%C4%9F%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226225","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Eşmekaya Bataklığı Sit Alanı"
 keywords: ["Eşmekaya Bataklığı","Sit Alanı","İç Anadolu Bölgesi","Doğa","Turizm","Çevre","Koruma","Bataklık"]

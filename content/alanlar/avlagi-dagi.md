@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Avlağı Dağı","caption":"Avlağı Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg/960px-Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg","alt":"Avlağı Dağı","caption":"Avlağı Dağı","credit":"Aladağlara Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avla%C4%9F%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531468","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Avlağı Dağı, doğa severler için bir çekim merkezi."
 keywords: ["Avlağı Dağı","Türkiye dağları","doğa turizmi","dağcılık","Avlağı Dağı trekking","Türkiye coğrafyası","dağ gezi rehberi","Avlağı Dağı hakkında","Avlağı Dağı nerede"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografçılık","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Aigai Diaphenes Mezar Anıtı","caption":"Aigai Diaphenes Mezar Anıtı","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg/960px-Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg","alt":"Aigai Diaphenes Mezar Anıtı","caption":"Aigai Diaphenes Mezar Anıtı","credit":"Aerial view of destruction in Beach refugee camp, Gaza Strip","license":"CC BY-SA 3.0 igo"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aigai%20Diaphenes%20Mezar%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728128","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Manisa'nın Yunusemre ilçesinde bulunan Aigai Diaphenes Mezar Anıtı"
 keywords: ["Aigai Diaphenes Mezar Anıtı","Manisa","Yunusemre","Ege Bölgesi","tarih","mezar anıtı","kültür"]

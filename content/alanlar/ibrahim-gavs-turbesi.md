@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihsel araştırma","doğa yürüyüşü","fotografcılık","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"İbrahim Gavsî Türbesi","caption":"İbrahim Gavsî Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Istanbul_beaches-_Sea_of_Marmara_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_05.jpg","alt":"İbrahim Gavsî Türbesi","caption":"İbrahim Gavsî Türbesi","credit":"Istanbul beaches- Sea of Marmara 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0brahim%20Gavs%C3%AE%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582713","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin tarihi ve doğal güzelliklerini barındıran İbrahim Gavsî Türbesi, Safranbolu'nun önemli ziyaret noktalarından biri."
 keywords: ["İbrahim Gavsî Türbesi","Safranbolu","Karabük","Karadeniz Bölgesi","tarih","doğa","türbe"]

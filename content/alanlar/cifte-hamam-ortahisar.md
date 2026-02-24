@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğayı seyretmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Çifte Hamam, Ortahisar","caption":"Çifte Hamam, Ortahisar","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_11.jpg","alt":"Çifte Hamam, Ortahisar","caption":"Çifte Hamam, Ortahisar","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 11","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ifte%20Hamam%2C%20Ortahisar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245803","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide ilçelerinden biri olan Ortahisar'da yer alan Çifte Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Çifte Hamam","Ortahisar","Karadeniz Bölgesi","Trabzon","yeşil alan","futbol sahası"]

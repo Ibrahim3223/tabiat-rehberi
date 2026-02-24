@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih ve kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg","alt":"Göbel Tepesi","caption":"Göbel Tepesi","credit":"The Landscape of Sıklık Gate.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/East_elevation._View_looking_northwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-6.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Göbel Tepesi","caption":"Göbel Tepesi","credit":"East elevation. View looking northwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-6","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6bel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34871846","tip":"genel"}]
 description: "Çorum'un güzide tepeleri arasında yer alan Göbel Tepesi, doğa severlerin gözde mekanlarından biri"
 keywords: ["Göbel Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

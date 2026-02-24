@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğraf çekimi","Tarih ve kültür gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kurbanlık Tepe","caption":"Kurbanlık Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Kurbanlık Tepe","caption":"Kurbanlık Tepe","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurbanl%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387024","tip":"genel"}]
 description: "Sinop'un tarihi ve doğal güzellikleri arasında yer alan Kurbanlık Tepe, ziyaretçilerini bekliyor."
 keywords: ["Kurbanlık Tepe","Sinop","Karadeniz Bölgesi","doğal güzellik","tarih","gezi","turizm","coğrafya"]

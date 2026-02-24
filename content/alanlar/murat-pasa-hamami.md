@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Gezi","Tarihleme","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/8/88/Sadrazam_Seyyit_Hasan_Pa%C5%9Fa_%C3%87e%C5%9Fme_ve_Sebili_%C3%B6n_cepheden_g%C3%B6r%C3%BCn%C3%BC%C5%9F.jpg","alt":"Murat Paşa Hamamı manzarası","credit":"Hasibe Durmaz","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Murat Paşa Hamamı","caption":"Murat Paşa Hamamı","credit":"Old Pier","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Murat%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738422","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir arada sunan Murat Paşa Hamamı, Erzurum'un Yakutiye ilçesinde yer alır."

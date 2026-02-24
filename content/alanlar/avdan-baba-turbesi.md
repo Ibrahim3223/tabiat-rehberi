@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve plaj gezi","Doğa yürüyüşü","Fotoğraf çekimi","Tarihi araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Avdan Baba Türbesi","caption":"Avdan Baba Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg/960px-2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg","alt":"Avdan Baba Türbesi","caption":"Avdan Baba Türbesi","credit":"2023-11-04 A view from Lycian Way near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avdan%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391577","tip":"genel"}]
 description: "Denizli'nin Tavas ilçesinde bulunan tarihi bir türbe ve plaj alanı"
 keywords: ["Tavas","Denizli","Avdan Baba","Türbe","Plaj","Ege Bölgesi","Tarihi mekanlar","Doğa alanları","Gezi noktaları"]

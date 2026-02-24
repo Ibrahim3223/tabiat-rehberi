@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve tarihi eserleri gezmek","Doğa yürüyüşü","Kültürel miras öğrenmek","Fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Hacı Abdullah Efendi Türbesi","caption":"Hacı Abdullah Efendi Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg/960px-Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg","alt":"Hacı Abdullah Efendi Türbesi","caption":"Hacı Abdullah Efendi Türbesi","credit":"Manzara Aralik 2009 (GÖKOVA) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Abdullah%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391190","tip":"genel"}]
 description: "Konya'nın Seydişehir ilçesinde yer alan tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Hacı Abdullah Efendi Türbesi","Seydişehir","Konya","tarih","doğa","gezi","türbe","kültür","iç Anadolu"]

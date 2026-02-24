@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezinti","doğa yürüyüşü","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Aşkındırhüyüğü","caption":"Aşkındırhüyüğü","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Aşkındırhüyüğü","caption":"Aşkındırhüyüğü","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9Fk%C4%B1nd%C4%B1rh%C3%BCy%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32131473","tip":"genel"}]
 description: "Hatay'da yer alan Aşkındırhüyüğü, zengin tarihi ve doğal güzellikleriyle dikkat çeker."
 keywords: ["Aşkındırhüyüğü","Hatay","Akdeniz Bölgesi","tarih","doğa","gezi","turizm","kültür","coğrafya"]

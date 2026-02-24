@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Piknik","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yelatan_Alada%C4%9Flar_Lake.jpg/960px-Yelatan_Alada%C4%9Flar_Lake.jpg","alt":"Leskeri Tepesi","caption":"Leskeri Tepesi","credit":"Yelatan Aladağlar Lake.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Leskeri Tepesi","caption":"Leskeri Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Leskeri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385554","tip":"genel"}]
 description: "Niğde'de yer alan Leskeri Tepesi, İç Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Leskeri Tepesi","Niğde","İç Anadolu Bölgesi","doğal güzellik","yeşil alan","fiziksel veriler"]

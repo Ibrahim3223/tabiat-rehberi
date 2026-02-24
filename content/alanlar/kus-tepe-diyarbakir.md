@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Kuş Tepe (Diyarbakır)","caption":"Kuş Tepe (Diyarbakır)","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Kuş Tepe (Diyarbakır)","caption":"Kuş Tepe (Diyarbakır)","credit":"Gelincik Dagi Manzara","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9F%20Tepe%20(Diyarbak%C4%B1r)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573095","tip":"genel"}]
 description: "Diyarbakır'da yer alan Kuş Tepe, bölgenin önemli dağlarından biri. Doğal güzelliği ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Kuş Tepe","Diyarbakır","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Coğrafya"]

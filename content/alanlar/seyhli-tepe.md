@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Kampçılık","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Şeyhli Tepe","caption":"Şeyhli Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Şeyhli Tepe","caption":"Şeyhli Tepe","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385461","tip":"genel"}]
 description: "Erzurum'un doğal güzellikleri arasında yer alan Şeyhli Tepe, ziyaretçilerini büyüleyen bir doğa harikasıdır."
 keywords: ["Şeyhli Tepe","Erzurum","Doğu Anadolu Bölgesi","Doğa","Tarih","Coğrafya","Flora","Fauna","Ziyaret"]

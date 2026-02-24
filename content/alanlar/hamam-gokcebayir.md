@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük ziyaret"
 aktiviteler: ["Yüzme","Güneşlenme","Piknik","Doğa seyretme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Hamam, Gökçebayır","caption":"Hamam, Gökçebayır","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg","alt":"Hamam, Gökçebayır","caption":"Hamam, Gökçebayır","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 17","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20G%C3%B6k%C3%A7ebay%C4%B1r","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245755","tip":"genel"}]
 description: "Ezine'de yer alan Hamam, Gökçebayır plajı, doğal güzelliği ve sakin atmosferi ile ziyaretçilerini bekliyor."
 keywords: ["Ezine","Gökçebayır","plaj","doğa","gezi","turizm","yerel","kültür","deniz"]

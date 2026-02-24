@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","tarihî mekanları keşfetmek","bitki türlerini incelemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Burdur-Bucak-Melli Sedir","caption":"Burdur-Bucak-Melli Sedir","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Burdur-Bucak-Melli Sedir","caption":"Burdur-Bucak-Melli Sedir","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Bucak-Melli%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227211","tip":"genel"}]
 description: "Akdeniz Bölgesi'nde yer alan Burdur-Bucak-Melli Sedir, 140 hektarlık yeşil alanı ve çeşitli bitki türleriyle cezbediyor."
 keywords: ["Burdur","Bucak","Melli Sedir","milli park","Akdeniz Bölgesi","doğa","yeşil alan","bitki türleri"]

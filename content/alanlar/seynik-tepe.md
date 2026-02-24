@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Şeynik Tepe","caption":"Şeynik Tepe","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Şeynik Tepe","caption":"Şeynik Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeynik%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553201","tip":"genel"}]
 description: "Batman'da yer alan Şeynik Tepe, doğal güzellikleri ile dikkat çeker. 1400 metre yükseklikte bulunan tepe, trekking ve doğa yürüyüşü için idealdir."
 keywords: ["Şeynik Tepe","Batman","Dağ","Trekking","Doğa Yürüyüşü","Doğal Güzellik","Yayla","Turizm","Gezi"]

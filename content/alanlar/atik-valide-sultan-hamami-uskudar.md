@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi hamam gezisi","Mimari keşif","Kültür mirası gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Atik Valide Sultan Hamamı, Üsküdar","caption":"Atik Valide Sultan Hamamı, Üsküdar","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mediterranean_Swim_-_Imperal_Camel_Corps_%2816879047617%29.jpg/960px-Mediterranean_Swim_-_Imperal_Camel_Corps_%2816879047617%29.jpg","alt":"Atik Valide Sultan Hamamı, Üsküdar","caption":"Atik Valide Sultan Hamamı, Üsküdar","credit":"Mediterranean Swim - Imperal Camel Corps (16879047617)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atik%20Valide%20Sultan%20Hamam%C4%B1%2C%20%C3%9Csk%C3%BCdar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738577","tip":"genel"}]
 description: "Üsküdar'ın tarihi hamamlarından biri olan Atik Valide Sultan Hamamı, Marmara Bölgesi'nde yer alır."
 keywords: ["Atik Valide Sultan Hamamı","Üsküdar","İstanbul","Marmara Bölgesi","Tarihi Hamamlar","Turistik Yerler","Kültür Mirası","Hamam Kültürü"]

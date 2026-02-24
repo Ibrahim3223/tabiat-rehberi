@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi gezisi","doğa yürüyüşü","fotografcılık","çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Taşköprüzade Hayrettin Halil Bin Kasım Türbesi","caption":"Taşköprüzade Hayrettin Halil Bin Kasım Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Istanbul_beaches-_Sea_of_Marmara_03.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_03.jpg","alt":"Taşköprüzade Hayrettin Halil Bin Kasım Türbesi","caption":"Taşköprüzade Hayrettin Halil Bin Kasım Türbesi","credit":"Istanbul beaches- Sea of Marmara 03","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fk%C3%B6pr%C3%BCzade%20Hayrettin%20Halil%20Bin%20Kas%C4%B1m%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391761","tip":"genel"}]
 description: "Kastamonu'nun tarihi ve doğal güzellikleri arasında yer alan Taşköprüzade Hayrettin Halil Bin Kasım Türbesi"
 keywords: ["Taşköprüzade","Hayrettin Halil Bin Kasım","Kastamonu","Küre","Karadeniz Bölgesi","tarihi mekanlar","doğal güzellikler"]

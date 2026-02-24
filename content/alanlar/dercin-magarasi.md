@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Milanovac_--_2022_--_0257.jpg/960px-Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Milanovac_--_2022_--_0257.jpg","alt":"Dercin Mağarası","caption":"Dercin Mağarası","credit":"Lika-Senj (HR), Plitvicer Seen, Milanovac -- 2022 -- 0257","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0b/2023-02-06_%C3%87elikhan%2C_Turkey_M6_earthquake_shakemap_%28USGS%29.jpg","alt":"Dercin Mağarası","caption":"Dercin Mağarası","credit":"2023-02-06 Çelikhan, Turkey M6 earthquake shakemap (USGS)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dercin%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319120","tip":"genel"}]
 description: "Batman'da yer alan Dercin Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin."
 keywords: ["Dercin Mağarası","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Doğa","Batman Turistik Yerler"]

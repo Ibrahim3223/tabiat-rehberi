@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Tabiat Parkı","caption":"Tabiat Parkı","credit":"Peyto Lake-Banff NP-Canada.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Harmankaya_Tabiat_Park%C4%B1.jpg/960px-Harmankaya_Tabiat_Park%C4%B1.jpg","alt":"Tabiat Parkı","caption":"Tabiat Parkı","credit":"Harmankaya Tabiat Parkı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eablon%3AT%C3%BCrkiye'deki%20tabiat%20parklar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan tabiat parkı, doğal güzellikleri ve zengin ekosistemiyle ziyaretçilerini bekliyor."
 keywords: ["tabiat parkı","İç Anadolu Bölgesi","doğal güzellikler","ekosistem","turizm","çevre","koruma"]

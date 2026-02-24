@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî yapıları gezmek","doğal güzellikleri izlemek","dini törenlere katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Şeyh Hocenti Türbesi","caption":"Şeyh Hocenti Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Istanbul_beaches-_Sea_of_Marmara_01.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_01.jpg","alt":"Şeyh Hocenti Türbesi","caption":"Şeyh Hocenti Türbesi","credit":"Istanbul beaches- Sea of Marmara 01","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Hocenti%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582353","tip":"genel"}]
 description: "Konya'nın Çumra ilçesinde bulunan tarihi bir türbe ve plaj"
 keywords: ["Şeyh Hocenti Türbesi","Çumra","Konya","tarih","türbe","plaj","İç Anadolu Bölgesi"]

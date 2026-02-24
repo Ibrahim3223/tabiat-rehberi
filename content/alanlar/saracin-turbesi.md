@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları gezmek","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Saracın Türbesi","caption":"Saracın Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Saracın Türbesi","caption":"Saracın Türbesi","credit":"Karaburun - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sarac%C4%B1n%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391659","tip":"genel"}]
 description: "Sivas'ın Divriği ilçesinde yer alan Saracın Türbesi, tarihi ve doğal güzellikleri bir arada sunan bir destinasyon."
 keywords: ["Saracın Türbesi","Divriği","Sivas","tarihi mekanlar","doğa","turizm"]

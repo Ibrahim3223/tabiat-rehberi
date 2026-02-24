@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snow_on_the_Lake_Abant.jpg/960px-Snow_on_the_Lake_Abant.jpg","alt":"Konya-Ermenek-Kazanci Sedir 1","caption":"Konya-Ermenek-Kazanci Sedir 1","credit":"Snow on the Lake Abant","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Konya-Ermenek-Kazanci Sedir 1","caption":"Konya-Ermenek-Kazanci Sedir 1","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Ermenek-Kazanci%20Sedir%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227611","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin, Ermenek-Kazancı Sedir 1 milli parkı"
 keywords: ["Konya","Ermenek","Kazancı","Sedir","milli park","doğa","gezi","turizm"]

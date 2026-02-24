@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Soğan Tepe","caption":"Soğan Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Soğan Tepe","caption":"Soğan Tepe","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386446","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde, Kilis'te bulunan Soğan Tepe, coğrafi güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Soğan Tepe","Kilis","Güneydoğu Anadolu Bölgesi","coğrafi güzellik","tarihi geçmişi","turizm","doğa","gezilecek yerler"]

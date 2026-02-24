@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Çehrelisuru","caption":"Çehrelisuru","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"Çehrelisuru","caption":"Çehrelisuru","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ehrelisuru","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824546","tip":"genel"}]
 description: "Hatay'da bulunan Çehrelisuru, doğal güzellikleri ve trekking rotalarıyla dikkat çeken bir dağ"
 keywords: ["Çehrelisuru","Hatay","Dağ","Doğa","Trekking","Gezi","Turizm","Yürüyüş","Manzara"]

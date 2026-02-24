@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","kültürel gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kabakgediği Tepesi","caption":"Kabakgediği Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Kabakgediği Tepesi","caption":"Kabakgediği Tepesi","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabakgedi%C4%9Fi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536806","tip":"genel"}]
 description: "Kilis'in doğal güzelliklerinden biri olan Kabakgediği Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kabakgediği Tepesi","Kilis","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi"]

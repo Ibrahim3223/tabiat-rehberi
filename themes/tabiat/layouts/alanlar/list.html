@@ -243,12 +243,25 @@
         if (window.lucide) lucide.createIcons();
     }
 
+    // Stable daily shuffle: same order for all users on the same day
+    function seededShuffle(arr) {
+        const seed = Math.floor(Date.now() / 86400000); // changes daily
+        let s = seed;
+        const a = arr.slice();
+        for (let i = a.length - 1; i > 0; i--) {
+            s = (s * 1664525 + 1013904223) & 0xffffffff;
+            const j = Math.abs(s) % (i + 1);
+            [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+    }
+
     // Fetch JSON index
     fetch('/index.json')
         .then(r => r.json())
         .then(data => {
-            allAreas = data;
-            filtered = data;
+            allAreas = seededShuffle(data);
+            filtered = allAreas.slice();
             loading.remove();
             render();
         })

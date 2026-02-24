@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kaleyolu Tepe","caption":"Kaleyolu Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Kaleyolu Tepe","caption":"Kaleyolu Tepe","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaleyolu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386183","tip":"genel"}]
 description: "Gaziantep'in tarihi ve doğal güzelliklerinin birleştiği Kaleyolu Tepe, ziyaretçilerini bekliyor."
 keywords: ["Gaziantep","Kaleyolu Tepe","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","tepe"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları gezmek","doğal güzellikleri keşfetmek","kültürü deneyimlemek","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Olympos Lykiarkh Mezarı","caption":"Olympos Lykiarkh Mezarı","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fethiye_2.JPG/960px-Fethiye_2.JPG","alt":"Olympos Lykiarkh Mezarı","caption":"Olympos Lykiarkh Mezarı","credit":"Fethiye 2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Olympos%20Lykiarkh%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728234","tip":"genel"}]
 description: "Antalya'nın Kumluca ilçesinde bulunan Olympos Lykiarkh Mezarı, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Olympos","Lykiarkh Mezarı","Kumluca","Antalya","tarihi mekanlar","doğal güzellikler","mezarlık","gezi noktaları","Akdeniz Bölgesi","turistik yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi rehberli turlar","doğa yürüyüşleri","fotografi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg","alt":"Niyazi Tepe Tapınak Mezarı","caption":"Niyazi Tepe Tapınak Mezarı","credit":"Süzer Sun Dreams Beach 10 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg","alt":"Niyazi Tepe Tapınak Mezarı","caption":"Niyazi Tepe Tapınak Mezarı","credit":"2023-11-04 Choban beach near Kaş 2","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Niyazi%20Tepe%20Tap%C4%B1nak%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728267","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Niyazi Tepe","Tapınak Mezarı","Bergama","İzmir","Ege Bölgesi","tarih","kültür","gezi","turizm"]

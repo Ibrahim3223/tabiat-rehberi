@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Kızıl Ada","caption":"Kızıl Ada","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/K%C3%BC%C3%A7%C3%BCk_Ada..._-_panoramio_%281%29.jpg/960px-K%C3%BC%C3%A7%C3%BCk_Ada..._-_panoramio_%281%29.jpg","alt":"Kızıl Ada","caption":"Kızıl Ada","credit":"Küçük Ada... - panoramio (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%20Ada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131362207","tip":"genel"}]
 description: "Muğla'nın Q207998 bölgesinde yer alan Kızıl Ada, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kızıl Ada","Muğla","Q207998","Ada","Doğal Alan","Yeşil Cennet","Turizm","Seyahat","Gezi"]

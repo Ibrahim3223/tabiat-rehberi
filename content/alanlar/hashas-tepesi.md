@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyretme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Haşhaş Tepesi","caption":"Haşhaş Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Haşhaş Tepesi","caption":"Haşhaş Tepesi","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ha%C5%9Fha%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388314","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Iğdır ilinde bulunan Haşhaş Tepesi, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Iğdır","Doğu Anadolu Bölgesi","Haşhaş Tepesi","doğal güzellik","tarihi geçmişi","gezi","turizm"]

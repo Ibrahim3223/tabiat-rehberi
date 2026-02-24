@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","plajda dinlenme","denizde yüzme","tarihî yerleri ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu","caption":"Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BOAT-Turkey_-_panoramio.jpg/960px-BOAT-Turkey_-_panoramio.jpg","alt":"Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu","caption":"Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu","credit":"BOAT-Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%203%20(Delikkaya%20Mahallesi)%2C%20Alt%C4%B1nordu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728215","tip":"genel"}]
 description: "Altınordu'nun gizli cenneti Kaya Mezarı 3, doğa severlerin yeni durağı"
 keywords: ["Kaya Mezarı 3","Delikkaya Mahallesi","Altınordu","Karadeniz Bölgesi","doğa","gezi","plaj","deniz"]

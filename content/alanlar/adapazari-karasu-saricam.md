@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotosafari","doğa gözlemi","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Adapazari-Karasu Saricam","caption":"Adapazari-Karasu Saricam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"Adapazari-Karasu Saricam","caption":"Adapazari-Karasu Saricam","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Karasu%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227974","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Adapazari-Karasu Saricam milli parkı, doğal güzellikleri ve zengin fauna ile dikkat çekiyor"
 keywords: ["Adapazari-Karasu Saricam","milli park","İç Anadolu Bölgesi","doğal güzellik","fauna","flora","turizm","gezi","yaban hayatı"]

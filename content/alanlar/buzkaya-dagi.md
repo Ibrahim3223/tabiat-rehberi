@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Buzkaya Dağı","caption":"Buzkaya Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Buzkaya Dağı","caption":"Buzkaya Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Buzkaya%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385944","tip":"genel"}]
 description: "Ağrı'da yer alan Buzkaya Dağı, doğa severler için önemli bir destinasyon. 1400 metre yüksekliğiyle dikkat çeker."
 keywords: ["Buzkaya Dağı","Ağrı","Dağ","Doğa","Trekking","Kamp","Doğa Yürüyüşü","Turizm","Gezi"]

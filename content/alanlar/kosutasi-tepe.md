@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Koşutaşı Tepe","caption":"Koşutaşı Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Koşutaşı Tepe","caption":"Koşutaşı Tepe","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C5%9Futa%C5%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389426","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, Koşutaşı Tepe'de tarihi ve coğrafi zenginlikleri erle"
 keywords: ["Koşutaşı Tepe","Mersin","Akdeniz Bölgesi","doğal alanlar","tarihçe","coğrafya","flora","fauna","ziyaret"]

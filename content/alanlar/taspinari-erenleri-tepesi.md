@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemciliği","Tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Taşpınarı Erenleri Tepesi","caption":"Taşpınarı Erenleri Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Taşpınarı Erenleri Tepesi","caption":"Taşpınarı Erenleri Tepesi","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fp%C4%B1nar%C4%B1%20Erenleri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535433","tip":"genel"}]
 description: "Hatay'ın tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Hatay","Taşpınarı Erenleri Tepesi","tarih","doğa","tepe","Akdeniz Bölgesi","gezi","turizm"]

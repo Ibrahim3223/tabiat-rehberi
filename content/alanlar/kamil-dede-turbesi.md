@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları gezme","doğa yürüyüşü","yaban hayatı gözlemleme","kültürel etkinliklere katılma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Kamil Dede Türbesi","caption":"Kamil Dede Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Kamil Dede Türbesi","caption":"Kamil Dede Türbesi","credit":"Antalya Serik Plajı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kamil%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391800","tip":"genel"}]
 description: "Denizli'nin Acıpayam ilçesinde bulunan Kamil Dede Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Kamil Dede Türbesi","Acıpayam","Denizli","tarih","doğa","gezi","türk kültürü","tarihi mekanlar","yaban hayatı","ekolojik dengeler"]

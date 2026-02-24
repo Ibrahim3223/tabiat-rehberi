@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Otlubel Tepesi","caption":"Otlubel Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/20220615_Plebejus_idas_02.jpg/960px-20220615_Plebejus_idas_02.jpg","alt":"Otlubel Tepesi","caption":"Otlubel Tepesi","credit":"20220615 Plebejus idas 02","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Otlubel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557459","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Otlubel Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Otlubel Tepesi","Ankara","İç Anadolu Bölgesi","doğa","yeşil alan","tepe","gezi","turizm","çevre"]

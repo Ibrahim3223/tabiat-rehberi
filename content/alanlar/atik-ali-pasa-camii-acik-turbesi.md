@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Cami ve açık türbenin gezilmesi","Tarihi mekanların keşfi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Atik Ali Paşa Camii Açık Türbesi","caption":"Atik Ali Paşa Camii Açık Türbesi","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Maden_Koyu_Beach_2021-11-13-4.jpg/960px-Maden_Koyu_Beach_2021-11-13-4.jpg","alt":"Atik Ali Paşa Camii Açık Türbesi","caption":"Atik Ali Paşa Camii Açık Türbesi","credit":"Maden Koyu Beach 2021-11-13-4","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atik%20Ali%20Pa%C5%9Fa%20Camii%20A%C3%A7%C4%B1k%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135430369","tip":"genel"}]
 description: "Fatih, İstanbul'da yer alan tarihi bir mekan"
 keywords: ["Atik Ali Paşa","Camii","Açık Türbesi","Fatih","İstanbul","Tarih","Mimarlık","Din"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih turu","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"GÜMÜŞHANE SÜLEYMANİYE MAH","caption":"GÜMÜŞHANE SÜLEYMANİYE MAH","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg","alt":"GÜMÜŞHANE SÜLEYMANİYE MAH","caption":"GÜMÜŞHANE SÜLEYMANİYE MAH","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%9CM%C3%9C%C5%9EHANE%20S%C3%9CLEYMAN%C4%B0YE%20MAH","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228909","tip":"genel"}]
 description: "Gümüşhane'nin doğal güzellikleri ve tarihi geçmişiyle dikkat çeken Süleymaniye Mahallesi, ziyaretçilerini bekliyor."
 keywords: ["Gümüşhane","Süleymaniye Mahallesi","doğa","tarih","gezi","turizm","İç Anadolu Bölgesi"]

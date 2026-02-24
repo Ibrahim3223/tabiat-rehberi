@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Hazel Mağarası","caption":"Hazel Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Geological_formation_near_Karalar.jpg/960px-Geological_formation_near_Karalar.jpg","alt":"Hazel Mağarası","caption":"Hazel Mağarası","credit":"Geological formation near Karalar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hazel%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319250","tip":"genel"}]
 description: "Diyarbakır'da yer alan Hazel Mağarası, 1200 hektarlık yeşil cenneti ve jeolojik oluşumlarıyla ziyaretçilerini bekliyor."
 keywords: ["Hazel Mağarası","Diyarbakır","Jeopark","Doğa","Turizm","Mağara","Gezi","Yeşil Alan","Jeolojik Oluşum"]

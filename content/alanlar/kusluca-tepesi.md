@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kamp","fotoğrafçılık","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kuşluca Tepesi","caption":"Kuşluca Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Kuşluca Tepesi","caption":"Kuşluca Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ku%C5%9Fluca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389053","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide şehri Erzurum'da bulunan Kuşluca Tepesi, doğal güzelliği ve tarihi zenginliğiyle ziyaretçilerini bekliyor."
 keywords: ["Kuşluca Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tarih","turizm"]

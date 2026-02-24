@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa keşfi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Koruluk Kermes Mesesi 1","caption":"Koruluk Kermes Mesesi 1","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"Koruluk Kermes Mesesi 1","caption":"Koruluk Kermes Mesesi 1","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koruluk%20Kermes%20Mesesi%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227370","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Koruluk Kermes Mesesi 1, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Koruluk Kermes Mesesi 1","İç Anadolu Bölgesi","yeşil alan","milli park","doğa","gezi"]

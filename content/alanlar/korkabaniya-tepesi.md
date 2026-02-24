@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Korkabaniya Tepesi","caption":"Korkabaniya Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Korkabaniya Tepesi","caption":"Korkabaniya Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Korkabaniya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555490","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli köşelerinden biri olan Korkabaniya Tepesi, Batman'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Korkabaniya Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğa","gezi","tepe","manzara","çevre","flora","fauna"]

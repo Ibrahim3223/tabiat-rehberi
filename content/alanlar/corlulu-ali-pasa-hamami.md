@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi hamamı gezmek","doğal güzellikleri keşfetmek","şehir merkezini keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Çorlulu Ali Paşa Hamamı","caption":"Çorlulu Ali Paşa Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Çorlulu Ali Paşa Hamamı","caption":"Çorlulu Ali Paşa Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87orlulu%20Ali%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738612","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından biri olan Çorlulu Ali Paşa Hamamı, Beyoğlu'nda yer alıyor"
 keywords: ["Çorlulu Ali Paşa Hamamı","Beyoğlu","İstanbul","tarihi hamam","Marmara Bölgesi","gezilecek yerler","tarih","mimari"]

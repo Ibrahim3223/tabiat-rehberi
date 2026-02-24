@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","doğa gözlemi","kampçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Zonguldak-Dirgine-Gölcük Karacam","caption":"Zonguldak-Dirgine-Gölcük Karacam","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Zonguldak-Dirgine-Gölcük Karacam","caption":"Zonguldak-Dirgine-Gölcük Karacam","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Dirgine-G%C3%B6lc%C3%BCk%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227538","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Zonguldak-Dirgine-Gölcük Karacam milli parkı, doğal güzellikleri ve zengin ekosistemiyle dikkat çekiyor."
 keywords: ["Zonguldak","Dirgine","Gölcük Karacam","milli park","Karadeniz Bölgesi","doğal güzellik","ekosistem"]

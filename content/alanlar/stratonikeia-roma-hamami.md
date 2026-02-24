@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yerleri gezmek","doğa yürüyüşleri","fotografçılık","antik kent hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Stratonikeia Roma Hamamı","caption":"Stratonikeia Roma Hamamı","credit":"Muğla - Dalyan - İztuzu Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_beach_near_Phaselis_2021-02-26-1.jpg/960px-A_beach_near_Phaselis_2021-02-26-1.jpg","alt":"Stratonikeia Roma Hamamı","caption":"Stratonikeia Roma Hamamı","credit":"A beach near Phaselis 2021-02-26-1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Stratonikeia%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738957","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerini bir arada sunan Stratonikeia Roma Hamamı, Muğla'nın Yatağan ilçesinde yer alıyor."
 keywords: ["Stratonikeia","Roma Hamamı","Yatağan","Muğla","Ege Bölgesi","tarihi yerler","doğal güzellikler","antik kent","arkeolojik sit"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Kızılcahamam Kent Ormanı","caption":"Kızılcahamam Kent Ormanı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Kızılcahamam Kent Ormanı","caption":"Kızılcahamam Kent Ormanı","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcahamam%20Kent%20Orman%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228609","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşillendirilmiş bölümü"
 keywords: ["orman","kent ormanı","iç anadolu","yeşillendirme","doğa","çevre","gezi","turizm"]

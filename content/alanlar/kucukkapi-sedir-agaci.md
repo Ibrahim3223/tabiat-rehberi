@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Küçükkapi Sedir Agaci","caption":"Küçükkapi Sedir Agaci","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg/960px-De%C4%9Firmenburnu_Tabiat_Park%C4%B1_Giri%C5%9F.jpg","alt":"Küçükkapi Sedir Agaci","caption":"Küçükkapi Sedir Agaci","credit":"Değirmenburnu Tabiat Parkı Giriş","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCkkapi%20Sedir%20Agaci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227358","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli bir hazine olan Küçükkapi Sedir Agaci, doğa severlerin buluşma noktası."
 keywords: ["Küçükkapi Sedir Agaci","İç Anadolu Bölgesi","doğa","sedir ağacı","milli park","gezi","turizm","çevre","ekosistem"]

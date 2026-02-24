@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Ziyaret_Tepesi_%28Konalga%29_-1.jpg","alt":"Ziyaret Tepesi (Van) manzarası","credit":"Buzancar","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Salda_G%C3%B6l%C3%BC_09-1991.jpg/960px-Salda_G%C3%B6l%C3%BC_09-1991.jpg","alt":"Ziyaret Tepesi","caption":"Ziyaret Tepesi","credit":"Salda Gölü 09-1991","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Ziyaret_Tepesi_%28Konalga%29_-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ziyaret_Tepesi_%28Konalga%29_-2.jpg/1280px-Ziyaret_Tepesi_%28Konalga%29_-2.jpg","alt":"Ziyaret Tepesi (Van) - Ziyaret Tepesi (Konalga) -2","credit":"Buzancar","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Ziyaret Tepesi (Van) - Allahekber-ziyaret tepesi-şeyh senan kabri","credit":"Gürsoy Solmaz","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20Tepesi%20(Van)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572511","tip":"genel"}]
 description: "Van'ın doğal güzelliklerini keşfedin. Ziyaret Tepesi, Van'ın en yüksek noktalarından biri, 1400 metre rakımlı"

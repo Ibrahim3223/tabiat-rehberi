@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Çevre keşfi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"İptakmaz Tepesi","caption":"İptakmaz Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Second_floor_hall._View_looking_south._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-16.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"İptakmaz Tepesi","caption":"İptakmaz Tepesi","credit":"Second floor hall. View looking south. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-16","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0ptakmaz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390219","tip":"genel"}]
 description: "Burdur'un güzide doğal alanlarından biri olan İptakmaz Tepesi, Akdeniz Bölgesi'nin coğrafi zenginliklerini sunuyor."
 keywords: ["İptakmaz Tepesi","Burdur","Akdeniz Bölgesi","doğa","tepe","coğrafya","flora","fauna","ziyaret"]

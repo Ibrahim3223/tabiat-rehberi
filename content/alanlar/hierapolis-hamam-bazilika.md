@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Hierapolis Hamam Bazilika","caption":"Hierapolis Hamam Bazilika","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Port_G%C3%B6cek_early_evening.jpg/960px-Port_G%C3%B6cek_early_evening.jpg","alt":"Hierapolis Hamam Bazilika","caption":"Hierapolis Hamam Bazilika","credit":"Port Göcek early evening","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hierapolis%20Hamam%20Bazilika","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738939","tip":"genel"}]
 description: "Pamukkale'nin tarihi ve doğal güzelliklerini keşfedin. Hierapolis Hamam Bazilika, Denizli'de bulunan bir tarihi ve turistik mekan."
 keywords: ["Hierapolis","Hamam Bazilika","Pamukkale","Denizli","tarihi mekan","turistik yer","Ege Bölgesi","antik kent","hamam","bazilika"]

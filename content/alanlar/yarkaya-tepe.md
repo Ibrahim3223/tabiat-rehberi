@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["manzara izleme","doğa yürüyüşü","fotografcılık","ekosistem gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Yarkaya Tepe","caption":"Yarkaya Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Yarkaya Tepe","caption":"Yarkaya Tepe","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yarkaya%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387538","tip":"genel"}]
 description: "Çanakkale'nin görülmesi gereken doğal güzelliklerinden biri olan Yarkaya Tepe, Marmara Bölgesi'nde yer alır."
 keywords: ["Yarkaya Tepe","Çanakkale","Marmara Bölgesi","doğal güzellik","turizm","gezi","tepe","manzara","çevre","ekosistem"]

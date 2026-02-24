@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Bozanönü Mağarası","caption":"Bozanönü Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Geological_magazine_%281878%29_%2814741258826%29.jpg/960px-Geological_magazine_%281878%29_%2814741258826%29.jpg","alt":"Bozanönü Mağarası","caption":"Bozanönü Mağarası","credit":"Geological magazine (1878) (14741258826)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozan%C3%B6n%C3%BC%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319079","tip":"genel"}]
 description: "Isparta'da yer alan Bozanönü Mağarası, 1200 hektarlık bir jeopark alanı sunar. Doğal güzellikleri keşfedin!"
 keywords: ["Bozanönü Mağarası","Isparta","Jeopark","Doğal Alan","Mağara","Turizm","Isparta Turistik Yerler","Jeolojik Oluşum","Doğa"]

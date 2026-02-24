@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotografi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Hasbek Kadı Kümbeti","caption":"Hasbek Kadı Kümbeti","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gallipoli_ANZAC_Cove_3.JPG/960px-Gallipoli_ANZAC_Cove_3.JPG","alt":"Hasbek Kadı Kümbeti","caption":"Hasbek Kadı Kümbeti","credit":"Gallipoli ANZAC Cove 3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasbek%20Kad%C4%B1%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582410","tip":"genel"}]
 description: "Kocasinan, Kayseri'de bulunan tarihi bir kümbet"
 keywords: ["Hasbek Kadı Kümbeti","Kocasinan","Kayseri","tarih","kültür","gezi","turizm","İç Anadolu Bölgesi","anıtlar"]

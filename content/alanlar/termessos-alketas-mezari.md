@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezme","doğa yürüyüşü","yeşil alanlarda dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Termessos Alketas Mezarı","caption":"Termessos Alketas Mezarı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg","alt":"Termessos Alketas Mezarı","caption":"Termessos Alketas Mezarı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Termessos%20Alketas%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728137","tip":"genel"}]
 description: "Antalya'nın Döşemealtı ilçesinde yer alan Termessos Alketas Mezarı, tarihi ve doğal güzellikleri bir arada sunan bir destinasyon."
 keywords: ["Termessos","Alketas Mezarı","Döşemealtı","Antalya","tarihi mekanlar","doğa yürüyüşü","mezarlar","Antalya gezilecek yerler"]

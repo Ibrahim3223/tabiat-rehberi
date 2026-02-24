@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Karagıla Dağı","caption":"Karagıla Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KackarDagi_fromNorth_hory.jpg/960px-KackarDagi_fromNorth_hory.jpg","alt":"Karagıla Dağı","caption":"Karagıla Dağı","credit":"KackarDagi fromNorth hory","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karag%C4%B1la%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31518261","tip":"genel"}]
 description: "Erzurum'un görkemli dağlarından biri olan Karagıla Dağı, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Karagıla Dağı","Erzurum","Dağ","Doğa","Yeşil Alan","Trekking","Doğa Yürüyüşü","Erzurum Turizm","Dağcılık"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Hasene Mağarası","caption":"Hasene Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cotton-look_terraces_in_Pamukkale%2C_Turkey_2010_-_panoramio.jpg/960px-Cotton-look_terraces_in_Pamukkale%2C_Turkey_2010_-_panoramio.jpg","alt":"Hasene Mağarası","caption":"Hasene Mağarası","credit":"Cotton-look terraces in Pamukkale, Turkey 2010 - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasene%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319240","tip":"genel"}]
 description: "Batman'da yer alan Hasene Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Hasene Mağarası","Batman","Jeopark","Doğa","Mağara","Turizm","Gezi","Batman Turistik Yerler","Jeolojik Alanlar"]

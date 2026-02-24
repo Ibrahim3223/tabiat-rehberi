@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Karaçavuş Dağları","caption":"Karaçavuş Dağları","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg/960px-Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg","alt":"Karaçavuş Dağları","caption":"Karaçavuş Dağları","credit":"Antitaurus 06 04 1988 Pozantı Dağı bei Niğde","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%C3%A7avu%C5%9F%20Da%C4%9Flar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q123058277","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Karaçavuş Dağları, Türkiye'nin en önemli coğrafi oluşumlarından biri."
 keywords: ["Karaçavuş Dağları","Türkiye dağları","doğal güzellikler","coğrafi oluşumlar","dağcılık","turizm","gezi rehberi","Türkiye'nin dağları","Karaçavuş"]

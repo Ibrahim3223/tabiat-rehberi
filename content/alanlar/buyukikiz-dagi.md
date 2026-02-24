@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Büyükikiz Dağı","caption":"Büyükikiz Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"Büyükikiz Dağı","caption":"Büyükikiz Dağı","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkikiz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731373","tip":"genel"}]
 description: "Kilis'te yer alan Büyükikiz Dağı, Türkiye'nin önemli dağlarından biri. Doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Büyükikiz Dağı","Kilis","Dağ","Doğa","Trekking","Turkey","Gezi","Seyahat","Kilis Turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Anonim Türbe–4, Altındağ","caption":"Anonim Türbe–4, Altındağ","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Anonim Türbe–4, Altındağ","caption":"Anonim Türbe–4, Altındağ","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20T%C3%BCrbe%E2%80%934%2C%20Alt%C4%B1nda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582348","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. İç Anadolu Bölgesi'nin kalbinde yer alan Anonim Türbe–4, Altındağ, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Altındağ","Anonim Türbe","İç Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","gezi rehberi"]

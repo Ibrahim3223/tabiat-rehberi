@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%BCver_Canyon_Scene%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scene%28Antalya%29.jpg","alt":"Manoğlu Dağı","caption":"Manoğlu Dağı","credit":"Güver Canyon Scene(Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yol_ve_demirkaz%C4%B1k.jpg/960px-Yol_ve_demirkaz%C4%B1k.jpg","alt":"Manoğlu Dağı","caption":"Manoğlu Dağı","credit":"Yol ve demirkazık","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mano%C4%9Flu%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31587665","tip":"genel"}]
 description: "Antalya'da yer alan Manoğlu Dağı, 1200 hektarlık yeşil cenneti ve doğa güzellikleriyle dikkat çekiyor."
 keywords: ["Manoğlu Dağı","Antalya","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Trekking","Doğa Yürüyüşü","Antalya Turistik Yerler"]

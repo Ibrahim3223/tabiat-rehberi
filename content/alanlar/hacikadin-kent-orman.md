@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","bisiklet sürme","koşma","yoga"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"HACIKADIN KENT ORMAN","caption":"HACIKADIN KENT ORMAN","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"HACIKADIN KENT ORMAN","caption":"HACIKADIN KENT ORMAN","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HACIKADIN%20KENT%20ORMAN","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228603","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin yeşillendirilmiş bir alanı olan Hacıkadın Kent Ormanı, ziyaretçilerini doğanın kucağına davet ediyor."
 keywords: ["Hacıkadın Kent Ormanı","İç Anadolu Bölgesi","doğa","yeşillendirme","orman","gezi","turizm","çevre"]

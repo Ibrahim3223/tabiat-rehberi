@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Gezinti","Fotoğraf çekimi","Tarihî yerleri ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kurusivrisi Tepe","caption":"Kurusivrisi Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Kurusivrisi Tepe","caption":"Kurusivrisi Tepe","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurusivrisi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385564","tip":"genel"}]
 description: "Aydın'da bulunan Kurusivrisi Tepe, Ege Bölgesi'nin önemli tarihi ve doğal güzelliklerindendir. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kurusivrisi Tepe","Aydın","Ege Bölgesi","tarih","doğa","gezi","turizm","Aydın'ın tarihi","Ege Bölgesi'nin güzellikleri"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Yenesu Mağarası","caption":"Yenesu Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Olympus_Mons_alt.jpg/960px-Olympus_Mons_alt.jpg","alt":"Yenesu Mağarası","caption":"Yenesu Mağarası","credit":"Olympus Mons alt","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yenesu%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q3449521","tip":"genel"}]
 description: "Kırklareli Demirköy'de bulunan Yenesu Mağarası, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği keşfedin!"
 keywords: ["Yenesu Mağarası","Kırklareli","Demirköy","Jeopark","Doğal Alanlar","Mağara Gezileri","Turistik Yerler","Doğa Turizmi","Jeolojik Özellikler"]

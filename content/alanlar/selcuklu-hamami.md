@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Selçuklu Hamamı","caption":"Selçuklu Hamamı","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Maden_Koyu_Beach_2021-11-13-6.jpg/960px-Maden_Koyu_Beach_2021-11-13-6.jpg","alt":"Selçuklu Hamamı","caption":"Selçuklu Hamamı","credit":"Maden Koyu Beach 2021-11-13-6","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sel%C3%A7uklu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738662","tip":"genel"}]
 description: "Eskişehir'in Seyitgazi ilçesinde bulunan Selçuklu Hamamı, tarihi geçmişi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Selçuklu Hamamı","Seyitgazi","Eskişehir","tarihi hamam","doğa","gezi","turizm"]

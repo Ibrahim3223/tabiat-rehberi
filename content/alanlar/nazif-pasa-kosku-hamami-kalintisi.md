@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi gezileri","deniz keyfi","doğa yürüyüşleri","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Nazif Paşa Köşkü Hamamı Kalıntısı","caption":"Nazif Paşa Köşkü Hamamı Kalıntısı","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mediterranean_-_panoramio_%283%29.jpg/960px-Mediterranean_-_panoramio_%283%29.jpg","alt":"Nazif Paşa Köşkü Hamamı Kalıntısı","caption":"Nazif Paşa Köşkü Hamamı Kalıntısı","credit":"Mediterranean - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nazif%20Pa%C5%9Fa%20K%C3%B6%C5%9Fk%C3%BC%20Hamam%C4%B1%20Kal%C4%B1nt%C4%B1s%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739224","tip":"genel"}]
 description: "Üsküdar'da tarihi bir plaj: Nazif Paşa Köşkü Hamamı Kalıntısı"
 keywords: ["Nazif Paşa Köşkü","Hamamı Kalıntısı","Üsküdar","İstanbul","Marmara Bölgesi","tarih","plaj","deniz","köşk"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kamp yapma","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Elazig-Tunceli-Kutuderesi Mese","caption":"Elazig-Tunceli-Kutuderesi Mese","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"Elazig-Tunceli-Kutuderesi Mese","caption":"Elazig-Tunceli-Kutuderesi Mese","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elazig-Tunceli-Kutuderesi%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227761","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severlerin gözdesi"
 keywords: ["Elazig","Tunceli","Kutuderesi","milli park","doğa","gezi","iç anadolu","turizm"]

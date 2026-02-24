@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Elmalidere Bogazı","caption":"Elmalidere Bogazı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg","alt":"Elmalidere Bogazı","caption":"Elmalidere Bogazı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546842503)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elmalidere%20Bogaz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227880","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["İç Anadolu Bölgesi","doğal alanlar","turizm","gezi","yerel yaşam","çevre","ekosistem"]

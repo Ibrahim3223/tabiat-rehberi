@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Mets Yeğnahah","caption":"Mets Yeğnahah","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Mets Yeğnahah","caption":"Mets Yeğnahah","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mets%20Ye%C4%9Fnahah","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q16393097","tip":"genel"}]
 description: "Türkiye'de bulunan Mets Yeğnahah dağı, doğa severler için bir çekim merkezi"
 keywords: ["Mets Yeğnahah","Türkiye dağları","doğa turizmi","dağcılık","Türkiye coğrafyası","gezi rehberi","turistik yerler","dağlar","coğrafi oluşumlar"]

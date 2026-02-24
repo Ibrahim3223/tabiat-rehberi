@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["Türbe ziyaretleri","Plaj dinlencesi","Denizde yüzme","Doğa yürüyüşleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Eroğlu Nuri Yahşi Türbesi","caption":"Eroğlu Nuri Yahşi Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Istanbul_beaches-_Sea_of_Marmara_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_12.jpg","alt":"Eroğlu Nuri Yahşi Türbesi","caption":"Eroğlu Nuri Yahşi Türbesi","credit":"Istanbul beaches- Sea of Marmara 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ero%C4%9Flu%20Nuri%20Yah%C5%9Fi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390685","tip":"genel"}]
 description: "Finike/Antalya'da yer alan tarihi türbe ve plaj hakkında detaylı bilgi"
 keywords: ["Eroğlu Nuri Yahşi Türbesi","Finike","Antalya","tarih","plaj","türbe","gezi","turizm"]

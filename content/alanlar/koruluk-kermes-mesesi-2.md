@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Koruluk Kermes Mesesi 2","caption":"Koruluk Kermes Mesesi 2","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg","alt":"Koruluk Kermes Mesesi 2","caption":"Koruluk Kermes Mesesi 2","credit":"Karagöl Tabiat Parkı (İzmir)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koruluk%20Kermes%20Mesesi%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227366","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severlerin hayalini süsleyen bir yer"
 keywords: ["İç Anadolu Bölgesi","doğa","milli park","orman","yeşil alan"]

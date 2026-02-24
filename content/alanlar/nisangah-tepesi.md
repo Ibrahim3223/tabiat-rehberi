@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Nişangah Tepesi","caption":"Nişangah Tepesi","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg/960px-Mount_Ararat_and_the_Yerevan_skyline.jpg","alt":"Nişangah Tepesi","caption":"Nişangah Tepesi","credit":"Mount Ararat and the Yerevan skyline","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ni%C5%9Fangah%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31576739","tip":"genel"}]
 description: "Şanlıurfa'nın en önemli doğal güzelliklerinden biri olan Nişangah Tepesi, şehrin panoramik manzarasını sunar."
 keywords: ["Nişangah Tepesi","Şanlıurfa","Doğal Alanlar","Dağ","Turizm","Gezi","Şanlıurfa Gezilecek Yerler","Nişangah Tepesi Manzarası","Şanlıurfa Turistik Yerler"]

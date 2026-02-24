@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Landscape_of_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k.jpg","alt":"Pazarlı Mağarası","caption":"Pazarlı Mağarası","credit":"The Landscape of Sıklık.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Aquifer_tr.svg/960px-Aquifer_tr.svg.png","alt":"Pazarlı Mağarası","caption":"Pazarlı Mağarası","credit":"Aquifer tr","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pazarl%C4%B1%20Ma%C4%9Faras%C4%B1%20(40.30%2C%2034.99)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319644","tip":"genel"}]
 description: "Çorum'da yer alan 40.30 ve 34.99 koordinatlarında bulunan jeopark alanı"
 keywords: ["Pazarlı Mağarası","Çorum","Jeopark","Doğa Alanı","Turizm","Mağara","Gezi","Çorum Turistik Yerler","Jeolojik Alan"]

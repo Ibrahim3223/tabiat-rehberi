@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ulug%C3%B6l_Nature_Park.jpg/960px-Ulug%C3%B6l_Nature_Park.jpg","alt":"Kalınçorak Dağı","caption":"Kalınçorak Dağı","credit":"Ulugöl Nature Park.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/KackarDagi_fromNorth_hory.jpg/960px-KackarDagi_fromNorth_hory.jpg","alt":"Kalınçorak Dağı","caption":"Kalınçorak Dağı","credit":"KackarDagi fromNorth hory","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kal%C4%B1n%C3%A7orak%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877467","tip":"genel"}]
 description: "Ordu'nun en önemli doğal güzelliklerinden biri olan Kalınçorak Dağı, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Kalınçorak Dağı","Ordu","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Doğal Güzellik","Ordu Turistik Yerler"]

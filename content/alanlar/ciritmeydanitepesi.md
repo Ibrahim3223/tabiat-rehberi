@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Ciritmeydanıtepesi","caption":"Ciritmeydanıtepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angora_%28Relation_d_un_voyage_du_Levant%29.jpg/960px-Angora_%28Relation_d_un_voyage_du_Levant%29.jpg","alt":"Ciritmeydanıtepesi","caption":"Ciritmeydanıtepesi","credit":"Angora (Relation d un voyage du Levant)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ciritmeydan%C4%B1tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388300","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Kars şehrinde bulunan Ciritmeydanıtepesi, tarihi ve coğrafi açıdan önemli bir nokta"
 keywords: ["Kars","Doğu Anadolu Bölgesi","Ciritmeydanıtepesi","tarih","coğrafya","doğa","gezi","turizm"]

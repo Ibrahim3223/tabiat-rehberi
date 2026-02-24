@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["hiking","doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karaburgatakkalı Tepe","caption":"Karaburgatakkalı Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Karaburgatakkalı Tepe","caption":"Karaburgatakkalı Tepe","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karaburgatakkal%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390465","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzellikleri arasında yer alan Karaburgatakkalı Tepe, ziyaretçilerini bekliyor."
 keywords: ["Karaburgatakkalı Tepe","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","tepe"]

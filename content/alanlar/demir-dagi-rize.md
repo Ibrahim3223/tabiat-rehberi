@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Demir Dağı","caption":"Demir Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_2%29.jpg/960px-%22Lost%22_lakes_%2C_near_Meigs_Peak%2C_Col._Lakes_9%2C500_feet_above_sea-level_-_DPLA_-_a574e1d02197947f5bd63dffe370dd0d_%28page_2%29.jpg","alt":"Demir Dağı","caption":"Demir Dağı","credit":"\"Lost\" lakes , near Meigs Peak, Col. Lakes 9,500 feet above sea-level - DPLA - a574e1d02197947f5bd63dffe370dd0d (page 2)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demir%20Da%C4%9F%C4%B1%20(Rize)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31569126","tip":"genel"}]
 description: "Rize'de yer alan Demir Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Demir Dağı","Rize","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Rize Turistik Yerler","Demir Dağı Rize"]

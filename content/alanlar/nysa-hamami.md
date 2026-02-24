@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plaj","doğa yürüyüşü","trekking","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Nysa Hamamı","caption":"Nysa Hamamı","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2023-11-19_Ufakdere_Port_Beach_3.jpg/960px-2023-11-19_Ufakdere_Port_Beach_3.jpg","alt":"Nysa Hamamı","caption":"Nysa Hamamı","credit":"2023-11-19 Ufakdere Port Beach 3","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nysa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739024","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, Aydın'ın Sultanhisar ilçesinde bulunan Nysa Hamamı"
 keywords: ["Nysa Hamamı","Aydın","Sultanhisar","Ege Bölgesi","plaj","doğa","tarih"]

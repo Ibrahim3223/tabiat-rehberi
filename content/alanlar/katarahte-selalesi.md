@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Şelale İzleme","Orman Keşfi","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/-ayder_-turkey_-trabzon_-waterfalls_-nature_%2814251987354%29.jpg","alt":"Katarahte Şelalesi","caption":"Katarahte Şelalesi","credit":"-ayder -turkey -trabzon -waterfalls -nature (14251987354).jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Waterfall_Kuzalan_-_Kuzalan_%C5%9Eelalesi%2C_Giresun_2017-07-07_01-1.jpg/960px-Waterfall_Kuzalan_-_Kuzalan_%C5%9Eelalesi%2C_Giresun_2017-07-07_01-1.jpg","alt":"Katarahte Şelalesi","caption":"Katarahte Şelalesi","credit":"Waterfall Kuzalan - Kuzalan Şelalesi, Giresun 2017-07-07 01-1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Katarahte%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076495","tip":"genel"}]
 description: "Rize'nin doğal güzellikleri arasında yer alan Katarahte Şelalesi, ziyaretçilerini etkileyen bir doğa harikasıdır."
 keywords: ["Rize","Katarahte Şelalesi","Doğa","Şelale","Karadeniz Bölgesi","Turizm","Gezi","Doğa Harikası"]

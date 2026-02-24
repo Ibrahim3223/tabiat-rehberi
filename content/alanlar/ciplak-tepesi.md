@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora gözlemi","fauna gözlemi","tarihi geçmişi keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Çıplak Tepesi","caption":"Çıplak Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Çıplak Tepesi","caption":"Çıplak Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C4%B1plak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829251","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Çıplak Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Çıplak Tepesi","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmiş","tepe","coğrafya","flora","fauna"]

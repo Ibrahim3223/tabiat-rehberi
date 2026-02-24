@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları gezmek","doğal güzellikleri keşfetmek","fotoğraf çekmek","yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Kızıldeli Sultan Türbesi","caption":"Kızıldeli Sultan Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Island_of_Cos_Off_the_Anatolian_Coast_-_Walters_W65895A_-_Full_Page.jpg","alt":"Kızıldeli Sultan Türbesi","caption":"Kızıldeli Sultan Türbesi","credit":"Piri Reis - Map of the Island of Cos Off the Anatolian Coast - Walters W65895A - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1ldeli%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391672","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde, Yazıhan/Malatya'da bulunan Kızıldeli Sultan Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir destinasyon."
 keywords: ["Kızıldeli Sultan Türbesi","Yazıhan","Malatya","Doğu Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","türk kültürü","gezi rehberi"]

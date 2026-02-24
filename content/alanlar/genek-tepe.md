@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Manzara izleme","Tarih öğrenme","Doğa yürüyüşü","Etkinliklere katılma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Genek Tepe","caption":"Genek Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Genek Tepe","caption":"Genek Tepe","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Genek%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390456","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerini keşfedin, Genek Tepe'nin mistik atmosferini hissedin"
 keywords: ["Konya","Genek Tepe","Tarih","Doğa","Kültür","Gezi","Turizm","İç Anadolu Bölgesi","Tepe"]

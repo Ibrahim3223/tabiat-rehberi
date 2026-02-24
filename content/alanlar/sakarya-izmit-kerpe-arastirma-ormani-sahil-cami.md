@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","sahil gezi","cami ziyareti","yerel lezzetler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Sakarya-Izmit-Kerpe Arastirma Ormani Sahil Cami","caption":"Sakarya-Izmit-Kerpe Arastirma Ormani Sahil Cami","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg/960px-A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg","alt":"Sakarya-Izmit-Kerpe Arastirma Ormani Sahil Cami","caption":"Sakarya-Izmit-Kerpe Arastirma Ormani Sahil Cami","credit":"A Turkey Vulture and Molly Hogan of NatureWorks (26178312449)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-Izmit-Kerpe%20Arastirma%20Ormani%20Sahil%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227277","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide mekanlarından biri olan Sakarya-Izmit-Kerpe Araştırma Ormanı Sahil Cami, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Sakarya","İzmit","Kerpe","Araştırma Ormanı","Sahil Cami","Marmara Bölgesi","doğa","flora","fauna"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Sakarya-Hendek-Aksu Uludag Goknari","caption":"Sakarya-Hendek-Aksu Uludag Goknari","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Sakarya-Hendek-Aksu Uludag Goknari","caption":"Sakarya-Hendek-Aksu Uludag Goknari","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-Hendek-Aksu%20Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228048","tip":"genel"}]
 description: "Marmara Bölgesi'nin saklı cenneti, Sakarya'da yer alan milli park"
 keywords: ["Sakarya","Marmara Bölgesi","Milli Park","Doğa","Turizm","Gezi","Yaban Hayatı","Ekosistem"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi yapıları gezme","doğa yürüyüşü","fotograf çekme","rehberli tur"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Haceti Hafir Türbesi","caption":"Haceti Hafir Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gerence_K%C3%B6rfezinden_-_panoramio.jpg/960px-Gerence_K%C3%B6rfezinden_-_panoramio.jpg","alt":"Haceti Hafir Türbesi","caption":"Haceti Hafir Türbesi","credit":"Gerence Körfezinden - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haceti%20Hafir%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391063","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından Haceti Hafir Türbesi, Eyüpsultan'da bulunan önemli bir ziyaret noktasıdır."
 keywords: ["Haceti Hafir Türbesi","Eyüpsultan","İstanbul","tarihi mekan","türbe","Marmara Bölgesi"]

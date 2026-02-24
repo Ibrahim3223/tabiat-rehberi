@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Termessos Gymnasion ve Hamam Kompleksi","caption":"Termessos Gymnasion ve Hamam Kompleksi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg","alt":"Termessos Gymnasion ve Hamam Kompleksi","caption":"Termessos Gymnasion ve Hamam Kompleksi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Termessos%20Gymnasion%20ve%20Hamam%20Kompleksi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738828","tip":"genel"}]
 description: "Antalya'nın Döşemealtı ilçesinde bulunan tarihi Termessos Gymnasion ve Hamam Kompleksi, 140 hektarlık yeşil alanıyla ziyaretçilerini büyülüyor."
 keywords: ["Termessos","Gymnasion","Hamam Kompleksi","Döşemealtı","Antalya","tarihi yerler","gezi rehberi","akdeniz bölgesi","antik kentler"]

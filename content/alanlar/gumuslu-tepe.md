@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","güneşin batışını izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Gümüşlü Tepe","caption":"Gümüşlü Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ida_Flooding_%2825%29.jpg/960px-Ida_Flooding_%2825%29.jpg","alt":"Gümüşlü Tepe","caption":"Gümüşlü Tepe","credit":"Ida Flooding (25)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fl%C3%BC%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139250","tip":"genel"}]
 description: "Çanakkale'nin Marmara Bölgesi'nde yer alan Gümüşlü Tepe, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Gümüşlü Tepe","Çanakkale","Marmara Bölgesi","yeşil alan","doğa","gezi","tarihçe","coğrafya"]

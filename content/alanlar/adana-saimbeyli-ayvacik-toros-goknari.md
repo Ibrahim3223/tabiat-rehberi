@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Adana-Saimbeyli-Ayvacik Toros Goknari","caption":"Adana-Saimbeyli-Ayvacik Toros Goknari","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocakoru_Tabiat_Park%C4%B1_02.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_02.jpg","alt":"Adana-Saimbeyli-Ayvacik Toros Goknari","caption":"Adana-Saimbeyli-Ayvacik Toros Goknari","credit":"Kocakoru Tabiat Parkı 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Saimbeyli-Ayvacik%20Toros%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228461","tip":"genel"}]
 description: "Adana'nın Saimbeyli ilçesinde yer alan milli park, doğa severlerin keyifli vakit geçirebileceği bir alan olarak dikkat çekiyor."
 keywords: ["Adana","Saimbeyli","Ayvacik","Toros Goknari","milli park","doğa","gezi"]

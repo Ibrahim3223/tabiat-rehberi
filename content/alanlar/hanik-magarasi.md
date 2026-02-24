@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Milanovac_--_2022_--_0257.jpg/960px-Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Milanovac_--_2022_--_0257.jpg","alt":"Hanik Mağarası","caption":"Hanik Mağarası","credit":"Lika-Senj (HR), Plitvicer Seen, Milanovac -- 2022 -- 0257","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bulletin_of_the_Geological_Society_of_America_%281923%29_%2814595083859%29.jpg/960px-Bulletin_of_the_Geological_Society_of_America_%281923%29_%2814595083859%29.jpg","alt":"Hanik Mağarası","caption":"Hanik Mağarası","credit":"Bulletin of the Geological Society of America (1923) (14595083859)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hanik%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319229","tip":"genel"}]
 description: "Batman'da yer alan Hanik Mağarası, 1200 hektarlık jeopark alanı ile dikkat çekiyor. Doğal güzellikleri keşfedin!"
 keywords: ["Hanik Mağarası","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Doğa","Jeoloji"]

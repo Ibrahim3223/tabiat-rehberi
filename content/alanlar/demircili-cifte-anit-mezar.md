@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe keşfi","doğa yürüyüşü","fotografcılık","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Demircili Çifte Anıt Mezar","caption":"Demircili Çifte Anıt Mezar","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beach_Antakya_Turkey_-_panoramio.jpg/960px-Beach_Antakya_Turkey_-_panoramio.jpg","alt":"Demircili Çifte Anıt Mezar","caption":"Demircili Çifte Anıt Mezar","credit":"Beach Antakya Turkey - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demircili%20%C3%87ifte%20An%C4%B1t%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728143","tip":"genel"}]
 description: "Mersin'in Silifke ilçesinde bulunan tarihi mezarlar, Akdeniz Bölgesi'nin önemli ziyaret noktaları arasında yer alır."
 keywords: ["Demircili Çifte Anıt Mezar","Silifke","Mersin","Akdeniz Bölgesi","tarihi mezarlar","anıt mezarlar","kültürel miras","tarih","coğrafya","doğa"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih keşfi","doğa yürüyüşü","fotograf çekimi","mekan çevresini gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Mesih Ali Paşa Türbesi","caption":"Mesih Ali Paşa Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg","alt":"Mesih Ali Paşa Türbesi","caption":"Mesih Ali Paşa Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mesih%20Ali%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391179","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan Mesih Ali Paşa Türbesi, tarihi ve doğası ile dikkat çekiyor."
 keywords: ["Mesih Ali Paşa Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarih","doğa","gezi"]

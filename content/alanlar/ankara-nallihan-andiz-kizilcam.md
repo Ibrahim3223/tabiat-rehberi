@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Fotoğrafçılık","Yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MOKFC02.jpg/960px-MOKFC02.jpg","alt":"Ankara-Nallihan-Andiz Kızılçam","caption":"Ankara-Nallihan-Andiz Kızılçam","credit":"MOKFC02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg/960px-A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg","alt":"Ankara-Nallihan-Andiz Kızılçam","caption":"Ankara-Nallihan-Andiz Kızılçam","credit":"A Turkey Vulture and Molly Hogan of NatureWorks (26178312449)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Nallihan-Andiz%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227413","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, Nallihan-Andız Kızılçam Milli Parkı'nda doğa ile baş başa kalın."
 keywords: ["Ankara","Nallihan","Andız Kızılçam","Milli Park","Doğa","Kızılçam","Orman"]

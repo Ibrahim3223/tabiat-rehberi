@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Azapkale Dağı","caption":"Azapkale Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Azapkale Dağı","caption":"Azapkale Dağı","credit":"Erzincan Refahiye","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Azapkale%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31539131","tip":"genel"}]
 description: "Siirt'te yer alan Azapkale Dağı, 1200 metre rakıma sahip bir dağdır. Doğal güzelliği ve trekking rotalarıyla dikkat çeker."
 keywords: ["Azapkale Dağı","Siirt","Dağ","Trekking","Doğa","Turizm","Gezi","Rakım","Siirt Turistik Yerler","Doğal Alanlar"]

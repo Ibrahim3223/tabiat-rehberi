@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Sertaniko Mağarası","caption":"Sertaniko Mağarası","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Salome_marble%2C_Turkey.jpg/960px-Salome_marble%2C_Turkey.jpg","alt":"Sertaniko Mağarası","caption":"Sertaniko Mağarası","credit":"Salome marble, Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sertaniko%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319752","tip":"genel"}]
 description: "Batman'da yer alan Sertaniko Mağarası, jeopark olarak bilinen doğal bir harikadır. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Sertaniko Mağarası","Batman","Jeopark","Doğal Alan","Mağara","Turizm","Doğa","Gezi","Türkiye"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Tarih Gezisi","Manzara İzleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Esinpınar Tepe","caption":"Esinpınar Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Esinpınar Tepe","caption":"Esinpınar Tepe","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esinp%C4%B1nar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387173","tip":"genel"}]
 description: "Tokat'ta yer alan Esinpınar Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Esinpınar Tepe","Tokat","Karadeniz Bölgesi","tarih","doğa","gezi","turizm","köy","tepe","manzara"]

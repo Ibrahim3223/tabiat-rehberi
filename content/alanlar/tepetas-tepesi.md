@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Tepetaş Tepesi","caption":"Tepetaş Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Tepetaş Tepesi","caption":"Tepetaş Tepesi","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tepeta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389338","tip":"genel"}]
 description: "Mersin'in Akdeniz Bölgesi'nde yer alan Tepetaş Tepesi, 140 hektarlık bir alanı kapsar ve yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
 keywords: ["Mersin","Akdeniz Bölgesi","Tepetaş Tepesi","doğa","gezi","tepe","manzara"]

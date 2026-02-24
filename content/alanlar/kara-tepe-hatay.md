@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Kara-Tepe-Camp-Lesvos-Perimeter-%28c%29_O%27Leary-James.jpg","alt":"Kara Tepe (Hatay) manzarası","credit":"Interface-Architect","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg/960px-Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg","alt":"Kara Tepe","caption":"Kara Tepe","credit":"Jebel Aqra (Kel Dağı, Mount Casius), 2008","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Kara_Tepe%2C_Frieze_of_an_elephant.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Kara_Tepe%2C_Frieze_of_an_elephant.jpg","alt":"Kara Tepe (Hatay) - Kara Tepe, Frieze of an elephant","credit":"Nicoletta Stofkoper","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Tepe%20(Hatay)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535794","tip":"genel"}]
 description: "Hatay'da bulunan Kara Tepe, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor. Doğal güzellikleri keşfedin!"

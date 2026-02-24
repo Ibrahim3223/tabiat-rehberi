@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğraf çekme","doğa gözlemi","tarihî yapıları gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Amasya-Akdagmadeni-Bascatak Saricam 2","caption":"Amasya-Akdagmadeni-Bascatak Saricam 2","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/MOKFC04.jpg/960px-MOKFC04.jpg","alt":"Amasya-Akdagmadeni-Bascatak Saricam 2","caption":"Amasya-Akdagmadeni-Bascatak Saricam 2","credit":"MOKFC04","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Akdagmadeni-Bascatak%20Saricam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227542","tip":"genel"}]
 description: "Amasya'da yer alan milli park, 140 hektarlık yeşil alanı ve zengin faunası ile dikkat çekiyor"
 keywords: ["Amasya","milli park","doğa","yeşil alan","fauna","flora","gezi","ziyaret","tarih"]

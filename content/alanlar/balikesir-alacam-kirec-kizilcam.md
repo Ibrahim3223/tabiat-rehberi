@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa Yürüyüşleri","Kampçılık","Vahşi Yaşam Gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Balikesir-Alacam-Kirec Kızılçam","caption":"Balikesir-Alacam-Kirec Kızılçam","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/960px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Balikesir-Alacam-Kirec Kızılçam","caption":"Balikesir-Alacam-Kirec Kızılçam","credit":"Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Alacam-Kirec%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227634","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde bulunan Balikesir-Alacam-Kirec Kızılçam Milli Parkı, 1400 hektarlık alanıyla doğa severleri bekliyor."
 keywords: ["Balikesir-Alacam-Kirec Kızılçam","Milli Park","İç Anadolu Bölgesi","Doğa Turizmi","Kızılçam Ormanları","Vahşi Yaşam","Turizm","Gezi Rehberi","Doğa"]

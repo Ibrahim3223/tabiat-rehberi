@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Sebastopolis Roma Hamamı","caption":"Sebastopolis Roma Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Sebastopolis Roma Hamamı","caption":"Sebastopolis Roma Hamamı","credit":"Elmasburnu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sebastopolis%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739108","tip":"genel"}]
 description: "Tokat'ın Sulusaray ilçesinde bulunan Sebastopolis Roma Hamamı, tarihi ve doğal güzelliklerin birleştiği özel bir noktadır. Bu alan, yaklaşık 140 hektarlık bir yeşil alanın içinde yer alır ve ziyaretçilerine zengin bir tarihi geçmişi sunar."
 keywords: ["Sebastopolis Roma Hamamı","Sulusaray","Tokat","Roma Hamamı","tarihi yerler","doğa","gezi noktaları"]

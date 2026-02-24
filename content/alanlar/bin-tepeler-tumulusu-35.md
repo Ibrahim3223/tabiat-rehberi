@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["denizde yüzme","güneşlenme","kumda oyun oynama","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Bin Tepeler Tümülüsü 35","caption":"Bin Tepeler Tümülüsü 35","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 35","caption":"Bin Tepeler Tümülüsü 35","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2035","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728360","tip":"genel"}]
 description: "Ege Bölgesi'nin en güzel plajlarından biri olan Bin Tepeler Tümülüsü 35, Salihli-Manisa'da bulunmaktadır."
 keywords: ["Bin Tepeler","Tümülüsü 35","Salihli","Manisa","Ege Bölgesi","plaj","deniz","kumsal"]

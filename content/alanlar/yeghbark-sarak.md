@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Yeghbark Sarak","caption":"Yeghbark Sarak","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg/960px-Hac%C4%B1baba_da%C4%9F%C4%B1-_bat%C4%B1dan_-_panoramio.jpg","alt":"Yeghbark Sarak","caption":"Yeghbark Sarak","credit":"Hacıbaba dağı- batıdan - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeghbark%20Sarak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21697105","tip":"genel"}]
 description: "Ağrı'da yer alan Yeghbark Sarak, doğal güzellikleri ve dağlık yapısıyla dikkat çeker."
 keywords: ["Yeghbark Sarak","Ağrı","Dağ","Doğa","Türkiye","Seyahat","Gezi","Ağrı Dağı","Doğal Alanlar"]

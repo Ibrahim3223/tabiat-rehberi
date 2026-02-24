@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","tarihleme","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Mahmudiye Kışlası Hamamı","caption":"Mahmudiye Kışlası Hamamı","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/960px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg","alt":"Mahmudiye Kışlası Hamamı","caption":"Mahmudiye Kışlası Hamamı","credit":"Map of Greece, Archipelago and part of Anadoli; Louis Stanislas d'Arcy Delarochette 1791","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahmudiye%20K%C4%B1%C5%9Flas%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738889","tip":"genel"}]
 description: "Marmara Bölgesi'nde yer alan Mahmudiye Kışlası Hamamı, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Mahmudiye Kışlası Hamamı","Edirne","Marmara Bölgesi","tarihi mekan","doğal güzellik","gezi","turizm"]

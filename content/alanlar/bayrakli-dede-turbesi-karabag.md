@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["Denize girme","Güneşlenme","Doğa yürüyüşü","Su sporları","Dalış"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Bayraklı Dede Türbesi, Karabağ","caption":"Bayraklı Dede Türbesi, Karabağ","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beach_Karabashi_%28black_head%29_-_panoramio.jpg/960px-Beach_Karabashi_%28black_head%29_-_panoramio.jpg","alt":"Bayraklı Dede Türbesi, Karabağ","caption":"Bayraklı Dede Türbesi, Karabağ","credit":"Beach Karabashi (black head) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bayrakl%C4%B1%20Dede%20T%C3%BCrbesi%2C%20Karaba%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582183","tip":"genel"}]
 description: "İncirliova'nın doğal güzellikleri arasında yer alan Bayraklı Dede Türbesi, Karabağ Plajı"
 keywords: ["Bayraklı Dede Türbesi","Karabağ Plajı","İncirliova","Aydın","Ege Bölgesi","doğa","tarih"]

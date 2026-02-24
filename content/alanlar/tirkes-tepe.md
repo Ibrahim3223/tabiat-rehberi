@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Manzara İzleme","Fotoğraf Çekme","Pişi ve Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Tırkes Tepe","caption":"Tırkes Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Tırkes Tepe","caption":"Tırkes Tepe","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/T%C4%B1rkes%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387522","tip":"genel"}]
 description: "Çanakkale'nin güzide tepelerinden biri olan Tırkes Tepe, doğa severlerin ziyaret noktaları arasında yer alır."
 keywords: ["Tırkes Tepe","Çanakkale","Marmara Bölgesi","Doğa","Tepe","Turizm","Gezi","Doğa Harikaları"]

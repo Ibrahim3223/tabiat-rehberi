@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Antik Nekropol Alanı, Dağbeli","caption":"Antik Nekropol Alanı, Dağbeli","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Antik Nekropol Alanı, Dağbeli","caption":"Antik Nekropol Alanı, Dağbeli","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antik%20Nekropol%20Alan%C4%B1%2C%20Da%C4%9Fbeli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728084","tip":"genel"}]
 description: "Antalya'nın tarihi güzellikleri arasında yer alan Dağbeli Antik Nekropol Alanı, tarihi geçmişi ve zengin kültürel mirasıyla dikkat çekiyor."
 keywords: ["Antalya","Dağbeli","Antik Nekropol","tarihi alan","kültürel miras","gezi","turizm","Akdeniz Bölgesi","Döşemealtı"]

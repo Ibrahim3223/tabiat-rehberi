@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenme","coğrafi keşif","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Bin Tepeler Tümülüsü 34","caption":"Bin Tepeler Tümülüsü 34","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Bin Tepeler Tümülüsü 34","caption":"Bin Tepeler Tümülüsü 34","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2034","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728357","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Manisa'nın Salihli ilçesinde bulunan Bin Tepeler Tümülüsü 34"
 keywords: ["Bin Tepeler Tümülüsü 34","Salihli","Manisa","Ege Bölgesi","tarih","tümülüs","arkeoloji","kültür","gezi"]

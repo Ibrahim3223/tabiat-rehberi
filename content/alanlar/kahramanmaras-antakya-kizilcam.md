@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kahramanmaras-Antakya Kızılçam","caption":"Kahramanmaras-Antakya Kızılçam","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MOKFC01.jpg/960px-MOKFC01.jpg","alt":"Kahramanmaras-Antakya Kızılçam","caption":"Kahramanmaras-Antakya Kızılçam","credit":"MOKFC01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Antakya%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227906","tip":"genel"}]
 description: "Kahramanmaras-Antakya Kızılçam milli parkı, İç Anadolu Bölgesi'nin güzide yerlerinden biri"
 keywords: ["Kahramanmaras","Antakya","Kızılçam","milli park","İç Anadolu Bölgesi","doğa","turizm","gezi","yaban hayatı"]

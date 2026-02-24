@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik yapmak","doğayı seyretmek","fotograf çekmek","yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Serenler Tepesi","caption":"Serenler Tepesi","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/960px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Serenler Tepesi","caption":"Serenler Tepesi","credit":"Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Serenler%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228298","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en güzel doğal alanlarından biri olan Serenler Tepesi, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Serenler Tepesi","İç Anadolu Bölgesi","doğal alan","milli park","gezi","doğa","çevre","flora","fauna"]

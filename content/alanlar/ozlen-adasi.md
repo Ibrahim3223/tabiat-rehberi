@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Özlen Adası","caption":"Özlen Adası","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/K%C4%B1z%C4%B1l_Adalar_001.jpg/960px-K%C4%B1z%C4%B1l_Adalar_001.jpg","alt":"Özlen Adası","caption":"Özlen Adası","credit":"Kızıl Adalar 001","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96zlen%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34794762","tip":"genel"}]
 description: "Muğla'da bulunan Özlen Adası, doğanın güzelliğini keşfedin. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Özlen Adası","Muğla","ada","doğa","yeşil cennet","gezi","seyahat","turizm","deniz"]

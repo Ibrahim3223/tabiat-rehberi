@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Türbe gezisi","Plaj aktiviteleri","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Menteşeoğlu Ahmet Gazi Türbesi","caption":"Menteşeoğlu Ahmet Gazi Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_05.jpg","alt":"Menteşeoğlu Ahmet Gazi Türbesi","caption":"Menteşeoğlu Ahmet Gazi Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mente%C5%9Feo%C4%9Flu%20Ahmet%20Gazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391359","tip":"genel"}]
 description: "Muğla'nın Milas ilçesinde bulunan tarihi bir türbe ve plaj"
 keywords: ["Menteşeoğlu Ahmet Gazi Türbesi","Milas","Muğla","tarih","plaj","Ege Bölgesi","gezi","tarihçe"]

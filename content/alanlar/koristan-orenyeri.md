@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Köristan Örenyeri","caption":"Köristan Örenyeri","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Köristan Örenyeri","caption":"Köristan Örenyeri","credit":"Karaburun - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6ristan%20%C3%96renyeri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728146","tip":"genel"}]
 description: "Sarıveliler Karaman'da bulunan tarihi ve doğal güzellikleri barındıran bir ören yeri"
 keywords: ["Köristan Örenyeri","Sarıveliler","Karaman","İç Anadolu Bölgesi","tarihi örenyeri","doğal güzellik","gezi alanı"]

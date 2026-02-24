@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî gezinti","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Termessos Mamastis Mozolesi","caption":"Termessos Mamastis Mozolesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_07.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_07.jpg","alt":"Termessos Mamastis Mozolesi","caption":"Termessos Mamastis Mozolesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 07","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Termessos%20Mamastis%20Mozolesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728136","tip":"genel"}]
 description: "Antalya'nın Döşemealtı ilçesinde yer alan tarihi mozole"
 keywords: ["Termessos","Mamastis Mozolesi","Döşemealtı","Antalya","tarih","mozole","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültür turu","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Arıl Hüyüğü","caption":"Arıl Hüyüğü","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Detail_of_west_elevation_bay_window%2C_exterior._View_looking_southwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-8.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Arıl Hüyüğü","caption":"Arıl Hüyüğü","credit":"Detail of west elevation bay window, exterior. View looking southwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-8","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ar%C4%B1l%20H%C3%BCy%C3%BC%C4%9F%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32129724","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan tarihi mekan, Gaziantep'in önemli kültür varlıklarından biridir."
 keywords: ["Arıl Hüyüğü","Gaziantep","tarih","kültür","Güneydoğu Anadolu Bölgesi","arkeoloji","gezi","tarihçe","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/960px-Kursunlu_Waterfall_Autumn.jpg","alt":"Sakaltutan Mağarası","caption":"Sakaltutan Mağarası","credit":"Kursunlu Waterfall Autumn.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bulletin_of_the_Geological_Society_of_America_%281923%29_%2814595083859%29.jpg/960px-Bulletin_of_the_Geological_Society_of_America_%281923%29_%2814595083859%29.jpg","alt":"Sakaltutan Mağarası","caption":"Sakaltutan Mağarası","credit":"Bulletin of the Geological Society of America (1923) (14595083859)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakaltutan%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319723","tip":"genel"}]
 description: "Antalya'da yer alan Sakaltutan Mağarası, jeopark özellikleri ile dikkat çeker. Doğal güzelliği ve tarihi önemi ile ziyaretçilerini bekliyor."
 keywords: ["Sakaltutan Mağarası","Antalya","Jeopark","Doğa","Tarih","Mağara","Gezi","Turizm","Antalya Turistik Yerler"]

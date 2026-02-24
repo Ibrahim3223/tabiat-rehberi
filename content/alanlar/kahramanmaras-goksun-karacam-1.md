@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografcilik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kahramanmaras-Goksun Karacam 1","caption":"Kahramanmaras-Goksun Karacam 1","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"Kahramanmaras-Goksun Karacam 1","caption":"Kahramanmaras-Goksun Karacam 1","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Goksun%20Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227519","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kahramanmaras","Goksun","Karacam","milli park","doğa","gezi","iç anadolu","turizm"]

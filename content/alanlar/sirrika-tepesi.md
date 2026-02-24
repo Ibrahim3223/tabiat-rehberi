@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Coğrafi keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Şırrıka Tepesi","caption":"Şırrıka Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Şırrıka Tepesi","caption":"Şırrıka Tepesi","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9E%C4%B1rr%C4%B1ka%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386796","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide illerinden Batman'da yer alan Şırrıka Tepesi, ziyaretçilerini büyüleyen bir doğa harikasıdır."
 keywords: ["Şırrıka Tepesi","Batman","Güneydoğu Anadolu Bölgesi","Doğa","Tepeler","Coğrafya","Gezi","Tarih"]

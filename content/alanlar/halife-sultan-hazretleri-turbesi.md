@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Halife Sultan Hazretleri Türbesi","caption":"Halife Sultan Hazretleri Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg","alt":"Halife Sultan Hazretleri Türbesi","caption":"Halife Sultan Hazretleri Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 01","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halife%20Sultan%20Hazretleri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391770","tip":"genel"}]
 description: "Kastamonu'nun tarihi ve doğal güzellikleri arasında yer alan Halife Sultan Hazretleri Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Kastamonu","Halife Sultan Hazretleri Türbesi","tarih","doğa","türbe","gezi","Karadeniz Bölgesi","kültür"]

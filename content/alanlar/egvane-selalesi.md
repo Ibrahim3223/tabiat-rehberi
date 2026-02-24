@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg","alt":"Eğvane Şelalesi","caption":"Eğvane Şelalesi","credit":"Kurşunlu Şelalesi Tabiat Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Aksu_%C3%87ay%C4%B1_-_Giresun_02.JPG/960px-Aksu_%C3%87ay%C4%B1_-_Giresun_02.JPG","alt":"Eğvane Şelalesi","caption":"Eğvane Şelalesi","credit":"Aksu Çayı - Giresun 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Fvane%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320213","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
 keywords: ["Eğvane Şelalesi","İç Anadolu Bölgesi","doğa","şelale","yeşil alan","gezi","turizm","çevre"]

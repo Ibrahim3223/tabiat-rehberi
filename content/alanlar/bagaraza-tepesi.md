@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğrafçılık","tarihi kalıntıları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Bagaraza Tepesi","caption":"Bagaraza Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-20.tif/lossy-page1-900px-Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-20.tif.jpg","alt":"Bagaraza Tepesi","caption":"Bagaraza Tepesi","credit":"Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-20","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bagaraza%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548135","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin Siirt ilinde yer alan Bagaraza Tepesi, 1400 metrelik yüksekliğiyle dikkat çeker."
 keywords: ["Bagaraza Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tepe","doğa","gezi","turizm","coğrafya","flora","fauna"]

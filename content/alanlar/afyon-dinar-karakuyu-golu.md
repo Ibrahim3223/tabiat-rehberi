@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["balık avı","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Afyon-Dinar Karakuyu Golu","caption":"Afyon-Dinar Karakuyu Golu","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"Afyon-Dinar Karakuyu Golu","caption":"Afyon-Dinar Karakuyu Golu","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Afyon-Dinar%20Karakuyu%20Golu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228367","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Afyon-Dinar Karakuyu Golu, doğa severler için önemli bir destinasyon"
 keywords: ["Afyon","Dinar","Karakuyu Golu","İç Anadolu Bölgesi","doğa","gezi","turizm"]

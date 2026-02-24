@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Tuz Pazarı Hamamı","caption":"Tuz Pazarı Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%D8%A7%D8%B3%D8%AA%D8%A7%D9%85%D8%A8%D9%88%D9%84.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%85%D8%A8%D9%88%D9%84.jpg","alt":"Tuz Pazarı Hamamı","caption":"Tuz Pazarı Hamamı","credit":"استامبول","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tuz%20Pazar%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738736","tip":"genel"}]
 description: "Merzifon'un tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Merzifon","Tuz Pazarı Hamamı","doğal güzellik","tarih","gezi","turizm","iç Anadolu","plaj"]

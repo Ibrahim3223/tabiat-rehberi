@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","manzara izleme","bitki türleri gözlemleme","kuş gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Lalelik Tepesi","caption":"Lalelik Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Lalelik Tepesi","caption":"Lalelik Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lalelik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388101","tip":"genel"}]
 description: "Denizli'de yer alan Lalelik Tepesi, Ege Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Lalelik Tepesi","Denizli","Ege Bölgesi","doğal güzellik","tepe","manzara","turizm","gezi"]

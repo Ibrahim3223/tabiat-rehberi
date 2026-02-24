@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Bin Tepeler Tümülüsü 23","caption":"Bin Tepeler Tümülüsü 23","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Beachside_in_Sinop.jpg/960px-Beachside_in_Sinop.jpg","alt":"Bin Tepeler Tümülüsü 23","caption":"Bin Tepeler Tümülüsü 23","credit":"Beachside in Sinop","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2023","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728345","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide ilçesi Salihli'de bulunan Bin Tepeler Tümülüsü 23, tarihi ve doğal güzelliklerin birleştiği özel bir yer."
 keywords: ["Bin Tepeler","Salihli","Manisa","Ege Bölgesi","tarih","doğa","gezi","tümülüs"]

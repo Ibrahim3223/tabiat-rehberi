@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doga yürüyüşü","Trekking","Kazı çalışmaları ve araştırmalar","Rehberlik hizmetleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Sürünün Öreni Ve Yedikaplıar Kaya Yerleşim Yeri Sit Alanı","caption":"Sürünün Öreni Ve Yedikaplıar Kaya Yerleşim Yeri Sit Alanı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg","alt":"Sürünün Öreni Ve Yedikaplıar Kaya Yerleşim Yeri Sit Alanı","caption":"Sürünün Öreni Ve Yedikaplıar Kaya Yerleşim Yeri Sit Alanı","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCr%C3%BCn%C3%BCn%20%C3%96reni%20Ve%20Yedikapl%C4%B1ar%20Kaya%20Yerle%C5%9Fim%20Yeri%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226052","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli kaya yerleşim yeri, tarihi geçmişi ve doğal güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Sürünün Öreni","Yedikaplıar Kaya Yerleşim Yeri","İç Anadolu Bölgesi","kaya yerleşim","doğal güzellik","tarihi geçmişi"]

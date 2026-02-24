@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yıldız Sarayı kompleksini gezmek","Kaskad Köşkü'nü ziyaret etmek","Yeşillik alanlarda dinlenmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Yıldız Sarayı Kaskad Köşkü","caption":"Yıldız Sarayı Kaskad Köşkü","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg","alt":"Yıldız Sarayı Kaskad Köşkü","caption":"Yıldız Sarayı Kaskad Köşkü","credit":"2023-11-04 Choban beach near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Kaskad%20K%C3%B6%C5%9Fk%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135429076","tip":"genel"}]
 description: "İstanbul'un Beşiktaş ilçesinde yer alan Yıldız Sarayı Kaskad Köşkü, tarihi ve doğal güzellikleri bir arada sunan özel bir mekan."
 keywords: ["Yıldız Sarayı","Kaskad Köşkü","Beşiktaş","İstanbul","Marmara Bölgesi","tarih","doğa","gezi"]

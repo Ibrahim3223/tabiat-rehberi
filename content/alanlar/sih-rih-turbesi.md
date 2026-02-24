@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe research","Doğa yürüyüşü","Fotografçılık","Deniz manzarası izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Şıh Rih Türbesi","caption":"Şıh Rih Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Şıh Rih Türbesi","caption":"Şıh Rih Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9E%C4%B1h%20Rih%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391762","tip":"genel"}]
 description: "Mersin'in tarihi ve doğal güzelliklerinin buluştuğu noktada bulunan Şıh Rih Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Şıh Rih Türbesi","Mersin","Türbe","Tarih","Doğa","Gezi","Turizm","Akdeniz"]

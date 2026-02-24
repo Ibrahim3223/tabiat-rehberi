@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Yaban hayatı gözlemi","Fotoğrafçılık","Tarih ve kültür gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Ankara Frig Tümülüsü 7, Emniyet","caption":"Ankara Frig Tümülüsü 7, Emniyet","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg","alt":"Ankara Frig Tümülüsü 7, Emniyet","caption":"Ankara Frig Tümülüsü 7, Emniyet","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 17","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%207%2C%20Emniyet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728285","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. Ankara Frig Tümülüsü 7, Emniyet'te yüzyılların izlerini takip edin."
 keywords: ["Ankara","Frig Tümülüsü","Emniyet","tarih","doğa","gezi","keşif","yaban hayatı","çevre","kültür"]

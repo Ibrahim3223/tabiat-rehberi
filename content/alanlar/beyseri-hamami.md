@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günde birkaç saat"
 aktiviteler: ["plajda güneşlenmek","hamamın tarihi geçmişini keşfetmek","doğal güzelliği izlemek","yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Beyseri Hamamı","caption":"Beyseri Hamamı","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg","alt":"Beyseri Hamamı","caption":"Beyseri Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beyseri%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738938","tip":"genel"}]
 description: "Antakya'da yer alan tarihi hamam ve plaj alanı"
 keywords: ["Beyseri Hamamı","Antakya","Hatay","Akdeniz Bölgesi","tarihi hamam","plaj","turizm"]

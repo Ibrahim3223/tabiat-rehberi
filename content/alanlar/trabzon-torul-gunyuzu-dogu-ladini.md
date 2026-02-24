@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sis_da%C4%9F%C4%B1_%281%29.jpg/960px-Sis_da%C4%9F%C4%B1_%281%29.jpg","alt":"Trabzon-Torul-Gunyuzu-Dogu Ladini","caption":"Trabzon-Torul-Gunyuzu-Dogu Ladini","credit":"Sis dağı (1).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akdag_bridge.jpg/960px-Akdag_bridge.jpg","alt":"Trabzon-Torul-Gunyuzu-Dogu Ladini","caption":"Trabzon-Torul-Gunyuzu-Dogu Ladini","credit":"Akdag bridge","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Torul-Gunyuzu-Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228283","tip":"genel"}]
 description: "Trabzon'un Torul ilçesinde yer alan milli park, 140 hektarlık alanı ile doğa severlerin gözdesi"
 keywords: ["Trabzon","Torul","Milli Park","Doğa","Gezi","Turizm","Karadeniz","Yeşil","Çevre"]

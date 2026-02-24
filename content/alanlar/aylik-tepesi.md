@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Fotoğrafçılık","Manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aksu_Deresi_-_panoramio.jpg/960px-Aksu_Deresi_-_panoramio.jpg","alt":"Aylık Tepesi","caption":"Aylık Tepesi","credit":"Aksu Deresi - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Aylık Tepesi","caption":"Aylık Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayl%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389179","tip":"genel"}]
 description: "Giresun'un önemli doğal güzelliklerinden biri olan Aylık Tepesi, ziyaretçilerini büyüleyen bir manzaraya sahiptir."
 keywords: ["Aylık Tepesi","Giresun","Karadeniz Bölgesi","doğa","tepe","manzara","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","picnic","çevre izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kavaklığıntombul Tepesi","caption":"Kavaklığıntombul Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Kavaklığıntombul Tepesi","caption":"Kavaklığıntombul Tepesi","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kavakl%C4%B1g%C4%B1ntombul%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535128","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerinden biri olan Kavaklığıntombul Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kavaklığıntombul Tepesi","Gaziantep","doğal güzellik","tepe","Güneydoğu Anadolu Bölgesi","gezi","turizm","coğrafya"]

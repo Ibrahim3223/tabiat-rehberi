@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Antalya-Kumluca-Akdag Sedir","caption":"Antalya-Kumluca-Akdag Sedir","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg","alt":"Antalya-Kumluca-Akdag Sedir","caption":"Antalya-Kumluca-Akdag Sedir","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5515332844)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Kumluca-Akdag%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227600","tip":"genel"}]
 description: "Antalya'da yer alan Akdag Sedir milli parkı, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekmektedir."
 keywords: ["Akdag Sedir","milli park","Antalya","Kumluca","doğa","flora","fauna","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları gezmek","Doğa yürüyüşü yapmak","Manzara izlemek","Fotografi çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Rişkala Tepesi","caption":"Rişkala Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Rişkala Tepesi","caption":"Rişkala Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ri%C5%9Fkala%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31551477","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin birleştiği Rişkala Tepesi, ziyaretçilerini bekliyor. Tarihi geçmişi ve eşsiz manzarasıyla dikkat çekiyor."
 keywords: ["Rişkala Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","tarihi yerler","doğa güzellikleri","gezi rehberi","Mardin gezilecek yerler","tarih","coğrafya"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","picnic","yaban hayatı gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Günay Şelalesi Sit Alanı","caption":"Günay Şelalesi Sit Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"Günay Şelalesi Sit Alanı","caption":"Günay Şelalesi Sit Alanı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCnay%20%C5%9Eelalesi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226808","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Günay Şelalesi Sit Alanı, ziyaretçilerini büyüleyen bir destinasyon."
 keywords: ["Günay Şelalesi","Sit Alanı","İç Anadolu Bölgesi","doğal güzellik","şelale","turizm"]

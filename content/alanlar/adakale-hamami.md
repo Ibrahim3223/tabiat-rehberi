@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","tarihî yapılar gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Adakale Hamamı","caption":"Adakale Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg/960px-Karadouran_village%2C_Syria-Turkey_boarderline%2C_Kessab.jpg","alt":"Adakale Hamamı","caption":"Adakale Hamamı","credit":"Karadouran village, Syria-Turkey boarderline, Kessab","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adakale%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q124024458","tip":"genel"}]
 description: "Ardanuç'un doğal güzelliklerini keşfedin, 140 hektarlık alanın büyüklüğü yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Ardanuç","Kars Oblastı","İç Anadolu Bölgesi","doğal güzellik","plaj","hamam"]

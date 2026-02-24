@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Tarihî araştırma","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Karacaahmet Sultan Türbesi, Aydın","caption":"Karacaahmet Sultan Türbesi, Aydın","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mediterranean_Sea%28Alanya%29%D0%BC%D1%8B%D1%81_%D0%94%D0%B6%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B4%D0%B0_-_panoramio_%281%29.jpg/960px-Mediterranean_Sea%28Alanya%29%D0%BC%D1%8B%D1%81_%D0%94%D0%B6%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B4%D0%B0_-_panoramio_%281%29.jpg","alt":"Karacaahmet Sultan Türbesi, Aydın","caption":"Karacaahmet Sultan Türbesi, Aydın","credit":"Mediterranean Sea(Alanya)мыс Джильварда - panoramio (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karacaahmet%20Sultan%20T%C3%BCrbesi%2C%20Ayd%C4%B1n","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582185","tip":"genel"}]
 description: "Ege Bölgesi'nin önemli tarihi ve kültürel mekanlarından biri olan Karacaahmet Sultan Türbesi, Aydın'da yer alır. Tarihi ve doğal güzellikleri bir arada sunar."
 keywords: ["Karacaahmet Sultan Türbesi","Aydın","Ege Bölgesi","tarih","kültür","doğa"]

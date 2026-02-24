@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Ilıksu Mağarası","caption":"Ilıksu Mağarası","credit":"Aydıncık Cave","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ball%C4%B1ca_Ma%C4%9Faras%C4%B1_So%C4%9Fan_Sark%C4%B1tlar.jpg/960px-Ball%C4%B1ca_Ma%C4%9Faras%C4%B1_So%C4%9Fan_Sark%C4%B1tlar.jpg","alt":"Ilıksu Mağarası","caption":"Ilıksu Mağarası","credit":"Ballıca Mağarası Soğan Sarkıtlar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Il%C4%B1ksu%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915646","tip":"genel"}]
 description: "Zonguldak'ta yer alan Ilıksu Mağarası, doğa severlerin keşfetmek için ziyaret edebileceği bir mağara"
 keywords: ["Ilıksu Mağarası","Zonguldak","Mağara","Doğa","Turizm","Gezi","Zonguldak Mağaraları","Ilıksu","Mağara Gezisi"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kutahya-Tavsanli-Balikoy-Karacam","caption":"Kutahya-Tavsanli-Balikoy-Karacam","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843037%29.jpg","alt":"Kutahya-Tavsanli-Balikoy-Karacam","caption":"Kutahya-Tavsanli-Balikoy-Karacam","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843037)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Tavsanli-Balikoy-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228531","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinin birleştiği bir milli park"
 keywords: ["Kutahya","Tavsanli","Balikoy","Karacam","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm"]

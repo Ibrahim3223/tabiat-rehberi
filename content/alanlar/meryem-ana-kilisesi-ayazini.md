@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kilise gezisi","doğa yürüyüşü","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Meryem Ana Kilisesi, Ayazini","caption":"Meryem Ana Kilisesi, Ayazini","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_08.jpg","alt":"Meryem Ana Kilisesi, Ayazini","caption":"Meryem Ana Kilisesi, Ayazini","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Meryem%20Ana%20Kilisesi%2C%20Ayazini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245874","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli incisi, İhsaniye'de bulunan tarihi kilise"
 keywords: ["Meryem Ana Kilisesi","Ayazini","İhsaniye","Afyonkarahisar","Ege Bölgesi","tarihi kilise","Ayazini köyü","kilise mimarisi"]

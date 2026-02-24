@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Soğanlık Tepesi","caption":"Soğanlık Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Soğanlık Tepesi","caption":"Soğanlık Tepesi","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fanl%C4%B1k%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389898","tip":"genel"}]
 description: "Sinop'un doğal güzelliklerini keşfedin. Soğanlık Tepesi, Karadeniz Bölgesi'nin en güzel noktalarından biri."
 keywords: ["Soğanlık Tepesi","Sinop","Karadeniz Bölgesi","doğa","gezi","tepe","manzara","turizm"]

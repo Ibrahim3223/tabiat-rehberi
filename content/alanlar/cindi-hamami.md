@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denize girme","Güneşlenme","Doğa yürüyüşü","Tarihî yerleri gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Cindi Hamamı","caption":"Cindi Hamamı","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Beach_and_cows_I%C4%9Fneada_floodplain.jpg/960px-Beach_and_cows_I%C4%9Fneada_floodplain.jpg","alt":"Cindi Hamamı","caption":"Cindi Hamamı","credit":"Beach and cows Iğneada floodplain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cindi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738472","tip":"genel"}]
 description: "Antakya'nın saklı cenneti, Cindi Hamamı"
 keywords: ["Cindi Hamamı","Antakya","Hatay","Akdeniz Bölgesi","plaj","doğa","gezi"]

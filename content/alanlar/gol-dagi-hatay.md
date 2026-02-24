@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Göl Dağı","caption":"Göl Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/960px-Moraine_Lake_17092005.jpg","alt":"Göl Dağı","caption":"Göl Dağı","credit":"Moraine Lake 17092005","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6l%20Da%C4%9F%C4%B1%20(Hatay)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872337","tip":"genel"}]
 description: "Hatay'da bulunan Göl Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un yarısı kadar bir alanı kaplıyor."
 keywords: ["Göl Dağı","Hatay","Doğa","Dağ","Yeşil Alan","Turizm","Seyahat","Gezi","Doğa Sporları"]

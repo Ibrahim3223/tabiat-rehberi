@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["plajda dinlenme","denizde yüzme","doğa yürüyüşü","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Perşembe Hamamı","caption":"Perşembe Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Istanbul_beaches-_Sea_of_Marmara_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_14.jpg","alt":"Perşembe Hamamı","caption":"Perşembe Hamamı","credit":"Istanbul beaches- Sea of Marmara 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Per%C5%9Fembe%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738812","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde yer alan, Marmara Bölgesi'nin önemli plajlarından biri olan Perşembe Hamamı, doğal güzelliği ve tarihi değerleri ile ziyaretçilerini bekliyor."
 keywords: ["Perşembe Hamamı","Bursa","Osmangazi","Marmara Bölgesi","plaj","doğal güzellik","tarih"]

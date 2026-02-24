@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Trekking","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Esiri Baba Türbesi","caption":"Esiri Baba Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg","alt":"Esiri Baba Türbesi","caption":"Esiri Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Esiri%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390904","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti Esiri Baba Türbesi, Hekimhan/Malatya'da doğayı ve tarihiyle büyülüyor."
 keywords: ["Esiri Baba Türbesi","Hekimhan","Malatya","Doğu Anadolu Bölgesi","tarih","doğa","gezi","türbe"]

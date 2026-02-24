@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Zonguldak-Bartin-Kumluca Dogu Kayini 2","caption":"Zonguldak-Bartin-Kumluca Dogu Kayini 2","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg","alt":"Zonguldak-Bartin-Kumluca Dogu Kayini 2","caption":"Zonguldak-Bartin-Kumluca Dogu Kayini 2","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Bartin-Kumluca%20Dogu%20Kayini%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227797","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide illerinden Zonguldak'ta yer alan Zonguldak-Bartin-Kumluca Dogu Kayini 2 milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikası sunuyor."
 keywords: ["Zonguldak","milli park","doğa","Karadeniz Bölgesi","yeşil alan","flora","fauna"]

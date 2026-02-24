@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Çevre gezisi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kastamonu-Bostan-Uludaggoknari","caption":"Kastamonu-Bostan-Uludaggoknari","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg","alt":"Kastamonu-Bostan-Uludaggoknari","caption":"Kastamonu-Bostan-Uludaggoknari","credit":"Gölcük Tabiat Parkı Genel Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Bostan-Uludaggoknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228103","tip":"genel"}]
 description: "Kastamonu'nun yeşil cenneti, Uludagökneri Milli Parkı"
 keywords: ["Kastamonu","Uludagökneri","Milli Park","Doğa","Yeşil","Kastamonu-Bostan-Uludaggoknari"]

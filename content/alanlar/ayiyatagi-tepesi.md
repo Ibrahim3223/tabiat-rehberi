@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Dağcılık","Doğa Yürüyüşleri","Fotoğrafçılık","Tarihi Yerleri Gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Ayıyatağı Tepesi","caption":"Ayıyatağı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Ayıyatağı Tepesi","caption":"Ayıyatağı Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ay%C4%B1yata%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388408","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin, Ayıyatağı Tepesi'ne çıkın ve büyüleyici manzarayı görün."
 keywords: ["Ayıyatağı Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğa","Tepeler","Manzara","Gezi","Turizm","Dağcılık"]

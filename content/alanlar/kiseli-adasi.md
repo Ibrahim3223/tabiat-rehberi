@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Kiseli Adası","caption":"Kiseli Adası","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Robot_Island_-_panoramio.jpg/960px-Robot_Island_-_panoramio.jpg","alt":"Kiseli Adası","caption":"Kiseli Adası","credit":"Robot Island - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kiseli%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49646083","tip":"genel"}]
 description: "Muğla'da bulunan Kiseli Adası, doğa güzelliği ve tarihi zenginlikleriyle dikkat çekiyor."
 keywords: ["Kiseli Adası","Muğla","ada","doğa","tarih","gezi","seyahat","turizm","Ege Bölgesi"]

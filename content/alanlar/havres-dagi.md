@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Havres Dağı","caption":"Havres Dağı","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Olympos_Peak.jpg/960px-Olympos_Peak.jpg","alt":"Havres Dağı","caption":"Havres Dağı","credit":"Olympos Peak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Havres%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34920996","tip":"genel"}]
 description: "Diyarbakır'ın doğal güzelliklerini keşfedin, Havres Dağı'nın heybetli manzaraları ve tarihi önemi"
 keywords: ["Havres Dağı","Diyarbakır","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Güneydoğu Anadolu"]

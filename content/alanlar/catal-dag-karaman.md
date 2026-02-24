@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-5 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotografcilik","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Çatal Dağ","caption":"Çatal Dağ","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Çatal Dağ","caption":"Çatal Dağ","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atal%20Da%C4%9F%20(Karaman)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824090","tip":"genel"}]
 description: "Karaman'da yer alan Çatal Dağ, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Çatal Dağ","Karaman","Dağ","Doğa","Trekking","Coğrafi Oluşum","Turizm","Karaman Gezi","Doğal Güzellik"]

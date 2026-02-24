@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_05.jpg","alt":"Palıtlı Tepe","caption":"Palıtlı Tepe","credit":"Kayaözü Creek Valley, Kahramanmaraş 05.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Palıtlı Tepe","caption":"Palıtlı Tepe","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pal%C4%B1tl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391017","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Palıtlı Tepe, doğal güzellikleri ve tarihi geçmişiyle dikkat çeker."
 keywords: ["Kahramanmaraş","Palıtlı Tepe","doğal güzellik","tarihi geçmişi","coğrafya","flora","fauna","ziyaret"]

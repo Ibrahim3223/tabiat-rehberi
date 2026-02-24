@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Taraklı Hamamı","caption":"Taraklı Hamamı","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg/960px-Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg","alt":"Taraklı Hamamı","caption":"Taraklı Hamamı","credit":"Piri Reis. Map of the Black Sea (Samsun)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tarakl%C4%B1%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738839","tip":"genel"}]
 description: "Taraklı Hamamı, Sakarya'nın Taraklı ilçesinde bulunan doğal bir plajdır. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve Marmara Bölgesi'nin önemli turizm noktalarından biridir."
 keywords: ["Taraklı Hamamı","Sakarya","Taraklı","Marmara Bölgesi","doğal plaj","yeşil alan","turizm"]

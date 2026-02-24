@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğal yürüyüşler","Fotoğraf çekimi","Tarihî yapıları gezme","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Karanday Ağa Kümbeti","caption":"Karanday Ağa Kümbeti","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-19_Ufakdere_Port_Beach_1.jpg/960px-2023-11-19_Ufakdere_Port_Beach_1.jpg","alt":"Karanday Ağa Kümbeti","caption":"Karanday Ağa Kümbeti","credit":"2023-11-19 Ufakdere Port Beach 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karanday%20A%C4%9Fa%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582815","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde bulunan Karanday Ağa Kümbeti, tarihi ve doğal güzelliklerinin birleştiği özel bir nokta"
 keywords: ["Karanday Ağa Kümbeti","Güroymak","Bitlis","Doğu Anadolu Bölgesi","tarihi mekan","doğal güzellik","gezi noktaları"]

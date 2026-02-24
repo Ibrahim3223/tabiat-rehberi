@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotograf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Aksaz Roma Hamamı","caption":"Aksaz Roma Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg","alt":"Aksaz Roma Hamamı","caption":"Aksaz Roma Hamamı","credit":"Sunset at Aegean Sea, İzmir 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Aksaz%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245765","tip":"genel"}]
 description: "Ulubey'in gizli cevheri, Aksaz Roma Hamamı. Tarih ve doğanın iç içe geçtiği bu özel mekan, ziyaretçilerini bekliyor."
 keywords: ["Aksaz Roma Hamamı","Ulubey","Uşak","Ege Bölgesi","Roma Hamamı","tarih","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg/960px-G%C3%BCver_Cliff_Landscape_%28Antalya%29.jpg","alt":"Sarıyer Dağı","caption":"Sarıyer Dağı","credit":"Güver Cliff Landscape (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Develi_Ovas%C4%B1_15_06_1988_mit_Erciyes_Da%C4%9F%C4%B1.jpg/960px-Develi_Ovas%C4%B1_15_06_1988_mit_Erciyes_Da%C4%9F%C4%B1.jpg","alt":"Sarıyer Dağı","caption":"Sarıyer Dağı","credit":"Develi Ovası 15 06 1988 mit Erciyes Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1yer%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31507230","tip":"genel"}]
 description: "Antalya'da bulunan Sarıyer Dağı, 1200 hektarlık yeşil alanı ile şehrin doğal güzelliğini gösterir."
 keywords: ["Sarıyer Dağı","Antalya","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Antalya Turistik Yerler","Dağ Turizmi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemciliği","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Bin Tepeler Tümülüsü 63","caption":"Bin Tepeler Tümülüsü 63","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 63","caption":"Bin Tepeler Tümülüsü 63","credit":"Akdeniz- the mediterranean-silence beach resort hotel - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2063","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728301","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli hazinelerinden biri olan Bin Tepeler Tümülüsü 63, Ahmetli-Manisa'da yer alıyor."
 keywords: ["Bin Tepeler","Tümülüs","Ahmetli","Manisa","Ege Bölgesi","tarih","coğrafya","doğa"]

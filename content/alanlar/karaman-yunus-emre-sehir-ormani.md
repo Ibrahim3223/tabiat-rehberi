@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa seyri","Fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"KARAMAN YUNUS EMRE ŞEHİR ORMANI","caption":"KARAMAN YUNUS EMRE ŞEHİR ORMANI","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"KARAMAN YUNUS EMRE ŞEHİR ORMANI","caption":"KARAMAN YUNUS EMRE ŞEHİR ORMANI","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KARAMAN%20YUNUS%20EMRE%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228695","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Karaman Yunus Emre Şehir Ormanı, 140 hektarlık yeşil alanı ile ziyaretçilerini karşılar."
 keywords: ["Karaman","Yunus Emre","Şehir Ormanı","İç Anadolu Bölgesi","doğa","yeşil alan","orman","gezi","turizm"]

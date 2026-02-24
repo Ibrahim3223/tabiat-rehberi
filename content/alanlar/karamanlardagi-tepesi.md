@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","kamp","manzara seyretme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karamanlardağı Tepesi","caption":"Karamanlardağı Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Karamanlardağı Tepesi","caption":"Karamanlardağı Tepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karamanlarda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389635","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin, Karamanlardağı Tepesi'ne çıkın ve Karadeniz Bölgesi'nin muhteşem manzarasını seyredin."
 keywords: ["Karamanldağı Tepesi","Kastamonu","Karadeniz Bölgesi","doğa","tepe","manzara","gezi","turizm","coğrafya"]

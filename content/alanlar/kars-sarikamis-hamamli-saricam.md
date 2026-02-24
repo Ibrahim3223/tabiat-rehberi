@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","kayak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Kars-Sarikamis-Hamamli Saricam","caption":"Kars-Sarikamis-Hamamli Saricam","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kocakoru_Tabiat_Park%C4%B1_03.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_03.jpg","alt":"Kars-Sarikamis-Hamamli Saricam","caption":"Kars-Sarikamis-Hamamli Saricam","credit":"Kocakoru Tabiat Parkı 03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kars-Sarikamis-Hamamli%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227695","tip":"genel"}]
 description: "Doğu Anadolu'nun gizli cenneti, Kars-Sarikamis-Hamamli Saricam milli parkı"
 keywords: ["Kars","Sarikamis","Hamamli Saricam","milli park","Doğu Anadolu","doğal güzellik","gezi","turizm"]

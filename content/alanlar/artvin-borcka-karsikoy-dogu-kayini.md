@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snow_on_the_Lake_Abant.jpg/960px-Snow_on_the_Lake_Abant.jpg","alt":"Artvin-Borcka-Karsikoy Dogu Kayini","caption":"Artvin-Borcka-Karsikoy Dogu Kayini","credit":"Snow on the Lake Abant","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Akdag_pano.jpg/960px-Akdag_pano.jpg","alt":"Artvin-Borcka-Karsikoy Dogu Kayini","caption":"Artvin-Borcka-Karsikoy Dogu Kayini","credit":"Akdag pano","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Borcka-Karsikoy%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227774","tip":"genel"}]
 description: "Artvin'de yer alan milli park, 140 hektarlık yeşil alanı ve zengin faunası ile dikkat çekiyor"
 keywords: ["Artvin","milli park","doğal alan","fauna","flora","gezi","turizm","çevre","ekoloji"]

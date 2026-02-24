@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaret","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Canbaz Gazi Abdurrahman Efendi Türbesi Karaman","caption":"Canbaz Gazi Abdurrahman Efendi Türbesi Karaman","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg/960px-Bodrum%2C_Turkey_%28Unsplash_savOaIMns3Y%29.jpg","alt":"Canbaz Gazi Abdurrahman Efendi Türbesi Karaman","caption":"Canbaz Gazi Abdurrahman Efendi Türbesi Karaman","credit":"Bodrum, Turkey (Unsplash savOaIMns3Y)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canbaz%20Gazi%20Abdurrahman%20Efendi%20T%C3%BCrbesi%20Karaman","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390492","tip":"genel"}]
 description: "Karaman'da bulunan tarihi türbe ve çevresinin güzelliği"
 keywords: ["Karaman","Canbaz Gazi Abdurrahman Efendi","Türbe","Tarih","Coğrafya","Flora","Fauna","Ziyaret"]

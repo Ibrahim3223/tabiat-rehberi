@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Kızılgöl Dağı","caption":"Kızılgöl Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Kızılgöl Dağı","caption":"Kızılgöl Dağı","credit":"Vihorlat (v zime) 046","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lg%C3%B6l%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041976","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin, Kızılgöl Dağı'nın heybetli manzaraları ve zengin florası ile büyüleyin."
 keywords: ["Kızılgöl Dağı","Türkiye dağları","doğal güzellikler","turizm","gezi rehberi","dağcılık","doğa yürüyüşü","Türkiye'nin dağları","Kızılgöl"]

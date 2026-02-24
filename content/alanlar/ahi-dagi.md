@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Erikli.jpg/960px-Erikli.jpg","alt":"Ahı Dağı","caption":"Ahı Dağı","credit":"Erikli.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg/960px-Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg","alt":"Ahı Dağı","caption":"Ahı Dağı","credit":"Aladağlara Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ah%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572111","tip":"genel"}]
 description: "Bilecik'te yer alan Ahı Dağı, 1400 metre yüksekliğiyle bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Ahı Dağı","Bilecik","Dağ","Doğal Güzellik","Turizm","Türkiye","Coğrafya","Yerleşim","Gezi"]

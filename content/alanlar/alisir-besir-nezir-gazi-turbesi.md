@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe hakkında bilgi edinme","Kültürel mirası keşfetme","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Alişir-Beşir-Nezir Gazi Türbesi","caption":"Alişir-Beşir-Nezir Gazi Türbesi","credit":"Beach view - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beach_Karabashi_%28black_head%29_-_panoramio.jpg/960px-Beach_Karabashi_%28black_head%29_-_panoramio.jpg","alt":"Alişir-Beşir-Nezir Gazi Türbesi","caption":"Alişir-Beşir-Nezir Gazi Türbesi","credit":"Beach Karabashi (black head) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ali%C5%9Fir-Be%C5%9Fir-Nezir%20Gazi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391469","tip":"genel"}]
 description: "İzmir'in Bornova ilçesinde yer alan Alişir-Beşir-Nezir Gazi Türbesi, tarihsel ve kültürel öneme sahip bir alandır."
 keywords: ["Alişir-Beşir-Nezir Gazi Türbesi","Bornova","İzmir","tarihsel mekan","kültürel öneme sahip","Ege Bölgesi","tarih","kültür","gezi"]

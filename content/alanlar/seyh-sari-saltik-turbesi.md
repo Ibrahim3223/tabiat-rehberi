@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları gezmek","doğal güzellikleri keşfetmek","fotoğraf çekmek","yerel yemekleri tatmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Şeyh Sarı Saltık Türbesi","caption":"Şeyh Sarı Saltık Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pirlanta_beach_%40_october_2009_02_-_panoramio.jpg/960px-Pirlanta_beach_%40_october_2009_02_-_panoramio.jpg","alt":"Şeyh Sarı Saltık Türbesi","caption":"Şeyh Sarı Saltık Türbesi","credit":"Pirlanta beach @ october 2009 02 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Sar%C4%B1%20Salt%C4%B1k%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390641","tip":"genel"}]
 description: "Afyonkarahisar'ın Bolvadin ilçesinde bulunan Şeyh Sarı Saltık Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Şeyh Sarı Saltık Türbesi","Bolvadin","Afyonkarahisar","Ege Bölgesi","tarihi mekanlar","doğal güzellikler"]

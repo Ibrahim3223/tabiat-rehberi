@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Ata_oca%C4%9F%C4%B1_k%C3%BClt%C3%BCr_ve_sanat_evi.jpg","alt":"Şeyhan Dağı manzarası","credit":"Atabey seyhan","license":"cc-by-sa-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Şeyhan Dağı","caption":"Şeyhan Dağı","credit":"Erzincan Refahiye","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/2/29/Nuhun_izinde_gezi_parkuru.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Nuhun_izinde_gezi_parkuru.jpg/1280px-Nuhun_izinde_gezi_parkuru.jpg","alt":"Şeyhan Dağı - Nuhun izinde gezi parkuru","credit":"Atabey seyhan","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506887","tip":"genel"}]
 description: "Diyarbakır'da yer alan Şeyhan Dağı, 1200 metre yüksekliğiyle bölgenin önemli coğrafi oluşumlarından biri"

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","fotografçılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Gürüzdağı Tepesi","caption":"Gürüzdağı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Gürüzdağı Tepesi","caption":"Gürüzdağı Tepesi","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCr%C3%BCzda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139632","tip":"genel"}]
 description: "Gümüşhane'nin doğal güzelliklerinin öne çıktığı bir nokta olan Gürüzdağı Tepesi, ziyaretçilerini kendine hayran bırakıyor."
 keywords: ["Gürüzdağı Tepesi","Gümüşhane","Karadeniz Bölgesi","doğal güzellik","tepe","gezi","turizm"]

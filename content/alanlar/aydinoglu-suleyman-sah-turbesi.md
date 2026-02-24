@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Tarihi mekanları keşfetmek","Çevreyi keşfetmek","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg","alt":"Aydınoğlu Süleyman Şah Türbesi","caption":"Aydınoğlu Süleyman Şah Türbesi","credit":"Süzer Sun Dreams Beach 11 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Al-Samra_beach.jpg/960px-Al-Samra_beach.jpg","alt":"Aydınoğlu Süleyman Şah Türbesi","caption":"Aydınoğlu Süleyman Şah Türbesi","credit":"Al-Samra beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayd%C4%B1no%C4%9Flu%20S%C3%BCleyman%20%C5%9Eah%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390550","tip":"genel"}]
 description: "İzmir'in Tire ilçesinde bulunan tarihi bir türbe"
 keywords: ["Aydınoğlu Süleyman Şah","Tire","İzmir","tarih","türbe","Ege Bölgesi","gezi","tarihçe"]

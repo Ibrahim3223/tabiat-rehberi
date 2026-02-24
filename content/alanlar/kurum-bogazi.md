@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Kurum Boğazı","caption":"Kurum Boğazı","credit":"VallesMarinerisHuge.jpg","license":"Attribution"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gorge_of_Arpa_Cayi_River_-_Ani_%28Ancient_Armenian_Capital%29_-_Near_Kars_-_Turkey_%285811818779%29.jpg/960px-Gorge_of_Arpa_Cayi_River_-_Ani_%28Ancient_Armenian_Capital%29_-_Near_Kars_-_Turkey_%285811818779%29.jpg","alt":"Kurum Boğazı","caption":"Kurum Boğazı","credit":"Gorge of Arpa Cayi River - Ani (Ancient Armenian Capital) - Near Kars - Turkey (5811818779)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurum%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49343003","tip":"genel"}]
 description: "Hatay'da yer alan doğal güzellik, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Kurum Boğazı","Hatay","kanyon","doğal güzellik","yeşil alan","turizm","gezi","seyahat","Hatay gezilecek yerler"]

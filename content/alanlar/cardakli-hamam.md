@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî mekanları gezmek","Doğa yürüyüşü","Fotoğraf çekmek","Picnic yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Çardaklı Hamam","caption":"Çardaklı Hamam","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dalyanbal%C4%B1ktuzak.jpg/960px-Dalyanbal%C4%B1ktuzak.jpg","alt":"Çardaklı Hamam","caption":"Çardaklı Hamam","credit":"Dalyanbalıktuzak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ardakl%C4%B1%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738553","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan Çardaklı Hamam, tarihi ve doğal güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Çardaklı Hamam","Fatih","İstanbul","Marmara Bölgesi","tarihi mekan","doğa","gezi"]

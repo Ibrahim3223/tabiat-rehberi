@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Termessos Armasta Mozolesi","caption":"Termessos Armasta Mozolesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg","alt":"Termessos Armasta Mozolesi","caption":"Termessos Armasta Mozolesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Termessos%20Armasta%20Mozolesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728135","tip":"genel"}]
 description: "Antalya'nın Döşemealtı ilçesinde yer alan Termessos Armasta Mozolesi, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Termessos","Armasta Mozolesi","Döşemealtı","Antalya","Akdeniz Bölgesi","Plaj","Mozole","Tarih","Doğa"]

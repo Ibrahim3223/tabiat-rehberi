@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğa yürüyüşü yapmak","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Felâhoğlu Nureddin Türbesi","caption":"Felâhoğlu Nureddin Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Felâhoğlu Nureddin Türbesi","caption":"Felâhoğlu Nureddin Türbesi","credit":"Karaburun - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fel%C3%A2ho%C4%9Flu%20Nureddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391776","tip":"genel"}]
 description: "Tarsus'un tarihi ve doğal güzellikleri arasında yer alan Felâhoğlu Nureddin Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Tarsus","Kilikya","İç Anadolu Bölgesi","tarih","doğa","türbe","gezi","turizm"]

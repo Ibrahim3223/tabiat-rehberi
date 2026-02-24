@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Solitariness_-_panoramio.jpg/960px-Solitariness_-_panoramio.jpg","alt":"Antalya-Finike-Aykiricay Sedir 1","caption":"Antalya-Finike-Aykiricay Sedir 1","credit":"Solitariness - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"Antalya-Finike-Aykiricay Sedir 1","caption":"Antalya-Finike-Aykiricay Sedir 1","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Finike-Aykiricay%20Sedir%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227209","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin gözde milli parkı, Antalya'nın doğal güzellikleri"
 keywords: ["milli park","Antalya","Finike","Aykiricay","Sedir","Akdeniz Bölgesi","doğal güzellik","yeşil alan"]

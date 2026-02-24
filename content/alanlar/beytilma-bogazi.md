@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Beytilma Boğazı","caption":"Beytilma Boğazı","credit":"VallesMarinerisHuge","license":"Attribution"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ermenek_Canyon_bei_der_Stadt_Ermenek.jpg/960px-Ermenek_Canyon_bei_der_Stadt_Ermenek.jpg","alt":"Beytilma Boğazı","caption":"Beytilma Boğazı","credit":"Ermenek Canyon bei der Stadt Ermenek","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beytilma%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34895578","tip":"genel"}]
 description: "Hatay'da bulunan Beytilma Boğazı, 1200 metre uzunluğunda ve 500 metre derinliğinde bir kanyon"
 keywords: ["Beytilma Boğazı","Hatay","kanyon","doğa","gezi","turizm","yerel","coğrafya","çevre"]

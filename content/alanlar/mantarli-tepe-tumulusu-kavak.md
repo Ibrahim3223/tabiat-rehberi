@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî araştırma","Doğa yürüyüşü","Fotografcılık","Kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Mantarlı Tepe Tümülüsü Kavak","caption":"Mantarlı Tepe Tümülüsü Kavak","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sunset_Tavakl%C4%B1.jpg/960px-Sunset_Tavakl%C4%B1.jpg","alt":"Mantarlı Tepe Tümülüsü Kavak","caption":"Mantarlı Tepe Tümülüsü Kavak","credit":"Sunset Tavaklı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mantarl%C4%B1%20Tepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%20Kavak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728395","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun iline bağlı Kavak'ta bulunan Mantarlı Tepe Tümülüsü, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Mantarlı Tepe Tümülüsü","Kavak","Samsun","Karadeniz Bölgesi","tarihi mekanlar","doğa turizmi","tümülüs","kültür mirası"]

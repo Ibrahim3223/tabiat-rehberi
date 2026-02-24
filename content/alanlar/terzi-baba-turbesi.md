@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî eserleri gezmek","doğa yürüyüşü","fotograf çekmek","dinî törenlere katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Terzi Baba Türbesi","caption":"Terzi Baba Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_09.jpg","alt":"Terzi Baba Türbesi","caption":"Terzi Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Terzi%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390803","tip":"genel"}]
 description: "Erzincan'da bulunan tarihi ve doğal güzelliği bir arada sunan Terzi Baba Türbesi"
 keywords: ["Terzi Baba Türbesi","Erzincan","Doğu Anadolu Bölgesi","tarih","doğa","türbe","gezi","seyahat"]

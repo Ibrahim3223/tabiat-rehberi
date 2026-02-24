@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotografçılık","spor"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"TAVUSBABA ŞEHİR ORMANI","caption":"TAVUSBABA ŞEHİR ORMANI","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg","alt":"TAVUSBABA ŞEHİR ORMANI","caption":"TAVUSBABA ŞEHİR ORMANI","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843221)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/TAVUSBABA%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228696","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Tavusbaba Şehir Ormanı, yaklaşık 140 hektarlık alanı ile önemli bir yeşillik alanıdır."
 keywords: ["Tavusbaba Şehir Ormanı","İç Anadolu Bölgesi","şehir ormanı","yeşillik alanı","doğa","orman","çevre"]

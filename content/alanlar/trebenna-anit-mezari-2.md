@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denize girme","Güneşlenme","Yürüyüş yapma","Tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Trebenna Anıt Mezarı 2","caption":"Trebenna Anıt Mezarı 2","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ilica_plaj_-_beach_October_2009_2_-_panoramio.jpg/960px-Ilica_plaj_-_beach_October_2009_2_-_panoramio.jpg","alt":"Trebenna Anıt Mezarı 2","caption":"Trebenna Anıt Mezarı 2","credit":"Ilica plaj - beach October 2009 2 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trebenna%20An%C4%B1t%20Mezar%C4%B1%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728109","tip":"genel"}]
 description: "Konyaaltı'nda yer alan tarihi plaj, Akdeniz'in güzelliğini keşfedin."
 keywords: ["Trebenna","Anıt Mezarı 2","Konyaaltı","Antalya","Akdeniz","tarih","plaj","doğa"]

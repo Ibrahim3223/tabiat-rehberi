@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe içi gezi","Çevre keşfi","Doğa yürüyüşü","Yerel lezzetler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Melek İsmail Efendi Türbesi","caption":"Melek İsmail Efendi Türbesi","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Istanbul_beaches-_Sea_of_Marmara_11.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_11.jpg","alt":"Melek İsmail Efendi Türbesi","caption":"Melek İsmail Efendi Türbesi","credit":"Istanbul beaches- Sea of Marmara 11","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Melek%20%C4%B0smail%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390531","tip":"genel"}]
 description: "Melek İsmail Efendi Türbesi, Merzifon'da tarihi ve doğal güzelliği bir arada sunan özel bir yer."
 keywords: ["Melek İsmail Efendi Türbesi","Merzifon","tarih","doğa","türbe","gezi","İç Anadolu Bölgesi","kültür","miras"]

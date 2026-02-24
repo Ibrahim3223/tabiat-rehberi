@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe keşfi","Doğa yürüyüşü","Müze gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Black_and_white_Paris_landscape.jpg/960px-Black_and_white_Paris_landscape.jpg","alt":"Çamlıdere Belediyesi Müze Kompleksi","caption":"Çamlıdere Belediyesi Müze Kompleksi","credit":"Black and white Paris landscape","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Anti-Taurus_Mountains_-_panoramio.jpg/960px-Anti-Taurus_Mountains_-_panoramio.jpg","alt":"Çamlıdere Belediyesi Müze Kompleksi","caption":"Çamlıdere Belediyesi Müze Kompleksi","credit":"Anti-Taurus Mountains - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aml%C4%B1dere%20Belediyesi%20M%C3%BCze%20Kompleksi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950133","tip":"genel"}]
 description: "İstanbul'un doğal güzellikleri içinde yer alan Çamlıdere Belediyesi Müze Kompleksi, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle karşılar."
 keywords: ["İstanbul","Marmara Bölgesi","Çamlıdere","Müze","Kompleks","Doğa","Tarih","Kültür"]

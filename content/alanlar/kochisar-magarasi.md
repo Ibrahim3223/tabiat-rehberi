@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lower_Antelope_Canyon_November_2018_017.jpg/960px-Lower_Antelope_Canyon_November_2018_017.jpg","alt":"Koçhisar Mağarası","caption":"Koçhisar Mağarası","credit":"Lower Antelope Canyon November 2018 017","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-1.jpg/960px-Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-1.jpg","alt":"Koçhisar Mağarası","caption":"Koçhisar Mağarası","credit":"Geological formation, Şebinkarahisar 2016 01-1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7hisar%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319381","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin, Koçhisar Mağarası'nın jeolojik oluşumlarını ve tarihi önemini öğrenin."
 keywords: ["Koçhisar Mağarası","Çorum","Jeopark","Doğa Turizmi","Mağara Gezisi","Jeolojik Oluşumlar","Tarih","Çorum Turizmi","Doğal Alanlar"]

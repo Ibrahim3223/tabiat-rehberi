@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Yerel yemekleri tatmak","Köyleri gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_12_-_panoramio.jpg","alt":"Çoban Dede Türbesi, Ödemiş","caption":"Çoban Dede Türbesi, Ödemiş","credit":"Süzer Sun Dreams Beach 12 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Piri_Reis_-_Map_of_the_Northeastern_Tip_of_Rhodes_Island_Facing_the_Anatolian_Coast_with_the_Island_of_Syme_-_Walters_W658100B_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Northeastern_Tip_of_Rhodes_Island_Facing_the_Anatolian_Coast_with_the_Island_of_Syme_-_Walters_W658100B_-_Full_Page.jpg","alt":"Çoban Dede Türbesi, Ödemiş","caption":"Çoban Dede Türbesi, Ödemiş","credit":"Piri Reis - Map of the Northeastern Tip of Rhodes Island Facing the Anatolian Coast with the Island of Syme - Walters W658100B - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87oban%20Dede%20T%C3%BCrbesi%2C%20%C3%96demi%C5%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582192","tip":"genel"}]
 description: "İzmir'in Ödemiş ilçesinde bulunan Çoban Dede Türbesi, tarihi ve doğal güzelliği ile dikkat çekiyor. Ege Bölgesi'nin önemli ziyaret noktalarından biri olan bu mekan, hem dinamik bir geçmişe hem de zengin bir ekosisteme sahiptir."
 keywords: ["Çoban Dede Türbesi","Ödemiş","İzmir","Ege Bölgesi","tarih","doğa","turizm","gezi","ziyaret"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["güneşlenmek","denizde yüzme","su sporları","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Bin Tepeler Tümülüsü 53","caption":"Bin Tepeler Tümülüsü 53","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Divers.jpg/960px-Divers.jpg","alt":"Bin Tepeler Tümülüsü 53","caption":"Bin Tepeler Tümülüsü 53","credit":"Divers","license":"CC SA 1.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2053","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728323","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin. Bin Tepeler Tümülüsü 53, Manisa'nın Salihli ilçesinde yer alan bir plajdır."
 keywords: ["Bin Tepeler Tümülüsü 53","Salihli","Manisa","Ege Bölgesi","plaj","tarih","doğa","gezi","turizm"]

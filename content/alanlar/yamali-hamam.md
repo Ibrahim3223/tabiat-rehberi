@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Bir gün"
 aktiviteler: ["Yüzme","Güneşlenme","Yürüyüş","Doğa keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Yamalı Hamam","caption":"Yamalı Hamam","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Yamalı Hamam","caption":"Yamalı Hamam","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yamal%C4%B1%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739191","tip":"genel"}]
 description: "İstanbul'un tarihi plajlarından biri olan Yamalı Hamam, Marmara Bölgesi'nde Beyoğlu'nda bulunur."
 keywords: ["Yamalı Hamam","Beyoğlu","İstanbul","Marmara Bölgesi","plaj","tarih","doğa","gezi"]

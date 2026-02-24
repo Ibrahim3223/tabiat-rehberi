@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Küçükçukur Tepesi","caption":"Küçükçukur Tepesi","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Küçükçukur Tepesi","caption":"Küçükçukur Tepesi","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%C3%A7ukur%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042868","tip":"genel"}]
 description: "Sinop'ta bulunan Küçükçukur Tepesi, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Küçükçukur Tepesi","Sinop","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Sinop Gezilecek Yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezmek","Doğayı keşfetmek","Kültürü deneyimlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Caferpaşa Külliyesi Türbe ve Tevhidhanesi","caption":"Caferpaşa Külliyesi Türbe ve Tevhidhanesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg/960px-Cool_waters_of_the_turquoise_blue_Aegean_Sea_-_Ayval%C4%B1k_-_panoramio.jpg","alt":"Caferpaşa Külliyesi Türbe ve Tevhidhanesi","caption":"Caferpaşa Külliyesi Türbe ve Tevhidhanesi","credit":"Cool waters of the turquoise blue Aegean Sea - Ayvalık - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Caferpa%C5%9Fa%20K%C3%BClliyesi%20T%C3%BCrbe%20ve%20Tevhidhanesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391044","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Eyüpsultan","İstanbul","Marmara Bölgesi","Türbe","Tevhidhane","Külliye","Tarih","Kültür"]

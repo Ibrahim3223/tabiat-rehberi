@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları incelemek","yeşil alanların keyfini çıkarmak","bölgenin doğal güzelliklerini keşfetmek","kültürel faaliyetlere katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"V. Murat Av Köşkü Hamamı","caption":"V. Murat Av Köşkü Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bart%C4%B1n_G%C3%BCzelcehisar.jpg/960px-Bart%C4%B1n_G%C3%BCzelcehisar.jpg","alt":"V. Murat Av Köşkü Hamamı","caption":"V. Murat Av Köşkü Hamamı","credit":"Bartın Güzelcehisar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/V.%20Murat%20Av%20K%C3%B6%C5%9Fk%C3%BC%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739152","tip":"genel"}]
 description: "Kadıköy'de yer alan tarihi av köşkü ve hamamı"
 keywords: ["V. Murat Av Köşkü Hamamı","Kadıköy","İstanbul","Marmara Bölgesi","tarihi mekan","av köşkü","hamam","kültür","tarih"]

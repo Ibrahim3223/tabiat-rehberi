@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Tarih hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gallipoli_Peninsula_Historical_National_Park_%286%29.jpg/960px-Gallipoli_Peninsula_Historical_National_Park_%286%29.jpg","alt":"Çanakkale-Çanakkale-Eceabat-Kızılçam","caption":"Çanakkale-Çanakkale-Eceabat-Kızılçam","credit":"Gallipoli Peninsula Historical National Park (6).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg","alt":"Çanakkale-Çanakkale-Eceabat-Kızılçam","caption":"Çanakkale-Çanakkale-Eceabat-Kızılçam","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843221)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87anakkale-%C3%87anakkale-Eceabat-K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228422","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan Çanakkale-Çanakkale-Eceabat-Kızılçam milli parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Çanakkale","Marmara Bölgesi","Milli Park","Yeşil Alan","Doğa","Flora","Fauna","Tarihçe","Coğrafya"]

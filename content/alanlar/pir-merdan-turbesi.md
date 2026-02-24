@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["tarihsel geziler","doğa yürüyüşleri","yerel halkın kültürünü keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Pirê Merdan Türbesi","caption":"Pirê Merdan Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg","alt":"Pirê Merdan Türbesi","caption":"Pirê Merdan Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 16","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pir%C3%AA%20Merdan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582865","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan tarihi bir türbe ve plaj"
 keywords: ["Pirê Merdan Türbesi","Mardin","Artuklu","tarih","plaj","Güneydoğu Anadolu Bölgesi","türbe","turizm","gezi"]

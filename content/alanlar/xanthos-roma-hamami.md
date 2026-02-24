@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","deniz faaliyetleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Xanthos Roma Hamamı","caption":"Xanthos Roma Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Xanthos Roma Hamamı","caption":"Xanthos Roma Hamamı","credit":"Podima1","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Xanthos%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738912","tip":"genel"}]
 description: "Kaş'ta bulunan Xanthos Roma Hamamı, Antalya'nın tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan."
 keywords: ["Xanthos Roma Hamamı","Kaş","Antalya","Roma Hamamı","tarih","doğa","gezi","turizm"]

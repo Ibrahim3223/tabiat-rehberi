@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Doğa izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/MOKFC10.jpg/960px-MOKFC10.jpg","alt":"Izmir-Akhisar-Kirkagac Kızılçam 1","caption":"Izmir-Akhisar-Kirkagac Kızılçam 1","credit":"MOKFC10.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"Izmir-Akhisar-Kirkagac Kızılçam 1","caption":"Izmir-Akhisar-Kirkagac Kızılçam 1","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Akhisar-Kirkagac%20K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227896","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin. Akhisar ve Kirkagac arasındaki kızılçam ormanları ile çevrili bu milli park, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["İzmir","Akhisar","Kirkagac","Kızılçam","Milli Park","Doğa","Orman","Çevre"]

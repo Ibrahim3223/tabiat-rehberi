@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["İbadet","Dinlenme","Doğa yürüyüşü","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi","caption":"Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg","alt":"Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi","caption":"Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatem%C3%BC%E2%80%99l-Evliya%20%C3%96mer%20%C3%96ng%C3%BCt-Kuddise%20S%C4%B1rruh-Efendi%20Hazretleri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391621","tip":"genel"}]
 description: "Sakarya'nın Adapazarı ilçesinde yer alan önemli bir dini merkez"
 keywords: ["Hatemü’l-Evliya Ömer Öngüt","Kuddise Sırruh-Efendi Hazretleri","Türbe","Adapazarı","Sakarya","Marmara Bölgesi","Dini merkez"]

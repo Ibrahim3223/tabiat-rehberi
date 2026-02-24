@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Haçlar Tepe","caption":"Haçlar Tepe","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yol_ve_demirkaz%C4%B1k.jpg/960px-Yol_ve_demirkaz%C4%B1k.jpg","alt":"Haçlar Tepe","caption":"Haçlar Tepe","credit":"Yol ve demirkazık","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ha%C3%A7lar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34921231","tip":"genel"}]
 description: "Kilis'in doğal güzelliklerini keşfedin, Haçlar Tepe'de doğa ile baş başa kalın."
 keywords: ["Haçlar Tepe","Kilis","Dağ","Doğa","Turizm","Gezi","Kilis Gezilecek Yerler","Doğal Alanlar","Türkiye Dağları"]

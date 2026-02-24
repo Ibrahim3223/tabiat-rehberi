@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","gözlem","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kocatarla Tepe","caption":"Kocatarla Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Kocatarla Tepe","caption":"Kocatarla Tepe","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocatarla%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390240","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinelerinden biri olan Kocatarla Tepe, ziyaretçilerini tarihin derinına davet ediyor."
 keywords: ["Kocatarla Tepe","İç Anadolu Bölgesi","tarih","doğa","gezi","tepe","coğrafya","flora","fauna"]

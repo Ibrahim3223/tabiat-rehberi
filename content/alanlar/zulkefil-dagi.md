@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Zülkefil Dağı","caption":"Zülkefil Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg/960px-Tahtal_Da%C4%9F%C4%B1_06_02_2013_Gipfel_mit_Bey_Da%C4%9Flar%C4%B1.jpg","alt":"Zülkefil Dağı","caption":"Zülkefil Dağı","credit":"Tahtal Dağı 06 02 2013 Gipfel mit Bey Dağları","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Z%C3%BClkefil%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34822874","tip":"genel"}]
 description: "Diyarbakır'da bulunan Zülkefil Dağı, 1200 hektarlık yeşil alanıyla İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor. Doğal güzellikleri ve tarihi zenginlikleriyle dikkat çekiyor."
 keywords: ["Zülkefil Dağı","Diyarbakır","Doğal Alan","Yeşil Alan","Tarih","Turizm","Dağ","Diyarbakır Turistik Yerler","Zülkefil Dağı Hakkında"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Flora ve fauna gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Guharadirej Tepesi","caption":"Guharadirej Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Detail_of_north_%28front%29_entrance._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_HABS_VA%2C42-CLOV.V%2C2A-7.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Guharadirej Tepesi","caption":"Guharadirej Tepesi","credit":"Detail of north (front) entrance. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, HABS VA,42-CLOV.V,2A-7","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Guharadirej%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546777","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide illerinden Batman'da yer alan Guharadirej Tepesi, coğrafi güzelliği ve zengin tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Batman","Guharadirej Tepesi","Güneydoğu Anadolu Bölgesi","coğrafi güzellik","zengin tarih","doğa","turizm"]

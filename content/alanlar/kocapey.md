@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kocapey","caption":"Kocapey","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Kocapey","caption":"Kocapey","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocapey","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386306","tip":"genel"}]
 description: "Hatay'da bulunan Kocapey, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biridir."
 keywords: ["Kocapey","Hatay","Akdeniz Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Gövdeli Dağı","caption":"Gövdeli Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg/960px-Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg","alt":"Gövdeli Dağı","caption":"Gövdeli Dağı","credit":"Erciyes Dağı 05 04 1999","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6vdeli%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872623","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Gövdeli Dağı, doğa severlerin ziyaret ettiği bir yer"
 keywords: ["Gövdeli Dağı","Türkiye dağları","doğa turizmi","dağcılık","Türkiye coğrafyası","gezi rehberi","turistik yerler","dağ yürüyüşü","coğrafi oluşumlar"]

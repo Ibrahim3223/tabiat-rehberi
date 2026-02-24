@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","doğa","fotoğrafçılık","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"BESİKDAG_TP","caption":"BESİKDAG_TP","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"BESİKDAG_TP","caption":"BESİKDAG_TP","credit":"MOKFC09","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/BES%C4%B0KDAG_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228778","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleriyle dolu bir alanı"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","gezi","yaban hayatı","çevre"]

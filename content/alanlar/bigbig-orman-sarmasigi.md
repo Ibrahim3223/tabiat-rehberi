@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa gözlemi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Bığbığ Orman Sarmaşığı","caption":"Bığbığ Orman Sarmaşığı","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TRrakD1_sazlik_yuruyus.jpg/960px-TRrakD1_sazlik_yuruyus.jpg","alt":"Bığbığ Orman Sarmaşığı","caption":"Bığbığ Orman Sarmaşığı","credit":"TRrakD1 sazlik yuruyus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C4%B1%C4%9Fb%C4%B1%C4%9F%20Orman%20Sarma%C5%9F%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30589996","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
 keywords: ["orman","sarmaşık","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşü","Göl Gezisi","Kuş İzleme","Tarihî Yerleri Ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"AKÇAKALE YARIMADASI ÇILDIR VE LAVAŞ GÖLLERİ","caption":"AKÇAKALE YARIMADASI ÇILDIR VE LAVAŞ GÖLLERİ","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg/960px-Peygamberler_Tabiat_Park%C4%B1_Diyarbak%C4%B1r.jpg","alt":"AKÇAKALE YARIMADASI ÇILDIR VE LAVAŞ GÖLLERİ","caption":"AKÇAKALE YARIMADASI ÇILDIR VE LAVAŞ GÖLLERİ","credit":"Peygamberler Tabiat Parkı Diyarbakır","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/AK%C3%87AKALE%20YARIMADASI%20%C3%87ILDIR%20VE%20LAVA%C5%9E%20G%C3%96LLER%C4%B0","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228882","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Çıldır ve Lavaş Gölleri, Akçakale Yarımadası'nda sizleri bekliyor."
 keywords: ["Doğa","Göl","Yarımada","İç Anadolu Bölgesi","Çıldır Gölü","Lavaş Gölü","Akçakale"]

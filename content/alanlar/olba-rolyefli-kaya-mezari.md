@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","arkeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Olba Rölyefli Kaya Mezarı","caption":"Olba Rölyefli Kaya Mezarı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Latrans-Turkey_location_Aegean_Region.svg/960px-Latrans-Turkey_location_Aegean_Region.svg.png","alt":"Olba Rölyefli Kaya Mezarı","caption":"Olba Rölyefli Kaya Mezarı","credit":"Latrans-Turkey location Aegean Region","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Olba%20R%C3%B6lyefli%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728184","tip":"genel"}]
 description: "Mersin'in Silifke ilçesinde bulunan tarihi kaya mezarı"
 keywords: ["Olba","Rölyefli Kaya Mezarı","Silifke","Mersin","Akdeniz Bölgesi","tarihi mekan","kaya mezarı","gezi noktaları","turistik yerler"]

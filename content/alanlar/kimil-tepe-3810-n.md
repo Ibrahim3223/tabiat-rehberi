@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Kımıl Tepe (38.10 N)","caption":"Kımıl Tepe (38.10 N)","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/960px-Adams_The_Tetons_and_the_Snake_River.jpg","alt":"Kımıl Tepe (38.10 N)","caption":"Kımıl Tepe (38.10 N)","credit":"Adams The Tetons and the Snake River","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1m%C4%B1l%20Tepe%20(38.10%20N)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515245","tip":"genel"}]
 description: "Adıyaman'da yer alan Kımıl Tepe, 38.10 N enlemde bulunan bir dağdır. Doğal güzellikleri ve coğrafi konumuyla dikkat çeker."
 keywords: ["Kımıl Tepe","Adıyaman","Dağ","Doğal Alan","Coğrafi Konum","38.10 N","Turizm","Gezi","Seyahat"]

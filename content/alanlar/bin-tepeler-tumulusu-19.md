@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 19","caption":"Bin Tepeler Tümülüsü 19","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_19.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_19.jpg","alt":"Bin Tepeler Tümülüsü 19","caption":"Bin Tepeler Tümülüsü 19","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 19","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2019","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728358","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide ilçelerinden Salihli'de yer alan Bin Tepeler Tümülüsü 19, tarihi ve coğrafi zenginliği ile dikkat çekiyor."
 keywords: ["Bin Tepeler Tümülüsü 19","Salihli","Manisa","Ege Bölgesi","tarihi mekanlar","coğrafi zenginlik","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Cumayanı Mağarası","caption":"Cumayanı Mağarası","credit":"Goreme National Park, Turkey","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Geologic_Clock_with_events_and_periods_tr.svg/960px-Geologic_Clock_with_events_and_periods_tr.svg.png","alt":"Cumayanı Mağarası","caption":"Cumayanı Mağarası","credit":"Geologic Clock with events and periods tr","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cumayan%C4%B1%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915638","tip":"genel"}]
 description: "Karadeniz Bölgesi, Zonguldak'ta bulunan Cumayanı Mağarası, 1200 hektarlık yeşil cennet içinde yer alan bir jeopark"
 keywords: ["Cumayanı Mağarası","Zonguldak","Karadeniz Bölgesi","Jeopark","Doğa","Turizm","Mağara","Gezi","Karadeniz"]

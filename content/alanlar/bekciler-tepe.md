@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "7-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Bekçiler Tepe","caption":"Bekçiler Tepe","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Bekçiler Tepe","caption":"Bekçiler Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bek%C3%A7iler%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34835009","tip":"genel"}]
 description: "Şırnak'ta yer alan Bekçiler Tepe, bölgenin önemli dağlarından biri. Doğal güzelliği ve coğrafi konumuyla dikkat çekiyor."
 keywords: ["Bekçiler Tepe","Şırnak","Dağ","Doğa","Coğrafya","Türkiye","Gezi","Seyahat","Turizm"]

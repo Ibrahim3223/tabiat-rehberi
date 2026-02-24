@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denize girmek","Güneşin tadını çıkarmak","Doğal güzelliği keşfetmek","Yürüyüş yapmak","Picnic yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Haydarhane Hamamı","caption":"Haydarhane Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mediterranean_-_panoramio_%283%29.jpg/960px-Mediterranean_-_panoramio_%283%29.jpg","alt":"Haydarhane Hamamı","caption":"Haydarhane Hamamı","credit":"Mediterranean - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haydarhane%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738462","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli plajlarından biri olan Haydarhane Hamamı, Osmangazi/Bursa'da yer alıyor."
 keywords: ["Haydarhane Hamamı","Osmangazi","Bursa","Marmara Bölgesi","plaj","deniz","kumsal","turizm","gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","doğa yürüyüşü","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hacip Çavlı Kümbeti","caption":"Hacip Çavlı Kümbeti","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Istanbul_beaches-_Sea_of_Marmara_07.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_07.jpg","alt":"Hacip Çavlı Kümbeti","caption":"Hacip Çavlı Kümbeti","credit":"Istanbul beaches- Sea of Marmara 07","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hacip%20%C3%87avl%C4%B1%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582411","tip":"genel"}]
 description: "Kayseri'nin tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Kayseri","Kocasinan","tarih","doğa","gezi","turizm","kültür","mimari","coğrafya"]

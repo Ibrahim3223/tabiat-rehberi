@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Yaban hayatı gözlemi","Ekosistem keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Balikesir-Bandırma-Aladag-Kızılçam 2","caption":"Balikesir-Bandırma-Aladag-Kızılçam 2","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Balikesir-Bandırma-Aladag-Kızılçam 2","caption":"Balikesir-Bandırma-Aladag-Kızılçam 2","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Band%C4%B1rma-Aladag-K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228427","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["doğa","milli park","İç Anadolu Bölgesi","gezi","yaban hayatı","ekosistem","çevre","koruma","turizm"]

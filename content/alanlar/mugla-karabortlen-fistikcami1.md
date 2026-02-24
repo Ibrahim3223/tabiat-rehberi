@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NATIONAL_PARK_TRIP_WITH_JEEP.jpg/960px-NATIONAL_PARK_TRIP_WITH_JEEP.jpg","alt":"Mugla-Karabortlen-Fistikcami1","caption":"Mugla-Karabortlen-Fistikcami1","credit":"NATIONAL PARK TRIP WITH JEEP.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Mugla-Karabortlen-Fistikcami1","caption":"Mugla-Karabortlen-Fistikcami1","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Karabortlen-Fistikcami1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228520","tip":"genel"}]
 description: "Muğla'da yer alan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["milli park","Muğla","Ege Bölgesi","yeşil alan","doğa","çevre"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî gezinti","Kültürel keşif","Fotoğraf çekimi","Rehberli tur"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Laodikeia Güney Hamam-Gymnasium Kompleksi","caption":"Laodikeia Güney Hamam-Gymnasium Kompleksi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gulf_of_Kastellorizon.jpg/960px-Gulf_of_Kastellorizon.jpg","alt":"Laodikeia Güney Hamam-Gymnasium Kompleksi","caption":"Laodikeia Güney Hamam-Gymnasium Kompleksi","credit":"Gulf of Kastellorizon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Laodikeia%20G%C3%BCney%20Hamam-Gymnasium%20Kompleksi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738926","tip":"genel"}]
 description: "Ege bölgesinin önemli tarihi ve kültürel merkezlerinden biri olan Laodikeia Güney Hamam-Gymnasium Kompleksi, Pamukkale'de yer alır."
 keywords: ["Laodikeia","Pamukkale","Denizli","Ege Bölgesi","tarihi mekanlar","kültür","gezi","turizm","antik kent","hamam","gymnasium"]

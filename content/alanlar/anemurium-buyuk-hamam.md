@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih keşfi","dinlenme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Anemurium Büyük Hamam","caption":"Anemurium Büyük Hamam","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Istanbul_beaches-_Sea_of_Marmara_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_08.jpg","alt":"Anemurium Büyük Hamam","caption":"Anemurium Büyük Hamam","credit":"Istanbul beaches- Sea of Marmara 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anemurium%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739105","tip":"genel"}]
 description: "Mersin'in Anamur ilçesinde yer alan Anemurium Büyük Hamam, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Anemurium","Büyük Hamam","Mersin","Anamur","tarih","doğa","turizm","gezi","mekan"]

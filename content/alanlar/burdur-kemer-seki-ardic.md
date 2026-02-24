@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","trekking","fotografçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Burdur-Kemer-Seki Ardic","caption":"Burdur-Kemer-Seki Ardic","credit":"Turkish nature reserve","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Munzur_Valley_National_Park.jpg/960px-Munzur_Valley_National_Park.jpg","alt":"Burdur-Kemer-Seki Ardic","caption":"Burdur-Kemer-Seki Ardic","credit":"Munzur Valley National Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burdur-Kemer-Seki%20Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227232","tip":"genel"}]
 description: "Burdur'un doğal güzellikleri arasında yer alan Burdur-Kemer-Seki Ardic, 140 hektarlık bir alana sahiptir."
 keywords: ["Burdur","Kemer","Seki Ardic","milli park","doğa","çevre","flora","fauna","gezi","turizm"]

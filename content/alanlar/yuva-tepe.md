@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Yuva Tepe","caption":"Yuva Tepe","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MOKM41.jpg/960px-MOKM41.jpg","alt":"Yuva Tepe","caption":"Yuva Tepe","credit":"MOKM41","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yuva%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31501766","tip":"genel"}]
 description: "Diyarbakır'da bulunan Yuva Tepe, şehrin doğal güzelliklerini keşfetmek için ideal bir dağ"
 keywords: ["Yuva Tepe","Diyarbakır","Dağ","Doğa","Türkiye","Gezi","Seyahat","Diyarbakır Gezilecek Yerler","Yuva Tepe Zirvesi"]

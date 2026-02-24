@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bengiagılı Tepesi","caption":"Bengiagılı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Detail_of_west_elevation_bay_window%2C_exterior._View_looking_southwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-8.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Bengiagılı Tepesi","caption":"Bengiagılı Tepesi","credit":"Detail of west elevation bay window, exterior. View looking southwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-8","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bengiag%C4%B1l%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559215","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Bengiagılı Tepesi, 140 hektarlık bir alanı kapsıyor. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilere geniş bir yeşil alan sunuyor."
 keywords: ["Bengiagılı Tepesi","Ankara","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","yerel","coğrafya"]

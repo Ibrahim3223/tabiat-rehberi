@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Flora ve Fauna Gözlemi","Tarihi Yerleri Ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Üçtepeler Tabiat Parkı","caption":"Üçtepeler Tabiat Parkı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Üçtepeler Tabiat Parkı","caption":"Üçtepeler Tabiat Parkı","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7tepeler%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228269","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Üçtepeler Tabiat Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Üçtepeler Tabiat Parkı","İç Anadolu Bölgesi","Tabiat Parkı","Doğa","Gezi","Türkiye","Park","Yeşil Alan","Turizm"]

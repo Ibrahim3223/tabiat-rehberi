@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/14/Saklikent_Rocks_and_Sky.jpg","alt":"Antalya-Cevizli Kızılçam","caption":"Antalya-Cevizli Kızılçam","credit":"Saklikent Rocks and Sky.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg/960px-Kayaba%C5%9F%C4%B1_Tabiat_Park%C4%B1_-_360%C2%B0_Panorama.jpg","alt":"Antalya-Cevizli Kızılçam","caption":"Antalya-Cevizli Kızılçam","credit":"Kayabaşı Tabiat Parkı - 360° Panorama","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Cevizli%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227300","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde doğa harikası."
 keywords: ["Antalya","Cevizli Kızılçam","milli park","doğa","yeşil alan","Akdeniz Bölgesi","gezi","turizm"]

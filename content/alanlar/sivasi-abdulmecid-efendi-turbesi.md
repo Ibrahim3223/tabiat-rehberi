@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","plaj aktiviteleri","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Sivasi Abdülmecid Efendi Türbesi","caption":"Sivasi Abdülmecid Efendi Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Sivasi Abdülmecid Efendi Türbesi","caption":"Sivasi Abdülmecid Efendi Türbesi","credit":"Elmasburnu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sivasi%20Abd%C3%BClmecid%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390995","tip":"genel"}]
 description: "Eyüpsultan'da bulunan tarihi türbe ve plaj"
 keywords: ["Eyüpsultan","İstanbul","Marmara Bölgesi","tarih","türbe","plaj","gezi","turizm"]

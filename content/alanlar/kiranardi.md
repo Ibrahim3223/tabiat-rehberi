@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"KIRANARDI","caption":"KIRANARDI","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kad%C4%B1nc%C4%B1k_Valley_5.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_5.jpg","alt":"KIRANARDI","caption":"KIRANARDI","credit":"Kadıncık Valley 5","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KIRANARDI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228705","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide milli parklarından biri olan KIRANARDI, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["KIRANARDI","milli park","İç Anadolu Bölgesi","doğa","yeşil alan","flora","fauna"]

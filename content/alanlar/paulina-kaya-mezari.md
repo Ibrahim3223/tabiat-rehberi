@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğraf çekimi","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Paulina Kaya Mezarı","caption":"Paulina Kaya Mezarı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_06.jpg","alt":"Paulina Kaya Mezarı","caption":"Paulina Kaya Mezarı","credit":"Istanbul beaches- Sea of Marmara 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Paulina%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728181","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli kaya mezarlarından biri, tarihi geçmişiyle dikkat çekiyor."
 keywords: ["kaya mezarı","Marmara Bölgesi","tarihi yerler","gezi rehberi","Bilecik","Gölpazarı","doğal güzellikler","tarihçe","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Bali Baba Türbesi","caption":"Bali Baba Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg/960px-Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg","alt":"Bali Baba Türbesi","caption":"Bali Baba Türbesi","credit":"Manzara Aralik 2009 (GÖKOVA) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bali%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582626","tip":"genel"}]
 description: "Serik'te tarihi ve doğal güzelliklerin birleştiği özel bir alan."
 keywords: ["Bali Baba Türbesi","Serik","Antalya","Akdeniz Bölgesi","tarihi mekanlar","doğal güzellikler","turistik yerler","plajlar","türk kültürü"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dipoyraz%2C_auch_Dedeg%C3%B6l_genannt%2C_2980_m.jpg/960px-Dipoyraz%2C_auch_Dedeg%C3%B6l_genannt%2C_2980_m.jpg","alt":"Isparta-Sutculer-Karadag Kızılçam","caption":"Isparta-Sutculer-Karadag Kızılçam","credit":"Dipoyraz, auch Dedegöl genannt, 2980 m.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_do%C4%9Fu_y%C3%B6n%C3%BC.jpg","alt":"Isparta-Sutculer-Karadag Kızılçam","caption":"Isparta-Sutculer-Karadag Kızılçam","credit":"Hamsilos tabiat parkı doğu yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Sutculer-Karadag%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227421","tip":"genel"}]
 description: "Isparta'da yer alan milli park, doğal güzellikleri ve zengin florası ile dikkat çekiyor."
 keywords: ["Isparta","milli park","doğa","flora","fauna","kızılçam","Akdeniz Bölgesi","gezi","turizm"]

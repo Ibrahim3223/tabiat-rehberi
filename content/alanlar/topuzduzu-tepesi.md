@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotograf çekme","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Topuzdüzü Tepesi","caption":"Topuzdüzü Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Topuzdüzü Tepesi","caption":"Topuzdüzü Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topuzd%C3%BCz%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34813551","tip":"genel"}]
 description: "Gümüşhane'nin Karadeniz Bölgesi'nde yer alan Topuzdüzü Tepesi, doğa severlerin keyif alacağı bir mekan."
 keywords: ["Gümüşhane","Karadeniz Bölgesi","Topuzdüzü Tepesi","doğa","tepe","gezi","turizm","çevre","ekosistem","coğrafya"]

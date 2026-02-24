@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","tırmanma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Kocakoru Ormani","caption":"Kocakoru Ormani","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Kocakoru Ormani","caption":"Kocakoru Ormani","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocakoru%20Ormani","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227341","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Kocakoru Ormani, 140 hektarlık geniş bir alanı kapsıyor."
 keywords: ["Kocakoru Ormani","İç Anadolu Bölgesi","doğal güzellik","orman","milli park","gezi","doğa"]

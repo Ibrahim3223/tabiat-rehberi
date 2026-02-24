@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"GUZELCEHISAR_TA","caption":"GUZELCEHISAR_TA","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nature_photo_of_trabzon.jpg/960px-Nature_photo_of_trabzon.jpg","alt":"GUZELCEHISAR_TA","caption":"GUZELCEHISAR_TA","credit":"Nature photo of trabzon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/GUZELCEHISAR_TA","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228804","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık alan, çeşitli bitki türleri ve zengin fauna ile dikkat çekiyor."
 keywords: ["doğa","milli park","İç Anadolu Bölgesi","flora","fauna","gezi","turizm","çevre","ekoloji"]

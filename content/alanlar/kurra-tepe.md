@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Kurra Tepe","caption":"Kurra Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg/960px-Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg","alt":"Kurra Tepe","caption":"Kurra Tepe","credit":"Mount Ararat and the Araratian plain (cropped)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurra%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556569","tip":"genel"}]
 description: "Mardin'de bulunan Kurra Tepe, bölgenin önemli coğrafi oluşumlarından biri, 1200 hektarlık yeşil alanıyla dikkat çekiyor"
 keywords: ["Kurra Tepe","Mardin","Dağ","Coğrafi oluşum","Yeşil alan","Doğa","Türkiye","Gezi","Seyahat"]

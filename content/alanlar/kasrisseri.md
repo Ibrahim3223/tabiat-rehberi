@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Kasrisseri","caption":"Kasrisseri","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tahtal%C4%B1_Da%C4%9F%C4%B1_06_02_2013_Golf_von_Antalya_mit_westlichem_Mittel-Taurus.jpg/960px-Tahtal%C4%B1_Da%C4%9F%C4%B1_06_02_2013_Golf_von_Antalya_mit_westlichem_Mittel-Taurus.jpg","alt":"Kasrisseri","caption":"Kasrisseri","credit":"Tahtalı Dağı 06 02 2013 Golf von Antalya mit westlichem Mittel-Taurus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kasrisseri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q12865642","tip":"genel"}]
 description: "Ardahan'da bulunan Kasrisseri Dağı, bölgenin önemli coğrafi oluşumlarından biri"
 keywords: ["Kasrisseri","Ardahan","Dağ","Coğrafi Oluşum","Doğa","Türkiye","Ardahan Dağları","Kasrisseri Dağı","Turizm"]

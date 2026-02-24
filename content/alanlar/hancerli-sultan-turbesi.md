@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Hançerli Sultan Türbesi","caption":"Hançerli Sultan Türbesi","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Hançerli Sultan Türbesi","caption":"Hançerli Sultan Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Han%C3%A7erli%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391066","tip":"genel"}]
 description: "Eyüpsultan'da tarihi ve doğal güzelliklerin buluştuğu bir mekan"
 keywords: ["Hançerli Sultan Türbesi","Eyüpsultan","İstanbul","Marmara Bölgesi","tarihi mekan","doğa","gezi"]

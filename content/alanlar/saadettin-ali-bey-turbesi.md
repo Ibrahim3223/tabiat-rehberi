@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Tarih ve kültür hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Saadettin Ali Bey Türbesi","caption":"Saadettin Ali Bey Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_01.jpg","alt":"Saadettin Ali Bey Türbesi","caption":"Saadettin Ali Bey Türbesi","credit":"Harbiş Sahili, Karataş - Adana 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saadettin%20Ali%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390493","tip":"genel"}]
 description: "Karaman'da bulunan tarihi türbe ve plaj hakkında bilgi"
 keywords: ["Saadettin Ali Bey","Türbe","Karaman","Plaj","Tarih","Kültür","Turizm","İç Anadolu Bölgesi","Gezi"]

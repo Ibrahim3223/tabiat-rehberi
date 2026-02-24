@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","piknik","doğayı seyretmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Kastamonu-Cide-Sehdag Kayacik","caption":"Kastamonu-Cide-Sehdag Kayacik","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"Kastamonu-Cide-Sehdag Kayacik","caption":"Kastamonu-Cide-Sehdag Kayacik","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Cide-Sehdag%20Kayacik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227713","tip":"genel"}]
 description: "Kastamonu ilinin doğal güzellikleri arasında yer alan milli park"
 keywords: ["Kastamonu","Cide","Sehdag Kayacik","milli park","doğa","turizm","gezi","karadeniz"]

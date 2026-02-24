@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"KOP_DAGI_MUDAFAASI_TARIHI_MP","caption":"KOP_DAGI_MUDAFAASI_TARIHI_MP","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"KOP_DAGI_MUDAFAASI_TARIHI_MP","caption":"KOP_DAGI_MUDAFAASI_TARIHI_MP","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/KOP_DAGI_MUDAFAASI_TARIHI_MP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228764","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzellikleri arasında yer alan Kop Dağı Milli Parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kop Dağı","Milli Park","İç Anadolu Bölgesi","doğal güzellik","flora","fauna","coğrafya","tarihçe"]

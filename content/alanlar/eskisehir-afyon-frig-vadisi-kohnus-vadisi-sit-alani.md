@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"ESKISEHIR AFYON FRIG VADISI Köhnüş Vadisi Sit Alanı","caption":"ESKISEHIR AFYON FRIG VADISI Köhnüş Vadisi Sit Alanı","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Akdag-6256.jpg/960px-Akdag-6256.jpg","alt":"ESKISEHIR AFYON FRIG VADISI Köhnüş Vadisi Sit Alanı","caption":"ESKISEHIR AFYON FRIG VADISI Köhnüş Vadisi Sit Alanı","credit":"Akdag-6256","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ESKISEHIR%20AFYON%20FRIG%20VADISI%20K%C3%B6hn%C3%BC%C5%9F%20Vadisi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226112","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan ESKISEHIR AFYON FRIG VADISI Köhnüş Vadisi Sit Alanı, zengin tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["ESKISEHIR AFYON FRIG VADISI","Köhnüş Vadisi","Sit Alanı","İç Anadolu Bölgesi","tarih","doğa","gezi"]

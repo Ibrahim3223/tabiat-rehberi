@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları keşfetmek","Plajda dinlenmek","Doğa yürüyüşü","Fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Roma Mezar Anıtı, Kepiç","caption":"Roma Mezar Anıtı, Kepiç","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Antalya_31_12_2011_D%C3%BCden_%C5%9Eelalesi_K%C3%BCste.jpg/960px-Antalya_31_12_2011_D%C3%BCden_%C5%9Eelalesi_K%C3%BCste.jpg","alt":"Roma Mezar Anıtı, Kepiç","caption":"Roma Mezar Anıtı, Kepiç","credit":"Antalya 31 12 2011 Düden Şelalesi Küste","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Roma%20Mezar%20An%C4%B1t%C4%B1%2C%20Kepi%C3%A7","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728138","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde, Kayseri'nin Felahiye ilçesinde bulunan tarihi Roma Mezar Anıtı, Kepiç Plajı'nı keşfedin."
 keywords: ["Roma Mezar Anıtı","Kepiç","Kayseri","İç Anadolu","tarih","arkeoloji","plaj","gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa Yürüyüşleri","Trekking","Kaplıca","Doğa Fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Sakarıılıca Kaplıcaları","caption":"Sakarıılıca Kaplıcaları","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Altinkum_Beaches_10_%28October2009%29_-_panoramio.jpg/960px-Altinkum_Beaches_10_%28October2009%29_-_panoramio.jpg","alt":"Sakarıılıca Kaplıcaları","caption":"Sakarıılıca Kaplıcaları","credit":"Altinkum Beaches 10 (October2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakar%C4%B1%C4%B1l%C4%B1ca%20Kapl%C4%B1calar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738534","tip":"genel"}]
 description: "Eskişehir'in Mihalgazi ilçesinde bulunan Sakarıılıca Kaplıcaları, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde bir doğal güzelliğe sahiptir."
 keywords: ["Sakarıılıca Kaplıcaları","Mihalgazi","Eskişehir","Kaplıca","Doğa","Yeşil Alan","Turizm","Sağlık"]

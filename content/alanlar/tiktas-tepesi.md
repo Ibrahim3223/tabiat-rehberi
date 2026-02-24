@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Yürüyüş","Doğa gezisi","Fotoğrafçılık","Yerel hal ile sohbet"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Tiktaş Tepesi","caption":"Tiktaş Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Tiktaş Tepesi","caption":"Tiktaş Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tikta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391257","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Tiktaş Tepesi, yaklaşık 140 hektarlık alanı ile büyük bir yeşil alana sahiptir."
 keywords: ["Tiktaş Tepesi","İç Anadolu Bölgesi","yeşil alan","coğrafya","doğa","gezi","turizm"]

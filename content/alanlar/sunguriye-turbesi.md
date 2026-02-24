@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Plaj ziyaretleri","Orman yürüyüşleri","Doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Sunguriye Türbesi","caption":"Sunguriye Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Port_G%C3%B6cek_early_evening.jpg/960px-Port_G%C3%B6cek_early_evening.jpg","alt":"Sunguriye Türbesi","caption":"Sunguriye Türbesi","credit":"Port Göcek early evening","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sunguriye%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118188330","tip":"genel"}]
 description: "Niksar'da Karadeniz kıyısında bulunan tarihi bir türbe"
 keywords: ["Sunguriye Türbesi","Niksar","Tokat","Karadeniz Bölgesi","Türbe","Tarihi mekan","Karadeniz kıyısı","Tokat ilinin tarihi yerleri"]

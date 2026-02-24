@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Arkeolojik kazıları ziyaret etmek","Tarihi eserleri görmek","Bölgeyi gezmek","Flora ve fauna açısından bölgeyi keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Bin Tepeler Tümülüsü 42","caption":"Bin Tepeler Tümülüsü 42","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 42","caption":"Bin Tepeler Tümülüsü 42","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2042","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728329","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinelerinden biri olan Bin Tepeler Tümülüsü 42, Salihli-Manisa bölgesinde yer alan önemli bir arkeolojik alan."
 keywords: ["Bin Tepeler Tümülüsü 42","Salihli","Manisa","Ege Bölgesi","Arkeolojik Alan","Tarihi Hazineler","Tümülüs","Ören Yeri"]

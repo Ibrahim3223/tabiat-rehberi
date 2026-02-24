@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kaldırımlı Tepe","caption":"Kaldırımlı Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Kaldırımlı Tepe","caption":"Kaldırımlı Tepe","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kald%C4%B1r%C4%B1ml%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391175","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kaldırımlı Tepe, tarihi geçmişi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Kaldırımlı Tepe","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","coğrafya","flora","fauna","ziyaret"]

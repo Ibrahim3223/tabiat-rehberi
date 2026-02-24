@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tepe tırmanışı","köy gezisi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Gökdağı Tepesi","caption":"Gökdağı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Gökdağı Tepesi","caption":"Gökdağı Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872104","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Erzurum'un önemli doğal güzelliklerinden biri olan Gökdağı Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılamaktadır."
 keywords: ["Gökdağı Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","manzara","gezi","tarihçe","coğrafya","flora","fauna"]

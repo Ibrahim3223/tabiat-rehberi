@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografçılık","picnic","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Büyük Tümülüs, Beştepe","caption":"Büyük Tümülüs, Beştepe","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sprinter_on_a_vase%2C_Fikellura_style_amphora_with_a_running_man%2C_Greek%2C_6th_century_BC%2C_from_Kamiros%2C_Rhodes%2C_Aegean_Sea%2C_Winning_at_the_ancient_Games%2C_British_Museum_%287667202636%29.jpg/960px-thumbnail.jpg","alt":"Büyük Tümülüs, Beştepe","caption":"Büyük Tümülüs, Beştepe","credit":"Sprinter on a vase, Fikellura style amphora with a running man, Greek, 6th century BC, from Kamiros, Rhodes, Aegean Sea, Winning at the ancient Games, British Museum (7667202636)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20T%C3%BCm%C3%BCl%C3%BCs%2C%20Be%C5%9Ftepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728317","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Büyük Tümülüs, Beştepe, ziyaretçilerini bekliyor."
 keywords: ["Büyük Tümülüs","Beştepe","Ankara","tarih","doğa","gezi","türkiye","kültür","yaban hayatı"]

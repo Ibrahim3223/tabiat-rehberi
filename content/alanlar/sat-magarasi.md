@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Sat Mağarası","caption":"Sat Mağarası","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cotton-look_terraces_in_Pamukkale%2C_Turkey_2010_-_panoramio.jpg/960px-Cotton-look_terraces_in_Pamukkale%2C_Turkey_2010_-_panoramio.jpg","alt":"Sat Mağarası","caption":"Sat Mağarası","credit":"Cotton-look terraces in Pamukkale, Turkey 2010 - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sat%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319739","tip":"genel"}]
 description: "Hatay'da yer alan Sat Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Sat Mağarası","Hatay","Jeopark","Doğa","Mağara","Turizm","Gezi","Hatay Turistik Yerler","Jeolojik Alanlar"]

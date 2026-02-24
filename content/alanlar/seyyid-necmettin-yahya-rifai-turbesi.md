@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Plaj aktiviteleri","Doğa yürüyüşleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Seyyid Necmettin Yahya Rifai Türbesi","caption":"Seyyid Necmettin Yahya Rifai Türbesi","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pirlanta_beach_%28october_2009%29_-_panoramio.jpg/960px-Pirlanta_beach_%28october_2009%29_-_panoramio.jpg","alt":"Seyyid Necmettin Yahya Rifai Türbesi","caption":"Seyyid Necmettin Yahya Rifai Türbesi","credit":"Pirlanta beach (october 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Necmettin%20Yahya%20Rifai%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582709","tip":"genel"}]
 description: "Amasya'nın Suluova ilçesinde bulunan tarihî türbe ve plaj"
 keywords: ["Seyyid Necmettin Yahya Rifai","Türbe","Suluova","Amasya","Karadeniz Bölgesi","Plaj","Tarihî mekanlar"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Karamusa(Urumsu 2 Karahasan) Sit Alanı","caption":"Karamusa(Urumsu 2 Karahasan) Sit Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Karamusa(Urumsu 2 Karahasan) Sit Alanı","caption":"Karamusa(Urumsu 2 Karahasan) Sit Alanı","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karamusa(Urumsu%202%20Karahasan)%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226111","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Karamusa Sit Alanı'nı ziyaret edin ve doğanın mucizelerini görün."
 keywords: ["Karamusa","Urumsu 2 Karahasan","Sit Alanı","İç Anadolu Bölgesi","doğa","gezi","turizm"]

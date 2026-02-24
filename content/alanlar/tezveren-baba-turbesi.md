@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Tezveren Baba Türbesi","caption":"Tezveren Baba Türbesi","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg","alt":"Tezveren Baba Türbesi","caption":"Tezveren Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 13","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tezveren%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391001","tip":"genel"}]
 description: "İstanbul'un gizli köşelerinden biri olan Tezveren Baba Türbesi, tarihi ve doğası ile dikkat çekiyor."
 keywords: ["İstanbul","Şişli","Türbe","Tarih","Doğa","Gezi","Marmara Bölgesi","Türkiye"]

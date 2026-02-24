@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","çiçek izleme","vahşi yaşam gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Denizli Çivril Akdağ YHGS","caption":"Denizli Çivril Akdağ YHGS","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Denizli Çivril Akdağ YHGS","caption":"Denizli Çivril Akdağ YHGS","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli%20%C3%87ivril%20Akda%C4%9F%20YHGS","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227393","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Denizli Çivril Akdağ YHGS, 140 hektarlık yeşil alanıylaApproximadamente 200 futbol sahası büyüklüğünde."
 keywords: ["Denizli","Çivril","Akdağ","YHGS","İç Anadolu Bölgesi","doğa","yeşil alan","fiziksel veriler"]

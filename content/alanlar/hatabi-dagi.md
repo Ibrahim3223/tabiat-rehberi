@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Hatabi Dağı","caption":"Hatabi Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Hatabi Dağı","caption":"Hatabi Dağı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hatabi%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31520984","tip":"genel"}]
 description: "Türkiye'de bulunan Hatabi Dağı, doğa severler için önemli bir destinasyon. 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Hatabi Dağı","Türkiye Dağları","Doğa Turizmi","Yeşil Alanlar","Dağcılık","Trekking","Doğa Yürüyüşleri","Türkiye Gezi Rehberi","Dağ Turizmi"]

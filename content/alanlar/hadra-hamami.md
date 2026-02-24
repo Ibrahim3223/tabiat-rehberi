@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["deniz suyu activities","kumsal activities","doğa yürüyüşü","deniz ürünleri yemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Hadra Hamamı","caption":"Hadra Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Istanbul_beaches-_Sea_of_Marmara_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_09.jpg","alt":"Hadra Hamamı","caption":"Hadra Hamamı","credit":"Istanbul beaches- Sea of Marmara 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hadra%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739065","tip":"genel"}]
 description: "Mersin'in gizli cenneti, Akdeniz'in muhteşem plajlarından biri olan Hadra Hamamı, ziyaretçilerini bekliyor."
 keywords: ["Hadra Hamamı","Mersin","Akdeniz","plaj","deniz","turizm","gezi","yerel","kültür"]

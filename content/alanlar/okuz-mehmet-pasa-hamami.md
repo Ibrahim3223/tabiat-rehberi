@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Hamamın tarihi odalarını gezmek","çevredeki dağları keşfetmek","Denizin güzelliğini deneyimlemek","Yerel lezzetleri tadlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Öküz Mehmet Paşa Hamamı","caption":"Öküz Mehmet Paşa Hamamı","credit":"Down by the sea - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Adatepe_manzara.JPG/960px-Adatepe_manzara.JPG","alt":"Öküz Mehmet Paşa Hamamı","caption":"Öküz Mehmet Paşa Hamamı","credit":"Adatepe manzara","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96k%C3%BCz%20Mehmet%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738685","tip":"genel"}]
 description: "Kuşadası'nın tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Kuşadası","Aydın","Ege Bölgesi","Öküz Mehmet Paşa Hamamı","tarih","doğa","gezi"]

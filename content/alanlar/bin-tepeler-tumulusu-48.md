@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Bin Tepeler Tümülüsü 48","caption":"Bin Tepeler Tümülüsü 48","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Bin Tepeler Tümülüsü 48","caption":"Bin Tepeler Tümülüsü 48","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2048","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728336","tip":"genel"}]
 description: "Ege Bölgesi'nde yer alan Bin Tepeler Tümülüsü 48, tarihi ve coğrafi açıdan önemli bir noktadır."
 keywords: ["Bin Tepeler Tümülüsü 48","Salihli","Manisa","Ege Bölgesi","tarih","coğrafya","doğa"]

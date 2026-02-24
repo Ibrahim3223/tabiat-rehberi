@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Evranos Dede Türbesi","caption":"Evranos Dede Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Evranos Dede Türbesi","caption":"Evranos Dede Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Evranos%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391166","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini bir arada sunan Evranos Dede Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Evranos Dede","Türbe","Fatih","İstanbul","Marmara Bölgesi","Tarih","Doğa","Kültür"]

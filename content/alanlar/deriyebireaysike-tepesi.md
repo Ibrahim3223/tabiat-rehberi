@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara seyri","bitki ve hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Deriyebıreaysike Tepesi","caption":"Deriyebıreaysike Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Second_floor_hall._View_looking_south._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-16.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Deriyebıreaysike Tepesi","caption":"Deriyebıreaysike Tepesi","credit":"Second floor hall. View looking south. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-16","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deriyeb%C4%B1reaysike%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555378","tip":"genel"}]
 description: "Şırnak'ta bulunan Deriyebıreaysike Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi oluşumlarından biridir."
 keywords: ["Deriyebıreaysike Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","coğrafi oluşum","tepe","doğa","gezi","turizm"]

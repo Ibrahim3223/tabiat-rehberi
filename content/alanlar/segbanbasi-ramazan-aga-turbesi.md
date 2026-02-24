@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Tarihi yapıları keşfetmek","Doğal güzellikleri izlemek","Yakındaki camileri ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Segbanbaşı Ramazan Ağa Türbesi","caption":"Segbanbaşı Ramazan Ağa Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gallipoli_ANZAC_Cove_3.JPG/960px-Gallipoli_ANZAC_Cove_3.JPG","alt":"Segbanbaşı Ramazan Ağa Türbesi","caption":"Segbanbaşı Ramazan Ağa Türbesi","credit":"Gallipoli ANZAC Cove 3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Segbanba%C5%9F%C4%B1%20Ramazan%20A%C4%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391477","tip":"genel"}]
 description: "Eyüpsultan'da tarihi bir figura ait olan Segbanbaşı Ramazan Ağa Türbesi, Marmara Bölgesi'nin önemli noktalarından biri."
 keywords: ["Segbanbaşı Ramazan Ağa Türbesi","Eyüpsultan","Marmara Bölgesi","tarihi figür","türbe","İstanbul","gezi","tarih"]

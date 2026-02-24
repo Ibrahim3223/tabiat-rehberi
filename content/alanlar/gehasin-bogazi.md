@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Gehaşin Boğazı","caption":"Gehaşin Boğazı","credit":"VallesMarinerisHuge","license":"Attribution"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Landscape_with_Gorge_of_Arpa_Cayi_River_-_Ani_%28Ancient_Armenian_Capital%29_-_Near_Kars_-_Turkey_%285812378318%29.jpg/960px-Landscape_with_Gorge_of_Arpa_Cayi_River_-_Ani_%28Ancient_Armenian_Capital%29_-_Near_Kars_-_Turkey_%285812378318%29.jpg","alt":"Gehaşin Boğazı","caption":"Gehaşin Boğazı","credit":"Landscape with Gorge of Arpa Cayi River - Ani (Ancient Armenian Capital) - Near Kars - Turkey (5812378318)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geha%C5%9Fin%20Bo%C4%9Faz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49342882","tip":"genel"}]
 description: "Siirt'te yer alan Gehaşin Boğazı, 1200 hektarlık yeşil cennet, kanyon ve doğa harikası"
 keywords: ["Gehaşin Boğazı","Siirt","kanyon","doğa harikası","yeşil cennet","turistik yerler","gezi rehberi","doğa yürüyüşü","kanyon gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Su sporları","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_10_-_panoramio.jpg","alt":"Şeyh Hamamı","caption":"Şeyh Hamamı","credit":"Süzer Sun Dreams Beach 10 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dodecanese_%26_Anatolian_Coasts%2C_2016.jpg/960px-Dodecanese_%26_Anatolian_Coasts%2C_2016.jpg","alt":"Şeyh Hamamı","caption":"Şeyh Hamamı","credit":"Dodecanese & Anatolian Coasts, 2016","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738920","tip":"genel"}]
 description: "Tire, İzmir'de bulunan Şeyh Hamamı plajı, Ege Bölgesi'nin en güzel ve sakin destinasyonlarından biri."
 keywords: ["Tire","İzmir","Ege Bölgesi","Şeyh Hamamı","plaj","deniz","kumsal","tatil","gezi"]

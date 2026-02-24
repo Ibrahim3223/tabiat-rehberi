@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denize girme","Tarihçe keşfetme","Doğa yürüyüşü","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Arykanda Küçük Hamam","caption":"Arykanda Küçük Hamam","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gallipoli_ANZAC_Cove_3.JPG/960px-Gallipoli_ANZAC_Cove_3.JPG","alt":"Arykanda Küçük Hamam","caption":"Arykanda Küçük Hamam","credit":"Gallipoli ANZAC Cove 3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arykanda%20K%C3%BC%C3%A7%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739044","tip":"genel"}]
 description: "Arykanda Küçük Hamam, Finike/Antalya'da bulunan doğal bir plaj ve tarihi bir yerdir."
 keywords: ["Arykanda","Küçük Hamam","Finike","Antalya","plaj","tarih","doğa"]

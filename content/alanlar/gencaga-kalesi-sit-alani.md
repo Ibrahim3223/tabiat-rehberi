@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarih gezisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Gençağa Kalesi Sit Alanı","caption":"Gençağa Kalesi Sit Alanı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/960px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Gençağa Kalesi Sit Alanı","caption":"Gençağa Kalesi Sit Alanı","credit":"Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gen%C3%A7a%C4%9Fa%20Kalesi%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226186","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Gençağa Kalesi Sit Alanı, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Gençağa Kalesi","Sit Alanı","İç Anadolu Bölgesi","tarihi yerler","doğa","kaleler"]

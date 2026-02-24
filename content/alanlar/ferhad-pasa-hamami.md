@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Kültürel deneyim"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Ferhad Paşa Hamamı","caption":"Ferhad Paşa Hamamı","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Ferhad Paşa Hamamı","caption":"Ferhad Paşa Hamamı","credit":"Muğla Province (45034554)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ferhad%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738705","tip":"genel"}]
 description: "Çatalca'da bulunan Ferhad Paşa Hamamı, Marmara Bölgesi'nin güzide noktalarından biri"
 keywords: ["Ferhad Paşa Hamamı","Çatalca","Marmara Bölgesi","İstanbul","tarih","coğrafya","flora","fauna","ziyaret"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abandoned_blue.jpg/960px-Abandoned_blue.jpg","alt":"Kaş Burnu","caption":"Kaş Burnu","credit":"Abandoned blue","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sierp%C3%B3wka_zwyczajna_w_R%C5%BCuchowie_w_wojew%C3%B3dztwie_%C5%9Bwi%C4%99tokrzyskim%2C_20250525_1234_4289.jpg/960px-Sierp%C3%B3wka_zwyczajna_w_R%C5%BCuchowie_w_wojew%C3%B3dztwie_%C5%9Bwi%C4%99tokrzyskim%2C_20250525_1234_4289.jpg","alt":"Kaş Burnu","caption":"Kaş Burnu","credit":"Sierpówka zwyczajna w Rżuchowie w województwie świętokrzyskim, 20250525 1234 4289","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C5%9F%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34960402","tip":"genel"}]
 description: "Van'da yer alan Kaş Burnu, 1200 hektarlık bir alan üzerinde kurulu, 200'den fazla kuş türüne ev sahipliği yapan önemli bir kuş cenneti."
 keywords: ["Kaş Burnu","Van","Kuş Cenneti","Doğa Alanı","Kuş Türleri","Turizm","Van Turistik Yerler","Doğa Harikaları","Kuş Gözlemi"]

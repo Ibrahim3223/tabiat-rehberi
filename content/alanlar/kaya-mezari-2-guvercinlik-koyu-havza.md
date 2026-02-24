@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","bitki","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Kaya Mezarı 2 (Güvercinlik Köyü) Havza","caption":"Kaya Mezarı 2 (Güvercinlik Köyü) Havza","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg/960px-Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg","alt":"Kaya Mezarı 2 (Güvercinlik Köyü) Havza","caption":"Kaya Mezarı 2 (Güvercinlik Köyü) Havza","credit":"Marmaris ve Lodos (Aralik 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kaya%20Mezar%C4%B1%202%20(G%C3%BCvercinlik%20K%C3%B6y%C3%BC)%20Havza","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728195","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide yerlerinden biri olan Kaya Mezarı 2, Havza'da doğanın ve tarihin birleştiği eşsiz bir mekan."
 keywords: ["Kaya Mezarı 2","Güvercinlik Köyü","Havza","Karadeniz Bölgesi","doğa","tarih","turizm"]

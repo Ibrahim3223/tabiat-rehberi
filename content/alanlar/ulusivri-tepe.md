@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Ulusivri Tepe","caption":"Ulusivri Tepe","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Ulusivri Tepe","caption":"Ulusivri Tepe","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulusivri%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385386","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzellikleri arasında yer alan Ulusivri Tepe, ziyaretçilerini bekliyor."
 keywords: ["Ulusivri Tepe","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","coğrafya"]

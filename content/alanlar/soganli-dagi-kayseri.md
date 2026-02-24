@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wild_horses1.jpg/960px-Wild_horses1.jpg","alt":"Soğanlı Dağı","caption":"Soğanlı Dağı","credit":"Wild horses1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg/960px-Mount_Ararat_and_the_Yerevan_skyline.jpg","alt":"Soğanlı Dağı","caption":"Soğanlı Dağı","credit":"Mount Ararat and the Yerevan skyline","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fanl%C4%B1%20Da%C4%9F%C4%B1%20(Kayseri)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506183","tip":"genel"}]
 description: "Kayseri'nin doğal güzelliklerini keşfedin. Soğanlı Dağı, 2600 metre yüksekliğiyle bölgenin önemli dağlarından biri."
 keywords: ["Soğanlı Dağı","Kayseri","dağ","doğa","turizm","gezi","Kayseri dağları","Soğanlı Dağı trekking","Kayseri turistik yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","tarihi yapıları keşfetmek","yerel kültürü discovery etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/ZEYN%C4%B0LER_KABR%C4%B0STANI_BURSA_-_panoramio_%281%29.jpg","alt":"Hacı İbrahim Baba Türbesi manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg/960px-ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg","alt":"Hacı İbrahim Baba Türbesi","caption":"Hacı İbrahim Baba Türbesi","credit":"ISS-57 Aegean Sea with Turkish and Greek Coasts","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20%C4%B0brahim%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391716","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin"

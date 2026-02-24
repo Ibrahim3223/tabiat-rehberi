@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Zeravan Tepe","caption":"Zeravan Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"Zeravan Tepe","caption":"Zeravan Tepe","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeravan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31556471","tip":"genel"}]
 description: "Mardin'de bulunan Zeravan Tepe, tarihi ve doğal güzellikleriyle dikkat çekiyor. 1400 metre yüksekliğiyle bölgenin önemli dağlarından biri."
 keywords: ["Zeravan Tepe","Mardin","Dağ","Tarih","Doğa","Gezi","Turizm","Mardin Turistik Yerler","Zeravan Tepe Mardin"]

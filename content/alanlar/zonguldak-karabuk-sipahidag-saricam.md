@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Zonguldak-Karabük-Sipahidağ Sarıçam","caption":"Zonguldak-Karabük-Sipahidağ Sarıçam","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MOKFC05.jpg/960px-MOKFC05.jpg","alt":"Zonguldak-Karabük-Sipahidağ Sarıçam","caption":"Zonguldak-Karabük-Sipahidağ Sarıçam","credit":"MOKFC05","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Karab%C3%BCk-Sipahida%C4%9F%20Sar%C4%B1%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228431","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerinin buluşma noktası, Zonguldak-Karabük-Sipahidağ Sarıçam Milli Parkı"
 keywords: ["Zonguldak","Karabük","Sipahidağ","Sarıçam","Milli Park","Karadeniz Bölgesi","doğa","gezi","turizm"]

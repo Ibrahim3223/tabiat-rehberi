@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Bitki ve hayvan gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/14/Saklikent_Rocks_and_Sky.jpg","alt":"Antalya-Gazipaşa-Dogancadere Karacam","caption":"Antalya-Gazipaşa-Dogancadere Karacam","credit":"Saklikent Rocks and Sky.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg","alt":"Antalya-Gazipaşa-Dogancadere Karacam","caption":"Antalya-Gazipaşa-Dogancadere Karacam","credit":"Gölcük Tabiat Parkı Nilüferler","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Gazipa%C5%9Fa-Dogancadere%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227480","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin. Doğancadere Karacam Milli Parkı, Akdeniz Bölgesi'nin en özel alanlarından biri."
 keywords: ["Antalya","Gazipaşa","Dogancadere Karacam","Milli Park","Doğal Alan","Akdeniz Bölgesi","Turizm","Doğa"]

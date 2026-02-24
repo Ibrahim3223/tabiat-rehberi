@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin zirvesine tırmanmak","Çevreyi panoramik olarak görmek","Bölgeyi gezmek","Doğal güzellikleri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Sindamtaşı Tepesi","caption":"Sindamtaşı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Second_floor_hall._View_looking_south._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-16.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Sindamtaşı Tepesi","caption":"Sindamtaşı Tepesi","credit":"Second floor hall. View looking south. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-16","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sindamta%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387991","tip":"genel"}]
 description: "Tunceli'nin doğal güzelliklerini keşfedin. Sindamtaşı Tepesi, Doğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri."
 keywords: ["Sindamtaşı Tepesi","Tunceli","Doğu Anadolu Bölgesi","coğrafi nokta","doğa","gezi","turizm","tepe","dağ"]

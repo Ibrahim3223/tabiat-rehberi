@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","kamp","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"ERSİZLERDERE_KANYONU_TP","caption":"ERSİZLERDERE_KANYONU_TP","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MOKFC09.jpg/960px-MOKFC09.jpg","alt":"ERSİZLERDERE_KANYONU_TP","caption":"ERSİZLERDERE_KANYONU_TP","credit":"MOKFC09","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ERS%C4%B0ZLERDERE_KANYONU_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229005","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin, Ersizlerdere Kanyonu'nda doğanın mucizelerini görün"
 keywords: ["Ersizlerdere Kanyonu","İç Anadolu Bölgesi","doğal güzellikler","kanyon","turizm","gezi","doğa"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","tarihi eserleri gezi","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Kars-Sarikamis Kagizman","caption":"Kars-Sarikamis Kagizman","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_1.jpg","alt":"Kars-Sarikamis Kagizman","caption":"Kars-Sarikamis Kagizman","credit":"Abant Gölü Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kars-Sarikamis%20Kagizman","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227076","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzellikleri ve tarihi değerleriyle Kars-Sarikamis Kagizman"
 keywords: ["Kars","Sarikamis","Kagizman","Doğu Anadolu Bölgesi","doğal güzellik","tarihi değer"]

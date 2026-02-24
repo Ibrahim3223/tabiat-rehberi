@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Denizli-Acipayam-Alci Kızılçam","caption":"Denizli-Acipayam-Alci Kızılçam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg","alt":"Denizli-Acipayam-Alci Kızılçam","caption":"Denizli-Acipayam-Alci Kızılçam","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Acipayam-Alci%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227645","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan doğal güzellik"
 keywords: ["Denizli","Acipayam","Alci Kızılçam","milli park","doğal alan","iç Anadolu Bölgesi","orman","kızılçam"]

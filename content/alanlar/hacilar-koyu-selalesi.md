@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","picnic","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kur%C5%9Funlu_waterfall.JPG/960px-Kur%C5%9Funlu_waterfall.JPG","alt":"Hacılar Köyü Şelalesi","caption":"Hacılar Köyü Şelalesi","credit":"Kurşunlu waterfall","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_04.JPG/960px-Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_04.JPG","alt":"Hacılar Köyü Şelalesi","caption":"Hacılar Köyü Şelalesi","credit":"Spring to Pağnık Stream, Kızılağaç - Saimbeyli 04","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1lar%20k%C3%B6y%C3%BC%20%C5%9Felalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q19611391","tip":"genel"}]
 description: "Ankara'nın güzide köylerinden Hacılar'da bulunan şelale, 140 hektarlık yeşil alanın içinde yer alır."
 keywords: ["Hacılar Köyü Şelalesi","Ankara","İç Anadolu Bölgesi","şelale","yeşil alan","doğa","gezi","turizm"]

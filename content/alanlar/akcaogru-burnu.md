@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Akçaöğrü Burnu","caption":"Akçaöğrü Burnu","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Eurasian_Collared-Dove_by_Tisha_Mukherjee_13.jpg/960px-Eurasian_Collared-Dove_by_Tisha_Mukherjee_13.jpg","alt":"Akçaöğrü Burnu","caption":"Akçaöğrü Burnu","credit":"Eurasian Collared-Dove by Tisha Mukherjee 13","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ak%C3%A7a%C3%B6%C4%9Fr%C3%BC%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34797570","tip":"genel"}]
 description: "Antalya Kumluca'da yer alan Akçaöğrü Burnu, 1200 hektarlık bir kuş cenneti olarak dikkat çekiyor."
 keywords: ["Akçaöğrü Burnu","Kumluca","Antalya","Kuş Cenneti","Doğa Alanı","Turizm","Seyahat","Gezi"," Doğal Alanlar","Kuş Gözlemi"]

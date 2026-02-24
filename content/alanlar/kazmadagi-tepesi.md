@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","tarih kalıntıları incelemek","manzara izlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Kazmadağı Tepesi","caption":"Kazmadağı Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Kazmadağı Tepesi","caption":"Kazmadağı Tepesi","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazmada%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385582","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Muş ilinde yer alan Kazmadağı Tepesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Kazmadağı Tepesi","Muş","Doğu Anadolu Bölgesi","tepe","doğa","tarih"]

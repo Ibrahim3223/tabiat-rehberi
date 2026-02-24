@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%BCver_Canyon_Scene%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scene%28Antalya%29.jpg","alt":"Şam Dağı","caption":"Şam Dağı","credit":"Güver Canyon Scene(Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"Şam Dağı","caption":"Şam Dağı","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eam%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31507796","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin, Şam Dağı'nda doğa ile baş başa kalın"
 keywords: ["Şam Dağı","Antalya","Dağ","Doğa","Turizm","Gezi","Türkiye","Coğrafya","Seyahat"]

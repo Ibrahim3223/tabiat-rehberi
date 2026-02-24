@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["trekking","doğa yürüyüşü","flora ve fauna gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Barrow_-_panoramio.jpg/960px-The_Barrow_-_panoramio.jpg","alt":"Kalkada Tepesi","caption":"Kalkada Tepesi","credit":"The Barrow - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ida_Flooding_%282%29.jpg/960px-Ida_Flooding_%282%29.jpg","alt":"Kalkada Tepesi","caption":"Kalkada Tepesi","credit":"Ida Flooding (2)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalkada%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390650","tip":"genel"}]
 description: "Kırşehir'in doğa harikalarından biri olan Kalkada Tepesi, ziyaretçilerini büyüleyen bir güzelliğe sahip."
 keywords: ["Kalkada Tepesi","Kırşehir","doğa","tepe","gezi","yaban hayatı","çevre","iklim","flora","fauna"]

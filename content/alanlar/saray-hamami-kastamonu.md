@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Gezi","Tarihçe","Doğa Yürüyüşü","Kültürel Aktiviteler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Saray Hamamı, Kastamonu","caption":"Saray Hamamı, Kastamonu","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Saray Hamamı, Kastamonu","caption":"Saray Hamamı, Kastamonu","credit":"Karaburun - panoramio (2)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saray%20Hamam%C4%B1%2C%20Kastamonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245850","tip":"genel"}]
 description: "Kastamonu'nun tarihi ve doğal güzelliklerini keşfedin. Saray Hamamı, Kastamonu'nun merkezinde bulunan tarihi bir hamamdır."
 keywords: ["Kastamonu","Saray Hamamı","tarih","doğa","gezi","turizm","Karadeniz Bölgesi","kültür"]

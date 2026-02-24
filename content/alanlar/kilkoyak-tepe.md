@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg/960px-Mt._Erciyes_and_Tekir_Plateau_-_panoramio.jpg","alt":"Kilkoyak Tepe","caption":"Kilkoyak Tepe","credit":"Mt. Erciyes and Tekir Plateau - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TRABZON_YAYLASI_VE_%C4%B0BADET.jpg/960px-TRABZON_YAYLASI_VE_%C4%B0BADET.jpg","alt":"Kilkoyak Tepe","caption":"Kilkoyak Tepe","credit":"TRABZON YAYLASI VE İBADET","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kilkoyak%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515314","tip":"genel"}]
 description: "Kayseri'de yer alan Kilkoyak Tepe, 1200 metre yüksekliğiyle dikkat çekiyor. Doğal güzellikleri ve trekking rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Kilkoyak Tepe","Kayseri","Dağ","Trekking","Doğa","Turizm","Gezi","Kayseri Turistik Yerler","Dağcılık"]

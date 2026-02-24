@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","tarihî geçmişi keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_06.jpg","alt":"Kuzkaya Tepesi","caption":"Kuzkaya Tepesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 06.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Kuzkaya Tepesi","caption":"Kuzkaya Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kuzkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391011","tip":"genel"}]
 description: "Kahramanmaraş'ın doğal güzelliklerini keşfedin. Kuzkaya Tepesi, Akdeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kuzkaya Tepesi","Kahramanmaraş","Akdeniz Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna","ziyaret"]

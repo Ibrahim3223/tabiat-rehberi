@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mescidi gezmek","çevresindeki tarihi mekanları ziyaret etmek","doğayı seyretmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Akbeşe Sultan Mescidi","caption":"Akbeşe Sultan Mescidi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Adatepe_manzara.JPG/960px-Adatepe_manzara.JPG","alt":"Akbeşe Sultan Mescidi","caption":"Akbeşe Sultan Mescidi","credit":"Adatepe manzara","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akbe%C5%9Fe%20Sultan%20Mescidi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6033830","tip":"genel"}]
 description: "Antalya'nın Alanya ilçesinde yer alan tarihi Akbeşe Sultan Mescidi, ziyaretçilerini bekliyor."
 keywords: ["Alanya","Antalya","tarih","mescit","gezi","turizm","Akdeniz Bölgesi","kültür","mimari"]

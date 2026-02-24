@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Karamürsel Alp Anıt Mezarı","caption":"Karamürsel Alp Anıt Mezarı","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg","alt":"Karamürsel Alp Anıt Mezarı","caption":"Karamürsel Alp Anıt Mezarı","credit":"2023-11-04 Choban beach near Kaş 5","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karam%C3%BCrsel%20Alp%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728102","tip":"genel"}]
 description: "Kocaeli'nin Karamürsel ilçesinde bulunan önemli bir tarihi mekan"
 keywords: ["Karamürsel","Alp Anıt Mezarı","Kocaeli","Marmara Bölgesi","tarih","kültür","gezi"]

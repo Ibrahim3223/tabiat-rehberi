@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezmek","Doğa yürüyüşü yapmak","Çeşitli restoran ve dükkânları ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Fatih Türbesi, Dehliz","caption":"Fatih Türbesi, Dehliz","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Fatih Türbesi, Dehliz","caption":"Fatih Türbesi, Dehliz","credit":"Amasra 112","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fatih%20T%C3%BCrbesi%2C%20Dehliz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135430372","tip":"genel"}]
 description: "Fatih Türbesi ve Dehliz, İstanbul'un tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Fatih","Türbe","Dehliz","İstanbul","Marmara Bölgesi","Tarih","Doğa","Gezi","Turizm"]

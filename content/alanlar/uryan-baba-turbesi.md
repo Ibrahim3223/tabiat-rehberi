@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","türbe ziyareti","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Üryan Baba Türbesi","caption":"Üryan Baba Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pirlanta_beach%2C_without_waves_october_2009_4_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_4_-_panoramio.jpg","alt":"Üryan Baba Türbesi","caption":"Üryan Baba Türbesi","credit":"Pirlanta beach, without waves october 2009 4 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9Cryan%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390800","tip":"genel"}]
 description: "Seyitgazi, Eskişehir'de yer alan tarihi ve doğal güzelliklerin buluştuğu bir nokta"
 keywords: ["Üryan Baba Türbesi","Seyitgazi","Eskişehir","tarihi mekan","doğa","gezi","türbe"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kaya mezarlarını gezmek","tarihi yapıları incelemek","flora ve fauna hakkında bilgi edinmek","coğrafi özellikleri öğrenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Ev Kaya Mezarları, Kastamonu","caption":"Ev Kaya Mezarları, Kastamonu","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg/960px-Panoramic_view_from_hotel_room_in_Rhodes_island%2C_Trianta%2C_Greece.jpeg","alt":"Ev Kaya Mezarları, Kastamonu","caption":"Ev Kaya Mezarları, Kastamonu","credit":"Panoramic view from hotel room in Rhodes island, Trianta, Greece","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ev%20Kaya%20Mezarlar%C4%B1%2C%20Kastamonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728176","tip":"genel"}]
 description: "Kastamonu'nun doğal güzellikleri arasında yer alan Ev Kaya Mezarları, tarihi ve coğrafi açıdan önemli bir bölgedir."
 keywords: ["Kastamonu","Ev Kaya Mezarları","doğal güzellikler","tarihi yerler","coğrafi bölgeler","Karadeniz Bölgesi","kaya mezarları","tarihçe","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","doğa yürüyüşü","fotoğraf çekimi","tarihi araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Kösemtuğ tümülüsü","caption":"Kösemtuğ tümülüsü","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Kösemtuğ tümülüsü","caption":"Kösemtuğ tümülüsü","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6semtu%C4%9F%20t%C3%BCm%C3%BCl%C3%BCs%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30544590","tip":"genel"}]
 description: "Marmara Bölgesi'nin Bandırma ilçesinde yer alan Kösemtuğ tümülüsü, tarihi ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Kösemtuğ tümülüsü","Bandırma","Marmara Bölgesi","tarihi alan","doğal güzellik","turizm","gezi","köy"]

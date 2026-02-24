@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Yediler Tepesi (Kırıkkale)","caption":"Yediler Tepesi (Kırıkkale)","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Yediler Tepesi (Kırıkkale)","caption":"Yediler Tepesi (Kırıkkale)","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yediler%20Tepesi%20(K%C4%B1r%C4%B1kkale)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31502854","tip":"genel"}]
 description: "Kırıkkale'nin doğa harikası Yediler Tepesi, yaklaşık 140 hektarlık bir alanı kapsar. Bu alan, yaklaşık 200 futbol sahası büyüklüğünde olup, şehrin doğal güzelliklerini keşfetmek için ideal bir nokta."
 keywords: ["Yediler Tepesi","Kırıkkale","doğa","gezi","turizm","tepe","manzara","iç anadolu","coğrafya"]

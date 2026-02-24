@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih hcmek","doğa yürüyüşü","fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Aydın Bey Türbesi, Karacasu","caption":"Aydın Bey Türbesi, Karacasu","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2023-11-19_Ufakdere_Port_Beach_3.jpg/960px-2023-11-19_Ufakdere_Port_Beach_3.jpg","alt":"Aydın Bey Türbesi, Karacasu","caption":"Aydın Bey Türbesi, Karacasu","credit":"2023-11-19 Ufakdere Port Beach 3","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayd%C4%B1n%20Bey%20T%C3%BCrbesi%2C%20Karacasu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735190","tip":"genel"}]
 description: "Aydın Bey Türbesi, Karacasu'da ziyaretçilerini bekleyen tarihi bir mekan. Ege Bölgesi'ndeki bu özel nokta, doğa ve tarih severler için önemli bir destinasyon."
 keywords: ["Aydın Bey Türbesi","Karacasu","Ege Bölgesi","tarihi mekan","doğa","tarih"]

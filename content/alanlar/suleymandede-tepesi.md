@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","picnic","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Süleymandede Tepesi","caption":"Süleymandede Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Süleymandede Tepesi","caption":"Süleymandede Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCleymandede%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34811191","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin. Süleymandede Tepesi, İç Anadolu Bölgesi'nin eşsiz manzaralarına ev sahipliği yapıyor."
 keywords: ["Ankara","Süleymandede Tepesi","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara"]

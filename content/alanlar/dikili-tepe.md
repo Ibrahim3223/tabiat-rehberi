@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Dikili Tepe","caption":"Dikili Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Dikili Tepe","caption":"Dikili Tepe","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikili%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31525764","tip":"genel"}]
 description: "Çanakkale'nin görkemli dağlarından biri olan Dikili Tepe, 1200 hektarlık yeşil alanıyla doğa severleri bekliyor."
 keywords: ["Dikili Tepe","Çanakkale","Dağ","Doğa","Yeşil Alan","Türkiye","Seyahat","Gezi","Turizm"]

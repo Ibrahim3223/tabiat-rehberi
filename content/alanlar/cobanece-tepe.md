@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","manzara izleme","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg","alt":"Çobanece Tepe","caption":"Çobanece Tepe","credit":"Güver Canyon Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Çobanece Tepe","caption":"Çobanece Tepe","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87obanece%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829505","tip":"genel"}]
 description: "Antalya'nın tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Çobanece Tepe, ziyaretçilerini bekliyor."
 keywords: ["Antalya","Çobanece Tepe","tarih","doğa","gezi","turizm","Akdeniz Bölgesi","tepe","manzara"]

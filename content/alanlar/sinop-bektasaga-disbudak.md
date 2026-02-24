@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","vahşi yaşam gözlemi","fotografçılık","kampçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Sinop-Bektasaga Disbudak","caption":"Sinop-Bektasaga Disbudak","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_1.jpg","alt":"Sinop-Bektasaga Disbudak","caption":"Sinop-Bektasaga Disbudak","credit":"Göktürk Tabiat Parkı 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Bektasaga%20Disbudak","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227721","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin görkemli milli parkı, Sinop-Bektasaga Disbudak."
 keywords: ["Sinop","Bektasaga Disbudak","milli park","Karadeniz Bölgesi","doğa","gezi","turizm","çevre"]

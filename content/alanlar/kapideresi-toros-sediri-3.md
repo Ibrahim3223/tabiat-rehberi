@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Bitki ve hayvan gözlemi","Fotoğrafçılık","Çevre eğitimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Kapideresi Toros Sediri 3","caption":"Kapideresi Toros Sediri 3","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg/960px-Melchior_de_Hondecoeter_%281636-1695%29_-_A_Cock_and_Turkey_Fighting%2C_in_a_Park_Setting%2C_with_Other_Fowl_-_453773_-_National_Trust.jpg","alt":"Kapideresi Toros Sediri 3","caption":"Kapideresi Toros Sediri 3","credit":"Melchior de Hondecoeter (1636-1695) - A Cock and Turkey Fighting, in a Park Setting, with Other Fowl - 453773 - National Trust","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kapideresi%20Toros%20Sediri%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227372","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Kapideresi Toros Sediri 3 milli parkı"
 keywords: ["Kapideresi Toros Sediri 3","milli park","İç Anadolu Bölgesi","doğa","toros sediri","çevre","ekosistem","turizm","gezi"]

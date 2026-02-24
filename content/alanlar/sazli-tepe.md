@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Fotoğrafçılık","Piknik","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Sazlı Tepe","caption":"Sazlı Tepe","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Detail_of_north_%28front%29_entrance._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_HABS_VA%2C42-CLOV.V%2C2A-7.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Sazlı Tepe","caption":"Sazlı Tepe","credit":"Detail of north (front) entrance. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, HABS VA,42-CLOV.V,2A-7","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sazl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385477","tip":"genel"}]
 description: "Mersin'in Akdeniz Bölgesi'nde yer alan Sazlı Tepe, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Mersin","Akdeniz Bölgesi","Sazlı Tepe","doğa","tepe","gezi","turizm","yaban hayatı","ekosistem"]

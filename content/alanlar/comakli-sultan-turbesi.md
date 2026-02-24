@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe keşfi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg","alt":"Çomaklı Sultan Türbesi","caption":"Çomaklı Sultan Türbesi","credit":"Kayaözü Creek Valley, Kahramanmaraş 03.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Çomaklı Sultan Türbesi","caption":"Çomaklı Sultan Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87omakl%C4%B1%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390840","tip":"genel"}]
 description: "Kahramanmaraş'ın Afşin ilçesinde bulunan tarihi ve doğal güzelliği ile dikkat çeken bir alan."
 keywords: ["Çomaklı Sultan Türbesi","Afşin","Kahramanmaraş","tarihi mekan","doğal güzellik","tarihçe","coğrafya","flora","fauna","ziyaret"]

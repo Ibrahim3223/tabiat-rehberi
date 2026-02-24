@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Asagi_Cagirankaya_Yaylasi.jpg/960px-Asagi_Cagirankaya_Yaylasi.jpg","alt":"Gindeş Şelalesi","caption":"Gindeş Şelalesi","credit":"Asagi Cagirankaya Yaylasi","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG/960px-Fairy_Chimneys_2%2C_Nev%C5%9Fehir_Province%2C_Turkey.JPG","alt":"Gindeş Şelalesi","caption":"Gindeş Şelalesi","credit":"Fairy Chimneys 2, Nevşehir Province, Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ginde%C5%9F%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin. Gindeş Şelalesi, Karadeniz Bölgesi'nin gizli cenneti."
 keywords: ["Gindeş Şelalesi","Rize","Karadeniz Bölgesi","doğal güzellik","şelale","turizm","gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","kültür turu","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ahu Mahmud Dede Türbesi","caption":"Ahu Mahmud Dede Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gulf_of_Kastellorizon.jpg/960px-Gulf_of_Kastellorizon.jpg","alt":"Ahu Mahmud Dede Türbesi","caption":"Ahu Mahmud Dede Türbesi","credit":"Gulf of Kastellorizon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahu%20Mahmud%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391697","tip":"genel"}]
 description: "Eskişehir'in Odunpazarı ilçesinde bulunan tarihi bir türbe"
 keywords: ["Ahu Mahmud Dede Türbesi","Eskişehir","Odunpazarı","tarih","türbe","İç Anadolu Bölgesi","kültür","gezi"]

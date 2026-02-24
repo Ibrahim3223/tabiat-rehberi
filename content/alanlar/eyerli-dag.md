@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Eyerli Dağ","caption":"Eyerli Dağ","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg/960px-Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg","alt":"Eyerli Dağ","caption":"Eyerli Dağ","credit":"Mount Ararat and the Araratian plain (cropped)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eyerli%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31523859","tip":"genel"}]
 description: "Afyonkarahisar'da yer alan Eyerli Dağ, bölgeye özgü flora ve fauna çeşitliliği sunar."
 keywords: ["Eyerli Dağ","Afyonkarahisar","Dağ","Doğa","Turizm","Gezi","Trekking","Kamp","Afyonkarahisar Turistik Yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe öğrenme","Kültürel faaliyetler","Doğa yürüyüşü","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Şeyh İzzettin Türbesi, Altındağ","caption":"Şeyh İzzettin Türbesi, Altındağ","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Istanbul_beaches-_Sea_of_Marmara_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_10.jpg","alt":"Şeyh İzzettin Türbesi, Altındağ","caption":"Şeyh İzzettin Türbesi, Altındağ","credit":"Istanbul beaches- Sea of Marmara 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C4%B0zzettin%20T%C3%BCrbesi%2C%20Alt%C4%B1nda%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582402","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. Şeyh İzzettin Türbesi, Altındağ'da yer alan önemli bir tarihi ve dini merkez."
 keywords: ["Şeyh İzzettin Türbesi","Altındağ","Ankara","tarihi mekanlar","dini merkezler","Ankara turizmi","tarih","din","kültür","gezi","turizm"]

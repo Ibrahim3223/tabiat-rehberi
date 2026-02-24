@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Kocar Tepe","caption":"Kocar Tepe","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg/960px-Mount_Ararat_and_the_Yerevan_skyline.jpg","alt":"Kocar Tepe","caption":"Kocar Tepe","credit":"Mount Ararat and the Yerevan skyline","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573126","tip":"genel"}]
 description: "Diyarbakır'da bulunan Kocar Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri"
 keywords: ["Kocar Tepe","Diyarbakır","Dağ","Doğal Alan","Türkiye Coğrafyası","Diyarbakır Gezi","Kocar Tepe Hakkında","Diyarbakır Dağları","Turizm"]

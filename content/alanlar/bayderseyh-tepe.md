@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Bayderşeyh Tepe","caption":"Bayderşeyh Tepe","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Bayderşeyh Tepe","caption":"Bayderşeyh Tepe","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bayder%C5%9Feyh%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31573173","tip":"genel"}]
 description: "Mardin'de bulunan Bayderşeyh Tepe, 1200 metre rakımlı bir dağdır. Doğal güzelliği ve tarihi önemiyle dikkat çeker."
 keywords: ["Bayderşeyh Tepe","Mardin","Dağ","Doğa","Tarih","Gezi","Seyahat","Mardin Turizm","Doğal Alanlar"]

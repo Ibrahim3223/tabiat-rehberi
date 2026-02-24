@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","kuş gözlemi","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Soğuksu Hamam Kalıntısı","caption":"Soğuksu Hamam Kalıntısı","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg","alt":"Soğuksu Hamam Kalıntısı","caption":"Soğuksu Hamam Kalıntısı","credit":"Akdeniz- the mediterranean-silence beach resort hotel - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fuksu%20Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739120","tip":"genel"}]
 description: "Marmara Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren özel bir mekan"
 keywords: ["Soğuksu Hamam Kalıntısı","Gönen","Balıkesir","Marmara Bölgesi","tarih","doğa","turizm","gezi","kültür"]

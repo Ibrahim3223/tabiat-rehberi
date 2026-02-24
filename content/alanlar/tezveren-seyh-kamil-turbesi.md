@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["plajda dinlenmek","türbeyi ziyaret etmek","çevre gezileri","su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/S%C3%BCzer_Sun_Dreams_Beach_24_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_24_-_panoramio.jpg","alt":"Tezveren Şeyh Kamil Türbesi","caption":"Tezveren Şeyh Kamil Türbesi","credit":"Süzer Sun Dreams Beach 24 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_15.jpg","alt":"Tezveren Şeyh Kamil Türbesi","caption":"Tezveren Şeyh Kamil Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 15","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tezveren%20%C5%9Eeyh%20Kamil%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391569","tip":"genel"}]
 description: "Ege Bölgesi'nde, Menemen'de bulunan tarihi bir türbe ve plaj"
 keywords: ["Tezveren Şeyh Kamil Türbesi","Menemen","İzmir","Ege Bölgesi","tarih","plaj","doğa","turizm"]

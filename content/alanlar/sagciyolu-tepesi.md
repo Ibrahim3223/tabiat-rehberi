@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg","alt":"Sağcıyolu Tepesi","caption":"Sağcıyolu Tepesi","credit":"The Landscape of Sıklık Gate.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Sağcıyolu Tepesi","caption":"Sağcıyolu Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sa%C4%9Fc%C4%B1yolu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31582027","tip":"genel"}]
 description: "Çorum'un tarihi ve doğal güzellikleriyle dolu bir bölgesi"
 keywords: ["Sağcıyolu Tepesi","Çorum","Karadeniz Bölgesi","doğa","tarih","gezi"]

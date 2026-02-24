@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Beşgözlü Dağı","caption":"Beşgözlü Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MOKM41.jpg/960px-MOKM41.jpg","alt":"Beşgözlü Dağı","caption":"Beşgözlü Dağı","credit":"MOKM41","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Be%C5%9Fg%C3%B6zl%C3%BC%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34835349","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. Beşgözlü Dağı, Türkiye'nin en önemli coğrafi oluşumlarından biri."
 keywords: ["Beşgözlü Dağı","Türkiye dağları","coğrafi oluşumlar","doğa turizmi","Türkiye'nin doğal güzellikleri","dağcılık","türk coğrafyası","gezi rehberi","turistik yerler"]

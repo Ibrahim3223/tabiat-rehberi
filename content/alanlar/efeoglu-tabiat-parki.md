@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa keşfi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MOKFC02.jpg/960px-MOKFC02.jpg","alt":"Efeoğlu Tabiat Parkı","caption":"Efeoğlu Tabiat Parkı","credit":"MOKFC02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-2.jpg","alt":"Efeoğlu Tabiat Parkı","caption":"Efeoğlu Tabiat Parkı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Efeo%C4%9Flu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228159","tip":"genel"}]
 description: "Torbalı'da yer alan Efeoğlu Tabiat Parkı, 140 hektarlık yeşil alanıyla ziyaretçilerini karşılar. Doğal güzellikleri ve zengin florasıyla dikkat çeker."
 keywords: ["Efeoğlu Tabiat Parkı","Torbalı","İzmir","Ege Bölgesi","Doğal Alanlar","Tabiat Parkları","Yeşil Alanlar","Flora","Fauna"]

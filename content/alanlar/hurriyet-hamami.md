@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günde 4-6 saat"
 aktiviteler: ["güneşlenmek","deniz keyfi yapmak","yeşilliklerde yürüyüş yapmak","konaklama"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Hürriyet Hamamı","caption":"Hürriyet Hamamı","credit":"Elmasburnu.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg","alt":"Hürriyet Hamamı","caption":"Hürriyet Hamamı","credit":"Marmaris @ LODOS Firtina-Lodos Sturm (Aralik-December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCrriyet%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738614","tip":"genel"}]
 description: "İstanbul'un tarihi plajlarından biri olan Hürriyet Hamamı, Marmara Bölgesi'nde yer alır."
 keywords: ["Hürriyet Hamamı","İstanbul","Marmara Bölgesi","Beyoğlu","plaj","tarih","doğa","gezi","turizm"]

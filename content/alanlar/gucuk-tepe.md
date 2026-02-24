@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Tarihçi Turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Yelatan_Alada%C4%9Flar_Lake.jpg/960px-Yelatan_Alada%C4%9Flar_Lake.jpg","alt":"Gücük Tepe","caption":"Gücük Tepe","credit":"Yelatan Aladağlar Lake.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Detail_of_west_elevation_bay_window%2C_interior._View_looking_northwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-12.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Gücük Tepe","caption":"Gücük Tepe","credit":"Detail of west elevation bay window, interior. View looking northwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-12","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCc%C3%BCk%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32138962","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cevheri, Niğde'de yer alan Gücük Tepe"
 keywords: ["Gücük Tepe","Niğde","İç Anadolu Bölgesi","doğa","gezi","tarih","coğrafya","flora","fauna"]

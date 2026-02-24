@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin etrafındaki tarihi eserleri keşfetmek","Doğal güzellikleri keşfetmek","Fauna ve flora çeşitliliğini keşfetmek","Şehrin panoramik manzarasını izlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Divane Tepesi","caption":"Divane Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Divane Tepesi","caption":"Divane Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Divane%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388561","tip":"genel"}]
 description: "Erzurum'un doğusunda yer alan Divane Tepesi, 140 hektarlık geniş bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir."
 keywords: ["Doğu Anadolu Bölgesi","Erzurum","Divane Tepesi","coğrafya","tarihçe","flora","fauna","ziyaret"]

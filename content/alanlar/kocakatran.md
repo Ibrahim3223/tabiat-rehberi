@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğraf çekmek","Yaban hayatı gözlemlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kad%C4%B1nc%C4%B1k_Valley_1.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_1.jpg","alt":"Kocakatran","caption":"Kocakatran","credit":"Kadıncık Valley 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg/960px-A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg","alt":"Kocakatran","caption":"Kocakatran","credit":"A Turkey Vulture and Molly Hogan of NatureWorks (26178312449)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocakatran","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30598182","tip":"genel"}]
 description: "Mersin'in natuur cenneti, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Mersin","Kocakatran","milli park","doğa","yaban hayatı","gezi","turizm"]

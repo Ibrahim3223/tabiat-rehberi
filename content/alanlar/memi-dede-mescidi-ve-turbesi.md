@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Mescid ve türbe gezi","Doğa yürüyüşü","Fotografcılık","Tarihi araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Memi Dede Mescidi ve Türbesi","caption":"Memi Dede Mescidi ve Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg","alt":"Memi Dede Mescidi ve Türbesi","caption":"Memi Dede Mescidi ve Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 01","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Memi%20Dede%20Mescidi%20ve%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582770","tip":"genel"}]
 description: "Bitlis'te tarihi ve doğal güzelliklerin birleştiği Memi Dede Mescidi ve Türbesi, ziyaretçiler için önemli bir destinasyon"
 keywords: ["Memi Dede Mescidi","Türbe","Bitlis","İç Anadolu Bölgesi","Tarihi yerler","Doğal güzellikler","Mescid","Türbeler","Bitlis Vilayeti"]

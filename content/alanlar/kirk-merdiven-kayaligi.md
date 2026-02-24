@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kırk Merdiven Kayalığı","caption":"Kırk Merdiven Kayalığı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"Kırk Merdiven Kayalığı","caption":"Kırk Merdiven Kayalığı","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rk%20Merdiven%20Kayal%C4%B1%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226117","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kırk Merdiven Kayalığı, doğa severlerin ziyaret ettiği bir milli parktır."
 keywords: ["Kırk Merdiven Kayalığı","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","kayalık","manzara","çevre"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Edirne-Kesan-Korudag Karacam","caption":"Edirne-Kesan-Korudag Karacam","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Edirne-Kesan-Korudag Karacam","caption":"Edirne-Kesan-Korudag Karacam","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Edirne-Kesan-Korudag%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227676","tip":"genel"}]
 description: "Marmara Bölgesi'nde yer alan Edirne-Kesan-Korudag Karacam Milli Parkı, 140 hektarlık geniş bir alan üzerinde kurulmuştur."
 keywords: ["Edirne","Marmara Bölgesi","Milli Park","Korudag Karacam","Doğa","Turizm","Çevre","Ekosistem"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotografcılık","kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Mengencik Sultan Türbesi","caption":"Mengencik Sultan Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_02.jpg","alt":"Mengencik Sultan Türbesi","caption":"Mengencik Sultan Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mengencik%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390782","tip":"genel"}]
 description: "Düzce'nin Kaynaşlı ilçesinde bulunan Mengencik Sultan Türbesi, Karadeniz Bölgesi'nin tarihi ve kültürel zenginliklerini keşfetmek isteyenler için önemli bir destinasyon."
 keywords: ["Mengencik Sultan Türbesi","Kaynaşlı","Düzce","Karadeniz Bölgesi","tarihi mekanlar","kültürel miras","gezi rehberi","tarihçe","coğrafya","doğa"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/960px-Kursunlu_Waterfall_Autumn.jpg","alt":"Karasivrisi Tepe","caption":"Karasivrisi Tepe","credit":"Kursunlu Waterfall Autumn.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/960px-Moraine_Lake_17092005.jpg","alt":"Karasivrisi Tepe","caption":"Karasivrisi Tepe","credit":"Moraine Lake 17092005","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karasivrisi%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517824","tip":"genel"}]
 description: "Antalya'da bulunan Karasivrisi Tepe, 1200 metre yüksekliği ile bölgenin önemli dağlarından biri. Doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Karasivrisi Tepe","Antalya","Dağ","Trekking","Doğa","Turizm","Gezi","Yürüyüş","Manzara"]

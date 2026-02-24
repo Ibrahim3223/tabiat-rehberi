@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihçe","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Söylemez Ana Kümbeti, Karayazı","caption":"Söylemez Ana Kümbeti, Karayazı","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alanya-Antalya_-_panoramio_%283%29.jpg/960px-Alanya-Antalya_-_panoramio_%283%29.jpg","alt":"Söylemez Ana Kümbeti, Karayazı","caption":"Söylemez Ana Kümbeti, Karayazı","credit":"Alanya-Antalya - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%B6ylemez%20Ana%20K%C3%BCmbeti%2C%20Karayaz%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582822","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Karayazı","Erzurum","Doğu Anadolu Bölgesi","Söylemez Ana Kümbeti","tarih","doğa","gezi","turizm"]

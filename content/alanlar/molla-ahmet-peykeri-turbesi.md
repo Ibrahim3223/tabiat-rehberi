@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî eserleri ziyaret etmek","doğa yürüyüşü","fotografçılık","yerel yemekleri denemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Molla Ahmet Peykeri Türbesi","caption":"Molla Ahmet Peykeri Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Molla Ahmet Peykeri Türbesi","caption":"Molla Ahmet Peykeri Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Molla%20Ahmet%20Peykeri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390799","tip":"genel"}]
 description: "Elazığ'da tarihi ve doğal güzelliği bir arada sunan Molla Ahmet Peykeri Türbesi, önemli bir ziyaret noktasıdır."
 keywords: ["Molla Ahmet Peykeri Türbesi","Elazığ","Doğu Anadolu Bölgesi","tarih","doğa","türbe","gezi","kültür"]

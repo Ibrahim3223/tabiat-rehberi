@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Tarihi yapılar keşfi","Doğa yürüyüşleri","Yerel lezzetler tadımı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abuzer Gaffari Türbesi","caption":"Abuzer Gaffari Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Abuzer Gaffari Türbesi","caption":"Abuzer Gaffari Türbesi","credit":"Elmasburnu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abuzer%20Gaffari%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390542","tip":"genel"}]
 description: "Adıyaman'ın tarihi ve doğal güzelliklerini keşfedin. Abuzer Gaffari Türbesi, Güneydoğu Anadolu Bölgesi'nin önemli dini ve kültürel merkezlerinden biri."
 keywords: ["Abuzer Gaffari","Türbe","Adıyaman","Güneydoğu Anadolu Bölgesi","Tarihi mekanlar","Dini merkezler","Kültürel önemli yerler"]

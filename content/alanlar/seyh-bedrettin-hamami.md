@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Şeyh Bedrettin Hamamı","caption":"Şeyh Bedrettin Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg/960px-Marmaris_ve_Lodos_%28Aralik_2009%29_-_panoramio.jpg","alt":"Şeyh Bedrettin Hamamı","caption":"Şeyh Bedrettin Hamamı","credit":"Marmaris ve Lodos (Aralik 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Bedrettin%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245738","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, İvrindi'de bulunan Şeyh Bedrettin Hamamı."
 keywords: ["Şeyh Bedrettin Hamamı","İvrindi","Balıkesir","Marmara Bölgesi","plaj","doğa","gezi","turizm","tatil"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","picnic","fotografçılık","yüzme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Keramet Ilıcası","caption":"Keramet Ilıcası","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Istanbul_beaches-_Sea_of_Marmara_11.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_11.jpg","alt":"Keramet Ilıcası","caption":"Keramet Ilıcası","credit":"Istanbul beaches- Sea of Marmara 11","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keramet%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738532","tip":"genel"}]
 description: "Orhangazi, Bursa'da yer alan Keramet Ilıcası, Marmara Bölgesi'nin önemli güzelliklerinden biridir."
 keywords: ["Keramet Ilıcası","Orhangazi","Bursa","Marmara Bölgesi","doğal güzellik","turizm","gezi","plaj"]

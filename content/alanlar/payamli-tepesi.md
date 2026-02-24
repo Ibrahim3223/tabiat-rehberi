@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Payamlı Tepesi'ni ziyaret etmek için, en az 2-3 saatlik bir zaman gerekir."
 aktiviteler: ["doğa yürüyüşü","tarihi yerleri gezmek","bitki ve hayvan türlerini keşfetmek","akarsuları ve gölleri ziyaret etmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Payamlı Tepesi","caption":"Payamlı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Payamlı Tepesi","caption":"Payamlı Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Payaml%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31508842","tip":"genel"}]
 description: "Mersin'in Akdeniz Bölgesi'nde yer alan Payamlı Tepesi, yaklaşık 140 hektarlık bir alanı kaplar. Bu büyüklük, yaklaşık 200 futbol sahası büyüklüğüne eşittir."
 keywords: ["Mersin","Akdeniz Bölgesi","Payamlı Tepesi","tepe","doğa","gezi","turizm","çevre","iklim"]

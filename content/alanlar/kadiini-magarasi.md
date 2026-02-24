@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kursunlu_Waterfall_Cascade.jpg/960px-Kursunlu_Waterfall_Cascade.jpg","alt":"Kadıini Mağarası","caption":"Kadıini Mağarası","credit":"Kursunlu Waterfall Cascade.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Yedide%C4%9Firmenler_Nature_Park.jpg/960px-Yedide%C4%9Firmenler_Nature_Park.jpg","alt":"Kadıini Mağarası","caption":"Kadıini Mağarası","credit":"Yedideğirmenler Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kad%C4%B1ini%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6653195","tip":"genel"}]
 description: "Antalya'da yer alan Kadıini Mağarası, 1200 hektarlık yeşil cennet içinde gizli bir hazine. Doğal güzelliği ve tarihi önemiyle ziyaretçilerini bekliyor."
 keywords: ["Kadıini Mağarası","Antalya mağaraları","doğal güzellikler","turistik yerler","Antalya gezilecek yerler","mağara turizmi","Antalya turizmi","Kadıini Mağarası ziyaret","Antalya doğal alanlar"]

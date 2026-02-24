@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçi olmak","fotoğrafçı olmak","yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Sungur Bey Kümbeti, Niğde","caption":"Sungur Bey Kümbeti, Niğde","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg/960px-Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg","alt":"Sungur Bey Kümbeti, Niğde","caption":"Sungur Bey Kümbeti, Niğde","credit":"Aerial view of destruction in Beach refugee camp, Gaza Strip","license":"CC BY-SA 3.0 igo"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sungur%20Bey%20K%C3%BCmbeti%2C%20Ni%C4%9Fde","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582374","tip":"genel"}]
 description: "Niğde'nin tarihi ve kültürel zenginliklerini keşfedin. Sungur Bey Kümbeti, İç Anadolu Bölgesi'nin önemli tarihi eserlerinden biri."
 keywords: ["Sungur Bey Kümbeti","Niğde","İç Anadolu Bölgesi","tarihi eser","kümbet","Niğde tarihi"]

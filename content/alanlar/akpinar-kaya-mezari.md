@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["gezi","fotoğraf çekme","tarihî araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Akpınar Kaya Mezarı","caption":"Akpınar Kaya Mezarı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kabak_Valley%2C_Turkey.JPG/960px-Kabak_Valley%2C_Turkey.JPG","alt":"Akpınar Kaya Mezarı","caption":"Akpınar Kaya Mezarı","credit":"Kabak Valley, Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akp%C4%B1nar%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728182","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan tarihi bir mezar, Ege Bölgesi'nin önemli kültürel varlıklarından biri"
 keywords: ["Akpınar Kaya Mezarı","Şehzadeler","Manisa","Ege Bölgesi","tarih","kaya mezarı","kültürel varlık","gezi","turizm"]

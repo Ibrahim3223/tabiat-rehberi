@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemleme","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Akyokus_parki.jpg/960px-Akyokus_parki.jpg","alt":"Konya-Hadim-Karacam 1","caption":"Konya-Hadim-Karacam 1","credit":"Akyokus parki.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Konya-Hadim-Karacam 1","caption":"Konya-Hadim-Karacam 1","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Hadim-Karacam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228107","tip":"genel"}]
 description: "Konya ilinin Hadim ilçesinde yer alan milli park, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Konya","Hadim","Karacam","milli park","doğa","çevre","turizm","gezi","yaban hayatı"]

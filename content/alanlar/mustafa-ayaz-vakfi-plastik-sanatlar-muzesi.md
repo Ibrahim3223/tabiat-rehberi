@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["sergi gezisi","sanat atölyeleri","konferanslar","sanat eğitim programları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/....._-_Flickr_-_zehhhra.jpg/960px-....._-_Flickr_-_zehhhra.jpg","alt":"Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi","caption":"Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi","credit":"..... - Flickr - zehhhra","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Anti-Taurus_Mountains_-_panoramio.jpg/960px-Anti-Taurus_Mountains_-_panoramio.jpg","alt":"Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi","caption":"Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi","credit":"Anti-Taurus Mountains - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustafa%20Ayaz%20Vakf%C4%B1%20Plastik%20Sanatlar%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q56479507","tip":"genel"}]
 description: "Ankara'nın kalbinde yer alan bir sanat müzesi"
 keywords: ["sanat","müze","Ankara","plastik sanatlar","kültür","eğitim","sergi","sanatçılar"]

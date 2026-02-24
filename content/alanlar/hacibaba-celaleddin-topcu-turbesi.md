@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresinin gezilmesi","Tarihi eserlerin incelenmesi","Doğal güzelliklerin keşfedilmesi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Hacıbaba Celaleddin Topçu Türbesi","caption":"Hacıbaba Celaleddin Topçu Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Istanbul_beaches-_Sea_of_Marmara_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_04.jpg","alt":"Hacıbaba Celaleddin Topçu Türbesi","caption":"Hacıbaba Celaleddin Topçu Türbesi","credit":"Istanbul beaches- Sea of Marmara 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1baba%20Celaleddin%20Top%C3%A7u%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390751","tip":"genel"}]
 description: "Ezine'nin tarihi ve doğal güzellikleri arasında yer alan Hacıbaba Celaleddin Topçu Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Hacıbaba Celaleddin Topçu Türbesi","Ezine","tarihi mekanlar","doğa","türk kültürü","tarih","gezi","turizm","İç Anadolu Bölgesi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaret","Kültürel deneyim","Flora ve fauna gözlemi","Manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Elti Hatun Türbesi, Mazgirt","caption":"Elti Hatun Türbesi, Mazgirt","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg/960px-Marmaris_%40_LODOS_Firtina-Lodos_Sturm_%28Aralik-December_2009%29_-_panoramio.jpg","alt":"Elti Hatun Türbesi, Mazgirt","caption":"Elti Hatun Türbesi, Mazgirt","credit":"Marmaris @ LODOS Firtina-Lodos Sturm (Aralik-December 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elti%20Hatun%20T%C3%BCrbesi%2C%20Mazgirt","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582803","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi hazinesi, Mazgirt'te bulunan Elti Hatun Türbesi."
 keywords: ["Elti Hatun Türbesi","Mazgirt","Tunceli","Doğu Anadolu Bölgesi","Tarih","Türbe","Kültür","Gezi"]

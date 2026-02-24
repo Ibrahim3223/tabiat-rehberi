@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["plaj activities","doğa yürüyüşü","tarihî yerleri gezme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Üç Kuzular Türbesi","caption":"Üç Kuzular Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87.jpg/960px-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D9%85%D8%B1%D9%85%D8%B1%D9%87.jpg","alt":"Üç Kuzular Türbesi","caption":"Üç Kuzular Türbesi","credit":"دریای مرمره","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%9C%C3%A7%20Kuzular%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390732","tip":"genel"}]
 description: "Osmangazi, Bursa'da yer alan Üç Kuzular Türbesi, Marmara Bölgesi'nin önemli doğal güzelliklerinden biri."
 keywords: ["Üç Kuzular Türbesi","Osmangazi","Bursa","Marmara Bölgesi","doğal güzellik","türbe","plaj"]

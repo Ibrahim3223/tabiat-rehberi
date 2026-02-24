@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Karyatağı Dağı","caption":"Karyatağı Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg/960px-Mount_Ararat_and_the_Yerevan_skyline.jpg","alt":"Karyatağı Dağı","caption":"Karyatağı Dağı","credit":"Mount Ararat and the Yerevan skyline","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karyata%C4%9F%C4%B1%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564913","tip":"genel"}]
 description: "Kastamonu'nun görkemli dağlarından biri olan Karyatağı Dağı, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Karyatağı Dağı","Kastamonu","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Kastamonu Turistik Yerler","Dağcılık"]

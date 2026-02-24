@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Bitki gözlemi","Hayvan izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"ODTÜ Tabiat Tarihi Müzesi","caption":"ODTÜ Tabiat Tarihi Müzesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ski_mountain_under_clouds.jpg/960px-Ski_mountain_under_clouds.jpg","alt":"ODTÜ Tabiat Tarihi Müzesi","caption":"ODTÜ Tabiat Tarihi Müzesi","credit":"Ski mountain under clouds","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ODT%C3%9C%20Tabiat%20Tarihi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949888","tip":"genel"}]
 description: "Ankara'da yer alan ODTÜ Tabiat Tarihi Müzesi, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliğiyle dikkat çekiyor"
 keywords: ["ODTÜ Tabiat Tarihi Müzesi","Ankara","İç Anadolu Bölgesi","doğa","müze","flora","fauna"]

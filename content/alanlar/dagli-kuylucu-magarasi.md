@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Dağlı Kuylucu Mağarası","caption":"Dağlı Kuylucu Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/GeologicTimeScale-WikiLeadImage-tr.svg/960px-GeologicTimeScale-WikiLeadImage-tr.svg.png","alt":"Dağlı Kuylucu Mağarası","caption":"Dağlı Kuylucu Mağarası","credit":"GeologicTimeScale-WikiLeadImage-tr","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Da%C4%9Fl%C4%B1%20Kuylucu%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q85755941","tip":"genel"}]
 description: "Kastamonu'nun Cide ilçesinde yer alan Dağlı Kuylucu Mağarası, 1200 hektarlık bir jeopark alanı sunar."
 keywords: ["Dağlı Kuylucu Mağarası","Kastamonu","Cide","Jeopark","Mağara","Doğa","Turizm","Kastamonu Turistik Yerler","Cide Turistik Yerler"]

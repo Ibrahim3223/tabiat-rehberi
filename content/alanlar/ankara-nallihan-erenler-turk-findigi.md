@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğrafçılık","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/MOKFC06.jpg/960px-MOKFC06.jpg","alt":"Ankara-Nallihan-Erenler-Turk Findigi","caption":"Ankara-Nallihan-Erenler-Turk Findigi","credit":"MOKFC06.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Ankara-Nallihan-Erenler-Turk Findigi","caption":"Ankara-Nallihan-Erenler-Turk Findigi","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Nallihan-Erenler-Turk%20Findigi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228570","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Ankara'nın Nallihan ilçesinde bulunan milli park, 140 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["Ankara","Nallihan","Erenler","Turk Findigi","milli park","doğa","yeşil alan","İç Anadolu Bölgesi"]

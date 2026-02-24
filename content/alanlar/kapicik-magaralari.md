@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Milanovac_--_2022_--_0257.jpg/960px-Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Milanovac_--_2022_--_0257.jpg","alt":"Kapıcık Mağaraları","caption":"Kapıcık Mağaraları","credit":"Lika-Senj (HR), Plitvicer Seen, Milanovac -- 2022 -- 0257","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sugar_Creek_Turkey_Run_SP%2C_IN_1.jpg/960px-Sugar_Creek_Turkey_Run_SP%2C_IN_1.jpg","alt":"Kapıcık Mağaraları","caption":"Kapıcık Mağaraları","credit":"Sugar Creek Turkey Run SP, IN 1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kap%C4%B1c%C4%B1k%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319315","tip":"genel"}]
 description: "Batman'da yer alan Kapıcık Mağaraları, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzelliği keşfedin!"
 keywords: ["Kapıcık Mağaraları","Batman Jeopark","Doğal Alanlar","Mağara Gezileri","Jeoparklar","Batman Turizm","Doğa Sporları","Mağara Keşifleri","Jeolojik Miras"]

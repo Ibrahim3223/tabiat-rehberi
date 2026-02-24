@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","coğrafi yapı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Latabekir Tepesi","caption":"Latabekir Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Latabekir Tepesi","caption":"Latabekir Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Latabekir%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31547534","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri olan Latabekir Tepesi, Batman'ın merkezine uzun bir mesafe uzaklıkta yer alır. Bu tepe, bölgenin coğrafi yapısını ve tarihi geçmişi hakkında bilgi sahibi olmamızı sağlar."
 keywords: ["Latabekir Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","coğrafi yapı","tarihi geçmişi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","balık avı","rafting"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Kırk Çeşme Hamamı","caption":"Kırk Çeşme Hamamı","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg","alt":"Kırk Çeşme Hamamı","caption":"Kırk Çeşme Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 16","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rk%20%C3%87e%C5%9Fme%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738424","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Erzurum'un Yakutiye ilçesindeki Kırk Çeşme Hamamı, doğa severlerin ve tarihi sevenlerin ziyaret etmesi gereken bir destinasyon."
 keywords: ["Kırk Çeşme Hamamı","Erzurum","Yakutiye","Doğu Anadolu Bölgesi","doğa turizmi","tarih","kültür"]

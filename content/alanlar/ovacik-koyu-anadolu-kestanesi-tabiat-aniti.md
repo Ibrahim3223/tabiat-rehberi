@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MOKFC07.jpg/960px-MOKFC07.jpg","alt":"Ovacıköyü Anadolu Kestanesi Tabiat Anıtı","caption":"Ovacıköyü Anadolu Kestanesi Tabiat Anıtı","credit":"MOKFC07.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Ovacıköyü Anadolu Kestanesi Tabiat Anıtı","caption":"Ovacıköyü Anadolu Kestanesi Tabiat Anıtı","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ovac%C4%B1k%20K%C3%B6y%C3%BC%20Anadolu%20Kestanesi%20Tabiat%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30590147","tip":"genel"}]
 description: "İzmir'in Kemalpaşa ilçesinde yer alan Ovacıköyü Anadolu Kestanesi Tabiat Anıtı, 1200 hektarlık alanı ile önemli bir ekosistem"
 keywords: ["Ovacıköyü","Anadolu Kestanesi","Tabiat Anıtı","Kemalpaşa","İzmir","Ege Bölgesi","Doğal Alan","Ekosistem"]

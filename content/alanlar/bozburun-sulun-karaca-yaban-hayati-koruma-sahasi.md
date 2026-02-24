@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası","caption":"Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Akdag_bridge.jpg/960px-Akdag_bridge.jpg","alt":"Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası","caption":"Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası","credit":"Akdag bridge","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozburun%20S%C3%BCl%C3%BCn-Karaca%20Yaban%20Hayat%C4%B1%20Koruma%20Sahas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q119442765","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası, zengin fauna ve florasıyla dikkat çekiyor."
 keywords: ["Bozburun Sülün-Karaca Yaban Hayatı Koruma Sahası","İç Anadolu Bölgesi","yaban hayatı","koruma sahası","doğa","flora","fauna","çevre","ekosistem"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Güdüllü Mağarası","caption":"Güdüllü Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Earth_poster.svg/960px-Earth_poster.svg.png","alt":"Güdüllü Mağarası","caption":"Güdüllü Mağarası","credit":"Earth poster","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCll%C3%BC%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319213","tip":"genel"}]
 description: "Karadeniz Bölgesi, Zonguldak'ta yer alan Güdüllü Mağarası, 1200 hektarlık bir jeopark alanı sunar."
 keywords: ["Güdüllü Mağarası","Zonguldak","Karadeniz Bölgesi","Jeopark","Mağara","Doğa","Turizm","Gezi","Karadeniz Gezisi"]

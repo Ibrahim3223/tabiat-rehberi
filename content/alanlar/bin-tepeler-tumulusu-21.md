@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tümülüsleri gezmek","Doğa yürüyüşleri","Fotografcılık","Tarihi research"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Bin Tepeler Tümülüsü 21","caption":"Bin Tepeler Tümülüsü 21","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg/960px-Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg","alt":"Bin Tepeler Tümülüsü 21","caption":"Bin Tepeler Tümülüsü 21","credit":"Giresun, Merkez, Sahilde. 9 Şubat 2020","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2021","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728341","tip":"genel"}]
 description: "Manisa'nın Salihli ilçesinde bulunan Bin Tepeler Tümülüsü 21, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Bin Tepeler Tümülüsü 21","Salihli","Manisa","Ege Bölgesi","tarihi mekanlar","doğa turizmi","tümülüsler","arkeolojik siteler","gezi rehberi"]

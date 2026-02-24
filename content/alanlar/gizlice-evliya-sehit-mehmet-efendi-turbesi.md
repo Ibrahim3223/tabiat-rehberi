@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Tarihî mekânları gezmek","Fotoğraf çekmek","Picnic yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Gizlice Evliya Şehit Mehmet Efendi Türbesi","caption":"Gizlice Evliya Şehit Mehmet Efendi Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg/960px-2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg","alt":"Gizlice Evliya Şehit Mehmet Efendi Türbesi","caption":"Gizlice Evliya Şehit Mehmet Efendi Türbesi","credit":"2023-11-04 A view from Lycian Way near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gizlice%20Evliya%20%C5%9Eehit%20Mehmet%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391603","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini bir arada sunan Gizlice Evliya Şehit Mehmet Efendi Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Gizlice Evliya Şehit Mehmet Efendi Türbesi","İstanbul","Marmara Bölgesi","tarihi mekânlar","doğa alanları","tarihçe","coğrafya","flora","fauna","ziyaret rehberi"]

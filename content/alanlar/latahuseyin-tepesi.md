@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bisiklet sürme","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Latahüseyin Tepesi","caption":"Latahüseyin Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Latahüseyin Tepesi","caption":"Latahüseyin Tepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Latah%C3%BCseyin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34923251","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Latahüseyin Tepesi, Batman'ın doğal güzelliklerini keşfetmek isteyenler için ideal bir destinasyon"
 keywords: ["Latahüseyin Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellikler","tepe","kaynaklar","coğrafya","flora","fauna"]

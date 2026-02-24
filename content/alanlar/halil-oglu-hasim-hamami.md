@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşleri","balık avı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Halil Oğlu Haşim Hamamı","caption":"Halil Oğlu Haşim Hamamı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_04.jpg","alt":"Halil Oğlu Haşim Hamamı","caption":"Halil Oğlu Haşim Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Halil%20O%C4%9Flu%20Ha%C5%9Fim%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738784","tip":"genel"}]
 description: "Gölmarmara'nın doğal güzelliklerini keşfedin. Ege Bölgesi'nde yer alan Halil Oğlu Haşim Hamamı, ziyaretçilerini bekliyor."
 keywords: ["Gölmarmara","Manisa","Ege Bölgesi","doğal güzellikler","plaj","deniz","turizm"]

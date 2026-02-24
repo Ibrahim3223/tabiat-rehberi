@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Kültürel keşif"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Bedreddin Gevhertaş Türbesi","caption":"Bedreddin Gevhertaş Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Istanbul_beaches-_Sea_of_Marmara_01.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_01.jpg","alt":"Bedreddin Gevhertaş Türbesi","caption":"Bedreddin Gevhertaş Türbesi","credit":"Istanbul beaches- Sea of Marmara 01","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bedreddin%20Gevherta%C5%9F%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582382","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzelliklerini bir arada sunan bir mekan."
 keywords: ["Konya","tarih","doğa","türbe","gezi","Karatay","İç Anadolu Bölgesi","kültür","miras"]

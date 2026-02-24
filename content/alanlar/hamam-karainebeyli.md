@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["Denize girme","Güneşlenme","Su sporları","Tarihî mekanları ziyaret","Yürüyüş","Bisiklet turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Hamam, Karainebeyli","caption":"Hamam, Karainebeyli","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Beachside_in_Sinop.jpg/960px-Beachside_in_Sinop.jpg","alt":"Hamam, Karainebeyli","caption":"Hamam, Karainebeyli","credit":"Beachside in Sinop","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20Karainebeyli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245788","tip":"genel"}]
 description: "Çanakkale'nin Gelibolu ilçesinde yer alan Hamam, Karainebeyli, Marmara Bölgesi'nin en güzel plajlarından biri"
 keywords: ["Hamam, Karainebeyli","Gelibolu","Çanakkale","Marmara Bölgesi","plaj","deniz","tatil","gezi","çevre"]

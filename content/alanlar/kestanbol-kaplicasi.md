@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa Yürüyüşleri","Termal Su Deneyimi","Dinlenme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Arif_solak_BanazHamambogazi1.jpg","alt":"Kestanbol Kaplıcası","caption":"Kestanbol Kaplıcası","credit":"Arif solak BanazHamambogazi1","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pamukkale%2C_Turkey_%28ASTER%29.jpg/960px-Pamukkale%2C_Turkey_%28ASTER%29.jpg","alt":"Kestanbol Kaplıcası","caption":"Kestanbol Kaplıcası","credit":"Pamukkale, Turkey (ASTER)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kestanbol%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741945","tip":"genel"}]
 description: "Çanakkale'de termal kaynak deneyimi"
 keywords: ["Kestanbol Kaplıcası","Çanakkale","Termal Kaynak","Kaplıca","Marmara Bölgesi","Doğal Kaynak","Sağlık Turizmi","Termal Turizm","Çanakkale Turizmi"]

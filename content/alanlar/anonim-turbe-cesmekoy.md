@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["deniz keyfi","güneş banyosu","yürüyüş","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_8_-_panoramio.jpg","alt":"Anonim Türbe, Çeşmeköy","caption":"Anonim Türbe, Çeşmeköy","credit":"Süzer Sun Dreams Beach 8 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Anonim Türbe, Çeşmeköy","caption":"Anonim Türbe, Çeşmeköy","credit":"Anzac Cove","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anonim%20T%C3%BCrbe%2C%20%C3%87e%C5%9Fmek%C3%B6y","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735183","tip":"genel"}]
 description: "Çeşme'nin en güzel plajlarından biri olan Anonim Türbe, Çeşmeköy, Ege Bölgesi'nin en çok ziyaret edilen yerlerinden biri"
 keywords: ["Anonim Türbe","Çeşmeköy","Çeşme","İzmir","Ege Bölgesi","plaj","turizm","gezi","seyahat"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihçe gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Sultan Melik Türbesi, Kemah","caption":"Sultan Melik Türbesi, Kemah","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg","alt":"Sultan Melik Türbesi, Kemah","caption":"Sultan Melik Türbesi, Kemah","credit":"2023-11-04 Choban beach near Kaş 2","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sultan%20Melik%20T%C3%BCrbesi%2C%20Kemah","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582834","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde tarihi ve doğal güzellikleri bir arada sunan Sultan Melik Türbesi, Kemah"
 keywords: ["Kemah","Erzincan","Doğu Anadolu Bölgesi","Sultan Melik Türbesi","tarihi mekanlar","doğa sporları","tarihçe","coğrafya"]

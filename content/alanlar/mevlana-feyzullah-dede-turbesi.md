@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","plaj gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altinkum_in_the_evening.jpg/960px-Altinkum_in_the_evening.jpg","alt":"Mevlana Feyzullah Dede Türbesi","caption":"Mevlana Feyzullah Dede Türbesi","credit":"Altinkum in the evening.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_16.jpg","alt":"Mevlana Feyzullah Dede Türbesi","caption":"Mevlana Feyzullah Dede Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 16","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mevlana%20Feyzullah%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735176","tip":"genel"}]
 description: "Aydın'ın Nazilli ilçesinde bulunan Mevlana Feyzullah Dede Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir yerdir."
 keywords: ["Mevlana Feyzullah Dede Türbesi","Nazilli","Aydın","tarih","doğa","türbe","gezi","kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Samsat_district_Turkey_%282%29.jpg/960px-Samsat_district_Turkey_%282%29.jpg","alt":"Hamikziyaret Tepesi","caption":"Hamikziyaret Tepesi","credit":"Samsat district Turkey (2).jpg","license":"CC BY 3.0 pl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Hamikziyaret Tepesi","caption":"Hamikziyaret Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamikziyaret%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385772","tip":"genel"}]
 description: "Adıyaman'ın doğal güzellikleri arasında yer alan Hamikziyaret Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Hamikziyaret Tepesi","Adıyaman","Güneydoğu Anadolu Bölgesi","Doğa","Tepeler","Coğrafya","Tarihçe","Flora","Fauna"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","müze gezisi","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Sebahattin Yıldız Müzesi","caption":"Sebahattin Yıldız Müzesi","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg/960px-Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg","alt":"Sebahattin Yıldız Müzesi","caption":"Sebahattin Yıldız Müzesi","credit":"Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sebahattin%20Y%C4%B1ld%C4%B1z%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q85974608","tip":"genel"}]
 description: "Ankara'nın merkezinde, Çankaya ilçesinde bulunan Sebahattin Yıldız Müzesi, yaklaşık 140 hektarlık bir alan üzerinde kurulmuştur."
 keywords: ["Sebahattin Yıldız Müzesi","Ankara","Çankaya","müze","yayla","doğa","tarih","kültür"]

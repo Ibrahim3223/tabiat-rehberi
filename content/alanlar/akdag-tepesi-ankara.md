@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Yürüyüş","Manzara izleme","Fotoğraf çekme","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Akdağ Tepesi (Ankara)","caption":"Akdağ Tepesi (Ankara)","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Second_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-15.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Akdağ Tepesi (Ankara)","caption":"Akdağ Tepesi (Ankara)","credit":"Second floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-15","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akda%C4%9F%20Tepesi%20(Ankara)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558596","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerinin birleştiği nokta olan Akdağ Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Akdağ Tepesi","doğa","tarih","gezi","tepe","manzara"," İç Anadolu Bölgesi","coğrafya"]

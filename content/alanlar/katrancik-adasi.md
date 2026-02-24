@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Katrancık Adası","caption":"Katrancık Adası","credit":"Muğla Province (45034554)","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Y%C4%B1lanc%C4%B1k_Island_-_panoramio.jpg/960px-Y%C4%B1lanc%C4%B1k_Island_-_panoramio.jpg","alt":"Katrancık Adası","caption":"Katrancık Adası","credit":"Yılancık Island - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Katranc%C4%B1k%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49645552","tip":"genel"}]
 description: "Muğla'da bulunan Katrancık Adası, doğal güzellikleri ve tarihi zenginlikleriyle dikkat çekiyor."
 keywords: ["Katrancık Adası","Muğla Adaları","Türkiye Adaları","Ege Denizi","Ada Gezileri","Doğa Turizmi","Tarihî Yerler","Muğla Turizm","Deniz Turizmi"]

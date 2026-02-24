@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotoğrafçılık","Tarihî alan gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kaşyayla Tepesi","caption":"Kaşyayla Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Kaşyayla Tepesi","caption":"Kaşyayla Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ka%C5%9Fyayla%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389810","tip":"genel"}]
 description: "Çankırı'nın güzide tepe noktalarından biri olan Kaşyayla Tepesi, İç Anadolu Bölgesi'nin doğal güzelliklerini sunar"
 keywords: ["Kaşyayla Tepesi","Çankırı","İç Anadolu Bölgesi","Doğa","Tepeler","Gezi","Turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Sotini Mağarası","caption":"Sotini Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Sotini Mağarası","caption":"Sotini Mağarası","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sotini%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319774","tip":"genel"}]
 description: "Antalya'da yer alan Sotini Mağarası, 1200 hektarlık bir jeopark alanı sunar ve doğa severler için önemli bir destinasyon"
 keywords: ["Sotini Mağarası","Antalya","Jeopark","Doğa Turizmi","Mağara Gezisi","Turistik Yerler","Antalya Turizm","Jeolojik Alanlar","Doğa Harikaları"]

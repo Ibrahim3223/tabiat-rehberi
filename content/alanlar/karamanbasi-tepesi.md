@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","tırmanış","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karamanbaşı Tepesi","caption":"Karamanbaşı Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Karamanbaşı Tepesi","caption":"Karamanbaşı Tepesi","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karamanba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388700","tip":"genel"}]
 description: "Muğla'nın doğal güzellikleri arasında yer alan Karamanbaşı Tepesi, ziyaretçilerini bekliyor. Ege Bölgesi'nin önemli noktalarından biri."
 keywords: ["Karamanbaşı Tepesi","Muğla","Ege Bölgesi","doğa","tepe","gezi","turizm","yerel","kültür"]

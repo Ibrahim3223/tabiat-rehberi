@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","keşifler","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kozalan Tepesi","caption":"Kozalan Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Kozalan Tepesi","caption":"Kozalan Tepesi","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kozalan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387037","tip":"genel"}]
 description: "Kastamonu'nun güzide yerlerinden biri olan Kozalan Tepesi, Karadeniz Bölgesi'nin doğal güzelliklerini sunuyor"
 keywords: ["Kozalan Tepesi","Kastamonu","Karadeniz Bölgesi","doğa","tepe","gezilecek yer","turizm","çevre"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî araştırma","doğa yürüyüşü","fotoğraf çekimi","gezi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Demircili Aşağı Anıt Mezar","caption":"Demircili Aşağı Anıt Mezar","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-silence_beach_resort_hotel_-_panoramio.jpg","alt":"Demircili Aşağı Anıt Mezar","caption":"Demircili Aşağı Anıt Mezar","credit":"Akdeniz- the mediterranean-silence beach resort hotel - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demircili%20A%C5%9Fa%C4%9F%C4%B1%20An%C4%B1t%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728151","tip":"genel"}]
 description: "Mersin'in Silifke ilçesinde bulunan tarihi bir anıt mezar"
 keywords: ["Demircili","Aşağı Anıt Mezar","Silifke","Mersin","tarih","anıt mezar","gezi","turizm"]

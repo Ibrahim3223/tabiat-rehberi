@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","tarihçe öğrenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Ağzıkarahan Hamamı","caption":"Ağzıkarahan Hamamı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%283%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%283%29.jpg","alt":"Ağzıkarahan Hamamı","caption":"Ağzıkarahan Hamamı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Fz%C4%B1karahan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738755","tip":"genel"}]
 description: "Aksaray'ın doğal güzelliklerini keşfedin, Ağzıkarahan Hamamı'nın tarihi ve coğrafyasını öğrenin."
 keywords: ["Aksaray","Ağzıkarahan Hamamı","doğal güzellik","tarih","coğrafya","gezi","turizm","İç Anadolu Bölgesi","plaj"]

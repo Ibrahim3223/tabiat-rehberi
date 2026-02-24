@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Köse Dağı","caption":"Köse Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yol_ve_demirkaz%C4%B1k.jpg/960px-Yol_ve_demirkaz%C4%B1k.jpg","alt":"Köse Dağı","caption":"Köse Dağı","credit":"Yol ve demirkazık","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6se%20Da%C4%9F%C4%B1%20(Kars)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042780","tip":"genel"}]
 description: "Kars'ta bulunan Köse Dağı, doğal güzellikleri ve turistik olanakları ile dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Köse Dağı","Kars","Dağ","Doğa","Turizm","Yeşil Alan","İstanbul","Kars Turistik Yerler","Köse Dağı Turu"]

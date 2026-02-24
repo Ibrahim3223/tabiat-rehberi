@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Trekking","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Lalesivri Tepesi","caption":"Lalesivri Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ida_Flooding_%282%29.jpg/960px-Ida_Flooding_%282%29.jpg","alt":"Lalesivri Tepesi","caption":"Lalesivri Tepesi","credit":"Ida Flooding (2)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lalesivri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390865","tip":"genel"}]
 description: "Yozgat'ın güzide noktalarından biri olan Lalesivri Tepesi, ziyaretçilerini büyüleyici manzaralarıyla karşılar."
 keywords: ["Lalesivri Tepesi","Yozgat","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

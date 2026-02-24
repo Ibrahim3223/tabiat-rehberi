@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Bitki ve Hayvan İzleme","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rio_sobre_la_carretera_Marmaris_Datca._Hisaronu_Marmaris_Turquia.jpg/960px-Rio_sobre_la_carretera_Marmaris_Datca._Hisaronu_Marmaris_Turquia.jpg","alt":"Mugla-Koycegiz-Agla Kızılçam","caption":"Mugla-Koycegiz-Agla Kızılçam","credit":"Rio sobre la carretera Marmaris Datca. Hisaronu Marmaris Turquia.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg/960px-Dereba%C4%9F_Tabiat_Park%C4%B1_-_Kapuzba%C5%9F%C4%B1_%C5%9Eelalesi.jpg","alt":"Mugla-Koycegiz-Agla Kızılçam","caption":"Mugla-Koycegiz-Agla Kızılçam","credit":"Derebağ Tabiat Parkı - Kapuzbaşı Şelalesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Koycegiz-Agla%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227442","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin. Muğla'da yer alan Agla Kızılçam Milli Parkı, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Muğla","Köyceğiz","Agla Kızılçam","Milli Park","Ege Bölgesi","Doğa","Yeşil Alan","Turizm"]

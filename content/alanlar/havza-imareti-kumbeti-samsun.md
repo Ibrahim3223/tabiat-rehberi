@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarihî mekanları gezmek","doğa yürüyüşleri","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Havza İmareti Kümbeti Samsun","caption":"Havza İmareti Kümbeti Samsun","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Beach_Antakya_Turkey_-_panoramio.jpg/960px-Beach_Antakya_Turkey_-_panoramio.jpg","alt":"Havza İmareti Kümbeti Samsun","caption":"Havza İmareti Kümbeti Samsun","credit":"Beach Antakya Turkey - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Havza%20%C4%B0mareti%20K%C3%BCmbeti%20Samsun","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582721","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun iline bağlı Havza'da bulunan tarihi İmareti Kümbeti, ziyaretçilerini bekliyor."
 keywords: ["Havza İmareti Kümbeti","Samsun","Karadeniz Bölgesi","tarihi mekan","ziyaret","gezi","tarih","kültür"]

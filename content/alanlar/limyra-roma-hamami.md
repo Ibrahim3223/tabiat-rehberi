@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Limyra Roma Hamamı","caption":"Limyra Roma Hamamı","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Adatepe_manzara.JPG/960px-Adatepe_manzara.JPG","alt":"Limyra Roma Hamamı","caption":"Limyra Roma Hamamı","credit":"Adatepe manzara","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Limyra%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739208","tip":"genel"}]
 description: "Finike/Antalya'da yer alan Limyra Roma Hamamı, tarihi ve doğal güzelliklerin birleştiği bir alan"
 keywords: ["Limyra","Roma Hamamı","Finike","Antalya","tarih","doğa","gezi","turizm","Akdeniz Bölgesi","arkeoloji"]

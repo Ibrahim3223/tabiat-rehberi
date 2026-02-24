@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kursunlu_Waterfall_Autumn.jpg/960px-Kursunlu_Waterfall_Autumn.jpg","alt":"Çandırini Mağarası","caption":"Çandırini Mağarası","credit":"Kursunlu Waterfall Autumn.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-2.jpg/960px-Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-2.jpg","alt":"Çandırini Mağarası","caption":"Çandırini Mağarası","credit":"Geological formation, Şebinkarahisar 2016 01-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87and%C4%B1rini%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319904","tip":"genel"}]
 description: "Antalya'da yer alan Çandırini Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Çandırini Mağarası","Antalya","Jeopark","Doğa","Mağara","Turizm","Gezi","Antalya Turistik Yerler","Jeolojik Alanlar"]

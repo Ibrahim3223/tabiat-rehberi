@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî türbe gezisi","doğa yürüyüşü","dinlenme ve piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Helvacı Baba Türbesi, Ereğli","caption":"Helvacı Baba Türbesi, Ereğli","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mediterranean_Swim_-_Imperal_Camel_Corps_%2816879047617%29.jpg/960px-Mediterranean_Swim_-_Imperal_Camel_Corps_%2816879047617%29.jpg","alt":"Helvacı Baba Türbesi, Ereğli","caption":"Helvacı Baba Türbesi, Ereğli","credit":"Mediterranean Swim - Imperal Camel Corps (16879047617)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Helvac%C4%B1%20Baba%20T%C3%BCrbesi%2C%20Ere%C4%9Fli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582352","tip":"genel"}]
 description: "Konya'nın Ereğli ilçesinde yer alan tarihi türbe ve plajı"
 keywords: ["Helvacı Baba Türbesi","Ereğli","Konya","tarih","plaj","turizm","gezi","türbe","İç Anadolu Bölgesi"]

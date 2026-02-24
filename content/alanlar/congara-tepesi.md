@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","piknik","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Çongara Tepesi","caption":"Çongara Tepesi","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Çongara Tepesi","caption":"Çongara Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ongara%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829528","tip":"genel"}]
 description: "Muğla'nın doğal güzellikleri arasında yer alan Çongara Tepesi, Ege Bölgesi'nin önemli noktalarından biri."
 keywords: ["Çongara Tepesi","Muğla","Ege Bölgesi","doğa","gezi","tepe","manzara","çevre","coğrafya"]

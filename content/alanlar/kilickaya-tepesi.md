@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Picnic","Macera sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kılıçkaya Tepesi","caption":"Kılıçkaya Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Kılıçkaya Tepesi","caption":"Kılıçkaya Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1%C3%A7kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211164","tip":"genel"}]
 description: "Artvin'in doğal güzelliklerinden biri olan Kılıçkaya Tepesi, ziyaretçilerini bekliyor. Doğal alanları keşfetmek isteyenler için ideal bir destinasyon."
 keywords: ["Kılıçkaya Tepesi","Artvin","Doğa","Tepeler","Karadeniz Bölgesi","Turizm","Gezi","Doğal Alanlar","Yeşil Alanlar"]

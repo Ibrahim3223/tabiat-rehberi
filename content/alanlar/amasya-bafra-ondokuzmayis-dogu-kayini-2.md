@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Amasya-Bafra-Ondokuzmayis Dogu Kayini 2","caption":"Amasya-Bafra-Ondokuzmayis Dogu Kayini 2","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Amasya-Bafra-Ondokuzmayis Dogu Kayini 2","caption":"Amasya-Bafra-Ondokuzmayis Dogu Kayini 2","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Bafra-Ondokuzmayis%20Dogu%20Kayini%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227773","tip":"genel"}]
 description: "Amasya'da yer alan milli park, Karadeniz Bölgesi'nin güzelliklerini sunar."
 keywords: ["Amasya","milli park","Karadeniz Bölgesi","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]

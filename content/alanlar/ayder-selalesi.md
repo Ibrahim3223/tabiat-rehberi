@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["doğa yürüyüşü","fotoğraf turu","yaban hayatı gözlemi","ekosistem incelemesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_A%C4%9Fa%C3%A7.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_A%C4%9Fa%C3%A7.jpg","alt":"Ayder Şelalesi","caption":"Ayder Şelalesi","credit":"Kurşunlu Şelalesi - Şelalesi Bölgesi - Manzara Fotoğrafı - Ağaç.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kur%C5%9Funlu_%C5%9Eelalesi_ard%C4%B1nda.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_ard%C4%B1nda.jpg","alt":"Ayder Şelalesi","caption":"Ayder Şelalesi","credit":"Kurşunlu Şelalesi ardında","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayder%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130366756","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Ayder Şelalesi"
 keywords: ["Ayder Şelalesi","İç Anadolu Bölgesi","doğa","gezi","turizm","şelale","orman","yaban hayatı","ekosistem","çevre"]

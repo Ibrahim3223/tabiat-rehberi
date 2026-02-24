@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Kuş İzleme","Fotoğrafçılık","Doğa Araştırmaları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Gölhisar Gölü Sulak Alanı","caption":"Gölhisar Gölü Sulak Alanı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Gölhisar Gölü Sulak Alanı","caption":"Gölhisar Gölü Sulak Alanı","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6lhisar%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228843","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Gölhisar Gölü Sulak Alanı, 140 hektarlık bir alanı kapsar ve önemli bir doğa rezervidir."
 keywords: ["Gölhisar Gölü","Sulak Alan","İç Anadolu Bölgesi","Doğa Rezervi","Korunan Alan","Sulak Alan Ekosistemi","Doğal Hayatı","Çevre Koruma"]

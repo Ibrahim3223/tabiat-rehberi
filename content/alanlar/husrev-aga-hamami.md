@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe gezisi","kültür turu","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Hüsrev Ağa Hamamı","caption":"Hüsrev Ağa Hamamı","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg/960px-ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg","alt":"Hüsrev Ağa Hamamı","caption":"Hüsrev Ağa Hamamı","credit":"ISS-57 Aegean Sea with Turkish and Greek Coasts","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C3%BCsrev%20A%C4%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738738","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan tarihi hamam"
 keywords: ["Hüsrev Ağa Hamamı","Manisa","Şehzadeler","tarihi hamam","Ege Bölgesi","gezi","tarihçe"]

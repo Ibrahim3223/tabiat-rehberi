@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["yüzme","güneşlenme","deniz gezi","yürüyüş","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Telli Baba Türbesi","caption":"Telli Baba Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Istanbul_beaches-_Sea_of_Marmara_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_10.jpg","alt":"Telli Baba Türbesi","caption":"Telli Baba Türbesi","credit":"Istanbul beaches- Sea of Marmara 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Telli%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391110","tip":"genel"}]
 description: "Marmara Bölgesi'nin en güzel plajlarından biri olan Telli Baba Türbesi, Sarıyer'de bulunur."
 keywords: ["Telli Baba Türbesi","Sarıyer","Marmara Bölgesi","plaj","deniz","turistik yerler","İstanbul","gezi","seyahat"]

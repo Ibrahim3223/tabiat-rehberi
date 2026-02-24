@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["oyuncak inceleme","çocukluk anıları","müze gezisi","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kursunlu_Waterfall_Plant.jpg/960px-Kursunlu_Waterfall_Plant.jpg","alt":"Anadolu Oyuncak Müzesi","caption":"Anadolu Oyuncak Müzesi","credit":"Kursunlu Waterfall Plant.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ski_mountain_under_clouds.jpg/960px-Ski_mountain_under_clouds.jpg","alt":"Anadolu Oyuncak Müzesi","caption":"Anadolu Oyuncak Müzesi","credit":"Ski mountain under clouds","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Anadolu%20Oyuncak%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q130391147","tip":"genel"}]
 description: "Anadolu Oyuncak Müzesi, Kepez/Antalya'da yer alan, çocukluğun nostaljik anlarını yaşatan bir müze."
 keywords: ["oyuncak","müze","Anadolu","Antalya","Kepez","çocukluk","nostalji"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Çini sanatını keşfetmek","Bahçe gezisi","Rehberli tur"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece_at_Golden_Hour.jpg/960px-Lake_K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece_at_Golden_Hour.jpg","alt":"Tekfur Sarayı Çini Müzesi","caption":"Tekfur Sarayı Çini Müzesi","credit":"Lake Küçükçekmece at Golden Hour.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ski_mountain_under_clouds.jpg/960px-Ski_mountain_under_clouds.jpg","alt":"Tekfur Sarayı Çini Müzesi","caption":"Tekfur Sarayı Çini Müzesi","credit":"Ski mountain under clouds","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekfur%20Saray%C4%B1%20%C3%87ini%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949102","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Tekfur Sarayı Çini Müzesi, ziyaretçilerini bekliyor."
 keywords: ["Tekfur Sarayı","Çini Müzesi","İstanbul","Tarih","Müze","Çini","Sanat","Kültür","Turizm"]

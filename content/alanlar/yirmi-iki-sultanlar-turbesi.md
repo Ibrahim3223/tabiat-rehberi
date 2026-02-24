@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları gezmek","doğa yürüyüşü","fotografi","tarih hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Yirmi İki Sultanlar Türbesi","caption":"Yirmi İki Sultanlar Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ba%C4%9Flar_Burnu.jpg/960px-Ba%C4%9Flar_Burnu.jpg","alt":"Yirmi İki Sultanlar Türbesi","caption":"Yirmi İki Sultanlar Türbesi","credit":"Bağlar Burnu","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yirmi%20%C4%B0ki%20Sultanlar%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391339","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan Yirmi İki Sultanlar Türbesi, tarihin gizemini ve doğanın güzelliğini bir arada sunuyor."
 keywords: ["Yirmi İki Sultanlar Türbesi","Şehzadeler","Manisa","tarihi mekan","doğa","gezi","tarih","güzellik","gizem"]

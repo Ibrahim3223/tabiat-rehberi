@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Doruklar Tepesi","caption":"Doruklar Tepesi","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg/960px-Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg","alt":"Doruklar Tepesi","caption":"Doruklar Tepesi","credit":"Nevşehir Ürgüp","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Doruklar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568601","tip":"genel"}]
 description: "Türkiye'de yer alan Doruklar Tepesi, doğa severlerin keşfetmek için heyecanla beklediği bir dağ"
 keywords: ["Doruklar Tepesi","Türkiye Dağları","Doğa Turizmi","Dağcılık","Türkiye Gezi","Doğa Harikaları","Tepeler","Yürüyüş Rotaları","Dağ Keşfi"]

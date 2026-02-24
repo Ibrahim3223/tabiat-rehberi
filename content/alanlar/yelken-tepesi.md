@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşü","tırmanma","spor aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Yelken Tepesi","caption":"Yelken Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Yelken Tepesi","caption":"Yelken Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yelken%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389747","tip":"genel"}]
 description: "Marmara Bölgesi'nin önemli doğal alanlarından biri olan Yelken Tepesi, Kocaeli ilinde yer alır ve yaklaşık 140 hektarlık bir alanı kaplar."
 keywords: ["Kocaeli","Marmara Bölgesi","Yelken Tepesi","doğal alan","turizm","gezi"]

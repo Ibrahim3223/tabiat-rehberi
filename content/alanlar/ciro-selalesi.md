@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","şelale ziyaretleri","orman gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg","alt":"Ciro Şelalesi","caption":"Ciro Şelalesi","credit":"Kurşunlu Şelalesi Tabiat Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aksu_Deresi_Waterfall-1.JPG/960px-Aksu_Deresi_Waterfall-1.JPG","alt":"Ciro Şelalesi","caption":"Ciro Şelalesi","credit":"Aksu Deresi Waterfall-1","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ciro%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97207469","tip":"genel"}]
 description: "Artvin'in doğal güzelliklerini keşfedin, Ciro Şelalesi'ni ziyaret edin"
 keywords: ["Ciro Şelalesi","Artvin","Karadeniz Bölgesi","doğal güzellik","şelale","turizm"]

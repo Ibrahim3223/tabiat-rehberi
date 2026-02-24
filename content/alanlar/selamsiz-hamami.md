@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denizde yüzmek","Güneşlenmek","Su sporları","Tarihi yerleri gezmek","Yerel lezzetleri tatmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Selamsız Hamamı","caption":"Selamsız Hamamı","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/A_beach_near_Phaselis_2021-02-26-2.jpg/960px-A_beach_near_Phaselis_2021-02-26-2.jpg","alt":"Selamsız Hamamı","caption":"Selamsız Hamamı","credit":"A beach near Phaselis 2021-02-26-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Selams%C4%B1z%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739143","tip":"genel"}]
 description: "İstanbul'un Üsküdar ilçesinde yer alan Selamsız Hamamı, Marmara Denizi'nin güzelliğini keşfetmek için ideal bir yer."
 keywords: ["Selamsız Hamamı","Üsküdar","İstanbul","Marmara Denizi","plaj","deniz","turizm","gezi","tatil"]

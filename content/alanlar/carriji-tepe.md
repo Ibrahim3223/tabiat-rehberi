@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Carriji Tepe","caption":"Carriji Tepe","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Carriji Tepe","caption":"Carriji Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Carriji%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546179","tip":"genel"}]
 description: "Batman'da yer alan Carriji Tepe, doğa severler için bir çekim merkezi. 1200 hektarlık yeşil alanıyla İstanbul'un yarısı kadar büyüklüğe sahip."
 keywords: ["Carriji Tepe","Batman","Doğa","Dağ","Yeşil Alan","İstanbul","Türkiye","Seyahat","Gezi"]

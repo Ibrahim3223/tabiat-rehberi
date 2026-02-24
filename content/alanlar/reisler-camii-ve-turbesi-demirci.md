@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Tarihi mekanları keşfetme","Doğa yürüyüşleri","Fotografcılık","Kültürel etkinliklere katılma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Reisler Camii ve Türbesi, Demirci","caption":"Reisler Camii ve Türbesi, Demirci","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/%40_babaylon_beach_%28october_2009%29_-_panoramio.jpg/960px-%40_babaylon_beach_%28october_2009%29_-_panoramio.jpg","alt":"Reisler Camii ve Türbesi, Demirci","caption":"Reisler Camii ve Türbesi, Demirci","credit":"@ babaylon beach (october 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Reisler%20Camii%20ve%20T%C3%BCrbesi%2C%20Demirci","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132134538","tip":"genel"}]
 description: "Demirci'de bulunan tarihi Reisler Camii ve Türbesi, Ege Bölgesi'nin önemli dini merkezlerinden biri"
 keywords: ["Reisler Camii","Demirci","Manisa","Ege Bölgesi","tarihi mekanlar","dini merkezler","camiler","türbeler"]

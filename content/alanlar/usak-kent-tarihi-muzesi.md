@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Rehberli tur","Eser ve belge incelemesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Uşak Kent Tarihi Müzesi","caption":"Uşak Kent Tarihi Müzesi","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lake_S%C3%BCnnet_in_the_fall_01.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_01.jpg","alt":"Uşak Kent Tarihi Müzesi","caption":"Uşak Kent Tarihi Müzesi","credit":"Lake Sünnet in the fall 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/U%C5%9Fak%20Kent%20Tarihi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132682074","tip":"genel"}]
 description: "Uşak'ın tarihi ve kültürel zenginliğini keşfedin"
 keywords: ["Uşak","Kent Tarihi Müzesi","Ege Bölgesi","Tarih","Kültür","Müze"]

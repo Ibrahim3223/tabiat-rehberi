@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Kamp yapmak","Doğa fotoğrafçılığı","Dağ bisikleti"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Kastamonu-Daday-Ballidag Saricam","caption":"Kastamonu-Daday-Ballidag Saricam","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Y%C3%BCr%C3%BCy%C3%BC%C5%9F_Parkuru.jpg","alt":"Kastamonu-Daday-Ballidag Saricam","caption":"Kastamonu-Daday-Ballidag Saricam","credit":"Neşetsuyu Tabiat Parkı Yürüyüş Parkuru","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Daday-Ballidag%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227578","tip":"genel"}]
 description: "Kastamonu ilinin doğal güzelliklerini keşfedeceğiniz milli park"
 keywords: ["Kastamonu","Daday","Ballidag Saricam","Milli Park","Doğa","Turizm","Kastamonu Turistik Yerler","Karadeniz Bölgesi","Tabiat"]

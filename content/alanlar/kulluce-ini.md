@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Küllüce İni","caption":"Küllüce İni","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Salome_Marble_%28Supren_Marble%29_%28brecciated_marble%2C_metamorphosed_during_the_Cimmeride_Orogeny%2C_Late_Triassic_to_Early_Jurassic%3B_quarry_at_or_near_Supren%2C_northwestern_Turkey%29_2_%2814999205191%29.jpg/960px-thumbnail.jpg","alt":"Küllüce İni","caption":"Küllüce İni","credit":"Salome Marble (Supren Marble) (brecciated marble, metamorphosed during the Cimmeride Orogeny, Late Triassic to Early Jurassic; quarry at or near Supren, northwestern Turkey) 2 (14999205191)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCll%C3%BCce%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319400","tip":"genel"}]
 description: "Mersin'de bulunan Küllüce İni, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Küllüce İni","Mersin","Jeopark","Doğal Alan","Turizm","Mersin Turistik Yerler","Jeolojik Oluşumlar","Doğa Sporları","Mersin Gezilecek Yerler"]

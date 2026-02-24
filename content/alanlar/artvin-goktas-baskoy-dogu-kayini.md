@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarihi yapılar gezisi","geleneksel köyler gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg/960px-City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg","alt":"Artvin-Goktas-Baskoy Dogu Kayini","caption":"Artvin-Goktas-Baskoy Dogu Kayini","credit":"City of Artvin, Borçka Karagöl.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Artvin-Goktas-Baskoy Dogu Kayini","caption":"Artvin-Goktas-Baskoy Dogu Kayini","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Goktas-Baskoy%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227775","tip":"genel"}]
 description: "Artvin-Goktas-Baskoy Dogu Kayini milli parkı, Karadeniz Bölgesi'nin en güzel doğal alanlarından biri"
 keywords: ["Artvin","Goktas-Baskoy","Dogu Kayini","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

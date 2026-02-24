@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarihi yapıları incelemek","Kültürel etkinliklere katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Eyüp Sultan Hamamı","caption":"Eyüp Sultan Hamamı","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Eyüp Sultan Hamamı","caption":"Eyüp Sultan Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ey%C3%BCp%20Sultan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738587","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini bir araya getiren Eyüp Sultan Hamamı, Marmara Bölgesi'nde yer alır."
 keywords: ["Eyüp Sultan","Hamam","Marmara Bölgesi","İstanbul","Tarih","Doğa","Güzellik","Turizm","Gezi"]

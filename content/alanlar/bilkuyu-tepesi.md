@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarih gezisi","kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Bilkuyu Tepesi","caption":"Bilkuyu Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bilkuyu Tepesi","caption":"Bilkuyu Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bilkuyu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390904","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin Yozgat şehrinde yer alan Bilkuyu Tepesi, 140 hektarlık yeşil alanı yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Yozgat","Bilkuyu Tepesi","İç Anadolu Bölgesi","doğa","tepe","gezi","yolculuk","tarih","coğrafya","flora","fauna"]

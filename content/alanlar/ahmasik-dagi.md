@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Ahmaşık Dağı","caption":"Ahmaşık Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Olympos_Peak.jpg/960px-Olympos_Peak.jpg","alt":"Ahmaşık Dağı","caption":"Ahmaşık Dağı","credit":"Olympos Peak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahma%C5%9F%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31572094","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, Ahmaşık Dağı'nda doğa yürüyüşü ve keşif için ideal bir destinasyon"
 keywords: ["Ahmaşık Dağı","Ankara","Dağ","Doğa Yürüyüşü","Turizm","Gezi","Ankara Turistik Yerler","Dağcılık","Doğal Alanlar"]

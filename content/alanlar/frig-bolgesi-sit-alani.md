@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["antik kentleri gezmek","arkeolojik kazıları incelemek","doğa yürüyüşleri yapmak","yerel kültürü keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Frig Bölgesi Sit alanı","caption":"Frig Bölgesi Sit alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Frig Bölgesi Sit alanı","caption":"Frig Bölgesi Sit alanı","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Frig%20B%C3%B6lgesi%20Sit%20alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226076","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Frig Bölgesi Sit alanı, zengin tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor"
 keywords: ["Frig Bölgesi Sit alanı","İç Anadolu Bölgesi","tarihi sit alanları","doğa koruma alanları","Frizler","antik kentler","kültürel miras","turizm","gezi rehberi"]

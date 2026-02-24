@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih kalıntılarını gezmek","Doğa yürüyüşü yapmak","Fotograf çekmek","Tarih hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Alara İç Kale Hamamı","caption":"Alara İç Kale Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg/960px-Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg","alt":"Alara İç Kale Hamamı","caption":"Alara İç Kale Hamamı","credit":"Piri Reis. Map of the Black Sea (Samsun)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alara%20%C4%B0%C3%A7%20Kale%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738765","tip":"genel"}]
 description: "Alanya'nın tarihi ve doğal güzellikleri ile ünlü Alara İç Kale Hamamı, ziyaretçilerini bekliyor."
 keywords: ["Alara İç Kale Hamamı","Alanya","Antalya","tarih","doğa","gezi","turizm","kale","hamam"]

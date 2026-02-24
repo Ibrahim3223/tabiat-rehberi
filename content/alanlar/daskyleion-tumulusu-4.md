@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi rehberli turlar","doğa yürüyüşleri","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Daskyleion Tümülüsü 4","caption":"Daskyleion Tümülüsü 4","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Daskyleion Tümülüsü 4","caption":"Daskyleion Tümülüsü 4","credit":"Harbiş Sahili, Karataş - Adana 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Daskyleion%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728310","tip":"genel"}]
 description: "Marmara Bölgesi'nin tarihi hazinesi, Bandırma'da keşfedilmeyi bekliyor"
 keywords: ["Daskyleion","Tümülüs","Bandırma","Marmara Bölgesi","tarih","arkeoloji","gezi","turizm"]

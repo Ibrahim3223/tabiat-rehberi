@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg/960px-Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg","alt":"Alacabük Dağı","caption":"Alacabük Dağı","credit":"Landschap met ruïnes en het aquaduct naar Efeze, RP-F-F00998-AV.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg/960px-Jebel_Aqra_%28Kel_Da%C4%9F%C4%B1%2C_Mount_Casius%29%2C_2008.jpg","alt":"Alacabük Dağı","caption":"Alacabük Dağı","credit":"Jebel Aqra (Kel Dağı, Mount Casius), 2008","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alacab%C3%BCk%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35723773","tip":"genel"}]
 description: "Van ilinde yer alan Alacabük Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Alacabük Dağı","Van","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Türkiye","Coğrafya"]

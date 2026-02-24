@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe öğrenmek","doğa yürüyüşü","fotoğraf çekmek","bitki ve hayvan türleri hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Aydın Baba Türbesi","caption":"Aydın Baba Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2023-11-19_A_view_from_Ufakdere_Port_Beach.jpg/960px-2023-11-19_A_view_from_Ufakdere_Port_Beach.jpg","alt":"Aydın Baba Türbesi","caption":"Aydın Baba Türbesi","credit":"2023-11-19 A view from Ufakdere Port Beach","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ayd%C4%B1n%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390821","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri olan Aydın Baba Türbesi, Şahinbey ilçesinde bulunmaktadır."
 keywords: ["Aydın Baba Türbesi","Şahinbey","Gaziantep","Güneydoğu Anadolu Bölgesi","tarihi mekanlar","doğal güzellikler","tarihçe","coğrafya"]

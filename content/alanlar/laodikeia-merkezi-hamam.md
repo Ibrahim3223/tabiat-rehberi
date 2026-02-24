@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yerleri gezmek","doğa yürüyüşleri","fotografi","kültürel aktiviteler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Laodikeia Merkezi Hamam","caption":"Laodikeia Merkezi Hamam","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg/960px-Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg","alt":"Laodikeia Merkezi Hamam","caption":"Laodikeia Merkezi Hamam","credit":"Aerial view of destruction in Beach refugee camp, Gaza Strip","license":"CC BY-SA 3.0 igo"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Laodikeia%20Merkezi%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738925","tip":"genel"}]
 description: "Ege Bölgesi'nin Pamukkale/Denizli ilçesinde bulunan Laodikeia Merkezi Hamam, tarihi ve doğal güzellikleri bir araya getiren bir destinasyondur."
 keywords: ["Laodikeia Merkezi Hamam","Pamukkale","Denizli","Ege Bölgesi","tarihi yerler","doğa turizmi","kültür turizmi","gezi rehberi"]

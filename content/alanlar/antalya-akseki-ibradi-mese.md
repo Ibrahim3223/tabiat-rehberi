@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşleri","yaban hayatı gözlemleme","fotografçılık","çevre eğitimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Antalya-Akseki-Ibradi Mese","caption":"Antalya-Akseki-Ibradi Mese","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg/960px-Ne%C5%9Fetsuyu_Tabiat_Park%C4%B1_Bent.jpg","alt":"Antalya-Akseki-Ibradi Mese","caption":"Antalya-Akseki-Ibradi Mese","credit":"Neşetsuyu Tabiat Parkı Bent","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Akseki-Ibradi%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227276","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin doğal güzellikleri arasında yer alan bir milli park"
 keywords: ["milli park","Antalya","Akdeniz Bölgesi","Ibradi","Akseki","doğa","gezi","turizm","çevre","flora","fauna"]

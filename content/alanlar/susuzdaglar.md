@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Susuzdağlar","caption":"Susuzdağlar","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MOKM41.jpg/960px-MOKM41.jpg","alt":"Susuzdağlar","caption":"Susuzdağlar","credit":"MOKM41","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Susuzda%C4%9Flar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505581","tip":"genel"}]
 description: "Şanlıurfa'da yer alan Susuzdağlar, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzellikleri ve zengin tarihi ile dikkat çekiyor."
 keywords: ["Susuzdağlar","Şanlıurfa","Dağ","Doğa","Coğrafya","Tarih","Gezi","Seyahat","Turizm"]

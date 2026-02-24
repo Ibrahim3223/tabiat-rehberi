@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Karamık Sazlıkları Sulak Alanı","caption":"Karamık Sazlıkları Sulak Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_iskeleli_g%C3%B6l.jpg","alt":"Karamık Sazlıkları Sulak Alanı","caption":"Karamık Sazlıkları Sulak Alanı","credit":"Bolu Yedigöller tabiat parkı iskeleli göl","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karam%C4%B1k%20Sazl%C4%B1klar%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229009","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin önemli sulak alanlarından biri olan Karamık Sazlıkları Sulak Alanı, doğal güzelliği ve biyolojik çeşitliliği ile dikkat çekiyor."
 keywords: ["Karamık Sazlıkları Sulak Alanı","İç Anadolu Bölgesi","sulak alan","doğal güzellik","biyolojik çeşitlilik","kuş türleri","bitki türleri","ekosistem"]

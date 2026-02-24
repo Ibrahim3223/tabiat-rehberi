@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Flora ve Fauna İzleme","Sedir Ağacı ile Çevrili Patikaları Keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Adana-Nigde-Ulukisla Sedir","caption":"Adana-Nigde-Ulukisla Sedir","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg/960px-A_Turkey_Vulture_and_Molly_Hogan_of_NatureWorks_%2826178312449%29.jpg","alt":"Adana-Nigde-Ulukisla Sedir","caption":"Adana-Nigde-Ulukisla Sedir","credit":"A Turkey Vulture and Molly Hogan of NatureWorks (26178312449)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Nigde-Ulukisla%20Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227204","tip":"genel"}]
 description: "Adana-Nigde-Ulukisla Sedir, Akdeniz Bölgesi'nde yer alan doğa harikası bir milli park."
 keywords: ["Adana","Nigde","Ulukisla","Sedir","Milli Park","Akdeniz Bölgesi","Doğa Harikası","Yeşil Alan","Flora","Fauna"]

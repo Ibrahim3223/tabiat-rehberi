@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Suharg%C4%B1_-_panoramio.jpg/960px-Suharg%C4%B1_-_panoramio.jpg","alt":"Hamzakalesi Burnu","caption":"Hamzakalesi Burnu","credit":"Suhargı - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Eurasian_Collared-Dove_by_Tisha_Mukherjee_10.jpg/960px-Eurasian_Collared-Dove_by_Tisha_Mukherjee_10.jpg","alt":"Hamzakalesi Burnu","caption":"Hamzakalesi Burnu","credit":"Eurasian Collared-Dove by Tisha Mukherjee 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamzakalesi%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34917723","tip":"genel"}]
 description: "Giresun'da yer alan Hamzakalesi Burnu, 1200 hektarlık bir kuş cenneti olarak dikkat çekiyor."
 keywords: ["Hamzakalesi Burnu","Giresun","kuş cenneti","doğa alanı","turizm","Giresun turizm","kuş gözlem","doğa yürüyüşü","Giresun gezilecek yerler"]

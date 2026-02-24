@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sis_da%C4%9F%C4%B1_%285%29.jpg/960px-Sis_da%C4%9F%C4%B1_%285%29.jpg","alt":"Trabzon-Pazar-Findikli Dogu Ladini","caption":"Trabzon-Pazar-Findikli Dogu Ladini","credit":"Sis dağı (5).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_photos_of_Akda%C4%9F.jpg/960px-The_photos_of_Akda%C4%9F.jpg","alt":"Trabzon-Pazar-Findikli Dogu Ladini","caption":"Trabzon-Pazar-Findikli Dogu Ladini","credit":"The photos of Akdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Pazar-Findikli%20Dogu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227994","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerini keşfedin, 140 hektarlık milli parkta yeşil alanların keyfini çıkarın"
 keywords: ["Trabzon","Pazar","Findikli","Doğu Ladini","Milli Park","Karadeniz","Doğa","Yeşil Alan"]

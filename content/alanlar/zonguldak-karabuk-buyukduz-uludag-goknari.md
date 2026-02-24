@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotoğraf çekme"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Zonguldak-Karabuk-Buyukduz Uludag Goknari","caption":"Zonguldak-Karabuk-Buyukduz Uludag Goknari","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg","alt":"Zonguldak-Karabuk-Buyukduz Uludag Goknari","caption":"Zonguldak-Karabuk-Buyukduz Uludag Goknari","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Karabuk-Buyukduz%20Uludag%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227292","tip":"genel"}]
 description: "Zonguldak'ta yer alan doğal güzellikler ve tarihi zenginlikler"
 keywords: ["Zonguldak","Karabuk","Buyukduz","Uludag","Goknari","Milli Park","Doğa","Tarih","Turizm"]

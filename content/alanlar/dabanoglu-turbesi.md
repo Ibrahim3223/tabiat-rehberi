@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları gezmek","Doğa yürüyüşleri","Bölgesel yemekleri tatmak","Yerel el sanatlarını keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Dabanoğlu Türbesi","caption":"Dabanoğlu Türbesi","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Dabanoğlu Türbesi","caption":"Dabanoğlu Türbesi","credit":"Karaburun - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dabano%C4%9Flu%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391496","tip":"genel"}]
 description: "Diyarbakır'ın tarihi ve doğal güzellikleri arasında yer alan Dabanoğlu Türbesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Dabanoğlu Türbesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarih","doğa","türk kültür mirası"]

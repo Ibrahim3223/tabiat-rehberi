@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Yasdar Dağı","caption":"Yasdar Dağı","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg/960px-Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg","alt":"Yasdar Dağı","caption":"Yasdar Dağı","credit":"Nevşehir Ürgüp","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yasdar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560199","tip":"genel"}]
 description: "Cakarta, Güney Jakarta'da yer alan Yasdar Dağı, doğal güzellikleri ve yürüyüş rotalarıyla dikkat çekiyor."
 keywords: ["Yasdar Dağı","Cakarta","Güney Jakarta","Dağ","Doğa","Yürüyüş Rotaları","Endonezya","Gezi","Seyahat"]

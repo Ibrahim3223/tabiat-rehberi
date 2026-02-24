@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Giresun_yaylalar%C4%B1_-_panoramio.jpg/960px-Giresun_yaylalar%C4%B1_-_panoramio.jpg","alt":"Kılıç Burnu","caption":"Kılıç Burnu","credit":"Giresun yaylaları - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/20250706_Streptopelia.jpg/960px-20250706_Streptopelia.jpg","alt":"Kılıç Burnu","caption":"Kılıç Burnu","credit":"20250706 Streptopelia","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1%C3%A7%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34961753","tip":"genel"}]
 description: "Giresun'da yer alan Kılıç Burnu, 1200 hektarlık bir alanıyla önemli bir kuş cenneti olarak bilinir."
 keywords: ["Kılıç Burnu","Giresun","Kuş Cenneti","Doğa Alanı","Turizm","Giresun Turistik Yerler","Kılıç Burnu Giresun","Doğa Turizmi","Kuş Gözlemi"]

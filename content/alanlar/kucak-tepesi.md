@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Manzara İzleme","Fotoğraf Çekme","Picnic Yapma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kucak Tepesi","caption":"Kucak Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kucak Tepesi","caption":"Kucak Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kucak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390716","tip":"genel"}]
 description: "Yozgat'ın doğal güzelliklerini keşfedin, Kucak Tepesi'nin büyüleyici manzaralarına şahit olun."
 keywords: ["Kucak Tepesi","Yozgat","İç Anadolu Bölgesi","Doğal Alanlar","Tepeler","Manzara","Gezi","Turizm","Doğa"]

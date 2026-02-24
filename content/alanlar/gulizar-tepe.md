@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Gülizar Tepe","caption":"Gülizar Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Gülizar Tepe","caption":"Gülizar Tepe","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BClizar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32139072","tip":"genel"}]
 description: "Ağrı'da yer alan Gülizar Tepe, 1200 hektarlık yeşil alanı ile dikkat çekiyor. Doğa severler için ideal bir destinasyon."
 keywords: ["Gülizar Tepe","Ağrı","Doğa","Dağ","Yeşil Alan","Doğa Turizmi","Trekking","Kamp","Ağrı Turizm"]

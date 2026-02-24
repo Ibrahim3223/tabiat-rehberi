@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotoğraf çekme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çakıroluk Tepesi","caption":"Çakıroluk Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Çakıroluk Tepesi","caption":"Çakıroluk Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ak%C4%B1roluk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34827829","tip":"genel"}]
 description: "Denizli'nin doğal güzelliklerini keşfedin. Çakıroluk Tepesi, Ege Bölgesi'nin önemli noktalarından biri"
 keywords: ["Çakıroluk Tepesi","Denizli","Ege Bölgesi","doğal güzellik","tepe","gezi","turizm","çevre"]

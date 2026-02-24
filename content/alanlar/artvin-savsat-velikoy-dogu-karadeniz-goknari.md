@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["trekking","kamp","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg/960px-City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg","alt":"Artvin-Savsat-Velikoy Dogu Karadeniz Goknari","caption":"Artvin-Savsat-Velikoy Dogu Karadeniz Goknari","credit":"City of Artvin, Borçka Karagöl.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Artvin-Savsat-Velikoy Dogu Karadeniz Goknari","caption":"Artvin-Savsat-Velikoy Dogu Karadeniz Goknari","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Savsat-Velikoy%20Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227586","tip":"genel"}]
 description: "Artvin'in doğal güzellikleri arasında yer alan milli park, zengin flora ve fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["Artvin","Savsat","Velikoy","Dogu Karadeniz","Goknari","milli park","doğa","flora","fauna","gezi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate.jpg","alt":"Yivliğin Tepesi","caption":"Yivliğin Tepesi","credit":"The Landscape of Sıklık Gate.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Second_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-15.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Yivliğin Tepesi","caption":"Yivliğin Tepesi","credit":"Second floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-15","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yivli%C4%9Fin%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581950","tip":"genel"}]
 description: "Çorum'un gizli cenneti, tarihi ve doğal güzellikleri ile ziyaretçilerini büyülüyor"
 keywords: ["Yivliğin Tepesi","Çorum","Karadeniz Bölgesi","doğal güzellik","tarihi mekan","gezi","turizm"]

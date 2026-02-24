@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemciliği","Fotoğrafçılık","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Sıralıtaş Tepesi","caption":"Sıralıtaş Tepesi","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Sıralıtaş Tepesi","caption":"Sıralıtaş Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1ral%C4%B1ta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559153","tip":"genel"}]
 description: "Ankara'nın doğal güzellikleri arasında yer alan Sıralıtaş Tepesi, İç Anadolu Bölgesi'nin coğrafi zenginliklerini gözler önüne seriyor."
 keywords: ["Sıralıtaş Tepesi","Ankara","İç Anadolu Bölgesi","coğrafi zenginlikler","doğa","tepe","gezi"]

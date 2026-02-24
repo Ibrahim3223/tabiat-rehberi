@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","dinlenme","fotografcılık","tarihleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Mevlana Hamamı","caption":"Mevlana Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_17.jpg","alt":"Mevlana Hamamı","caption":"Mevlana Hamamı","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 17","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mevlana%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738445","tip":"genel"}]
 description: "Tokat'ta bulunan Mevlana Hamamı, 140 hektarlık yeşil alanıylaApproximately 200 futbol sahası büyüklüğünde, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Mevlana Hamamı","Tokat","Karadeniz Bölgesi","tarih","doğa","yeşil alan","futbol sahası"]

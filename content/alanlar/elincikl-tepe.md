@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/K%C3%A2hta_district_landscape.jpg/960px-K%C3%A2hta_district_landscape.jpg","alt":"Elincikl Tepe","caption":"Elincikl Tepe","credit":"Kâhta district landscape.jpg","license":"CC BY 3.0 pl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ida_Flooding_%2812%29.jpg/960px-Ida_Flooding_%2812%29.jpg","alt":"Elincikl Tepe","caption":"Elincikl Tepe","credit":"Ida Flooding (12)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elincikl%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391068","tip":"genel"}]
 description: "Adıyaman'ın gizli güzelliği, Elincikl Tepe"
 keywords: ["Adıyaman","Güneydoğu Anadolu Bölgesi","Elincikl Tepe","doğa","tepe","gezi"]

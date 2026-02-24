@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["müze gezisi","yeşil alan gezisi","coğrafi konum hakkında bilgi alma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Güdül Belediyesi Kent Müzesi","caption":"Güdül Belediyesi Kent Müzesi","credit":"A Geological Wonder in Nallıhan.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Anti-Taurus_Mountains_-_panoramio.jpg/960px-Anti-Taurus_Mountains_-_panoramio.jpg","alt":"Güdül Belediyesi Kent Müzesi","caption":"Güdül Belediyesi Kent Müzesi","credit":"Anti-Taurus Mountains - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCl%20Belediyesi%20Kent%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132950299","tip":"genel"}]
 description: "Ankara'nın Güdül ilçesinde bulunan Kent Müzesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Güdül Belediyesi","Kent Müzesi","Ankara","İç Anadolu Bölgesi","yeşil alan","müze","tarihçe","coğrafya"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","flora ve fauna gözlemi","köy ziyaretleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Geniz Tepesi","caption":"Geniz Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Geniz Tepesi","caption":"Geniz Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Geniz%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389255","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, Geniz Tepesi"
 keywords: ["Geniz Tepesi","İç Anadolu Bölgesi","tepe","doğa","gezi","turizm","Türkiye","coğrafya","flora","fauna"]

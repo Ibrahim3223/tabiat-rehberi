@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezme","Doğa yürüyüşü","Deniz kıyısında dinlenme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Güzel Ahmet Paşa Türbesi","caption":"Güzel Ahmet Paşa Türbesi","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Altincamp_20140729_Sunset.jpg/960px-Altincamp_20140729_Sunset.jpg","alt":"Güzel Ahmet Paşa Türbesi","caption":"Güzel Ahmet Paşa Türbesi","credit":"Altincamp 20140729 Sunset","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCzel%20Ahmet%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391060","tip":"genel"}]
 description: "Fatih/İstanbul'da bulunan tarihi türbe ve plaj alanı"
 keywords: ["Güzel Ahmet Paşa","Türbe","Plaj","Fatih","İstanbul","Marmara Bölgesi","Tarihi mekanlar","Turistik yerler"]

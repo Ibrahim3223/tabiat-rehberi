@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Lifmağaraları","caption":"Lifmağaraları","credit":"Goreme National Park, Turkey","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Caucasus_Geology_EN.svg/960px-Caucasus_Geology_EN.svg.png","alt":"Lifmağaraları","caption":"Lifmağaraları","credit":"Caucasus Geology EN","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Lifma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319416","tip":"genel"}]
 description: "Siirt'te yer alan Lifmağaraları, 1200 hektarlık bir jeopark alanıdır. Doğal güzellikleri ve tarihi önemiyle dikkat çeker."
 keywords: ["Lifmağaraları","Siirt","Jeopark","Doğal Alanlar","Tarih","Turizm","Gezi","Mağaralar","Doğa"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","picnic","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Paşa Hamamı (Çorum)","caption":"Paşa Hamamı (Çorum)","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sunset_Tavakl%C4%B1.jpg/960px-Sunset_Tavakl%C4%B1.jpg","alt":"Paşa Hamamı (Çorum)","caption":"Paşa Hamamı (Çorum)","credit":"Sunset Tavaklı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pa%C5%9Fa%20Hamam%C4%B1%20(%C3%87orum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118395884","tip":"genel"}]
 description: "Çorum'un tarihi ve doğal güzelliklerini keşfedin. Paşa Hamamı, Karadeniz Bölgesi'nde yer alan bir doğal alan."
 keywords: ["Paşa Hamamı","Çorum","Karadeniz Bölgesi","doğal alan","tarih","coğrafya","flora","fauna"]

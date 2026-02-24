@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg/960px-Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg","alt":"Zokarasmağaraları","caption":"Zokarasmağaraları","credit":"Korfu (GR), Kassiopi -- 2018 -- 1068","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/960px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg","alt":"Zokarasmağaraları","caption":"Zokarasmağaraları","credit":"Pluto-01 Stern 03 Pluto Color TXT","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zokarasma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319898","tip":"genel"}]
 description: "Siirt'te yer alan Zokarasmağaraları, 1200 hektarlık yeşil cennet ve jeopark alanı"
 keywords: ["Zokarasmağaraları","Siirt","Jeopark","Doğa Alanı","Turizm","Gezi","Yerel Turizm","Doğa Harikaları","Turistik Yerler"]

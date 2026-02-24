@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Kartatevrı Sırtı","caption":"Kartatevrı Sırtı","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg/960px-Erciyes_Da%C4%9F%C4%B1_05_04_1999.jpg","alt":"Kartatevrı Sırtı","caption":"Kartatevrı Sırtı","credit":"Erciyes Dağı 05 04 1999","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kartatevr%C4%B1%20S%C4%B1rt%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548168","tip":"genel"}]
 description: "Siirt'te yer alan Kartatevrı Sırtı, 1200 hektarlık yeşil alanı ile İstanbul'un yarısı kadar bir alanı kaplar."
 keywords: ["Kartatevrı Sırtı","Siirt","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Türkiye"]

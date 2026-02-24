@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Trekking","Doğa Yürüyüşü","Fotoğraf Çekme","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kevrebreze Tepesi","caption":"Kevrebreze Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Kevrebreze Tepesi","caption":"Kevrebreze Tepesi","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kevrebreze%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31543295","tip":"genel"}]
 description: "Diyarbakır'da bulunan Kevrebreze Tepesi, şehrin doğal güzelliklerini keşfetmek için ideal bir destinasyon"
 keywords: ["Kevrebreze Tepesi","Diyarbakır","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Hınıs Kanyonu","caption":"Hınıs Kanyonu","credit":"VallesMarinerisHuge.jpg","license":"Attribution"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f6/K%C3%BCre_Da%C4%9Flar%C4%B1_G%C3%BCll%C3%BCce_K%C3%B6y%C3%BC_Kanyonu_2014-06-15_19-58.jpeg","alt":"Hınıs Kanyonu","caption":"Hınıs Kanyonu","credit":"Küre Dağları Güllüce Köyü Kanyonu 2014-06-15 19-58","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1n%C4%B1s%20Kanyonu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q117318119","tip":"genel"}]
 description: "Erzurum'un Hınıs ilçesinde yer alan Hınıs Kanyonu, 1200 hektarlık yeşil alanı ile doğa severlerin gözdesi."
 keywords: ["Hınıs Kanyonu","Erzurum","Doğa","Kanyon","Yeşil Alan","Turizm","Gezi","Doğa Harikaları","Erzurum Gezilecek Yerler"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğa yürüyüşü yapmak","Fotograf çekmek","Deniz kenarında dinlenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Mustafa Aslan Efendi Türbesi","caption":"Mustafa Aslan Efendi Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Divers.jpg/960px-Divers.jpg","alt":"Mustafa Aslan Efendi Türbesi","caption":"Mustafa Aslan Efendi Türbesi","credit":"Divers","license":"CC SA 1.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mustafa%20Aslan%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391660","tip":"genel"}]
 description: "Çanakkale'nin Bayramiç ilçesinde bulunan tarihi türbe ve plaj alanı"
 keywords: ["Mustafa Aslan Efendi Türbesi","Bayramiç","Çanakkale","Marmara Bölgesi","tarih","doğa","plaj"]

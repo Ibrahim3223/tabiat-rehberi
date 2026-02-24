@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/View_to_chios_island_-_panoramio.jpg/960px-View_to_chios_island_-_panoramio.jpg","alt":"Pırnarlı Ada","caption":"Pırnarlı Ada","credit":"View to chios island - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Oinousses_main_settlement.JPG/960px-Oinousses_main_settlement.JPG","alt":"Pırnarlı Ada","caption":"Pırnarlı Ada","credit":"Oinousses main settlement","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/P%C4%B1rnarl%C4%B1%20Ada","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q30632298","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan Pırnarlı Ada, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Pırnarlı Ada","İzmir Adaları","İzmir Turizm","Ada Gezileri","Doğa Turizmi","Yeşil Alanlar","İzmir Gezi Rehberi","Türkiye Adaları","Deniz Turizmi"]

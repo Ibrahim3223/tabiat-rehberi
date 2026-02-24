@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Saka Hamamı","caption":"Saka Hamamı","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pirlanta_beach_%28october_2009%29_-_panoramio.jpg/960px-Pirlanta_beach_%28october_2009%29_-_panoramio.jpg","alt":"Saka Hamamı","caption":"Saka Hamamı","credit":"Pirlanta beach (october 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Saka%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738992","tip":"genel"}]
 description: "Antakya'da bulunan Saka Hamamı, doğal güzelliği ve tarihi geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["Saka Hamamı","Antakya","Hatay","Akdeniz Bölgesi","doğal güzellik","tarihi geçmişi"]

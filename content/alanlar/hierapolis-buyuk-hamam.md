@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Hierapolis Büyük Hamam","caption":"Hierapolis Büyük Hamam","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nea_Moni_and_the_Aegean_Sea.JPG/960px-Nea_Moni_and_the_Aegean_Sea.JPG","alt":"Hierapolis Büyük Hamam","caption":"Hierapolis Büyük Hamam","credit":"Nea Moni and the Aegean Sea","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hierapolis%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738536","tip":"genel"}]
 description: "Pamukkale'nin tarihi ve doğal güzelliklerini bir arada sunan Hierapolis Büyük Hamam"
 keywords: ["Hierapolis","Büyük Hamam","Pamukkale","Denizli","Ege Bölgesi","tarih","doğa"]

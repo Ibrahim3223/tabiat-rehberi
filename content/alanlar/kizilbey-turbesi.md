@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçi rehberli gezi","mimari keşif","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Kızılbey Türbesi","caption":"Kızılbey Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Beachside_in_Sinop.jpg/960px-Beachside_in_Sinop.jpg","alt":"Kızılbey Türbesi","caption":"Kızılbey Türbesi","credit":"Beachside in Sinop","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lbey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391401","tip":"genel"}]
 description: "Ankara'nın Altındağ ilçesinde yer alan tarihi bir mekan"
 keywords: ["Kızılbey Türbesi","Ankara","Altındağ","tarih","kültür","turizm","gezi","tarihçe","coğrafya"]

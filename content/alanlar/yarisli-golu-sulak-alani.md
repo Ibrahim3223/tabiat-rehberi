@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemi","Fotoğrafçılık","Bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Yarışlı Gölü Sulak Alanı","caption":"Yarışlı Gölü Sulak Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kocakoru_Tabiat_Park%C4%B1_01.jpg/960px-Kocakoru_Tabiat_Park%C4%B1_01.jpg","alt":"Yarışlı Gölü Sulak Alanı","caption":"Yarışlı Gölü Sulak Alanı","credit":"Kocakoru Tabiat Parkı 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yar%C4%B1%C5%9Fl%C4%B1%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228838","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Yarışlı Gölü Sulak Alanı, zengin fauna ve flora çeşitliliği ile dikkat çekiyor."
 keywords: ["Yarışlı Gölü","Sulak Alanı","İç Anadolu Bölgesi","Doğa","Flora","Fauna","Sulak Alan","Göl"]

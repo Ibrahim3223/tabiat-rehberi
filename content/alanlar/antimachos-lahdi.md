@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Kültür turu","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Antimachos Lahdi","caption":"Antimachos Lahdi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Antimachos Lahdi","caption":"Antimachos Lahdi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antimachos%20Lahdi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728233","tip":"genel"}]
 description: "Kumluca/Antalya'da yer alan Antimachos Lahdi, Akdeniz Bölgesi'nin önemli tarihi değerlerinden biridir."
 keywords: ["Antimachos Lahdi","Kumluca","Antalya","Akdeniz Bölgesi","lahit","tarih","kültür"]

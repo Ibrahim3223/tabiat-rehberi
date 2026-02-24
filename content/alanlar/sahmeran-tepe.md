@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","flora ve fauna keşfi","tarihi değerleri gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Şahmeran Tepe","caption":"Şahmeran Tepe","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg/960px-Alt%C4%B1noluk_Cam_Teras_%C3%BCzerinden_Kazda%C4%9F%C4%B1.jpg","alt":"Şahmeran Tepe","caption":"Şahmeran Tepe","credit":"Altınoluk Cam Teras üzerinden Kazdağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eahmeran%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385496","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gizli hazinelerinden biri olan Şahmeran Tepe, Gaziantep'in doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Şahmeran Tepe","Gaziantep","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","gezi"]

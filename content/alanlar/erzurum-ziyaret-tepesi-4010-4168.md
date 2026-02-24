@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Ziyaret_Tepesi_%28Konalga%29_-1.jpg","alt":"Erzurum Ziyaret Tepesi (40.10, 41.68) manzarası","credit":"Buzancar","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yol_ve_demirkaz%C4%B1k.jpg/960px-Yol_ve_demirkaz%C4%B1k.jpg","alt":"Erzurum Ziyaret Tepesi","caption":"Erzurum Ziyaret Tepesi","credit":"Yol ve demirkazık","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Ziyaret_Tepesi_%28Konalga%29_-2.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ziyaret_Tepesi_%28Konalga%29_-2.jpg/1280px-Ziyaret_Tepesi_%28Konalga%29_-2.jpg","alt":"Erzurum Ziyaret Tepesi (40.10, 41.68) - Ziyaret Tepesi (Konalga) -2","credit":"Buzancar","license":"cc-by-sa-4.0"},{"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Erzurum Ziyaret Tepesi (40.10, 41.68) - Allahekber-ziyaret tepesi-şeyh senan kabri","credit":"Gürsoy Solmaz","license":"cc-by-sa-4.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum%20Ziyaret%20Tepesi%20(40.10%2C%2041.68)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559638","tip":"genel"}]
 description: "Erzurum'un görkemli dağ manzarasına sahip Ziyaret Tepesi, 40.10 ve 41.68 koordinatlarında yer alır. Doğa severler için ideal bir destinasyon."

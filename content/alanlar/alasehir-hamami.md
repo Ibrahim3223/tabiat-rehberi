@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Denize girme","Güneşlenme","Piknik yapma","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Alaşehir Hamamı","caption":"Alaşehir Hamamı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg/960px-ISS-57_Aegean_Sea_with_Turkish_and_Greek_Coasts.jpg","alt":"Alaşehir Hamamı","caption":"Alaşehir Hamamı","credit":"ISS-57 Aegean Sea with Turkish and Greek Coasts","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ala%C5%9Fehir%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738749","tip":"genel"}]
 description: "Manisa'nın Alaşehir ilçesinde bulunan Alaşehir Hamamı, Ege Bölgesi'nin önemli doğal güzelliklerinden biri olarak dikkat çekiyor."
 keywords: ["Alaşehir Hamamı","Manisa","Ege Bölgesi","doğal güzellik","turizm","gezi","yazlık","plaj","deniz"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kılıç Tepeleri","caption":"Kılıç Tepeleri","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Kılıç Tepeleri","caption":"Kılıç Tepeleri","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1%C3%A7%20Tepeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211131","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerinin başında gelen Kılıç Tepeleri, ziyaretçilerini büyüleyen bir doğa harikasıdır"
 keywords: ["Kılıç Tepeleri","Erzurum","Doğu Anadolu Bölgesi","doğa","gezi","turizm"]

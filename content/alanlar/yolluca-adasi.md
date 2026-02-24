@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Yolluca Adası","caption":"Yolluca Adası","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rabbit_Islands_Scotland_2012.jpg/960px-Rabbit_Islands_Scotland_2012.jpg","alt":"Yolluca Adası","caption":"Yolluca Adası","credit":"Rabbit Islands Scotland 2012","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yolluca%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34787993","tip":"genel"}]
 description: "Muğla'nın gizli cenneti Yolluca Adası, doğa severler için bir çekim noktasıdır."
 keywords: ["Yolluca Adası","Muğla","ada","doğa","gezi","seyahat","turizm","Muğla adaları","deniz"]

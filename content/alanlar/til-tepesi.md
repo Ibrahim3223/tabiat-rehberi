@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşü","Kampçılık","Fotoğrafçılık","Yaban hayatı gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Til Tepesi","caption":"Til Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Til Tepesi","caption":"Til Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Til%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389227","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde yer alan Til Tepesi, Muş ilinin önemli doğal güzelliklerinden biridir."
 keywords: ["Til Tepesi","Muş","Doğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["piknik yapmak","manzara izlemek","tarih hakkında bilgi edinmek","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Ulucak Tepesi","caption":"Ulucak Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Ulucak Tepesi","caption":"Ulucak Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulucak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386921","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzelliklerini bir arada sunan Ulucak Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Ulucak Tepesi","Amasya","Karadeniz Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]

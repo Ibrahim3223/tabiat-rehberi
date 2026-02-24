@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Road_to_Hacilar_-_panoramio.jpg/960px-Road_to_Hacilar_-_panoramio.jpg","alt":"Mal Mağarası","caption":"Mal Mağarası","credit":"Road to Hacilar - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/GeologicTimeScale-WikiLeadImage-tr.svg/960px-GeologicTimeScale-WikiLeadImage-tr.svg.png","alt":"Mal Mağarası","caption":"Mal Mağarası","credit":"GeologicTimeScale-WikiLeadImage-tr","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mal%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319528","tip":"genel"}]
 description: "Kayseri'de bulunan Mal Mağarası, 1200 hektarlık bir jeopark alanıdır. Doğal güzelliği ve tarihi önemiyle dikkat çeker."
 keywords: ["Mal Mağarası","Kayseri","Jeopark","Doğal Alan","Mağara","Turizm","Kayseri Turistik Yerler","Jeolojik Özellikler","Doğa Harikaları"]

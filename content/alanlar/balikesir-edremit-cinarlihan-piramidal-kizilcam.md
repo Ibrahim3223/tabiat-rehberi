@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Kamp","Piknik","Kayak","Snowboard","Balık tutma","Rafting"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Balikesir-Edremit-Cinarlihan Piramidal Kızılçam","caption":"Balikesir-Edremit-Cinarlihan Piramidal Kızılçam","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg/960px-Ku%C5%9Fadas%C4%B1_tabiat_park%C4%B1_2023.jpg","alt":"Balikesir-Edremit-Cinarlihan Piramidal Kızılçam","caption":"Balikesir-Edremit-Cinarlihan Piramidal Kızılçam","credit":"Kuşadası tabiat parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Edremit-Cinarlihan%20Piramidal%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227637","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. 140 hektarlık milli parkta keşfedilecek çok şey var."
 keywords: ["Balikesir","Edremit","Cinarlihan","Piramidal Kızılçam","milli park","doğa","gezi","turizm","iç anadolu"]

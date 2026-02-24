@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları ziyaret etmek","doğa yürüyüşü yapmak","fotograf çekmek","picnic yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_11_-_panoramio.jpg","alt":"Kara Halil Bey Türbesi","caption":"Kara Halil Bey Türbesi","credit":"Süzer Sun Dreams Beach 11 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Kara Halil Bey Türbesi","caption":"Kara Halil Bey Türbesi","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Halil%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391596","tip":"genel"}]
 description: "İzmir'in Kiraz ilçesinde bulunan tarihi bir mekan"
 keywords: ["Kara Halil Bey Türbesi","Kiraz","İzmir","tarihi mekan","Ege Bölgesi","turistik yer","tarihçe","coğrafya","flora","fauna"]

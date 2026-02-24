@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ulug%C3%B6l_Nature_Park.jpg/960px-Ulug%C3%B6l_Nature_Park.jpg","alt":"Dikilisırt Tepe","caption":"Dikilisırt Tepe","credit":"Ulugöl Nature Park.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/960px-Adams_The_Tetons_and_the_Snake_River.jpg","alt":"Dikilisırt Tepe","caption":"Dikilisırt Tepe","credit":"Adams The Tetons and the Snake River","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dikilis%C4%B1rt%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568948","tip":"genel"}]
 description: "Ordu'nun görkemli dağlarından biri olan Dikilisırt Tepe, doğa severler için bir cennet. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Dikilisırt Tepe","Ordu","Dağ","Doğa","Turizm","Gezi","Trekking","Ordu Turistik Yerler","Dağcılık"]

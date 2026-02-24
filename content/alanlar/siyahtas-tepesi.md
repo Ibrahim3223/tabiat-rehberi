@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarihçe araştırması"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Siyahtaş Tepesi","caption":"Siyahtaş Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg/960px-Ida_Husted_Harper_photograph_by_Aime_Dupont.jpg","alt":"Siyahtaş Tepesi","caption":"Siyahtaş Tepesi","credit":"Ida Husted Harper photograph by Aime Dupont","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Siyahta%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386566","tip":"genel"}]
 description: "Siyahtaş Tepesi, Güneydoğu Anadolu Bölgesi'nde Siirt ilinde yer alan bir tepe. Bölgenin tarihi ve coğrafi zenginliklerini keşfetmek için ideal bir nokta."
 keywords: ["Siyahtaş Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","tarihçe","doğa","gezi","ziyaret"]

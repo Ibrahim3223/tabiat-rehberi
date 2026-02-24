@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Sahabe-i Kiram Türbesi","caption":"Sahabe-i Kiram Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hotel_babaylon_beach_%28october-ekim_2009%29_-_panoramio.jpg/960px-Hotel_babaylon_beach_%28october-ekim_2009%29_-_panoramio.jpg","alt":"Sahabe-i Kiram Türbesi","caption":"Sahabe-i Kiram Türbesi","credit":"Hotel babaylon beach (october-ekim 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sahabe-i%20Kiram%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391183","tip":"genel"}]
 description: "Merzifon'un tarihi ve doğal güzellikleri arasında yer alan Sahabe-i Kiram Türbesi, ziyaretçiler için önemli bir destinasyon."
 keywords: ["Merzifon","Sahabe-i Kiram Türbesi","tarih","doğa","turizm","gezi","kültür","çevre","İç Anadolu Bölgesi"]

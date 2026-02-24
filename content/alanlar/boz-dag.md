@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Kulu_15_09_1983_D%C3%BCden_G%C3%B6l%C3%BC.jpg","alt":"Boz Dağ manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"Boz Dağ","caption":"Boz Dağ","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/50/Chindjovo_006_original.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chindjovo_006_original.jpg/1280px-Chindjovo_006_original.jpg","alt":"Boz Dağ - Chindjovo 006 original","credit":"User:Chech Explorer","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boz%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31585415","tip":"genel"}]
 description: "Karaman'da bulunan Boz Dağ, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile ziyaretçilerini bekliyor."

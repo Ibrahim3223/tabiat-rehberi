@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Turkish_nature_reserve.jpg/960px-Turkish_nature_reserve.jpg","alt":"Antalya-Döşemealtı Karaçam 2","caption":"Antalya-Döşemealtı Karaçam 2","credit":"Turkish nature reserve.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Antalya-Döşemealtı Karaçam 2","caption":"Antalya-Döşemealtı Karaçam 2","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-D%C3%B6%C5%9Femealt%C4%B1%20Kara%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227927","tip":"genel"}]
 description: "Antalya'nın Döşemealtı ilçesinde yer alan milli park, 140 hektarlık alanıyla dikkat çekiyor."
 keywords: ["Antalya","Döşemealtı","Karaçam","milli park","doğa","gezi","turizm","çevre","ekosistem"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","trekking","doğa gezisi","kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Buğra Tepesi","caption":"Buğra Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Buğra Tepesi","caption":"Buğra Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bu%C4%9Fra%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31529138","tip":"genel"}]
 description: "Siirt'in doğal güzelliklerini keşfedin. 140 hektarlık Buğra Tepesi, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Buğra Tepesi","Siirt","doğal güzellik","tepe","Güneydoğu Anadolu Bölgesi","coğrafya","flora","fauna","ziyaret"]

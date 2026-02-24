@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","piknik","bitki gözlemi","hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Zonguldak-Dirgine- Gölcük Saricam","caption":"Zonguldak-Dirgine- Gölcük Saricam","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015-1.jpg","alt":"Zonguldak-Dirgine- Gölcük Saricam","caption":"Zonguldak-Dirgine- Gölcük Saricam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Dirgine-%20G%C3%B6lc%C3%BCk%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227582","tip":"genel"}]
 description: "Zonguldak'ın doğal güzellikleri arasında yer alan Gölcük Saricam, 140 hektarlık alanda ziyaretçilerini ağırlıyor."
 keywords: ["Zonguldak","Gölcük Saricam","milli park","doğa","gezi","karadeniz","zonguldak gezilecek yerler","gölcük saricam milli parkı","zonguldak milli parklar"]

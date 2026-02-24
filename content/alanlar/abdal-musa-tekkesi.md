@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","doğa yürüyüşü","fotoğraf çekmek","yaban hayatını izlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Abdal Musa Tekkesi","caption":"Abdal Musa Tekkesi","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Abdal Musa Tekkesi","caption":"Abdal Musa Tekkesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdal%20Musa%20Tekkesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390496","tip":"genel"}]
 description: "Elmalı, Antalya'da bulunan Abdal Musa Tekkesi, Akdeniz Bölgesi'nin güzide noktalarından biri. Tarihi ve doğal güzelliği bir arada sunuyor."
 keywords: ["Abdal Musa Tekkesi","Elmalı","Antalya","Akdeniz Bölgesi","tarih","doğa","gezi","türkiye"]

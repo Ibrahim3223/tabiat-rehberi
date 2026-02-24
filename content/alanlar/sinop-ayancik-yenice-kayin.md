@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Sinop-Ayancik-Yenice Kayin","caption":"Sinop-Ayancik-Yenice Kayin","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg/960px-G%C3%B6kt%C3%BCrk_Tabiat_Park%C4%B1_2.jpg","alt":"Sinop-Ayancik-Yenice Kayin","caption":"Sinop-Ayancik-Yenice Kayin","credit":"Göktürk Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sinop-Ayancik-Yenice%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227267","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin en güzel milli parklarından biri olan Sinop-Ayancik-Yenice Kayin, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile ziyaretçilerini bekliyor."
 keywords: ["Sinop","Ayancik","Yenice Kayin","milli park","Karadeniz Bölgesi","doğa","flora","fauna"]

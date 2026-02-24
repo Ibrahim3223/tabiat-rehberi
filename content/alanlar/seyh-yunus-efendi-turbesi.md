@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["denize girme","tarihçe gezisi","doğa yürüyüşü","yerel lezzetler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Şeyh Yunus Efendi Türbesi","caption":"Şeyh Yunus Efendi Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/%D8%A7%D8%B3%D8%AA%D8%A7%D9%85%D8%A8%D9%88%D9%84.jpg/960px-%D8%A7%D8%B3%D8%AA%D8%A7%D9%85%D8%A8%D9%88%D9%84.jpg","alt":"Şeyh Yunus Efendi Türbesi","caption":"Şeyh Yunus Efendi Türbesi","credit":"استامبول","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Yunus%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582625","tip":"genel"}]
 description: "Gündoğmuş'ta bulunan tarihi türbe ve plaj"
 keywords: ["Şeyh Yunus Efendi","Gündoğmuş","Antalya","tarih","türbe","plaj","gezi","turizm","Akdeniz Bölgesi","doğa"]

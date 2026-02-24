@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Yıldız Sarayı Hünkar Hamamı","caption":"Yıldız Sarayı Hünkar Hamamı","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_2.jpg","alt":"Yıldız Sarayı Hünkar Hamamı","caption":"Yıldız Sarayı Hünkar Hamamı","credit":"2023-11-04 Choban beach near Kaş 2","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20H%C3%BCnkar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245741","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini bir arada sunan Yıldız Sarayı Hünkar Hamamı, Marmara Bölgesi'nin önemli turizm merkezlerinden biri"
 keywords: ["Yıldız Sarayı","Hünkar Hamamı","Beşiktaş","İstanbul","Marmara Bölgesi","tarihi mekanlar","doğa","turizm"]

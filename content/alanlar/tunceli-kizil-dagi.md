@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Erzincan_Refahiye.jpg","alt":"Tunceli Kızıl Dağı manzarası","credit":"Salihsertbas","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"Tunceli Kızıl Dağı","caption":"Tunceli Kızıl Dağı","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tunceli%20K%C4%B1z%C4%B1l%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514213","tip":"genel"}]
 description: "Tunceli'nin görkemli dağ manzaraları arasında yer alan Tunceli Kızıl Dağı, 1400 metre yüksekliğiyle bölgenin önemli doğal güzelliklerinden biri."

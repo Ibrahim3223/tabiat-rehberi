@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mountain_landscape_in_Saimbeyli_02.jpg/960px-Mountain_landscape_in_Saimbeyli_02.jpg","alt":"Hıdır Tepesi","caption":"Hıdır Tepesi","credit":"Mountain landscape in Saimbeyli 02.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Aksaray_1998_01.jpg/960px-Aksaray_1998_01.jpg","alt":"Hıdır Tepesi","caption":"Hıdır Tepesi","credit":"Aksaray 1998 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/H%C4%B1d%C4%B1r%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31543928","tip":"genel"}]
 description: "Diyarbakır'ın önemli doğal güzelliklerinden biri olan Hıdır Tepesi, şehrin panoramik manzarasını sunar."
 keywords: ["Hıdır Tepesi","Diyarbakır","Doğal Alanlar","Dağ","Turizm","Gezi","Panoramik Manzara","Diyarbakır Turistik Yerler","Hıdır Tepesi Diyarbakır"]

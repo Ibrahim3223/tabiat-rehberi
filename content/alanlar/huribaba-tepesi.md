@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","piknik yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Huribaba Tepesi","caption":"Huribaba Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Huribaba Tepesi","caption":"Huribaba Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Huribaba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388363","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin. Huribaba Tepesi, Doğu Anadolu Bölgesi'nin en önemli noktalarından biri."
 keywords: ["Huribaba Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya","tarihçe"]

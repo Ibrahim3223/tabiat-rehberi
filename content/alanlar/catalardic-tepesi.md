@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çatalardıç Tepesi","caption":"Çatalardıç Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ida_Flooding_%2823%29.jpg/960px-Ida_Flooding_%2823%29.jpg","alt":"Çatalardıç Tepesi","caption":"Çatalardıç Tepesi","credit":"Ida Flooding (23)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atalard%C4%B1%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824217","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerinden biri olan Çatalardıç Tepesi, Karabük'te yer alır."
 keywords: ["Karabük","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","çevre","ekosistem","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Doga yürüyüşü","Piknik","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg/960px-Korfu_%28GR%29%2C_Kassiopi_--_2018_--_1068.jpg","alt":"Resulimegno Mağarası","caption":"Resulimegno Mağarası","credit":"Korfu (GR), Kassiopi -- 2018 -- 1068","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_Quarterly_journal_of_the_Geological_Society_of_London_%281904%29_%2814598402009%29.jpg/960px-The_Quarterly_journal_of_the_Geological_Society_of_London_%281904%29_%2814598402009%29.jpg","alt":"Resulimegno Mağarası","caption":"Resulimegno Mağarası","credit":"The Quarterly journal of the Geological Society of London (1904) (14598402009)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Resulimegno%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319713","tip":"genel"}]
 description: "Batman'da yer alan Resulimegno Mağarası, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği keşfedin!"
 keywords: ["Resulimegno Mağarası","Batman","Jeopark","Doğal Alanlar","Mağara","Turizm","Gezi","Doğa","Jeolojik Özellikler"]

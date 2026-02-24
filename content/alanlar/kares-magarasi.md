@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/A_Geological_Wonder_in_Nall%C4%B1han.jpg/960px-A_Geological_Wonder_in_Nall%C4%B1han.jpg","alt":"Kareş Mağarası","caption":"Kareş Mağarası","credit":"A Geological Wonder in Nallıhan","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/72/EQ_storm_Turkey-he.png","alt":"Kareş Mağarası","caption":"Kareş Mağarası","credit":"EQ storm Turkey-he","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kare%C5%9F%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319333","tip":"genel"}]
 description: "Batman'da bulunan Kareş Mağarası, 1200 hektarlık yeşil cenneti ve jeolojik oluşumlarıyla dikkat çekiyor."
 keywords: ["Kareş Mağarası","Batman","Jeopark","Doğa","Mağara","Gezi","Türkiye","Jeolojik Oluşumlar","Yeşil Alanlar"]

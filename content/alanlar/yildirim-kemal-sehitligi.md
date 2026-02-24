@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarih gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Yıldırım Kemal Şehitliği","caption":"Yıldırım Kemal Şehitliği","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_beach_near_Phaselis_2021-02-26-1.jpg/960px-A_beach_near_Phaselis_2021-02-26-1.jpg","alt":"Yıldırım Kemal Şehitliği","caption":"Yıldırım Kemal Şehitliği","credit":"A beach near Phaselis 2021-02-26-1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1r%C4%B1m%20Kemal%20%C5%9Eehitli%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728253","tip":"genel"}]
 description: "Sinanpaşa'da bulunan Yıldırım Kemal Şehitliği, Afyonkarahisar'ın önemli tarihi mekanlarından biri"
 keywords: ["Yıldırım Kemal Şehitliği","Sinanpaşa","Afyonkarahisar","Ege Bölgesi","tarihi mekanlar","şehitlik","plaj"]

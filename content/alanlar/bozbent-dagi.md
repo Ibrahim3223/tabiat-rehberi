@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Bozbent Dağı","caption":"Bozbent Dağı","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kessab30.jpg","alt":"Bozbent Dağı","caption":"Bozbent Dağı","credit":"Kessab30","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozbent%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31577755","tip":"genel"}]
 description: "Gümüşhane'nin doğal güzelliklerini keşfedin, Bozbent Dağı'nın büyüleyici manzaraları ve tarihi zenginlikleri"
 keywords: ["Bozbent Dağı","Gümüşhane","Dağ","Doğa","Tarih","Turizm","Gezi","Manzara","Gümüşhane Turistik Yerler"]

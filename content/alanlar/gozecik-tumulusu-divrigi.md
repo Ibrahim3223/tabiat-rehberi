@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih investigación","coğrafya keşfi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Gözecik Tümülüsü, Divriği","caption":"Gözecik Tümülüsü, Divriği","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2023-11-19_Ufakdere_Port_Beach_3.jpg/960px-2023-11-19_Ufakdere_Port_Beach_3.jpg","alt":"Gözecik Tümülüsü, Divriği","caption":"Gözecik Tümülüsü, Divriği","credit":"2023-11-19 Ufakdere Port Beach 3","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6zecik%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Divri%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728425","tip":"genel"}]
 description: "Sivas'ın Divriği ilçesinde bulunan Gözecik Tümülüsü, tarihi geçmişi ve coğrafi konumu ile dikkat çekiyor."
 keywords: ["Gözecik Tümülüsü","Divriği","Sivas","tarih","coğrafya","tümülüs","iç Anadolu Bölgesi"]

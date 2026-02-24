@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg","alt":"Pancarlık Mağarası","caption":"Pancarlık Mağarası","credit":"The Landscape of Sıklık Gate park Çorum.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Olympus_Mons_alt.jpg/960px-Olympus_Mons_alt.jpg","alt":"Pancarlık Mağarası","caption":"Pancarlık Mağarası","credit":"Olympus Mons alt","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pancarl%C4%B1k%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319641","tip":"genel"}]
 description: "Çorum'da yer alan Pancarlık Mağarası, jeopark özelliği taşıyan bir doğal güzellik. 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Pancarlık Mağarası","Çorum","Jeopark","Doğal Güzellik","Yeşil Alan","Turizm","Gezi","Çorum Turistik Yerler","Mağara"]

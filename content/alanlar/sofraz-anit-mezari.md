@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğraf çekme","tarih keşfi","doğa gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Sofraz Anıt Mezarı","caption":"Sofraz Anıt Mezarı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio.jpg","alt":"Sofraz Anıt Mezarı","caption":"Sofraz Anıt Mezarı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sofraz%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q109521521","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Sofraz Anıt Mezarı, ziyaretçilerini büyülemektedir."
 keywords: ["Sofraz Anıt Mezarı","Adıyaman","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","miras"]

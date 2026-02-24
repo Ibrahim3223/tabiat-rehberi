@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Crossing_the_horizon.jpg/960px-Crossing_the_horizon.jpg","alt":"Huri Burnu","caption":"Huri Burnu","credit":"Crossing the horizon","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Eurasian_Collared-Dove_by_Tisha_Mukherjee_16.jpg/960px-Eurasian_Collared-Dove_by_Tisha_Mukherjee_16.jpg","alt":"Huri Burnu","caption":"Huri Burnu","credit":"Eurasian Collared-Dove by Tisha Mukherjee 16","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Huri%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34938153","tip":"genel"}]
 description: "Van'da bulunan Huri Burnu, 1200 hektarlık bir alan üzerinde kurulu, 200'den fazla kuş türüne ev sahipliği yapan önemli bir kuş cenneti."
 keywords: ["Huri Burnu","Van","Kuş Cenneti","Doğa Alanı","Kuş Gözlem","Turizm","Van Turistik Yerler","Doğa Harikaları","Kuş Türleri"]

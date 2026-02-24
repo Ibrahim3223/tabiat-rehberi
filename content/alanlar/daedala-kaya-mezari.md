@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yapıları gezme","doğa yürüyüşü","fotografcılık","tarih hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Daedala Kaya Mezarı","caption":"Daedala Kaya Mezarı","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Daedala Kaya Mezarı","caption":"Daedala Kaya Mezarı","credit":"Karaburun - panoramio (1)","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Daedala%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728170","tip":"genel"}]
 description: "Muğla'da bulunan tarihi kaya mezarı, Ege Bölgesi'nin önemli tarihi noktalarından biridir."
 keywords: ["Daedala Kaya Mezarı","Muğla","Ege Bölgesi","tarihi kaya mezarı","kaya mezarları","tarih","gezi"]

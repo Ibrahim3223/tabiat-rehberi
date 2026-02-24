@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/1/15/Tahtali_Dagi_2011-12_Bey_Daglari_122.jpg","alt":"Ziyaret Tepe (Gaziantep) manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg/960px-Mount_Ararat_and_the_Yerevan_skyline.jpg","alt":"Ziyaret Tepe","caption":"Ziyaret Tepe","credit":"Mount Ararat and the Yerevan skyline","license":"CC BY-SA 3.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20Tepe%20(Gaziantep)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536898","tip":"genel"}]
 description: "Gaziantep'in doğal güzelliklerini keşfedin. Ziyaret Tepe, şehrin panoramik manzarasını sunar."

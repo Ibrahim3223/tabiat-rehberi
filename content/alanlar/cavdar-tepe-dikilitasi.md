@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük gezi"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Çavdar Tepe Dikilitaşı","caption":"Çavdar Tepe Dikilitaşı","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Istanbul_beaches-_Sea_of_Marmara_04.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_04.jpg","alt":"Çavdar Tepe Dikilitaşı","caption":"Çavdar Tepe Dikilitaşı","credit":"Istanbul beaches- Sea of Marmara 04","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avdar%20Tepe%20Dikilita%C5%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134727949","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli kumsallarından biri olan Çavdar Tepe Dikilitaşı, Edirne'nin Uzunköprü ilçesinde yer alıyor."
 keywords: ["Çavdar Tepe Dikilitaşı","Uzunköprü","Edirne","Marmara Bölgesi","plaj","doğal alanlar","gezi","seyahat"]

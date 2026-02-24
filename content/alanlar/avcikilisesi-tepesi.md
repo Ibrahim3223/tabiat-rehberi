@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Doğal güzellikleri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Avcıkilisesi Tepesi","caption":"Avcıkilisesi Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG/960px-01309jfBiaknaBato_National_Park_Road_Monument_Pact_Bridge_San_Miguel_Bulacanfvf_19.JPG","alt":"Avcıkilisesi Tepesi","caption":"Avcıkilisesi Tepesi","credit":"01309jfBiaknaBato National Park Road Monument Pact Bridge San Miguel Bulacanfvf 19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avc%C4%B1kilisesi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387311","tip":"genel"}]
 description: "Artvin'in doğal güzelliklerinden Avcıkilisesi Tepesi, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Avcıkilisesi Tepesi","Artvin","Karadeniz Bölgesi","doğal güzellik","yeşil alan","tepe","gezi","turizm"]

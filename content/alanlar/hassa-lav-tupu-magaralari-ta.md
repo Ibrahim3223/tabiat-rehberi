@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara gezi","doğa yürüyüşü","jeoloji incelemesi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"HASSA LAV TÜPÜ MAĞARALARI TA","caption":"HASSA LAV TÜPÜ MAĞARALARI TA","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ilgaz_Mountain_National_Park_2.jpg/960px-Ilgaz_Mountain_National_Park_2.jpg","alt":"HASSA LAV TÜPÜ MAĞARALARI TA","caption":"HASSA LAV TÜPÜ MAĞARALARI TA","credit":"Ilgaz Mountain National Park 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HASSA%20LAV%20T%C3%9CP%C3%9C%20MA%C4%9EARALARI%20TA","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228993","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli hazinevi, 140 hektarlık alanıyla büyüleyici bir doğa deneyimi sunar."
 keywords: ["Hassa Lav Tüpü Mağaraları","İç Anadolu Bölgesi","doğa","mağara","lav tüpü","gezi","turizm","macera"]

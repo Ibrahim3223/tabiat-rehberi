@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Plaj keyfi","Doğa yürüyüşleri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Şeyh Osman Rumi Türbesi","caption":"Şeyh Osman Rumi Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Altinkum_Beaches_49_%28October2009%29_-_panoramio.jpg/960px-Altinkum_Beaches_49_%28October2009%29_-_panoramio.jpg","alt":"Şeyh Osman Rumi Türbesi","caption":"Şeyh Osman Rumi Türbesi","credit":"Altinkum Beaches 49 (October2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Osman%20Rumi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582378","tip":"genel"}]
 description: "Konya'nın Meram ilçesinde yer alan tarihi türbe ve plaj"
 keywords: ["Şeyh Osman Rumi","Türbe","Meram","Konya","Plaj","Tarihi mekan","İç Anadolu Bölgesi","Turizm","Kültür"]

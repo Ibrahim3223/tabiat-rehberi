@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yürüyüş","piknik","doğa yürüyüşleri","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Nationalpark_K%C4%B1z%C4%B1lda%C4%9F_bei_Yeni%C5%9Farbademli%3B_Blick_nach_Nord.jpg/960px-Nationalpark_K%C4%B1z%C4%B1lda%C4%9F_bei_Yeni%C5%9Farbademli%3B_Blick_nach_Nord.jpg","alt":"Isparta-Sutculer-Sipahiler Sacli Mese","caption":"Isparta-Sutculer-Sipahiler Sacli Mese","credit":"Nationalpark Kızıldağ bei Yenişarbademli; Blick nach Nord.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg/960px-Hamsilos_tabiat_park%C4%B1_kuzey_y%C3%B6n%C3%BC.jpg","alt":"Isparta-Sutculer-Sipahiler Sacli Mese","caption":"Isparta-Sutculer-Sipahiler Sacli Mese","credit":"Hamsilos tabiat parkı kuzey yönü","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Sutculer-Sipahiler%20Sacli%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228481","tip":"genel"}]
 description: "Isparta'da yer alan milli park, 140 hektarlık yeşil alanı ve zengin faunası ile dikkat çekiyor."
 keywords: ["Isparta","milli park","Sutculer","Sipahiler","Sacli Mese","doğa","flora","fauna","gezi","turizm"]

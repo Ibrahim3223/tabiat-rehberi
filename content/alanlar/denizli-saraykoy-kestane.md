@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","dinlenme","yeme içme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cilingoz_National_Park_Beach_with_waves.jpg/960px-Cilingoz_National_Park_Beach_with_waves.jpg","alt":"Denizli-Saraykoy Kestane","caption":"Denizli-Saraykoy Kestane","credit":"Cilingoz National Park Beach with waves","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg/960px-Kartaltepe_Tabiat_Park%C4%B1_Tekirda%C4%9F.jpg","alt":"Denizli-Saraykoy Kestane","caption":"Denizli-Saraykoy Kestane","credit":"Kartaltepe Tabiat Parkı Tekirdağ","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Saraykoy%20Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227730","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden Denizli'de yer alan Denizli-Saraykoy Kestane, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Denizli-Saraykoy Kestane","Ege Bölgesi","Denizli","Sarayköy","kestane","milli park","doğa","yeşil alan"]

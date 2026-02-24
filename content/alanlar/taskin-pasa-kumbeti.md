@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi yerleri gezmek","doğal güzellikleri keşfetmek","kültürel etkinliklere katılmak","fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Colors_of_nature_in_Goreme_Valley.jpg/960px-Colors_of_nature_in_Goreme_Valley.jpg","alt":"Taşkın Paşa Kümbeti","caption":"Taşkın Paşa Kümbeti","credit":"Colors of nature in Goreme Valley.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Istanbul_beaches-_Sea_of_Marmara_01.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_01.jpg","alt":"Taşkın Paşa Kümbeti","caption":"Taşkın Paşa Kümbeti","credit":"Istanbul beaches- Sea of Marmara 01","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Fk%C4%B1n%20Pa%C5%9Fa%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582370","tip":"genel"}]
 description: "Ürgüp'ün tarihi ve doğal güzelliği bir arada"
 keywords: ["Taşkın Paşa Kümbeti","Ürgüp","Nevşehir","İç Anadolu Bölgesi","tarihi yerler","doğal güzellikler","turistik yerler","kültürel miras","coğrafi özellikleri"]

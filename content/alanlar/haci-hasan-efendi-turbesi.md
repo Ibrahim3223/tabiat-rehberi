@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Doğa yürüyüşü","Türbe ziyareti","Manzara izleme","Fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/ZEYN%C4%B0LER_KABR%C4%B0STANI_BURSA_-_panoramio_%281%29.jpg","alt":"Hacı Hasan Efendi Türbesi manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg/960px-Piri_Reis._Map_of_the_Black_Sea_%28Samsun%29.jpg","alt":"Hacı Hasan Efendi Türbesi","caption":"Hacı Hasan Efendi Türbesi","credit":"Piri Reis. Map of the Black Sea (Samsun)","license":"Public domain"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Hasan%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391320","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzide ilçesi Alucra'da bulunan Hacı Hasan Efendi Türbesi, doğal güzellikleri ve tarihi önemi ile ziyaretçilerini bekliyor."

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Ziyaret (2440 m Dağı)","caption":"Ziyaret (2440 m Dağı)","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Aksaray_1998_01.jpg/960px-Aksaray_1998_01.jpg","alt":"Ziyaret (2440 m Dağı)","caption":"Ziyaret (2440 m Dağı)","credit":"Aksaray 1998 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ziyaret%20(2440%20m%20Da%C4%9F%C4%B1)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21211474","tip":"genel"}]
 description: "Kars'ta yer alan 2440 metre yükseklikteki Ziyaret Dağı, doğa severler için bir cennet"
 keywords: ["Ziyaret Dağı","Kars","Dağ","Doğa","Trekking","Kars Turizm","Ziyaret 2440","Doğa Yürüyüşü","Kars Gezi"]

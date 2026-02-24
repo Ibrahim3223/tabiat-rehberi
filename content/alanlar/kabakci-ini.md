@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Kabakçı İni","caption":"Kabakçı İni","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Veliki_Slap_--_2022_--_0285.jpg/960px-Lika-Senj_%28HR%29%2C_Plitvicer_Seen%2C_Veliki_Slap_--_2022_--_0285.jpg","alt":"Kabakçı İni","caption":"Kabakçı İni","credit":"Lika-Senj (HR), Plitvicer Seen, Veliki Slap -- 2022 -- 0285","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabak%C3%A7%C4%B1%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319298","tip":"genel"}]
 description: "Mersin'de yer alan Kabakçı İni, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Kabakçı İni","Mersin","Jeopark","Doğa","Turizm","Mersin Gezilecek Yerler","Jeolojik Alanlar","Doğal Güzellikler","Turistik Yerler"]

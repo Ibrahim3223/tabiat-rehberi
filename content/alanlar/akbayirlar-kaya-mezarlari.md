@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["kaya mezarlarını ziyaret etmek","doğa yürüyüşü","fotoğraf çekmek","tarihi araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Erikli.jpg/960px-Erikli.jpg","alt":"Akbayırlar Kaya Mezarları","caption":"Akbayırlar Kaya Mezarları","credit":"Erikli.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Port_Atami-Bodrum_Marina-panorama-big.jpg/960px-Port_Atami-Bodrum_Marina-panorama-big.jpg","alt":"Akbayırlar Kaya Mezarları","caption":"Akbayırlar Kaya Mezarları","credit":"Port Atami-Bodrum Marina-panorama-big","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akbay%C4%B1rlar%20Kaya%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728180","tip":"genel"}]
 description: "Bilecik'in tarihi ve doğal güzelliklerini keşfedin. Akbayırlar Kaya Mezarları, Marmara Bölgesi'nde yer alan bir cazibe merkezi."
 keywords: ["Akbayırlar Kaya Mezarları","Bilecik","Marmara Bölgesi","tarihi mekanlar","doğa turizmi","kaya mezarları","kültürel miras","gezi rehberi"]

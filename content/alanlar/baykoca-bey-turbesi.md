@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Doğa yürüyüşleri","Fotoğrafçılık"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Baykoca Bey Türbesi","caption":"Baykoca Bey Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Espiye%2C_Giresun_07.JPG/960px-Espiye%2C_Giresun_07.JPG","alt":"Baykoca Bey Türbesi","caption":"Baykoca Bey Türbesi","credit":"Espiye, Giresun 07","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Baykoca%20Bey%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391363","tip":"genel"}]
 description: "İnegöl'ün tarihi ve doğal güzelliklerinin bir arada bulunduğu özel bir yer"
 keywords: ["Baykoca Bey Türbesi","İnegöl","Bursa","Marmara Bölgesi","tarih","doğa","gezi","türkü","yaban hayatı"]

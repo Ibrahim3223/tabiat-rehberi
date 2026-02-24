@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denize girme","Güneşlenme","Yürüyüş","Doğa seyri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Bakmaca Türbesi","caption":"Bakmaca Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gerence_K%C3%B6rfezinden_-_panoramio.jpg/960px-Gerence_K%C3%B6rfezinden_-_panoramio.jpg","alt":"Bakmaca Türbesi","caption":"Bakmaca Türbesi","credit":"Gerence Körfezinden - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bakmaca%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391367","tip":"genel"}]
 description: "İnegöl'ün en güzel plajlarından biri olan Bakmaca Türbesi, Marmara Bölgesi'nin gizli cenneti"
 keywords: ["Bakmaca Türbesi","İnegöl","Bursa","Marmara Bölgesi","plaj","deniz","tatil","gezi","turizm"]

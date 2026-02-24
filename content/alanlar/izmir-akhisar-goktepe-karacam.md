@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MOKFC07.jpg/960px-MOKFC07.jpg","alt":"Izmir-Akhisar-Goktepe-Karacam","caption":"Izmir-Akhisar-Goktepe-Karacam","credit":"MOKFC07.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_%28%C4%B0zmir%29.jpg","alt":"Izmir-Akhisar-Goktepe-Karacam","caption":"Izmir-Akhisar-Goktepe-Karacam","credit":"Karagöl Tabiat Parkı (İzmir)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Izmir-Akhisar-Goktepe-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228529","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerini keşfedin, Akhisar ve Göktepeleri keşfedin."
 keywords: ["İzmir","Akhisar","Göktepe","Karacam","doğa","gezi","milli park"]

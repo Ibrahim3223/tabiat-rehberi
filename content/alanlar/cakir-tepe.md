@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Çakır Tepe","caption":"Çakır Tepe","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Çakır Tepe","caption":"Çakır Tepe","credit":"Erzincan Refahiye","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ak%C4%B1r%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34823154","tip":"genel"}]
 description: "Ankara'da bulunan Çakır Tepe, şehrin doğal güzelliklerini keşfetmek için ideal bir dağ"
 keywords: ["Çakır Tepe","Ankara","Dağ","Doğa","Turizm","Gezi","Trekking","Ankara'nın dağları","Çakır Tepe hakkında"]

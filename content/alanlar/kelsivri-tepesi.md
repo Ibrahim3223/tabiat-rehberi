@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemciliği","Fotoğrafçılık","Yerel kültürü deneyimleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kelsivri Tepesi","caption":"Kelsivri Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kelsivri Tepesi","caption":"Kelsivri Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kelsivri%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390684","tip":"genel"}]
 description: "Amasya'da yer alan Kelsivri Tepesi, Karadeniz Bölgesi'nin önemli doğal güzelliklerinden biridir. 140 hektarlık alanıyla dikkat çeker."
 keywords: ["Kelsivri Tepesi","Amasya","Karadeniz Bölgesi","doğal güzellik","tepe","gezi"]

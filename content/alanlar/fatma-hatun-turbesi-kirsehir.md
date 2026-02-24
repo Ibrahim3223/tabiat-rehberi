@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Şehri keşfetme","Yeşil alanlarda piknik","Tarihi yapıları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Fatma Hatun Türbesi, Kırşehir","caption":"Fatma Hatun Türbesi, Kırşehir","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Fatma Hatun Türbesi, Kırşehir","caption":"Fatma Hatun Türbesi, Kırşehir","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fatma%20Hatun%20T%C3%BCrbesi%2C%20K%C4%B1r%C5%9Fehir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582400","tip":"genel"}]
 description: "Kırşehir'de bulunan tarihi türbe, şehrin önemli ziyaret noktalarından biri."
 keywords: ["Kırşehir","Fatma Hatun Türbesi","tarih","türbe","Kırşehir gezisi","tarihi mekanlar","İç Anadolu Bölgesi","türk tarihi","kültürel miras"]

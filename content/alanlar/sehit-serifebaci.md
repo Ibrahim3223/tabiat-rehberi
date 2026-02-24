@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","picnic","fotografçılık","bitki ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Şehit Şerifebacı","caption":"Şehit Şerifebacı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg/960px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","alt":"Şehit Şerifebacı","caption":"Şehit Şerifebacı","credit":"Bafa Gölü Tabiat Parkı (bilgekorkmaz)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehit%20%C5%9Eerifebac%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228350","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Şehit Şerifebacı Milli Parkı"
 keywords: ["milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]

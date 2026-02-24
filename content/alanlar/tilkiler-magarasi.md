@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Tilkiler Mağarası","caption":"Tilkiler Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sugar_Creek_Turkey_Run_SP%2C_IN_2.jpg/960px-Sugar_Creek_Turkey_Run_SP%2C_IN_2.jpg","alt":"Tilkiler Mağarası","caption":"Tilkiler Mağarası","credit":"Sugar Creek Turkey Run SP, IN 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tilkiler%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q18394388","tip":"genel"}]
 description: "Manavgat'ta bulunan Tilkiler Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzelliği keşfedin!"
 keywords: ["Tilkiler Mağarası","Manavgat","Jeopark","Doğa","Mağara","Turizm","Antalya","Gezi","Türkiye"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["müze gezisi","bahçe turu","eser inceleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Beypazarı Tarih ve Kültür Müzesi","caption":"Beypazarı Tarih ve Kültür Müzesi","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio_%281%29.jpg/960px-B%C3%BCy%C3%BCkada_island%2C_Turkey_-_panoramio_%281%29.jpg","alt":"Beypazarı Tarih ve Kültür Müzesi","caption":"Beypazarı Tarih ve Kültür Müzesi","credit":"Büyükada island, Turkey - panoramio (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Beypazar%C4%B1%20Tarih%20ve%20K%C3%BClt%C3%BCr%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q85968852","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin önemli kültür merkezlerinden biri, Beypazarı Tarih ve Kültür Müzesi"
 keywords: ["Beypazarı","Tarih ve Kültür Müzesi","İç Anadolu Bölgesi","müze","tarih","kültür"]

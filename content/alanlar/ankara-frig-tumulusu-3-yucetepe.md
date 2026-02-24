@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","bisiklet","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Ankara Frig Tümülüsü 3, Yücetepe","caption":"Ankara Frig Tümülüsü 3, Yücetepe","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg","alt":"Ankara Frig Tümülüsü 3, Yücetepe","caption":"Ankara Frig Tümülüsü 3, Yücetepe","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 13","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara%20Frig%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%203%2C%20Y%C3%BCcetepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728282","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedeceğiniz bir destinasyon"
 keywords: ["Ankara","Frig Tümülüsü","Yücetepe","tarih","doğa","gezi","çevre","iklim"]

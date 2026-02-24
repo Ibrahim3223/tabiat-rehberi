@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Kangırlı Köyü Hamamı","caption":"Kangırlı Köyü Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Kangırlı Köyü Hamamı","caption":"Kangırlı Köyü Hamamı","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kang%C4%B1rl%C4%B1%20K%C3%B6y%C3%BC%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245758","tip":"genel"}]
 description: "Çanakkale'nin Lapseki ilçesinde yer alan Kangırlı Köyü Hamamı, Marmara Bölgesi'nin gizli kalmış bir incisi."
 keywords: ["Kangırlı Köyü Hamamı","Çanakkale","Lapseki","Marmara Bölgesi","plaj","doğa","gezi"]

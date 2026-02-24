@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kaya tırmanışı","fotoğrafçılık","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Umurkuş Kayalığı Sit Alanı","caption":"Umurkuş Kayalığı Sit Alanı","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"Umurkuş Kayalığı Sit Alanı","caption":"Umurkuş Kayalığı Sit Alanı","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Umurku%C5%9F%20Kayal%C4%B1%C4%9F%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226113","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Umurkuş Kayalığı Sit Alanı, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Umurkuş Kayalığı","Sit Alanı","İç Anadolu Bölgesi","doğal güzellik","tarihi alan","kayalık oluşum","jeolojik yapı","çevre","ekosistem"]

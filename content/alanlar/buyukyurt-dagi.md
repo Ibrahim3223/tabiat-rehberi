@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Büyükyurt Dağı","caption":"Büyükyurt Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Büyükyurt Dağı","caption":"Büyükyurt Dağı","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkyurt%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731465","tip":"genel"}]
 description: "Artvin'in doğal güzelliklerini keşfedin, 1200 hektarlık yeşil cennet Büyükyurt Dağı'nı ziyaret edin"
 keywords: ["Büyükyurt Dağı","Artvin","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Doğal Güzellik","Trekking"]

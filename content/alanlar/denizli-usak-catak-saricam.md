@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günde 4-6 saat"
 aktiviteler: ["yürüyüş","doğa izleme","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snow_on_the_Lake_Abant.jpg/960px-Snow_on_the_Lake_Abant.jpg","alt":"Denizli-Usak-Catak Saricam","caption":"Denizli-Usak-Catak Saricam","credit":"Snow on the Lake Abant","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"Denizli-Usak-Catak Saricam","caption":"Denizli-Usak-Catak Saricam","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Usak-Catak%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227558","tip":"genel"}]
 description: "Ege Bölgesi'nin güzide illerinden Denizli'de yer alan milli park, 140 hektarlık yeşil alanı ile ziyaretçilerini bekliyor."
 keywords: ["Denizli","Usak","Catak Saricam","milli park","Ege Bölgesi","yeşil alan","doğa","gezi"]

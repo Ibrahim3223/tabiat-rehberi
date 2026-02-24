@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe öğrenmek","mimari yapı incelemek","çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Gazi Atik Ali Paşa Türbesi","caption":"Gazi Atik Ali Paşa Türbesi","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Gazi Atik Ali Paşa Türbesi","caption":"Gazi Atik Ali Paşa Türbesi","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gazi%20Atik%20Ali%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390465","tip":"genel"}]
 description: "Amasya'nın tarihi ve kültürel zenginliklerini keşfedin"
 keywords: ["Amasya","tarih","kültür","türbe","Karadeniz Bölgesi","gezi","ziyaret","tarihçe"]

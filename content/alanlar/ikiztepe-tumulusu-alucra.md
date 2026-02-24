@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotografcılık","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"İkiztepe Tümülüsü, Alucra","caption":"İkiztepe Tümülüsü, Alucra","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_02.jpg","alt":"İkiztepe Tümülüsü, Alucra","caption":"İkiztepe Tümülüsü, Alucra","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0kiztepe%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Alucra","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728403","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin tarihi ve doğal güzellikleri"
 keywords: ["İkiztepe Tümülüsü","Alucra","Giresun","Karadeniz Bölgesi","tarih","doğa","gezi","turizm"]

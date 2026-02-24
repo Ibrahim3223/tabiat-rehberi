@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi hamamın gezilmesi","Bölgenin flora ve faunasının incelenmesi","Yakındaki tarihi ve kültürel yapıların ziyaret edilmesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Oltu Selçuklu Hamamı","caption":"Oltu Selçuklu Hamamı","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sprinter_on_a_vase%2C_Fikellura_style_amphora_with_a_running_man%2C_Greek%2C_6th_century_BC%2C_from_Kamiros%2C_Rhodes%2C_Aegean_Sea%2C_Winning_at_the_ancient_Games%2C_British_Museum_%287667199008%29.jpg/960px-thumbnail.jpg","alt":"Oltu Selçuklu Hamamı","caption":"Oltu Selçuklu Hamamı","credit":"Sprinter on a vase, Fikellura style amphora with a running man, Greek, 6th century BC, from Kamiros, Rhodes, Aegean Sea, Winning at the ancient Games, British Museum (7667199008)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Oltu%20Sel%C3%A7uklu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739182","tip":"genel"}]
 description: "Erzurum'un Oltu ilçesinde bulunan tarihi bir hamam"
 keywords: ["Oltu Selçuklu Hamamı","Erzurum","Oltu","tarihi hamam","Doğu Anadolu Bölgesi","kültür mirası","tarihçe","coğrafya","flora","fauna"]

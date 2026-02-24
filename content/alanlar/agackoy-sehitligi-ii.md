@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarihi yapıları gezmek","plajda dinlenmek","doğa yürüyüşleri yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Ağaçköy Şehitliği II","caption":"Ağaçköy Şehitliği II","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Ağaçköy Şehitliği II","caption":"Ağaçköy Şehitliği II","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C4%9Fa%C3%A7k%C3%B6y%20%C5%9Eehitli%C4%9Fi%20II","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728252","tip":"genel"}]
 description: "Kütahya'nın Dumlupınar ilçesinde bulunan Ağaçköy Şehitliği II, tarihi ve doğal güzelliklerin birleştiği bir mekan."
 keywords: ["Ağaçköy Şehitliği II","Dumlupınar","Kütahya","Ege Bölgesi","tarihi mekan","doğal güzellik","şehitlik"]

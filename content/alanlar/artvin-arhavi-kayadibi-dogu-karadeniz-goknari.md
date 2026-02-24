@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","fotoğrafçılık","doğa","tarih ve kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ye%C5%9Fil_Deniz.jpg/960px-Ye%C5%9Fil_Deniz.jpg","alt":"Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari","caption":"Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari","credit":"Yeşil Deniz","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Kackar_Altiparmak_Mountain%29_-_Rize.jpg","alt":"Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari","caption":"Artvin-Arhavi-Kayadibi-Dogu Karadeniz Goknari","credit":"Kaçkar Altıparmak Dağı (Kackar Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Arhavi-Kayadibi-Dogu%20Karadeniz%20Goknari","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228550","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, doğa ve tarihi zenginlikleriyle ziyaretçilerini bekliyor."
 keywords: ["Artvin","Arhavi","Kayadibi","Dogu Karadeniz","Goknari","milli park","Karadeniz Bölgesi","doğa","tarih","gezi","turizm"]

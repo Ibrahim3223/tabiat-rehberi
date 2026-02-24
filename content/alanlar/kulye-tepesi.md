@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Bitki ve hayvan izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kulye Tepesi","caption":"Kulye Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ida_Flooding_%2816%29.jpg/960px-Ida_Flooding_%2816%29.jpg","alt":"Kulye Tepesi","caption":"Kulye Tepesi","credit":"Ida Flooding (16)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kulye%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31541013","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Kulye Tepesi, Şırnak ilinin doğal güzelliklerini sunan bir tepe."
 keywords: ["Kulye Tepesi","Şırnak","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya"]

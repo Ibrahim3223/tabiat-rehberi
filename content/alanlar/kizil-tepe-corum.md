@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-5 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg/960px-Granite_State_Railway_%28P%26L%29_Cab_Car_1004_%22Mountain_View%22_in_Woodstock_NH.jpg","alt":"Kızıl Tepe (Çorum)","caption":"Kızıl Tepe (Çorum)","credit":"Granite State Railway (P&L) Cab Car 1004 \"Mountain View\" in Woodstock NH","license":"CC BY 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Kızıl Tepe (Çorum)","caption":"Kızıl Tepe (Çorum)","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%20Tepe%20(%C3%87orum)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49041973","tip":"genel"}]
 description: "Çorum'un görkemli dağlarından biri olan Kızıl Tepe, 1200 hektarlık yeşil alanı ile doğa severleri bekliyor."
 keywords: ["Kızıl Tepe","Çorum","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Çorum Turistik Yerler","Dağcılık"]

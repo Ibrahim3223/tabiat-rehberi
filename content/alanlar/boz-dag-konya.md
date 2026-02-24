@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam bir gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Kulu_15_09_1983_D%C3%BCden_G%C3%B6l%C3%BC.jpg","alt":"Boz Dağ (Konya) manzarası","credit":"Volker Höhfeld","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"Boz Dağ","caption":"Boz Dağ","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/5/50/Chindjovo_006_original.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chindjovo_006_original.jpg/1280px-Chindjovo_006_original.jpg","alt":"Boz Dağ (Konya) - Chindjovo 006 original","credit":"User:Chech Explorer","license":"cc-by-sa-3.0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Boz%20Da%C4%9F%20(Konya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385967","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin, Boz Dağ'ın büyüleyici manzaralarına hayran kalın."

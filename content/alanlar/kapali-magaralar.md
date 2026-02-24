@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Kapalı Mağaralar","caption":"Kapalı Mağaralar","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cilician_Armenia-en.svg/960px-Cilician_Armenia-en.svg.png","alt":"Kapalı Mağaralar","caption":"Kapalı Mağaralar","credit":"Cilician Armenia-en","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kapal%C4%B1%20Ma%C4%9Faralar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319311","tip":"genel"}]
 description: "Muş'ta yer alan Kapalı Mağaralar, 1200 hektarlık bir jeopark alanı olarak dikkat çekiyor. Doğal güzelliği ve jeolojik oluşumlarıyla ziyaretçilerini bekliyor."
 keywords: ["Kapalı Mağaralar","Muş","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Jeoloji","Doğa"]

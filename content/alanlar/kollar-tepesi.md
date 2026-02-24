@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğal güzellikleri keşfetmek","Historical geçmişi keşfetmek","Çeşitli bitki türleri ve fauna görmek","Şehrin gürültüsünden uzaklaşmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kollar Tepesi","caption":"Kollar Tepesi","credit":"Bahar (2599760344).jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Kollar Tepesi","caption":"Kollar Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kollar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31513455","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin. Kollar Tepesi, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kollar Tepesi","Ankara","İç Anadolu Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya"]

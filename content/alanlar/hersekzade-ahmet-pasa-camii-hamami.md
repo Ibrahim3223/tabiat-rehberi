@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe araştırma","mimari inceleme","fotograf çekme","kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Hersekzade Ahmet Paşa Camii Hamamı","caption":"Hersekzade Ahmet Paşa Camii Hamamı","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_4.jpg","alt":"Hersekzade Ahmet Paşa Camii Hamamı","caption":"Hersekzade Ahmet Paşa Camii Hamamı","credit":"2023-11-04 Choban beach near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hersekzade%20Ahmet%20Pa%C5%9Fa%20Camii%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739225","tip":"genel"}]
 description: "Keşan'da tarihin izlerini taşıyan önemli bir eser"
 keywords: ["Hersekzade Ahmet Paşa Camii Hamamı","Keşan","Edirne","tarih","mimari","kültür","gezi","turizm","Marmara Bölgesi","camii","hamam"]

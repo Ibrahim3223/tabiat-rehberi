@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Kara-Tepe-Camp-Lesvos-Perimeter-%28c%29_O%27Leary-James.jpg","alt":"Kara Tepe (Giresun) manzarası","credit":"Interface-Architect","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Buttermilk_Falls_-_panoramio_%2812%29.jpg/960px-Buttermilk_Falls_-_panoramio_%2812%29.jpg","alt":"Kara Tepe","caption":"Kara Tepe","credit":"Buttermilk Falls - panoramio (12)","license":"CC BY 3.0"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Kara_Tepe%2C_Frieze_of_an_elephant.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Kara_Tepe%2C_Frieze_of_an_elephant.jpg","alt":"Kara Tepe (Giresun) - Kara Tepe, Frieze of an elephant","credit":"Nicoletta Stofkoper","license":"cc0"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Tepe%20(Giresun)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31565264","tip":"genel"}]
 description: "Giresun'da yer alan Kara Tepe, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile dikkat çekiyor."

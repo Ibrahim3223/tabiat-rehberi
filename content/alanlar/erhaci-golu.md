@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Tekne Turu","Balıkçılık","Kuş Gözlemi","Piknik","Kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Bondhus_Norway_2862.jpg/960px-Lake_Bondhus_Norway_2862.jpg","alt":"Erhacı Gölü","caption":"Erhacı Gölü","credit":"Lake Bondhus Norway 2862","license":"FAL"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ye%C5%9File.jpg/960px-Ye%C5%9File.jpg","alt":"Erhacı Gölü","caption":"Erhacı Gölü","credit":"Yeşile","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erhac%C4%B1%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21199042","tip":"genel"}]
 description: "Iğdır'da bulunan Erhacı Gölü, doğal güzellikleri ve turistik çekiciliğiyle dikkat çekiyor."
 keywords: ["Erhacı Gölü","Iğdır","göl","doğa","turizm","gezi","seyahat","Iğdır gezilecek yerler","göl turizmi"]

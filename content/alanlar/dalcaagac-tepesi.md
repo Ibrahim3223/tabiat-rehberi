@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Dalcaağaç Tepesi","caption":"Dalcaağaç Tepesi","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Dalcaağaç Tepesi","caption":"Dalcaağaç Tepesi","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dalcaa%C4%9Fa%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34867477","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin, Dalcaağaç Tepesi'ne çıkın ve büyüleyici manzaraları görün."
 keywords: ["Dalcaağaç Tepesi","Türkiye dağları","doğa turizmi","tepe","manzara","gezi","seyahat","dağcılık","turizm"]

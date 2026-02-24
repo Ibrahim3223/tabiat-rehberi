@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Nükkuzuismailin İni","caption":"Nükkuzuismailin İni","credit":"Goreme National Park, Turkey","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg/960px-NASA-Apollo8-Dec24-Earthrise.jpg","alt":"Nükkuzuismailin İni","caption":"Nükkuzuismailin İni","credit":"NASA-Apollo8-Dec24-Earthrise","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/N%C3%BCkkuzuismailin%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319618","tip":"genel"}]
 description: "Konya'da yer alan Nükkuzuismailin İni, 1200 hektarlık yeşil cenneti ve jeolojik oluşumlarıyla dikkat çeken bir jeopark"
 keywords: ["Nükkuzuismailin İni","Konya","Jeopark","Doğa Alanı","Turizm","Konya Gezilecek Yerler","Jeolojik Oluşumlar","Yeşil Cennet","Turistik Yerler"]

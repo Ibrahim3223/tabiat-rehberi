@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Sakızsuyu Tepesi","caption":"Sakızsuyu Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Sakızsuyu Tepesi","caption":"Sakızsuyu Tepesi","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sak%C4%B1zsuyu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389401","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerinden biri olan Sakızsuyu Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Sakızsuyu Tepesi","Mersin","Akdeniz Bölgesi","doğa","tepe","manzara","gezi","turizm","Mersin turistik yerler"]

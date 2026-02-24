@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarihçe gezisi","bitki gözlemi","fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Gora Bozkyuyuk","caption":"Gora Bozkyuyuk","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg/960px-Ida_B_Wells_High_School_San_Francisco_January_2013_002.jpg","alt":"Gora Bozkyuyuk","caption":"Gora Bozkyuyuk","credit":"Ida B Wells High School San Francisco January 2013 002","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Bozkyuyuk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386465","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, 140 hektarlık Gora Bozkyuyuk"
 keywords: ["Gora Bozkyuyuk","İç Anadolu Bölgesi","tepe","doğa","gezi","tarihçe","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarih araştırması"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Büyükalıçlı Tepesi","caption":"Büyükalıçlı Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ida_Flooding_%2817%29.jpg/960px-Ida_Flooding_%2817%29.jpg","alt":"Büyükalıçlı Tepesi","caption":"Büyükalıçlı Tepesi","credit":"Ida Flooding (17)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkal%C4%B1%C3%A7l%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731281","tip":"genel"}]
 description: "Hatay'ın gizli güzelliği, 140 hektarlık Büyükalıçlı Tepesi"
 keywords: ["Büyükalıçlı Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","gezi","tarihçe","coğrafya","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Doğa yürüyüşü","Tarihî alan gezisi","Fotoğrafçılık","Çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Sığırkırantepesi","caption":"Sığırkırantepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_Flooding_%286%29.jpg/960px-Ida_Flooding_%286%29.jpg","alt":"Sığırkırantepesi","caption":"Sığırkırantepesi","credit":"Ida Flooding (6)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1%C4%9F%C4%B1rk%C4%B1rantepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389261","tip":"genel"}]
 description: "Malatya'nın doğal güzelliklerinden biri olan Sığırkırantepesi, ziyaretçilerini tarihi ve coğrafi zenginlikleriyle bekliyor."
 keywords: ["Sığırkırantepesi","Malatya","Doğu Anadolu Bölgesi","tepe","coğrafya","tarihçe","flora","fauna"]

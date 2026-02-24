@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kaya mezarlarını gezmek","bölgenin flora ve faunasını keşfetmek","coğrafi güzelliklerini izlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Panormus Kaya Mezarları","caption":"Panormus Kaya Mezarları","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff/lossy-page1-900px-Sea_of_Marmara_-_Admiralty_Chart_No_2836_Mediterranean_Archipelago%2C_Published_1863%2C_Corrections_to_1918_%28cropped%29.tiff.jpg","alt":"Panormus Kaya Mezarları","caption":"Panormus Kaya Mezarları","credit":"Sea of Marmara - Admiralty Chart No 2836 Mediterranean Archipelago, Published 1863, Corrections to 1918 (cropped)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Panormus%20Kaya%20Mezarlar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728179","tip":"genel"}]
 description: "Bodrum'un tarihi hazinesi, Ege Bölgesi'nin önemli noktalarından biri"
 keywords: ["Bodrum","Ege Bölgesi","tarihi mekanlar","kaya mezarları","Panormus","Muğla","gezi noktaları","turistik yerler","doğa harikaları"]

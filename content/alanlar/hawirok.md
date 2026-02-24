@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Hawirok","caption":"Hawirok","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"Hawirok","caption":"Hawirok","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hawirok","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q6960561","tip":"genel"}]
 description: "Türkiye'de yer alan Hawirok dağı, doğa severlerin keşfetmek için bekleyen bir hazine"
 keywords: ["Hawirok","Dağ","Türkiye","Doğa","Seyahat","Gezi","Türkiye'nin dağları","Hawirok dağı","Doğa turizmi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi mekanları gezme","doğa yürüyüşü","fotoğraf çekme","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Mülayim Dede Türbesi (Dedebali)","caption":"Mülayim Dede Türbesi (Dedebali)","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Mülayim Dede Türbesi (Dedebali)","caption":"Mülayim Dede Türbesi (Dedebali)","credit":"Harbiş Sahili, Karataş - Adana 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%BClayim%20Dede%20T%C3%BCrbesi%20(Dedebali)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391224","tip":"genel"}]
 description: "Tavşanlı, Kütahya'da yer alan tarihi ve doğal güzellikleriyle dikkat çeken bir destinasyon"
 keywords: ["Mülayim Dede Türbesi","Dedebali","Tavşanlı","Kütahya","tarih","doğa","gezi","türk kültür varlıkları","tarihi mekanlar","Ege Bölgesi"]

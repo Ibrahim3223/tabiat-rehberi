@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezmek","Doğa yürüyüşü yapmak","Manzara noktalarını ziyaret etmek","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kara Tepesi (Ankara)","caption":"Kara Tepesi (Ankara)","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/East_room%2C_second_floor._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-19.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kara Tepesi (Ankara)","caption":"Kara Tepesi (Ankara)","credit":"East room, second floor. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-19","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kara%20Tepesi%20(Ankara)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31558124","tip":"genel"}]
 description: "Ankara'nın tarihi ve coğrafi açıdan önemli bir noktası olan Kara Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kara Tepesi","Ankara","İç Anadolu Bölgesi","tepe","coğrafya","tarih","flora","fauna","ziyaret"]

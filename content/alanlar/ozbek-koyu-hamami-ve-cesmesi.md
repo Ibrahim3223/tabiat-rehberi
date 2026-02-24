@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1 gün"
 aktiviteler: ["Köyün sokaklarını dolaşmak","Tarihi evleri ziyaret etmek","Doğayı keşfetmek","Flora ve faunayı gözlemlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Özbek Köyü Hamamı ve Çeşmesi","caption":"Özbek Köyü Hamamı ve Çeşmesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg/960px-35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg","alt":"Özbek Köyü Hamamı ve Çeşmesi","caption":"Özbek Köyü Hamamı ve Çeşmesi","credit":"35960 Hasseki-Karaburun-İzmir, Turkey - panoramio (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%96zbek%20K%C3%B6y%C3%BC%20Hamam%C4%B1%20ve%20%C3%87e%C5%9Fmesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738844","tip":"genel"}]
 description: "Çanakkale'nin doğal güzelliklerini keşfedin. Özbek Köyü Hamamı ve Çeşmesi, tarihi ve doğası ile büyüleyici bir destinasyon."
 keywords: ["Özbek Köyü","Hamam","Çeşme","Çanakkale","Doğa","Tarih","Kültür"]

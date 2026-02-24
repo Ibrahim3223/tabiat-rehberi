@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["plajda dinlenmek","doğa yürüyüşü","fotografçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Ahi Şorba Türbesi","caption":"Ahi Şorba Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Maden_Koyu_Beach_2021-11-13-2.jpg/960px-Maden_Koyu_Beach_2021-11-13-2.jpg","alt":"Ahi Şorba Türbesi","caption":"Ahi Şorba Türbesi","credit":"Maden Koyu Beach 2021-11-13-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahi%20%C5%9Eorba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391768","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin. Ahi Şorba Türbesi, Karadeniz Bölgesi'nde yer alan bir plaj"
 keywords: ["Kastamonu","Karadeniz Bölgesi","Ahi Şorba Türbesi","plaj","doğa","gezi","turizm","Kastamonu gezilecek yerler"]

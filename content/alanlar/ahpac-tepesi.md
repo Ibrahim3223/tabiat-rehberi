@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara gözlemi","bitki ve hayvan gözlemi","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Ahpaç Tepesi","caption":"Ahpaç Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Ahpaç Tepesi","caption":"Ahpaç Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ahpa%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35723658","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Ahpaç Tepesi, bölgeye özgü bitki türleri ve hayvan.populate ile dikkat çeker."
 keywords: ["Ahpaç Tepesi","Ankara","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara","bitki","hayvan"]

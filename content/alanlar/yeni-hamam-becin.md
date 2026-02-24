@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Doğa yürüyüşü","Balık avı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Yeni Hamam, Beçin","caption":"Yeni Hamam, Beçin","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gallipoli_ANZAC_Cove_3.JPG/960px-Gallipoli_ANZAC_Cove_3.JPG","alt":"Yeni Hamam, Beçin","caption":"Yeni Hamam, Beçin","credit":"Gallipoli ANZAC Cove 3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam%2C%20Be%C3%A7in","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245806","tip":"genel"}]
 description: "Milas'ta yer alan tarihi plaj"
 keywords: ["Yeni Hamam","Beçin","Milas","Muğla","Ege Bölgesi","tarih","doğa","plaj"]

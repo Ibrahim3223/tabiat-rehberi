@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Kökürünbaşı Tepesi","caption":"Kökürünbaşı Tepesi","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Kökürünbaşı Tepesi","caption":"Kökürünbaşı Tepesi","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6k%C3%BCr%C3%BCnba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042753","tip":"genel"}]
 description: "Hatay'da yer alan Kökürünbaşı Tepesi, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Kökürünbaşı Tepesi","Hatay","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Coğrafya"]

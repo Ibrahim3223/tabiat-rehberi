@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük ziyaret"
 aktiviteler: ["Denize girme","Güneşlenme","Su sporları","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg","alt":"Hersekzade Ahmet Paşa Hamamı","caption":"Hersekzade Ahmet Paşa Hamamı","credit":"Süzer Sun Dreams Beach 13 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg","alt":"Hersekzade Ahmet Paşa Hamamı","caption":"Hersekzade Ahmet Paşa Hamamı","credit":"2023-11-04 Choban beach near Kaş 5","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hersekzade%20Ahmet%20Pa%C5%9Fa%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738627","tip":"genel"}]
 description: "Urla'da tarihi bir hamam ve plaj"
 keywords: ["Hersekzade Ahmet Paşa Hamamı","Urla","İzmir","Ege Bölgesi","tarihi hamam","plaj"]

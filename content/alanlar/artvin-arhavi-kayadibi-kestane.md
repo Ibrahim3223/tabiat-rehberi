@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ye%C5%9Fil_Deniz.jpg/960px-Ye%C5%9Fil_Deniz.jpg","alt":"Artvin-Arhavi-Kayadibi-Kestane","caption":"Artvin-Arhavi-Kayadibi-Kestane","credit":"Yeşil Deniz.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"Artvin-Arhavi-Kayadibi-Kestane","caption":"Artvin-Arhavi-Kayadibi-Kestane","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Arhavi-Kayadibi-Kestane","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228551","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Artvin-Arhavi-Kayadibi-Kestane milli parkı"
 keywords: ["Artvin","Arhavi","Kayadibi","Kestane","milli park","Karadeniz Bölgesi","doğa","gezi","turizm"]

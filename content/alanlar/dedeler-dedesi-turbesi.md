@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî yapıları keşfetmek","bölgeyi keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Dedeler Dedesi Türbesi","caption":"Dedeler Dedesi Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gallipoli_ANZAC_Cove_3.JPG/960px-Gallipoli_ANZAC_Cove_3.JPG","alt":"Dedeler Dedesi Türbesi","caption":"Dedeler Dedesi Türbesi","credit":"Gallipoli ANZAC Cove 3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedeler%20Dedesi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391797","tip":"genel"}]
 description: "Tavas, Denizli'nin tarihi ve doğal güzelliklerini bir araya getiren Dedeler Dedesi Türbesi, ziyaretçilerini Ege Bölgesi'nin zengin geçmişine davet ediyor."
 keywords: ["Dedeler Dedesi Türbesi","Tavas","Denizli","Ege Bölgesi","tarih","doğa","türbe"]

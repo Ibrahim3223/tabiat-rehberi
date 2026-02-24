@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Bitki İzleme","Yaban Hayatı İzleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Gora Rashid","caption":"Gora Rashid","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dedeg%C3%B6l_Tepesi.jpg/960px-Dedeg%C3%B6l_Tepesi.jpg","alt":"Gora Rashid","caption":"Gora Rashid","credit":"Dedegöl Tepesi","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Rashid","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386544","tip":"genel"}]
 description: "Hatay'ın doğal güzelliklerinin bir parçası olan Gora Rashid, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Gora Rashid","Hatay","Akdeniz Bölgesi","Doğa","Yeşil Alan","Tarihçe","Coğrafya","Flora","Fauna","Ziyaret"]

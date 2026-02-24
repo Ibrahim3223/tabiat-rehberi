@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa yürüyüşü","Kuş gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Karameşe Tepesi","caption":"Karameşe Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Karameşe Tepesi","caption":"Karameşe Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karame%C5%9Fe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31588799","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide şehirlerinden biri olan Batman'da yer alan Karameşe Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Karameşe Tepesi","Batman","Güneydoğu Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","tepe","gezi","turizm","doğa"]

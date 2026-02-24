@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Tarihi yerleri keşfetme","Bitki ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Ravi Tepesi","caption":"Ravi Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ida_Flooding_%289%29.jpg/960px-Ida_Flooding_%289%29.jpg","alt":"Ravi Tepesi","caption":"Ravi Tepesi","credit":"Ida Flooding (9)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ravi%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548958","tip":"genel"}]
 description: "Siirt'in doğal güzelliklerini keşfedin. Ravi Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri."
 keywords: ["Ravi Tepesi","Siirt","Güneydoğu Anadolu Bölgesi","doğal güzellikler","coğrafi noktalar","turizm","gezi","keşif","tepe"]

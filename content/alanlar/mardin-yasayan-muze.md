@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Trekking","Fotoğrafçılık","Tarihi eserleri keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Mardin Yaşayan Müze","caption":"Mardin Yaşayan Müze","credit":"Mehmet TENGİZ`in Bahçesi - panoramio","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ski_mountain_under_clouds.jpg/960px-Ski_mountain_under_clouds.jpg","alt":"Mardin Yaşayan Müze","caption":"Mardin Yaşayan Müze","credit":"Ski mountain under clouds","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mardin%20Ya%C5%9Fayan%20M%C3%BCze","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q125536786","tip":"genel"}]
 description: "Mardin'in tarihi ve kültürel zenginliklerini keşfedin. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Mardin","Yaşayan Müze","Tarih","Kültür","Doğa","Turizm","Gezi","Müze"]

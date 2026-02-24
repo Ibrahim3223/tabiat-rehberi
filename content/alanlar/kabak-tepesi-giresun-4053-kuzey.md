@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["trekking","doğa gezisi","tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aksu_Deresi_-_panoramio.jpg/960px-Aksu_Deresi_-_panoramio.jpg","alt":"Kabak Tepesi","caption":"Kabak Tepesi","credit":"Aksu Deresi - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Kabak Tepesi","caption":"Kabak Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabak%20Tepesi%20(Giresun%2C%2040.53%20Kuzey)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387926","tip":"genel"}]
 description: "Giresun'un en yüksek noktalarından biri olan Kabak Tepesi, 40.53 Kuzey enleminde yer alır. Doğal güzelliği ve tarihi önemi ile dikkat çeken bu tepe, ziyaretçilerini bekliyor."
 keywords: ["Kabak Tepesi","Giresun","Karadeniz Bölgesi","doğal güzellik","tarihi önemi"]

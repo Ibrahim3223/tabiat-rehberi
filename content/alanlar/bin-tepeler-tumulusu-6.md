@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Arkeoloji turu","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Bin Tepeler Tümülüsü 6","caption":"Bin Tepeler Tümülüsü 6","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%281%29.jpg","alt":"Bin Tepeler Tümülüsü 6","caption":"Bin Tepeler Tümülüsü 6","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (1)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%206","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728362","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli hazinelerinden biri olan Bin Tepeler Tümülüsü 6, tarihin derinliklerinde saklı bir hazine"
 keywords: ["Bin Tepeler Tümülüsü 6","Salihli","Manisa","Ege Bölgesi","tarih","tümülüs","arkeoloji","gezi","keşif"]

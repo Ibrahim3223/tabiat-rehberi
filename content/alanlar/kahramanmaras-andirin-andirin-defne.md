@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","tarihi yapılar","Bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Kahramanmaras-Andirin-Andirin Defne","caption":"Kahramanmaras-Andirin-Andirin Defne","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285515332844%29.jpg","alt":"Kahramanmaras-Andirin-Andirin Defne","caption":"Kahramanmaras-Andirin-Andirin Defne","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5515332844)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Andirin-Andirin%20Defne","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228486","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan doğal güzelliğin adresi"
 keywords: ["Kahramanmaras","Andirin","Andirin Defne","Milli Park","İç Anadolu Bölgesi","Doğa","Turizm","Gezi","Tarih"]

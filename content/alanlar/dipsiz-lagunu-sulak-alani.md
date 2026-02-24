@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Flora ve fauna gözlemi","Fotografcılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Dipsiz Lagünü Sulak Alanı","caption":"Dipsiz Lagünü Sulak Alanı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg","alt":"Dipsiz Lagünü Sulak Alanı","caption":"Dipsiz Lagünü Sulak Alanı","credit":"Gölcük Tabiat Parkı Genel Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dipsiz%20Lag%C3%BCn%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228864","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerinden biri olan Dipsiz Lagünü Sulak Alanı, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Dipsiz Lagünü","Sulak Alan","İç Anadolu Bölgesi","Doğal Güzellik","Korunan Alan","Flora","Fauna","Ziyaret","Gezi"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["güneşlenmek","denizde yüzmek","su sporları yapmak","doğa yürüyüşü yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Hamam, Aspat","caption":"Hamam, Aspat","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_13.jpg","alt":"Hamam, Aspat","caption":"Hamam, Aspat","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 13","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20Aspat","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245840","tip":"genel"}]
 description: "Ege Bölgesi'nin en güzel plajlarından biri olan Hamam, Aspat, 140 hektarlık bir yeşil alan üzerinde kurulmuştur"
 keywords: ["Hamam Aspat","Bodrum","Muğla","Ege Bölgesi","plaj","deniz","kumsal","yeşil alan","doğa"]

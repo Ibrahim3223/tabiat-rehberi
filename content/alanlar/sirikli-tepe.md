@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Tarih gezisi","Fotografcılık","Yaban hayatı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Sırıklı Tepe","caption":"Sırıklı Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Sırıklı Tepe","caption":"Sırıklı Tepe","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1r%C4%B1kl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389818","tip":"genel"}]
 description: "Çankırı'nın tarihi ve doğal güzelliklerinin birleştiği Sırıklı Tepe, ziyaretçilerini bekliyor"
 keywords: ["Sırıklı Tepe","Çankırı","İç Anadolu Bölgesi","doğa","tarih","gezi","turizm","çevre","ekoloji"]

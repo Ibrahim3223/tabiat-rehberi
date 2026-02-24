@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg/960px-Turkey%2CIsparta_Yazili_Kanyon_National_Park%2C_hak3166.jpg","alt":"Denizli-Usak-Catak Karacam 2","caption":"Denizli-Usak-Catak Karacam 2","credit":"Turkey,Isparta Yazili Kanyon National Park, hak3166","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2023.jpg","alt":"Denizli-Usak-Catak Karacam 2","caption":"Denizli-Usak-Catak Karacam 2","credit":"Gölcük Tabiat Parkı 2023","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Usak-Catak%20Karacam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227502","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğa severlerin gözdesi"
 keywords: ["Denizli","Usak","Catak Karacam 2","milli park","Ege Bölgesi","doğa","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doga_yuruyusu","kuş_izleme","manzara_izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kıllıdağ Tepesi","caption":"Kıllıdağ Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ida_Flooding_%2820%29.jpg/960px-Ida_Flooding_%2820%29.jpg","alt":"Kıllıdağ Tepesi","caption":"Kıllıdağ Tepesi","credit":"Ida Flooding (20)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1ll%C4%B1da%C4%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31564302","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerinden biri olan Kıllıdağ Tepesi, ziyaretçilerini büyülüyor."
 keywords: ["Kıllıdağ Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğa","tepe","gezi","tarih","coğrafya"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Yaban hayatı gözlemleme","Fotoğraf çekme","Çevre gezisi","Bisiklet turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Balikesir-Kepsut Kızılçam","caption":"Balikesir-Kepsut Kızılçam","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1_2015.jpg","alt":"Balikesir-Kepsut Kızılçam","caption":"Balikesir-Kepsut Kızılçam","credit":"Gölcük Tabiat Parkı Piknik Alanı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Balikesir-Kepsut%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227860","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan 140 hektarlık milli park"
 keywords: ["Balikesir","Kepsut","Kızılçam","Milli Park","İç Anadolu Bölgesi","Doğa","Turizm","Çevre","Flora"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["tarih gezisi","plaj aktiviteleri","doğa yürüyüşü","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Sultan Selim (II) Hamamı","caption":"Sultan Selim (II) Hamamı","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg","alt":"Sultan Selim (II) Hamamı","caption":"Sultan Selim (II) Hamamı","credit":"2023-11-04 Choban beach near Kaş 5","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sultan%20Selim%20(II)%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738678","tip":"genel"}]
 description: "Konya'nın Karapınar ilçesinde bulunan tarihi hamam ve plaj"
 keywords: ["Konya","Karapınar","Sultan Selim Hamamı","tarih","plaj","doğa","gezi","turizm"]

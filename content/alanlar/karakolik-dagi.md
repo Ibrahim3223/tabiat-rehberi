@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/G%C3%B6bekli_Tepe_-_landscape.jpg/960px-G%C3%B6bekli_Tepe_-_landscape.jpg","alt":"Karakolik Dağı","caption":"Karakolik Dağı","credit":"Göbekli Tepe - landscape.jpg","license":"CC BY 3.0 pl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Karakolik Dağı","caption":"Karakolik Dağı","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakolik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31576851","tip":"genel"}]
 description: "Şanlıurfa'da yer alan Karakolik Dağı, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Karakolik Dağı","Şanlıurfa","Dağ","Doğa","Tarih","Coğrafya","Gezi","Seyahat","Turizm"]

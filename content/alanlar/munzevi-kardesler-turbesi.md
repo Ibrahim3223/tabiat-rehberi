@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","tarih turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Münzevi Kardeşler Türbesi","caption":"Münzevi Kardeşler Türbesi","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Münzevi Kardeşler Türbesi","caption":"Münzevi Kardeşler Türbesi","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/M%C3%BCnzevi%20Karde%C5%9Fler%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735146","tip":"genel"}]
 description: "İstanbul'un Eyüpsultan ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Münzevi Kardeşler Türbesi","Eyüpsultan","İstanbul","Marmara Bölgesi","tarih","doğa","plaj","gezi","turizm"]

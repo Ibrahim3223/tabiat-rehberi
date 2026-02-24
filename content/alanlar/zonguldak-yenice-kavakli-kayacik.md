@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Trekking","Kuş gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Zonguldak-Yenice-Kavakli-Kayacik","caption":"Zonguldak-Yenice-Kavakli-Kayacik","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Zonguldak-Yenice-Kavakli-Kayacik","caption":"Zonguldak-Yenice-Kavakli-Kayacik","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zonguldak-Yenice-Kavakli-Kayacik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228543","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin. Zonguldak-Yenice-Kavakli-Kayacik milli parkı, 140 hektarlık yeşil alanı ve zengin faunasıyla ziyaretçilerini bekliyor."
 keywords: ["Zonguldak","Yenice","Kavakli","Kayacik","Milli Park","Karadeniz Bölgesi","doğal güzellik","zengin fauna","yeşil alan"]

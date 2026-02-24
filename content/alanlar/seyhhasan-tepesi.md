@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Şeyhhasan Tepesi","caption":"Şeyhhasan Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/960px-Ida_M._Tarbell_crop.jpg","alt":"Şeyhhasan Tepesi","caption":"Şeyhhasan Tepesi","credit":"Ida M. Tarbell crop","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyhhasan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31506855","tip":"genel"}]
 description: "Van'ın doğal güzellikleri arasında yer alan Şeyhhasan Tepesi, 140 hektarlık geniş bir alana sahiptir. Doğu Anadolu Bölgesi'nin önemli noktalarından biri olan bu tepe, yaklaşık 200 futbol sahası büyüklüğünde bir alanı kaplar."
 keywords: ["Van","Doğu Anadolu Bölgesi","Şeyhhasan Tepesi","Doğal güzellik","Tepeler","Coğrafya","Tarihçe","Flora","Fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","tarih hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Hamo Tepesi","caption":"Hamo Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ida_Flooding_%2822%29.jpg/960px-Ida_Flooding_%2822%29.jpg","alt":"Hamo Tepesi","caption":"Hamo Tepesi","credit":"Ida Flooding (22)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamo%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535016","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin önemli coğrafi noktalarından biri olan Hamo Tepesi, Gaziantep'in güzelliklerini sunar."
 keywords: ["Gaziantep","Hamo Tepesi","coğrafi noktalar","doğal güzellikler","Güneydoğu Anadolu Bölgesi","tepe","gezi","turizm"]

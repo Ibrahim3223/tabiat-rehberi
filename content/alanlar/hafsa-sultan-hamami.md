@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["Denize girmek","Güneşlenmek","Doğa yürüyüşleri yapmak","Tarihi yapıları gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hafsa Sultan Hamamı","caption":"Hafsa Sultan Hamamı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Istanbul_beaches-_Sea_of_Marmara_12.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_12.jpg","alt":"Hafsa Sultan Hamamı","caption":"Hafsa Sultan Hamamı","credit":"Istanbul beaches- Sea of Marmara 12","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hafsa%20Sultan%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738669","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan Hafsa Sultan Hamamı, tarihi ve doğal güzellikleri ziyaretçilerini bekliyor."
 keywords: ["Hafsa Sultan Hamamı","Manisa","Şehzadeler","tarih","doğa","gezi","turizm","Ege Bölgesi","plaj"]

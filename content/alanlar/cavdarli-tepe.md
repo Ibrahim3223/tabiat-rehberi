@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografcılık","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çavdarlı Tepe","caption":"Çavdarlı Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Çavdarlı Tepe","caption":"Çavdarlı Tepe","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avdarl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828693","tip":"genel"}]
 description: "Bayburt'un doğal güzelliklerini keşfedin. Çavdarlı Tepe, Karadeniz Bölgesi'nin önemli noktalarından biri."
 keywords: ["Çavdarlı Tepe","Bayburt","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

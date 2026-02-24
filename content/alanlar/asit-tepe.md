@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Aşıt Tepe","caption":"Aşıt Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Aşıt Tepe","caption":"Aşıt Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9F%C4%B1t%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571401","tip":"genel"}]
 description: "Ordu'da yer alan Aşıt Tepe, doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Aşıt Tepe","Ordu","Dağ","Trekking","Doğa","Turizm","Ordu Turistik Yerler","Dağcılık","Doğa Yürüyüşü"]

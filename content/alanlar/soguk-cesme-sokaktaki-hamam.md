@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekan gezi","kültürel etkinlikler","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Soğuk Çeşme Sokaktaki Hamam","caption":"Soğuk Çeşme Sokaktaki Hamam","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL_%284%29.jpg","alt":"Soğuk Çeşme Sokaktaki Hamam","caption":"Soğuk Çeşme Sokaktaki Hamam","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL (4)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/So%C4%9Fuk%20%C3%87e%C5%9Fme%20Sokaktaki%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738905","tip":"genel"}]
 description: "Fatih'in tarihi mekanlarından biri olan Soğuk Çeşme Sokaktaki Hamam, Marmara Bölgesi'nin önemli kültürel varlıklarından"
 keywords: ["hamam","Fatih","Marmara Bölgesi","tarihi mekan","kültürel varlık","İstanbul","gezi","turizm"]

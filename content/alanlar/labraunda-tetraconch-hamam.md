@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî yapıları gezmek","Doğal güzellikleri keşfetmek","Fotoğraf çekmek","Picnic yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Labraunda Tetraconch Hamam","caption":"Labraunda Tetraconch Hamam","credit":"Muğla - Dalyan - İztuzu Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg","alt":"Labraunda Tetraconch Hamam","caption":"Labraunda Tetraconch Hamam","credit":"2023-11-04 Choban beach near Kaş 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Labraunda%20Tetraconch%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738858","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi hazinesi, Milas'ta bulunan Labraunda Tetraconch Hamam"
 keywords: ["Labraunda","Tetraconch Hamam","Milas","Muğla","Ege Bölgesi","Tarihi Yerler","Arkeolojik Sit Alanları","Doğal Güzellikler"]

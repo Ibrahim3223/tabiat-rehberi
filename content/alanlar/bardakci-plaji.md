@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Kumsal yürüyüşü","Su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg/960px-Mu%C4%9Fla_-_Dalyan_-_%C4%B0ztuzu_Plaj%C4%B1.jpg","alt":"Bardakçı Plajı","caption":"Bardakçı Plajı","credit":"Muğla - Dalyan - İztuzu Plajı","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg/960px-MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg.png","alt":"Bardakçı Plajı","caption":"Bardakçı Plajı","credit":"MapaTopográficoDeAsiaMenor-Caria","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bardak%C3%A7%C4%B1%20Plaj%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49320129","tip":"genel"}]
 description: "Muğla'nın güzide plajlarından biri olan Bardakçı Plajı, Ege Bölgesi'nin en çok tercih edilen yerlerinden."
 keywords: ["Bardakçı Plajı","Muğla","Ege Bölgesi","plaj","deniz","kumsal","turizm","gezi","tatil"]

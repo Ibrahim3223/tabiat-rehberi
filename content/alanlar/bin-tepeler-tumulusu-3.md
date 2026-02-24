@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî alan gezisi","arkeolojik keşif","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Bin Tepeler Tümülüsü 3","caption":"Bin Tepeler Tümülüsü 3","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Bin Tepeler Tümülüsü 3","caption":"Bin Tepeler Tümülüsü 3","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%203","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728378","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi zenginliklerini keşfedin. Salihli'deki Bin Tepeler Tümülüsü 3, tarih meraklıları için unutulmaz bir deneyim."
 keywords: ["Bin Tepeler Tümülüsü 3","Salihli","Manisa","Ege Bölgesi","tarih","tümülüs","arkeoloji","gezi","keşif"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotografcılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Karayuca Tepesi","caption":"Karayuca Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Karayuca Tepesi","caption":"Karayuca Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karayuca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31538136","tip":"genel"}]
 description: "Hatay'ın eşsiz doğal güzelliklerinden biri olan Karayuca Tepesi, ziyaretçilerini büyüleyici manzarasıyla karşılar."
 keywords: ["Karayuca Tepesi","Hatay","Akdeniz Bölgesi","doğa","tepe","manzara","gezi","turizm","çevre"]

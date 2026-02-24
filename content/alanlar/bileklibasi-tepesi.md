@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bileklibaşı Tepesi","caption":"Bileklibaşı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Bileklibaşı Tepesi","caption":"Bileklibaşı Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bilekliba%C5%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31534890","tip":"genel"}]
 description: "Osmaniye'nin gizli köşesi Bileklibaşı Tepesi, Akdeniz Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Bileklibaşı Tepesi","Osmaniye","Akdeniz Bölgesi","doğa","tepe","gezi","turizm"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Karasis Dağı","caption":"Karasis Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/af/Tan%C4%B1r%2C_Af%C5%9Fin.jpg","alt":"Karasis Dağı","caption":"Karasis Dağı","credit":"Tanır, Afşin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karasis%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q1535583","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Karasis Dağı, doğa severler için bir cennet. 1200 hektarlık yeşil alanı ile İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Karasis Dağı","Türkiye Dağları","Doğa Turizmi","Yeşil Alanlar","İstanbul","Dağcılık","Trekking","Doğa Yürüyüşleri","Turizm"]

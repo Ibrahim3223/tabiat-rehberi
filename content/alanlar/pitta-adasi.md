@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg/960px-Fethiye-%C3%96l%C3%BCdeniz_-_Flickr_-_faktor1komma5.jpg","alt":"Pitta Adası","caption":"Pitta Adası","credit":"Fethiye-Ölüdeniz - Flickr - faktor1komma5.jpg","license":"CC BY 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kapidag_Peninsula_and_adjacent_islands_%28cropped%29.tif/lossy-page1-800px-Kapidag_Peninsula_and_adjacent_islands_%28cropped%29.tif.jpg","alt":"Pitta Adası","caption":"Pitta Adası","credit":"Kapidag Peninsula and adjacent islands (cropped)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pitta%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49669697","tip":"genel"}]
 description: "Muğla'da bulunan Pitta Adası, doğa severler için bir cennet. 1200 hektarlık yeşil alanıyla İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Pitta Adası","Muğla","Ada","Doğa","Yeşil Alan","Turizm","Gezi","Seyahat","Muğla Adaları"]

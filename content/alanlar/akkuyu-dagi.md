@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Akkuyu Dağı","caption":"Akkuyu Dağı","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Akkuyu Dağı","caption":"Akkuyu Dağı","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akkuyu%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386081","tip":"genel"}]
 description: "Afyonkarahisar'ın doğal güzellikleri arasında yer alan Akkuyu Dağı, 140 hektarlık bir alanı kaplar ve yaklaşık 200 futbol sahası büyüklüğündedir."
 keywords: ["Akkuyu Dağı","Afyonkarahisar","Ege Bölgesi","doğal güzellik","dağ","gezi","turizm","çevre","ekoloji"]

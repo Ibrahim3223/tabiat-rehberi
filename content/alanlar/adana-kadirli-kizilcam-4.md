@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Adana-Kadirli Kızılçam 4","caption":"Adana-Kadirli Kızılçam 4","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cilingoz_National_Park_Cave.jpg/960px-Cilingoz_National_Park_Cave.jpg","alt":"Adana-Kadirli Kızılçam 4","caption":"Adana-Kadirli Kızılçam 4","credit":"Cilingoz National Park Cave","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli%20K%C4%B1z%C4%B1l%C3%A7am%204","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227831","tip":"genel"}]
 description: "Adana'nın güzide doğa alanlarından biri olan Adana-Kadirli Kızılçam 4, doğal güzelliği ve zengin florası ile dikkat çekiyor."
 keywords: ["Adana","Kadirli","Kızılçam","milli park","doğa","flora","fauna","turizm","gezi"]

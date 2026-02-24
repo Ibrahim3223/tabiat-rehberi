@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["denizde yüzme","güneşlenme","kumda dinlenme","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Burj al Babas","caption":"Burj al Babas","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg/960px-Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg","alt":"Burj al Babas","caption":"Burj al Babas","credit":"Aerial view of destruction in Beach refugee camp, Gaza Strip","license":"CC BY-SA 3.0 igo"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Burj%20al%20Babas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q60842230","tip":"genel"}]
 description: "Bolu'nun eşsiz plajı, Karadeniz Bölgesi'nin gizli cenneti"
 keywords: ["Bolu","Karadeniz Bölgesi","plaj","deniz","doğa","gezi","tatil","seyahat","yaz"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"İcadiye Dağ Hamamı","caption":"İcadiye Dağ Hamamı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Istanbul_beaches-_Sea_of_Marmara_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_10.jpg","alt":"İcadiye Dağ Hamamı","caption":"İcadiye Dağ Hamamı","credit":"Istanbul beaches- Sea of Marmara 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0cadiye%20Da%C4%9F%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738593","tip":"genel"}]
 description: "Üsküdar'ın gizli cenneti, İcadiye Dağ Hamamı, doğa severlerin ve tarihi sevenlerin ziyaret edebileceği bir plaj"
 keywords: ["İcadiye Dağ Hamamı","Üsküdar","İstanbul","Marmara Bölgesi","plaj","doğa","tarih"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih keşfi","Doğa yürüyüşü","Fotoğrafçılık","Kültürel deneyim"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Küfrevi Türbesi","caption":"Küfrevi Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Küfrevi Türbesi","caption":"Küfrevi Türbesi","credit":"Black Sea - Turkey","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCfrevi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390702","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, Bitlis'in tarihi ve doğal güzelliklerinin birleştiği point"
 keywords: ["Küfrevi Türbesi","Bitlis","Doğu Anadolu Bölgesi","tarih","doğa","gezi","türbe","plaj"]

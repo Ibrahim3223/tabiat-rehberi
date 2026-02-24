@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografçılık","picnic","doğal gözlem"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Keklikpınar Tepesi","caption":"Keklikpınar Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Keklikpınar Tepesi","caption":"Keklikpınar Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keklikp%C4%B1nar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31557633","tip":"genel"}]
 description: "Ankara'nın gözde doğal alanı Keklikpınar Tepesi, İç Anadolu Bölgesi'nin güzide köşelerinden biri."
 keywords: ["Keklikpınar Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","yerel","coğrafya"]

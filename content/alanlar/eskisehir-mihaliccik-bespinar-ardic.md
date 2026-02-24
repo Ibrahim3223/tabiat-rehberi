@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarih turu","kuş gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Eskişehir- Mihaliccık-Bespinar-Ardic","caption":"Eskişehir- Mihaliccık-Bespinar-Ardic","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"Eskişehir- Mihaliccık-Bespinar-Ardic","caption":"Eskişehir- Mihaliccık-Bespinar-Ardic","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-%20Mihalicc%C4%B1k-Bespinar-Ardic","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228099","tip":"genel"}]
 description: "Eskişehir'in doğal güzelliklerini keşfedin. Mihaliccık, Bespinar ve Ardic milli parkı hakkında bilgi edinin."
 keywords: ["Eskişehir","Mihaliccık","Bespinar","Ardic","milli park","doğa","gezi","turizm","iç Anadolu Bölgesi"]

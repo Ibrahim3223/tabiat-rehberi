@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","bitki türleri hakkında bilgi edinme","fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Hamdan Tepe","caption":"Hamdan Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Hamdan Tepe","caption":"Hamdan Tepe","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamdan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386642","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Hamdan Tepe, Şanlıurfa'nın tarihi ve doğal güzelliklerini bir arada sunar."
 keywords: ["Hamdan Tepe","Şanlıurfa","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","coğrafya"]

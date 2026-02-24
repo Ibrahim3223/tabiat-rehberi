@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["plajda dinlenmek","türbeyi ziyaret etmek","yeşil alanlarda yürüyüş yapmak","kuş türlerini izlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Hacı Kemal Dede Türbesi","caption":"Hacı Kemal Dede Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sunset_Tavakl%C4%B1.jpg/960px-Sunset_Tavakl%C4%B1.jpg","alt":"Hacı Kemal Dede Türbesi","caption":"Hacı Kemal Dede Türbesi","credit":"Sunset Tavaklı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Kemal%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391559","tip":"genel"}]
 description: "Uşak'ın merkezinde yer alan tarihi bir türbe ve plaj"
 keywords: ["Hacı Kemal Dede Türbesi","Uşak","Ege Bölgesi","tarih","doğa","plaj","gezi","turizm","kültür"]

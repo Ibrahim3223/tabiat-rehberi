@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Termal su tedavisi","Doğa yürüyüşü","Çevre gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Balikli_Kaplica_Thermal_spring_-_panoramio.jpg/960px-Balikli_Kaplica_Thermal_spring_-_panoramio.jpg","alt":"Acısu Kaplıcası","caption":"Acısu Kaplıcası","credit":"Balikli Kaplica Thermal spring - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_travertines_from_a_distance-_the_people_look_like_ants%21_%2816124352159%29.jpg/960px-The_travertines_from_a_distance-_the_people_look_like_ants%21_%2816124352159%29.jpg","alt":"Acısu Kaplıcası","caption":"Acısu Kaplıcası","credit":"The travertines from a distance- the people look like ants! (16124352159)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ac%C4%B1su%20Kapl%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741877","tip":"genel"}]
 description: "Çankırı'nın doğal güzelliklerinden biri olan Acısu Kaplıcası, şifalı sularıyla ziyaretçilerini bekliyor."
 keywords: ["Acısu Kaplıcası","Çankırı","termal kaynak","şifalı su","doğa","gezi","turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Anıt mezarı ziyaret","Çevresindeki historical mekânları gezmek","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Behiç Erkin Kabri ve Anıt Mezarı","caption":"Behiç Erkin Kabri ve Anıt Mezarı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Istanbul_beaches-_Sea_of_Marmara_03.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_03.jpg","alt":"Behiç Erkin Kabri ve Anıt Mezarı","caption":"Behiç Erkin Kabri ve Anıt Mezarı","credit":"Istanbul beaches- Sea of Marmara 03","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Behi%C3%A7%20Erkin%20Kabri%20ve%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728164","tip":"genel"}]
 description: "Eskişehir'in Tepebaşı ilçesinde bulunan Behiç Erkin Kabri ve Anıt Mezarı, önemli bir tarihi ve kültürel mekân."
 keywords: ["Behiç Erkin","Anıt Mezarı","Tepebaşı","Eskişehir","tarih","kültür","anıt","mezar"]

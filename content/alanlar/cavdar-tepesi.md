@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğrafçılık","Manzara İzleme","Picnic","Yaban Hayatı İzleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Çavdar Tepesi","caption":"Çavdar Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Çavdar Tepesi","caption":"Çavdar Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87avdar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34828657","tip":"genel"}]
 description: "Denizli'nin doğal güzellikleri arasında yer alan Çavdar Tepesi, ziyaretçilerini etkileyen bir doğa harikasıdır."
 keywords: ["Çavdar Tepesi","Denizli","Ege Bölgesi","Doğa","Tepeler","Turizm","Gezi","Yaban Hayatı"]

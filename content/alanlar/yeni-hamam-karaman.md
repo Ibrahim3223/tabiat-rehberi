@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihî ve kültürel geziler","doğa yürüyüşleri","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Yeni Hamam, Karaman","caption":"Yeni Hamam, Karaman","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio_-_HALUK_COMERTEL.jpg","alt":"Yeni Hamam, Karaman","caption":"Yeni Hamam, Karaman","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio - HALUK COMERTEL","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yeni%20Hamam%2C%20Karaman","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245695","tip":"genel"}]
 description: "Karaman'ın merkezinde yer alan Yeni Hamam, şehrin en önemli tarihi ve kültürel varlıklarından birisidir. 140 hektarlık bir alan üzerinde kurulmuştur."
 keywords: ["Karaman","Yeni Hamam","tarih","kültür","gezi","turizm","iç anadolu","doğa","flora","fauna"]

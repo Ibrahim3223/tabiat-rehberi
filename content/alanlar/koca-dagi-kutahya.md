@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Koca Dağı (Kütahya)","caption":"Koca Dağı (Kütahya)","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"Koca Dağı (Kütahya)","caption":"Koca Dağı (Kütahya)","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Da%C4%9F%C4%B1%20(K%C3%BCtahya)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49042246","tip":"genel"}]
 description: "Kütahya'da bulunan Koca Dağı, 1200 hektarlık yeşil cenneti ve doğal güzellikleri ile dikkat çekiyor"
 keywords: ["Koca Dağı","Kütahya","Dağ","Doğa","Yeşil Alan","Turizm","Gezi","Kütahya Turistik Yerler","Doğal Güzellikler"]

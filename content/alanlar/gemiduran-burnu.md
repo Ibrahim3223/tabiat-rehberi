@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cloud_in_the_river.jpg/960px-Cloud_in_the_river.jpg","alt":"Gemiduran Burnu","caption":"Gemiduran Burnu","credit":"Cloud in the river","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eurasian_Collared-Dove_by_Tisha_Mukherjee_09.jpg/960px-Eurasian_Collared-Dove_by_Tisha_Mukherjee_09.jpg","alt":"Gemiduran Burnu","caption":"Gemiduran Burnu","credit":"Eurasian Collared-Dove by Tisha Mukherjee 09","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gemiduran%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34897324","tip":"genel"}]
 description: "Van'da bulunan Gemiduran Burnu, 1200 hektarlık bir alan üzerinde kurulu, 150'den fazla kuş türüne ev sahipliği yapan önemli bir kuş cenneti."
 keywords: ["Gemiduran Burnu","Van","Kuş Cenneti","Doğa Alanı","Kuş Türleri","Turizm","Van Gezilecek Yerler","Doğa Harikaları","Kuş Gözlemi"]

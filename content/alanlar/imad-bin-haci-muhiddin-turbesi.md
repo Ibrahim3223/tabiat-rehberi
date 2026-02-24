@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğal güzelliği keşfetmek","Tarih hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"İmad Bin Hacı Muhiddin Türbesi","caption":"İmad Bin Hacı Muhiddin Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg","alt":"İmad Bin Hacı Muhiddin Türbesi","caption":"İmad Bin Hacı Muhiddin Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0mad%20Bin%20Hac%C4%B1%20Muhiddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390624","tip":"genel"}]
 description: "Afyonkarahisar'ın tarihi ve doğal güzelliklerini keşfedin. İmad Bin Hacı Muhiddin Türbesi'ni ziyaret edin."
 keywords: ["İmad Bin Hacı Muhiddin Türbesi","Afyonkarahisar","tarih","doğa","türbe","gezi","turizm","Ege Bölgesi"]

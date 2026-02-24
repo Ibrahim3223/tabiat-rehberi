@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","Picnic","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Kadodu Tepesi","caption":"Kadodu Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Kadodu Tepesi","caption":"Kadodu Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kadodu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387108","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en önemli doğal güzelliklerinden biri olan Kadodu Tepesi, ziyaretçilerini doğal atmosferi ve tarihi geçmişi ile cezbediyor."
 keywords: ["Kadodu Tepesi","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmiş","gezi","turizm","çevre","iklim","bitki örtüsü"]

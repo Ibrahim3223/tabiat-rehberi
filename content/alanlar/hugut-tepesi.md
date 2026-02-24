@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Hugut Tepesi","caption":"Hugut Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Hugut Tepesi","caption":"Hugut Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hugut%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31566682","tip":"genel"}]
 description: "Gümüşhane'nin doğal güzellikleri arasında yer alan Hugut Tepesi, Karadeniz Bölgesi'nin önemli coğrafya özelliklerini taşıyor."
 keywords: ["Gümüşhane","Karadeniz Bölgesi","Hugut Tepesi","coğrafya","doğa","gezi","turizm"]

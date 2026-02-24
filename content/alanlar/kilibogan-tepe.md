@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kampçılık","fotoğrafçılık","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kılıboğan Tepe","caption":"Kılıboğan Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Kılıboğan Tepe","caption":"Kılıboğan Tepe","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1bo%C4%9Fan%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387389","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin görkemli doğal güzelliklerinden biri olan Kılıboğan Tepe, ziyaretçilerini büyüleyen bir doğa harikasıdır."
 keywords: ["Kılıboğan Tepe","Doğu Anadolu Bölgesi","Bingöl","doğa güzellikleri","tepe","gezi noktaları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["höyüğü keşfetmek","rehber eşliğinde tur","fotoğraf çekmek","coğrafi güzellikleri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Zeytinli Hüyük","caption":"Zeytinli Hüyük","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Zeytinli Hüyük","caption":"Zeytinli Hüyük","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeytinli%20H%C3%BCy%C3%BCk","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32196300","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzellikleri arasında yer alan Zeytinli Hüyük, Gaziantep'in önemli noktalarından biridir."
 keywords: ["Zeytinli Hüyük","Gaziantep","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür"]

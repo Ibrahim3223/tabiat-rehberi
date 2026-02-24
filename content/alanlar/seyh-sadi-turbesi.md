@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları gezmek","doğal güzellikleri keşfetmek","yürüyüş ve trekking","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2487.jpg","alt":"Şeyh Sadi Türbesi","caption":"Şeyh Sadi Türbesi","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2487.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ilica_plaj_-_beach_October_2009_2_-_panoramio.jpg/960px-Ilica_plaj_-_beach_October_2009_2_-_panoramio.jpg","alt":"Şeyh Sadi Türbesi","caption":"Şeyh Sadi Türbesi","credit":"Ilica plaj - beach October 2009 2 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Sadi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390655","tip":"genel"}]
 description: "Amasya'nın tarihi ve doğal güzelliklerini keşfedin. Şeyh Sadi Türbesi, Karadeniz Bölgesi'nin önemli dini ve turistik merkezlerinden biri."
 keywords: ["Şeyh Sadi Türbesi","Amasya","Karadeniz Bölgesi","tarihi mekanlar","doğal güzellikler","dini merkezler","turistik yerler","gezi rehberi","Amasya gezilecek yerler"]

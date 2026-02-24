@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaretleri","Fotoğraf çekimi","Bigadiç'in tarihini öğrenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunset_in_Erdek.jpg/960px-Sunset_in_Erdek.jpg","alt":"Oğul Paşa Türbesi","caption":"Oğul Paşa Türbesi","credit":"Sunset in Erdek.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg/960px-Aerial_view_of_destruction_in_Beach_refugee_camp%2C_Gaza_Strip.jpg","alt":"Oğul Paşa Türbesi","caption":"Oğul Paşa Türbesi","credit":"Aerial view of destruction in Beach refugee camp, Gaza Strip","license":"CC BY-SA 3.0 igo"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/O%C4%9Ful%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391581","tip":"genel"}]
 description: "Bigadiç'in merkezinde yer alan tarihi Oğul Paşa Türbesi, Marmara Bölgesi'nin önemli ziyaret noktalarından biri."
 keywords: ["Oğul Paşa Türbesi","Bigadiç","Balıkesir","Marmara Bölgesi","tarihi mekan","türbe","gezi","ziyaret"]

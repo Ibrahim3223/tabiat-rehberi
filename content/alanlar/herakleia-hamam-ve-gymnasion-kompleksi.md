@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["historical geziler","bitki gözlemi","hayvan gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Herakleia Hamam ve Gymnasion Kompleksi","caption":"Herakleia Hamam ve Gymnasion Kompleksi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg/960px-2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg","alt":"Herakleia Hamam ve Gymnasion Kompleksi","caption":"Herakleia Hamam ve Gymnasion Kompleksi","credit":"2023-11-04 A view from Lycian Way near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Herakleia%20Hamam%20ve%20Gymnasion%20Kompleksi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738862","tip":"genel"}]
 description: "Milas'ta bulunan antik site, historical bir bölge"
 keywords: ["Herakleia","Hamam","Gymnasion","Milas","Muğla","Ege Bölgesi","antik site","historical"]

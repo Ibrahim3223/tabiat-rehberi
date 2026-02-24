@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Çiftlik Adası","caption":"Çiftlik Adası","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Silver_sunset%2C_small_islands%27_park.jpg/960px-Silver_sunset%2C_small_islands%27_park.jpg","alt":"Çiftlik Adası","caption":"Çiftlik Adası","credit":"Silver sunset, small islands' park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87iftlik%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34789921","tip":"genel"}]
 description: "Muğla'da bulunan Çiftlik Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Çiftlik Adası","Muğla","ada","doğa","yeşil alan","turizm","gezi","seyahat","Muğla adaları"]

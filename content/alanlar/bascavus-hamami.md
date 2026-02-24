@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","Fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Başçavuş Hamamı","caption":"Başçavuş Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dodecanese_%26_Anatolian_Coasts%2C_2016.jpg/960px-Dodecanese_%26_Anatolian_Coasts%2C_2016.jpg","alt":"Başçavuş Hamamı","caption":"Başçavuş Hamamı","credit":"Dodecanese & Anatolian Coasts, 2016","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C5%9F%C3%A7avu%C5%9F%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739172","tip":"genel"}]
 description: "Yozgat'ın doğal güzelliklerini keşfedin. Başçavuş Hamamı, İç Anadolu Bölgesi'nde yer alan bir plajdır."
 keywords: ["Yozgat","plaj","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekoloji","yaban hayatı"]

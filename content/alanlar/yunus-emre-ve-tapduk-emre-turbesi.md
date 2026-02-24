@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Plajda dinlenmek","Doğa yürüyüşü","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Yunus Emre ve Tapduk Emre Türbesi","caption":"Yunus Emre ve Tapduk Emre Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fethiye_2.JPG/960px-Fethiye_2.JPG","alt":"Yunus Emre ve Tapduk Emre Türbesi","caption":"Yunus Emre ve Tapduk Emre Türbesi","credit":"Fethiye 2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yunus%20Emre%20ve%20Tapduk%20Emre%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390910","tip":"genel"}]
 description: "Manisa'nın Kula ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Yunus Emre","Tapduk Emre","Kula","Manisa","Ege Bölgesi","Türbe","Plaj"]

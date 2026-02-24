@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_07.jpg","alt":"Atlık Dağı","caption":"Atlık Dağı","credit":"Kayaözü Creek Valley, Kahramanmaraş 07.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/960px-Adams_The_Tetons_and_the_Snake_River.jpg","alt":"Atlık Dağı","caption":"Atlık Dağı","credit":"Adams The Tetons and the Snake River","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Atl%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31531600","tip":"genel"}]
 description: "Kahramanmaraş'ta bulunan Atlık Dağı, doğal güzellikleri ve yürüyüş rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Atlık Dağı","Kahramanmaraş","Dağ","Doğa","Yürüyüş Rotaları","Turizm","Gezi","Türkiye"]

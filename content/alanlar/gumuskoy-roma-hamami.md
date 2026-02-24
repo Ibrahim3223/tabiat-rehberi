@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["alanın gezilmesi","tarihi yapıların incelenmesi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Didim_2011.jpg/960px-Didim_2011.jpg","alt":"Gümüşköy Roma Hamamı","caption":"Gümüşköy Roma Hamamı","credit":"Didim 2011.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Adatepe_manzara.JPG/960px-Adatepe_manzara.JPG","alt":"Gümüşköy Roma Hamamı","caption":"Gümüşköy Roma Hamamı","credit":"Adatepe manzara","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fk%C3%B6y%20Roma%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739087","tip":"genel"}]
 description: "Ege Bölgesi'nin Aydın ilinin Germencik ilçesinde bulunan Gümüşköy Roma Hamamı, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Gümüşköy Roma Hamamı","Aydın","Germencik","Ege Bölgesi","tarihi mekanlar","doğa güzellikleri","Roma hamamları","turistik yerler","coğrafya","flora","fauna"]

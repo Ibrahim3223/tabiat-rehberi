@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg/960px-Aivazovsky_-_Pushkin_at_Ai-Petri_peak_during_sunrise.jpg","alt":"Ala Dağ","caption":"Ala Dağ","credit":"Aivazovsky - Pushkin at Ai-Petri peak during sunrise.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"Ala Dağ","caption":"Ala Dağ","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ala%20Da%C4%9F%20(Kocaeli)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31571684","tip":"genel"}]
 description: "Kocaeli'nin en önemli coğrafi oluşumlarından biri olan Ala Dağ, 1200 hektarlık yeşil alanı ile dikkat çekiyor."
 keywords: ["Ala Dağ","Kocaeli","Dağ","Doğa","Yeşil Alan","Coğrafi Oluşum","Turizm","Gezi","Kocaeli Turistik Yerler"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Deviyadıza Tepesi","caption":"Deviyadıza Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Deviyadıza Tepesi","caption":"Deviyadıza Tepesi","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deviyad%C4%B1za%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31546127","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin güzide illerinden biri olan Batman'da yer alan Deviyadıza Tepesi, bölgeye özgü coğrafi güzellikleriyle dikkat çekmektedir."
 keywords: ["Deviyadıza Tepesi","Batman","Güneydoğu Anadolu Bölgesi","Coğrafi güzellik","Doğa","Tarih","Gezi","Turizm"]

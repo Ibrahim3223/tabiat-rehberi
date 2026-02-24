@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Tar Tepe","caption":"Tar Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg/960px-Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg","alt":"Tar Tepe","caption":"Tar Tepe","credit":"Nevşehir Ürgüp","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31553506","tip":"genel"}]
 description: "Batman'da yer alan Tar Tepe, 1200 hektarlık yeşil alanı ile İstanbul'un yarısı kadar bir alanı kaplıyor"
 keywords: ["Tar Tepe","Batman","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Doğa Sporları"]

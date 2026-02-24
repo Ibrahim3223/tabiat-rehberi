@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yaban hayatı gözlemlemek","doğa yürüyüşleri yapmak","fotoğraf çekmek","dinlenmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Kurugöl","caption":"Kurugöl","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"Kurugöl","caption":"Kurugöl","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurug%C3%B6l","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228170","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık Kurugöl"
 keywords: ["Kurugöl","İç Anadolu Bölgesi","milli park","doğa","gezi","tatil","yaban hayatı","orman","göl"]

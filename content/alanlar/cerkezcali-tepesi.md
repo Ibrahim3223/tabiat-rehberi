@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","manzara seyri","photografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Çerkezçalı Tepesi","caption":"Çerkezçalı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Detail_of_west_elevation_bay_window%2C_interior._View_looking_northwest._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_HABS_VA%2C42-CLOV.V%2C2A-12.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Çerkezçalı Tepesi","caption":"Çerkezçalı Tepesi","credit":"Detail of west elevation bay window, interior. View looking northwest. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, HABS VA,42-CLOV.V,2A-12","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87erkez%C3%A7al%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34829016","tip":"genel"}]
 description: "Eskişehir'in doğal güzelliklerinden biri olan Çerkezçalı Tepesi, ziyaretçilerini şehrin merkezinden uzaklaşarak doğanın kucağına davet ediyor."
 keywords: ["Çerkezçalı Tepesi","Eskişehir","doğa","tepe","gezi","turizm","çevre","iklim","bitki","hayvan"]

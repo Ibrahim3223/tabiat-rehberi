@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["piknik yapma","yürüyüş yapma","ilica suyunu kullanma","sağlık turizmi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Arif_solak_BanazHamambogazi1.jpg","alt":"Karakaya Ilıcası","caption":"Karakaya Ilıcası","credit":"Arif solak BanazHamambogazi1","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_travertines_from_a_distance-_the_people_look_like_ants%21_%2816124352159%29.jpg/960px-The_travertines_from_a_distance-_the_people_look_like_ants%21_%2816124352159%29.jpg","alt":"Karakaya Ilıcası","caption":"Karakaya Ilıcası","credit":"The travertines from a distance- the people look like ants! (16124352159)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karakaya%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741940","tip":"genel"}]
 description: "Ankara'nın gizli cenneti Karakaya Ilıcası, 140 hektarlık bir alanı kaplayan termal bir kaynak"
 keywords: ["Karakaya Ilıcası","Ankara","termal kaynak","İç Anadolu Bölgesi","doğal güzellik","turizm","sağlık turizmi","kaplıca","ılıca"]

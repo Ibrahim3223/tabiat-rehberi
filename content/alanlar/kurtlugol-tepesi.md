@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kurtlugöl Tepesi","caption":"Kurtlugöl Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ida_Flooding_%287%29.jpg/960px-Ida_Flooding_%287%29.jpg","alt":"Kurtlugöl Tepesi","caption":"Kurtlugöl Tepesi","credit":"Ida Flooding (7)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtlug%C3%B6l%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32206160","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Kars ilinde bulunan Kurtlugöl Tepesi, zengin doğası ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kurtlugöl Tepesi","Kars","Doğu Anadolu Bölgesi","Doğa","Tarih","Gezi","Turizm","Kültür"]

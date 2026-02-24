@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğraf çekimi"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kur%C5%9Funlu_waterfall.JPG/960px-Kur%C5%9Funlu_waterfall.JPG","alt":"Kabaceviz Şelaleri","caption":"Kabaceviz Şelaleri","credit":"Kurşunlu waterfall","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Saimbeyli_Stream_-Saimbeyli_Deresi_02.jpg/960px-Saimbeyli_Stream_-Saimbeyli_Deresi_02.jpg","alt":"Kabaceviz Şelaleri","caption":"Kabaceviz Şelaleri","credit":"Saimbeyli Stream -Saimbeyli Deresi 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabaceviz%20%C5%9Eelaleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118928685","tip":"genel"}]
 description: "Samsun'un doğal güzelliklerinden biri olan Kabaceviz Şelaleri, Karadeniz Bölgesi'nde yer alıyor."
 keywords: ["Kabaceviz Şelaleri","Samsun","Karadeniz Bölgesi","doğal güzellik","şelale","gezi","turizm","çevre"]

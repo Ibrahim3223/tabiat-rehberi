@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaretleri","Yeşil alanlarda dinlenme","Plaj activities"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Ateşbaz-ı Veli Türbesi","caption":"Ateşbaz-ı Veli Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Maden_Koyu_Beach_2021-11-13-2.jpg/960px-Maden_Koyu_Beach_2021-11-13-2.jpg","alt":"Ateşbaz-ı Veli Türbesi","caption":"Ateşbaz-ı Veli Türbesi","credit":"Maden Koyu Beach 2021-11-13-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ate%C5%9Fbaz-%C4%B1%20Veli%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391383","tip":"genel"}]
 description: "Konya Meram'da bulunan tarihi türbe ve plaj"
 keywords: ["Ateşbaz-ı Veli","Türbe","Plaj","Konya","Meram","Tarihi mekanlar","İç Anadolu Bölgesi","Türbeler","Plajlar"]

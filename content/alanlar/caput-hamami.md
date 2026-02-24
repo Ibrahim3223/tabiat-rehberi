@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","yaban hayatı gözlemi","çevre keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Çaput Hamamı","caption":"Çaput Hamamı","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sunset_Tavakl%C4%B1.jpg/960px-Sunset_Tavakl%C4%B1.jpg","alt":"Çaput Hamamı","caption":"Çaput Hamamı","credit":"Sunset Tavaklı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87aput%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738712","tip":"genel"}]
 description: "Gümüşhane'nin doğal güzelliklerinden biri olan Çaput Hamamı, ziyaretçilerini doğanın kalbinde bir macera bekliyor."
 keywords: ["Gümüşhane","doğal güzellik","Çaput Hamamı","yaban hayatı","doğa yürüyüşü","göl","orman","vadi"]

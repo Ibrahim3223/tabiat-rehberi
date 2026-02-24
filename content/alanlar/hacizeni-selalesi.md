@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğrafçılık","doğa gözlemi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_A%C4%9Fa%C3%A7.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_-_%C5%9Eelalesi_B%C3%B6lgesi_-_Manzara_Foto%C4%9Fraf%C4%B1_-_A%C4%9Fa%C3%A7.jpg","alt":"Hacızeni Şelalesi","caption":"Hacızeni Şelalesi","credit":"Kurşunlu Şelalesi - Şelalesi Bölgesi - Manzara Fotoğrafı - Ağaç.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_06.JPG/960px-Spring_to_Pa%C4%9Fn%C4%B1k_Stream%2C_K%C4%B1z%C4%B1la%C4%9Fa%C3%A7_-_Saimbeyli_06.JPG","alt":"Hacızeni Şelalesi","caption":"Hacızeni Şelalesi","credit":"Spring to Pağnık Stream, Kızılağaç - Saimbeyli 06","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1zeni%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97320220","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli güzelliği, Hacızeni Şelalesi'ni keşfedin"
 keywords: ["Hacızeni Şelalesi","İç Anadolu Bölgesi","doğal güzellik","şelale","turizm","gezi","iç Anadolu","şehir dışı","doğa"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","bitki ve hayvan gözlemi","fotoğrafçılık","doğa eğitim programları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Adapazari-Izmit-Taskopru Saricam","caption":"Adapazari-Izmit-Taskopru Saricam","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg/960px-196-Yerk%C3%B6pr%C3%BC_%C5%9Eelalesi_Tabiat_Park%C4%B1_Mersin.jpg","alt":"Adapazari-Izmit-Taskopru Saricam","caption":"Adapazari-Izmit-Taskopru Saricam","credit":"196-Yerköprü Şelalesi Tabiat Parkı Mersin","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Izmit-Taskopru%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227969","tip":"genel"}]
 description: "İç Anadolu'nun gizli cenneti, Saricam Milli Parkı"
 keywords: ["Adapazari","Izmit","Taskopru","Saricam","Milli Park","İç Anadolu Bölgesi","doğa","turizm","gezi","yerel"]

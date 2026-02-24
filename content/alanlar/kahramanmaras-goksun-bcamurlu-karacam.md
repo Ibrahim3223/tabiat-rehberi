@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","kuş gözlemciliği","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kahramanmaras-Goksun-B.Camurlu Karacam","caption":"Kahramanmaras-Goksun-B.Camurlu Karacam","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kad%C4%B1nc%C4%B1k_Valley_2.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_2.jpg","alt":"Kahramanmaras-Goksun-B.Camurlu Karacam","caption":"Kahramanmaras-Goksun-B.Camurlu Karacam","credit":"Kadıncık Valley 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Goksun-B.Camurlu%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227518","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan milli park, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Kahramanmaras","Goksun","B.Camurlu Karacam","milli park","İç Anadolu Bölgesi","yeşil alan","futbol sahası","doğa","ekosistem"]

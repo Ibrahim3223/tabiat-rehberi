@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sis_da%C4%9F%C4%B1_%285%29.jpg/960px-Sis_da%C4%9F%C4%B1_%285%29.jpg","alt":"Giresun-Dereli-Ikisu-Dugu Ladini","caption":"Giresun-Dereli-Ikisu-Dugu Ladini","credit":"Sis dağı (5).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"Giresun-Dereli-Ikisu-Dugu Ladini","caption":"Giresun-Dereli-Ikisu-Dugu Ladini","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Giresun-Dereli-Ikisu-Dugu%20Ladini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228549","tip":"genel"}]
 description: "Giresun ilinin Dereli ilçesinde bulunan milli park, yeşilin her tonunu barındıran bir doğa harikası"
 keywords: ["Giresun","Dereli","Ikisu","Dugu Ladini","Milli Park","Doğa","Yeşil","Karadeniz Bölgesi"]

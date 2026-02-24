@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Turgutlar Hamamı","caption":"Turgutlar Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/1%2C000_shades_of_the_sea.jpg/960px-1%2C000_shades_of_the_sea.jpg","alt":"Turgutlar Hamamı","caption":"Turgutlar Hamamı","credit":"1,000 shades of the sea","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turgutlar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738695","tip":"genel"}]
 description: "Sinop'un gizli cenneti Turgutlar Hamamı, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Sinop","Turgutlar Hamamı","Karadeniz Bölgesi","yeşil alan","plaj","deniz","doğa"]

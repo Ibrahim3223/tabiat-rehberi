@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Yerkuyu Tepesi","caption":"Yerkuyu Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Yerkuyu Tepesi","caption":"Yerkuyu Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yerkuyu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386540","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin güzide illerinden Hatay'da yer alan Yerkuyu Tepesi, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Yerkuyu Tepesi","Hatay","Akdeniz Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara"]

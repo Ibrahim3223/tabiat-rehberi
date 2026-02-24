@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğrafçılık","doğa gözlemi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kocaorman Tepesi","caption":"Kocaorman Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%284%29.jpg/960px-Ida_Flooding_%284%29.jpg","alt":"Kocaorman Tepesi","caption":"Kocaorman Tepesi","credit":"Ida Flooding (4)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kocaorman%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31563644","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin en önemli doğal güzelliklerinden biri olan Kocaorman Tepesi, Bolu ilinin sınırları içerisinde yer alıyor. 140 hektarlık bu yeşil alan, yaklaşık 200 futbol sahası büyüklüğünde ve zengin flora ile fauna çeşitliliği sunuyor."
 keywords: ["Kocaorman Tepesi","Bolu","Karadeniz Bölgesi","doğal güzellik","flora","fauna","yeşil alan"]

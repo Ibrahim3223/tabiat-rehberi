@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_04.jpg","alt":"Sarımsak Dağı","caption":"Sarımsak Dağı","credit":"Kayaözü Creek Valley, Kahramanmaraş 04.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg/960px-Kars_Yaylas%C4%B1_06_1989_Dumanl%C4%B1_Da%C4%9F%C4%B1.jpg","alt":"Sarımsak Dağı","caption":"Sarımsak Dağı","credit":"Kars Yaylası 06 1989 Dumanlı Dağı","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1msak%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31507264","tip":"genel"}]
 description: "Kahramanmaraş'ta yer alan Sarımsak Dağı, bölgenin önemli doğal güzelliklerinden biri"
 keywords: ["Sarımsak Dağı","Kahramanmaraş","Dağ","Doğa","Turizm","Gezi","Kahramanmaraş gezilecek yerler","Sarımsak Dağı hakkında","Doğal güzellikler"]

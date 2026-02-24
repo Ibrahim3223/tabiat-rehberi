@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["yüzme","güneşlenme","deniz keyfi","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Kalehisar Hamamı","caption":"Kalehisar Hamamı","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Kalehisar Hamamı","caption":"Kalehisar Hamamı","credit":"Karaburun - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalehisar%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739196","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Kalehisar Hamamı, Alaca/Çorum'da bulunan bir plajdır."
 keywords: ["Kalehisar Hamamı","Alaca","Çorum","Karadeniz Bölgesi","plaj","deniz","kum"]

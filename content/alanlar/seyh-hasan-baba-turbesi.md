@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","tarihi mekanları ziyaret","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/ZEYN%C4%B0LER_KABR%C4%B0STANI_BURSA_-_panoramio_%281%29.jpg","alt":"Şeyh Hasan Baba Türbesi manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aegean_Sea_%28MODIS_2017-07-04%29.jpg/960px-Aegean_Sea_%28MODIS_2017-07-04%29.jpg","alt":"Şeyh Hasan Baba Türbesi","caption":"Şeyh Hasan Baba Türbesi","credit":"Aegean Sea (MODIS 2017-07-04)","license":"Public domain"}
   gallery: [{"url":"https://upload.wikimedia.org/wikipedia/commons/7/7f/Birecik_Sheikh_Hasan_Baba_Tomb_in_Urfa_%2814042642349%29.jpg","thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Birecik_Sheikh_Hasan_Baba_Tomb_in_Urfa_%2814042642349%29.jpg/1280px-Birecik_Sheikh_Hasan_Baba_Tomb_in_Urfa_%2814042642349%29.jpg","alt":"Şeyh Hasan Baba Türbesi - Birecik Sheikh Hasan Baba Tomb in Urfa (14042642349)","credit":"SALTOnline","license":"CC BY-SA"}]
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Hasan%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390946","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerinin bir araya geldiği Şeyh Hasan Baba Türbesi, ziyaretçilerine unutulmaz bir deneyim sunuyor."

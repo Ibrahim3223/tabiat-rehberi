@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Çevre gezisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Kazancı Baba Sultan Türbesi","caption":"Kazancı Baba Sultan Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Beach_Karabashi_%28black_head%29_-_panoramio.jpg/960px-Beach_Karabashi_%28black_head%29_-_panoramio.jpg","alt":"Kazancı Baba Sultan Türbesi","caption":"Kazancı Baba Sultan Türbesi","credit":"Beach Karabashi (black head) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kazanc%C4%B1%20Baba%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390675","tip":"genel"}]
 description: "Ankara'nın Kalecik ilçesinde bulunan tarihi bir türbe olan Kazancı Baba Sultan Türbesi, ziyaretçiler için önemli bir kültür merkezi."
 keywords: ["Kazancı Baba Sultan Türbesi","Kalecik","Ankara","İç Anadolu Bölgesi","Türbe","Tarih","Kültür"]

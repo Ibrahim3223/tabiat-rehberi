@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["şelaleyi ziyaret etmek","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1.jpg","alt":"Koçkabanı Şelalesi","caption":"Koçkabanı Şelalesi","credit":"Kurşunlu Şelalesi Tabiat Parkı","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tortum1.jpg/960px-Tortum1.jpg","alt":"Koçkabanı Şelalesi","caption":"Koçkabanı Şelalesi","credit":"Tortum1","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ko%C3%A7kaban%C4%B1%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q61076492","tip":"genel"}]
 description: "Rize'nin güzide şelalelerinden biri olan Koçkabanı Şelalesi, doğa severlerin ziyaret noktalarından."
 keywords: ["Koçkabanı Şelalesi","Rize","Karadeniz Bölgesi","şelaleler","doğa","turizm","gezi"]

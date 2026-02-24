@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kamp","kuş gözlemciliği","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Adapazari-Izmit-Taskopru Karacam","caption":"Adapazari-Izmit-Taskopru Karacam","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg","alt":"Adapazari-Izmit-Taskopru Karacam","caption":"Adapazari-Izmit-Taskopru Karacam","credit":"Gölcük Tabiat Parkı Bolu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adapazari-Izmit-Taskopru%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227923","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan doğal güzellik"
 keywords: ["Adapazari-Izmit-Taskopru Karacam","İç Anadolu Bölgesi","doğal güzellik","milli park","gezi","turizm","çevre","ekosistem"]

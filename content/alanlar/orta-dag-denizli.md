@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/IMG-20210119-WA0092.jpg/960px-IMG-20210119-WA0092.jpg","alt":"Orta Dağ (Denizli)","caption":"Orta Dağ (Denizli)","credit":"IMG-20210119-WA0092","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Orta Dağ (Denizli)","caption":"Orta Dağ (Denizli)","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Orta%20Da%C4%9F%20(Denizli)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31509462","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Orta Dağ, Denizli ilinde yer alır ve 1200 hektarlık yeşil alanı ile dikkat çeker."

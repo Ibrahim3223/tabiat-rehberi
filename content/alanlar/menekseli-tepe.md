@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","fotoğraf çekme","doğa gözlemi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Menekşeli Tepe","caption":"Menekşeli Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d9/IDA_MAY_DAVIS.jpg","alt":"Menekşeli Tepe","caption":"Menekşeli Tepe","credit":"IDA MAY DAVIS","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Menek%C5%9Feli%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390201","tip":"genel"}]
 description: "Burdur'un doğal güzellikleri arasında yer alan Menekşeli Tepe, ziyaretçiler için unutulmaz bir deneyim sunuyor."
 keywords: ["Menekşeli Tepe","Burdur","Akdeniz Bölgesi","doğa","gezi","tepe","manzara","çevre","ekosistem"]

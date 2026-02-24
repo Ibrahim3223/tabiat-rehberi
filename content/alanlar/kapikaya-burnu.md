@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abandoned_blue.jpg/960px-Abandoned_blue.jpg","alt":"Kapıkaya Burnu","caption":"Kapıkaya Burnu","credit":"Abandoned blue","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sierp%C3%B3wka_zwyczajna_w_R%C5%BCuchowie_w_wojew%C3%B3dztwie_%C5%9Bwi%C4%99tokrzyskim%2C_20250421_0903_4128.jpg/960px-Sierp%C3%B3wka_zwyczajna_w_R%C5%BCuchowie_w_wojew%C3%B3dztwie_%C5%9Bwi%C4%99tokrzyskim%2C_20250421_0903_4128.jpg","alt":"Kapıkaya Burnu","caption":"Kapıkaya Burnu","credit":"Sierpówka zwyczajna w Rżuchowie w województwie świętokrzyskim, 20250421 0903 4128","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kap%C4%B1kaya%20Burnu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34957575","tip":"genel"}]
 description: "Çanakkale'de bulunan Kapıkaya Burnu, 1200 hektarlık bir kuş cenneti olarak bilinir ve İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplar."
 keywords: ["Kapıkaya Burnu","Çanakkale","kuş cenneti","doğa alanı","turistik yerler","Çanakkale turizm","kuş gözlem","doğa yürüyüşü","çevre turizmi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Fotoğraf çekimi","Picnic","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Gürcüdüzü Şelalesi","caption":"Gürcüdüzü Şelalesi","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ward_and_Lock%27s_descriptive_and_pictorial_guide_to_the_Isle_of_Man_-_towns%2C_mountains%2C_glens%2C_waterfalls%2C_legends%2C_romantic_associations%2C_and_history_-_how_to_reach_the_island%2C_routes%2C_distances%2C_%2814598383569%29.jpg/960px-thumbnail.jpg","alt":"Gürcüdüzü Şelalesi","caption":"Gürcüdüzü Şelalesi","credit":"Ward and Lock's descriptive and pictorial guide to the Isle of Man - towns, mountains, glens, waterfalls, legends, romantic associations, and history - how to reach the island, routes, distances, (14598383569)","license":"No restrictions"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BCd%C3%BCz%C3%BC%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q97211591","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfetmenin keyfi, Gürcüdüzü Şelalesi'nde başlar. 140 hektarlık yeşil alan, çeşitli bitki türleri ve zengin fauna ile ziyaretçilerini bekliyor."
 keywords: ["Gürcüdüzü Şelalesi","Rize","Karadeniz Bölgesi","doğal güzellik","yeşil alan","bitki türleri","fauna"]

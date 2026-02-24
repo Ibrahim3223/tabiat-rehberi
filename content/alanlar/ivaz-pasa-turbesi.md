@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"İvaz Paşa Türbesi","caption":"İvaz Paşa Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"İvaz Paşa Türbesi","caption":"İvaz Paşa Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0vaz%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391402","tip":"genel"}]
 description: "Manisa'nın Yunusemre ilçesinde yer alan İvaz Paşa Türbesi, tarihin derinliklerinden gelen bir geçmişe sahip."
 keywords: ["İvaz Paşa Türbesi","Manisa","Yunusemre","tarih","türbe","gezi","manisa gezisi","yunusemre gezisi","tarihi mekanlar"]

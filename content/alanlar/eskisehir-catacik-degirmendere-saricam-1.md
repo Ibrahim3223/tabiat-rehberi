@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğraf çekmek","Picnic","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Eskişehir-Catacik-Degirmendere Saricam 1","caption":"Eskişehir-Catacik-Degirmendere Saricam 1","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_01.jpg","alt":"Eskişehir-Catacik-Degirmendere Saricam 1","caption":"Eskişehir-Catacik-Degirmendere Saricam 1","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Eski%C5%9Fehir-Catacik-Degirmendere%20Saricam%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227574","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide illerinden Eskişehir'de bulunan bu milli park, doğaseverlerin gözdesi."
 keywords: ["Eskişehir","Catacik","Degirmendere","Saricam 1","milli park","İç Anadolu Bölgesi","doğa","turizm"]

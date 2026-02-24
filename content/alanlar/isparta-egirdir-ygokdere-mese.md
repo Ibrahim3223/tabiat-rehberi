@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Bitki ve hayvan türleri hakkında bilgi edinme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/P_20180323_124555.jpg/960px-P_20180323_124555.jpg","alt":"Isparta-Egirdir-Y.gokdere Mese","caption":"Isparta-Egirdir-Y.gokdere Mese","credit":"P 20180323 124555.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"Isparta-Egirdir-Y.gokdere Mese","caption":"Isparta-Egirdir-Y.gokdere Mese","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Isparta-Egirdir-Y.gokdere%20Mese","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227706","tip":"genel"}]
 description: "Isparta'nın doğal güzelliklerini keşfedin. 140 hektarlık milli park, zengin flora ve fauna ile dikkat çekiyor."
 keywords: ["Isparta","Egirdir","Y.gokdere Mese","Milli Park","Doğa","Flora","Fauna","Isparta Turizm","Akdeniz Bölgesi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scenery_%28Antalya%29.jpg","alt":"Keriz Dağı","caption":"Keriz Dağı","credit":"Güver Canyon Scenery (Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg/960px-Bey%C5%9Fehir_G%C3%B6l%C3%BC_18_04_1992_mit_den_Dedeg%C3%B6l_Da%C4%9Flar.jpg","alt":"Keriz Dağı","caption":"Keriz Dağı","credit":"Beyşehir Gölü 18 04 1992 mit den Dedegöl Dağlar","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Keriz%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31515621","tip":"genel"}]
 description: "Antalya'nın doğal güzelliklerini keşfedin, Keriz Dağı'nda doğa yürüyüşü ve panorama manzaraları"
 keywords: ["Keriz Dağı","Antalya","Dağ","Doğa Yürüyüşü","Panorama Manzaraları","Turizm","Gezi Rehberi","Antalya Turistik Yerler","Doğa Sporları"]

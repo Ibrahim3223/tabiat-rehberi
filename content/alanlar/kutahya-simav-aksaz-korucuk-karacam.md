@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Kutahya-Simav-Aksaz (Korucuk) Karacam","caption":"Kutahya-Simav-Aksaz (Korucuk) Karacam","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-1.jpg","alt":"Kutahya-Simav-Aksaz (Korucuk) Karacam","caption":"Kutahya-Simav-Aksaz (Korucuk) Karacam","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-1","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Simav-Aksaz%20(Korucuk)%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227528","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Kutahya-Simav-Aksaz (Korucuk) Karacam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Kutahya","Simav","Aksaz","Korucuk","Karacam","İç Anadolu Bölgesi","yeşil alan","fiziksel veriler","coğrafya","tarihçe"]

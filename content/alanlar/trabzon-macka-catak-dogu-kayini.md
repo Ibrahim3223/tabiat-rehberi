@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Kampçılık","Yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sis_da%C4%9F%C4%B1_%281%29.jpg/960px-Sis_da%C4%9F%C4%B1_%281%29.jpg","alt":"Trabzon-Macka-Catak Dogu Kayini","caption":"Trabzon-Macka-Catak Dogu Kayini","credit":"Sis dağı (1).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Trabzon-Macka-Catak Dogu Kayini","caption":"Trabzon-Macka-Catak Dogu Kayini","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon-Macka-Catak%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227796","tip":"genel"}]
 description: "Trabzon'un doğal güzelliklerini keşfedin. 140 hektarlık milli park, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Trabzon","Macka","Catak","Dogu Kayini","milli park","doğa","gezi","turizm","Karadeniz Bölgesi"]

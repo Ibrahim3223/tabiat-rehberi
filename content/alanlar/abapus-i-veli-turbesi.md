@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Meditasyon"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abapuş-i Veli Türbesi","caption":"Abapuş-i Veli Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Abapuş-i Veli Türbesi","caption":"Abapuş-i Veli Türbesi","credit":"Akdeniz","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abapu%C5%9F-i%20Veli%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390613","tip":"genel"}]
 description: "Afyonkarahisar'ın gizli kalmış güzelliği Abapuş-i Veli Türbesi, tarihi ve doğası ile ziyaretçilerini büyülüyor."
 keywords: ["Abapuş-i Veli Türbesi","Afyonkarahisar","tarih","doğa","türbe","gezi","Ege Bölgesi"]

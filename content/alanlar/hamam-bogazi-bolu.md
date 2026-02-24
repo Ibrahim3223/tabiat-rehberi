@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Hamam Boğazı (Bolu)","caption":"Hamam Boğazı (Bolu)","credit":"VallesMarinerisHuge","license":"Attribution"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Catawba_rhododendrons_bloom_on_the_rim_of_the_gorge_at_Turkey_Spur._%282b6fd307-c9b4-480d-994c-d9bfd063168c%29.JPG/960px-Catawba_rhododendrons_bloom_on_the_rim_of_the_gorge_at_Turkey_Spur._%282b6fd307-c9b4-480d-994c-d9bfd063168c%29.JPG","alt":"Hamam Boğazı (Bolu)","caption":"Hamam Boğazı (Bolu)","credit":"Catawba rhododendrons bloom on the rim of the gorge at Turkey Spur. (2b6fd307-c9b4-480d-994c-d9bfd063168c)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%20Bo%C4%9Faz%C4%B1%20(Bolu)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49342926","tip":"genel"}]
 description: "Bolu'da yer alan Hamam Boğazı, 1200 hektarlık yeşil cenneti ve doğal güzelliği ile dikkat çeker."
 keywords: ["Hamam Boğazı","Bolu","kanyon","doğal alan","turizm","gezi","Bolu gezilecek yerler","kanyonlar","doğa yürüyüşü"]

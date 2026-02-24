@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografçılık"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snow_on_the_Lake_Abant.jpg/960px-Snow_on_the_Lake_Abant.jpg","alt":"Adana-Pos-Karsanti Kızılçam 2","caption":"Adana-Pos-Karsanti Kızılçam 2","credit":"Snow on the Lake Abant","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"Adana-Pos-Karsanti Kızılçam 2","caption":"Adana-Pos-Karsanti Kızılçam 2","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Pos-Karsanti%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227408","tip":"genel"}]
 description: "Adana'nın yeşilliğiyle çevrili milli parkı, 140 hektarlık alanıyla ziyaretçilerini bekliyor."
 keywords: ["Adana","milli park","Karsanti","Kızılçam","yeşillik","doğa","gezi","turizm"]

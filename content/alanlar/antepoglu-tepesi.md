@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarihî araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Fairy_Chimneys_-_panoramio_%282%29.jpg/960px-Fairy_Chimneys_-_panoramio_%282%29.jpg","alt":"Antepoğlu Tepesi","caption":"Antepoğlu Tepesi","credit":"Fairy Chimneys - panoramio (2).jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-20.tif/lossy-page1-900px-Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-20.tif.jpg","alt":"Antepoğlu Tepesi","caption":"Antepoğlu Tepesi","credit":"Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-20","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antepo%C4%9Flu%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390597","tip":"genel"}]
 description: "Nevşehir'in görkemli tepelerinden biri olan Antepoğlu Tepesi, ziyaretçilerini tarihi ve doğal güzelliklerle karşılar."
 keywords: ["Antepoğlu Tepesi","Nevşehir","İç Anadolu Bölgesi","tepe","doğa","tarih","gezi","turizm","kültür"]

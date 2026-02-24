@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ve çevresini gezmek","Doğal güzellikleri keşfetmek","Yerel lezzetleri tadın"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Derviş Ağa Türbesi","caption":"Derviş Ağa Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/A_beach_near_Phaselis_2021-02-26-3.jpg/960px-A_beach_near_Phaselis_2021-02-26-3.jpg","alt":"Derviş Ağa Türbesi","caption":"Derviş Ağa Türbesi","credit":"A beach near Phaselis 2021-02-26-3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dervi%C5%9F%20A%C4%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391488","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini keşfedin. Derviş Ağa Türbesi, Yakutiye, Erzurum'da yer alan önemli bir turistik nokta."
 keywords: ["Derviş Ağa Türbesi","Yakutiye","Erzurum","Doğu Anadolu Bölgesi","tarihi mekanlar","turistik yerler","doğal güzellikler"]

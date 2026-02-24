@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Mevlana'nın annesi ve ailesinin mezarlarını ziyaret etmek","Türbenin tarihi geçmişi hakkında bilgi edinmek","Bölgenin flora ve faunasını keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Hz. Mevlana’nın Validesi ve Ailesi Türbesi","caption":"Hz. Mevlana’nın Validesi ve Ailesi Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sunset_Tavakl%C4%B1.jpg/960px-Sunset_Tavakl%C4%B1.jpg","alt":"Hz. Mevlana’nın Validesi ve Ailesi Türbesi","caption":"Hz. Mevlana’nın Validesi ve Ailesi Türbesi","credit":"Sunset Tavaklı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hz.%20Mevlana%E2%80%99n%C4%B1n%20Validesi%20ve%20Ailesi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390850","tip":"genel"}]
 description: "Karaman'da bulunan tarihi türbe, Mevlana'nın annesi ve ailesinin mezarlarını barındırır. Ziyaretçiler için önemli bir dini ve kültürel merkez."
 keywords: ["Hz. Mevlana","Karaman","tarih","türbe","dini merkez","kültürel değer","gezi","ziyaret","İç Anadolu Bölgesi"]

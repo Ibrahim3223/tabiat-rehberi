@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["ormanlık alanda yürüyüş","tepeye tırmanmak","manzara seyretmek","geleneksel köy yaşamını deneyimlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Paolo_Monti_-_Serie_fotografica_%28T%C3%BCrkiye%2C_1962%29_-_BEIC_6333361.jpg/960px-Paolo_Monti_-_Serie_fotografica_%28T%C3%BCrkiye%2C_1962%29_-_BEIC_6333361.jpg","alt":"Kaplıca Tepesi","caption":"Kaplıca Tepesi","credit":"Paolo Monti - Serie fotografica (Türkiye, 1962) - BEIC 6333361.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Second_floor_hall._View_looking_northeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-15.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Kaplıca Tepesi","caption":"Kaplıca Tepesi","credit":"Second floor hall. View looking northeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-15","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kapl%C4%B1ca%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31565988","tip":"genel"}]
 description: "İstanbul'un Marmara Bölgesi'nde yer alan Kaplıca Tepesi, yaklaşık 140 hektarlık yeşil alanıyla ziyaretçilerini cezbediyor."
 keywords: ["Kaplıca Tepesi","İstanbul","Marmara Bölgesi","yeşil alan","turistik yerler","coğrafya","flora","fauna","ziyaret"]

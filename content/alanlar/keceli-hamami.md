@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["doğa yürüyüşü","su sporları","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Keçeli Hamamı","caption":"Keçeli Hamamı","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Istanbul_beaches-_Sea_of_Marmara_03.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_03.jpg","alt":"Keçeli Hamamı","caption":"Keçeli Hamamı","credit":"Istanbul beaches- Sea of Marmara 03","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ke%C3%A7eli%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738651","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde yer alan Keçeli Hamamı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Bursa","Osmangazi","Keçeli Hamamı","yeşil alan","plaj","Marmara Bölgesi","doğal alanlar","turizm"]

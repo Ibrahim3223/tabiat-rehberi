@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Plaj faaliyetleri","Anıt gezisi","Kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Hamidiye Köyü Şehitlik Anıtı","caption":"Hamidiye Köyü Şehitlik Anıtı","credit":"Old Pier.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hamidiye Köyü Şehitlik Anıtı","caption":"Hamidiye Köyü Şehitlik Anıtı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamidiye%20K%C3%B6y%C3%BC%20%C5%9Eehitlik%20An%C4%B1t%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728094","tip":"genel"}]
 description: "Kastamonu'nun Çatalzeytin ilçesinde bulunan Hamidiye Köyü Şehitlik Anıtı, tarihi ve doğal güzellikleri bir araya getiren özel bir mekan."
 keywords: ["Hamidiye Köyü","Şehitlik Anıtı","Çatalzeytin","Kastamonu","Karadeniz Bölgesi","tarih","doğa","gezi"]

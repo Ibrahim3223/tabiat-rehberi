@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî yapıları gezmek","plajda dinlenmek","çevre gezileri yapmak","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Hoca Cihan Türbesi","caption":"Hoca Cihan Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kabak_Valley%2C_Turkey.JPG/960px-Kabak_Valley%2C_Turkey.JPG","alt":"Hoca Cihan Türbesi","caption":"Hoca Cihan Türbesi","credit":"Kabak Valley, Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hoca%20Cihan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391487","tip":"genel"}]
 description: "Konya'nın Selçuklu ilçesinde bulunan tarihi bir türbe ve plaj"
 keywords: ["Hoca Cihan Türbesi","Selçuklu","Konya","tarih","plaj","gezi","turizm","İç Anadolu Bölgesi","tarihi mekanlar"]

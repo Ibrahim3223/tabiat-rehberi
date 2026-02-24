@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/View_to_chios_island_5_-_panoramio.jpg/960px-View_to_chios_island_5_-_panoramio.jpg","alt":"İkizkardeşler Adası","caption":"İkizkardeşler Adası","credit":"View to chios island 5 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Monastery%2C_Princes_Islands%2C_1838.jpg","alt":"İkizkardeşler Adası","caption":"İkizkardeşler Adası","credit":"Monastery, Princes Islands, 1838","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0kizkarde%C5%9Fler%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34795592","tip":"genel"}]
 description: "İzmir'in güzide adalarından biri olan İkizkardeşler Adası, 1200 hektarlık yeşil alanıyla İstanbul'un neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["İkizkardeşler Adası","İzmir Adaları","İzmir Turizm","Ada Gezileri","Yeşil Alanlar","Doğa Turizmi","İzmir Gezi Rehberi","Türkiye Adaları","Ege Bölgesi"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Çatalçam Tepe","caption":"Çatalçam Tepe","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Erzincan_Refahiye.jpg/960px-Erzincan_Refahiye.jpg","alt":"Çatalçam Tepe","caption":"Çatalçam Tepe","credit":"Erzincan Refahiye","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atal%C3%A7am%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824300","tip":"genel"}]
 description: "Sivas'ta bulunan Çatalçam Tepe, 1400 metre yüksekliğiyle dikkat çeker. Doğal güzelliği ve trekking rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Çatalçam Tepe","Sivas","Dağ","Trekking","Doğa","Turizm","Sivas Turistik Yerler","Dağcılık","Yürüyüş Rotaları"]

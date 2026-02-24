@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["yüzme","güneşlenme","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Kemer Gubbe","caption":"Kemer Gubbe","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Istanbul_beaches-_Sea_of_Marmara_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_10.jpg","alt":"Kemer Gubbe","caption":"Kemer Gubbe","credit":"Istanbul beaches- Sea of Marmara 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kemer%20Gubbe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391671","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'ndeki doğal güzellik, Kemer Gubbe plajı"
 keywords: ["Kemer Gubbe","Arguvan","Malatya","Doğu Anadolu Bölgesi","plaj","doğal güzellik","turizm","gezi"]

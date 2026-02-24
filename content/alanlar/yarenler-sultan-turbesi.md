@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","plaj aktiviteleri","bitki gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Yarenler Sultan Türbesi","caption":"Yarenler Sultan Türbesi","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Elmasburnu.jpg/960px-Elmasburnu.jpg","alt":"Yarenler Sultan Türbesi","caption":"Yarenler Sultan Türbesi","credit":"Elmasburnu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yarenler%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390628","tip":"genel"}]
 description: "Afyonkarahisar'da bulunan tarihi türbe ve plaj alanı"
 keywords: ["Afyonkarahisar","Ege Bölgesi","tarih","türbe","plaj","doğa","gezi","turizm"]

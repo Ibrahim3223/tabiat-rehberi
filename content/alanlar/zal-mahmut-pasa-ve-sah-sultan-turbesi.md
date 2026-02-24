@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Çevre keşfi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Zal Mahmut Paşa ve Şah Sultan Türbesi","caption":"Zal Mahmut Paşa ve Şah Sultan Türbesi","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg/960px-Manzara_Aralik_2009_%28G%C3%96KOVA%29_-_panoramio.jpg","alt":"Zal Mahmut Paşa ve Şah Sultan Türbesi","caption":"Zal Mahmut Paşa ve Şah Sultan Türbesi","credit":"Manzara Aralik 2009 (GÖKOVA) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zal%20Mahmut%20Pa%C5%9Fa%20ve%20%C5%9Eah%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391114","tip":"genel"}]
 description: "İstanbul'un tarihi ve kültürel değerlerini keşfedin"
 keywords: ["Zal Mahmut Paşa","Şah Sultan","Türbe","Eyüpsultan","İstanbul","Marmara Bölgesi","Tarih","Kültür"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "iki-üç saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Solakkaya Tepesi","caption":"Solakkaya Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fountain_at_Mount_Ida.jpg/960px-Fountain_at_Mount_Ida.jpg","alt":"Solakkaya Tepesi","caption":"Solakkaya Tepesi","credit":"Fountain at Mount Ida","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Solakkaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31536078","tip":"genel"}]
 description: "Hatay'ın tarihi ve doğal güzellikleri arasında yer alan Solakkaya Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Solakkaya Tepesi","Hatay","Akdeniz Bölgesi","tepe","doğa","tarih"]

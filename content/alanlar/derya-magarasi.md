@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ayd%C4%B1nc%C4%B1k_Cave.jpg/960px-Ayd%C4%B1nc%C4%B1k_Cave.jpg","alt":"Derya Mağarası","caption":"Derya Mağarası","credit":"Aydıncık Cave","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cave-Rock%2C_Saimbeyli_01.jpg/960px-Cave-Rock%2C_Saimbeyli_01.jpg","alt":"Derya Mağarası","caption":"Derya Mağarası","credit":"Cave-Rock, Saimbeyli 01","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Derya%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Antalya'da bulunan Derya Mağarası, doğal güzelliği ile dikkat çekiyor. 1200 hektarlık yeşil alan içinde yer alan mağara, ziyaretçilerini bekliyor."
 keywords: ["Derya Mağarası","Antalya","Mağara","Doğa","Turizm","Gezi","Antalya Turistik Yerler","Mağaralar","Doğal Güzellik"]

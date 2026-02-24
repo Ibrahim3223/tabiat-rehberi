@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotograf"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Gaziyiğit Tepesi","caption":"Gaziyiğit Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ida_Flooding_%2818%29.jpg/960px-Ida_Flooding_%2818%29.jpg","alt":"Gaziyiğit Tepesi","caption":"Gaziyiğit Tepesi","credit":"Ida Flooding (18)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gaziyi%C4%9Fit%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388831","tip":"genel"}]
 description: "Tekirdağ'da bulunan Gaziyiğit Tepesi, Marmara Bölgesi'nin önemli doğal alanlarından biridir."
 keywords: ["Gaziyiğit Tepesi","Tekirdağ","Marmara Bölgesi","doğal alan","tepe","coğrafya","flora","fauna","ziyaret"]

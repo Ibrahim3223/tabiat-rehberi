@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","plaj faaliyetleri","kuş gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Büklü Baba Sultan Türbesi","caption":"Büklü Baba Sultan Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg","alt":"Büklü Baba Sultan Türbesi","caption":"Büklü Baba Sultan Türbesi","credit":"2023-11-04 Choban beach near Kaş 5","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCkl%C3%BC%20Baba%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390851","tip":"genel"}]
 description: "Karaman'ın Sarıveliler ilçesinde bulunan Büklü Baba Sultan Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir destinasyon."
 keywords: ["Büklü Baba Sultan Türbesi","Sarıveliler","Karaman","tarih","doğa","türbe","gezi","kültür"]

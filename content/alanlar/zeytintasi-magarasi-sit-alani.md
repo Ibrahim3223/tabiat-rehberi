@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Zeytintaşı Mağarası Sit Alanı","caption":"Zeytintaşı Mağarası Sit Alanı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Genel_Bak%C4%B1%C5%9F.jpg","alt":"Zeytintaşı Mağarası Sit Alanı","caption":"Zeytintaşı Mağarası Sit Alanı","credit":"Gölcük Tabiat Parkı Genel Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Zeytinta%C5%9F%C4%B1%20Ma%C4%9Faras%C4%B1%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226649","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin saklı güzelliği, Zeytintaşı Mağarası Sit Alanı"
 keywords: ["Zeytintaşı Mağarası","Sit Alanı","İç Anadolu Bölgesi","doğa","gezi","turizm"]

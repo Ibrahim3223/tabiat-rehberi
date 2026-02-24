@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","çiçek izleme","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Antalya-Antalya-Antalya-Kızılçam 1","caption":"Antalya-Antalya-Antalya-Kızılçam 1","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg/960px-Abant_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_2.jpg","alt":"Antalya-Antalya-Antalya-Kızılçam 1","caption":"Antalya-Antalya-Antalya-Kızılçam 1","credit":"Abant Gölü Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Antalya-Antalya-Antalya-K%C4%B1z%C4%B1l%C3%A7am%201","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228440","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin gözde milli parkı, 140 hektarlık yeşil alanıyla doğaseverleri bekliyor."
 keywords: ["Antalya","milli park","Kızılçam","Akdeniz Bölgesi","doğa","yeşil alan","turizm","gezi"]

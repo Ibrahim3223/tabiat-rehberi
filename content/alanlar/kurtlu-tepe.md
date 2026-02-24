@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Piknik","Doğa fotoğrafçılığı","Rehberli turlar"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Piknik_Alan%C4%B1..._-_panoramio.jpg/960px-Piknik_Alan%C4%B1..._-_panoramio.jpg","alt":"Kurtlu Tepe","caption":"Kurtlu Tepe","credit":"Piknik Alanı... - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ida_Flooding_%283%29.jpg/960px-Ida_Flooding_%283%29.jpg","alt":"Kurtlu Tepe","caption":"Kurtlu Tepe","credit":"Ida Flooding (3)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtlu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31385572","tip":"genel"}]
 description: "Erzincan'ın gizli doğa harikaları arasında yer alan Kurtlu Tepe, ziyaretçilerini büyüleyen bir güzelliğe sahip."
 keywords: ["Erzincan","Doğu Anadolu Bölgesi","Kurtlu Tepe","Doğa","Tarih","Coğrafya"]

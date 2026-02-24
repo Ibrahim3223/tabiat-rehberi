@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Bir gün"
 aktiviteler: ["Denize girme","Deniz kıyısında yürüyüş","Tarihi yapıları keşfetme","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Şeyh Ömer Kümbeti","caption":"Şeyh Ömer Kümbeti","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Altinkum_Beaches_39_%28October2009%29_-_panoramio.jpg/960px-Altinkum_Beaches_39_%28October2009%29_-_panoramio.jpg","alt":"Şeyh Ömer Kümbeti","caption":"Şeyh Ömer Kümbeti","credit":"Altinkum Beaches 39 (October2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C3%96mer%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582629","tip":"genel"}]
 description: "Gülnar, Mersin'de yer alan tarihi ve doğal güzelliklerin birleştiği bir nokta"
 keywords: ["Şeyh Ömer Kümbeti","Gülnar","Mersin","tarih","doğa","plaj","gezi","turizm"]

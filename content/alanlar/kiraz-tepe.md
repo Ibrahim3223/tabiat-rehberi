@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","tarihi yerleri gezmek","yerel kültürü keşfetmek","flora ve fauna"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kiraz Tepe","caption":"Kiraz Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Kiraz Tepe","caption":"Kiraz Tepe","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kiraz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388895","tip":"genel"}]
 description: "Marmara Bölgesi'nin Kırklareli ilinde yer alan Kiraz Tepe, tarihi ve doğal güzellikleri ile dikkat çekiyor. Bölgenin en önemli turistik noktalarından biri olan Kiraz Tepe, ziyaretçiler için eşsiz bir deneyim sunuyor."
 keywords: ["Kiraz Tepe","Kırklareli","Marmara Bölgesi","doğal güzellik","tarihi yerler","turistik nokta","gezi rehberi","yerel kültür","coğrafya"]

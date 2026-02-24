@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kahramanmaras-Andirin-Akifiye Dogu Kayini","caption":"Kahramanmaras-Andirin-Akifiye Dogu Kayini","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg","alt":"Kahramanmaras-Andirin-Akifiye Dogu Kayini","caption":"Kahramanmaras-Andirin-Akifiye Dogu Kayini","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Andirin-Akifiye%20Dogu%20Kayini","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228485","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzide mekanlarından biri olan Kahramanmaras-Andirin-Akifiye Dogu Kayini, doğal güzellikleri ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Kahramanmaras-Andirin-Akifiye Dogu Kayini","İç Anadolu Bölgesi","doğal güzellik","tarihi geçmişi","milli park","turizm","gezi","doğa"]

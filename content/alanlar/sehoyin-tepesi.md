@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["hiking","fotoğrafçılık","tarih turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Şehoyın Tepesi","caption":"Şehoyın Tepesi","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Şehoyın Tepesi","caption":"Şehoyın Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eehoy%C4%B1n%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552066","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin birleştiği nokta"
 keywords: ["Mardin","Şehoyın Tepesi","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","tepe","manzara"]

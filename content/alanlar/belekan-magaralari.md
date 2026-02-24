@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Belekan Mağaraları","caption":"Belekan Mağaraları","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Landsat_View%2C_Istanbul%2C_Turkey_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg/960px-Landsat_View%2C_Istanbul%2C_Turkey_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg","alt":"Belekan Mağaraları","caption":"Belekan Mağaraları","credit":"Landsat View, Istanbul, Turkey - Flickr - NASA Goddard Photo and Video","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Belekan%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319061","tip":"genel"}]
 description: "Batman'da yer alan Belekan Mağaraları, 1200 hektarlık yeşil cenneti ve jeolojik oluşumlarıyla ziyaretçilerini bekliyor."
 keywords: ["Belekan Mağaraları","Batman","Jeopark","Doğa","Mağara","Turizm","Gezi","Jeolojik Oluşum","Yeşil Alan"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Çevre gezintisi","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Emin Sinan Türbesi","caption":"Emin Sinan Türbesi","credit":"Elmasburnu2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg/960px-35960_Hasseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%282%29.jpg","alt":"Emin Sinan Türbesi","caption":"Emin Sinan Türbesi","credit":"35960 Hasseki-Karaburun-İzmir, Turkey - panoramio (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Emin%20Sinan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391171","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından Emin Sinan Türbesi, Marmara Bölgesi'nde yer alan Fatih ilçesinde bulunur. 140 hektarlık bir alanı kaplayan bu tarihi yer, yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Emin Sinan Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarihi mekan","türbe"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Doğa yürüyüşleri","Orman içi turları","Yaban hayatı gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Kastamonu-Daday-Yayla-Kizilcik","caption":"Kastamonu-Daday-Yayla-Kizilcik","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg/960px-Kur%C5%9Funlu_%C5%9Eelalesi_Tabiat_Park%C4%B1_G%C3%B6rseli.jpg","alt":"Kastamonu-Daday-Yayla-Kizilcik","caption":"Kastamonu-Daday-Yayla-Kizilcik","credit":"Kurşunlu Şelalesi Tabiat Parkı Görseli","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Daday-Yayla-Kizilcik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228557","tip":"genel"}]
 description: "Kastamonu'nun doğal güzellikleri arasında yer alan milli park"
 keywords: ["Kastamonu","Daday","Yayla","Kizilcik","Milli Park","Karadeniz Bölgesi","Doğa","Turizm"]

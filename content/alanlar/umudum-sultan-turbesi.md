@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Doğa yürüyüşü","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Umudum Sultan Türbesi","caption":"Umudum Sultan Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Pirlanta_beach%2C_without_waves_october_2009_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_-_panoramio.jpg","alt":"Umudum Sultan Türbesi","caption":"Umudum Sultan Türbesi","credit":"Pirlanta beach, without waves october 2009 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Umudum%20Sultan%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390805","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve doğal güzelliklerini bir araya getiren Umudum Sultan Türbesi, Erzurum'un Yakutiye ilçesinde yer alır."
 keywords: ["Umudum Sultan Türbesi","Erzurum","Yakutiye","Doğu Anadolu Bölgesi","Türbe","Tarih","Doğa"]

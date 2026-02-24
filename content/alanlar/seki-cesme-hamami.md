@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Seki Çeşme Hamamı","caption":"Seki Çeşme Hamamı","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alanya-Antalya_-_panoramio_%283%29.jpg/960px-Alanya-Antalya_-_panoramio_%283%29.jpg","alt":"Seki Çeşme Hamamı","caption":"Seki Çeşme Hamamı","credit":"Alanya-Antalya - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seki%20%C3%87e%C5%9Fme%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738774","tip":"genel"}]
 description: "Karaman'da bulunan Seki Çeşme Hamamı, tarihi ve doğal güzelliği ile dikkat çekiyor"
 keywords: ["Seki Çeşme Hamamı","Karaman","tarihi mekan","doğal güzellik","iç Anadolu Bölgesi","turistik yerler","gezi noktaları","kültür varlıkları"]

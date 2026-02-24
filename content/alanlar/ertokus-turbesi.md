@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî türbe gezisi","doğa yürüyüşü","fotografi","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Ertokuş Türbesi","caption":"Ertokuş Türbesi","credit":"Gelincik Dagi Manzara.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Istanbul_beaches-_Sea_of_Marmara_13.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_13.jpg","alt":"Ertokuş Türbesi","caption":"Ertokuş Türbesi","credit":"Istanbul beaches- Sea of Marmara 13","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ertoku%C5%9F%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391254","tip":"genel"}]
 description: "Isparta'nın Atabey ilçesinde bulunan Ertokuş Türbesi, tarihi ve doğal güzellikleri bir araya getiren özel bir alan."
 keywords: ["Ertokuş Türbesi","Atabey","Isparta","tarihi mekanlar","doğal güzellikler","Akdeniz Bölgesi","tarihi türbeler","kültürel ziyaret noktaları"]

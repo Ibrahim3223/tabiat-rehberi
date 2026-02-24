@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","fotoğrafçılık","kuş gözlemi","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Sarımsak Mağarası","caption":"Sarımsak Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-2.jpg/960px-Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-2.jpg","alt":"Sarımsak Mağarası","caption":"Sarımsak Mağarası","credit":"Geological formation, Şebinkarahisar 2016 01-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1msak%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319734","tip":"genel"}]
 description: "Siirt'te bulunan Sarımsak Mağarası, 1200 hektarlık yeşil cennet ve jeopark alanı olarak dikkat çekiyor."
 keywords: ["Sarımsak Mağarası","Siirt","Jeopark","Doğa Alanı","Turizm","Mağara","Yeşil Cennet","Gezi","Seyahat"]

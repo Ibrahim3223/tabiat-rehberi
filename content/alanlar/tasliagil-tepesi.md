@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","panoramik manzara izleme","tarihi kalıntıları gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Taşliağil Tepesi","caption":"Taşliağil Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Taşliağil Tepesi","caption":"Taşliağil Tepesi","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ta%C5%9Flia%C4%9Fil%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559278","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Taşliağil Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Taşliağil Tepesi","Ankara","İç Anadolu Bölgesi","doğa","tepe","gezi","turizm","çevre"]

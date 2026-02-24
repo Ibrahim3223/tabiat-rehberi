@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Dedevın Mağarası","caption":"Dedevın Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/2023-02-06_Central_Turkey_M6_earthquake_intensity_map_%28USGS%29.jpg","alt":"Dedevın Mağarası","caption":"Dedevın Mağarası","credit":"2023-02-06 Central Turkey M6 earthquake intensity map (USGS)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedev%C4%B1n%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319119","tip":"genel"}]
 description: "Batman'da bulunan Dedevın Mağarası, 1200 hektarlık bir jeopark alanı sunar. Doğal güzellikleri keşfedin!"
 keywords: ["Dedevın Mağarası","Batman Jeopark","Doğal Alanlar","Mağara Gezileri","Jeoparklar","Batman Turizm","Doğa Sporları","Turistik Yerler","Jeolojik Miras"]

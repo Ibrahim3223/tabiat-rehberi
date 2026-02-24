@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Sarıseki Dağı","caption":"Sarıseki Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yol_ve_demirkaz%C4%B1k.jpg/960px-Yol_ve_demirkaz%C4%B1k.jpg","alt":"Sarıseki Dağı","caption":"Sarıseki Dağı","credit":"Yol ve demirkazık","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1seki%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31507248","tip":"genel"}]
 description: "Mersin'in doğal güzelliklerini keşfedin, Sarıseki Dağı'nın büyüleyici manzaraları ve trekking rotaları"
 keywords: ["Sarıseki Dağı","Mersin","Dağ","Trekking","Doğa","Mersin Turizm","Sarıseki Dağı Trekking","Mersin Doğal Alanlar","Dağcılık"]

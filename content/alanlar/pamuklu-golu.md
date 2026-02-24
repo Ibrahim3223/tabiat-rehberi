@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flamingo_dans%C4%B1.jpg/960px-Flamingo_dans%C4%B1.jpg","alt":"Pamuklu Gölü","caption":"Pamuklu Gölü","credit":"Flamingo dansı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Thaumetopoea_pityocampa_in_Vezirsuyu_Lake_Turkey.jpg/960px-Thaumetopoea_pityocampa_in_Vezirsuyu_Lake_Turkey.jpg","alt":"Pamuklu Gölü","caption":"Pamuklu Gölü","credit":"Thaumetopoea pityocampa in Vezirsuyu Lake Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pamuklu%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49307922","tip":"genel"}]
 description: "Edirne'de bulunan Pamuklu Gölü, 1200 hektarlık yeşil cenneti ile doğa severlerin uğrak noktası"
 keywords: ["Pamuklu Gölü","Edirne","göl","doğa","turizm","gezi","yaban hayatı","orman","çevre"]

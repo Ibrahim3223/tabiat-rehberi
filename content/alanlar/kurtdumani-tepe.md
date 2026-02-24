@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["tarihçi gezi","doğa yürüyüşü","fotografcılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kurtdumanı Tepe","caption":"Kurtdumanı Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ida_Flooding_%282%29.jpg/960px-Ida_Flooding_%282%29.jpg","alt":"Kurtdumanı Tepe","caption":"Kurtdumanı Tepe","credit":"Ida Flooding (2)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurtduman%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387022","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerinin bir araya geldiği bir nokta"
 keywords: ["Ankara","Kurtdumanı Tepe","doğal güzellik","tarihi mekan","gezi","turizm","İç Anadolu Bölgesi","coğrafya","flora","fauna"]

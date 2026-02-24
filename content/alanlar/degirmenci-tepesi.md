@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","manzara seyretme","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Değirmenci Tepesi","caption":"Değirmenci Tepesi","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Ida-kars%C4%B1_k%C4%B1y%C4%B1dan.JPG","alt":"Değirmenci Tepesi","caption":"Değirmenci Tepesi","credit":"Ida-karsı kıyıdan","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/De%C4%9Firmenci%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390943","tip":"genel"}]
 description: "Kayseri'nin İç Anadolu Bölgesi'ndeki eşsiz doğal güzelliği, 140 hektarlık yeşil alan"
 keywords: ["Değirmenci Tepesi","Kayseri","İç Anadolu Bölgesi","doğa","gezi","tepe","manzara"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Giresun_yaylalar%C4%B1_-_panoramio.jpg/960px-Giresun_yaylalar%C4%B1_-_panoramio.jpg","alt":"Topuklu Dağı","caption":"Topuklu Dağı","credit":"Giresun yaylaları - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/960px-Moraine_Lake_17092005.jpg","alt":"Topuklu Dağı","caption":"Topuklu Dağı","credit":"Moraine Lake 17092005","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Topuklu%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31560851","tip":"genel"}]
 description: "Giresun'un önemli doğal güzelliklerinden biri olan Topuklu Dağı, 1200 hektarlık yeşil cenneti ile ziyaretçilerini bekliyor."
 keywords: ["Topuklu Dağı","Giresun","Dağ","Doğa","Turizm","Giresun Turistik Yerler","Topuklu Dağı Giresun","Doğal Güzellikler","Turistik Alanlar"]

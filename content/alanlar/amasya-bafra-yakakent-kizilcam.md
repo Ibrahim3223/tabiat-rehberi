@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Photografi","Yaban Hayatı İzleme","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Amasya-Bafra-Yakakent Kızılçam","caption":"Amasya-Bafra-Yakakent Kızılçam","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kad%C4%B1nc%C4%B1k_Valley_5.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_5.jpg","alt":"Amasya-Bafra-Yakakent Kızılçam","caption":"Amasya-Bafra-Yakakent Kızılçam","credit":"Kadıncık Valley 5","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Bafra-Yakakent%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227412","tip":"genel"}]
 description: "Karadeniz Bölgesi'nde yer alan Amasya-Bafra-Yakakent Kızılçam Milli Parkı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Amasya","Bafra","Yakakent","Kızılçam","Milli Park","Karadeniz Bölgesi","Doğa","Turizm","Gezi","Yaban Hayatı"]

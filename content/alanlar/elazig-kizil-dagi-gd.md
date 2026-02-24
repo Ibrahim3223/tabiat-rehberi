@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Erzincan_Refahiye.jpg","alt":"Elazığ Kızıl Dağı (GD) manzarası","credit":"Salihsertbas","license":"cc-by-sa-4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TRABZON_YAYLASI_VE_%C4%B0BADET.jpg/960px-TRABZON_YAYLASI_VE_%C4%B0BADET.jpg","alt":"Elazığ Kızıl Dağı (GD)","caption":"Elazığ Kızıl Dağı (GD)","credit":"TRABZON YAYLASI VE İBADET","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Elaz%C4%B1%C4%9F%20K%C4%B1z%C4%B1l%20Da%C4%9F%C4%B1%20(GD)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514261","tip":"genel"}]
 description: "Elazığ'ın doğal güzelliklerini keşfedin, Kızıl Dağı'nın büyüleyici manzaralarına tanık olun."

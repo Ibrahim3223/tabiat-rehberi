@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","su sporları","tarih gezisi","yeme içme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Akyokus_parki.jpg/960px-Akyokus_parki.jpg","alt":"Konya-Alanya-Söğüt-Karacam","caption":"Konya-Alanya-Söğüt-Karacam","credit":"Akyokus parki","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Konya-Alanya-Söğüt-Karacam","caption":"Konya-Alanya-Söğüt-Karacam","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Alanya-S%C3%B6%C4%9F%C3%BCt-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228222","tip":"genel"}]
 description: "Konya'nın doğal güzellikleri ve tarihi geçmişiyle dikkat çeken milli parkı"
 keywords: ["Konya","Alanya","Söğüt","Karacam","milli park","doğa","gezi","tarih"]

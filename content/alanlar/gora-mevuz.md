@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Tam gün"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Gora Mevuz","caption":"Gora Mevuz","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"Gora Mevuz","caption":"Gora Mevuz","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gora%20Mevuz","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31544753","tip":"genel"}]
 description: "Batman'da yer alan Gora Mevuz dağı, 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Gora Mevuz","Batman","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezi","Doğa Sporları"]

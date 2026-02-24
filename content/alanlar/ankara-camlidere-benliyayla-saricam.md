@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MOKFC07.jpg/960px-MOKFC07.jpg","alt":"Ankara-Camlidere-Benliyayla Saricam","caption":"Ankara-Camlidere-Benliyayla Saricam","credit":"MOKFC07.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Abant_Nature_Park.jpg/960px-Lake_Abant_Nature_Park.jpg","alt":"Ankara-Camlidere-Benliyayla Saricam","caption":"Ankara-Camlidere-Benliyayla Saricam","credit":"Lake Abant Nature Park","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ankara-Camlidere-Benliyayla%20Saricam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227549","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerini keşfedin, Saricam'da doğanın tadını çıkarın."
 keywords: ["Ankara","Saricam","Camlidere","Benliyayla","doğa","gezi","turizm","milli park","çevre","ekosistem"]

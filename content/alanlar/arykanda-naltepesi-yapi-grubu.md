@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-6 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Arykanda Naltepesi Yapı Grubu","caption":"Arykanda Naltepesi Yapı Grubu","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg/960px-Akdeniz-_the_mediterranean-ka%C5%9F_-_panoramio_-_HALUK_COMERTEL_%282%29.jpg","alt":"Arykanda Naltepesi Yapı Grubu","caption":"Arykanda Naltepesi Yapı Grubu","credit":"Akdeniz- the mediterranean-kaş - panoramio - HALUK COMERTEL (2)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Arykanda%20Naltepesi%20Yap%C4%B1%20Grubu","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739201","tip":"genel"}]
 description: "Finike'de bulunan Arykanda Naltepesi Yapı Grubu, Akdeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biridir."
 keywords: ["Arykanda","Naltepesi","Finike","Antalya","Akdeniz Bölgesi","tarih","doğa","gezi"]

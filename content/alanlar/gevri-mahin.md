@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Gevri Mahin","caption":"Gevri Mahin","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg/960px-H%C3%BCrmet%C3%A7i_ve_Erciyes.jpg","alt":"Gevri Mahin","caption":"Gevri Mahin","credit":"Hürmetçi ve Erciyes","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Gevri%20Mahin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21696857","tip":"genel"}]
 description: "Van'da bulunan Gevri Mahin Dağı, 1200 hektarlık yeşil cenneti ile doğa severlerin gözdesi"
 keywords: ["Gevri Mahin","Van","Dağ","Doğa","Yeşil Alan","Turizm","Seyahat","Gezilecek Yerler","Van Gezisi"]

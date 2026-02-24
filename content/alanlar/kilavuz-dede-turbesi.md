@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğraf Çekme","Picnic","Türbe Ziyareti"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Kılavuz Dede Türbesi","caption":"Kılavuz Dede Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg","alt":"Kılavuz Dede Türbesi","caption":"Kılavuz Dede Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1lavuz%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391587","tip":"genel"}]
 description: "Marmara Bölgesi'nin gözde tatil noktalarından biri olan Kılavuz Dede Türbesi, Sındırgı'nın doğal güzellikleri arasında öne çıkıyor."
 keywords: ["Kılavuz Dede Türbesi","Sındırgı","Balıkesir","Marmara Bölgesi","Doğal Alan","Türbe","Plaj"]

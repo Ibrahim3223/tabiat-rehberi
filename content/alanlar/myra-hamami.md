@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük"
 aktiviteler: ["denizde yüzme","kumda güneşlenme","yeşillikte yürüyüş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Myra Hamamı","caption":"Myra Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio.jpg/960px-Akdeniz-_the_mediterranean-kaputa%C5%9F_beach_-_panoramio.jpg","alt":"Myra Hamamı","caption":"Myra Hamamı","credit":"Akdeniz- the mediterranean-kaputaş beach - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Myra%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739098","tip":"genel"}]
 description: "Demre/Antalya'da bulunan Myra Hamamı, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Myra Hamamı","Demre","Antalya","Akdeniz Bölgesi","doğal güzellik","tarihi geçmişi","plaj","gezi"]

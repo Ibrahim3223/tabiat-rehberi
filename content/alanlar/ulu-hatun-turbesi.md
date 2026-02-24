@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Kocasinan gezisi","Kayseri gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Ulu Hatun Türbesi","caption":"Ulu Hatun Türbesi","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2483.jpg/960px-Morro_Jable_%28Fuerteventura%2C_Spain%29%2C_Strand_--_2025_--_2483.jpg","alt":"Ulu Hatun Türbesi","caption":"Ulu Hatun Türbesi","credit":"Morro Jable (Fuerteventura, Spain), Strand -- 2025 -- 2483","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ulu%20Hatun%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390859","tip":"genel"}]
 description: "Kocasinan, Kayseri'de tarihi bir mekan"
 keywords: ["Ulu Hatun Türbesi","Kocasinan","Kayseri","tarih","türbe","gezi","İç Anadolu Bölgesi","kültür","tarihçe"]

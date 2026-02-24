@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî eserleri gezmek","doğa yürüyüşü","fotoğraf çekmek","manzara izlemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Rhodiapolis Roma Dönemi Anıt Mezarı","caption":"Rhodiapolis Roma Dönemi Anıt Mezarı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Black_ses_sile_beach.jpg/960px-Black_ses_sile_beach.jpg","alt":"Rhodiapolis Roma Dönemi Anıt Mezarı","caption":"Rhodiapolis Roma Dönemi Anıt Mezarı","credit":"Black ses sile beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Rhodiapolis%20Roma%20D%C3%B6nemi%20An%C4%B1t%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728090","tip":"genel"}]
 description: "Kumluca, Antalya'da bulunan tarihi anıt mezar, Roma Dönemi'nden günümüze ulaşan önemli bir eserdir."
 keywords: ["Rhodiapolis","Roma Dönemi Anıt Mezarı","Kumluca","Antalya","tarihi eser","arkeoloji","Roma Dönemi","anıt mezar"]

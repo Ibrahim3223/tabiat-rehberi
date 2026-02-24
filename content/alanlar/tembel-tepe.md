@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","fotoğraf çekimleri","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Erciyes_landscape_view.jpg/960px-Erciyes_landscape_view.jpg","alt":"Tembel Tepe","caption":"Tembel Tepe","credit":"Erciyes landscape view.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/First_floor_hall._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-10.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Tembel Tepe","caption":"Tembel Tepe","credit":"First floor hall. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-10","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tembel%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390910","tip":"genel"}]
 description: "Kayseri'de yer alan Tembel Tepe, doğal güzellikleri ve tarihi geçmişiyle ziyaretçilerini bekliyor."
 keywords: ["Tembel Tepe","Kayseri","doğal güzellik","tarihi geçmişi","gezi","turizm","İç Anadolu Bölgesi","tepe","manzara"]

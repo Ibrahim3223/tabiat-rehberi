@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["yüzme","deniz sporları","kumsal yürüyüşü","güneşlenme","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Seferşah Hamamı","caption":"Seferşah Hamamı","credit":"Black Sea - Turkey.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gallipoli_ANZAC_Cove_2.JPG/960px-Gallipoli_ANZAC_Cove_2.JPG","alt":"Seferşah Hamamı","caption":"Seferşah Hamamı","credit":"Gallipoli ANZAC Cove 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sefer%C5%9Fah%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738704","tip":"genel"}]
 description: "Ezine'nin doğal güzelliklerinden biri olan Seferşah Hamamı, ziyaretçilerini bekliyor."
 keywords: ["Seferşah Hamamı","Ezine","doğal güzellik","turizm","gezi","yüzme","deniz","kumsal","tatil"]

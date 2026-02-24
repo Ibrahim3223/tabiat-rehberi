@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","fauna gözlemi","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kayurmaçı Tepesi","caption":"Kayurmaçı Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ida_Flooding_%2811%29.jpg/960px-Ida_Flooding_%2811%29.jpg","alt":"Kayurmaçı Tepesi","caption":"Kayurmaçı Tepesi","credit":"Ida Flooding (11)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kayurma%C3%A7%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878410","tip":"genel"}]
 description: "Ankara'nın doğal güzelliklerinden biri olan Kayurmaçı Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Kayurmaçı Tepesi","doğa","gezi","tepe","manzara","çevre","ekosistem","flora","fauna"]

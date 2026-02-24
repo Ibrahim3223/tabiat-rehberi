@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg/960px-Water_surface_of_Mediterrenean_sea_near_Kameriye_island%2C_Marmaris%2C_Turkey.jpg","alt":"Akburun Adası","caption":"Akburun Adası","credit":"Water surface of Mediterrenean sea near Kameriye island, Marmaris, Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%28Recto%29_The_southern_part_of_Mulah_Bay_%28Vourla-_Urla_Bay%29%2C_near_Smyrna_%28Izmir%29%2C_Turkey_%28continued_from_PAI0874%29%3B_%28Verso%29_Port_Mandri%2C_Greece%2C_2_October_1852_RMG_PZ0875-001.tiff/lossy-page1-800px-thumbnail.tiff.jpg","alt":"Akburun Adası","caption":"Akburun Adası","credit":"(Recto) The southern part of Mulah Bay (Vourla- Urla Bay), near Smyrna (Izmir), Turkey (continued from PAI0874); (Verso) Port Mandri, Greece, 2 October 1852 RMG PZ0875-001","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Akburun%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49631503","tip":"genel"}]
 description: "Konya'da bulunan Akburun Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Akburun Adası","Konya","Ada","Doğal Alan","Yeşil Cennet","Turizm","Gezi","Seyahat","Konya Turistik Yerler"]

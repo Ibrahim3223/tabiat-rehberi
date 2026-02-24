@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mu%C4%9Fla_Province_%2845034554%29.jpeg/960px-Mu%C4%9Fla_Province_%2845034554%29.jpeg","alt":"Fener Adası","caption":"Fener Adası","credit":"Muğla Province (45034554).jpeg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rabbit_Island.JPG/960px-Rabbit_Island.JPG","alt":"Fener Adası","caption":"Fener Adası","credit":"Rabbit Island","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Fener%20Adas%C4%B1%20(Mu%C4%9Fla)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49637915","tip":"genel"}]
 description: "Muğla'da bulunan Fener Adası, doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Fener Adası","Muğla","ada","doğal güzellik","tarihi değer","yeşil cennet","gezi","seyahat","turizm"]

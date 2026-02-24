@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/VallesMarinerisHuge.jpg/960px-VallesMarinerisHuge.jpg","alt":"Hamam Boğazı (Uşak)","caption":"Hamam Boğazı (Uşak)","credit":"VallesMarinerisHuge.jpg","license":"Attribution"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/%D0%94%D0%B5%D0%BC%D0%B8%D1%80%D0%BA%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D0%BA%D0%BB%D0%B8%D1%81%D1%83%D1%80%D0%B0_4.jpg/960px-%D0%94%D0%B5%D0%BC%D0%B8%D1%80%D0%BA%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_%D0%BA%D0%BB%D0%B8%D1%81%D1%83%D1%80%D0%B0_4.jpg","alt":"Hamam Boğazı (Uşak)","caption":"Hamam Boğazı (Uşak)","credit":"Демиркаписка клисура 4","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%20Bo%C4%9Faz%C4%B1%20(U%C5%9Fak)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49342927","tip":"genel"}]
 description: "Uşak'ta bulunan Hamam Boğazı, 1200 hektarlık yeşil cenneti ve doğal güzelliği ile dikkat çekiyor."
 keywords: ["Hamam Boğazı","Uşak","kanyon","doğa","turizm","gezi","yerel","coğrafya","gezilecek yerler"]

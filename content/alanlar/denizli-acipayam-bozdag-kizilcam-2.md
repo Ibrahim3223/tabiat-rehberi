@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Snow_on_the_Lake_Abant.jpg/960px-Snow_on_the_Lake_Abant.jpg","alt":"Denizli-Acipayam-Bozdag Kızılçam 2","caption":"Denizli-Acipayam-Bozdag Kızılçam 2","credit":"Snow on the Lake Abant","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hunter_baby_chameleon.jpg/960px-Hunter_baby_chameleon.jpg","alt":"Denizli-Acipayam-Bozdag Kızılçam 2","caption":"Denizli-Acipayam-Bozdag Kızılçam 2","credit":"Hunter baby chameleon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Acipayam-Bozdag%20K%C4%B1z%C4%B1l%C3%A7am%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227331","tip":"genel"}]
 description: "Ege Bölgesi'nin yeşilliklerle bezeli köşesi, 140 hektarlık bir alan"
 keywords: ["Denizli","Acipayam","Bozdag","Kızılçam","milli park","Ege Bölgesi","yeşil alan","doğa"]

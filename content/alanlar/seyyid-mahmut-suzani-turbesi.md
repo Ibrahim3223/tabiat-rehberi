@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Seyyid Mahmut Suzani Türbesi","caption":"Seyyid Mahmut Suzani Türbesi","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Pirlanta_beach%2C_without_waves_october_2009_6_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_6_-_panoramio.jpg","alt":"Seyyid Mahmut Suzani Türbesi","caption":"Seyyid Mahmut Suzani Türbesi","credit":"Pirlanta beach, without waves october 2009 6 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Seyyid%20Mahmut%20Suzani%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735163","tip":"genel"}]
 description: "Eskişehir'in Sivrihisar ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Seyyid Mahmut Suzani Türbesi","Eskişehir","Sivrihisar","tarih","türbe","plaj","İç Anadolu Bölgesi"]

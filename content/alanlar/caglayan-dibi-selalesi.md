@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","picnic","doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Çağlayan Dibi Şelalesi","caption":"Çağlayan Dibi Şelalesi","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg/960px-Karag%C3%B6l_Tabiat_Park%C4%B1_in_spring.jpg","alt":"Çağlayan Dibi Şelalesi","caption":"Çağlayan Dibi Şelalesi","credit":"Karagöl Tabiat Parkı in spring","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87a%C4%9Flayan%20Dibi%20%C5%9Eelalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228473","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin doğal güzelliklerini keşfedin. Çağlayan Dibi Şelalesi, doğa severlerin ziyaret etmesi gereken bir destinasyon."
 keywords: ["Çağlayan Dibi Şelalesi","İç Anadolu Bölgesi","doğa","şelale","gezi","turizm","milli park","çevre","ekoloji"]

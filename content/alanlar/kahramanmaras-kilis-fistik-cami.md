@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotografcılık","tarihî yapıları ziyaret"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Kahramanmaras-Kilis Fistik Cami","caption":"Kahramanmaras-Kilis Fistik Cami","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nature_is_resting.jpg/960px-Nature_is_resting.jpg","alt":"Kahramanmaras-Kilis Fistik Cami","caption":"Kahramanmaras-Kilis Fistik Cami","credit":"Nature is resting","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Kilis%20Fistik%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228005","tip":"genel"}]
 description: "Kahramanmaras ve Kilis illerinin sınırında yer alan bu tarihi cami, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Kahramanmaras","Kilis","Fistik Cami","tarihi yapılar","yeşil alanlar","doğa","kültür","tarih"]

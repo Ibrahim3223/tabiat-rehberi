@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Kuş gözlemciliği","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Gallipoli_Peninsula_Historical_National_Park_%286%29.jpg/960px-Gallipoli_Peninsula_Historical_National_Park_%286%29.jpg","alt":"Canakkale-Bayramic-Karakoy Kızılçam","caption":"Canakkale-Bayramic-Karakoy Kızılçam","credit":"Gallipoli Peninsula Historical National Park (6)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MOKFC03.jpg/960px-MOKFC03.jpg","alt":"Canakkale-Bayramic-Karakoy Kızılçam","caption":"Canakkale-Bayramic-Karakoy Kızılçam","credit":"MOKFC03","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Bayramic-Karakoy%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227326","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan Canakkale-Bayramic-Karakoy Kızılçam Milli Parkı, doğa severlerin gözdesi."
 keywords: ["Çanakkale","Marmara Bölgesi","Kızılçam","Milli Park","Doğa","Turizm","Çevre","Ekoloji"]

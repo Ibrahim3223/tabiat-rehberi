@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"Kastamonu-Inebolu-Gemiciler Kızılçam","caption":"Kastamonu-Inebolu-Gemiciler Kızılçam","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015-2.jpg","alt":"Kastamonu-Inebolu-Gemiciler Kızılçam","caption":"Kastamonu-Inebolu-Gemiciler Kızılçam","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015-2","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Inebolu-Gemiciler%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227658","tip":"genel"}]
 description: "Kastamonu'nun yeşili, İnebolu'nun güzelliği ve Gemiciler'in zengin doğası bir araya geldi."
 keywords: ["Kastamonu","İnebolu","Gemiciler","Kızılçam","milli park","doğa","yeşil","güzellik","zengin doğa"]

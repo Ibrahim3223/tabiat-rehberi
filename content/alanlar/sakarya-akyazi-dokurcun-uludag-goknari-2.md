@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Sakarya-Akyazı Dokurcun Uludag Goknari 2","caption":"Sakarya-Akyazı Dokurcun Uludag Goknari 2","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cilingoz_National_Park_Beach_with_people.jpg/960px-Cilingoz_National_Park_Beach_with_people.jpg","alt":"Sakarya-Akyazı Dokurcun Uludag Goknari 2","caption":"Sakarya-Akyazı Dokurcun Uludag Goknari 2","credit":"Cilingoz National Park Beach with people","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sakarya-Akyaz%C4%B1%20Dokurcun%20Uludag%20Goknari%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227287","tip":"genel"}]
 description: "Sakarya'da yer alan doğal güzellik, Marmara Bölgesi'nin önemli noktalarından biri"
 keywords: ["Sakarya","Akyazı","Dokurcun","Uludag","Goknari","Marmara Bölgesi","doğal güzellik","milli park","turizm"]

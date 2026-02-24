@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gezisi","tarih gezisi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Abdal Murad Türbesi","caption":"Abdal Murad Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Abdal Murad Türbesi","caption":"Abdal Murad Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Abdal%20Murad%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390734","tip":"genel"}]
 description: "Bursa'nın Osmangazi ilçesinde bulunan lch Abdal Murad Türbesi, tarihi ve doğal güzellikleri bir arada sunuyor."
 keywords: ["Abdal Murad Türbesi","Osmangazi","Bursa","tarih","doğa","gezi","türbe","Marmara Bölgesi"]

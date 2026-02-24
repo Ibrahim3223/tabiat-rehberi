@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/IMG-20210119-WA0104.jpg/960px-IMG-20210119-WA0104.jpg","alt":"Sıçanlı Dağ","caption":"Sıçanlı Dağ","credit":"IMG-20210119-WA0104","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Olympos_Peak.jpg/960px-Olympos_Peak.jpg","alt":"Sıçanlı Dağ","caption":"Sıçanlı Dağ","credit":"Olympos Peak","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1%C3%A7anl%C4%B1%20Da%C4%9F","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34906290","tip":"genel"}]
 description: "Ağrı'da yer alan Sıçanlı Dağ, doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Sıçanlı Dağ","Ağrı","Dağ","Trekking","Doğa","Turizm","Ağrı Turistik Yerler","Dağcılık","Doğal Güzellikler"]

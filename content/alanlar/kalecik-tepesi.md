@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografcılık","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kalecik Tepesi","caption":"Kalecik Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/960px-Ida_M._Tarbell.jpg","alt":"Kalecik Tepesi","caption":"Kalecik Tepesi","credit":"Ida M. Tarbell","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kalecik%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386433","tip":"genel"}]
 description: "Kalecik Tepesi, Güneydoğu Anadolu Bölgesi'nin Kilis şehrinde bulunan bir tepe. Tarihi ve coğrafi açıdan önemli bir nokta olan Kalecik Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Kalecik Tepesi","Kilis","Güneydoğu Anadolu Bölgesi","tepe","tarih","coğrafya","ziyaret","gezi"]

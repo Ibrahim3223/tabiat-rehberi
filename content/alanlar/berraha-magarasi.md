@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tessellated_Pavement_Sunrise_Landscape.jpg/960px-Tessellated_Pavement_Sunrise_Landscape.jpg","alt":"Berraha Mağarası","caption":"Berraha Mağarası","credit":"Tessellated Pavement Sunrise Landscape","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Surface_Geology_of_the_Mardin_High.jpg/960px-Surface_Geology_of_the_Mardin_High.jpg","alt":"Berraha Mağarası","caption":"Berraha Mağarası","credit":"Surface Geology of the Mardin High","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Berraha%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319068","tip":"genel"}]
 description: "Mardin'de yer alan Berraha Mağarası, jeopark özellikleri ile dikkat çekiyor. Doğal güzelliği keşfedin."
 keywords: ["Berraha Mağarası","Mardin","Jeopark","Doğal Alan","Mağara","Turizm","Gezi","Mardin Turistik Yerler","Jeolojik Özellikler"]

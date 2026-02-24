@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","flora ve fauna keşfi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Kabasivri Tepe","caption":"Kabasivri Tepe","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ida_Flooding_%2813%29.jpg/960px-Ida_Flooding_%2813%29.jpg","alt":"Kabasivri Tepe","caption":"Kabasivri Tepe","credit":"Ida Flooding (13)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kabasivri%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390427","tip":"genel"}]
 description: "Konya'nın tarihi ve doğal güzellikleri arasında yer alan Kabasivri Tepe, ziyaretçiler için önemli bir destinasyon"
 keywords: ["Kabasivri Tepe","Konya","İç Anadolu Bölgesi","tarih","doğa","gezi","turizm","kültür","coğrafya"]

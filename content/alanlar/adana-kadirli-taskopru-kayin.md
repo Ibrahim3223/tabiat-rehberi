@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_photos_of_Akda%C4%9F_3.jpg/960px-The_photos_of_Akda%C4%9F_3.jpg","alt":"Adana-Kadirli-Taskopru Kayin","caption":"Adana-Kadirli-Taskopru Kayin","credit":"The photos of Akdağ 3","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg/960px-The_unique_view_of_nature%2C_Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park_02.jpg","alt":"Adana-Kadirli-Taskopru Kayin","caption":"Adana-Kadirli-Taskopru Kayin","credit":"The unique view of nature, Dilek Peninsula-Büyük Menderes Delta National Park 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Adana-Kadirli-Taskopru%20Kayin","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227233","tip":"genel"}]
 description: "Adana'nın Kadirli ilçesinde yer alan Taskopru Kayin, doğal güzellikleri ile dikkat çekiyor. 140 hektarlık alan, yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Adana","Kadirli","Taskopru Kayin","doğal güzellik","milli park","çevre","ekoloji"]

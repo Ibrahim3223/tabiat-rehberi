@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wild_horses1_%28cropped%29.jpg/960px-Wild_horses1_%28cropped%29.jpg","alt":"Sultan Dağı","caption":"Sultan Dağı","credit":"Wild horses1 (cropped).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Sultan Dağı","caption":"Sultan Dağı","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sultan%20Da%C4%9F%C4%B1%20(Kayseri)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505879","tip":"genel"}]
 description: "Kayseri'nin önemli dağlarından biri olan Sultan Dağı, 2580 metre yüksekliğiyle dikkat çekiyor. Doğal güzellikleri ve trekking rotalarıyla ziyaretçilerini bekliyor."
 keywords: ["Sultan Dağı","Kayseri","Dağ","Trekking","Doğa","Kayseri Turizm","Sultan Dağı Trekking","Kayseri Gezi","Doğal Güzellikler"]

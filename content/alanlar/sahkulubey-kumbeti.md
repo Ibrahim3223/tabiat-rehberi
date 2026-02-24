@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları gezmek","doğal güzellikleri keşfetmek","fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Şahkulubey Kümbeti","caption":"Şahkulubey Kümbeti","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pirlanta_beach%2C_without_waves_october_2009_5_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_5_-_panoramio.jpg","alt":"Şahkulubey Kümbeti","caption":"Şahkulubey Kümbeti","credit":"Pirlanta beach, without waves october 2009 5 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eahkulubey%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582877","tip":"genel"}]
 description: "Mardin'in Kızıltepe ilçesinde bulunan Şahkulubey Kümbeti, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Şahkulubey Kümbeti","Mardin","Kızıltepe","tarihi mekanlar","doğal güzellikler","gezi noktaları","kültürel miras","tarih","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goreme_National_Park%2C_Turkey.jpg/960px-Goreme_National_Park%2C_Turkey.jpg","alt":"Çayköy Mağarası","caption":"Çayköy Mağarası","credit":"Goreme National Park, Turkey","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Salome_Marble_%28Supren_Marble%29_%28brecciated_marble%2C_metamorphosed_during_the_Cimmeride_Orogeny%2C_Late_Triassic_to_Early_Jurassic%3B_quarry_at_or_near_Supren%2C_northwestern_Turkey%29_2_%2814999205191%29.jpg/960px-thumbnail.jpg","alt":"Çayköy Mağarası","caption":"Çayköy Mağarası","credit":"Salome Marble (Supren Marble) (brecciated marble, metamorphosed during the Cimmeride Orogeny, Late Triassic to Early Jurassic; quarry at or near Supren, northwestern Turkey) 2 (14999205191)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87ayk%C3%B6y%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319909","tip":"genel"}]
 description: "Çorum'da yer alan Çayköy Mağarası, jeopark olarak bilinen doğal bir oluşum. 1200 hektarlık bu yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Çayköy Mağarası","Jeopark","Çorum","Doğal Alan","Turizm","Mağara","Çorum Turistik Yerler","Jeolojik Oluşum","Doğa Seyahati"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "en az birkaç saat"
 aktiviteler: ["doğa yürüyüşleri","piknik","fotografcılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Şeyh Şücaüddin Türbesi","caption":"Şeyh Şücaüddin Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Black_ses_sile_beach.jpg/960px-Black_ses_sile_beach.jpg","alt":"Şeyh Şücaüddin Türbesi","caption":"Şeyh Şücaüddin Türbesi","credit":"Black ses sile beach","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C5%9E%C3%BCca%C3%BCddin%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391246","tip":"genel"}]
 description: "Seyitgazi, Eskişehir'de yer alan tarihi ve doğal güzelliği ile dikkat çeken bir bölge"
 keywords: ["Şeyh Şücaüddin Türbesi","Seyitgazi","Eskişehir","tarih","doğa","çevre","türbe","gezi"]

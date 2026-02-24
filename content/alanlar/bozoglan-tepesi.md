@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","manzara izleme","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Landscape_of_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k.jpg","alt":"Bozoğlan Tepesi","caption":"Bozoğlan Tepesi","credit":"The Landscape of Sıklık.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Second_floor_hall._View_looking_south._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-16.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Bozoğlan Tepesi","caption":"Bozoğlan Tepesi","credit":"Second floor hall. View looking south. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-16","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozo%C4%9Flan%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31581524","tip":"genel"}]
 description: "Çorum'un gizli güzelliği Bozoğlan Tepesi, Karadeniz Bölgesi'nde yer alır."
 keywords: ["Bozoğlan Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm","çevre"]

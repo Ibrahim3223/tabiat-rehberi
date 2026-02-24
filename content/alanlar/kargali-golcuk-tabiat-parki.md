@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "3-4 saat"
 aktiviteler: ["yürüyüş","piknik","doğa fotoğrafçılığı","bitki ve hayvan gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kargalı Gölcük Tabiat Parkı","caption":"Kargalı Gölcük Tabiat Parkı","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg/960px-Be%C5%9Fkayalar_Tabiat_Park%C4%B1_Ocak_2020_hamdigumus.jpg","alt":"Kargalı Gölcük Tabiat Parkı","caption":"Kargalı Gölcük Tabiat Parkı","credit":"Beşkayalar Tabiat Parkı Ocak 2020 hamdigumus","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kargal%C4%B1%20G%C3%B6lc%C3%BCk%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228494","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin güzel köşelerinden biri olan Kargalı Gölcük Tabiat Parkı, 140 hektarlık geniş bir alanı kaplıyor."
 keywords: ["Kargalı Gölcük","Tabiat Parkı","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem"]

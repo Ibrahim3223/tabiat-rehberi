@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-5 saat"
 aktiviteler: ["trekking","doğa yürüyüşü","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ulug%C3%B6l_Nature_Park.jpg/960px-Ulug%C3%B6l_Nature_Park.jpg","alt":"Göndeliç Tepesi","caption":"Göndeliç Tepesi","credit":"Ulugöl Nature Park.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Angora_Tournefort.JPG","alt":"Göndeliç Tepesi","caption":"Göndeliç Tepesi","credit":"Angora Tournefort","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6ndeli%C3%A7%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34872525","tip":"genel"}]
 description: "Ordu ilinin Karadeniz Bölgesi'nde yer alan Göndeliç Tepesi, 1400 metre yüksekliğiyle dikkat çekiyor. Bölge, zengin flora ve fauna çeşitliliğiyle bilinir."
 keywords: ["Göndeliç Tepesi","Ordu","Karadeniz Bölgesi","tepe","doğa","flora","fauna"]

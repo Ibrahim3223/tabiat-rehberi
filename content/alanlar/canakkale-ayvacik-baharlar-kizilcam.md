@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","manzara keşfi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gallipoli_Peninsula_Historical_National_Park_%285%29.jpg/960px-Gallipoli_Peninsula_Historical_National_Park_%285%29.jpg","alt":"Canakkale-Ayvacik-Baharlar Kızılçam","caption":"Canakkale-Ayvacik-Baharlar Kızılçam","credit":"Gallipoli Peninsula Historical National Park (5).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Piknik_Alan%C4%B1.jpg","alt":"Canakkale-Ayvacik-Baharlar Kızılçam","caption":"Canakkale-Ayvacik-Baharlar Kızılçam","credit":"Gölcük Tabiat Parkı Piknik Alanı","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Ayvacik-Baharlar%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228586","tip":"genel"}]
 description: "Marmara Bölgesi'nin.guïzel doğası, 140 hektarlık yeşil alan, çeşitli bitki türleri"
 keywords: ["Marmara Bölgesi","doğa","yeşil alan","bitki türleri","milli park","Çanakkale","Ayvacık","Baharlar Kızılçam","gezi","turizm"]

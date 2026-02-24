@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi hamam gezisi","mimari keşif"," yerel lezzetler","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Gülgün Hatun Hamamı","caption":"Gülgün Hatun Hamamı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Port_G%C3%B6cek_early_evening.jpg/960px-Port_G%C3%B6cek_early_evening.jpg","alt":"Gülgün Hatun Hamamı","caption":"Gülgün Hatun Hamamı","credit":"Port Göcek early evening","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BClg%C3%BCn%20Hatun%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738487","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde yer alan Gülgün Hatun Hamamı, tarihin izlerini taşıyan önemli bir kültürel miras."
 keywords: ["Manisa","Şehzadeler","Gülgün Hatun Hamamı","tarihi hamam","kültürel miras","Manisa gezilecek yerler","tarih","mimari","kültür"]

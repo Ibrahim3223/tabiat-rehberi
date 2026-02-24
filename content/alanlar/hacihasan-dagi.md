@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Hacıhasan Dağı","caption":"Hacıhasan Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg/960px-Nev%C5%9Fehir_%C3%9Crg%C3%BCp.jpg","alt":"Hacıhasan Dağı","caption":"Hacıhasan Dağı","credit":"Nevşehir Ürgüp","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1hasan%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31567076","tip":"genel"}]
 description: "Türkiye'de yer alan Hacıhasan Dağı, doğa severler için önemli bir destinasyon"
 keywords: ["Hacıhasan Dağı","Türkiye Dağları","Doğa Turizmi","Dağcılık","Trekking","Doğa Yürüyüşü","Türkiye'nin En Yüksek Noktaları","Dağ Keşfi","Turizm Destinasyonları"]

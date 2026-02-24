@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezinti","doğa yürüyüşü","fotografcılık","plaj aktiviteleri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Bin Tepeler Tümülüsü 56","caption":"Bin Tepeler Tümülüsü 56","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gallipoli_ANZAC_Cove_3.JPG/960px-Gallipoli_ANZAC_Cove_3.JPG","alt":"Bin Tepeler Tümülüsü 56","caption":"Bin Tepeler Tümülüsü 56","credit":"Gallipoli ANZAC Cove 3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2056","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728319","tip":"genel"}]
 description: "Ege Bölgesi'nin tarihi ve doğal güzelliklerinin bir arada olduğu bir destinasyon: Bin Tepeler Tümülüsü 56"
 keywords: ["Bin Tepeler Tümülüsü 56","Salihli","Manisa","Ege Bölgesi","tarihi mekan","doğal güzellik","tümülüs","plaj","gezi"]

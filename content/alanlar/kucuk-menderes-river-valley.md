@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Turkey_Run_Gorge.JPG","alt":"Küçük Menderes river valley","caption":"Küçük Menderes river valley","credit":"Turkey Run Gorge","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Landscape_with_Gorge_of_Arpa_Cayi_River_-_Ani_%28Ancient_Armenian_Capital%29_-_Near_Kars_-_Turkey_%285812378318%29.jpg/960px-Landscape_with_Gorge_of_Arpa_Cayi_River_-_Ani_%28Ancient_Armenian_Capital%29_-_Near_Kars_-_Turkey_%285812378318%29.jpg","alt":"Küçük Menderes river valley","caption":"Küçük Menderes river valley","credit":"Landscape with Gorge of Arpa Cayi River - Ani (Ancient Armenian Capital) - Near Kars - Turkey (5812378318)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk%20Menderes%20river%20valley","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q112036186","tip":"genel"}]
 description: "İzmir'in doğal güzelliklerinden biri olan Küçük Menderes river valley, 1200 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Küçük Menderes","İzmir","kanyon","doğa","yeşil alan","turizm","gezi","İzmir turistik yerler","Küçük Menderes river valley"]

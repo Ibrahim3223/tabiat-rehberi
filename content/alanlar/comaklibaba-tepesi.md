@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Manzara izleme","Fotoğraf çekme","Tarihi eserleri ziyaret etme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Çomaklıbaba Tepesi","caption":"Çomaklıbaba Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Çomaklıbaba Tepesi","caption":"Çomaklıbaba Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87omakl%C4%B1baba%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819669","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin Van ilinde yer alan Çomaklıbaba Tepesi, tarihi geçmişi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Çomaklıbaba Tepesi","Van","Doğu Anadolu Bölgesi","tarihi geçmişi","doğal güzellikler","tepe","coğrafya","flora","fauna"]

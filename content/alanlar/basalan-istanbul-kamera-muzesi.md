@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kamera ve fotoğraf ekipmanlarını incelemek","fotoğraf sanatının tarihini öğrenmek","müzenin bahçesinde gezmek","atölye ve workshoplara katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Paolo_Monti_-_Serie_fotografica_%28T%C3%BCrkiye%2C_1962%29_-_BEIC_6333361.jpg/960px-Paolo_Monti_-_Serie_fotografica_%28T%C3%BCrkiye%2C_1962%29_-_BEIC_6333361.jpg","alt":"Başalan İstanbul Kamera Müzesi","caption":"Başalan İstanbul Kamera Müzesi","credit":"Paolo Monti - Serie fotografica (Türkiye, 1962) - BEIC 6333361.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ski_mountain_under_clouds.jpg/960px-Ski_mountain_under_clouds.jpg","alt":"Başalan İstanbul Kamera Müzesi","caption":"Başalan İstanbul Kamera Müzesi","credit":"Ski mountain under clouds","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C5%9Falan%20%C4%B0stanbul%20Kamera%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949591","tip":"genel"}]
 description: "İstanbul'un merkezinde bulunan Başalan İstanbul Kamera Müzesi, fotoğraf ve kamera meraklıları için bir cennet. binlerce kamera ve fotoğraf ekipmanını barındıran müze, ziyaretçilerini bir zaman yolculuğuna çıkarıyor."
 keywords: ["kamera","müze","fotoğraf","İstanbul","tarih","teknoloji","sanat","kültür","eğitim","gezi"]

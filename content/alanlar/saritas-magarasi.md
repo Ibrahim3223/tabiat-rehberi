@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Evolution_of_the_Chiricahua_Landscape.jpg/960px-Evolution_of_the_Chiricahua_Landscape.jpg","alt":"Sarıtaş Mağarası","caption":"Sarıtaş Mağarası","credit":"Evolution of the Chiricahua Landscape","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-3.jpg/960px-Geological_formation%2C_%C5%9Eebinkarahisar_2016_01-3.jpg","alt":"Sarıtaş Mağarası","caption":"Sarıtaş Mağarası","credit":"Geological formation, Şebinkarahisar 2016 01-3","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1ta%C5%9F%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319736","tip":"genel"}]
 description: "Karaman'da yer alan Sarıtaş Mağarası, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzelliği ve tarihi önemiyle dikkat çekiyor."
 keywords: ["Sarıtaş Mağarası","Karaman","Jeopark","Doğal Alan","Mağara","Turizm","Karaman Turistik Yerler","Jeolojik Özellikler","Doğa"]

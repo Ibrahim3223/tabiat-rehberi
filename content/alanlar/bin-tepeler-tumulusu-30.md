@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Fotoğraf çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Bin Tepeler Tümülüsü 30","caption":"Bin Tepeler Tümülüsü 30","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Bin Tepeler Tümülüsü 30","caption":"Bin Tepeler Tümülüsü 30","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2030","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728353","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli hazinelerinden biri olan Bin Tepeler Tümülüsü 30, tarihi ve doğal güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Bin Tepeler Tümülüsü 30","Salihli","Manisa","Ege Bölgesi","tarihi mekanlar","doğa alanları","gezi rehberi"]

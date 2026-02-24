@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lower_Antelope_Canyon_November_2018_017.jpg/960px-Lower_Antelope_Canyon_November_2018_017.jpg","alt":"Malabinimağaraları","caption":"Malabinimağaraları","credit":"Lower Antelope Canyon November 2018 017","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Geol_Anatolia-fr.jpg/960px-Geol_Anatolia-fr.jpg","alt":"Malabinimağaraları","caption":"Malabinimağaraları","credit":"Geol Anatolia-fr","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Malabinima%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319529","tip":"genel"}]
 description: "Batman'da yer alan Malabinimağaraları, 1200 hektarlık bir jeopark alanı sunuyor. Doğal güzellikleri keşfedin!"
 keywords: ["Malabinimağaraları","Batman","Jeopark","Doğal Alan","Turizm","Gezi","Mağara","Doğa","Jeolojik Oluşum"]

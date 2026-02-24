@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihçi gezisi","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Musa Dede Türbesi","caption":"Musa Dede Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Black_Sea_-_Turkey.jpg/960px-Black_Sea_-_Turkey.jpg","alt":"Musa Dede Türbesi","caption":"Musa Dede Türbesi","credit":"Black Sea - Turkey","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Musa%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390497","tip":"genel"}]
 description: "Alanya'da tarihi ve doğal güzelliğin birleştiği Musa Dede Türbesi'ni keşfedin"
 keywords: ["Musa Dede Türbesi","Alanya","Antalya","tarihi mekanlar","doğal güzellikler","Akdeniz Bölgesi","turizm","gezi","tarihçe"]

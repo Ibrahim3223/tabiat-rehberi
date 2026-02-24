@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["orman gezi","fotoğrafçılık","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gates.jpg","alt":"Büyükbel Tepesi","caption":"Büyükbel Tepesi","credit":"The Landscape of Sıklık Gates.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ida_Flooding_%2821%29.jpg/960px-Ida_Flooding_%2821%29.jpg","alt":"Büyükbel Tepesi","caption":"Büyükbel Tepesi","credit":"Ida Flooding (21)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCkbel%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q35731296","tip":"genel"}]
 description: "Çorum'un gözde destinasyonu Büyükbel Tepesi, Karadeniz Bölgesi'nin doğal güzelliklerini keşfedin."
 keywords: ["Büyükbel Tepesi","Çorum","Karadeniz Bölgesi","doğa","tepe","gezi","turizm"]

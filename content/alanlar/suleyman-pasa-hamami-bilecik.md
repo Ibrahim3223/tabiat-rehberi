@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi hamamı ziyaret","yakın çevresindeki tarihi yapıları keşfet","doğal güzellikleri izle"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Süleyman Paşa Hamamı, Bilecik","caption":"Süleyman Paşa Hamamı, Bilecik","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Maden_Koyu_Beach_2021-11-13-2.jpg/960px-Maden_Koyu_Beach_2021-11-13-2.jpg","alt":"Süleyman Paşa Hamamı, Bilecik","caption":"Süleyman Paşa Hamamı, Bilecik","credit":"Maden Koyu Beach 2021-11-13-2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCleyman%20Pa%C5%9Fa%20Hamam%C4%B1%2C%20Bilecik","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245759","tip":"genel"}]
 description: "Tarihi geçmişi ve doğal güzelliği ile dikkat çeken Süleyman Paşa Hamamı, Bilecik'te ziyaretçiler için önemli bir destinasyon."
 keywords: ["Bilecik","Süleyman Paşa Hamamı","tarihi hamam","doğal güzellik","Marmara Bölgesi","gezi","tarih","kültür"]

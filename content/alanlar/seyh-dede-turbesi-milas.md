@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarih gezisi","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Şeyh Dede Türbesi, Milas","caption":"Şeyh Dede Türbesi, Milas","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/BOAT-Turkey_-_panoramio.jpg/960px-BOAT-Turkey_-_panoramio.jpg","alt":"Şeyh Dede Türbesi, Milas","caption":"Şeyh Dede Türbesi, Milas","credit":"BOAT-Turkey - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Dede%20T%C3%BCrbesi%2C%20Milas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134735175","tip":"genel"}]
 description: "Muğla'nın Milas ilçesinde bulunan Şeyh Dede Türbesi, tarihi ve doğal güzellikleri bir arada sunar."
 keywords: ["Şeyh Dede Türbesi","Milas","Muğla","tarih","doğa","gezi","türkü","kültür"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["trekking","doğa yürüyüşü","kayak","snowboard","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg/960px-Turkey%2C_Antalya%2C_National_park%2C_near_the_Kur%C5%9Funlu_Waterfall_-_panoramio.jpg","alt":"Erzurum-Erzincan-Erzincan-Sarıçam","caption":"Erzurum-Erzincan-Erzincan-Sarıçam","credit":"Turkey, Antalya, National park, near the Kurşunlu Waterfall - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Rock-cut_achitecture_of_Cappadocia.jpg/960px-Rock-cut_achitecture_of_Cappadocia.jpg","alt":"Erzurum-Erzincan-Erzincan-Sarıçam","caption":"Erzurum-Erzincan-Erzincan-Sarıçam","credit":"Rock-cut achitecture of Cappadocia","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Erzincan-Erzincan-Sar%C4%B1%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228428","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide milli parklarından biri olan Erzurum-Erzincan-Erzincan-Sarıçam, ziyaretçilerini büyüleyici doğası ve zengin fauna çeşitliliği ile karşılar."
 keywords: ["Erzurum","Erzincan","Sarıçam","milli park","Doğu Anadolu Bölgesi","doğa","fauna","flora","turizm"]

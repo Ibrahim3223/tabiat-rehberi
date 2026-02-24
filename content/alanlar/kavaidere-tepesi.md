@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kavaıdere Tepesi","caption":"Kavaıdere Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Kavaıdere Tepesi","caption":"Kavaıdere Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kava%C4%B1dere%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388555","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin. Kavaıdere Tepesi, Doğu Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Kavaıdere Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğa","Tepeler","Gezi","Turizm","Coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Çelemelik Dağı","caption":"Çelemelik Dağı","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Çelemelik Dağı","caption":"Çelemelik Dağı","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87elemelik%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34818782","tip":"genel"}]
 description: "Tunceli'nin görkemli dağlarından biri olan Çelemelik Dağı, doğa severlerin keşfetmek için bekleyen bir hazine."
 keywords: ["Çelemelik Dağı","Tunceli","Doğa","Dağ","Tunceli Dağları","Doğa Turizmi","Tunceli Turizmi","Çelemelik","Dağcılık","Tunceli Gezilecek Yerler"]

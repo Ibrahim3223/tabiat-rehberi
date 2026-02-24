@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["türbe gezi","yeşil alan keşfi","fotografcılık"," piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Hallac Mahmut Türbesi","caption":"Hallac Mahmut Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_08.jpg","alt":"Hallac Mahmut Türbesi","caption":"Hallac Mahmut Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hallac%20Mahmut%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390667","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzelliklerini keşfedin. Hallac Mahmut Türbesi, Altındağ'da yer alan önemli bir ziyaret noktasıdır."
 keywords: ["Hallac Mahmut Türbesi","Altındağ","Ankara","tarih","doğa","gezi","ziyaret","türbe","kültür","miras"]

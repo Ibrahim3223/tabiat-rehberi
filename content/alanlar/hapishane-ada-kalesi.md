@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Hapishane Ada Kalesi","caption":"Hapishane Ada Kalesi","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Beach_on_Rabbit_Island_near_Nelson.jpg/960px-Beach_on_Rabbit_Island_near_Nelson.jpg","alt":"Hapishane Ada Kalesi","caption":"Hapishane Ada Kalesi","credit":"Beach on Rabbit Island near Nelson","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hapishane%20Ada%20Kalesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131902105","tip":"genel"}]
 description: "Muğla'nın Köyceğiz ilçesinde yer alan Hapishane Ada Kalesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Hapishane Ada Kalesi","Muğla","Köyceğiz","ada","kale","tarih","doğa","gezi","turizm"]

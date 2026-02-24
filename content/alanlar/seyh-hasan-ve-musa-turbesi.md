@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Denize girme","Güneşlenme","Doğanın güzelliğini keşfetme","Tarihin izlerini takip etme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Şeyh Hasan ve Musa Türbesi","caption":"Şeyh Hasan ve Musa Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Istanbul_beaches-_Sea_of_Marmara_02.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_02.jpg","alt":"Şeyh Hasan ve Musa Türbesi","caption":"Şeyh Hasan ve Musa Türbesi","credit":"Istanbul beaches- Sea of Marmara 02","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20Hasan%20ve%20Musa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391724","tip":"genel"}]
 description: "Akdeniz Bölgesi'nin güzellikleriyle dolu bir köşesi, Şeyh Hasan ve Musa Türbesi."
 keywords: ["Şeyh Hasan ve Musa Türbesi","Akdeniz Bölgesi","Mersin","tarih","coğrafya","doğa","turizm","gezi","ziyaret"]

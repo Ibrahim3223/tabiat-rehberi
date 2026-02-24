@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarih gezisi","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Salar Kaya Mezarı","caption":"Salar Kaya Mezarı","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Salar Kaya Mezarı","caption":"Salar Kaya Mezarı","credit":"Podima2","license":"CC BY-SA 2.5"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Salar%20Kaya%20Mezar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728191","tip":"genel"}]
 description: "Sinop'un Boyabat ilçesinde bulunan Salar Kaya Mezarı, Karadeniz Bölgesi'nin önemli tarihi ve doğal güzelliklerinden biri."
 keywords: ["Salar Kaya Mezarı","Sinop","Boyabat","Karadeniz Bölgesi","tarih","doğa","gezi","kaya mezarı"]

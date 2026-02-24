@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["Dağcılık","Trekking","Kamp","Fotoğrafçılık","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg/960px-Donner_Und_Blitzen_Wild_and_Scenic_River_%2838299799974%29.jpg","alt":"Oluklusekı Tepe","caption":"Oluklusekı Tepe","credit":"Donner Und Blitzen Wild and Scenic River (38299799974)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Scenery_from_a_high_spot.jpg/960px-Scenery_from_a_high_spot.jpg","alt":"Oluklusekı Tepe","caption":"Oluklusekı Tepe","credit":"Scenery from a high spot","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Oluklusek%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31535730","tip":"genel"}]
 description: "Hatay'da bulunan Oluklusekı Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri. Doğal güzelliği ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Oluklusekı Tepe","Hatay dağları","doğal güzellikler","trekking rotaları","Hatay turizm","dağcılık","turistik yerler","Hatay gezilecek yerler","doğa sporları"]

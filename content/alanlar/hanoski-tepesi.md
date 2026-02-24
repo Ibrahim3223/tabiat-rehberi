@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["gezi","tarih ve kültür turu","doğa yürüyüşü","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Hanoşki Tepesi","caption":"Hanoşki Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG/960px-Akilbaba_Tepesi_%40_Espiye-Giresun-2.JPG","alt":"Hanoşki Tepesi","caption":"Hanoşki Tepesi","credit":"Akilbaba Tepesi @ Espiye-Giresun-2","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hano%C5%9Fki%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552591","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzellikleri ile dikkat çeken Hanoşki Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mardin","Hanoşki Tepesi","tarih","doğa","gezi","turizm","Güneydoğu Anadolu Bölgesi","coğrafya","flora","fauna"]

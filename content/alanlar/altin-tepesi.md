@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa yürüyüşü","fotoğrafçılık","tarihçe araştırma"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Altın Tepesi","caption":"Altın Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/General_view_of_Fort_Hill_Farm%2C_view_looking_west_from_%28B%29_two-story_hall-and-parlor_house._Buildings_visible%2C_from_left_to_right%2C_are_%28B%29_parlor_house_porch%3B_%28E%29_one-room_cabin%3B_HABS_VA%2C42-CLOV.V%2C2-3.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Altın Tepesi","caption":"Altın Tepesi","credit":"General view of Fort Hill Farm, view looking west from (B) two-story hall-and-parlor house. Buildings visible, from left to right, are (B) parlor house porch; (E) one-room cabin; HABS VA,42-CLOV.V,2-3","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alt%C4%B1n%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31559424","tip":"genel"}]
 description: "Konya'nın İç Anadolu Bölgesi'nde yer alan Altın Tepesi, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar."
 keywords: ["Altın Tepesi","Konya","İç Anadolu Bölgesi","tarihçe","coğrafya","flora","fauna","ziyaret"]

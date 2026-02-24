@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Bisiklet turu","Su sporları","Çiçek izleme","Kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NATIONAL_PARK_TRIP_WITH_JEEP.jpg/960px-NATIONAL_PARK_TRIP_WITH_JEEP.jpg","alt":"Mugla-Koycegiz-Koyobasi Kızılçam2","caption":"Mugla-Koycegiz-Koyobasi Kızılçam2","credit":"NATIONAL PARK TRIP WITH JEEP.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Bolu.jpg","alt":"Mugla-Koycegiz-Koyobasi Kızılçam2","caption":"Mugla-Koycegiz-Koyobasi Kızılçam2","credit":"Gölcük Tabiat Parkı Bolu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mugla-Koycegiz-Koyobasi%20K%C4%B1z%C4%B1l%C3%A7am2","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227915","tip":"genel"}]
 description: "Muğla'nın doğal güzelliklerini keşfedin. Koyceğiz'in yeşilliği ve Kızılçam2'nin doğa harikaları."
 keywords: ["Muğla","Koyceğiz","Kızılçam2","Milli Park","Doğa","Yeşil","Koy","Çam","Turizm"]

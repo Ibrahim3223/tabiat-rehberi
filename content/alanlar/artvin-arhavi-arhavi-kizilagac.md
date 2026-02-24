@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "bir gün veya birkaç gün"
 aktiviteler: ["doğa yürüyüşü","şelale ziyaretleri","orman gezileri","dağ tırmanışı","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg/960px-City_of_Artvin%2C_Bor%C3%A7ka_Karag%C3%B6l.jpg","alt":"Artvin-Arhavi-Arhavi-Kızılagac","caption":"Artvin-Arhavi-Arhavi-Kızılagac","credit":"City of Artvin, Borçka Karagöl","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Artvin-Arhavi-Arhavi-Kızılagac","caption":"Artvin-Arhavi-Arhavi-Kızılagac","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Artvin-Arhavi-Arhavi-K%C4%B1z%C4%B1lagac","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228288","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, 140 hektarlık alanıyla doğaseverleri bekliyor"
 keywords: ["Artvin","Arhavi","Kızılagac","milli park","Karadeniz Bölgesi","doğa","gezi","turizm","çevre","ekoloji"]

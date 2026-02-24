@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi turbe ve çevresini gezmek","Plajın keyfini çıkarmak","Doğa yürüyüşü yapmak","Deniz canlıları ile karşılaşmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Topçu Baba Türbesi","caption":"Topçu Baba Türbesi","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Piri_Reis_-_Map_of_the_Northeastern_Tip_of_Rhodes_Island_Facing_the_Anatolian_Coast_with_the_Island_of_Syme_-_Walters_W658100B_-_Full_Page.jpg/960px-Piri_Reis_-_Map_of_the_Northeastern_Tip_of_Rhodes_Island_Facing_the_Anatolian_Coast_with_the_Island_of_Syme_-_Walters_W658100B_-_Full_Page.jpg","alt":"Topçu Baba Türbesi","caption":"Topçu Baba Türbesi","credit":"Piri Reis - Map of the Northeastern Tip of Rhodes Island Facing the Anatolian Coast with the Island of Syme - Walters W658100B - Full Page","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Top%C3%A7u%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391814","tip":"genel"}]
 description: "Kırklareli'nin Kofçaz ilçesinde, Marmara Bölgesi'nde yer alan tarihi bir turbe ve plaj"
 keywords: ["Topçu Baba Türbesi","Kırklareli","Kofçaz","Marmara Bölgesi","tarihi turbe","plaj","doğa","tarih","gezi"]

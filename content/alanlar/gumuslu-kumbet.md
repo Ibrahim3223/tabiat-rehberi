@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Deniz keyfi","Güneşlenmek","Yürüyüş","Doğa gezisi","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Gümüşlü Kümbet","caption":"Gümüşlü Kümbet","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Latrans-Turkey_location_Aegean_Region.svg/960px-Latrans-Turkey_location_Aegean_Region.svg.png","alt":"Gümüşlü Kümbet","caption":"Gümüşlü Kümbet","credit":"Latrans-Turkey location Aegean Region","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9Fl%C3%BC%20K%C3%BCmbet","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582823","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin en güzel plajlarından biri olan Gümüşlü Kümbet, Erzurum'un Yakutiye ilçesinde yer alır."
 keywords: ["Gümüşlü Kümbet","Erzurum","Yakutiye","Doğu Anadolu Bölgesi","plaj","deniz","tatil","gezi","turizm"]

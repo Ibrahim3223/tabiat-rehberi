@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Piknik","Fotoğrafçılık","Yürüyüş"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kılavuz Tepe","caption":"Kılavuz Tepe","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ida_Flooding_%2814%29.jpg/960px-Ida_Flooding_%2814%29.jpg","alt":"Kılavuz Tepe","caption":"Kılavuz Tepe","credit":"Ida Flooding (14)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1lavuz%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386668","tip":"genel"}]
 description: "Diyarbakır'ın tarih ve doğa harikası, ziyaretçilerini büyüleyen Kılavuz Tepe"
 keywords: ["Kılavuz Tepe","Diyarbakır","Güneydoğu Anadolu Bölgesi","tepe","doğa","tarih","gezi","ziyaret"]

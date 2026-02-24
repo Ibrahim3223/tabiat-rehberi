@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Çevre gezisi","Yeşil alanlarda dinlenme","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Hadım İbrahim Paşa Türbesi","caption":"Hadım İbrahim Paşa Türbesi","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Istanbul_beaches-_Sea_of_Marmara_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_08.jpg","alt":"Hadım İbrahim Paşa Türbesi","caption":"Hadım İbrahim Paşa Türbesi","credit":"Istanbul beaches- Sea of Marmara 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Had%C4%B1m%20%C4%B0brahim%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391294","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Hadım İbrahim Paşa Türbesi, Marmara Bölgesi'nde yer alır."
 keywords: ["Hadım İbrahim Paşa","Türbe","İstanbul","Marmara Bölgesi","Tarih","Mimari","Kültür"]

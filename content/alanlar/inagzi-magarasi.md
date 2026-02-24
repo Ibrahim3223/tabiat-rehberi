@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"İnağzı Mağarası","caption":"İnağzı Mağarası","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d5/2023-02-06_Central_Turkey_M6_earthquake_intensity_map_%28USGS%29.jpg","alt":"İnağzı Mağarası","caption":"İnağzı Mağarası","credit":"2023-02-06 Central Turkey M6 earthquake intensity map (USGS)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0na%C4%9Fz%C4%B1%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q24915644","tip":"genel"}]
 description: "Türkiye'nin doğal güzelliklerini keşfedin. İnağzı Mağarası, jeopark olarak bilinen bu bölge, doğa severler için bir cennet."
 keywords: ["İnağzı Mağarası","Jeopark","Doğa","Türkiye","Mağara","Gezi","Seyahat","Turizm","Doğal Alanlar"]

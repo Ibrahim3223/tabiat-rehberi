@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Bir gün"
 aktiviteler: ["Denizde yüzme","Güneşlenme","Kumda oynamak","Yürüyüş yapmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Büyük Hamam, Büyükkumla","caption":"Büyük Hamam, Büyükkumla","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ba%C4%9Flar_Burnu.jpg/960px-Ba%C4%9Flar_Burnu.jpg","alt":"Büyük Hamam, Büyükkumla","caption":"Büyük Hamam, Büyükkumla","credit":"Bağlar Burnu","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%20Hamam%2C%20B%C3%BCy%C3%BCkkumla","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245846","tip":"genel"}]
 description: "Marmara Bölgesi'nin en güzel plajlarından biri olan Büyük Hamam, Büyükkumla, Gemlik'in en çok ziyaret edilen yerlerinden biri."
 keywords: ["Büyük Hamam","Büyükkumla","Gemlik","Marmara Bölgesi","plaj","deniz","kum"]

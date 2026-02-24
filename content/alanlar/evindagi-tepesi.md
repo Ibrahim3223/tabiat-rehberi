@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Flora ve Fauna Gözlemi","Manzara İzleme","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Evindağı Tepesi","caption":"Evindağı Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Evindağı Tepesi","caption":"Evindağı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Evinda%C4%9F%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31568078","tip":"genel"}]
 description: "Erzurum'un güzide doğal alanlarından biri olan Evindağı Tepesi, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Evindağı Tepesi","Erzurum","Doğu Anadolu Bölgesi","Doğal Alan","Tepeler","Coğrafya","Flora","Fauna","Ziyaret","Gezi"]

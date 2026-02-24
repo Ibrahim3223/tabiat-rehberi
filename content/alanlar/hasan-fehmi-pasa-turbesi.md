@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe ziyaretçiliği","Doğa yürüyüşü","Fotoğrafçılık","Tarih araştırması"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Hasan Fehmi Paşa Türbesi","caption":"Hasan Fehmi Paşa Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Hasan Fehmi Paşa Türbesi","caption":"Hasan Fehmi Paşa Türbesi","credit":"Old Pier","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasan%20Fehmi%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391015","tip":"genel"}]
 description: "Fatih, İstanbul'da bulunan Hasan Fehmi Paşa Türbesi, tarihi ve doğası ile ziyaretçilerini cezbeden bir yer."
 keywords: ["Hasan Fehmi Paşa","Türbe","Fatih","İstanbul","Marmara Bölgesi","Tarih","Doğa","Turizm"]

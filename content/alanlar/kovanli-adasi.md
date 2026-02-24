@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["yüzme","dalış","tekne turu","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_tragedy_of_the_seas%3B_or%2C_Sorrow_on_the_ocean%2C_lake%2C_and_river%2C_from_shipwreck%2C_plague%2C_fire_and_famine_%281848%29_%2814763280232%29.jpg/960px-The_tragedy_of_the_seas%3B_or%2C_Sorrow_on_the_ocean%2C_lake%2C_and_river%2C_from_shipwreck%2C_plague%2C_fire_and_famine_%281848%29_%2814763280232%29.jpg","alt":"Kovanlı Adası","caption":"Kovanlı Adası","credit":"The tragedy of the seas; or, Sorrow on the ocean, lake, and river, from shipwreck, plague, fire and famine (1848) (14763280232)","license":"No restrictions"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_island_of_St._Nicholas_-_panoramio.jpg/960px-The_island_of_St._Nicholas_-_panoramio.jpg","alt":"Kovanlı Adası","caption":"Kovanlı Adası","credit":"The island of St. Nicholas - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kovanl%C4%B1%20Adas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49648932","tip":"genel"}]
 description: "Antalya'da bulunan Kovanlı Adası, 1200 hektarlık yeşil cenneti ve doğal güzellikleriyle ziyaretçilerini bekliyor."
 keywords: ["Kovanlı Adası","Antalya","Ada","Doğa","Yeşil Cennet","Turizm","Gezi","Seyahat","Türkiye"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotografcılık","tarihi eserleri gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg/960px-Beach_between_Samanda%C4%9F_and_Cevlik_%28with_fresh-cut_leek_from_nearby_farm%29._Hatay_province%2C_Turkey._-_panoramio.jpg","alt":"Hamam, Boğazlıyan","caption":"Hamam, Boğazlıyan","credit":"Beach between Samandağ and Cevlik (with fresh-cut leek from nearby farm). Hatay province, Turkey. - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg","alt":"Hamam, Boğazlıyan","caption":"Hamam, Boğazlıyan","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hamam%2C%20Bo%C4%9Fazl%C4%B1yan","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133245807","tip":"genel"}]
 description: "Yozgat'ın Boğazlıyan ilçesinde bulunan Hamam, doğal güzelliği ve tarihi geçmişiyle dikkat çekiyor."
 keywords: ["Hamam","Boğazlıyan","Yozgat","doğal güzellik","tarihi geçmişi","İç Anadolu Bölgesi","turizm","gezi","yörenin güzellikleri"]

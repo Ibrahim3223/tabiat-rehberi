@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi yapıları gezme","Yeşil alanları keşfetme","Boğaziçi'nin manzarasını izleme","Hanım Sultan Türbeleri'ni ziyaret etme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Karaburun_-_panoramio_%281%29.jpg/960px-Karaburun_-_panoramio_%281%29.jpg","alt":"Dolmabahçe Sarayı Hanım Sultan Türbeleri","caption":"Dolmabahçe Sarayı Hanım Sultan Türbeleri","credit":"Karaburun - panoramio (1).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_5.jpg","alt":"Dolmabahçe Sarayı Hanım Sultan Türbeleri","caption":"Dolmabahçe Sarayı Hanım Sultan Türbeleri","credit":"2023-11-04 Choban beach near Kaş 5","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dolmabah%C3%A7e%20Saray%C4%B1%20Han%C4%B1m%20Sultan%20T%C3%BCrbeleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391804","tip":"genel"}]
 description: "İstanbul'un tarihi ve turistik mekanlarından biri olan Dolmabahçe Sarayı Hanım Sultan Türbeleri, Marmara Bölgesi'nde yer alıyor."
 keywords: ["Dolmabahçe Sarayı","Hanım Sultan Türbeleri","İstanbul","Marmara Bölgesi","tarihi mekan","turistik yer","tarihçe","coğrafya"]

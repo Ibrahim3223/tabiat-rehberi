@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Karayüce Tepe","caption":"Karayüce Tepe","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg/960px-Alada%C4%9Flara_Bak%C4%B1%C5%9F.jpg","alt":"Karayüce Tepe","caption":"Karayüce Tepe","credit":"Aladağlara Bakış","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karay%C3%BCce%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34878051","tip":"genel"}]
 description: "Sivas'ta bulunan Karayüce Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1400 metre yüksekliğiyle bölgenin önemli dağlarından biri."
 keywords: ["Karayüce Tepe","Sivas","Dağ","Doğa","Tarih","Gezi","Sivas Gezilecek Yerler","Karayüce Tepe Hakkında","Sivas Dağları"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","tarih gezisi","yöresel yemekler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Bozyokuş Tepesi","caption":"Bozyokuş Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Detail_of_north_%28front%29_entrance._View_looking_southeast._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_HABS_VA%2C42-CLOV.V%2C2A-7.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Bozyokuş Tepesi","caption":"Bozyokuş Tepesi","credit":"Detail of north (front) entrance. View looking southeast. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, HABS VA,42-CLOV.V,2A-7","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozyoku%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391108","tip":"genel"}]
 description: "Sivas'ta yer alan Bozyokuş Tepesi, İç Anadolu Bölgesi'nin önemli coğrafi noktalarından biri"
 keywords: ["Bozyokuş Tepesi","Sivas","İç Anadolu Bölgesi","coğrafi nokta","tepe","doğa","gezi"]

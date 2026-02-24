@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihi eserleri gezmek","doğa yürüyüşü","fotograf çekmek","mimari eserleri incelemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Nureddin Salih Kümbeti, Divriği","caption":"Nureddin Salih Kümbeti, Divriği","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-19_Ufakdere_Port_Beach_1.jpg/960px-2023-11-19_Ufakdere_Port_Beach_1.jpg","alt":"Nureddin Salih Kümbeti, Divriği","caption":"Nureddin Salih Kümbeti, Divriği","credit":"2023-11-19 Ufakdere Port Beach 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Nureddin%20Salih%20K%C3%BCmbeti%2C%20Divri%C4%9Fi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582392","tip":"genel"}]
 description: "Sivas'ın Divriği ilçesinde yer alan Nureddin Salih Kümbeti, tarihi ve mimari özellikleri ile dikkat çekiyor."
 keywords: ["Nureddin Salih Kümbeti","Divriği","Sivas","tarihi mekanlar","mimari eserler","İç Anadolu Bölgesi","kültürel miras","tarihçe","coğrafya"]

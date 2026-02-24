@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","deniz keyfi","tarih gezisi","doğa izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Phaselis Büyük Hamam","caption":"Phaselis Büyük Hamam","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_06.jpg","alt":"Phaselis Büyük Hamam","caption":"Phaselis Büyük Hamam","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 06","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Phaselis%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739210","tip":"genel"}]
 description: "Kemer/Antalya'da bulunan Phaselis Büyük Hamam, tarihi ve doğal güzellikleri bir araya getiren bir destinasyon"
 keywords: ["Phaselis","Büyük Hamam","Kemer","Antalya","tarih","doğa","plaj","gezi"]

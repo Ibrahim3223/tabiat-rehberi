@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg/960px-G%C3%B6zede_-_Haziran_2022_%2890513%29.jpg","alt":"Drahovi Dağı","caption":"Drahovi Dağı","credit":"Gözede - Haziran 2022 (90513)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Yol_ve_demirkaz%C4%B1k.jpg/960px-Yol_ve_demirkaz%C4%B1k.jpg","alt":"Drahovi Dağı","caption":"Drahovi Dağı","credit":"Yol ve demirkazık","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Drahovi%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31526401","tip":"genel"}]
 description: "Türkiye'de bulunan Drahovi Dağı, doğa severlerin ziyaret ettiği önemli bir dağdır. 1200 hektarlık yeşil alanı ile dikkat çeker."
 keywords: ["Drahovi Dağı","Türkiye dağları","doğa turizmi","yeşil alanlar","dağcılık","turizm","gezi rehberi","coğrafya","doğal güzellikler"]

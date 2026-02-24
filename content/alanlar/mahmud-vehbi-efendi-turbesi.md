@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihçe gezisi","doğa yürüyüşü","flora ve fauna"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/0/0e/ZEYN%C4%B0LER_KABR%C4%B0STANI_BURSA_-_panoramio_%281%29.jpg","alt":"Mahmud Vehbi Efendi Türbesi manzarası","credit":"Mustafa DUMAN","license":"cc-by-3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_01.jpg","alt":"Mahmud Vehbi Efendi Türbesi","caption":"Mahmud Vehbi Efendi Türbesi","credit":"Sunset at Aegean Sea, İzmir 01","license":"CC BY-SA 4.0"}
   gallery: []
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mahmud%20Vehbi%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390812","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin güzide şehirlerinden Erzurum'un Pasinler ilçesinde bulunan Mahmud Vehbi Efendi Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir destinasyon."

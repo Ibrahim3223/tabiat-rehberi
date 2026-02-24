@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/White_Wild_and_Scenic_River_%2838979843612%29.jpg/960px-White_Wild_and_Scenic_River_%2838979843612%29.jpg","alt":"Karahöyük Tepesi","caption":"Karahöyük Tepesi","credit":"White Wild and Scenic River (38979843612)","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg/960px-Mount_Ararat_and_the_Araratian_plain_%28cropped%29.jpg","alt":"Karahöyük Tepesi","caption":"Karahöyük Tepesi","credit":"Mount Ararat and the Araratian plain (cropped)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karah%C3%B6y%C3%BCk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34877906","tip":"genel"}]
 description: "Şanlıurfa'nın tarihi ve doğal güzelliklerini keşfedin. Karahöyük Tepesi, şehrin önemli bir noktası."
 keywords: ["Karahöyük Tepesi","Şanlıurfa","Dağ","Doğa","Tarih","Gezi","Seyahat","Turizm","Şanlıurfa gezilecek yerler"]

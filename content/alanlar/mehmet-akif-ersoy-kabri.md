@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Manzarayı seyretmek","Denize girmek","Kabir ve çevresini gezmek","Etkinliklere katılmak"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Mehmet Akif Ersoy Kabri","caption":"Mehmet Akif Ersoy Kabri","credit":"Karaburun - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Istanbul_beaches-_Sea_of_Marmara_03.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_03.jpg","alt":"Mehmet Akif Ersoy Kabri","caption":"Mehmet Akif Ersoy Kabri","credit":"Istanbul beaches- Sea of Marmara 03","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mehmet%20Akif%20Ersoy%20Kabri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728115","tip":"genel"}]
 description: "Mehmet Akif Ersoy'un sonsuz uykuya yatığı yer, Eyüpsultan'da ziyaretçilerini bekliyor."
 keywords: ["Mehmet Akif Ersoy","Eyüpsultan","İstanbul","Marmara Bölgesi","plaj","kabir"]

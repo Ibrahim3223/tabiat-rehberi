@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotoğraf çekme","tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Malahişe Tepesi","caption":"Malahişe Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ida_Flooding_%289%29.jpg/960px-Ida_Flooding_%289%29.jpg","alt":"Malahişe Tepesi","caption":"Malahişe Tepesi","credit":"Ida Flooding (9)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Malahi%C5%9Fe%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31552296","tip":"genel"}]
 description: "Mardin'in tarihi ve coğrafik güzelliği ile ön plana çıkan Malahişe Tepesi, ziyaretçilere şehrin panoramik manzarasını sunuyor."
 keywords: ["Malahişe Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","tepe","coğrafya","tarihçe","doğa"]

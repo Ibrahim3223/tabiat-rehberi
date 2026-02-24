@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["kayak","yürüyüş","doğa fotoğrafçılığı","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Yumrukaya Tepesi","caption":"Yumrukaya Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Yumrukaya Tepesi","caption":"Yumrukaya Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yumrukaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388548","tip":"genel"}]
 description: "Doğu Anadolu'nun yüksek tepelerinden biri olan Yumrukaya Tepesi, Erzurum'un güzelliklerini keşfetmek için ideal bir nokta."
 keywords: ["Yumrukaya Tepesi","Erzurum","Doğu Anadolu","tepe","doğa","gezi","tarih"]

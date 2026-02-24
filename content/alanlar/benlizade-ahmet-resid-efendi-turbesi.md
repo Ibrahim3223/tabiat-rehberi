@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Tarihi eserleri görmek","Flora ve faunayı keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Benlizade Ahmet Reşid Efendi Türbesi","caption":"Benlizade Ahmet Reşid Efendi Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Istanbul_beaches-_Sea_of_Marmara_08.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_08.jpg","alt":"Benlizade Ahmet Reşid Efendi Türbesi","caption":"Benlizade Ahmet Reşid Efendi Türbesi","credit":"Istanbul beaches- Sea of Marmara 08","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Benlizade%20Ahmet%20Re%C5%9Fid%20Efendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390963","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Benlizade Ahmet Reşid Efendi Türbesi, Marmara Bölgesi'nde yer alır"
 keywords: ["Benlizade Ahmet Reşid Efendi Türbesi","Fatih","İstanbul","Marmara Bölgesi","tarih","mimari","kültür"]

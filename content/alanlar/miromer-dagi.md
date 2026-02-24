@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg/960px-Landschap_met_ru%C3%AFnes_en_het_aquaduct_naar_Efeze%2C_RP-F-F00998-AV.jpg","alt":"Mirömer Dağı","caption":"Mirömer Dağı","credit":"Landschap met ruïnes en het aquaduct naar Efeze, RP-F-F00998-AV.jpg","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg/960px-Kayak_Da%C4%9F_Manzaras%C4%B1%2C_%C4%B0sparta.jpg","alt":"Mirömer Dağı","caption":"Mirömer Dağı","credit":"Kayak Dağ Manzarası, İsparta","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mir%C3%B6mer%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49050628","tip":"genel"}]
 description: "Van'da yer alan Mirömer Dağı, doğal güzellikleri ve trekking rotaları ile dikkat çekiyor."
 keywords: ["Mirömer Dağı","Van","Dağ","Trekking","Doğa","Turizm","Van Turistik Yerler","Mirömer Dağı Trekking","Van Doğal Alanlar"]

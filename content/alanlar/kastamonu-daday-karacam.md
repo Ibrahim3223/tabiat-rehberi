@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşü","kuş gözlemi","fotoğrafçılık","dağcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Kastamonu-Daday-Karacam","caption":"Kastamonu-Daday-Karacam","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg/960px-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_Nil%C3%BCferler.jpg","alt":"Kastamonu-Daday-Karacam","caption":"Kastamonu-Daday-Karacam","credit":"Gölcük Tabiat Parkı Nilüferler","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kastamonu-Daday-Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227522","tip":"genel"}]
 description: "Kastamonu'nun doğal güzelliklerini keşfedin"
 keywords: ["Kastamonu","Daday","Karacam","milli park","doğa","gezi","turizm","Karadeniz Bölgesi","çevre","ekoloji"]

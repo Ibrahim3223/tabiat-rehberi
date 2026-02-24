@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["plajda dinlenmek","türbeyi gezmek","çevreyi keşfetmek","denizde yüzme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Silifke Sadık Dede Türbesi","caption":"Silifke Sadık Dede Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Silifke Sadık Dede Türbesi","caption":"Silifke Sadık Dede Türbesi","credit":"Karaburun - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Silifke%20Sad%C4%B1k%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390500","tip":"genel"}]
 description: "Mersin'in Silifke ilçesinde bulunan tarihi bir türbe ve plaj"
 keywords: ["Silifke","Sadık Dede Türbesi","Mersin","Akdeniz Bölgesi","tarih","plaj","turizm"]

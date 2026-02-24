@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğraf çekimi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Davutpaşa İskelesi Hamamı","caption":"Davutpaşa İskelesi Hamamı","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9c/Old_Pier.jpg","alt":"Davutpaşa İskelesi Hamamı","caption":"Davutpaşa İskelesi Hamamı","credit":"Old Pier","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Davutpa%C5%9Fa%20%C4%B0skelesi%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738548","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini keşfedin"
 keywords: ["Davutpaşa İskelesi Hamamı","Fatih","İstanbul","Marmara Bölgesi","tarih","doğa","gezi","turizm","kültür"]

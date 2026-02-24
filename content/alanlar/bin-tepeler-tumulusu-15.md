@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarih gezisi","Doğa yürüyüşü","Manzara seyri","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Bin Tepeler Tümülüsü 15","caption":"Bin Tepeler Tümülüsü 15","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_14.jpg","alt":"Bin Tepeler Tümülüsü 15","caption":"Bin Tepeler Tümülüsü 15","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 14","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2015","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728373","tip":"genel"}]
 description: "Salihli, Manisa'da bulunan 15. tümülüs, Ege Bölgesi'nin tarihi ve doğal güzelliklerini keşfedeceğiniz bir destinasyon."
 keywords: ["Bin Tepeler","Tümülüs","Salihli","Manisa","Ege Bölgesi","tarih","doğa","gezi","kültür"]

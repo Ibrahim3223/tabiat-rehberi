@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tepenin etrafındaki manzaranın keşfedilmesi","Mardin'in tarihi ve kültürel zenginliklerinin keşfedilmesi","Tepenin flora ve faunasının keşfedilmesi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Mantalaferho Tepesi","caption":"Mantalaferho Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ida_Flooding_%2819%29.jpg/960px-Ida_Flooding_%2819%29.jpg","alt":"Mantalaferho Tepesi","caption":"Mantalaferho Tepesi","credit":"Ida Flooding (19)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Mantalaferho%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31554183","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin birleştiği Mantalaferho Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Mantalaferho Tepesi","Mardin","Güneydoğu Anadolu Bölgesi","Tarih","Doğa","Tepeler","Coğrafya","Flora","Fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["kaplıca ziyaretleri","doğa yürüyüşleri","kuş gözlemciliği","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg/960px-%5E%5E%5E%5E_-_Flickr_-_zehhhra.jpg","alt":"Haymana Ilıcası","caption":"Haymana Ilıcası","credit":"^^^^ - Flickr - zehhhra.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_travertines_from_a_distance-_the_people_look_like_ants%21_%2816124352159%29.jpg/960px-The_travertines_from_a_distance-_the_people_look_like_ants%21_%2816124352159%29.jpg","alt":"Haymana Ilıcası","caption":"Haymana Ilıcası","credit":"The travertines from a distance- the people look like ants! (16124352159)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Haymana%20Il%C4%B1cas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49741921","tip":"genel"}]
 description: "Ankara'nın İç Anadolu Bölgesi'nde yer alan Haymana Ilıcası, 140 hektarlık bir alana yayılmış termal bir kaynak"
 keywords: ["Haymana Ilıcası","termal kaynak","Ankara","İç Anadolu Bölgesi","turizm","sağlık turizmi","doğa","gezi"]

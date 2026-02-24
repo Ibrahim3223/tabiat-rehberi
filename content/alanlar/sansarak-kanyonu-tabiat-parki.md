@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/G%C3%B6lba%C5%9F%C4%B1%2Cbursa_-_panoramio.jpg/960px-G%C3%B6lba%C5%9F%C4%B1%2Cbursa_-_panoramio.jpg","alt":"Sansarak Kanyonu Tabiat Parkı","caption":"Sansarak Kanyonu Tabiat Parkı","credit":"Gölbaşı,bursa - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Uzung%C3%B6l_Nature_Park%2C_Trabzon%2C_Turkey.jpg/960px-Uzung%C3%B6l_Nature_Park%2C_Trabzon%2C_Turkey.jpg","alt":"Sansarak Kanyonu Tabiat Parkı","caption":"Sansarak Kanyonu Tabiat Parkı","credit":"Uzungöl Nature Park, Trabzon, Turkey","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sansarak%20Kanyonu%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/undefined","tip":"genel"}]
 description: "Marmara Bölgesi'nin gizli cenneti, Bursa'da yer alan Sansarak Kanyonu Tabiat Parkı"
 keywords: ["Sansarak Kanyonu","Tabiat Parkı","Marmara Bölgesi","Bursa","doğa","gezi","kanyon"]

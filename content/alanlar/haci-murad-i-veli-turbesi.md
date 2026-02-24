@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Piknik","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Hacı Murad-ı Veli Türbesi","caption":"Hacı Murad-ı Veli Türbesi","credit":"Anzac Cove.jpg","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Aegean_Sea_%28MODIS_2017-07-04%29.jpg/960px-Aegean_Sea_%28MODIS_2017-07-04%29.jpg","alt":"Hacı Murad-ı Veli Türbesi","caption":"Hacı Murad-ı Veli Türbesi","credit":"Aegean Sea (MODIS 2017-07-04)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Murad-%C4%B1%20Veli%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390763","tip":"genel"}]
 description: "Çankırı'nın Eldivan ilçesinde bulunan Hacı Murad-ı Veli Türbesi, tarihi ve doğal güzellikleri bir arada sunan özel bir mekân."
 keywords: ["Hacı Murad-ı Veli Türbesi","Eldivan","Çankırı","İç Anadolu Bölgesi","Türbe","Tarih","Doğa","Gezi","Turizm"]

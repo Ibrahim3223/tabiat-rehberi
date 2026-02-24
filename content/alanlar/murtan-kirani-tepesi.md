@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografi","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Murtan Kıranı Tepesi","caption":"Murtan Kıranı Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ida_Flooding_%2824%29.jpg/960px-Ida_Flooding_%2824%29.jpg","alt":"Murtan Kıranı Tepesi","caption":"Murtan Kıranı Tepesi","credit":"Ida Flooding (24)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Murtan%20K%C4%B1ran%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389605","tip":"genel"}]
 description: "Balıkesir'in yüksek noktalarından biri olan Murtan Kıranı Tepesi, Marmara Bölgesi'nin doğal güzelliklerini sunar."
 keywords: ["Murtan Kıranı Tepesi","Balıkesir","Marmara Bölgesi","doğal güzellikler","tepe","gezi","turizm","çevre","iklim"]

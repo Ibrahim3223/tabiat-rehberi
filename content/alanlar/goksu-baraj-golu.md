@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lake_Bondhus_Norway_2862.jpg/960px-Lake_Bondhus_Norway_2862.jpg","alt":"Göksu Baraj Gölü","caption":"Göksu Baraj Gölü","credit":"Lake Bondhus Norway 2862","license":"FAL"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rich_Blend_of_Blue_%26_Green.jpg/960px-Rich_Blend_of_Blue_%26_Green.jpg","alt":"Göksu Baraj Gölü","caption":"Göksu Baraj Gölü","credit":"Rich Blend of Blue & Green","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6ksu%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34888360","tip":"genel"}]
 description: "Diyarbakır'da bulunan Göksu Baraj Gölü, 1200 hektarlık yeşil alanı ile şehrin önemli doğal güzelliklerinden biri."
 keywords: ["Göksu Baraj Gölü","Diyarbakır","göl","baraj","doğal alan","yeşil alan","turizm","gezi","seyahat","Diyarbakır gezilecek yerler"]

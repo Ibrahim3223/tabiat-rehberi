@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Eğripınar Dağı","caption":"Eğripınar Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Gelincik_Dagi_Manzara.jpg/960px-Gelincik_Dagi_Manzara.jpg","alt":"Eğripınar Dağı","caption":"Eğripınar Dağı","credit":"Gelincik Dagi Manzara","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9Frip%C4%B1nar%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31524784","tip":"genel"}]
 description: "Türkiye'nin önemli dağlarından biri olan Eğripınar Dağı, doğa severlerin ziyaret ettiği bir bölge"
 keywords: ["Eğripınar Dağı","Türkiye dağları","doğa turizmi","dağcılık","Türkiye coğrafyası","gezi rehberi","turizm","doğa","coğrafya"]

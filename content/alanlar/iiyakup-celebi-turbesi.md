@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Türbe gezisi","Tarihi araştırma","Fotoğraf çekimi","Kültürel etkinlikler"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"II.Yakup Çelebi Türbesi","caption":"II.Yakup Çelebi Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_03.jpg","alt":"II.Yakup Çelebi Türbesi","caption":"II.Yakup Çelebi Türbesi","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 03","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/II.Yakup%20%C3%87elebi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390724","tip":"genel"}]
 description: "Kütahya'nın tarihi ve kültürel zenginliklerini keşfedin. II.Yakup Çelebi Türbesi, şehrin önemli dini ve turistik merkezlerinden biri."
 keywords: ["Kütahya","II.Yakup Çelebi Türbesi","tarih","kültür","din","turizm","gezi","seyahat","türk kültürü"]

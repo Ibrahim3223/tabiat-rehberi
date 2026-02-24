@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "Tüm gün"
 aktiviteler: ["Doğa yürüyüşü","Fotoğrafçılık","İki tekerlekli bisiklet sürme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası","caption":"Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/MOKFC04.jpg/960px-MOKFC04.jpg","alt":"Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası","caption":"Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası","credit":"MOKFC04","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bitlis%20Adilcevaz%20S%C3%BCphan%20Da%C4%9F%C4%B1%20Yaban%20Hayat%C4%B1%20Geli%C5%9Ftirme%20Sahas%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228984","tip":"genel"}]
 description: "Doğal güzelliklerin bir araya geldiği Bitlis Adilcevaz Süphan Dağı Yaban Hayatı Geliştirme Sahası, ziyaretçilerini büyülüyor."
 keywords: ["Bitlis","Adilcevaz","Süphan Dağı","yaban hayatı","geliştirme sahası","doğa","gezi","turizm"]

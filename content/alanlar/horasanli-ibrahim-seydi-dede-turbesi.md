@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe ziyaret","Doğa yürüyüşü","Picnic","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Horasanlı İbrahim Seydi Dede Türbesi","caption":"Horasanlı İbrahim Seydi Dede Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/960px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg","alt":"Horasanlı İbrahim Seydi Dede Türbesi","caption":"Horasanlı İbrahim Seydi Dede Türbesi","credit":"Map of Greece, Archipelago and part of Anadoli; Louis Stanislas d'Arcy Delarochette 1791","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Horasanl%C4%B1%20%C4%B0brahim%20Seydi%20Dede%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391342","tip":"genel"}]
 description: "Manisa'nın Şehzadeler ilçesinde bulunan tarihi türbe ve plaj"
 keywords: ["Horasanlı İbrahim Seydi Dede","Türbe","Manisa","Şehzadeler","Plaj","Tarihi mekan","Dini ziyaret","Doğa","Ege Bölgesi"]

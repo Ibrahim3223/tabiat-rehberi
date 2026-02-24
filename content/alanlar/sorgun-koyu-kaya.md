@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_systems_of_Turkey.svg/960px-Mountain_systems_of_Turkey.svg.png","alt":"Sorgun Köyü Kaya","caption":"Sorgun Köyü Kaya","credit":"Mountain systems of Turkey","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/MapAnatolia1920-1122.jpg/960px-MapAnatolia1920-1122.jpg","alt":"Sorgun Köyü Kaya","caption":"Sorgun Köyü Kaya","credit":"MapAnatolia1920-1122","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sorgun%20K%C3%B6y%C3%BC%20Kaya","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319771","tip":"genel"}]
 description: "Çorum'un doğal güzelliklerini keşfedin, Sorgun Köyü Kaya jeoparkı 1200 hektarlık yeşil cenneti keşfedecekler için"
 keywords: ["Sorgun Köyü Kaya","Jeopark","Çorum","Doğal Alan","Yeşil Cennet","Turizm","Çorum Turistik Yerler","Jeolojik Özellikler","Kaya Formation"]

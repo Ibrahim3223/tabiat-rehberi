@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğraf Çekimi","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Toklu Tepe","caption":"Toklu Tepe","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/2/22/Ida_2009_rainfall.png","alt":"Toklu Tepe","caption":"Toklu Tepe","credit":"Ida 2009 rainfall","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Toklu%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390336","tip":"genel"}]
 description: "Afyonkarahisar'ın doğal güzelliklerinden biri olan Toklu Tepe, ziyaretçilerini bekliyor."
 keywords: ["Toklu Tepe","Afyonkarahisar","Ege Bölgesi","Doğa","Tarih","Coğrafya","Flora","Fauna","Ziyaret"]

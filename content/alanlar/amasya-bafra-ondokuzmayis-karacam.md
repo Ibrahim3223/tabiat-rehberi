@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "yarım gün"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotoğrafçılık","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Amasya-Bafra-Ondokuzmayis Karacam","caption":"Amasya-Bafra-Ondokuzmayis Karacam","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kad%C4%B1nc%C4%B1k_Valley_7.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_7.jpg","alt":"Amasya-Bafra-Ondokuzmayis Karacam","caption":"Amasya-Bafra-Ondokuzmayis Karacam","credit":"Kadıncık Valley 7","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Amasya-Bafra-Ondokuzmayis%20Karacam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227925","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin doğal güzelliklerinin sergilendiği önemli bir milli park"
 keywords: ["Amasya","Karadeniz Bölgesi","milli park","doğa","gezi","turizm","çevre","ekosistem","flora","fauna"]

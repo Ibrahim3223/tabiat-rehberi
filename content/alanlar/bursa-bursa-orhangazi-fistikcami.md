@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["Yürüyüş","Trekking","Bisiklet sürme","At binme","Balık avlama"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Akda%C4%9F_Milli_Park%C4%B1.jpg","alt":"Bursa-Bursa-Orhangazi Fistikcami","caption":"Bursa-Bursa-Orhangazi Fistikcami","credit":"Akdağ Milli Parkı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AyvatBendiNaturePark.jpg/960px-AyvatBendiNaturePark.jpg","alt":"Bursa-Bursa-Orhangazi Fistikcami","caption":"Bursa-Bursa-Orhangazi Fistikcami","credit":"AyvatBendiNaturePark","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bursa-Bursa-Orhangazi%20Fistikcami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227618","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Orhangazi Fistikcami Milli Parkı, 140-155 hektarlık alanıyla doğa severleri bekliyor."
 keywords: ["Orhangazi Fistikcami","Milli Park","İç Anadolu Bölgesi","Doğa","Turizm","Gezi","Macera","Çevre","Flora","Fauna"]

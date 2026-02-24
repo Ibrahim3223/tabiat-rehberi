@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Mekanın tarihi ve kültürel zenginliklerini keşfetmek","Çevre gezisi yapmak","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Sultan Memduh Türbesi","caption":"Sultan Memduh Türbesi","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg/960px-2023-11-04_A_view_from_Lycian_Way_near_Ka%C5%9F_4.jpg","alt":"Sultan Memduh Türbesi","caption":"Sultan Memduh Türbesi","credit":"2023-11-04 A view from Lycian Way near Kaş 4","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sultan%20Memduh%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390939","tip":"genel"}]
 description: "Sultan Memduh Türbesi, Güneydoğu Anadolu Bölgesi'nde yer alan tarihi bir mekan."
 keywords: ["Sultan Memduh Türbesi","Tillo","Siirt","Güneydoğu Anadolu Bölgesi","tarihi mekan","tarihçe","coğrafya","flora","fauna","ziyaret"]

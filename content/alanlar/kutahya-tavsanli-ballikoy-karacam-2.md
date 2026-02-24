@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşleri","Yaban hayatı izleme","Fotoğrafçılık","Çevre gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg/960px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Grand_Prismatic_Spring_--_2022_--_2519.jpg","alt":"Kutahya-Tavsanli-Ballikoy Karacam 2","caption":"Kutahya-Tavsanli-Ballikoy Karacam 2","credit":"Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2519.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547424020%29.jpg","alt":"Kutahya-Tavsanli-Ballikoy Karacam 2","caption":"Kutahya-Tavsanli-Ballikoy Karacam 2","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547424020)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kutahya-Tavsanli-Ballikoy%20Karacam%202","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227531","tip":"genel"}]
 description: "Kutahya-Tavsanli-Ballikoy Karacam 2, İç Anadolu Bölgesi'nin en güzel milli parklarından biridir."
 keywords: ["Kutahya","Tavsanli","Ballikoy","Karacam","Milli Park","İç Anadolu Bölgesi","Doğa","Turizm"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Yeşil alan gezisi","Doğa yürüyüşü","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Celâleddin Karatay Türbesi","caption":"Celâleddin Karatay Türbesi","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Istanbul_beaches-_Sea_of_Marmara_09.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_09.jpg","alt":"Celâleddin Karatay Türbesi","caption":"Celâleddin Karatay Türbesi","credit":"Istanbul beaches- Sea of Marmara 09","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cel%C3%A2leddin%20Karatay%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391691","tip":"genel"}]
 description: "Konya'nın Selçuklu ilçesinde bulunan tarihi türbe ve çevresindeki yeşil alan"
 keywords: ["Celâleddin Karatay","Türbe","Konya","Selçuklu","Tarih","Kültür","Doğa","Yeşil Alan","Gezi"]

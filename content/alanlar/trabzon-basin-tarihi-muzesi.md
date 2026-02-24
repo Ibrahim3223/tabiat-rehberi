@@ -13,7 +13,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Tarihî belgeleri incelemek","Çevredeki doğal güzellikleri keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Trabzon_Kazang%C4%B1ran_Yaylas%C4%B1_Yolu.jpg/960px-Trabzon_Kazang%C4%B1ran_Yaylas%C4%B1_Yolu.jpg","alt":"Trabzon Basın Tarihi Müzesi","caption":"Trabzon Basın Tarihi Müzesi","credit":"Trabzon Kazangıran Yaylası Yolu.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mystic_mountain.jpg/960px-Mystic_mountain.jpg","alt":"Trabzon Basın Tarihi Müzesi","caption":"Trabzon Basın Tarihi Müzesi","credit":"Mystic mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Trabzon%20Bas%C4%B1n%20Tarihi%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q116884960","tip":"genel"}]
 description: "Trabzon'un zengin basın tarihine ışık tutan müze"
 keywords: ["Trabzon Basın Tarihi Müzesi","Ortahisar","Trabzon","Karadeniz Bölgesi","Basın Tarihi","Müze","Tarih","Kültür"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["yürüyüş","doğa fotoğrafçılığı","bitki gözlemi","yaban hayatı gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Karamik Koyu Sediri","caption":"Karamik Koyu Sediri","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_sonbahar_renkleri.jpg","alt":"Karamik Koyu Sediri","caption":"Karamik Koyu Sediri","credit":"Bolu Yedigöller tabiat parkı sonbahar renkleri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karamik%20Koyu%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227185","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık bir doğa harikası"
 keywords: ["Karamik Koyu Sediri","İç Anadolu Bölgesi","doğa harikası","milli park","doğa turizmi","yaban hayatı","ekosistem","çevre","koruma"]

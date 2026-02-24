@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarı gün"
 aktiviteler: ["tekne turu","balıkçılık","kuş gözlemi","piknik","kamp"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Peyto_Lake-Banff_NP-Canada.jpg/960px-Peyto_Lake-Banff_NP-Canada.jpg","alt":"Demirköprü Baraj Gölü","caption":"Demirköprü Baraj Gölü","credit":"Peyto Lake-Banff NP-Canada","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%C5%9Eahinlerpark%C4%B1_by_02.jpg/960px-%C5%9Eahinlerpark%C4%B1_by_02.jpg","alt":"Demirköprü Baraj Gölü","caption":"Demirköprü Baraj Gölü","credit":"Şahinlerparkı by 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demirk%C3%B6pr%C3%BC%20Baraj%20G%C3%B6l%C3%BC","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34883032","tip":"genel"}]
 description: "Manisa'da bulunan Demirköprü Baraj Gölü, 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor, doğa severler için ideal bir destinasyon."
 keywords: ["Demirköprü Baraj Gölü","Manisa","göl","baraj","doğa","gezi","seyahat","turizm","Manisa gezilecek yerler"]

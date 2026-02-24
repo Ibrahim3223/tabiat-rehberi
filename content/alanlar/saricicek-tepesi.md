@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa Gözlemciliği","Kuş Gözlemciliği","Fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg/960px-The_Landscape_of_S%C4%B1kl%C4%B1k_Gate_park_%C3%87orum.jpg","alt":"Sarıçiçek Tepesi","caption":"Sarıçiçek Tepesi","credit":"The Landscape of Sıklık Gate park Çorum.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Sarıçiçek Tepesi","caption":"Sarıçiçek Tepesi","credit":"Malatya turgut ozal nature park view","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sar%C4%B1%C3%A7i%C3%A7ek%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34903676","tip":"genel"}]
 description: "Çorum'un güzide noktalarından biri olan Sarıçiçek Tepesi, doğal güzellikleri ve tarihi ile dikkat çekiyor."
 keywords: ["Sarıçiçek Tepesi","Çorum","Karadeniz Bölgesi","Doğa","Tarih","Gezi","Turizm","Çorum Turistik Yerler"]

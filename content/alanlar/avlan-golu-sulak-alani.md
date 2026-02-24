@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşü","Kuş gözlemciliği","Fotoğrafçılık","Çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akdag_01.jpg/960px-Akdag_01.jpg","alt":"Avlan Gölü Sulak Alanı","caption":"Avlan Gölü Sulak Alanı","credit":"Akdag 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg/960px-Bolu_Yedig%C3%B6ller_tabiat_park%C4%B1_%C5%9Felale.jpg","alt":"Avlan Gölü Sulak Alanı","caption":"Avlan Gölü Sulak Alanı","credit":"Bolu Yedigöller tabiat parkı şelale","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Avlan%20G%C3%B6l%C3%BC%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228857","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Avlan Gölü Sulak Alanı"
 keywords: ["Avlan Gölü","Sulak Alan","İç Anadolu Bölgesi","doğa","turizm","gezi","yaban hayatı","ekosistem","çevre"]

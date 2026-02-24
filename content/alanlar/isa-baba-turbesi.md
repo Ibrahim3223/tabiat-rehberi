@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük ziyaret"
 aktiviteler: ["Plajda güneşlenme","Denizde yüzme","Doğa yürüyüşü","Tarihi yerleri gezme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg/960px-Wind_direction_has_changed%2C_now_wind_is_coming_from_the_sea_-_panoramio.jpg","alt":"İsa Baba Türbesi","caption":"İsa Baba Türbesi","credit":"Wind direction has changed, now wind is coming from the sea - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Beachside_in_Sinop.jpg/960px-Beachside_in_Sinop.jpg","alt":"İsa Baba Türbesi","caption":"İsa Baba Türbesi","credit":"Beachside in Sinop","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C4%B0sa%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391607","tip":"genel"}]
 description: "İzmir'in Tire ilçesinde yer alan İsa Baba Türbesi, doğal güzelliği ve tarihi önemi ile ziyaretçilerini bekliyor."
 keywords: ["İsa Baba Türbesi","Tire","İzmir","doğal güzellik","tarihi önemi","turizm","gezi"]

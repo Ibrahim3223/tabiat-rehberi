@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","manzara izleme","fotografcılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bağlarkayası Tepesi","caption":"Bağlarkayası Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Bağlarkayası Tepesi","caption":"Bağlarkayası Tepesi","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C4%9Flarkayas%C4%B1%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31390572","tip":"genel"}]
 description: "Aksaray'da bulunan Bağlarkayası Tepesi, tarihi ve doğal güzellikleriyle dikkat çekiyor."
 keywords: ["Aksaray","Bağlarkayası Tepesi","doğal güzellik","tarihi mekan","gezi noktası","İç Anadolu Bölgesi","tepe","manzara","çevre"]

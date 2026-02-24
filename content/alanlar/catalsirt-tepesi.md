@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","manzara izleme","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Çatalsırt Tepesi","caption":"Çatalsırt Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/20240815_Ida-Simon-Stiftung.jpg/960px-20240815_Ida-Simon-Stiftung.jpg","alt":"Çatalsırt Tepesi","caption":"Çatalsırt Tepesi","credit":"20240815 Ida-Simon-Stiftung","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87atals%C4%B1rt%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34824288","tip":"genel"}]
 description: "Ankara'nın tarihi ve doğal güzellikleri ile çevrili Çatalsırt Tepesi, ziyaretçilerini bekliyor."
 keywords: ["Ankara","Çatalsırt Tepesi","doğa","tarih","gezi","turizm","İç Anadolu Bölgesi","tepe","manzara"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihçe öğrenmek","Coğrafi güzellikleri keşfetmek","Flora ve fauna keşfetmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Cibo’nun Tepesi Tümülüsü, Sivas","caption":"Cibo’nun Tepesi Tümülüsü, Sivas","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_10.jpg","alt":"Cibo’nun Tepesi Tümülüsü, Sivas","caption":"Cibo’nun Tepesi Tümülüsü, Sivas","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 10","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Cibo%E2%80%99nun%20Tepesi%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2C%20Sivas","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728407","tip":"genel"}]
 description: "Sivas'ta yer alan Cibo’nun Tepesi Tümülüsü, tarihi ve coğrafi açıdan önemli bir noktadır."
 keywords: ["Cibo’nun Tepesi Tümülüsü","Sivas","tarih","coğrafya","tümülüs","Sivas tarihi","tarihçe","coğrafi konum"]

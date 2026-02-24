@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["doğa yürüyüşleri","vahşi yaşam gözlemciliği","fotoğrafçılık","çevre eğitimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AKDA%C4%9E_1.jpg/960px-AKDA%C4%9E_1.jpg","alt":"Kirani Evliya Ardici","caption":"Kirani Evliya Ardici","credit":"AKDAĞ 1.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kad%C4%B1nc%C4%B1k_Valley_10.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_10.jpg","alt":"Kirani Evliya Ardici","caption":"Kirani Evliya Ardici","credit":"Kadıncık Valley 10","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kirani%20Evliya%20Ardici","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227152","tip":"genel"}]
 description: "İç Anadolu Bölgesi'ndeki milli parkların önemli çekim merkezlerinden biri"
 keywords: ["Kirani Evliya Ardici","milli park","İç Anadolu Bölgesi","doğa","gezi","turizm","çevre","ekosistem"]

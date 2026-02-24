@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık","Picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Kırmızıpınar Tepesi","caption":"Kırmızıpınar Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Kırmızıpınar Tepesi","caption":"Kırmızıpınar Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1p%C4%B1nar%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31389320","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nde, Malatya'da yer alan Kırmızıpınar Tepesi, doğa severler için bir çekim merkezi"
 keywords: ["Kırmızıpınar Tepesi","Malatya","Doğu Anadolu Bölgesi","Doğa","Tepeler","Coğrafya","Flora","Fauna","Ziyaret"]

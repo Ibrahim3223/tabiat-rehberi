@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","ekosistem gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Akyokus_parki.jpg/960px-Akyokus_parki.jpg","alt":"Konya-Karaman-Eregli-Sedir","caption":"Konya-Karaman-Eregli-Sedir","credit":"Akyokus parki","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg/960px-Bafa_G%C3%B6l%C3%BC_Tabiat_Park%C4%B1_%28bilgekorkmaz%29.jpg","alt":"Konya-Karaman-Eregli-Sedir","caption":"Konya-Karaman-Eregli-Sedir","credit":"Bafa Gölü Tabiat Parkı (bilgekorkmaz)","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Konya-Karaman-Eregli-Sedir","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228572","tip":"genel"}]
 description: "Konya-Karaman-Eregli-Sedir milli parkı, İç Anadolu Bölgesi'nde yer alan doğal bir güzellik"
 keywords: ["Konya","Karaman","Eregli","Sedir","milli park","doğa","gezi","turizm","çevre","ekosistem"]

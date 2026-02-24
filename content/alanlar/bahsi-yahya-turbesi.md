@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihî mekanları gezmek","Doğa yürüyüşü yapmak","Fotograf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Bahşi Yahya Türbesi","caption":"Bahşi Yahya Türbesi","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg/960px-Sunset_at_Aegean_Sea%2C_%C4%B0zmir_02.jpg","alt":"Bahşi Yahya Türbesi","caption":"Bahşi Yahya Türbesi","credit":"Sunset at Aegean Sea, İzmir 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bah%C5%9Fi%20Yahya%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390753","tip":"genel"}]
 description: "Ezine'nin tarihi ve doğal güzelliklerini keşfedin. Bahşi Yahya Türbesi, Ezine'nin merkezinde yer alan bir turistik noktadır."
 keywords: ["Bahşi Yahya Türbesi","Ezine","İç Anadolu Bölgesi","tarihi mekanlar","doğa","turizm","gezi","tarihçe","coğrafya"]

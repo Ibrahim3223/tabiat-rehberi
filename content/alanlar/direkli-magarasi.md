@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mağara turu","fotoğrafçılık","jeoloji gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg/960px-Kaya%C3%B6z%C3%BC_Creek_Valley%2C_Kahramanmara%C5%9F_03.jpg","alt":"Direkli Mağarası","caption":"Direkli Mağarası","credit":"Kayaözü Creek Valley, Kahramanmaraş 03.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cave-Rock%2C_Saimbeyli_02.jpg/960px-Cave-Rock%2C_Saimbeyli_02.jpg","alt":"Direkli Mağarası","caption":"Direkli Mağarası","credit":"Cave-Rock, Saimbeyli 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Direkli%20Ma%C4%9Faras%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q118955996","tip":"genel"}]
 description: "Kahramanmaraş'ın Döngel ilçesinde bulunan doğal güzellik. 1200 hektarlık yeşil cennet, İstanbul'un toplam yüzölçümünün neredeyse yarısı kadar bir alanı kaplıyor."
 keywords: ["Direkli Mağarası","Kahramanmaraş","Döngel","Magara","Doğal Güzellik","Yeşil Cennet","İstanbul","Türkiye","Seyahat"]

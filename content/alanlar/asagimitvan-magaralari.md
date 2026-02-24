@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Plains_south_of_Mardin%2C_Turkey.jpg/960px-Plains_south_of_Mardin%2C_Turkey.jpg","alt":"Aşağımitvan Mağaraları","caption":"Aşağımitvan Mağaraları","credit":"Plains south of Mardin, Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sugar_Creek_Turkey_Run_SP%2C_IN_2.jpg/960px-Sugar_Creek_Turkey_Run_SP%2C_IN_2.jpg","alt":"Aşağımitvan Mağaraları","caption":"Aşağımitvan Mağaraları","credit":"Sugar Creek Turkey Run SP, IN 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/A%C5%9Fa%C4%9F%C4%B1mitvan%20Ma%C4%9Faralar%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319049","tip":"genel"}]
 description: "Mardin'de yer alan jeopark, 1200 hektarlık yeşil cennet, doğa severler için önemli bir destinasyon"
 keywords: ["Aşağımitvan Mağaraları","Mardin","Jeopark","Doğa Turizmi","Mardin Gezilecek Yerler","Mağara Gezisi","Doğa Harikaları","Turizm","Gezi Rehberi"]

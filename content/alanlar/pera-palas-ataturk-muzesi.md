@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2 saat"
 aktiviteler: ["Müze gezisi","Rehberli tur","Atatürk'ün kişisel eşyalarını görme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Black_and_white_Paris_landscape.jpg/960px-Black_and_white_Paris_landscape.jpg","alt":"Pera Palas Atatürk Müzesi","caption":"Pera Palas Atatürk Müzesi","credit":"Black and white Paris landscape.jpg","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cloud_shadows_at_the_mountain.jpg/960px-Cloud_shadows_at_the_mountain.jpg","alt":"Pera Palas Atatürk Müzesi","caption":"Pera Palas Atatürk Müzesi","credit":"Cloud shadows at the mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pera%20Palas%20Atat%C3%BCrk%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949304","tip":"genel"}]
 description: "İstanbul'un tarihi mekanlarından biri olan Pera Palas Atatürk Müzesi, 1911 yılında inşa edilen Pera Palas Oteli içerisinde yer alır. Atatürk'ün kaldığı oda, müze olarak hizmet vermektedir."
 keywords: ["Pera Palas Atatürk Müzesi","İstanbul","Marmara Bölgesi","Atatürk","tarih","müze","Pera Palas Oteli"]

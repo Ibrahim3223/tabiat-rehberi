@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa yürüyüşü","Panoramik manzara izleme","Fotoğraf çekme","Picnic","Doğa gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Bozbey Tepesi","caption":"Bozbey Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/General_view_of_Fort_Hill_Farm%2C_view_looking_west_from_%28B%29_two-story_hall-and-parlor_house._Buildings_visible%2C_from_left_to_right%2C_are_%28B%29_parlor_house_porch%3B_%28E%29_one-room_cabin%3B_HABS_VA%2C42-CLOV.V%2C2-3.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Bozbey Tepesi","caption":"Bozbey Tepesi","credit":"General view of Fort Hill Farm, view looking west from (B) two-story hall-and-parlor house. Buildings visible, from left to right, are (B) parlor house porch; (E) one-room cabin; HABS VA,42-CLOV.V,2-3","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bozbey%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388388","tip":"genel"}]
 description: "Erzurum'un doğal güzelliklerini keşfedin, Bozbey Tepesi'nin büyüleyici manzaralarına hayran kalın."
 keywords: ["Bozbey Tepesi","Erzurum","Doğu Anadolu Bölgesi","doğal güzellikler","gezi","turizm","tepe","manzara","doğa"]

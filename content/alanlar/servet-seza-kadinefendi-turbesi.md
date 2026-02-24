@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["tarihi türbe gezisi","doğa yürüyüşü","fotografi","dini törenlere katılım"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Servet Seza Kadınefendi Türbesi","caption":"Servet Seza Kadınefendi Türbesi","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Port_G%C3%B6cek_early_evening.jpg/960px-Port_G%C3%B6cek_early_evening.jpg","alt":"Servet Seza Kadınefendi Türbesi","caption":"Servet Seza Kadınefendi Türbesi","credit":"Port Göcek early evening","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Servet%20Seza%20Kad%C4%B1nefendi%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391809","tip":"genel"}]
 description: "Fatih'te bulunan tarihi türbe, İstanbul'un önemli dini yapılarından biri"
 keywords: ["Servet Seza Kadınefendi Türbesi","Fatih","İstanbul","tarihi türbe","Marmara Bölgesi","dini yapılar"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","kampçılık","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/960px-MC_Siedleragame.jpg","alt":"Erzurum-Ardahan-Posof Hus","caption":"Erzurum-Ardahan-Posof Hus","credit":"MC Siedleragame","license":"CC BY 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG/960px-Prise_de_l%27H%C3%B4tel_de_ville_-_le_Pont_d%27Arcole.JPG","alt":"Erzurum-Ardahan-Posof Hus","caption":"Erzurum-Ardahan-Posof Hus","credit":"Prise de l'Hôtel de ville - le Pont d'Arcole","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Erzurum-Ardahan-Posof%20Hus","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228540","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin doğal güzelliklerini keşfedin"
 keywords: ["Erzurum","Ardahan","Posof","Doğu Anadolu Bölgesi","doğal güzellikler","milli park","turizm"]

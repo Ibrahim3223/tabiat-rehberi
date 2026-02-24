@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg/960px-Olavbunuten_seen_from_Olavsbu_in_Jotunheimen.jpg","alt":"Tekaltıdağı Tepe","caption":"Tekaltıdağı Tepe","credit":"Olavbunuten seen from Olavsbu in Jotunheimen.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg/960px-Mount_Ararat_and_the_Yerevan_skyline.jpg","alt":"Tekaltıdağı Tepe","caption":"Tekaltıdağı Tepe","credit":"Mount Ararat and the Yerevan skyline","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tekalt%C4%B1da%C4%9F%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31505056","tip":"genel"}]
 description: "Iğdır'da bulunan Tekaltıdağı Tepe, doğa severler için önemli bir destinasyon. 1200 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Tekaltıdağı Tepe","Iğdır","Dağ","Doğa","Turizm","Gezi","Türkiye","Coğrafya","Seyahat"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Çevre keşfi","Güneşlenmek","Fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Karaburun_-_panoramio_%282%29.jpg/960px-Karaburun_-_panoramio_%282%29.jpg","alt":"Çömlekçiler Hamamı","caption":"Çömlekçiler Hamamı","credit":"Karaburun - panoramio (2).jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Çömlekçiler Hamamı","caption":"Çömlekçiler Hamamı","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C3%B6mlek%C3%A7iler%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738552","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzelliklerini bir arada sunan Çömlekçiler Hamamı, ziyaretçilerine unutulmaz anlar yaşatıyor."
 keywords: ["Çömlekçiler Hamamı","Eyüpsultan","İstanbul","Marmara Bölgesi","tarihi mekanlar","doğal güzellikler","gezilecek yerler"]

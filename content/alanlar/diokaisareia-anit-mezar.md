@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["gezi","tarihleme","doğa yürüyüşü","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Akdeniz.JPG/960px-Akdeniz.JPG","alt":"Diokaisareia Anıt Mezar","caption":"Diokaisareia Anıt Mezar","credit":"Akdeniz","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Mediterranean_Swim_-_Imperal_Camel_Corps_%2816879047617%29.jpg/960px-Mediterranean_Swim_-_Imperal_Camel_Corps_%2816879047617%29.jpg","alt":"Diokaisareia Anıt Mezar","caption":"Diokaisareia Anıt Mezar","credit":"Mediterranean Swim - Imperal Camel Corps (16879047617)","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Diokaisareia%20An%C4%B1t%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728141","tip":"genel"}]
 description: "Mersin'in Silifke ilçesinde bulunan Diokaisareia Anıt Mezar, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Diokaisareia Anıt Mezar","Silifke","Mersin","tarih","doğa","gezi","turizm","Akdeniz Bölgesi","plaj"]

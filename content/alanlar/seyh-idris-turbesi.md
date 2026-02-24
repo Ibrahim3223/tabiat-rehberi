@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["plajda dinlenmek","tarihçe gezisi","doğa yürüyüşü","deniz manzarası"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Şeyh İdris Türbesi","caption":"Şeyh İdris Türbesi","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Istanbul_beaches-_Sea_of_Marmara_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_05.jpg","alt":"Şeyh İdris Türbesi","caption":"Şeyh İdris Türbesi","credit":"Istanbul beaches- Sea of Marmara 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C5%9Eeyh%20%C4%B0dris%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391795","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin güzel plajlarından biri olan Şeyh İdris Türbesi, Giresun'un Piraziz ilçesinde yer alır."
 keywords: ["Şeyh İdris Türbesi","Piraziz","Giresun","Karadeniz Bölgesi","plaj","tarihçe","coğrafya","doğa"]

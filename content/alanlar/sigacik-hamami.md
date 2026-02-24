@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "Günlük"
 aktiviteler: ["yüzmek","güneşlenmek","su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg/960px-S%C3%BCzer_Sun_Dreams_Beach_13_-_panoramio.jpg","alt":"Sığacık Hamamı","caption":"Sığacık Hamamı","credit":"Süzer Sun Dreams Beach 13 - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Sığacık Hamamı","caption":"Sığacık Hamamı","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C4%B1%C4%9Fac%C4%B1k%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738981","tip":"genel"}]
 description: "İzmir'in Seferihisar ilçesinde bulunan Sığacık Hamamı, Ege Bölgesi'nin en güzel plajlarından biri"
 keywords: ["Sığacık Hamamı","Seferihisar","İzmir","Ege Bölgesi","plaj","deniz","tatil"]

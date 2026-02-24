@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Manzara izleme","Tarihî yerleri ziyaret","Doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Kurrabuke Tepesi","caption":"Kurrabuke Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg/960px-Cha%C3%AEne_Mont_Ida_Pha%C3%AFstos.jpg","alt":"Kurrabuke Tepesi","caption":"Kurrabuke Tepesi","credit":"Chaîne Mont Ida Phaïstos","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kurrabuke%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31555873","tip":"genel"}]
 description: "Mardin'de bulunan Kurrabuke Tepesi, Güneydoğu Anadolu Bölgesi'nin önemli doğal güzelliklerinden biri"
 keywords: ["Mardin","Kurrabuke Tepesi","Güneydoğu Anadolu Bölgesi","doğal güzellik","tepe","coğrafya"]

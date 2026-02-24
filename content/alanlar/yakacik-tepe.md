@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Trekking","Doğa Yürüyüşü","Fotoğrafçılık","Kuş Gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mountain_landscape_in_Saimbeyli_01.jpg/960px-Mountain_landscape_in_Saimbeyli_01.jpg","alt":"Yakacık Tepe","caption":"Yakacık Tepe","credit":"Mountain landscape in Saimbeyli 01.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PeakUludag.jpg/960px-PeakUludag.jpg","alt":"Yakacık Tepe","caption":"Yakacık Tepe","credit":"PeakUludag","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Yakac%C4%B1k%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31548631","tip":"genel"}]
 description: "Siirt'te bulunan Yakacık Tepe, doğal güzellikleri ve tarihi önemiyle dikkat çekiyor. 1400 metre yükseklikte yer alan tepe, trekking ve doğa yürüyüşü için ideal bir destinasyon."
 keywords: ["Yakacık Tepe","Siirt","Dağ","Trekking","Doğa Yürüyüşü","Turizm","Gezi","Doğal Güzellik","Tarih"]

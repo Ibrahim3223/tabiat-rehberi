@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "günlük ziyaret"
 aktiviteler: ["plajda güneşlenme","denizde yüzme","tarihi hamamın gezilmesi","çeşitli su sporları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Sea_of_the_Oceans.jpg/960px-The_Sea_of_the_Oceans.jpg","alt":"Kapkirli Tarihi Hamam","caption":"Kapkirli Tarihi Hamam","credit":"The Sea of the Oceans.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg/960px-Norderney%2C_Tonnenleger_%22Norden%22_--_2025_--_9137.jpg","alt":"Kapkirli Tarihi Hamam","caption":"Kapkirli Tarihi Hamam","credit":"Norderney, Tonnenleger \"Norden\" -- 2025 -- 9137","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kapkirli%20Tarihi%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738412","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin en güzel plajlarından biri olan Kapkirli Tarihi Hamam, Düzce'nin Akçakoca ilçesinde . Tarihi hamamın yanı sıra, plajın sunduğu doğal güzellikler ve çeşitli hot đnglar ile ziyaretçilerini bekliyor."
 keywords: ["Kapkirli Tarihi Hamam","Akçakoca","Düzce","Karadeniz Bölgesi","plaj","tarihi hamam","doğa","gezi","turizm"]

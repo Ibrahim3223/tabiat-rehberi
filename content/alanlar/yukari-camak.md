@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "En az birkaç saat"
 aktiviteler: ["Yürüyüş","Doğa keşfi","Fotoğrafçılık","Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"YUKARI ÇAMAK","caption":"YUKARI ÇAMAK","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg/960px-G%C3%B6kt%C3%BCrk_G%C3%B6leti_Tabiat_Park%C4%B1_%C4%B0stanbul.jpg","alt":"YUKARI ÇAMAK","caption":"YUKARI ÇAMAK","credit":"Göktürk Göleti Tabiat Parkı İstanbul","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/YUKARI%20%C3%87AMAK","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228676","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alan"
 keywords: ["Yukarı Çamak","İç Anadolu Bölgesi","Milli Park","Doğa","Yeşil Alan","Turizm","Gezi"]

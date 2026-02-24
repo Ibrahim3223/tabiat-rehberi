@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Sümmani Baba Türbesi","caption":"Sümmani Baba Türbesi","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gulf_of_Kastellorizon.jpg/960px-Gulf_of_Kastellorizon.jpg","alt":"Sümmani Baba Türbesi","caption":"Sümmani Baba Türbesi","credit":"Gulf of Kastellorizon","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/S%C3%BCmmani%20Baba%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131390807","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin gizli cenneti, tarihi ve doğal güzellikleri ile ziyaretçilerini bekliyor."
 keywords: ["Sümmani Baba Türbesi","Narman","Erzurum","Doğu Anadolu Bölgesi","tarih","doğa","gezi","türbe"]

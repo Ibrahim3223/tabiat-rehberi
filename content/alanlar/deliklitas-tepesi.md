@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","yerel kültürü deneyimlemek","fotoğraf çekme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Deliklitaş Tepesi","caption":"Deliklitaş Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Allahekber-ziyaret_tepesi-%C5%9Feyh_senan_kabri.jpg","alt":"Deliklitaş Tepesi","caption":"Deliklitaş Tepesi","credit":"Allahekber-ziyaret tepesi-şeyh senan kabri","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Deliklita%C5%9F%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31534070","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nde yer alan Deliklitaş Tepesi, Gaziantep'in doğal güzelliklerini keşfetmek için ideal bir destinasyon."
 keywords: ["Deliklitaş Tepesi","Gaziantep","Güneydoğu Anadolu Bölgesi","doğa","tepe","gezi","turizm","coğrafya"]

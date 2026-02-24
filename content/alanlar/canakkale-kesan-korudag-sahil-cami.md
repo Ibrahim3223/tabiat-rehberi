@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşleri","piknik","ibadet","çevre gezileri"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gallipoli_Peninsula_Historical_National_Park_%281%29.jpg/960px-Gallipoli_Peninsula_Historical_National_Park_%281%29.jpg","alt":"Canakkale-Kesan-Korudag Sahil Cami","caption":"Canakkale-Kesan-Korudag Sahil Cami","credit":"Gallipoli Peninsula Historical National Park (1)","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546842503%29.jpg","alt":"Canakkale-Kesan-Korudag Sahil Cami","caption":"Canakkale-Kesan-Korudag Sahil Cami","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546842503)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canakkale-Kesan-Korudag%20Sahil%20Cami","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227279","tip":"genel"}]
 description: "Marmara Bölgesi'nin güzide illerinden Çanakkale'de yer alan milli park"
 keywords: ["milli park","Çanakkale","Marmara Bölgesi","sahil cami","doğa","turizm","gezi","çevre","ekosistem"]

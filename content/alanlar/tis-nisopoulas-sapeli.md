@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["denizde yüzme","güneşlenme","doğa yürüyüşü","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Tis Nisopoulas Şapeli","caption":"Tis Nisopoulas Şapeli","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg/960px-Giresun%2C_Merkez%2C_Sahilde._9_%C5%9Eubat_2020.jpg","alt":"Tis Nisopoulas Şapeli","caption":"Tis Nisopoulas Şapeli","credit":"Giresun, Merkez, Sahilde. 9 Şubat 2020","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tis%20Nisopoulas%20%C5%9Eapeli","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728243","tip":"genel"}]
 description: "Ayvalık'ta denize girilebilecek en güzel yerlerden biri olan Tis Nisopoulas Şapeli, tarihi ve doğal güzellikleri ile dikkat çekiyor."
 keywords: ["Tis Nisopoulas Şapeli","Ayvalık","Balıkesir","Marmara Bölgesi","plaj","deniz","doğa","tarih"]

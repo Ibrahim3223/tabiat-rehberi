@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","doğa gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_photos_of_Akda%C4%9F_2.jpg/960px-The_photos_of_Akda%C4%9F_2.jpg","alt":"Denizli-Acipayam-Kelekci Kızılçam","caption":"Denizli-Acipayam-Kelekci Kızılçam","credit":"The photos of Akdağ 2","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg/960px-Lake_Abant_Nature_Park_from_a_coastal_perspective.jpg","alt":"Denizli-Acipayam-Kelekci Kızılçam","caption":"Denizli-Acipayam-Kelekci Kızılçam","credit":"Lake Abant Nature Park from a coastal perspective","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Denizli-Acipayam-Kelekci%20K%C4%B1z%C4%B1l%C3%A7am","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108227334","tip":"genel"}]
 description: "Ege Bölgesi'nin doğal güzelliklerini keşfedin. Denizli-Acipayam-Kelekci Kızılçam milli parkı, 140 hektarlık alanıyla yaklaşık 200 futbol sahası büyüklüğünde."
 keywords: ["Denizli","Acipayam","Kelekci","Kızılçam","milli park","Ege Bölgesi","doğal güzellik","çevre","flora","fauna"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","flora ve fauna gözlemi","tarihsel ve kültürel tur","manzara izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Obruk Tepesi","caption":"Obruk Tepesi","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lake_Meke_%28217872347%29.jpeg/960px-Lake_Meke_%28217872347%29.jpeg","alt":"Obruk Tepesi","caption":"Obruk Tepesi","credit":"Lake Meke (217872347)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Obruk%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388034","tip":"genel"}]
 description: "Kütahya'nın Ege Bölgesi'nde yer alan Obruk Tepesi, 140 hektarlık geniş bir alana sahiptir. Bu bölge, yaklaşık 200 futbol sahası büyüklüğünde ve ziyaretçilerini doğal güzellikleriyle karşılar."
 keywords: ["Obruk Tepesi","Kütahya","Ege Bölgesi","doğal güzellik","tepe","gezi","turizm","coğrafya"]

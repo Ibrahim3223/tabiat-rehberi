@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Yeşil alanda dinlenme","Doğa yürüyüşü","Fotograf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Bulak Mustafa Paşa Türbesi","caption":"Bulak Mustafa Paşa Türbesi","credit":"Karaburun - Black Sea - Turkey.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023-11-19_Ufakdere_Port_Beach_1.jpg/960px-2023-11-19_Ufakdere_Port_Beach_1.jpg","alt":"Bulak Mustafa Paşa Türbesi","caption":"Bulak Mustafa Paşa Türbesi","credit":"2023-11-19 Ufakdere Port Beach 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bulak%20Mustafa%20Pa%C5%9Fa%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391010","tip":"genel"}]
 description: "Eyüpsultan'da bulunan tarihi türbe ve plaj"
 keywords: ["Bulak Mustafa Paşa","Türbe","Eyüpsultan","İstanbul","Marmara Bölgesi","Tarih","Plaj","Türkiye"]

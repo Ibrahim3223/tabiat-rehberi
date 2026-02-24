@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/IMG-20210119-WA0093.jpg/960px-IMG-20210119-WA0093.jpg","alt":"Köse Dağı","caption":"Köse Dağı","credit":"IMG-20210119-WA0093","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg/960px-Antitaurus_06_04_1988_Pozant%C4%B1_Da%C4%9F%C4%B1_bei_Ni%C4%9Fde.jpg","alt":"Köse Dağı","caption":"Köse Dağı","credit":"Antitaurus 06 04 1988 Pozantı Dağı bei Niğde","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%B6se%20Da%C4%9F%C4%B1%20(Van)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q21704010","tip":"genel"}]
 description: "Van'ın doğal güzelliklerini keşfedin, Köse Dağı'nın heybetli manzaralarına şahit olun"
 keywords: ["Köse Dağı","Van","Dağ","Doğa","Turizm","Gezi","Van Gezilecek Yerler","Köse Dağı Van","Dağcılık"]

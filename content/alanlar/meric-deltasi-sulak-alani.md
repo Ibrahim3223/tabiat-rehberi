@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Kuş gözlemciliği","Fotoğraf çekimi","Doğa eğitimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AKDA%C4%9E_5.jpg/960px-AKDA%C4%9E_5.jpg","alt":"Meriç Deltası Sulak Alanı","caption":"Meriç Deltası Sulak Alanı","credit":"AKDAĞ 5.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kad%C4%B1nc%C4%B1k_Valley_5.jpg/960px-Kad%C4%B1nc%C4%B1k_Valley_5.jpg","alt":"Meriç Deltası Sulak Alanı","caption":"Meriç Deltası Sulak Alanı","credit":"Kadıncık Valley 5","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Meri%C3%A7%20Deltas%C4%B1%20Sulak%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229015","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, Meriç Deltası Sulak Alanı, doğa severlerin uğrak noktası"
 keywords: ["Meriç Deltası","Sulak Alan","İç Anadolu Bölgesi","Doğa","Sulak Alanlar","Korunan Alanlar","Doğa Turizmi","Sulak Alan Ekosistemi"]

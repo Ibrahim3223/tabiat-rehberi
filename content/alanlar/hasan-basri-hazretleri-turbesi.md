@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Türbe gezisi","Çevre keşfi","Yürüyüş","Dinlenme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karaburun_-_Black_Sea_-_Turkey.jpg/960px-Karaburun_-_Black_Sea_-_Turkey.jpg","alt":"Hasan Basri Hazretleri Türbesi","caption":"Hasan Basri Hazretleri Türbesi","credit":"Karaburun - Black Sea - Turkey","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg/960px-Harbi%C5%9F_Sahili%2C_Karata%C5%9F_-_Adana_02.jpg","alt":"Hasan Basri Hazretleri Türbesi","caption":"Hasan Basri Hazretleri Türbesi","credit":"Harbiş Sahili, Karataş - Adana 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hasan%20Basri%20Hazretleri%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391675","tip":"genel"}]
 description: "Doğu Anadolu Bölgesi'nin tarihi ve kültürel zenginliklerini keşfedin. Battalgazi, Malatya'da bulunan Hasan Basri Hazretleri Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Hasan Basri Hazretleri","Türbe","Battalgazi","Malatya","Doğu Anadolu Bölgesi","Tarih","Kültür","Ziyaret","Gezi"]

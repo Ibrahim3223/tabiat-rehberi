@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["trekking","manzara izleme","fotografcılık","doğa yürüyüşü"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Dedebuğazı Tepe","caption":"Dedebuğazı Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg/960px-Ankara_asv2021-10_img14_view_from_Atakule_mall.jpg","alt":"Dedebuğazı Tepe","caption":"Dedebuğazı Tepe","credit":"Ankara asv2021-10 img14 view from Atakule mall","license":"FAL"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Dedebu%C4%9Faz%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387351","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin Samsun şehrinde yer alan Dedebuğazı Tepe, ziyaretçilerini tarihi ve doğal güzellikleriyle karşılar."
 keywords: ["Dedebuğazı Tepe","Samsun","Karadeniz Bölgesi","tarih","doğa","gezi","tepe","manzara"]

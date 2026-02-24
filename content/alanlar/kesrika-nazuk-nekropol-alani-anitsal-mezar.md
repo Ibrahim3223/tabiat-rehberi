@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["mezarlık gezisi","tarih keşfi","doğa yürüyüşü","fotoğraf çekimi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Kesrika Nazukê Nekropol Alanı Anıtsal Mezar","caption":"Kesrika Nazukê Nekropol Alanı Anıtsal Mezar","credit":"Podima2","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_-_Tourism_in_Turkey_01.jpg","alt":"Kesrika Nazukê Nekropol Alanı Anıtsal Mezar","caption":"Kesrika Nazukê Nekropol Alanı Anıtsal Mezar","credit":"Istanbul beaches- Sea of Marmara - Tourism in Turkey 01","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kesrika%20Nazuk%C3%AA%20Nekropol%20Alan%C4%B1%20An%C4%B1tsal%20Mezar","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728081","tip":"genel"}]
 description: "Mardin'in tarih kokan topraklarında yer alan Kesrika Nazukê Nekropol Alanı Anıtsal Mezar, Savur ilçesinde ziyaretçilerini bekliyor."
 keywords: ["Kesrika Nazukê Nekropol Alanı Anıtsal Mezar","Savur","Mardin","tarih","mezar","anıtsal","Nekropol","Güneydoğu Anadolu Bölgesi"]

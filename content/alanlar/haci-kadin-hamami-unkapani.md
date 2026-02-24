@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî mekanları gezmek","kültürel mirası keşfetmek","yerel lezzetleri tatmak","fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Podima1.JPG","alt":"Hacı Kadın Hamamı, Unkapanı","caption":"Hacı Kadın Hamamı, Unkapanı","credit":"Podima1.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dodecanese_%26_Anatolian_Coasts%2C_2016.jpg/960px-Dodecanese_%26_Anatolian_Coasts%2C_2016.jpg","alt":"Hacı Kadın Hamamı, Unkapanı","caption":"Hacı Kadın Hamamı, Unkapanı","credit":"Dodecanese & Anatolian Coasts, 2016","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hac%C4%B1%20Kad%C4%B1n%20Hamam%C4%B1%2C%20Unkapan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738591","tip":"genel"}]
 description: "İstanbul'un tarihi hamamlarından Hacı Kadın Hamamı, Unkapanı'nda ziyaretçilerini bekliyor. İstanbul'un kalbinde, tarihi ve kültürel öneme sahip bir mekan."
 keywords: ["Hacı Kadın Hamamı","Unkapanı","İstanbul","tarih","hamam","Marmara Bölgesi","Fatih","kültürel miras"]

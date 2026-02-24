@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","kamp","kuş gözlemciliği","fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AKDA%C4%9E_6.jpg/960px-AKDA%C4%9E_6.jpg","alt":"Kahramanmaras-Elmalar Toros Sediri","caption":"Kahramanmaras-Elmalar Toros Sediri","credit":"AKDAĞ 6.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285547427074%29.jpg","alt":"Kahramanmaras-Elmalar Toros Sediri","caption":"Kahramanmaras-Elmalar Toros Sediri","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5547427074)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kahramanmaras-Elmalar%20Toros%20Sediri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228000","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan Kahramanmaras-Elmalar Toros Sediri milli parkı, 140 hektarlık yeşil alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir doğa harikasıdır."
 keywords: ["Kahramanmaras","Elmalar","Toros Sediri","milli park","doğa","yeşil alan","İç Anadolu Bölgesi"]

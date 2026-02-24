@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 gün"
 aktiviteler: ["dağcılık","doğa yürüyüşü","kültür turu"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Bulancık Dağı","caption":"Bulancık Dağı","credit":"Tayalı (167037823)","license":"CC0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ida_Flooding_%288%29.jpg/960px-Ida_Flooding_%288%29.jpg","alt":"Bulancık Dağı","caption":"Bulancık Dağı","credit":"Ida Flooding (8)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bulanc%C4%B1k%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31387259","tip":"genel"}]
 description: "Çankırı'nın doğal güzelliklerini keşfedin. Bulancık Dağı, İç Anadolu Bölgesi'nin önemli noktalarından biri."
 keywords: ["Bulancık Dağı","Çankırı","İç Anadolu Bölgesi","doğa","gezi","tepe"]

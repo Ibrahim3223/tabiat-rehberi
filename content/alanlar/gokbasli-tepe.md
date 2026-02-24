@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa fotoğrafçılığı","Tarih gezisi"," Piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg/960px-Konya_Akyoku%C5%9F_Nature_Park_Konya_Landscape.jpg","alt":"Gökbaşlı Tepe","caption":"Gökbaşlı Tepe","credit":"Konya Akyokuş Nature Park Konya Landscape.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WP25_Anthem_video.webm/800px--WP25_Anthem_video.webm.jpg","alt":"Gökbaşlı Tepe","caption":"Gökbaşlı Tepe","credit":"WP25 Anthem video","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/G%C3%B6kba%C5%9Fl%C4%B1%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32223459","tip":"genel"}]
 description: "Konya'nın doğal güzelliklerini keşfedin. Gökbaşlı Tepe, tarihi ve coğrafi önemiyle dikkat çekiyor."
 keywords: ["Gökbaşlı Tepe","Konya","İç Anadolu Bölgesi","doğa","tarih","coğrafya","gezi","turizm","çevre"]

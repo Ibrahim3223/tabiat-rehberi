@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "bir gün"
 aktiviteler: ["denize girme","hamam kompleksini gezme","tarihi yapıları keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg/960px-Alanya_kalesi_uzakta_.Alanya-Antalya_-_panoramio.jpg","alt":"Andriake Doğu Hamamı","caption":"Andriake Doğu Hamamı","credit":"Alanya kalesi uzakta .Alanya-Antalya - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Istanbul_beaches-_Sea_of_Marmara_05.jpg/960px-Istanbul_beaches-_Sea_of_Marmara_05.jpg","alt":"Andriake Doğu Hamamı","caption":"Andriake Doğu Hamamı","credit":"Istanbul beaches- Sea of Marmara 05","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Andriake%20Do%C4%9Fu%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739199","tip":"genel"}]
 description: "Demre'de bulunan tarihi plaj ve hamam kompleksi"
 keywords: ["Demre","Antalya","Akdeniz Bölgesi","tarih","plaj","hamam","doğu hamamı","Andriake"]

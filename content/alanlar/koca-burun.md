@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg/960px-Scenic_view_of_Mediterranean_Sea_integrated_with_nature.jpg","alt":"Koca Burun","caption":"Koca Burun","credit":"Scenic view of Mediterranean Sea integrated with nature.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png","alt":"Koca Burun","caption":"Koca Burun","credit":"Streptopelia decaocto - Eurasian Collared Dove - XC82758","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Koca%20Burun","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34971802","tip":"genel"}]
 description: "Muğla, Bodrum'da yer alan Koca Burun, 1200 hektarlık bir kuş cenneti olarak dikkat çekiyor."
 keywords: ["Koca Burun","kuş cenneti","Bodrum","Muğla","doğa","turizm","kuş gözlem","çevre","ekosistem","korunan alan"]

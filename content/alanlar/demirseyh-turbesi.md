@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","tarihî değerleri keşfetmek","flora ve fauna değerleri hakkında bilgi edinmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Anzac_Cove.jpg/960px-Anzac_Cove.jpg","alt":"Demirşeyh Türbesi","caption":"Demirşeyh Türbesi","credit":"Anzac Cove","license":"Public domain"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mediterranean_-_panoramio_%283%29.jpg/960px-Mediterranean_-_panoramio_%283%29.jpg","alt":"Demirşeyh Türbesi","caption":"Demirşeyh Türbesi","credit":"Mediterranean - panoramio (3)","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Demir%C5%9Feyh%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391301","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli cenneti, Demirşeyh Türbesi'nin doğal güzellikleri"
 keywords: ["Demirşeyh Türbesi","Sungurlu","Çorum","Karadeniz Bölgesi","doğal güzellik","tarih","coğrafya","flora","fauna","ziyaret"]

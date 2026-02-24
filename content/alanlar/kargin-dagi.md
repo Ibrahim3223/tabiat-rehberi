@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wild_horses1_%28cropped%29.jpg/960px-Wild_horses1_%28cropped%29.jpg","alt":"Kargın Dağı","caption":"Kargın Dağı","credit":"Wild horses1 (cropped).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kessab30.jpg","alt":"Kargın Dağı","caption":"Kargın Dağı","credit":"Kessab30","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karg%C4%B1n%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31517215","tip":"genel"}]
 description: "Kayseri'nin görkemli dağlarından biri olan Kargın Dağı, 1200 hektarlık yeşil cenneti ile doğa severleri bekliyor."
 keywords: ["Kargın Dağı","Kayseri","Dağ","Doğa","Turizm","Gezi","Trekking","Kayseri Turistik Yerler","Dağcılık"]

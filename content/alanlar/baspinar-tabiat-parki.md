@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Yürüyüş","Doğa gözlemi","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"Başpınar Tabiat Parkı","caption":"Başpınar Tabiat Parkı","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg/960px-Photographers_expand_horizons_in_2010_Army_Digital_Photography_Contest_110311_%285546843221%29.jpg","alt":"Başpınar Tabiat Parkı","caption":"Başpınar Tabiat Parkı","credit":"Photographers expand horizons in 2010 Army Digital Photography Contest 110311 (5546843221)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ba%C5%9Fp%C4%B1nar%20Tabiat%20Park%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q48780846","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cenneti, 140 hektarlık yeşil alanıyla ziyaretçilerini bekliyor."
 keywords: ["Başpınar Tabiat Parkı","İç Anadolu Bölgesi","tabiat parkları","yeşil alanlar","doğa turizmi","çevre","ekosistem","flora","fauna"]

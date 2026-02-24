@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "4-6 saat"
 aktiviteler: ["doğa yürüyüşü","piknik","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg/960px-Mehmet_TENG%C4%B0Z%60in_Bah%C3%A7esi_-_panoramio.jpg","alt":"Küllük İni","caption":"Küllük İni","credit":"Mehmet TENGİZ`in Bahçesi - panoramio.jpg","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/4/45/2020_February_23_0553_Iran-Turkey_border_region_earthquake_intensity.jpg","alt":"Küllük İni","caption":"Küllük İni","credit":"2020 February 23 0553 Iran-Turkey border region earthquake intensity","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C3%BCll%C3%BCk%20%C4%B0ni","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q49319403","tip":"genel"}]
 description: "Mersin'de yer alan Küllük İni, 1200 hektarlık bir yeşil cennet, jeolojik oluşumlarıyla dikkat çeker."
 keywords: ["Küllük İni","Mersin","Jeopark","Doğa Alanı","Turizm","Mersin Turistik Yerler","Jeolojik Oluşumlar","Yeşil Alanlar","Doğa Harikaları"]

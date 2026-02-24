@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotografcılık","çevre gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Malatya_turgut_ozal_nature_park_view.jpg/960px-Malatya_turgut_ozal_nature_park_view.jpg","alt":"Sitti Zeynep Kümbeti","caption":"Sitti Zeynep Kümbeti","credit":"Malatya turgut ozal nature park view.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg/960px-Down_by_the_sea_-_Flickr_-_faktor1komma5.jpg","alt":"Sitti Zeynep Kümbeti","caption":"Sitti Zeynep Kümbeti","credit":"Down by the sea - Flickr - faktor1komma5","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Sitti%20Zeynep%20K%C3%BCmbeti","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582843","tip":"genel"}]
 description: "Doğu Anadolu'nun tarihi ve doğal güzelliklerini bir arada sunan Sitti Zeynep Kümbeti, 140 hektarlık büyüklüğüyle dikkat çekiyor."
 keywords: ["Sitti Zeynep Kümbeti","Battalgazi","Malatya","Doğu Anadolu Bölgesi","tarih","doğa","gezi","kültür"]

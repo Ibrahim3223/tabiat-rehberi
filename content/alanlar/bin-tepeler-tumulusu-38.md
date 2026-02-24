@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Tarihi ve kültürel zenginlikleri keşfetmek","Doğa yürüyüşü","Fotoğraf çekmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach_view_-_panoramio_%281%29.jpg/960px-Beach_view_-_panoramio_%281%29.jpg","alt":"Bin Tepeler Tümülüsü 38","caption":"Bin Tepeler Tümülüsü 38","credit":"Beach view - panoramio (1)","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Karaburun_-_panoramio.jpg/960px-Karaburun_-_panoramio.jpg","alt":"Bin Tepeler Tümülüsü 38","caption":"Bin Tepeler Tümülüsü 38","credit":"Karaburun - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2038","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728344","tip":"genel"}]
 description: "Salihli, Manisa'da bulunan 38 numaralı tümülüs, Ege Bölgesi'nin tarihi ve kültürel zenginliklerini sunuyor."
 keywords: ["Bin Tepeler","Tümülüs","Salihli","Manisa","Ege Bölgesi","tarih","kültür","gezi","turizm"]

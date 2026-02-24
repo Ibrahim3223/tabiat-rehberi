@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "birkaç saat"
 aktiviteler: ["yürüyüş","keşif","doğa fotoğrafçılığı","picnic"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Parmak Tepesi","caption":"Parmak Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ida_2021-08-29_1320Z.jpg/960px-Ida_2021-08-29_1320Z.jpg","alt":"Parmak Tepesi","caption":"Parmak Tepesi","credit":"Ida 2021-08-29 1320Z","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Parmak%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31388546","tip":"genel"}]
 description: "Rize'nin doğal güzelliklerini keşfedin, Karadeniz Bölgesi'nin önemli noktalarından biri"
 keywords: ["Rize","Karadeniz Bölgesi","Parmak Tepesi","doğa","gezi","turizm","coğrafya","flora","fauna"]

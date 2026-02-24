@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["doğa yürüyüşü","bitki gözlemi","hayvan gözlemi","fotografçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"HIZIRİLYAS_TEPESİ_TP","caption":"HIZIRİLYAS_TEPESİ_TP","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"HIZIRİLYAS_TEPESİ_TP","caption":"HIZIRİLYAS_TEPESİ_TP","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/HIZIR%C4%B0LYAS_TEPES%C4%B0_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108229007","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nde yer alan HIZIRİLYAS_TEPESİ_TP, 140 hektarlık yeşil alanı ve zengin fauna çeşitliliği ile dikkat çekiyor."
 keywords: ["HIZIRİLYAS_TEPESİ_TP","İç Anadolu Bölgesi","milli park","doğa","flora","fauna","gezi","turizm"]

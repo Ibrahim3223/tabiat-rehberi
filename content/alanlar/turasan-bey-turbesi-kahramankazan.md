@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","kültür turu","doğa yürüyüşü","fotografi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amasra_111.JPG/960px-Amasra_111.JPG","alt":"Turasan Bey Türbesi, Kahramankazan","caption":"Turasan Bey Türbesi, Kahramankazan","credit":"Amasra 111","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/%40_babaylon_beach_%28ekim_2009%29_-_panoramio.jpg/960px-%40_babaylon_beach_%28ekim_2009%29_-_panoramio.jpg","alt":"Turasan Bey Türbesi, Kahramankazan","caption":"Turasan Bey Türbesi, Kahramankazan","credit":"@ babaylon beach (ekim 2009) - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Turasan%20Bey%20T%C3%BCrbesi%2C%20Kahramankazan","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q135582373","tip":"genel"}]
 description: "Ankara'nın Kahramankazan ilçesinde yer alan tarihi Turasan Bey Türbesi, ziyaretçilerini bekliyor."
 keywords: ["Turasan Bey Türbesi","Kahramankazan","Ankara","tarih","türbe","gezi","kültür","mimari","tarihçe","coğrafya"]

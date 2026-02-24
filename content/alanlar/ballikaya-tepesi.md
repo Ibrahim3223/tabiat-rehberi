@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["yürüyüş","piknik","manzara izleme","flora ve fauna gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Ballıkaya Tepesi","caption":"Ballıkaya Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/South_room%2C_second_floor._View_looking_west._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_Runs%2C_Clover%2C_Halifax_County%2C_VA_HABS_VA%2C42-CLOV.V%2C2A-18.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Ballıkaya Tepesi","caption":"Ballıkaya Tepesi","credit":"South room, second floor. View looking west. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's Runs, Clover, Halifax County, VA HABS VA,42-CLOV.V,2A-18","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Ball%C4%B1kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386501","tip":"genel"}]
 description: "Hatay'da bulunan Ballıkaya Tepesi, Akdeniz Bölgesi'nin en önemli doğal güzelliklerinden biri"
 keywords: ["Ballıkaya Tepesi","Hatay","Akdeniz Bölgesi","doğa","tepe","gezi","turizm","coğrafya","flora","fauna"]

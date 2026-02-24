@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","flora ve fauna gözlemi","fotografcılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg/960px-Kylyos_Beach_on_the_Black_Sea%2C_Turkey_-_panoramio.jpg","alt":"Canytellis Kaya Mezarı ve Rölyefleri","caption":"Canytellis Kaya Mezarı ve Rölyefleri","credit":"Kylyos Beach on the Black Sea, Turkey - panoramio","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg/960px-MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg.png","alt":"Canytellis Kaya Mezarı ve Rölyefleri","caption":"Canytellis Kaya Mezarı ve Rölyefleri","credit":"MapaTopográficoDeAsiaMenor-Caria","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Canytellis%20Kaya%20Mezar%C4%B1%20ve%20R%C3%B6lyefleri","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728228","tip":"genel"}]
 description: "Mersin'in Erdemli ilçesinde yer alan tarihi ve doğal güzellikler"
 keywords: ["Canytellis","Kaya Mezarı","Rölyefler","Erdemli","Mersin","Akdeniz Bölgesi","tarih","doğa"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "5-7 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vihorlat_%28v_zime%29_046.jpg/960px-Vihorlat_%28v_zime%29_046.jpg","alt":"Kumpınar Tepe","caption":"Kumpınar Tepe","credit":"Vihorlat (v zime) 046.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Kessab30.jpg","alt":"Kumpınar Tepe","caption":"Kumpınar Tepe","credit":"Kessab30","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Kump%C4%B1nar%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31512194","tip":"genel"}]
 description: "Manisa'da yer alan Kumpınar Tepe, 1200 metre yüksekliğiyle bölgenin önemli dağlarından biri. Doğal güzellikleri ve trekking rotalarıyla dikkat çekiyor."
 keywords: ["Kumpınar Tepe","Manisa","Dağ","Trekking","Doğa","Manisa dağları","Kumpınar Tepe trekking","Manisa turizm","Kumpınar Tepe yüksekliği"]

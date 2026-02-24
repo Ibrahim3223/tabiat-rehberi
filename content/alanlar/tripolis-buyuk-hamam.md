@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Doğa Yürüyüşü","Fotoğraf Çekimi","Piknik","Doğa Gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amasra_112.JPG/960px-Amasra_112.JPG","alt":"Tripolis Büyük Hamam","caption":"Tripolis Büyük Hamam","credit":"Amasra 112","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pirlanta_beach_%40_october_2009_01_-_panoramio.jpg/960px-Pirlanta_beach_%40_october_2009_01_-_panoramio.jpg","alt":"Tripolis Büyük Hamam","caption":"Tripolis Büyük Hamam","credit":"Pirlanta beach @ october 2009 01 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Tripolis%20B%C3%BCy%C3%BCk%20Hamam","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131739010","tip":"genel"}]
 description: "Ege Bölgesi'nin gizli cenneti, Buldan'da bulunan Tripolis Büyük Hamam, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Tripolis","Büyük Hamam","Buldan","Denizli","Ege Bölgesi","Yeşil Alan","Doğa","Gezi","Tarih"]

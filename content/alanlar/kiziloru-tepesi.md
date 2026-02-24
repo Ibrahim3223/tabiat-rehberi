@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","tarihî alan gezisi","flora ve fauna gözlemleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/G%C3%BCver_Canyon_Scene%28Antalya%29.jpg/960px-G%C3%BCver_Canyon_Scene%28Antalya%29.jpg","alt":"Kızılörü Tepesi","caption":"Kızılörü Tepesi","credit":"Güver Canyon Scene(Antalya).jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ida_Flooding_%2815%29.jpg/960px-Ida_Flooding_%2815%29.jpg","alt":"Kızılörü Tepesi","caption":"Kızılörü Tepesi","credit":"Ida Flooding (15)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%C3%B6r%C3%BC%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q32211305","tip":"genel"}]
 description: "Antalya'nın doğal güzellikleri arasında yer alan Kızılörü Tepesi, ziyaretçiler için bir çekim merkezi."
 keywords: ["Antalya","Kızılörü Tepesi","doğal güzellik","tepe","manzara","gezi","turizm","Akdeniz Bölgesi","coğrafya"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","manzara izleme","fotografçılık","tarihi kalıntıları ziyaret","yerel kültürü keşfetme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Siverek.jpg/960px-Siverek.jpg","alt":"Karakız Dağı","caption":"Karakız Dağı","credit":"Siverek.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hasan_Bo%C4%9Fuldu.jpg/960px-Hasan_Bo%C4%9Fuldu.jpg","alt":"Karakız Dağı","caption":"Karakız Dağı","credit":"Hasan Boğuldu","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karak%C4%B1z%20Da%C4%9F%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386005","tip":"genel"}]
 description: "Şanlıurfa'nın güneydoğusunda yer alan Karakız Dağı, 140 hektarlık yeşil alanıyla yaklaşık 200 futbol sahası büyüklüğünde"
 keywords: ["Karakız Dağı","Şanlıurfa","Güneydoğu Anadolu Bölgesi","tepe","dağ","doğa","gezi","turizm","coğrafya"]

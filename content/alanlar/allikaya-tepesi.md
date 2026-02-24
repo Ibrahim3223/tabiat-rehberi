@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","fotoğrafçılık","tarih gezisi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/G%C3%B6lba%C5%9F%C4%B1%2Cbursa_-_panoramio.jpg/960px-G%C3%B6lba%C5%9F%C4%B1%2Cbursa_-_panoramio.jpg","alt":"Allıkaya Tepesi","caption":"Allıkaya Tepesi","credit":"Gölbaşı,bursa - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lake_S%C3%BCnnet_in_the_fall_02.jpg/960px-Lake_S%C3%BCnnet_in_the_fall_02.jpg","alt":"Allıkaya Tepesi","caption":"Allıkaya Tepesi","credit":"Lake Sünnet in the fall 02","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/All%C4%B1kaya%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31532186","tip":"genel"}]
 description: "Bursa'nın doğal güzelliklerinden biri olan Allıkaya Tepesi, Marmara Bölgesi'nin önemli noktalarından."
 keywords: ["Allıkaya Tepesi","Bursa","Marmara Bölgesi","doğa","tepe","gezi","turizm"]

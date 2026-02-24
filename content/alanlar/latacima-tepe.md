@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "Yarım gün"
 aktiviteler: ["Gezi","Tarih gezisi","Doğa yürüyüşü","Fotoğrafçılık"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bahar_%282599760344%29.jpg/960px-Bahar_%282599760344%29.jpg","alt":"Latacima Tepe","caption":"Latacima Tepe","credit":"Bahar (2599760344)","license":"CC BY-SA 2.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ida_Flooding_%285%29.jpg/960px-Ida_Flooding_%285%29.jpg","alt":"Latacima Tepe","caption":"Latacima Tepe","credit":"Ida Flooding (5)","license":"CC BY 2.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Latacima%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31386863","tip":"genel"}]
 description: "Mardin'in tarihi ve doğal güzelliklerinin buluştuğu Latacima Tepe, 140 hektarlık alanı ile yaklaşık 200 futbol sahası büyüklüğünde bir yeşil alan sunar."
 keywords: ["Mardin","Güneydoğu Anadolu Bölgesi","Latacima Tepe","tarih","doğa","gezi","turizm"]

@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["yürüyüş","piknik","doğa","tarihî kalıntıları gezmek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/AKDA%C4%9E_2.jpg/960px-AKDA%C4%9E_2.jpg","alt":"EĞİL PEYGAMBERLER_TP","caption":"EĞİL PEYGAMBERLER_TP","credit":"AKDAĞ 2.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg/960px-K%C3%BCt%C3%BCk_%C3%87e%C5%9Fme%2C_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2015.jpg","alt":"EĞİL PEYGAMBERLER_TP","caption":"EĞİL PEYGAMBERLER_TP","credit":"Kütük Çeşme, Gölcük Tabiat Parkı 2015","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/E%C4%9E%C4%B0L%20PEYGAMBERLER_TP","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228784","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin gizli cevheri, 140 hektarlık bir yeşil alan."
 keywords: ["İç Anadolu Bölgesi","doğa alanları","milli park","yeşil alan","gezi noktaları","tarihçe","coğrafya","flora","fauna","ziyaret"]

@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Gezi","Doğa yürüyüşü","Fotografcılık","Tarihçe araştırması"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/5/53/The_joy_of_nature.JPG","alt":"Karadeniz Türbesi","caption":"Karadeniz Türbesi","credit":"The joy of nature","license":"CC BY-SA 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg/960px-Mediterranean.%5E%C2%A9Abdullah_Kiyga_-_panoramio.jpg","alt":"Karadeniz Türbesi","caption":"Karadeniz Türbesi","credit":"Mediterranean.^©Abdullah Kiyga - panoramio","license":"CC BY 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Karadeniz%20T%C3%BCrbesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131391736","tip":"genel"}]
 description: "Güneydoğu Anadolu Bölgesi'nin gözde mekanlarından biri olan Karadeniz Türbesi, tarihi ve doğal güzelliği ile ziyaretçilerini bekliyor."
 keywords: ["Karadeniz Türbesi","Sur","Diyarbakır","Güneydoğu Anadolu Bölgesi","tarihi mekan","doğal güzellik","ziyaretçi","gezi","tarihçe"]

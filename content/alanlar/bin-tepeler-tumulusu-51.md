@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["tarihî belge incelemesi","doğa yürüyüşü","fotografcılık","piknik"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Efes_parasol_advertisement.jpg/960px-Efes_parasol_advertisement.jpg","alt":"Bin Tepeler Tümülüsü 51","caption":"Bin Tepeler Tümülüsü 51","credit":"Efes parasol advertisement","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Elmasburnu2.jpg/960px-Elmasburnu2.jpg","alt":"Bin Tepeler Tümülüsü 51","caption":"Bin Tepeler Tümülüsü 51","credit":"Elmasburnu2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Bin%20Tepeler%20T%C3%BCm%C3%BCl%C3%BCs%C3%BC%2051","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q134728320","tip":"genel"}]
 description: "Ege Bölgesi'nin zengin tarihini keşfedin. Bin Tepeler Tümülüsü 51, Salihli, Manisa'da yer alan tarihi bir mekan."
 keywords: ["Bin Tepeler Tümülüsü 51","Salihli","Manisa","Ege Bölgesi","tarih","tümülüs","arkeoloji","gezi","kültür"]

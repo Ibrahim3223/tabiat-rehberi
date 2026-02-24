@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Müze gezisi","Bahçe turu","Sanat eserleri incelemesi","Tarih keşfi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tea_and_Istanbul_-_panoramio.jpg/960px-Tea_and_Istanbul_-_panoramio.jpg","alt":"Hilye-i Şerif ve Tespih Müzesi","caption":"Hilye-i Şerif ve Tespih Müzesi","credit":"Tea and Istanbul - panoramio.jpg","license":"CC BY 3.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cloud_shadows_at_the_mountain.jpg/960px-Cloud_shadows_at_the_mountain.jpg","alt":"Hilye-i Şerif ve Tespih Müzesi","caption":"Hilye-i Şerif ve Tespih Müzesi","credit":"Cloud shadows at the mountain","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Hilye-i%20%C5%9Eerif%20ve%20Tespih%20M%C3%BCzesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q132949494","tip":"genel"}]
 description: "İstanbul'un merkezinde, Marmara Bölgesi'nde yer alan Hilye-i Şerif ve Tespih Müzesi, 140 hektarlık yeşil alanıyla dikkat çekiyor."
 keywords: ["Hilye-i Şerif","Tespih Müzesi","İstanbul","Marmara Bölgesi","Müze","Yeşil Alan","Tarih","Sanat","Kültür"]

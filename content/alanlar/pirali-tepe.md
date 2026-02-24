@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["tarih gezisi","doğa yürüyüşü","fotoğraf çekimi","yaban hayatı izleme"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Samsat_district_Turkey_%282%29.jpg/960px-Samsat_district_Turkey_%282%29.jpg","alt":"Pirali Tepe","caption":"Pirali Tepe","credit":"Samsat district Turkey (2).jpg","license":"CC BY 3.0 pl"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/South_room_first_floor._View_looking_southwest._South_addition_visible_through_doorway._-_Fort_Hill_Farm%2C_Mansion%2C_West_of_Staunton_%28Roanoke%29_River_between_Turkey_and_Caesar%27s_HABS_VA%2C42-CLOV.V%2C2A-13.tif/lossy-page1-900px-thumbnail.tif.jpg","alt":"Pirali Tepe","caption":"Pirali Tepe","credit":"South room first floor. View looking southwest. South addition visible through doorway. - Fort Hill Farm, Mansion, West of Staunton (Roanoke) River between Turkey and Caesar's HABS VA,42-CLOV.V,2A-13","license":"Public domain"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Pirali%20Tepe","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31391064","tip":"genel"}]
 description: "Adıyaman'ın tarihi ve doğal güzelliklerinin birleştiği bir nokta olan Pirali Tepe, ziyaretçilerini büyülemektedir."
 keywords: ["Pirali Tepe","Adıyaman","Güneydoğu Anadolu Bölgesi","tarih","doğa","gezi","turizm"]

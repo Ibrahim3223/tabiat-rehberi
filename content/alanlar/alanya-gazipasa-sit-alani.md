@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "1-2 gün"
 aktiviteler: ["Doğa yürüyüşleri","Fotoğrafçılık","Bitki ve hayvan gözlemciliği"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/AKDA%C4%9E_3.jpg/960px-AKDA%C4%9E_3.jpg","alt":"Alanya Gazipaşa Sit Alanı","caption":"Alanya Gazipaşa Sit Alanı","credit":"AKDAĞ 3.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg/960px-Bilecik%2C_K%C3%BC%C3%A7%C3%BCkelmal%C4%B1_tabiat_park%C4%B1_g%C3%B6leti.jpg","alt":"Alanya Gazipaşa Sit Alanı","caption":"Alanya Gazipaşa Sit Alanı","credit":"Bilecik, Küçükelmalı tabiat parkı göleti","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Alanya%20Gazipa%C5%9Fa%20Sit%20Alan%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108226638","tip":"genel"}]
 description: "Alanya Gazipaşa Sit Alanı, İç Anadolu Bölgesi'nde yer alan 140 hektarlık bir doğal alan. Bu bölgenin benzersiz doğası, ziyaretçilerini kendine çekiyor."
 keywords: ["Alanya Gazipaşa","Sit Alanı","İç Anadolu Bölgesi","Doğal Alan","Flora","Fauna"]

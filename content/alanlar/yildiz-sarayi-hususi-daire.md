@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["Gezinti","Fotografcılık","Tarih araştırmaları"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Podima2.JPG","alt":"Yıldız Sarayı Hususi Daire","caption":"Yıldız Sarayı Hususi Daire","credit":"Podima2.JPG","license":"CC BY-SA 2.5"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg/960px-2023-11-04_Choban_beach_near_Ka%C5%9F_1.jpg","alt":"Yıldız Sarayı Hususi Daire","caption":"Yıldız Sarayı Hususi Daire","credit":"2023-11-04 Choban beach near Kaş 1","license":"CC BY 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Y%C4%B1ld%C4%B1z%20Saray%C4%B1%20Hususi%20Daire","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q133683979","tip":"genel"}]
 description: "İstanbul'un tarihi ve doğal güzellikleri arasında yer alan Yıldız Sarayı Hususi Daire, Marmara Bölgesi'nde Beşiktaş'ta bulunmaktadır."
 keywords: ["Yıldız Sarayı","Hususi Daire","Beşiktaş","İstanbul","Marmara Bölgesi","Tarih","Doğa","Turizm"]

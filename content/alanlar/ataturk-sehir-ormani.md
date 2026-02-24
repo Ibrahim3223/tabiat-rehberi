@@ -12,7 +12,7 @@ ziyaret:
   tahmini_sure: "tüm gün"
 aktiviteler: ["yürüyüş","bisiklet turu","piknik","doğa fotoğrafçılığı"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/AKDA%C4%9E_4.jpg/960px-AKDA%C4%9E_4.jpg","alt":"ATATÜRK ŞEHİR ORMANI","caption":"ATATÜRK ŞEHİR ORMANI","credit":"AKDAĞ 4.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg/960px-Bolu-G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1_2.jpg","alt":"ATATÜRK ŞEHİR ORMANI","caption":"ATATÜRK ŞEHİR ORMANI","credit":"Bolu-Gölcük Tabiat Parkı 2","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/ATAT%C3%9CRK%20%C5%9EEH%C4%B0R%20ORMANI","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q108228761","tip":"genel"}]
 description: "İç Anadolu Bölgesi'nin en büyük şehir ormanlarından biri olan Atatürk Şehir Ormanı, a severlerin uğrak noktasıdır."
 keywords: ["Atatürk Şehir Ormanı","İç Anadolu Bölgesi","şehir ormanları","doğa","orman","gezi","turizm","çevre"]

@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "2-3 saat"
 aktiviteler: ["doğa yürüyüşü","spor","oyun","resim"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg/960px-The_Landscape_of_%C3%87orum_S%C4%B1kl%C4%B1k.jpg","alt":"Çömlekçi Tepesi","caption":"Çömlekçi Tepesi","credit":"The Landscape of Çorum Sıklık.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tayal%C4%B1_%28167037823%29.jpeg/960px-Tayal%C4%B1_%28167037823%29.jpeg","alt":"Çömlekçi Tepesi","caption":"Çömlekçi Tepesi","credit":"Tayalı (167037823)","license":"CC0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/%C3%87%C3%B6mlek%C3%A7i%20Tepesi","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q34819918","tip":"genel"}]
 description: "Karadeniz Bölgesi'nin gizli k incisi, Çorum'un tarihi ve doğal güzellikleri"
 keywords: ["Çömlekçi Tepesi","Çorum","Karadeniz Bölgesi","doğa","tarih","gezi","turizm","tepe","manzara","çevre"]

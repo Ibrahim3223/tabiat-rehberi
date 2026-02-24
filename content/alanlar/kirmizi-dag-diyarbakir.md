@@ -18,7 +18,7 @@ ziyaret:
   tahmini_sure: "6-8 saat"
 aktiviteler: ["dağcılık","trekking","kamp","fotoğrafçılık","kuş gözlemi"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hezro_amed.jpg/960px-Hezro_amed.jpg","alt":"Kırmızı Dağ","caption":"Kırmızı Dağ","credit":"Hezro amed.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg/960px-Ka%C3%A7kar_Alt%C4%B1parmak_Da%C4%9F%C4%B1_%28Altiparmak_Mountain%29_-_Rize.jpg","alt":"Kırmızı Dağ","caption":"Kırmızı Dağ","credit":"Kaçkar Altıparmak Dağı (Altiparmak Mountain) - Rize","license":"CC BY-SA 4.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1%20Da%C4%9F%20(Diyarbak%C4%B1r)","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q31514719","tip":"genel"}]
 description: "Diyarbakır'da yer alan Kırmızı Dağ, bölgenin önemli coğrafi oluşumlarından biri. Doğal güzellikleri ve tarihi değerleriyle dikkat çekiyor."
 keywords: ["Kırmızı Dağ","Diyarbakır","Dağ","Doğa","Coğrafya","Türkiye","Gezi","Seyahat","Turizm"]

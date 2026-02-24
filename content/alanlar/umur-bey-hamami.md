@@ -19,7 +19,7 @@ ziyaret:
   tahmini_sure: "1-2 saat"
 aktiviteler: ["Hamamın tarihi geçmişi hakkında bilgi edinmek","Hamamın mimari özellikleri hakkında bilgi edinmek","Hamamın çevresindeki flora ve fauna hakkında bilgi edinmek","Hamamın yakınındaki restoran ve kafelerde yemek"]
 images:
-  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Antalya_Serik_Plaj%C4%B1.jpg/960px-Antalya_Serik_Plaj%C4%B1.jpg","alt":"Umur Bey Hamamı","caption":"Umur Bey Hamamı","credit":"Antalya Serik Plajı.jpg","license":"CC BY-SA 4.0"}
+  hero: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Pirlanta_beach%2C_without_waves_october_2009_2_-_panoramio.jpg/960px-Pirlanta_beach%2C_without_waves_october_2009_2_-_panoramio.jpg","alt":"Umur Bey Hamamı","caption":"Umur Bey Hamamı","credit":"Pirlanta beach, without waves october 2009 2 - panoramio","license":"CC BY-SA 3.0"}
 kaynaklar: [{"title":"tr.wikipedia.org","url":"https://tr.wikipedia.org/wiki/Umur%20Bey%20Hamam%C4%B1","tip":"genel"},{"title":"www.wikidata.org","url":"http://www.wikidata.org/entity/Q131738813","tip":"genel"}]
 description: "Afyonkarahisar'ın merkezinde yer alan Umur Bey Hamamı, tarihi ve kültürel öneme sahip bir yapıdır."
 keywords: ["Umur Bey Hamamı","Afyonkarahisar","tarihi hamam","kültürel miras","gezi","turizm","Afyonkarahisar merkezinde","tarih","mimari"]
